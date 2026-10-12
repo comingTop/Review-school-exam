@@ -1719,13 +1719,12 @@ BAIRD, C. Química Ambiental. Bookmam, 2005.
 Um exemplo de pesticida organofosforado Tipo B , que
 apresenta grupo etoxi em sua fórmula estrutural, está
 representado em:`,
-    images: ['/enem/2010/images/enem_2010_d1_q80_A.jpg', '/enem/2010/images/enem_2010_d1_q80_B.jpg', '/enem/2010/images/enem_2010_d1_q80_C.jpg', '/enem/2010/images/enem_2010_d1_q80_D.jpg', '/enem/2010/images/enem_2010_d1_q80_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2010/images/enem_2010_d1_q80_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2010/images/enem_2010_d1_q80_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2010/images/enem_2010_d1_q80_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2010/images/enem_2010_d1_q80_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2010/images/enem_2010_d1_q80_E.jpg` },
     ],
     correct: 'E',
     explanation: `Nos organofosforados do Tipo B, o oxigênio da dupla ligação com o fósforo (P=O) é substituído por enxofre, resultando em P=S. O grupo etoxi é -O-CH2CH3. A estrutura E apresenta justamente a ligação P=S e dois grupos etoxi (OCH2CH3) ligados ao fósforo, satisfazendo as duas condições do enunciado. A estrutura A possui P=O, e as demais não combinam a ligação P=S com grupos etoxi, por isso E é a correta.`,
@@ -1799,13 +1798,12 @@ atípico
 desse
 metamaterial, qual é a figura que representa a refração
 da luz ao passar do ar para esse meio?`,
-    images: ['/enem/2010/images/enem_2010_d1_q84_A.jpg', '/enem/2010/images/enem_2010_d1_q84_B.jpg', '/enem/2010/images/enem_2010_d1_q84_C.jpg', '/enem/2010/images/enem_2010_d1_q84_D.jpg', '/enem/2010/images/enem_2010_d1_q84_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2010/images/enem_2010_d1_q84_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2010/images/enem_2010_d1_q84_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2010/images/enem_2010_d1_q84_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2010/images/enem_2010_d1_q84_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2010/images/enem_2010_d1_q84_E.jpg` },
     ],
     correct: 'D',
     explanation: `Em meios comuns (índice de refração positivo), ao passar do ar para o meio mais refringente, o raio refratado se aproxima da normal, porém permanece do lado oposto da normal em relação ao raio incidente. No metamaterial de índice de refração negativo, o raio refratado sai para o mesmo lado da normal que o raio incidente (refração negativa), comportamento atípico. A figura que representa o raio refratado desviado para o mesmo lado da normal que o incidente é a D.`,
