@@ -1695,7 +1695,6 @@ Considerando que o modelo de maior potência da versão 220 V da torneira suprem
     year: 2010,
     day: 1,
     text: `As mobilizações para promover um planeta melhor para as futuras gerações são cada vez mais frequentes. A maior parte dos meios de transporte de massa é atualmente movida pela queima de um combustível fóssil. A título de exemplificação do ônus causado por essa prática, basta saber que um carro produz, em média, cerca de 200 g de dióxido de carbono por km percorrido. Revista Aquecimento Global. Ano 2, nº 8. Publicação do Instituto Brasileiro de Cultura Ltda. Um dos principais constituintes da gasolina é o octano (C₈H₁₈). Por meio da combustão do octano é possível a liberação de energia, permitindo que o carro entre em movimento. A equação que representa a reação química desse processo demonstra que`,
-    images: ['/enem/2010/images/enem_2010_d1_q79.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `no processo há liberação de oxigênio, sob a forma de O₂.` },
       { id: 'B', type: 'text', value: `o coeficiente estequiométrico para a água é de 8 para 1 do octano.` },
