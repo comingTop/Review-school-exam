@@ -1,0 +1,42 @@
+# Validator baseline — 2026-10-12
+
+Schema/tag/explanation problems per file (images excluded). This is the scripted gate's starting point; text-fidelity, gabarito correctness and image crops are verified separately (visual QA + manual comparison).
+
+```
+provas/2009/enem_2009_d1.tsx: 53 problem(s)
+provas/2009/enem_2009_d2.tsx: 79 problem(s)
+provas/2010/enem_2010_d1.tsx: 246 problem(s)
+provas/2010/enem_2010_d2.tsx: 84 problem(s)
+provas/2011/enem_2011_d1.tsx: 54 problem(s)
+provas/2011/enem_2011_d2.tsx: 74 problem(s)
+provas/2012/enem_2012_d1.tsx: 78 problem(s)
+provas/2012/enem_2012_d2.tsx: 69 problem(s)
+provas/2013/enem_2013_d1.tsx: 51 problem(s)
+provas/2013/enem_2013_d2.tsx: 63 problem(s)
+provas/2014/enem_2014_d1.tsx: 47 problem(s)
+provas/2014/enem_2014_d2.tsx: 49 problem(s)
+provas/2015/enem_2015_d1.tsx: 41 problem(s)
+provas/2015/enem_2015_d2.tsx: 58 problem(s)
+provas/2016/enem_2016_d1.tsx: 51 problem(s)
+provas/2016/enem_2016_d2.tsx: 73 problem(s)
+provas/2017/enem_2017_d1.tsx: 48 problem(s)
+provas/2017/enem_2017_d2.tsx: 50 problem(s)
+provas/2018/enem_2018_d1.tsx: 67 problem(s)
+provas/2018/enem_2018_d2.tsx: 94 problem(s)
+provas/2019/enem_2019_d1.tsx: 63 problem(s)
+provas/2019/enem_2019_d2.tsx: 102 problem(s)
+provas/2020/enem_2020_d1.tsx: 75 problem(s)
+provas/2020/enem_2020_d2.tsx: 68 problem(s)
+provas/2021/enem_2021_d1.tsx: 75 problem(s)
+provas/2021/enem_2021_d2.tsx: 89 problem(s)
+provas/2022/enem_2022_d1.tsx: 120 problem(s)
+provas/2022/enem_2022_d2.tsx: 29 problem(s)
+provas/2023/enem_2023_d1.tsx: 89 problem(s)
+provas/2023/enem_2023_d2.tsx: 53 problem(s)
+provas/2024/enem_2024_d1.tsx: 95 problem(s)
+provas/2024/enem_2024_d2.tsx: 48 problem(s)
+provas/2025/enem_2025_d1.tsx: 88 problem(s)
+provas/2025/enem_2025_d2.tsx: 74 problem(s)
+
+TOTAL: 2497 problem(s) across 34 file(s)
+```
