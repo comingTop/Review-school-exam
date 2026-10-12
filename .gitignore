@@ -3,3 +3,4 @@ harness/node_modules/
 *.log
 .DS_Store
 __MACOSX/
+package-lock.json
