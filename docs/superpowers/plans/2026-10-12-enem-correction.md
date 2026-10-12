@@ -296,9 +296,15 @@ pdftotext -layout -enc UTF-8 "$in" "$out"
 
 ---
 
-## Phase 1 — Source acquisition
+## Phase 1 — Source acquisition  ✅ DONE (2026-10-12)
 
-### Task 9: Acquire all official INEP provas + gabaritos
+**Outcome:** `sources/` is a complete tree — 17 years × 4 files (prova + gabarito, both days), all **Azul**, all with valid text layers (no OCR needed). Manifest with URLs + sha256 at `sources/SOURCES.md`. Corrected finding: **only 2010 was genuinely missing** (downloaded from the USP `fep.if.usp.br` mirror of the official INEP booklets); every other year already existed under `enem v/` (some gabaritos were just misnamed).
+
+**Two caveats for the pilot/production:**
+- **2010 gabarito is a marked booklet** (correct answers circled in green), NOT a parseable answer table. `tools/gabarito.ts` cannot extract 2010 — read 2010 answers **visually** (render gabarito pages / inspect) instead. All other years have clean tables the parser handles.
+- **2009 gabaritos are combined all-caderno sheets** (ALLCAD) — use the Azul column.
+
+### Task 9: Acquire all official INEP provas + gabaritos  ✅
 
 **Files:**
 - Create: `sources/SOURCES.md` (table: year, day, prova URL, gabarito URL, caderno color archived, sha256)
