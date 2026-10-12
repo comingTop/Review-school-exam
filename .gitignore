@@ -4,3 +4,8 @@ harness/node_modules/
 .DS_Store
 __MACOSX/
 package-lock.json
+# large binary source/asset trees — provenance tracked in sources/SOURCES.md
+enem v/
+sources/**/*.pdf
+images_out/**/*.png
+images_out/**/*.jpg
