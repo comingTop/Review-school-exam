@@ -366,6 +366,7 @@ um livro.` },
   },
   {
     id: 101,
+    annulled: true,
     exam: 'enem',
     year: 2009,
     day: 2,
