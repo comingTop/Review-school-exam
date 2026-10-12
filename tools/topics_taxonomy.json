@@ -1,0 +1,17 @@
+{
+  "_note": "Canonical subject->topics vocabulary supplied by the client (Marcos) for ENEM. Topics assigned to a question MUST come from the list for that subject. 'Questões aleatórias' is a PERMANENT trailing tag present in EVERY question. There is no 'ch' subject — reassign 'ch' questions to a real subject.",
+  "subjects": {
+    "mat": ["Funções", "Geometria plana", "Geometria espacial", "Estatística e probabilidade", "Razão e proporção", "Porcentagem", "Equações e inequações", "Trigonometria", "Análise combinatória", "Progressões (PA e PG)", "Matemática financeira", "Matrizes e determinantes", "Questões aleatórias"],
+    "por": ["Interpretação de texto", "Gramática (sintaxe, morfologia, semântica)", "Literatura brasileira", "Gêneros textuais", "Figuras de linguagem", "Funções da linguagem", "Variação linguística", "Intertextualidade", "Redação (estrutura e argumentação)", "Questões aleatórias"],
+    "lit": ["Literatura brasileira", "Literatura portuguesa", "Escolas literárias", "Análise de obras", "Questões aleatórias"],
+    "ing": ["Interpretação de texto", "Vocabulário", "Gramática básica", "Tempos verbais", "Conectivos", "Pronomes", "Preposições", "Advérbios", "Questões aleatórias"],
+    "esp": ["Interpretação de texto", "Vocabulário", "Gramática básica", "Tempos verbais", "Conectivos", "Pronomes", "Preposições", "Advérbios", "Questões aleatórias"],
+    "his": ["Brasil Colônia", "Brasil Império", "Brasil República", "História Geral Antiga e Medieval", "História Moderna", "História Contemporânea", "Primeira e Segunda Guerra Mundial", "Guerra Fria", "Ditadura Militar no Brasil", "Escravidão e abolição", "Movimentos sociais", "Questões aleatórias"],
+    "geo": ["Geografia física (clima, relevo, hidrografia)", "Geopolítica", "Urbanização", "Globalização", "Meio ambiente e sustentabilidade", "Cartografia", "Demografia", "Agricultura e pecuária", "Indústria e comércio", "Energia e recursos naturais", "Conflitos internacionais", "Questões aleatórias"],
+    "fil": ["Filosofia Antiga (Sócrates, Platão, Aristóteles)", "Filosofia Medieval", "Filosofia Moderna (Descartes, Kant, Hume)", "Filosofia Contemporânea", "Ética e moral", "Política e Estado", "Teoria do conhecimento", "Lógica", "Estética", "Questões aleatórias"],
+    "bio": ["Ecologia", "Citologia", "Genética", "Fisiologia Humana", "Evolução", "Botânica", "Zoologia", "Biomas do Brasil", "Saúde pública & parasitologia (doenças, vetores, prevenção)", "Biotecnologia", "Histologia básica (tecidos – leitura de figura)", "Questões aleatórias"],
+    "fis": ["Eletrodinâmica", "Cinemática", "Dinâmica", "Termologia", "Óptica", "Hidrostática", "Ondulatória", "Trabalho, energia e potência", "Impulso e quantidade de movimento", "Termodinâmica", "Eletromagnetismo/Indução", "Gravitação", "Hidrodinâmica", "Física moderna", "Eletricidade", "Leis de Newton", "Questões aleatórias"],
+    "qui": ["Química Orgânica", "Físico-química", "Química Geral", "Química Ambiental", "Eletroquímica", "Questões aleatórias"],
+    "soc": ["Sociologia", "Cidadania e democracia", "Movimentos sociais", "Direitos humanos", "Desigualdade social", "Cultura e identidade", "Trabalho e economia", "Questões aleatórias"]
+  }
+}
