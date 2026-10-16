@@ -65,9 +65,16 @@ export function checkQuestion(q: QuizQuestion, taxonomy: Taxonomy): string[] {
 export function checkProva(qs: QuizQuestion[], taxonomy: Taxonomy): string[] {
   const problems: string[] = []
   qs.forEach((q) => problems.push(...checkQuestion(q, taxonomy)))
-  // id continuity (ids should be unique)
-  const ids = qs.map((q) => q.id)
-  const dupes = ids.filter((id, i) => ids.indexOf(id) !== i)
-  if (dupes.length) problems.push(`duplicate ids: ${[...new Set(dupes)].join(', ')}`)
+  // id uniqueness — EXCEPT língua-estrangeira variants, which intentionally share an id
+  // (the inglês + espanhol versions of a question have the same number, told apart by `language`).
+  const byId = new Map<number, QuizQuestion[]>()
+  for (const q of qs) (byId.get(q.id) ?? byId.set(q.id, []).get(q.id)!).push(q)
+  for (const [id, group] of byId) {
+    if (group.length === 1) continue
+    const langs = group.map((q) => q.language)
+    const allHaveLang = langs.every((l) => l === 'en' || l === 'es')
+    const distinct = new Set(langs).size === langs.length
+    if (!(allHaveLang && distinct)) problems.push(`duplicate id ${id}: only língua-estrangeira variants may share an id (each needs a distinct en/es language)`)
+  }
   return problems
 }
