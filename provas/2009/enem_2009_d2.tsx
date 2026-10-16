@@ -3292,19 +3292,7 @@ igual a`,
     text: `A vazão do rio Tietê, em São Paulo, constitui preocupação constante nos períodos chuvosos. Em alguns trechos, são construídas canaletas para controlar o fluxo de água. Uma dessas canaletas, cujo corte vertical determina a forma de um trapézio isósceles, tem as medidas especificadas na figura I. Neste caso, a vazão da 3 3 água é de 1.050 m /s. O cálculo da vazão, Q em m /s, envolve o produto da área A do setor transversal (por onde 2 passa a água), em m , pela velocidade da água no local, v, em m/s, ou seja, Q = Av. Planeja-se uma reforma na canaleta, com as dimensões especificadas na figura II, para evitar a ocorrência de enchentes. Disponível em: www2.uel.br. Na suposição de que a velocidade da água não se alterará, qual a vazão esperada para depois da reforma na canaleta?`,
     images: ['/enem/2009/images/enem_2009_d2_q169.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `vazão do rio Tietê, em São Paulo, constitui 
-preocupação constante nos períodos chuvosos. Em alguns 
-trechos, são construídas canaletas para controlar o fluxo 
-de água. Uma dessas canaletas, cujo corte vertical 
-determina a forma de um trapézio isósceles, tem as 
-medidas especificadas na figura I. Neste caso, a vazão da 
-água é de 1.050 m³/s. O cálculo da vazão, Q em m³/s,, 
-envolve o produto da área A do setor transversal (por onde 
-passa a água), em  m², pela velocidade da água no local, v, 
-em m/s, ou seja, Q = Av. 
-Planeja-se uma reforma na canaleta, com as 
-dimensões especificadas na figura II, para evitar a 
-ocorrência de enchentes.` },
+      { id: 'A', type: 'text', value: `90 m3/s.` },
       { id: 'B', type: 'text', value: `750 m3/s.` },
       { id: 'C', type: 'text', value: `1.050 m3/s.` },
       { id: 'D', type: 'text', value: `1.512 m3/s.` },
