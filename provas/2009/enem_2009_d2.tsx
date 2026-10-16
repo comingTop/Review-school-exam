@@ -19,13 +19,12 @@ São Paulo: Sudameris, 2003.
 Considerando a hipótese de Darcy Ribeiro de que há 
 vários Brasis, a opção em que a obra mostrada representa 
 a arte brasileira de origem negro-africana é:`,
-    images: ['/enem/2009/images/enem_2009_d2_q91_A.jpg', '/enem/2009/images/enem_2009_d2_q91_B.jpg', '/enem/2009/images/enem_2009_d2_q91_C.jpg', '/enem/2009/images/enem_2009_d2_q91_D.jpg', '/enem/2009/images/enem_2009_d2_q91_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2009/images/enem_2009_d2_q91_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2009/images/enem_2009_d2_q91_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2009/images/enem_2009_d2_q91_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2009/images/enem_2009_d2_q91_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2009/images/enem_2009_d2_q91_E.jpg` },
     ],
     correct: 'A',
     explanation: `Gabarito: A. A questão parte da hipótese de Darcy Ribeiro de que existem vários "Brasis" culturais e pede a obra que representa a matriz negro-africana. A alternativa A (Rubem Valentim) é correta porque o artista constrói sua obra a partir de signos geométricos inspirados nos símbolos e emblemas das religiões afro-brasileiras, remetendo diretamente à herança africana. As demais falham por representarem outras matrizes ou linguagens: o trabalho de Athos Bulcão (B) é abstração geométrica modernista, o de Gerchman (C) liga-se à arte urbana pop, o de Vasarely (D) é op-art europeia e o mosaico de Gougon (E) remete à tradição greco-romana, nenhum deles ancorado na cultura negro-africana.`,
@@ -592,7 +591,6 @@ Acesso em: 11 ago. 2009 (adaptado).
 Considerando-se o novo contexto social e econômico 
 aludido no texto apresentado, as novas tecnologias de 
 informação e comunicação`,
-    images: ['/enem/2009/images/enem_2009_d2_q106.jpg', '/enem/2009/images/enem_2009_d2_q106_1.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `desempenham importante papel, porque sem elas não 
 seria possível registrar os acontecimentos históricos.` },
@@ -3377,7 +3375,6 @@ que não tenham cinco números em comum, do que uma
 única aposta com nove dezenas, porque a probabilidade 
 de acertar a quina no segundo caso em relação ao 
 primeiro é, aproximadamente,`,
-    images: ['/enem/2009/images/enem_2009_d2_q171.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `2
 1

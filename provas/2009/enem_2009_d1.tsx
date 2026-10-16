@@ -876,13 +876,12 @@ a
 alternativa 
 que 
 corresponde ao observado em seres humanos é:`,
-    images: ['/enem/2009/images/enem_2009_d1_q21_A.jpg', '/enem/2009/images/enem_2009_d1_q21_B.jpg', '/enem/2009/images/enem_2009_d1_q21_C.jpg', '/enem/2009/images/enem_2009_d1_q21_D.jpg', '/enem/2009/images/enem_2009_d1_q21_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2009/images/enem_2009_d1_q21_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2009/images/enem_2009_d1_q21_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2009/images/enem_2009_d1_q21_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2009/images/enem_2009_d1_q21_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2009/images/enem_2009_d1_q21_E.jpg` },
     ],
     correct: 'C',
     explanation: `No ciclo de vida humano a meiose é gamética: o indivíduo adulto é diploide (2n) e sofre meiose apenas para formar os gametas haploides (n). A fecundação une dois gametas (n + n), restaurando o zigoto diploide (2n), que se multiplica por sucessivas mitoses até o adulto. O esquema que representa esse padrão — adulto 2n, meiose restrita à formação dos gametas e única fase haploide nos próprios gametas — é o da alternativa C.`,
@@ -1520,13 +1519,12 @@ rápida remoção quando do contato com a água.
 De acordo com as considerações do texto, qual das 
 moléculas apresentadas a seguir é a mais adequada para 
 funcionar como molécula ativa de protetores solares?`,
-    images: ['/enem/2009/images/enem_2009_d1_q36_A.jpg', '/enem/2009/images/enem_2009_d1_q36_B.jpg', '/enem/2009/images/enem_2009_d1_q36_C.jpg', '/enem/2009/images/enem_2009_d1_q36_D.jpg', '/enem/2009/images/enem_2009_d1_q36_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2009/images/enem_2009_d1_q36_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2009/images/enem_2009_d1_q36_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2009/images/enem_2009_d1_q36_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2009/images/enem_2009_d1_q36_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2009/images/enem_2009_d1_q36_E.jpg` },
     ],
     correct: 'E',
     explanation: `O texto exige duas propriedades: anéis aromáticos conjugados a grupos carbonila (alternância de ligações simples e duplas, capaz de absorver a radiação ultravioleta) e, em uma das extremidades, uma parte apolar (que reduz a solubilidade em água e dificulta a remoção pelo contato com ela). A estrutura que reúne simultaneamente o sistema aromático conjugado com carbonila e a cauda apolar é a da alternativa E, portanto a mais adequada como molécula ativa do protetor solar. As demais não apresentam ao mesmo tempo a conjugação adequada e a porção apolar.`,
@@ -3563,13 +3561,12 @@ histórico de ocupação do espaço geográfico.
 Tendo em vista determinada restrição climática, a figura 
 que representa o uso de tecnologia voltada para a 
 produção é:`,
-    images: ['/enem/2009/images/enem_2009_d1_q85_A.jpg', '/enem/2009/images/enem_2009_d1_q85_B.jpg', '/enem/2009/images/enem_2009_d1_q85_C.jpg', '/enem/2009/images/enem_2009_d1_q85_D.jpg', '/enem/2009/images/enem_2009_d1_q85_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2009/images/enem_2009_d1_q85_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2009/images/enem_2009_d1_q85_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2009/images/enem_2009_d1_q85_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2009/images/enem_2009_d1_q85_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2009/images/enem_2009_d1_q85_E.jpg` },
     ],
     correct: 'D',
     explanation: `O enunciado pede a figura que representa o uso de tecnologia voltada para a produção diante de uma restrição climática ligada à escassez de água. A resposta é D, que retrata a irrigação, técnica que supre a falta de chuvas e viabiliza o cultivo em áreas com déficit hídrico. As demais imagens não associam o emprego de tecnologia à superação dessa limitação climática, retratando paisagens ou práticas que não respondem especificamente à restrição descrita.`,
