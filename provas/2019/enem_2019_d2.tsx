@@ -467,7 +467,7 @@ centímetros do solo. Quando uma atleta de massa
 igual a 80 kg está exatamente no meio da fita, essa se 
 desloca verticalmente, formando um ângulo de 10° com a 
 horizontal, como esquematizado na figura. Sabe-se que a 
-aceleração da gravidade é igual a 10 m s −2 , cos(10°) = 0,98 
+aceleração da gravidade é igual a 10 m s⁻² , cos(10°) = 0,98 
 e sen(10°) = 0,17. 
 Qual é a força que a fita exerce em cada uma das 
 árvores por causa da presença da atleta?`,
@@ -608,7 +608,7 @@ Hoje, sabe-se que isso nem sempre é verdade. Por quê?`,
     text: `Em qualquer obra de construção civil é fundamental a utilização de equipamentos de proteção individual, 
 tal como capacetes. Por exemplo, a queda livre de um tijolo de massa 2,5 kg de uma altura de 5 m, cujo impacto 
 contra um capacete pode durar até 0,5 s, resulta em uma força impulsiva media maior do que o peso do tijolo. 
-Suponha que a aceleração gravitacional seja 10 m s −2 e que o efeito de resistência do ar seja desprezível. 
+Suponha que a aceleração gravitacional seja 10 m s⁻² e que o efeito de resistência do ar seja desprezível. 
 A força impulsiva média gerada por esse impacto equivale ao peso de quantos tijolos iguais?`,
     alternatives: [
       { id: 'A', type: 'text', value: `2` },
@@ -783,7 +783,7 @@ para diminuir as perdas de calor. Com base na leitura da
 tabela nutricional a seguir e da medida da temperatura da 
 água, após a queima total do combustível, ela concluiu 
 que 50% da energia disponível foi aproveitada. O calor 
-específico da água é 1 cal g −1 °C −1 , e sua temperatura 
+específico da água é 1 cal g⁻¹ °C −1 , e sua temperatura 
 inicial era de 20 °C. 
  
 Qual foi a temperatura da água, em grau Celsius, 
@@ -898,7 +898,7 @@ cinética de translação e energia cinética de rotação; Etapa 2
 - o cálculo da energia cinética de rotação do disco no ponto
 mais baixo de sua trajetória, supondo o sistema conservativo.
 Ao preparar a segunda etapa, ele considera a aceleração da
-gravidade igual a 10 m s −2 e a velocidade linear do centro de
+gravidade igual a 10 m s⁻² e a velocidade linear do centro de
 massa do disco desprezível em comparação com a velocidade
 angular. Em seguida, mede a altura do topo do disco em relação
 ao chão no ponto mais baixo de sua trajetória, obtendo 1 3 da
@@ -1147,7 +1147,7 @@ a acidez total expressa em ácido cítrico, que corresponde
 à massa dessa substância em 100 gramas de polpa 
 de fruta. O ácido cítrico é uma molécula orgânica que 
 apresenta três hidrogênios ionizáveis (ácido triprótico) 
-e massa molar 192 g mol −1 . O quadro indica o valor 
+e massa molar 192 g mol⁻¹ . O quadro indica o valor 
 mínimo desse parâmetro de qualidade para polpas 
 comerciais de algumas frutas. 
  
@@ -1156,7 +1156,7 @@ amostra comercial de polpa de fruta foi determinada.
 No procedimento, adicionou-se água destilada a 2,2 g da 
 amostra e, após a solubilização do ácido cítrico, o sólido 
 remanescente foi filtrado. A solução obtida foi titulada 
-com solução de hidróxido de sódio 0,01 mol L −1 , em que 
+com solução de hidróxido de sódio 0,01 mol L⁻¹ , em que 
 se consumiram 24 mL da solução básica (titulante). 
 BRASIL. Ministério da Agricultura e do Abastecimento. Instrução 
 normativa n. 1, de 7 de janeiro de 2000 . Disponível em: 
@@ -1220,7 +1220,7 @@ fotográfica 1 2 3 H 45° 45° Solo 20% de sobreposição frontal
 uma encomenda na qual as imagens devem ter uma sobreposição
 frontal de 20% em um terreno plano. Para realizar a aquisição
 das imagens, seleciona uma altitude H fixa de voo de 1 000 m,
-a uma velocidade constante de 50 m s −1 . A abertura da câmera
+a uma velocidade constante de 50 m s⁻¹ . A abertura da câmera
 fotográfica do vant é de 90°. Considere tg(45°) = 1. Natural
 Resources Canada. Concepts of Aerial Photography . Disponível
 em: www.nrcan.gc.ca. Acesso em: 26 abr. 2019 (adaptado). Com

@@ -665,7 +665,7 @@ da glicose no organismo humano libera energia, conforme
 ilustra a equação química, sendo que aproximadamente 
 40% dela é disponibilizada para atividade muscular. 
 C 6 H 12 O 6 (s) + 6 O 2 (g) → 6 CO 2 (g) + 6 H 2 O (l) ∆ c H = −2 800 kJ 
-Considere as massas molares (em g mol −1 ): H = 1; 
+Considere as massas molares (em g mol⁻¹ ): H = 1; 
 C = 12; O = 16. 
 LIMA, L. M.; FRAGA, C. A. M.; BARREIRO, E. J. Química na saúde. 
 São Paulo: Sociedade Brasileira de Química, 2010 (adaptado). 

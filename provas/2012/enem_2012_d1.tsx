@@ -2573,9 +2573,9 @@ pessoa de 70 kg de massa corporal pode ingerir por dia é
 mais próxima de 
 Dado: massa molar do aspartame = 294 g/mol`,
     alternatives: [
-      { id: 'A', type: 'text', value: `1,3 × 10 -4 .` },
-      { id: 'B', type: 'text', value: `9,5 × 10 -3 .` },
-      { id: 'C', type: 'text', value: `4 × 10 -2 .` },
+      { id: 'A', type: 'text', value: `1,3 × 10⁻⁴ .` },
+      { id: 'B', type: 'text', value: `9,5 × 10⁻³ .` },
+      { id: 'C', type: 'text', value: `4 × 10⁻² .` },
       { id: 'D', type: 'text', value: `2,6.` },
       { id: 'E', type: 'text', value: `823.` },
     ],

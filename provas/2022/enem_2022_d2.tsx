@@ -332,7 +332,7 @@ conterá o maior teor de sacarose 10 horas após o corte
 e que, consequentemente, produzirá a maior quantidade 
 de etanol por fermentação. Considere que existe uma 
 redução de aproximadamente 50% da concentração 
-de sacarose nesse tempo, para cada 1,0 mg L − 1 de 
+de sacarose nesse tempo, para cada 1,0 mg L⁻¹ de 
 microrganismos presentes na cana-de-açúcar. 
 Disponível em: www.inovação.unicamp.br. Acesso em: 11 ago. 2012 (adaptado). 
 Qual tipo de cana-de-açúcar deve ser escolhido?`,
@@ -521,7 +521,7 @@ Nessa conversão de polissacarídeos, a função do íon H + é`,
     text: `O ácido tartárico é o principal ácido do vinho e está
 diretamente relacionado com sua qualidade. Na avaliação de um
 vinho branco em produção, uma analista neutralizou uma
-alíquota de 25,0 mL do vinho com NaOH a 0,10 mol L −1 ,
+alíquota de 25,0 mL do vinho com NaOH a 0,10 mol L⁻¹ ,
 consumindo um volume igual a 8,0 mL dessa base. A reação para
 esse processo de titulação é representada pela equação
 química: O OH  2 NaOH  2 H₂ O OH O H O OH Ácido tartárico
@@ -529,11 +529,11 @@ química: O OH  2 NaOH  2 H₂ O OH O H O OH Ácido tartárico
 tartárico no vinho analisado é mais próxima de:`,
     images: ['/enem/2022/images/enem_2022_d2_q108.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `1,8 g L −1` },
-      { id: 'B', type: 'text', value: `2,4 g L −1` },
-      { id: 'C', type: 'text', value: `3,6 g L −1` },
-      { id: 'D', type: 'text', value: `4,8 g L −1` },
-      { id: 'E', type: 'text', value: `9,6 g L −1` },
+      { id: 'A', type: 'text', value: `1,8 g L⁻¹` },
+      { id: 'B', type: 'text', value: `2,4 g L⁻¹` },
+      { id: 'C', type: 'text', value: `3,6 g L⁻¹` },
+      { id: 'D', type: 'text', value: `4,8 g L⁻¹` },
+      { id: 'E', type: 'text', value: `9,6 g L⁻¹` },
     ],
     correct: 'B',
     explanation: `Na titulação, n(NaOH) = C × V = 0,10 mol/L × 0,0080 L = 8,0 × 10⁻⁴ mol. Como a estequiometria é 1 ácido tartárico : 2 NaOH, n(ácido) = 8,0 × 10⁻⁴ / 2 = 4,0 × 10⁻⁴ mol na alíquota de 25,0 mL. A massa de ácido é m = n × M = 4,0 × 10⁻⁴ × 150 = 0,060 g. A concentração é C = m / V = 0,060 g / 0,025 L = 2,4 g/L, próxima da alternativa B.`,

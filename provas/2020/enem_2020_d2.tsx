@@ -130,15 +130,15 @@ foram dissolvidos 171 g de sacarose em 500 mL de
 a concentração de sacarose foi reduzida à metade, 
 qualquer que fosse o momento escolhido como tempo 
 inicial. As massas molares dos elementos H, C e O são 
-iguais a 1, 12 e 16 g mol −1 , respectivamente. 
+iguais a 1, 12 e 16 g mol⁻¹ , respectivamente. 
 Qual é a concentração de sacarose depois de 400 minutos 
 do início da reação de hidrólise?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `2,50 × 10⁻³ mol L −1` },
-      { id: 'B', type: 'text', value: `6,25 × 10⁻² mol L −1` },
-      { id: 'C', type: 'text', value: `1,25 × 10⁻¹ mol L −1` },
-      { id: 'D', type: 'text', value: `2,50 × 10⁻¹ mol L −1` },
-      { id: 'E', type: 'text', value: `4,27 × 10⁻¹ mol L −1` },
+      { id: 'A', type: 'text', value: `2,50 × 10⁻³ mol L⁻¹` },
+      { id: 'B', type: 'text', value: `6,25 × 10⁻² mol L⁻¹` },
+      { id: 'C', type: 'text', value: `1,25 × 10⁻¹ mol L⁻¹` },
+      { id: 'D', type: 'text', value: `2,50 × 10⁻¹ mol L⁻¹` },
+      { id: 'E', type: 'text', value: `4,27 × 10⁻¹ mol L⁻¹` },
     ],
     correct: 'B',
     explanation: `A massa molar da sacarose (C12H22O11) é 12×12 + 22×1 + 11×16 = 144 + 22 + 176 = 342 g/mol. Os 171 g correspondem a 171/342 = 0,5 mol, dissolvidos em 0,5 L, resultando em concentração inicial de 1,0 mol/L. Como a concentração cai à metade a cada 100 min, em 400 min ocorrem 4 períodos: 1,0 → 0,5 → 0,25 → 0,125 → 0,0625 mol/L. Logo, a concentração final é 6,25 × 10⁻² mol/L (alternativa B).`,
@@ -207,7 +207,7 @@ uma avenida, indicados pelas letras O, A, B e C, conforme a
 figura. Os semáforos estão separados por uma distância de 500
 m. Segundo os dados estatísticos da companhia controladora de
 trânsito, um veículo, que está inicialmente parado no semáforo
-O, tipicamente parte com aceleração constante de 1 m s −2 até
+O, tipicamente parte com aceleração constante de 1 m s⁻² até
 atingir a velocidade de 72 km h −1 e, a partir daí, prossegue
 com velocidade constante. Você deve ajustar os semáforos A, B
 e C de modo que eles mudem para a cor verde quando o veículo
@@ -402,8 +402,8 @@ atmosférica. O gráfico mostra a relação entre os tempos de
 descompressão recomendados para indivíduos nessa situação e a
 variação de pressão. Tempo de descompressão (min) 100 80 60 40
 20 100 200 300 400 500 600 700 Variação de pressão (kPa)
-Considere que a aceleração da gravidade seja igual a 10 m s −2
-e que a densidade da água seja de ρ = 1 000 kg m −3 . Em
+Considere que a aceleração da gravidade seja igual a 10 m s⁻²
+e que a densidade da água seja de ρ = 1 000 kg m⁻³ . Em
 minutos, qual é o tempo de descompressão a que o mergulhador
 deverá ser submetido?`,
     images: ['/enem/2020/images/enem_2020_d2_q106_1.jpg', '/enem/2020/images/enem_2020_d2_q106_2.jpg'],
@@ -640,7 +640,7 @@ a profundidade com os valores da frequência de duas
 ressonâncias consecutivas, assim como em um tubo 
 sonoro fechado. A menor frequência de ressonância que 
 o aparelho mediu foi 135 Hz. Considere que a velocidade 
-do som dentro da cavidade perfurada é de 360 m s - 1 . 
+do som dentro da cavidade perfurada é de 360 m s⁻¹ . 
 Se a profundidade estiver de acordo com o projeto, qual 
 será o valor da próxima frequência de ressonância que 
 será medida?`,
@@ -783,12 +783,12 @@ recebem descarga de esgoto de área urbana, e locais onde há
 decomposição ativa com ausência de peixes. Os pesquisadores
 analisaram dois parâmetros: oxigênio dissolvido (OD) e demanda
 bioquímica de oxigênio (DBO) em cada ponto de coleta de água,
-obtendo o gráfico: 14 + 12 10 OD e DBO (mg L − 1 ) Legenda: ∗
+obtendo o gráfico: 14 + 12 10 OD e DBO (mg L⁻¹ ) Legenda: ∗
 + OD 8 + DBO ∗ 6 + + ∗ ∗ ∗ 4 ∗ 2 + 1 2 3 4 5 Pontos de
 amostragem Valores limites permitidos para águas doces
 destinadas ao abastecimento para o consumo humano após
 tratamento convencional, segundo Resolução Conama n. 357/2005:
-OD ≥ 5 mg L − 1 e DBO ≤ 5 mg L − 1 . O OD é proveniente da
+OD ≥ 5 mg L⁻¹ e DBO ≤ 5 mg L⁻¹ . O OD é proveniente da
 atmosfera e da fotossíntese que ocorre no curso-d’água e sua
 concentração é função das variáveis físicas, químicas e
 bioquímicas locais. A DBO é a quantidade de oxigênio consumido
@@ -822,10 +822,10 @@ de tecnologias que permitam minimizar emissões de
 poluentes atmosféricos. O uso de veículos elétricos é 
 uma das propostas mais propagandeadas por serem de 
 emissão zero. Podemos comparar a emissão de carbono 
-na forma de CO 2 (massa molar igual a 44 g mol −1 ) para os 
+na forma de CO 2 (massa molar igual a 44 g mol⁻¹ ) para os 
 dois tipos de carros (a combustão e elétrico). Considere 
 que os veículos tradicionais a combustão, movidos a 
-etanol (massa molar igual a 46 g mol −1 ), emitem uma 
+etanol (massa molar igual a 46 g mol⁻¹ ), emitem uma 
 média de 2,6 mol de CO 2 por quilômetro rodado, e os 
 elétricos emitem o equivalente a 0,45 mol de CO 2 por 
 quilômetro rodado (considerando as emissões na geração 
@@ -925,7 +925,7 @@ a seguinte informação: “ Resíduo: mistura de acetato de
 etila e água ”. 
 Considere os dados do acetato de etila: 
 • Baixa solubilidade em água; 
-• Massa específica = 0,9 g cm −3 ; 
+• Massa específica = 0,9 g cm⁻³ ; 
 • Temperatura de fusão = −83 °C; 
 • Pressão de vapor maior que a da água. 
 A fim de tratar o resíduo, recuperando o acetato de etila, 
@@ -1062,7 +1062,7 @@ sistema de aquecimento de 50 W otimizado para suprir
 sua taxa de resfriamento. Essa taxa pode ser considerada 
 praticamente constante, já que a temperatura externa ao 
 aquário é mantida pelas estufas. Utilize para a água o 
-calor específico 4,0 kJ kg −1 K −1 e a densidade 1 kg L −1 . 
+calor específico 4,0 kJ kg⁻¹ K⁻¹ e a densidade 1 kg L⁻¹ . 
 Se o sistema de aquecimento for desligado por 1 h, qual 
 o valor mais próximo para a redução da temperatura da 
 água do aquário?`,
@@ -1868,11 +1868,11 @@ Usando notação científica, qual é a representação do
 comprimento dessa miniatura, em metro?`,
     images: ['/enem/2020/images/enem_2020_d2_q154.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `1,0 × 10 − 1` },
-      { id: 'B', type: 'text', value: `1,0 × 10 − 3` },
-      { id: 'C', type: 'text', value: `1,0 × 10 − 4` },
-      { id: 'D', type: 'text', value: `1,0 × 10 − 6` },
-      { id: 'E', type: 'text', value: `1,0 × 10 − 7` },
+      { id: 'A', type: 'text', value: `1,0 × 10⁻¹` },
+      { id: 'B', type: 'text', value: `1,0 × 10⁻³` },
+      { id: 'C', type: 'text', value: `1,0 × 10⁻⁴` },
+      { id: 'D', type: 'text', value: `1,0 × 10⁻⁶` },
+      { id: 'E', type: 'text', value: `1,0 × 10⁻⁷` },
     ],
     correct: 'C',
     explanation: `100 micrômetros = 100 × 10⁻⁶ m = 10⁻⁴ m = 1,0 × 10⁻⁴ m. Resposta: C.`,

@@ -1010,8 +1010,8 @@ cozimento, seu rendimento é de 80%.
 NH₄ HCO 3 (s) → NH₃ (g) + CO₂ (g) + H₂ O (g) 
 Considere que a mistura dos gases se comporta como gás 
 ideal nas condições de cozimento utilizadas pela chefe. 
-Dados: Massa molar do NH₄ HCO 3 = 79 g ⋅ mol − 1  e 
-R = 0,082 atm ⋅ L ⋅ mol − 1 ⋅ K − 1 . 
+Dados: Massa molar do NH₄ HCO 3 = 79 g ⋅ mol⁻¹  e 
+R = 0,082 atm ⋅ L ⋅ mol⁻¹ ⋅ K⁻¹ . 
 A massa, em grama, de bicarbonato de amônio que ela deve 
 utilizar é mais próxima de`,
  alternatives: [
@@ -1175,11 +1175,11 @@ proteção, em relação ao valor da resistência do equipamento, são:`,
  year: 2025,
  day: 2,
  text:`O Brasil é o maior produtor mundial de nióbio (massa 
-molar = 93 g mol − 1 ), metal utilizado na fabricação de 
+molar = 93 g mol⁻¹ ), metal utilizado na fabricação de 
 vários tipos de aço: automotivos, estruturais e inoxidáveis. 
 O processo utilizado na produção do nióbio é a redução 
 aluminotérmica de Nb 2 O₅  com excesso de 10% de Al (massa 
-molar = 27 g mol − 1 ), em relação à quantidade estequiométrica 
+molar = 27 g mol⁻¹ ), em relação à quantidade estequiométrica 
 da reação, representada pela equação química: 
 3 Nb 2 O₅ (s) + 10 Al (s) → 6 Nb (s) + 5 Al₂ O₃ (s) 
 Uma engenheira metalúrgica estimou a massa de alumínio 

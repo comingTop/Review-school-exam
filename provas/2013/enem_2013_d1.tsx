@@ -1361,7 +1361,7 @@ uma doença que atinge os ossos. Ela se caracteriza pela
 diminuição substancial de massa óssea, tornando os 
 ossos frágeis e mais suscetíveis a fraturas. 
 Disponível em: www.anvisa.gov.br. Acesso em: 1 ago. 2012 (adaptado). 
-Considerando-se o valor de 6 × 10²³ mol -1 para a constante 
+Considerando-se o valor de 6 × 10²³ mol⁻¹ para a constante 
 de Avogadro e a massa molar do cálcio igual a 40 g/mol, 
 qual a quantidade mínima diária de átomos de cálcio a ser 
 ingerida para que uma pessoa supra suas necessidades?`,
