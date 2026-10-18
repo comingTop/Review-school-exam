@@ -691,11 +691,11 @@ Guanabara Koogan, 2016 (adaptado).
 Qual heredograma foi recebido pelo casal?`,
  images: ['/enem/2024/images/enem_2024_d2_q112.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2024/images/enem_2024_d2_q112_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2024/images/enem_2024_d2_q112_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2024/images/enem_2024_d2_q112_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2024/images/enem_2024_d2_q112_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2024/images/enem_2024_d2_q112_E.jpg` },
  ],
  correct: 'B',
  explanation: `Como o daltonismo é recessivo ligado ao X, o cruzamento é X^A Y (pai não daltônico) × X^A X^a (mãe portadora, não daltônica). As filhas podem ser X^A X^A (não daltônica) ou X^A X^a (portadora) — nunca daltônicas. Os filhos podem ser X^A Y (não daltônico) ou X^a Y (daltônico). O heredograma que contém exatamente essas possibilidades (filha não daltônica, filha portadora, filho não daltônico e filho daltônico, sem nenhuma filha daltônica) é o da alternativa B.`,
@@ -862,8 +862,7 @@ da hidroxiapatita em meio aquoso, ilustradas a seguir.
 A desmineralização está associada à fragilização do esmalte
 do dente e à formação de cáries.
 5 Ca²⁺ (aq) + 3 PO₄³⁻ (aq) + H₂O (l) ⇌ Ca₅(PO₄)₃OH (s) + H⁺ (aq)
-Desmineralizacao
-Mineralizacao
+(Desmineralização →, ← Mineralização)
 O uso de creme dental pode minimizar a perda da
 hidroxiapatita. O quadro apresenta o agente de polimento 
 e o pH de alguns cremes dentais comerciais. 
@@ -969,11 +968,11 @@ Qual vetor representa a força resultante exercida pelo chão
 sobre Calvin no exato momento em que ele toca o chão?`,
  images: ['/enem/2024/images/enem_2024_d2_q121.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2024/images/enem_2024_d2_q121_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2024/images/enem_2024_d2_q121_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2024/images/enem_2024_d2_q121_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2024/images/enem_2024_d2_q121_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2024/images/enem_2024_d2_q121_E.jpg` },
  ],
  correct: 'A',
  explanation: `No exato instante em que toca o solo, o chão exerce sobre Calvin uma força resultante impulsiva que se opõe à velocidade com que ele chega, freando-o. Como ele cai de cabeça movendo-se para baixo e para a esquerda (com o corpo voltado para cima e para a direita), a força que o solo aplica aponta para cima e para a direita. Esse é o vetor representado na alternativa A.`,
@@ -1138,15 +1137,16 @@ para o vírus.`},
  exam: 'enem',
  year: 2024,
  day: 2,
- text:`Em um experimento de laboratório, duas barras 
-metálicas,`,
+ text:`Em um experimento de laboratório, duas barras metálicas, A e B, são carregadas com cargas opostas e imersas em óleo. Farelo de milho é jogado sobre o óleo e, após um certo tempo, o farelo assume o formato das linhas de campo elétrico entre as barras. A figura representa a vista superior desse experimento.
+ALMEIDA, M. A. T. Introdução às ciências físicas 2 — volume 4: módulo 4. Rio de Janeiro: Fundação CECIERJ, 2007 (adaptado).
+Ao repetir o experimento colocando um cilindro metálico oco entre as placas, o esquema que representa o formato das linhas de campo assumido pelo farelo é:`,
  images: ['/enem/2024/images/enem_2024_d2_q127.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2024/images/enem_2024_d2_q127_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2024/images/enem_2024_d2_q127_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2024/images/enem_2024_d2_q127_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2024/images/enem_2024_d2_q127_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2024/images/enem_2024_d2_q127_E.jpg` },
  ],
  correct: 'E',
  explanation: `Um cilindro metálico oco colocado entre as placas provoca blindagem eletrostática. No equilíbrio, as cargas se redistribuem na superfície do condutor, de modo que o campo elétrico no interior do condutor e de sua cavidade é nulo. As linhas de campo externas, por sua vez, chegam perpendiculares à superfície do condutor e o contornam, pois nenhuma linha penetra em seu interior. O esquema correto é, portanto, aquele em que as linhas tocam perpendicularmente o cilindro e seu interior fica sem nenhuma linha de campo, o que corresponde à alternativa E.`,
@@ -1263,11 +1263,11 @@ O circuito que o estudante pode montar, para que ambos os
 LEDs fiquem acesos e cada um seja percorrido por I max , é`,
     images: ['/enem/2024/images/enem_2024_d2_q131.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2024/images/enem_2024_d2_q131_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2024/images/enem_2024_d2_q131_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2024/images/enem_2024_d2_q131_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2024/images/enem_2024_d2_q131_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2024/images/enem_2024_d2_q131_E.jpg` },
  ],
  correct: 'B',
  explanation: `Dois LEDs em série exigiriam 3,0 + 3,0 = 6,0 V, valor superior aos 4,5 V da bateria, de modo que não acenderiam. A montagem correta liga em paralelo dois ramos independentes, cada um com um LED (3,0 V) em série com um resistor de 1,5 kΩ. Em cada resistor a queda é V = I_máx·R = 1,0 mA × 1,5 kΩ = 1,5 V, somando 3,0 + 1,5 = 4,5 V, igual à tensão da bateria, de modo que cada LED é percorrido exatamente por I_máx. Esse circuito corresponde à alternativa B.`,
@@ -1400,7 +1400,7 @@ deixou de ser extraída da natureza em 2020 no Brasil?`,
  day: 2,
  text:`O tamanho mínimo que a visão humana é capaz de 
 visualizar sem o uso de equipamento auxiliar é equivalente 
-a 100 micrômetros (1 micrômetro = 10 - 3 milímetros). 
+a 100 micrômetros (1 micrômetro = 10⁻³ milímetros).
 Uma estudante pretende visualizar e analisar hemácias 
 do sangue humano, que medem 0,007 mm de diâmetro. 
 Ela adquiriu um microscópio óptico que tem uma lente 
@@ -1602,11 +1602,11 @@ concluir a 20 ª etapa. Em seguida, enviou a mensagem.
 Qual foi o total de figuras contidas na mensagem enviada?`,
  images: ['/enem/2024/images/enem_2024_d2_q142.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value:`3 × 2 19`},
- { id: 'B', type: 'text', value:`3 × 2 20`},
- { id: 'C', type: 'text', value:`3 × 2 21`},
- { id: 'D', type: 'text', value:`3 × 2 20 − 1`},
- { id: 'E', type: 'text', value:`3 × 2 20 − 3`},
+ { id: 'A', type: 'text', value:`3 × 2¹⁹`},
+ { id: 'B', type: 'text', value:`3 × 2²⁰`},
+ { id: 'C', type: 'text', value:`3 × 2²¹`},
+ { id: 'D', type: 'text', value:`3 × 2²⁰ − 1`},
+ { id: 'E', type: 'text', value:`3 × 2²⁰ − 3`},
  ],
  correct: 'A',
  explanation: `Começa com 3 figuras. A cada etapa o conteúdo é duplicado (copia e cola ao lado): etapa 1 = 3; etapa 2 = 3·2; etapa 3 = 3·2²; … etapa n = 3·2^(n−1). Na 20ª etapa: 3·2^(20−1) = 3·2¹⁹. Resposta: A.`,
@@ -1784,29 +1784,9 @@ Os valores das constantes a e b são`,
  images: ['/enem/2024/images/enem_2024_d2_q148.jpg'],
  alternatives: [
  { id: 'A', type: 'text', value:`a = 20; b = log(0,5)`},
- { id: 'B', type: 'text', value:`a = 100; b = 0,5 
-1 
-10 
-; 
-( , )`},
- { id: 'C', type: 'text', value:`a 
-b 
-= 
-= 
-20 
-0 5 
-1 
-10 
-; 
-( 
-)`},
- { id: 'D', type: 'text', value:`a 
-b 
-= 
-= 
-20 
-40 
-80`},
+ { id: 'B', type: 'text', value:`a = 100; b = 0,5`},
+ { id: 'C', type: 'text', value:`a = 20; b = (0,5)^(1/10)`},
+ { id: 'D', type: 'text', value:`a = 20; b = (40)^(1/10)/80`},
  { id: 'E', type: 'text', value:`a = 20; b = 40`},
  ],
  correct: 'C',
@@ -1832,11 +1812,9 @@ deve ser`,
  alternatives: [
  { id: 'A', type: 'text', value:`6`},
  { id: 'B', type: 'text', value:`18`},
- { id: 'C', type: 'text', value:`6 6`},
- { id: 'D', type: 'text', value:`6 6 
-3`},
- { id: 'E', type: 'text', value:`3 12 
-3`},
+ { id: 'C', type: 'text', value:`6√6`},
+ { id: 'D', type: 'text', value:`6·∛6`},
+ { id: 'E', type: 'text', value:`3·∛12`},
  ],
  correct: 'E',
  explanation: `Volume do cilindro: V = π·r²·h = 3·3²·15 = 3·9·15 = 405 cm³. O cubo tem 80% dessa capacidade: 0,80·405 = 324 cm³. A aresta é a = ∛324. Como 324 = 27·12, temos a = ∛(27·12) = 3·∛12. Resposta: E.`,
@@ -2058,8 +2036,7 @@ ser pago por uma viagem desse aplicativo é`,
  alternatives: [
  { id: 'A', type: 'text', value:`2,00 F + 0,26 T + 1,40 D`},
  { id: 'B', type: 'text', value:`2,00 + 0,26 T + 1,40 D`},
- { id: 'C', type: 'text', value:`2,00 + 0,26 T + D 
-D 0,26 T + 1,40`},
+ { id: 'C', type: 'text', value:`2,00 + 0,26 T + D`},
  { id: 'D', type: 'text', value:`0,26T + 1,40D`},
  { id: 'E', type: 'text', value:`F + T + D`},
  ],
@@ -2195,11 +2172,11 @@ O gráfico que descreve, em cada instante, a maior altura de coluna de água, de
 ao longo do enchimento do tanque, é`,
  images: ['/enem/2024/images/enem_2024_d2_q161.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2024/images/enem_2024_d2_q161_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2024/images/enem_2024_d2_q161_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2024/images/enem_2024_d2_q161_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2024/images/enem_2024_d2_q161_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2024/images/enem_2024_d2_q161_E.jpg` },
  ],
  correct: 'B',
  explanation: `A água entra no compartimento cujo anteparo de saída tem altura H/2. Com vazão constante e enchimento total em 12 h, cada etapa é proporcional ao volume. 1) Enche esse compartimento (área A) até H/2: volume A·(H/2), leva 2 h → maior altura sobe de 0 a H/2. 2) A água transborda e enche os outros dois compartimentos (área 2A) até H/2: volume 2A·(H/2) = A·H, leva 4 h → a maior altura permanece H/2 (patamar de 2 h a 6 h). 3) Com todos no nível H/2 (área 3A), sobem juntos até H: volume 3A·(H/2), leva 6 h → a maior altura cresce de H/2 a H (de 6 h a 12 h). O gráfico é: subida, patamar de 2 a 6 h, nova subida até 12 h. Resposta: B.`,
@@ -2354,11 +2331,11 @@ correspondentes a essas regiões são denotadas por d ( Q )
 e d ( R ). 
 A expressão que relaciona d ( Q ) e d ( R ) é`,
  alternatives: [
- { id: 'A', type: 'text', value: `d Q d R` },
- { id: 'B', type: 'text', value: `d Q d R E N E` },
- { id: 'C', type: 'text', value: `d Q d R M E N E 4` },
- { id: 'D', type: 'text', value: `E d Q d R N E` },
- { id: 'E', type: 'text', value: `d Q d R M E N E` },
+ { id: 'A', type: 'text', value: `d(Q) = (1/4)·d(R)` },
+ { id: 'B', type: 'text', value: `d(Q) = (1/2)·d(R)` },
+ { id: 'C', type: 'text', value: `d(Q) = (3/4)·d(R)` },
+ { id: 'D', type: 'text', value: `d(Q) = (3/2)·d(R)` },
+ { id: 'E', type: 'text', value: `d(Q) = (2/3)·d(R)` },
  ],
  correct: 'E',
  explanation: `d = habitantes/área. Para Q: área A(Q) = (3/4)A(R) e habitantes hab(Q) = (1/2)hab(R). Então d(Q) = hab(Q)/A(Q) = [(1/2)hab(R)] / [(3/4)A(R)] = (1/2)·(4/3)·[hab(R)/A(R)] = (2/3)·d(R). Resposta: E.`,
@@ -2372,15 +2349,12 @@ A expressão que relaciona d ( Q ) e d ( R ) é`,
  day: 2,
  text:`Atualmente, há telefones celulares com telas de 
 diversos tamanhos e em formatos retangulares. Alguns 
-deles apresentam telas medindo 3 1 
-2 
- polegadas, com 
-determinadas especificações técnicas. Além disso, em 
-muitos modelos, com a inclusão de novas funções no 
-celular, suas telas ficaram maiores, sendo muito comum 
-encontrarmos atualmente telas medindo 4 5 
-6 polegadas, 
-conforme a figura. 
+deles apresentam telas medindo 3½ polegadas, com
+determinadas especificações técnicas. Além disso, em
+muitos modelos, com a inclusão de novas funções no
+celular, suas telas ficaram maiores, sendo muito comum
+encontrarmos atualmente telas medindo 4⅚ polegadas,
+conforme a figura.
 Disponível em: www.tecmundo.com.br. 
 Acesso em: 5 nov. 2014 (adaptado). 
 A diferença de tamanho, em valor absoluto, entre as 
@@ -2412,13 +2386,12 @@ Para os amortecedores serem aprovados no experimento, exige-se que as amplitudes
 cada tipo de superfície, sejam constantes e, ainda, que a amplitude da oscilacao do amortecedor no asfalto seja menor 
 do que sua amplitude da oscilação na estrada de chão. 
 O tipo de gráfico que descreve o comportamento oscilatório de um amortecedor aprovado nesse experimento é`,
- images: null,
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2024/images/enem_2024_d2_q168_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2024/images/enem_2024_d2_q168_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2024/images/enem_2024_d2_q168_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2024/images/enem_2024_d2_q168_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2024/images/enem_2024_d2_q168_E.jpg` },
  ],
  correct: 'A',
  explanation: `Para ser aprovado, a amplitude deve ser constante em cada superfície e a amplitude no asfalto (primeiros 9 min) deve ser menor que na estrada de chão (11 min finais). O gráfico adequado mostra oscilação de amplitude pequena e constante de 0 a 9 min e depois amplitude maior e constante de 9 a 20 min. Resposta: A.`,
@@ -2433,15 +2406,19 @@ O tipo de gráfico que descreve o comportamento oscilatório de um amortecedor a
  text:`A criptografia refere-se à construção e análise de protocolos que impedem terceiros de lerem mensagens privadas. 
 Júlio César, imperador romano, utilizava um código para proteger as mensagens enviadas a seus generais. Assim, 
 se a mensagem caísse em mãos inimigas, a informação não poderia ser compreendida. Nesse código, cada letra do 
-alfabeto era substituída pela letra três posições à frente, ou seja, o “A” era substituido pelo “D”, o “B” pelo “E”, o “C” 
-pelo “F”, e assim sucessivamente.`,
+alfabeto era substituída pela letra três posições à frente, ou seja, o “A” era substituído pelo “D”, o “B” pelo “E”, o “C”
+pelo “F”, e assim sucessivamente.
+Disponível em: www.codifica.ibict.br. Acesso em: 15 out. 2019.
+Qualquer código que tenha um padrão de substituição de letras como o descrito é considerado uma Cifra de César ou um Código de César. Note que, para decifrar uma Cifra de César, basta descobrir por qual letra o “A” foi substituído, pois isso define todas as demais substituições a serem feitas.
+Uma mensagem, em um alfabeto de 26 letras, foi codificada usando uma Cifra de César. Considere a probabilidade de se descobrir, aleatoriamente, o padrão utilizado nessa codificação, e que uma tentativa frustrada deverá ser eliminada nas tentativas seguintes.
+A probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por`,
  images: ['/enem/2024/images/enem_2024_d2_q169.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value: `25 25 25 24 23 1 + +` },
- { id: 'B', type: 'text', value: `25 24 23 1 1 1 × ×` },
- { id: 'C', type: 'text', value: `25 24 23 24 23 1 × ×` },
- { id: 'D', type: 'text', value: `25 25 25 24 23 1 × ×` },
- { id: 'E', type: 'text', value: `25 24 23` },
+ { id: 'A', type: 'text', value: `1/25 + 1/25 + 1/25` },
+ { id: 'B', type: 'text', value: `24/25 + 23/24 + 1/23` },
+ { id: 'C', type: 'text', value: `1/25 × 1/24 × 1/23` },
+ { id: 'D', type: 'text', value: `24/25 × 23/25 × 1/25` },
+ { id: 'E', type: 'text', value: `24/25 × 23/24 × 1/23` },
  ],
  correct: 'E',
  explanation: `Uma Cifra de César fica definida pela letra que substitui o 'A'; como são 26 letras e a substituição por si mesma não cifra, há 25 padrões possíveis. Descobrir só na 3ª tentativa (tentativas erradas eliminadas): P = (24/25)·(23/24)·(1/23). Resposta: E.`,
@@ -2456,21 +2433,10 @@ pelo “F”, e assim sucessivamente.`,
  text:`Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram 
 magnitudes M 1 e M 2 , medidos segundo a escala Richter, e liberaram energias iguais a E 1 e E 2 , respectivamente. Entre 
 os estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por 
-2 
-3 
- 
- 
- 
-M 
-M 
-E 
-E 
-2 
-1 
-2 
-Estudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M 1 = 6,9 e a energia 
+M₂ − M₁ = (2/3)·log(E₂/E₁)
+Estudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M₁ = 6,9 e a energia 
 liberada foi um décimo da observada no segundo terremoto. 
-O valor aproximado da magnitude M 2 do segundo terremoto, expresso com uma casa decimal, e igual a`,
+O valor aproximado da magnitude M₂ do segundo terremoto, expresso com uma casa decimal, é igual a`,
  alternatives: [
  { id: 'A', type: 'text', value: `5,4.` },
  { id: 'B', type: 'text', value: `6,2.` },
@@ -2586,11 +2552,11 @@ longo de paredes. Considere que o personagem descreve
 a trajetória ABCDEF , em que os pontos`,
  images: ['/enem/2024/images/enem_2024_d2_q174.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2024/images/enem_2024_d2_q174_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2024/images/enem_2024_d2_q174_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2024/images/enem_2024_d2_q174_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2024/images/enem_2024_d2_q174_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2024/images/enem_2024_d2_q174_E.jpg` },
  ],
  correct: 'C',
  explanation: `Na projeção ortogonal sobre a base, cada ponto perde a altura. Como A, D e E estão numa mesma parede vertical, projetam-se todos sobre a mesma reta (a base dessa parede); B e C, na parede paralela, projetam-se sobre a outra reta paralela; F já está na base. Ligando A'→B'→C'→D'→E'→F' obtém-se o ziguezague entre as duas retas paralelas mais o segmento até F, que corresponde à alternativa C. Resposta: C.`,
@@ -2617,15 +2583,11 @@ Dentre essas duas embalagens, a de maior capacidade
 apresentará volume, em centímetro cúbico, igual a`,
     images: ['/enem/2024/images/enem_2024_d2_q175.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value:`4 000 π`},
- { id: 'B', type: 'text', value:`2 000 π
-4 000`},
- { id: 'C', type: 'text', value:`4 000 
-π`},
- { id: 'D', type: 'text', value:`1000 
-π`},
- { id: 'E', type: 'text', value:`500 
-π`},
+ { id: 'A', type: 'text', value:`4000π`},
+ { id: 'B', type: 'text', value:`2000π`},
+ { id: 'C', type: 'text', value:`4000/π`},
+ { id: 'D', type: 'text', value:`1000/π`},
+ { id: 'E', type: 'text', value:`500/π`},
  ],
  correct: 'D',
  explanation: `A folha 10×20 forma a lateral do cilindro. Embalagem 1 (altura 20): a circunferência vale 10 → 2πr = 10 → r = 5/π; V = πr²h = π·(5/π)²·20 = π·(25/π²)·20 = 500/π. Embalagem 2 (altura 10): circunferência 20 → r = 10/π; V = π·(10/π)²·10 = π·(100/π²)·10 = 1 000/π. A maior capacidade é 1 000/π cm³. Resposta: D.`,
@@ -2758,11 +2720,11 @@ formará uma equipe com 5 médicos, sendo, pelo menos,
 A expressão numérica que representa o número máximo 
 de maneiras distintas de formar essa equipe é`,
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2024/images/enem_2024_d2_q180_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2024/images/enem_2024_d2_q180_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2024/images/enem_2024_d2_q180_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2024/images/enem_2024_d2_q180_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2024/images/enem_2024_d2_q180_E.jpg` },
  ],
  correct: 'E',
  explanation: `Equipe de 5 com pelo menos 3 cardiologistas (7 cardio, 6 neuro). Casos: 3C+2N = C(7,3)·C(6,2); 4C+1N = C(7,4)·C(6,1); 5C+0N = C(7,5)·C(6,0). Em fatoriais: C(7,3)=7!/(3!·4!), C(6,2)=6!/(2!·4!); C(7,4)=7!/(4!·3!), C(6,1)=6!/(1!·5!); C(7,5)=7!/(5!·2!), C(6,0)=6!/(0!·6!). A expressão é a soma dos três produtos. Resposta: E.`,
