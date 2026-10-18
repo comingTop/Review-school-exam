@@ -1952,18 +1952,13 @@ altura em 1
 manter o custo com o material de cada porta, precisou 
 reduzir a largura. 
 A razão entre a largura da nova porta e a largura da porta 
-anterior é 
-1`,
+anterior é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `8 
-7` },
-      { id: 'B', type: 'text', value: `8 
-8` },
-      { id: 'C', type: 'text', value: `7 
-8` },
-      { id: 'D', type: 'text', value: `9 
-9` },
-      { id: 'E', type: 'text', value: `8` },
+      { id: 'A', type: 'text', value: `1/8` },
+      { id: 'B', type: 'text', value: `7/8` },
+      { id: 'C', type: 'text', value: `8/7` },
+      { id: 'D', type: 'text', value: `8/9` },
+      { id: 'E', type: 'text', value: `9/8` },
     ],
     correct: 'D',
     explanation: `O custo é mantido conservando o volume de material de cada porta: largura × altura × espessura constante. A nova altura é a anterior aumentada de 1/8: h' = h + h/8 = 9h/8. Com a espessura fixa, largura × altura é constante: L·h = L'·(9h/8), logo L' = L·(8/9). A razão entre a nova largura e a anterior é L'/L = 8/9. Resposta: D.`,
