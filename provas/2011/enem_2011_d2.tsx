@@ -72,7 +72,6 @@ o en los mercados financieros.
 Disponível em: http://www.elpais.com. Acesso em: 24 jul. 2010 (adaptado). 
 O título da palestra, citado no texto, antecipa o tema que 
 será tratado e mostra que o autor tem a intenção de`,
-    images: ['/enem/2011/images/enem_2011_d2_q92.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `relatar novas experiências em tratamento de saúde.` },
       { id: 'B', type: 'text', value: `alertar sobre os riscos mortais de determinados 
@@ -222,7 +221,6 @@ Disponível em: http://www.tododecarton.com. Acesso em: 27 abr. 2010 (adaptado).
 A partir do que se afirma no último parágrafo: “Es 
 necesario saber para empezar a actuar...”, pode-se 
 constatar que o texto foi escrito com a intenção de`,
-    images: ['/enem/2011/images/enem_2011_d2_q95.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `informar o leitor a respeito da importância da 
 reciclagem para a conservação do meio ambiente.` },
@@ -2334,13 +2332,12 @@ a época de produção. Considere que, independente da
 quilograma.
 Dos gráficos a seguir, o que representa o preço m pago
 em reais pela compra de n quilogramas desse produto é`,
-    images: ['/enem/2011/images/enem_2011_d2_q152_A.jpg', '/enem/2011/images/enem_2011_d2_q152_B.jpg', '/enem/2011/images/enem_2011_d2_q152_C.jpg', '/enem/2011/images/enem_2011_d2_q152_D.jpg', '/enem/2011/images/enem_2011_d2_q152_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2011/images/enem_2011_d2_q152_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2011/images/enem_2011_d2_q152_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2011/images/enem_2011_d2_q152_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2011/images/enem_2011_d2_q152_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2011/images/enem_2011_d2_q152_E.jpg` },
     ],
     correct: 'E',
     explanation: `O preço é proporcional à quantidade: m = 1,75·n. O gráfico é uma reta que passa pela origem (n = 0 → m = 0) e pelo ponto (1; 1,75). Entre as opções, essa é a reta crescente que parte da origem e passa por (1; 1,75). Resposta: E.`,
@@ -3192,13 +3189,12 @@ excedente; no plano Z, paga R$ 49,90 por 300 minutos
 mensais e R$ 0,10 por cada minuto excedente.
 O gráfico que representa o valor pago, em reais, nos
 dois planos em função dos minutos utilizados é`,
-    images: ['/enem/2011/images/enem_2011_d2_q179_A.jpg', '/enem/2011/images/enem_2011_d2_q179_B.jpg', '/enem/2011/images/enem_2011_d2_q179_C.jpg', '/enem/2011/images/enem_2011_d2_q179_D.jpg', '/enem/2011/images/enem_2011_d2_q179_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2011/images/enem_2011_d2_q179_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2011/images/enem_2011_d2_q179_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2011/images/enem_2011_d2_q179_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2011/images/enem_2011_d2_q179_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2011/images/enem_2011_d2_q179_E.jpg` },
     ],
     correct: 'D',
     explanation: `No plano K paga-se R$ 29,90 (fixo) até 200 min e R$ 0,20 por minuto excedente; no plano Z, R$ 49,90 (fixo) até 300 min e R$ 0,10 por minuto excedente. Até 200 min, K = 29,90 (abaixo) e Z = 49,90 (constante). K começa a subir em 200 min; em 300 min, K = 29,90 + 100×0,20 = 49,90, igualando Z. A partir de 300 min, como a inclinação de K (0,20) é maior que a de Z (0,10), o valor de K passa a superar o de Z. O gráfico correto mostra Z constante em 49,90 até 300 min e K cruzando Z em 300 min, ficando acima dele depois. Resposta: D.`,
