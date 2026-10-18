@@ -2987,27 +2987,7 @@ celulose e as moléculas de água.` },
       { id: 'D', type: 'text', value: `ligações de hidrogênio mais fortes entre o poliacrilato e as moléculas de água, em relação às interações dipolo 
 induzido-dipolo induzido entre a celulose e as moléculas de água.` },
       { id: 'E', type: 'text', value: `interações íon-dipolo mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio 
-entre a celulose e as moléculas de água. 
-x B 
-x 
-x 
-x 
-x 
-x 
-x 
-mola 
-x 
-x 
-x 
-x 
-x 
-x 
-isolante 
-OH 
-HO 
-O 
-OH 
-CURI, D. Química Nova na Escola , São Paulo, n. 23, maio 2006 (adaptado).` },
+entre a celulose e as moléculas de água.` },
     ],
     correct: 'E',
     explanation: `O poliacrilato de sódio possui grupos iônicos (–COO⁻ Na⁺), que interagem com a água por forças íon-dipolo, relativamente intensas. Já a celulose interage com a água apenas por ligações de hidrogênio, por meio de suas hidroxilas, interações mais fracas que as íon-dipolo. Como as interações íon-dipolo do poliacrilato com a água são mais fortes, ele retém muito mais água que a celulose. Portanto, a maior eficiência das fraldas descartáveis deve-se às interações íon-dipolo mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e a água (alternativa E).`,
