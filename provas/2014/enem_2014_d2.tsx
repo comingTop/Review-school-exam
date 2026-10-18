@@ -2122,13 +2122,12 @@ adesivo precisa fazer o corte do material de maneira que
 a forma do adesivo corresponda exatamente à parte da 
 superfície lateral a ser revestida. 
 Qual deverá ser a forma do adesivo?`,
-    images: ['/enem/2014/images/enem_2014_d2_q144_A.jpg', '/enem/2014/images/enem_2014_d2_q144_B.jpg', '/enem/2014/images/enem_2014_d2_q144_C.jpg', '/enem/2014/images/enem_2014_d2_q144_D.jpg', '/enem/2014/images/enem_2014_d2_q144_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2014/images/enem_2014_d2_q144_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2014/images/enem_2014_d2_q144_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2014/images/enem_2014_d2_q144_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2014/images/enem_2014_d2_q144_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2014/images/enem_2014_d2_q144_E.jpg` },
     ],
     correct: 'E',
     explanation: `A região revestida vai da base até a metade da altura do cone, formando um tronco de cone. A planificação da superfície lateral de um tronco de cone é a região entre dois arcos de circunferências concêntricas (de mesmo centro, o vértice do cone): o arco externo é a base e o interno é o círculo da metade da altura, ligados por dois segmentos retos. É a figura com os dois lados curvos (arcos concêntricos). Resposta: E.`,

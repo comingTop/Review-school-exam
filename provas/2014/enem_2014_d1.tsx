@@ -478,13 +478,12 @@ ser mineiro”.
 Folha de S. Paulo , 15 maio 2008.
 Entre os bens que compõem o patrimônio nacional, o que pertence à mesma categoria citada no texto está
 representado em:`,
-    images: ['/enem/2014/images/enem_2014_d1_q16_A.jpg', '/enem/2014/images/enem_2014_d1_q16_B.jpg', '/enem/2014/images/enem_2014_d1_q16_C.jpg', '/enem/2014/images/enem_2014_d1_q16_D.jpg', '/enem/2014/images/enem_2014_d1_q16_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2014/images/enem_2014_d1_q16_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2014/images/enem_2014_d1_q16_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2014/images/enem_2014_d1_q16_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2014/images/enem_2014_d1_q16_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2014/images/enem_2014_d1_q16_E.jpg` },
     ],
     correct: 'C',
     explanation: `O texto noticia o registro do modo artesanal de fazer o queijo de Minas como patrimônio cultural imaterial, categoria que reconhece saberes, técnicas e modos de fazer tradicionais. Entre as opções, o que pertence à mesma categoria é o Ofício das paneleiras de Goiabeiras, um saber artesanal transmitido entre gerações, por isso a alternativa C está correta. A (Mosteiro de São Bento), B (pintura de Pedro Américo) e D (conjunto urbano de Ouro Preto) são bens materiais, edificações ou obras de arte. E (sítio da Ilha do Campeche) é patrimônio natural e arqueológico, e não um bem imaterial ligado a um ofício.`,
@@ -1808,7 +1807,7 @@ BENDASSOLLI, J. A. et al. Procedimentos para a recuperação de Ag de resíduos 
 sólidos. Química Nova , v. 26, n. 4, 2003 (adaptado). 
 Das espécies apresentadas, a adequada para essa 
 recuperação é`,
-    images: ['/enem/2014/images/enem_2014_d1_q59_1.jpg', '/enem/2014/images/enem_2014_d1_q59_2.jpg'],
+    images: ['/enem/2014/images/enem_2014_d1_q59_1.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Cu (s).` },
       { id: 'B', type: 'text', value: `Pt (s).` },
@@ -1975,13 +1974,12 @@ molécula contendo um grupo não planar é biologicamente
 ativa, enquanto moléculas contendo substituintes planares 
 são inativas. 
 O grupo responsável pela bioatividade desse fármaco é`,
-    images: ['/enem/2014/images/enem_2014_d1_q65_A.jpg', '/enem/2014/images/enem_2014_d1_q65_B.jpg', '/enem/2014/images/enem_2014_d1_q65_C.jpg', '/enem/2014/images/enem_2014_d1_q65_D.jpg', '/enem/2014/images/enem_2014_d1_q65_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2014/images/enem_2014_d1_q65_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2014/images/enem_2014_d1_q65_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2014/images/enem_2014_d1_q65_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2014/images/enem_2014_d1_q65_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2014/images/enem_2014_d1_q65_E.jpg` },
     ],
     correct: 'A',
     explanation: `A questão pede o grupo cuja estrutura não é planar. O anel benzênico e o anel aromático do tiofeno são planos, assim como o grupo que contém a dupla ligação C=O, cujos carbonos têm hibridização sp². O cicloexano, por ter apenas carbonos sp³, não é planar e assume a conformação tridimensional em cadeira, sendo o grupo não planar responsável pela bioatividade. Portanto, a resposta é o cicloexano (alternativa A).`,
