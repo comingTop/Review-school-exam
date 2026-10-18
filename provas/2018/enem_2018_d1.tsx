@@ -2691,7 +2691,7 @@ própria mão, dizendo: “Em nome de Deus, e em louvor
 a Ele. Construí, e que Deus vos abençoe”. 
 AL-TABARI, M. Uma história dos povos árabes . 
 São Paulo: Cia. das Letras, 1995 (adaptado). 
-A decisão do califa Al-Mansur (754-775) de construir 
+A decisão do califa Al⁻Mansur (754-775) de construir 
 Bagdá nesse local orientou-se pela`,
     images: null,
     alternatives: [
@@ -2702,7 +2702,7 @@ Bagdá nesse local orientou-se pela`,
       { id: 'E', type: 'text', value: `ocupação de região fronteiriça como contenção do avanço mongol.` },
     ],
     correct: 'A',
-    explanation: `A escolha de Bagdá por Al-Mansur baseou-se na posição estratégica junto ao Eufrates, ao Tigre e a uma rede de canais, que permitiria abastecer o exército e a população e escoar mercadorias, consolidando o poder do califado abássida. A decisão orientou-se, assim, pela disponibilidade de rotas e terras férteis como base da dominação política, conforme a alternativa A. A proximidade de áreas populosas como afirmação bélica (B) e a submissão à lei islâmica (C) não são o critério enfatizado no texto. A fuga da península arábica (D) não é mencionada, e a contenção do avanço mongol (E) é anacrônica, pois os mongóis só ameaçariam a região séculos depois.`,
+    explanation: `A escolha de Bagdá por Al⁻Mansur baseou-se na posição estratégica junto ao Eufrates, ao Tigre e a uma rede de canais, que permitiria abastecer o exército e a população e escoar mercadorias, consolidando o poder do califado abássida. A decisão orientou-se, assim, pela disponibilidade de rotas e terras férteis como base da dominação política, conforme a alternativa A. A proximidade de áreas populosas como afirmação bélica (B) e a submissão à lei islâmica (C) não são o critério enfatizado no texto. A fuga da península arábica (D) não é mencionada, e a contenção do avanço mongol (E) é anacrônica, pois os mongóis só ameaçariam a região séculos depois.`,
     subject: ['his'],
     topics: ['História Geral Antiga e Medieval', 'Questões aleatórias'],
   },

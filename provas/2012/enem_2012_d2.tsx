@@ -2152,11 +2152,11 @@ de uma superfície esférica feita de aço, onde motoqueiros
 andam com suas motos por dentro.`,
     images: ['/enem/2012/images/enem_2012_d2_q153.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2012/images/enem_2012_d2_q153_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2012/images/enem_2012_d2_q153_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2012/images/enem_2012_d2_q153_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2012/images/enem_2012_d2_q153_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2012/images/enem_2012_d2_q153_E.jpg` },
     ],
     correct: 'E',
     explanation: `A circunferência percorrida passa por A (no chão) e por B (no topo) e está num plano vertical. A fonte de luz está em B, que pertence a esse mesmo plano. Assim, todos os raios que projetam a circunferência no chão estão nesse plano vertical, e suas interseções com o piso ficam sobre a reta em que o plano vertical corta o chão. A imagem (sombra) é, portanto, um segmento de reta. Resposta: E.`,
@@ -2233,8 +2233,7 @@ comissão de R$ 3,00 para cada produto vendido. Caso ele venda
 mais de 100 produtos, sua comissão passa a ser de R$ 9,00 para
 cada produto vendido, a partir do 101º produto vendido. Com
 essas informações, o gráfico que melhor representa a relação
-entre salário e o número de produtos vendidos é Salario em R$
-2 250 2 000 1 750 1 500 1 250`,
+entre salário e o número de produtos vendidos é`,
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2012/images/enem_2012_d2_q156_A.jpg` },
       { id: 'B', type: 'image', value: `/enem/2012/images/enem_2012_d2_q156_B.jpg` },
@@ -2474,11 +2473,11 @@ O deslocamento descrito por João foi: mova-se pela
 pirâmide, sempre em linha reta, do ponto`,
     images: ['/enem/2012/images/enem_2012_d2_q165.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2012/images/enem_2012_d2_q165_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2012/images/enem_2012_d2_q165_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2012/images/enem_2012_d2_q165_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2012/images/enem_2012_d2_q165_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2012/images/enem_2012_d2_q165_E.jpg` },
     ],
     correct: 'C',
     explanation: `Projetando o deslocamento no plano da base: A projeta-se em A; o ápice E projeta-se no centro O da base; M (ponto médio de BC, já na base) projeta-se em si mesmo; C projeta-se em C. Assim o caminho A → E → M → C torna-se, na base, A → O (centro) → M (ponto médio de BC) → C: um segmento diagonal de A ao centro, depois um segmento horizontal do centro a M e, por fim, um segmento até C — exatamente o desenho da opção C. Resposta: C.`,
@@ -2588,11 +2587,11 @@ possuíam o mesmo peso, e a tabela que ele conseguiu é
 mostrada a seguir.`,
     images: ['/enem/2012/images/enem_2012_d2_q169.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2012/images/enem_2012_d2_q169_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2012/images/enem_2012_d2_q169_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2012/images/enem_2012_d2_q169_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2012/images/enem_2012_d2_q169_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2012/images/enem_2012_d2_q169_E.jpg` },
     ],
     correct: 'E',
     explanation: `A tabela é uma matriz 4×4 (linhas = disciplinas, colunas = bimestres). A média anual de cada disciplina, com pesos iguais, é a soma dos quatro bimestres dividida por 4. Para obter a coluna com essas médias, multiplica-se a matriz 4×4, à direita, pela matriz-coluna 4×1 cujos elementos são todos 1/4. Resposta: E.`,

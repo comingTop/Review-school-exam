@@ -2186,7 +2186,7 @@ seguinte consequência:`,
     day: 1,
     text: `Enormes alto-falantes sul-coreanos instalados na 
 fronteira com o Norte costumavam transmitir desde 
-canções em estilo K-pop (como é chamado o pop 
+canções em estilo K⁻pop (como é chamado o pop 
 sul-coreano) até boletins climáticos e noticiário crítico ao 
 vizinho comunista. O Norte costuma praticar atividade 
 semelhante, transmitindo por seus alto-falantes discursos 
@@ -2199,7 +2199,7 @@ cidade fronteiriça de Gijung-dong. “Essas demonstrações
 são uma válvula de escape competitiva e importante entre 
 os dois lados, fora de um possível conflito militar”, diz o 
 analista Ankit Panda. 
-TAN, Y. Disputa de mastros e alto-falantes com K-pop : as pequenas picuinhas do conflito 
+TAN, Y. Disputa de mastros e alto-falantes com K⁻pop : as pequenas picuinhas do conflito 
 entre as Coreias. Disponível em: www.bbc.com. Acesso em: 7 nov. 2021 (adaptado). 
 Os atos de competição citados têm suas origens 
 históricas vinculadas a um contexto de`,

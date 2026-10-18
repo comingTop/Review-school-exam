@@ -1371,8 +1371,7 @@ destino final. Esses ensaios foram muito empregados para
 estudo e caracterização de células secretoras. Após esses
 ensaios de radioatividade, qual gráfico representa a evolução
 temporal da produção de proteínas e sua localização em uma
-célula secretora? 100 90 80 70 60 50 40 30 20 10 0
-Radioatividade (%) Retículo Endoplasmático Complexo Golgiense`,
+célula secretora?`,
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2015/images/enem_2015_d1_q48_A.jpg` },
       { id: 'B', type: 'image', value: `/enem/2015/images/enem_2015_d1_q48_B.jpg` },
@@ -1981,11 +1980,11 @@ Tomada: Interruptor: Qual dos circuitos esboçados atende às
 exigências?`,
     images: ['/enem/2015/images/enem_2015_d1_q68.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2015/images/enem_2015_d1_q68_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2015/images/enem_2015_d1_q68_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2015/images/enem_2015_d1_q68_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2015/images/enem_2015_d1_q68_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2015/images/enem_2015_d1_q68_E.jpg` },
     ],
     correct: 'E',
     explanation: `As exigências são: as duas tomadas e a lâmpada submetidas à tensão nominal da rede (portanto ligadas em paralelo entre si, cada uma diretamente aos dois fios) e o interruptor controlando apenas a lâmpada, sem afetar as tomadas. O circuito correto é aquele em que as tomadas ficam em paralelo, ligadas permanentemente à rede, e a lâmpada, também em paralelo, tem em série com ela o interruptor. Esse arranjo corresponde ao esboço da alternativa E. Portanto, a resposta é a alternativa E.`,

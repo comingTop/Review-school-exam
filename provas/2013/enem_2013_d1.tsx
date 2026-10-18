@@ -189,12 +189,11 @@ relacionado ao(à)`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Taxa de fecundidade total - Brasil - 1940-2010 6,16 6,21 6,28
-5,76 4,35 2,85 2,38 1,90 1930 1940 1950 1960 1970 1980 1990
-2000 2010 2020 IBGE. Censo demográfico 2010 : resultados
-gerais da amostra. Disponível em: ftp://ftp.ibge.gov.br.
-Acesso em: 12 mar. 2013. O processo registrado no gráfico
-gerou a seguinte consequência demográfica:`,
+    text: `IBGE. Censo demográfico 2010 : resultados gerais da amostra.
+Disponível em: ftp://ftp.ibge.gov.br. Acesso em: 12 mar. 2013. O
+processo registrado no gráfico gerou a seguinte consequência
+demográfica:`,
+    images: ['/enem/2013/images/enem_2013_d1_q7.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Decréscimo da população absoluta.` },
       { id: 'B', type: 'text', value: `Redução do crescimento vegetativo.` },
@@ -1417,13 +1416,13 @@ comparação à da branca, durante todo experimento, foi`,
 medicina para se obter imagens tridimensionais do cérebro, por
 meio de tomografia de emissão de pósitrons. A desintegração do
 carbono-11 gera um pósitron, com tempo de meia-vida de 20,4
-min, de acordo com a equação da reação nuclear: C B + e 11 11
-0 6 5 1 (pósitron) A partir da injeção de glicose marcada com
-esse nuclídeo, o tempo de aquisição de uma imagem de
-tomografia é de cinco meias-vidas. Considerando que o
-medicamento contém 1,00 g do carbono-11, a massa, em
-miligramas, do nuclídeo restante, após a aquisição da imagem,
-é mais próxima de`,
+min, de acordo com a equação da reação nuclear: A partir da
+injeção de glicose marcada com esse nuclídeo, o tempo de
+aquisição de uma imagem de tomografia é de cinco meias-vidas.
+Considerando que o medicamento contém 1,00 g do carbono-11, a
+massa, em miligramas, do nuclídeo restante, após a aquisição da
+imagem, é mais próxima de`,
+    images: ['/enem/2013/images/enem_2013_d1_q49.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `0,200.` },
       { id: 'B', type: 'text', value: `0,969.` },
@@ -1620,7 +1619,7 @@ esperar alguns vasos incharem, pressionava-os em um
 ponto (H). Mantendo o ponto pressionado, deslocava o 
 conteúdo de sangue em direção ao cotovelo, percebendo 
 que um trecho do vaso sanguíneo permanecia vazio após 
-esse processo (H-O). 
+esse processo (H⁻O). 
 Disponível em: www.answers.com. Acesso em: 18 dez. 2012 (adaptado). 
 A demonstração de Harvey permite estabelecer a relação 
 entre circulação sanguínea e`,
@@ -1984,14 +1983,14 @@ N-metilglicina (sarcosina): Glifosato H₂N O O P H₃C NH OH OH
 OH Sarcosina AMPA AMARANTE JR., O. P. et al. Química Nova ,
 São Paulo, v. 25, n. 3, 2002 (adaptado). A partir do texto e
 dos produtos de degradação apresentados, a estrutura química
-que representa o glifosato é: O O P H₂N`,
+que representa o glifosato é:`,
     images: ['/enem/2013/images/enem_2013_d1_q68.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2013/images/enem_2013_d1_q68_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2013/images/enem_2013_d1_q68_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2013/images/enem_2013_d1_q68_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2013/images/enem_2013_d1_q68_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2013/images/enem_2013_d1_q68_E.jpg` },
     ],
     correct: 'B',
     explanation: `Ao se degradar, o glifosato origina os dois produtos mostrados: a sarcosina (CH₃–NH–CH₂–COOH) e o AMPA (H₂N–CH₂–PO(OH)₂). Combinando as porções desses fragmentos, a molécula do glifosato é a N-(fosfonometil)glicina, HOOC–CH₂–NH–CH₂–PO(OH)₂, que contém simultaneamente o grupo ácido carboxílico (da glicina), a amina secundária (–NH–) e o grupo fosfonato. A estrutura que reúne um grupo ácido carboxílico ligado a –CH₂–NH–CH₂– e, a este, um grupo –PO(OH)₂ é a da alternativa B. Portanto, a resposta é a alternativa B.`,
@@ -2096,17 +2095,16 @@ cozinha. Nesse ambiente existem uma geladeira (G), uma tomada
 (T) e uma lâmpada (L), conforme a figura. O eletricista deseja
 medir a tensão elétrica aplicada à geladeira, a corrente total
 e a corrente na lâmpada. Para isso, ele dispõe de um
-voltímetro (V) e dois amperímetros (A). Fase G T L Neutro Para
+voltímetro (V) e dois amperímetros (A). Para
 realizar essas medidas, o esquema da ligação desses
-instrumentos está representado em: A Fase V A A T G L Neutro
-Fase V`,
+instrumentos está representado em:`,
     images: ['/enem/2013/images/enem_2013_d1_q72.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2013/images/enem_2013_d1_q72_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2013/images/enem_2013_d1_q72_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2013/images/enem_2013_d1_q72_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2013/images/enem_2013_d1_q72_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2013/images/enem_2013_d1_q72_E.jpg` },
     ],
     correct: 'E',
     explanation: `Para medir a tensão aplicada à geladeira, o voltímetro deve ser ligado em paralelo com a geladeira (G). Para medir a corrente total, um amperímetro deve ser inserido em série no ramo principal da instalação (na entrada), por onde passa toda a corrente que alimenta os três aparelhos. Para medir a corrente na lâmpada, o outro amperímetro deve ficar em série apenas com a lâmpada (L). O esquema que mostra o voltímetro em paralelo com G, um amperímetro em série no circuito principal e outro em série com L corresponde à alternativa E. Portanto, a resposta é a alternativa E.`,

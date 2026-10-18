@@ -2070,11 +2070,11 @@ Qual gráfico expressa as intensidades das forças que a
 Terra exerce sobre cada satélite em função do tempo?`,
     images: ['/enem/2013/images/enem_2013_d2_q154.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2013/images/enem_2013_d2_q154_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2013/images/enem_2013_d2_q154_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2013/images/enem_2013_d2_q154_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2013/images/enem_2013_d2_q154_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2013/images/enem_2013_d2_q154_E.jpg` },
     ],
     correct: 'B',
     explanation: `Cada satélite descreve órbita circular, portanto sua distância d à Terra é constante no tempo; como F = G·m₁·m₂/d² depende só de d, a força sobre cada satélite é constante — no gráfico, retas horizontais. Além disso, quanto menor d, maior F. O satélite mais próximo (E) sofre a maior força e o mais distante (A), a menor, na ordem E > D > C > B > A. O gráfico com retas horizontais nessa ordem é a opção B. Resposta: B.`,
@@ -2331,17 +2331,14 @@ reais, seria de`,
     text: `Um programa de edição de imagens possibilita 
 transformar figuras em outras mais complexas. Deseja-se 
 construir uma nova figura a partir da original. A nova figura 
-deve apresentar simetria em relação ao ponto O . 
-O 
- Figura original 
-A imagem que representa a nova figura é:`,
+deve apresentar simetria em relação ao ponto O. A imagem que representa a nova figura é:`,
     images: ['/enem/2013/images/enem_2013_d2_q164.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2013/images/enem_2013_d2_q164_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2013/images/enem_2013_d2_q164_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2013/images/enem_2013_d2_q164_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2013/images/enem_2013_d2_q164_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2013/images/enem_2013_d2_q164_E.jpg` },
     ],
     correct: 'E',
     explanation: `A nova figura é a simétrica da original em relação ao ponto O (rotação de 180° em torno de O). Como O está no canto inferior direito, a imagem aparece do lado oposto, deslocada para baixo e para a direita de O, com a figura invertida (de cabeça para baixo e espelhada). Isso corresponde à opção E. Resposta: E.`,
@@ -2780,17 +2777,16 @@ Nesse brinquedo, duas pessoas sentam-se nas extremidades e,
 alternadamente, impulsionam-se para cima, fazendo descer a
 extremidade oposta, realizando, assim, o movimento da
 gangorra. Considere a gangorra representada na figura, em que
-os pontos A e B são equidistantes do pivô: B Pivô A A projeção
+os pontos A e B são equidistantes do pivô: A projeção
 ortogonal da trajetória dos pontos A e B , sobre o plano do
-chão da gangorra, quando esta se encontra em movimento, é: A A
-B B`,
+chão da gangorra, quando esta se encontra em movimento, é:`,
     images: ['/enem/2013/images/enem_2013_d2_q180.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2013/images/enem_2013_d2_q180_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2013/images/enem_2013_d2_q180_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2013/images/enem_2013_d2_q180_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2013/images/enem_2013_d2_q180_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2013/images/enem_2013_d2_q180_E.jpg` },
     ],
     correct: 'B',
     explanation: `Os pontos A e B descrevem arcos de circunferência num plano vertical (giram em torno do pivô). Ao projetar ortogonalmente esses arcos no chão, a distância horizontal de cada ponto ao pivô varia (máxima com a tábua na horizontal e menor ao inclinar), de modo que cada projeção é um segmento de reta horizontal sobre o chão. Isso corresponde à opção B. Resposta: B.`,

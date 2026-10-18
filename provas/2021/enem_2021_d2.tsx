@@ -327,10 +327,10 @@ comportamento dos corpos em queda nessa discussão
     text: `A obtenção de etanol utilizando a cana-de-açúcar
 envolve a fermentação dos monossacarídeos formadores
 da sacarose contida no melaço. Um desses formadores
-é a glicose (C6H12O6), cuja fermentação produz cerca de
+é a glicose (C₆H₁₂O₆), cuja fermentação produz cerca de
 50 g de etanol a partir de 100 g de glicose, conforme a
 equação química descrita.
-C6H12O6 --(Fermentação alcoólica)--> 2 CH3CH2OH + 2 CO₂
+C₆H₁₂O₆ --(Fermentação alcoólica)--> 2 CH₃CH₂OH + 2 CO₂
 Em uma condição específica de fermentação,
 obtêm-se 80% de conversão em etanol que, após sua
 purificação, apresenta densidade igual a 0,80 g/mL.
