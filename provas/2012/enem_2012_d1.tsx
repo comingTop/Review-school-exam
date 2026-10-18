@@ -1906,13 +1906,12 @@ porta seja fixada no móvel ou no portal, permanecendo
 em equilíbrio e podendo ser articulada com facilidade. 
 No plano, o diagrama vetorial das forças que as 
 dobradiças exercem na porta está representado em`,
-    images: ['/enem/2012/images/enem_2012_d1_q55_A.jpg', '/enem/2012/images/enem_2012_d1_q55_B.jpg', '/enem/2012/images/enem_2012_d1_q55_C.jpg', '/enem/2012/images/enem_2012_d1_q55_D.jpg', '/enem/2012/images/enem_2012_d1_q55_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2012/images/enem_2012_d1_q55_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2012/images/enem_2012_d1_q55_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2012/images/enem_2012_d1_q55_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2012/images/enem_2012_d1_q55_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2012/images/enem_2012_d1_q55_E.jpg` },
     ],
     correct: 'D',
     explanation: `A porta é sustentada por duas dobradiças em sua borda, e seu peso atua no centro, criando um torque que tende a girá-la. Para o equilíbrio de translação, as dobradiças precisam fornecer, somadas, uma força vertical para cima que equilibre o peso. Para o equilíbrio de rotação, a dobradiça superior puxa a porta horizontalmente em direção ao batente, enquanto a inferior a empurra no sentido oposto. Compondo as componentes vertical e horizontal, a força na dobradiça de cima aponta para cima e para o lado do batente, e a de baixo aponta para cima e para o lado oposto. Esse par de forças diagonais é o representado na alternativa D.`,
@@ -2050,13 +2049,12 @@ outro terço e reduz sua velocidade com desaceleração constante no trecho fina
 Qual é o gráfico de posição (eixo vertical) em função do tempo (eixo horizontal) que representa o movimento 
 desse trem? 
 posição`,
-    images: ['/enem/2012/images/enem_2012_d1_q60_A.jpg', '/enem/2012/images/enem_2012_d1_q60_B.jpg', '/enem/2012/images/enem_2012_d1_q60_C.jpg', '/enem/2012/images/enem_2012_d1_q60_D.jpg', '/enem/2012/images/enem_2012_d1_q60_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2012/images/enem_2012_d1_q60_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2012/images/enem_2012_d1_q60_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2012/images/enem_2012_d1_q60_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2012/images/enem_2012_d1_q60_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2012/images/enem_2012_d1_q60_E.jpg` },
     ],
     correct: 'C',
     explanation: `No primeiro terço do percurso o trem parte do repouso com aceleração constante, de modo que a posição cresce de forma curva, com concavidade para cima (a inclinação da curva aumenta). No terço central, a velocidade é constante, e a posição varia linearmente (reta inclinada). No terço final há desaceleração constante até parar, e a posição cresce com concavidade para baixo, tornando-se horizontal no instante em que o trem para. O gráfico que reúne essas três etapas — curva côncava para cima, trecho reto e curva que se achata no topo — é o da alternativa C.`,
@@ -2652,13 +2650,12 @@ no pedal de freio, para carros sem ABS e com ABS,
 respectivamente, são: 
 f at 
 f at`,
-    images: ['/enem/2012/images/enem_2012_d1_q78_A.jpg', '/enem/2012/images/enem_2012_d1_q78_B.jpg', '/enem/2012/images/enem_2012_d1_q78_C.jpg', '/enem/2012/images/enem_2012_d1_q78_D.jpg', '/enem/2012/images/enem_2012_d1_q78_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2012/images/enem_2012_d1_q78_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2012/images/enem_2012_d1_q78_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2012/images/enem_2012_d1_q78_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2012/images/enem_2012_d1_q78_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2012/images/enem_2012_d1_q78_E.jpg` },
     ],
     correct: 'A',
     explanation: `Sem ABS, à medida que se aumenta a pressão no pedal, a força de atrito cresce até a roda travar; ao travar, o atrito passa de estático para cinético (menor) e torna-se praticamente constante — a curva sobe e depois cai para um patamar. Com ABS, o sistema impede o travamento, liberando as rodas no limiar do deslizamento, de modo que a força de atrito se mantém próxima do valor máximo, oscilando em "dente de serra". As representações que mostram, respectivamente, a subida seguida de patamar mais baixo (sem ABS) e a subida com oscilações próximas ao máximo (com ABS) estão na alternativa A.`,

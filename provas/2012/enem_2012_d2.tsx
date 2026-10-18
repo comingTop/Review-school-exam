@@ -2570,13 +2570,12 @@ Salario em R$
 1 750 
 1 500 
 1 250`,
-    images: ['/enem/2012/images/enem_2012_d2_q156_A.jpg', '/enem/2012/images/enem_2012_d2_q156_B.jpg', '/enem/2012/images/enem_2012_d2_q156_C.jpg', '/enem/2012/images/enem_2012_d2_q156_D.jpg', '/enem/2012/images/enem_2012_d2_q156_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2012/images/enem_2012_d2_q156_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2012/images/enem_2012_d2_q156_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2012/images/enem_2012_d2_q156_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2012/images/enem_2012_d2_q156_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2012/images/enem_2012_d2_q156_E.jpg` },
     ],
     correct: 'E',
     explanation: `Para 0 ≤ x ≤ 100, o salário é S = 750 + 3x (em x = 0, S = 750; em x = 100, S = 1 050). A partir do 101º produto a comissão sobe para R$ 9,00, então para x > 100: S = 1 050 + 9(x − 100), reta mais inclinada (por exemplo, em x = 200, S = 1 050 + 900 = 1 950). O gráfico parte de 750, cresce com inclinação menor até x = 100 e, depois, com inclinação maior. Resposta: E.`,
@@ -3002,13 +3001,12 @@ partir da tabela por
     day: 2,
     text: `Existem no mercado chuveiros elétricos de diferentes 
 potências, que representam consumos e custos diversos.`,
-    images: ['/enem/2012/images/enem_2012_d2_q170_A.jpg', '/enem/2012/images/enem_2012_d2_q170_B.jpg', '/enem/2012/images/enem_2012_d2_q170_C.jpg', '/enem/2012/images/enem_2012_d2_q170_D.jpg', '/enem/2012/images/enem_2012_d2_q170_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2012/images/enem_2012_d2_q170_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2012/images/enem_2012_d2_q170_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2012/images/enem_2012_d2_q170_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2012/images/enem_2012_d2_q170_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2012/images/enem_2012_d2_q170_E.jpg` },
     ],
     correct: 'D',
     explanation: `A potência é P = R·i² e a energia consumida E é diretamente proporcional à potência, logo E é proporcional a i²: E = c·i². O gráfico de E em função de i é um arco de parábola crescente, com concavidade para cima, partindo da origem. Resposta: D.`,
