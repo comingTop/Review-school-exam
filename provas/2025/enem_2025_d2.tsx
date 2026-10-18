@@ -127,7 +127,7 @@ Sabe-se que a régua foi ligada à tensão elétrica de 110 V,
 adequada para o funcionamento desses aparelhos. 
 Considerando a ordem das tentativas, quantas atividades a 
 estudante conseguiu realizar sem queimar o fusível?`,
- images: ['/enem/2025/images/enem_2025_d2_q94_1.jpg', '/enem/2025/images/enem_2025_d2_q94_2.jpg', '/enem/2025/images/enem_2025_d2_q94_3.jpg', '/enem/2025/images/enem_2025_d2_q94_4.jpg', '/enem/2025/images/enem_2025_d2_q94_5.jpg', '/enem/2025/images/enem_2025_d2_q94_6.jpg'],
+ images: ['/enem/2025/images/enem_2025_d2_q94_1.jpg'],
  alternatives: [
  { id: 'A', type: 'text', value:`4`},
  { id: 'B', type: 'text', value:`3`},
@@ -485,11 +485,11 @@ Qual alternativa representa a proporção fenotípica da prole
 resultante do cruzamento entre indivíduos da primeira geração?`,
     images: ['/enem/2025/images/enem_2025_d2_q107.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+ { id: 'A', type: 'image', value:`/enem/2025/images/enem_2025_d2_q107_A.jpg`},
+ { id: 'B', type: 'image', value:`/enem/2025/images/enem_2025_d2_q107_B.jpg`},
+ { id: 'C', type: 'image', value:`/enem/2025/images/enem_2025_d2_q107_C.jpg`},
+ { id: 'D', type: 'image', value:`/enem/2025/images/enem_2025_d2_q107_D.jpg`},
+ { id: 'E', type: 'image', value:`/enem/2025/images/enem_2025_d2_q107_E.jpg`},
  ],
  correct: 'E',
  explanation: `Os parentais são homozigotos de fenótipos distintos — macho com pintas e fêmea com listra — e a primeira geração (F1) apresenta simultaneamente pintas e listra, indicando codominância (os heterozigotos expressam ambos os caracteres). No cruzamento F1 × F1 (ambos heterozigotos), a proporção genotípica/fenotípica é 1:2:1, ou seja, 1/4 somente pintas, 1/2 com pintas e listra e 1/4 somente listra. Essa distribuição, com as duas formas parentais e a forma intermediária que exibe os dois padrões, corresponde à alternativa E.`,
@@ -502,7 +502,7 @@ resultante do cruzamento entre indivíduos da primeira geração?`,
  year: 2025,
  day: 2,
  text:`Para transportar uma caixa do primeiro para o segundo 
-piso de uma construção, um trabalhador precisará arrasta-lá 
+piso de uma construção, um trabalhador precisará arrastá-la 
 sobre um plano inclinado. O trabalhador começa a arrastar a 
 caixa no primeiro piso, exercendo sobre ela uma força de grande 
 intensidade, paralela ao seu deslocamento. Na medida em que a 
@@ -515,11 +515,11 @@ O comportamento da força de atrito entre a caixa e o chão no
 plano inclinado é representado em:`,
  images: null,
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+ { id: 'A', type: 'image', value:`/enem/2025/images/enem_2025_d2_q108_A.jpg`},
+ { id: 'B', type: 'image', value:`/enem/2025/images/enem_2025_d2_q108_B.jpg`},
+ { id: 'C', type: 'image', value:`/enem/2025/images/enem_2025_d2_q108_C.jpg`},
+ { id: 'D', type: 'image', value:`/enem/2025/images/enem_2025_d2_q108_D.jpg`},
+ { id: 'E', type: 'image', value:`/enem/2025/images/enem_2025_d2_q108_E.jpg`},
  ],
  correct: 'C',
  explanation: `Como a caixa permanece em movimento, atua a força de atrito cinético, dada por Fat = μ·N. No plano inclinado, o ângulo e o peso não mudam, de modo que a normal N = m·g·cosθ é constante; sendo μ constante, o atrito cinético também é constante. A redução gradativa da força aplicada pelo trabalhador não altera a força de atrito, pois esta não depende da força aplicada. Logo, no plano inclinado a força de atrito é constante, representada pelo gráfico da alternativa C.`,
@@ -718,7 +718,7 @@ SANTOS, A. P. B. et al. Oxidação do borneol à cânfora com água sanitária:
 um experimento simples de baixo custo e limpo. 
 Química Nova , n. 6, 2009 (adaptado). 
 O frasco contendo cânfora apresenta a fórmula molecular:`,
- images: null,
+ images: [`/enem/2025/images/enem_2025_d2_q115.jpg`],
  alternatives: [
  { id: 'A', type: 'text', value:`C 9 H 16 O`},
  { id: 'B', type: 'text', value:`C 9 H 17 O`},
@@ -771,8 +771,7 @@ puros, é necessário fazer a cloração do minério que contém
 dióxido de titânio, com o objetivo de separar esse óxido de 
 outras substâncias presentes no minério. A principal reação 
 química de cloração é representada por: 
-TiO 2 (s) + 2 Cl 2 (g) 
- TiCl 4 (g) + O 2 (g) Δ H = + 175 kJ/mol 
+TiO₂ (s) + 2 Cl₂ (g) → TiCl₄ (g) + O₂ (g)   ΔH = + 175 kJ/mol 
 Depois da cloração, o tetracloreto de titânio é condensado 
 e convertido, novamente, a dióxido de titânio. 
 Após o sistema atingir o equilíbrio químico, como a formação 
@@ -781,9 +780,9 @@ do TiCl 4  pode ser favorecida?`,
  alternatives: [
  { id: 'A', type: 'text', value:`Aumentando a pressão total do sistema.`},
  { id: 'B', type: 'text', value:`Diminuindo a temperatura do sistema.`},
- { id: 'C', type: 'text', value:`Aumentando a pressão parcial de O 2 .`},
- { id: 'D', type: 'text', value:`Aumentando a pressão parcial de Cl 2 .`},
- { id: 'E', type: 'text', value:`Variando a quantidade de TiO 2 .`},
+ { id: 'C', type: 'text', value:`Aumentando a pressão parcial de O₂.`},
+ { id: 'D', type: 'text', value:`Aumentando a pressão parcial de Cl₂.`},
+ { id: 'E', type: 'text', value:`Variando a quantidade de TiO₂.`},
  ],
  correct: 'D',
  explanation: `A reação TiO2(s) + 2 Cl2(g) ⇌ TiCl4(g) + O2(g) atinge o equilíbrio; para favorecer a formação de TiCl4, deve-se deslocar o equilíbrio para a direita. Aumentar a pressão parcial de Cl2 (reagente gasoso) desloca o equilíbrio no sentido dos produtos (princípio de Le Chatelier). Diminuir a temperatura desfavoreceria, pois a reação é endotérmica; aumentar a pressão de O2 (produto) deslocaria para a esquerda; e variar a quantidade de TiO2 sólido não altera o equilíbrio. Logo, deve-se aumentar a pressão parcial de Cl2 (alternativa D).`,
@@ -797,7 +796,7 @@ do TiCl 4  pode ser favorecida?`,
  day: 2,
  text:`A laje de um depósito de bebidas tem 50 m²  de área útil de 
 armazenamento e foi projetada para suportar pressões de até 
-10 4  Pa. O gerente do estabelecimento pretende armazenar um 
+10⁴ Pa. O gerente do estabelecimento pretende armazenar um 
 produto cuja densidade é 1 250 kg/m³ . Considere a aceleração 
 da gravidade igual a 10 m/s² . 
 A altura máxima, em metro, de empilhamento do produto que 
@@ -839,11 +838,11 @@ O diagrama que representa o circuito construído pelo
 eletrotécnico é:`,
  images: ['/enem/2025/images/enem_2025_d2_q119.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+ { id: 'A', type: 'image', value:`/enem/2025/images/enem_2025_d2_q119_A.jpg`},
+ { id: 'B', type: 'image', value:`/enem/2025/images/enem_2025_d2_q119_B.jpg`},
+ { id: 'C', type: 'image', value:`/enem/2025/images/enem_2025_d2_q119_C.jpg`},
+ { id: 'D', type: 'image', value:`/enem/2025/images/enem_2025_d2_q119_D.jpg`},
+ { id: 'E', type: 'image', value:`/enem/2025/images/enem_2025_d2_q119_E.jpg`},
  ],
  correct: 'B',
  explanation: `Cada placa é um gerador não ideal com fem ε = 40 V (circuito aberto) e tensão de operação 34 V a 7,5 A, logo resistência interna r = (40 − 34)/7,5 = 0,8 Ω. A bomba precisa de ~100 V (95–105 V); associando placas em série, a tensão de operação é n × 34 V. Com n = 3 obtém-se 3 × 34 = 102 V, dentro da faixa, usando o menor número possível de placas. O gerador equivalente tem ε = 3 × 40 = 120 V e r = 3 × 0,8 = 2,4 Ω, o que corresponde ao diagrama da alternativa B.`,
@@ -937,7 +936,7 @@ por efeito Joule.`},
 a região da bobina e o vidro cerâmico.`},
  ],
  correct: 'D',
- explanation: `A bobina gera um campo magnético variável que, pela lei da indução, induz correntes elétricas (correntes de Foucault) na base metálica da panela. Essas correntes, ao circularem pela resistência do material, dissipam energia por efeito Joule, aquecendo a panela — apenas o fundo da panela aquece, sem aquecer o vidro cerâmico. A alternativa assinalada no arquivo é a D (induzir corrente elétrica na parte inferior da panela, aquecendo-a por efeito Joule). Observação: questão ANULADA, sem resposta oficial única.`,
+ explanation: `A bobina gera um campo magnético variável que, pela lei da indução, induz correntes elétricas (correntes de Foucault) na base metálica da panela. Essas correntes, ao circularem pela resistência do material, dissipam energia por efeito Joule, aquecendo a panela — apenas o fundo da panela aquece, sem aquecer o vidro cerâmico. Resposta: D.`,
  subject: ['fis'],
  topics: ['Eletromagnetismo/Indução', 'Questões aleatórias'],
  },
@@ -1092,11 +1091,11 @@ representa o avanço da reação na ausência da enzima, e a linha
 pontilhada, na presença da enzima. 
 O gráfico que representa a situação descrita é:`,
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+ { id: 'A', type: 'image', value:`/enem/2025/images/enem_2025_d2_q127_A.jpg`},
+ { id: 'B', type: 'image', value:`/enem/2025/images/enem_2025_d2_q127_B.jpg`},
+ { id: 'C', type: 'image', value:`/enem/2025/images/enem_2025_d2_q127_C.jpg`},
+ { id: 'D', type: 'image', value:`/enem/2025/images/enem_2025_d2_q127_D.jpg`},
+ { id: 'E', type: 'image', value:`/enem/2025/images/enem_2025_d2_q127_E.jpg`},
  ],
  correct: 'C',
  explanation: `A enzima atua como catalisador, diminuindo a energia de ativação da reação, o que corresponde a um "pico" (barreira energética) menor no gráfico. No entanto, o catalisador não altera as energias dos reagentes (A) nem dos produtos (B); logo, os níveis inicial e final são os mesmos com e sem enzima. O gráfico correto mostra a linha pontilhada (com enzima) com barreira mais baixa que a contínua (sem enzima), partindo e chegando aos mesmos patamares. Isso corresponde à alternativa C.`,
@@ -1174,11 +1173,11 @@ de potência adequada, se faz necessária.
 A configuração adequada do circuito e o valor do resistor de 
 proteção, em relação ao valor da resistência do equipamento, são:`,
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+ { id: 'A', type: 'image', value:`/enem/2025/images/enem_2025_d2_q130_A.jpg`},
+ { id: 'B', type: 'image', value:`/enem/2025/images/enem_2025_d2_q130_B.jpg`},
+ { id: 'C', type: 'image', value:`/enem/2025/images/enem_2025_d2_q130_C.jpg`},
+ { id: 'D', type: 'image', value:`/enem/2025/images/enem_2025_d2_q130_D.jpg`},
+ { id: 'E', type: 'image', value:`/enem/2025/images/enem_2025_d2_q130_E.jpg`},
  ],
  correct: 'E',
  explanation: `Como a fonte fornece tensão 20% acima da necessária, deve-se associar o resistor de proteção em série com o equipamento, para que ele absorva o excesso de tensão. No circuito em série a corrente é a mesma, então U_fonte = I(Rp + Rc) e U_Rc = I·Rc; impondo U_fonte = 1,2·U_Rc, obtém-se Rp + Rc = 1,2·Rc, logo Rp = 0,2·Rc. A configuração correta é, portanto, em série com Rp = 0,2·Rc (alternativa E).`,
@@ -1340,11 +1339,11 @@ Os espectros de fotoluminescência do sensor no início e no final
 do tratamento estão esboçados no gráfico:`,
  images: ['/enem/2025/images/enem_2025_d2_q135.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+ { id: 'A', type: 'image', value:`/enem/2025/images/enem_2025_d2_q135_A.jpg`},
+ { id: 'B', type: 'image', value:`/enem/2025/images/enem_2025_d2_q135_B.jpg`},
+ { id: 'C', type: 'image', value:`/enem/2025/images/enem_2025_d2_q135_C.jpg`},
+ { id: 'D', type: 'image', value:`/enem/2025/images/enem_2025_d2_q135_D.jpg`},
+ { id: 'E', type: 'image', value:`/enem/2025/images/enem_2025_d2_q135_E.jpg`},
  ],
  correct: 'A',
  explanation: `No início, o sensor luminesce no vermelho-alaranjado, com pico em ~600 nm. Com o tratamento, a frequência da luz emitida aumenta; como f e λ são inversamente proporcionais (c = λ·f), o comprimento de onda diminui e o pico se desloca para valores menores (região do verde, ~550 nm). O gráfico que mostra o espectro inicial com pico em ~600 nm e o final deslocado para comprimentos de onda menores é a alternativa A.`,
@@ -1416,11 +1415,11 @@ figura que apresenta as projeções ortogonais desse cubo sobre os três planos 
 descritas, e`,
  images: ['/enem/2025/images/enem_2025_d2_q138.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+ { id: 'A', type: 'image', value:`/enem/2025/images/enem_2025_d2_q138_A.jpg`},
+ { id: 'B', type: 'image', value:`/enem/2025/images/enem_2025_d2_q138_B.jpg`},
+ { id: 'C', type: 'image', value:`/enem/2025/images/enem_2025_d2_q138_C.jpg`},
+ { id: 'D', type: 'image', value:`/enem/2025/images/enem_2025_d2_q138_D.jpg`},
+ { id: 'E', type: 'image', value:`/enem/2025/images/enem_2025_d2_q138_E.jpg`},
  ],
  correct: 'E',
  explanation: `O deslocamento altera as coordenadas do cubo assim: aproximar-se 3 do plano yz diminui x (x − 3); afastar-se 5 do plano xz aumenta y (y + 5); aproximar-se 4 do plano xy diminui z (z − 4). Logo, a projeção no plano yz (que depende de y e z) move-se no sentido +y e para baixo; a projeção no plano xz (que depende de x e z) move-se para baixo e em direção ao eixo z; e a projeção no plano xy (que depende de x e y) move-se em direção ao eixo z e no sentido +y. A única figura com as três projeções deslocadas simultaneamente dessa forma é a E. Resposta: E.`,
@@ -1584,7 +1583,7 @@ O critério definido para realização da pintura considera que faces
 congruentes entre si devem ser pintadas com uma mesma cor, e 
 faces não congruentes entre si devem apresentar cores distintas. 
 Qual é a quantidade de cores utilizadas para pintar o protótipo?`,
-    images: ['/enem/2025/images/enem_2025_d2_q144.jpg'],
+    images: null,
  alternatives: [
  { id: 'A', type: 'text', value:`9`},
  { id: 'B', type: 'text', value:`8`},
@@ -1952,12 +1951,8 @@ Nesse estudo, a relação obtida entre T e F foi`,
  alternatives: [
  { id: 'A', type: 'text', value:`T = 1,59 + F`},
  { id: 'B', type: 'text', value:`F = 1,59 + T`},
- { id: 'C', type: 'text', value:`T 
-F = 1 59 
-,`},
- { id: 'D', type: 'text', value:`F 
-T = 1 59 
-,`},
+ { id: 'C', type: 'text', value:`T/F = 1,59`},
+ { id: 'D', type: 'text', value:`F/T = 1,59`},
  { id: 'E', type: 'text', value:`F ⋅ T = 1,59`},
  ],
  correct: 'C',
@@ -2023,116 +2018,17 @@ pote cheio de sorvete é`,
  exam: 'enem',
  year: 2025,
  day: 2,
- text:`Um recipiente tem um formato que faz com que, ao ser 
-enchido de água com uma vazão constante, a distância D da 
-lâmina de água ao tampo da mesa, em centímetro, aumente 
-em relação ao tempo T , em minuto, de acordo com uma função 
-do tipo 
-D = k + tg[ p ( T + m )], 
-sendo os parâmetros k , p e m números reais, para T variando 
-entre 0 e 4 minutos, conforme ilustrado na figura, na qual estão 
-apresentadas assíntotas verticais da função tangente utilizada 
-na definição de D . 
-A expressão algébrica que representa a relação entre D e T é 
-  
-2 5 
-30 
-5 
-2 
-2 
-, 
-tg 
-`,
+ text:`Um recipiente tem um formato que faz com que, ao ser enchido de água com uma vazão constante, a distância D da lâmina de água ao tampo da mesa, em centímetro, aumente em relação ao tempo T, em minuto, de acordo com uma função do tipo
+D = k + tg[p(T + m)],
+sendo os parâmetros k, p e m números reais, para T variando entre 0 e 4 minutos, conforme ilustrado na figura, na qual estão apresentadas assíntotas verticais da função tangente utilizada na definição de D.
+A expressão algébrica que representa a relação entre D e T é`,
  images: ['/enem/2025/images/enem_2025_d2_q160.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value:`D 
-T 
- 
- 
- 
- 
- 
-  
- 
-  
- 
-  
- 
-  
-4 
-30 
-5 
-2 
-tg`},
- { id: 'B', type: 'text', value:`D 
-T 
- 
- 
- 
- 
-  
- 
-  
- 
-  
- 
-  
-4 
-2 5 
-5 
-2 
-2 
-tg 
-, 
-`},
- { id: 'C', type: 'text', value:`D 
-T 
- 
- 
- 
- 
- 
-  
- 
-  
- 
-  
-`},
- { id: 'D', type: 'text', value:`D 
-T 
- 
- 
- 
- 
- 
- 
-  
- 
-  
-30 
-1 
-2 
-5 
-tg 
-  
-30 
-1 
-2 
-5 
-2 
-tg`},
- { id: 'E', type: 'text', value:`D 
-T 
- 
- 
- 
- 
-  
- 
-  
- 
-  
-`},
+ { id: 'A', type: 'text', value:`D = 2,5 + tg[30·(T − (5−2π)/2)]` },
+ { id: 'B', type: 'text', value:`D = 4 + tg[30·(T + 5/2)]` },
+ { id: 'C', type: 'text', value:`D = 4 + tg[2,5·(T + (5+2π)/2)]` },
+ { id: 'D', type: 'text', value:`D = 30 + tg[(1/2)·(T − 5)]` },
+ { id: 'E', type: 'text', value:`D = 30 + tg[(1/2)·(T − 5/2)]` },
  ],
  correct: 'E',
  explanation: `As assíntotas estão em T = (5−2π)/2 e T = (5+2π)/2, separadas por 2π. Como o período da tangente é π/p, tem-se π/p = 2π → p = 1/2. O ponto central entre as assíntotas é T = 5/2, onde D = 30, logo k = 30 e p(T + m) = 0 em T = 5/2 → m = −5/2. Assim D = 30 + tg[(1/2)(T − 5/2)]. Resposta: E.`,
@@ -2381,13 +2277,13 @@ por hectare. O quadro apresenta a área cultivada e a produtividade de soja em c
 com períodos de um ano, de 2011 a 2016. 
  
 O gráfico de linhas que representa a produção de soja dessa propriedade, em tonelada, nessas cinco safras é`,
- images: ['/enem/2025/images/enem_2025_d2_q169_1.jpg', '/enem/2025/images/enem_2025_d2_q169_2.jpg'],
+ images: ['/enem/2025/images/enem_2025_d2_q169_1.jpg'],
  alternatives: [
- { id: 'A', type: 'text', value: `A` },
- { id: 'B', type: 'text', value: `B` },
- { id: 'C', type: 'text', value: `C` },
- { id: 'D', type: 'text', value: `D` },
- { id: 'E', type: 'text', value: `E` },
+ { id: 'A', type: 'image', value:`/enem/2025/images/enem_2025_d2_q169_A.jpg`},
+ { id: 'B', type: 'image', value:`/enem/2025/images/enem_2025_d2_q169_B.jpg`},
+ { id: 'C', type: 'image', value:`/enem/2025/images/enem_2025_d2_q169_C.jpg`},
+ { id: 'D', type: 'image', value:`/enem/2025/images/enem_2025_d2_q169_D.jpg`},
+ { id: 'E', type: 'image', value:`/enem/2025/images/enem_2025_d2_q169_E.jpg`},
  ],
  correct: 'A',
  explanation: `Produção (t) = área × produtividade × 50 kg ÷ 1000 = área × produtividade ÷ 20. Por safra: 200·40/20 = 400; 220·30/20 = 330; 250·45/20 = 562,5; 250·45/20 = 562,5; 200·50/20 = 500. A sequência 400; 330; 562,5; 562,5; 500 corresponde ao gráfico A. Resposta: A.`,
@@ -2481,15 +2377,11 @@ do parâmetro K , atendendo à recomendação do fabricante.
 O maior valor a ser escolhido para K é`,
  images: null,
  alternatives: [
- { id: 'A', type: 'text', value:`10 0,5`},
- { id: 'B', type: 'text', value:`10 8 
-2 5,`},
- { id: 'C', type: 'text', value:`10 
-84 
-2 5,`},
- { id: 'D', type: 'text', value:`10 
-99`},
- { id: 'E', type: 'text', value:`25 × 10 − 2`},
+ { id: 'A', type: 'text', value:`10^0,5`},
+ { id: 'B', type: 'text', value:`10^8`},
+ { id: 'C', type: 'text', value:`10^2,5 / 84`},
+ { id: 'D', type: 'text', value:`10^2,5 / 99`},
+ { id: 'E', type: 'text', value:`25 × 10^−2`},
  ],
  correct: 'A',
  explanation: `Para 0 ≤ t ≤ 10, o valor de −(t+1)(t−19) = −t² + 18t + 19 é máximo em t = 9, valendo −(10)(−10) = 100. A pressão máxima é P = 4·log(100K) ≤ 10 → log(100K) ≤ 2,5 → 100K ≤ 10^2,5 → K ≤ 10^2,5 / 10² = 10^0,5. O maior valor de K é 10^0,5. Resposta: A.`,
@@ -2659,11 +2551,11 @@ maior número. Em caso de empate, a vitória é de João.
 O jogador que tem a maior probabilidade de vitória é`,
  images: null,
  alternatives: [
- { id: 'A', type: 'text', value: `Artur, com probabilidade de 3 4` },
- { id: 'B', type: 'text', value: `João, com probabilidade de 9 91` },
- { id: 'C', type: 'text', value: `Artur, com probabilidade de 216 91` },
- { id: 'D', type: 'text', value: `João, com probabilidade de 216 125` },
- { id: 'E', type: 'text', value: `Artur, com probabilidade de 216` },
+ { id: 'A', type: 'text', value: `Artur, com probabilidade de 2/3` },
+ { id: 'B', type: 'text', value: `João, com probabilidade de 4/9` },
+ { id: 'C', type: 'text', value: `Artur, com probabilidade de 91/216` },
+ { id: 'D', type: 'text', value: `João, com probabilidade de 91/216` },
+ { id: 'E', type: 'text', value: `Artur, com probabilidade de 125/216` },
  ],
  correct: 'E',
  explanation: `São 6³ = 216 resultados. Artur vence se o maior de seus dois dados superar o número de João. Para cada valor j de João, há 36 − j² pares (a₁,a₂) com máximo maior que j. Somando para j = 1 a 6: 35 + 32 + 27 + 20 + 11 + 0 = 125. Logo Artur vence em 125 dos 216 casos (125/216) e João em 91/216; Artur tem a maior probabilidade. Resposta: E.`,
@@ -2683,17 +2575,11 @@ até o foco de luz, medida em metro (m).
 A unidade de medida da luminância de um objeto é`,
  images: null,
  alternatives: [
- { id: 'A', type: 'text', value:`cd 
-m² 
-2`},
- { id: 'B', type: 'text', value:`m 
-cd`},
- { id: 'C', type: 'text', value:`cd 
-m`},
- { id: 'D', type: 'text', value:`m 
-cd`},
- { id: 'E', type: 'text', value:`m 
-cd 2`},
+ { id: 'A', type: 'text', value:`cd/m²`},
+ { id: 'B', type: 'text', value:`m²/cd`},
+ { id: 'C', type: 'text', value:`cd/m`},
+ { id: 'D', type: 'text', value:`m/cd`},
+ { id: 'E', type: 'text', value:`m/cd²`},
  ],
  correct: 'A',
  explanation: `A luminância é a razão entre a intensidade luminosa (em candela, cd) e o quadrado da distância (em metro, m²): cd ÷ m² = cd/m². Resposta: A.`,
