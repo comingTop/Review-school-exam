@@ -1604,11 +1604,11 @@ sobre o solo.
 A sombra projetada no solo é`,
     images: ['/enem/2019/images/enem_2019_d2_q136_1.jpg', '/enem/2019/images/enem_2019_d2_q136_2.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2019/images/enem_2019_d2_q136_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2019/images/enem_2019_d2_q136_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2019/images/enem_2019_d2_q136_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2019/images/enem_2019_d2_q136_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2019/images/enem_2019_d2_q136_E.jpg` },
     ],
     correct: 'E',
     explanation: `As letras (P, I, N, E), verticais, de mesma espessura e com espaçamentos iguais, ao meio-dia com o sol a pino projetam-se verticalmente no solo. A sombra de cada letra é a sua “pegada” vista de cima: como cada letra tem material em toda a sua largura (em alguma altura), cada uma projeta uma barra cheia, e os espaços iguais entre as letras aparecem como intervalos iguais entre as barras. Resultam quatro retângulos cheios (P largo, I estreito, N largo, E largo) separados por espaços iguais, como na figura E (na A as letras apareceriam unidas numa única barra). Resposta: E.`,
@@ -1633,11 +1633,11 @@ Para produzir a Hydrangea cor-de-rosa de maior
 valor comercial, deve-se preparar o solo de modo que 
 x assuma`,
     alternatives: [
-      { id: 'A', type: 'text', value: `qualquer valor acima de 10 − 8 .` },
-      { id: 'B', type: 'text', value: `qualquer valor positivo inferior a 10 − 7 .` },
+      { id: 'A', type: 'text', value: `qualquer valor acima de 10⁻⁸.` },
+      { id: 'B', type: 'text', value: `qualquer valor positivo inferior a 10⁻⁷.` },
       { id: 'C', type: 'text', value: `valores maiores que 7 e menores que 8.` },
       { id: 'D', type: 'text', value: `valores maiores que 70 e menores que 80.` },
-      { id: 'E', type: 'text', value: `valores maiores que 10 − 8 e menores que 10 − 7 .` },
+      { id: 'E', type: 'text', value: `valores maiores que 10⁻⁸ e menores que 10⁻⁷.` },
     ],
     correct: 'E',
     explanation: `A Hydrangea rosa (solo alcalino) de maior valor exige 7 < pH < 8. Como pH = −log₁₀x: pH = 7 → x = 10⁻⁷ e pH = 8 → x = 10⁻⁸. Sendo o pH decrescente em x, 7 < pH < 8 equivale a 10⁻⁸ < x < 10⁻⁷. Resposta: E.`,
@@ -1692,15 +1692,13 @@ valores correspondentes a cada faixa.
 • Faixa 3: para consumo superior a 10 m³ , tarifa de R$ 6,00 por metro cúbico ao que exceder a 10 m³ . 
 Sabe-se que nessa cidade o consumo máximo de água por residência é de 15 m³ por mês. 
 O gráfico que melhor descreve o valor P , em real, a ser pago por mês, em função do volume V de água consumido, 
-em metro cúbico, é 
-P (R$)`,
-    images: ['/enem/2019/images/enem_2019_d2_q139_A.jpg', '/enem/2019/images/enem_2019_d2_q139_B.jpg', '/enem/2019/images/enem_2019_d2_q139_C.jpg', '/enem/2019/images/enem_2019_d2_q139_D.jpg', '/enem/2019/images/enem_2019_d2_q139_E.jpg'],
+em metro cúbico, é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2019/images/enem_2019_d2_q139_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2019/images/enem_2019_d2_q139_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2019/images/enem_2019_d2_q139_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2019/images/enem_2019_d2_q139_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2019/images/enem_2019_d2_q139_E.jpg` },
     ],
     correct: 'A',
     explanation: `P(V) é constante e igual a 12 para 0 ≤ V ≤ 6 (patamar); para 6 < V ≤ 10, P = 12 + 3(V−6), chegando a P(10) = 24; para 10 < V ≤ 15, P = 24 + 6(V−10), chegando a P(15) = 54. O gráfico começa constante e depois cresce ficando mais íngreme na última faixa — alternativa A. Resposta: A.`,
@@ -1723,11 +1721,11 @@ Disponível em: www.gripenet.pt. Acesso em: 2 nov. 2013 (adaptado).
 Em notação científica, o diâmetro interno do vírus 
 influenza , em mm, é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `1,1 × 10 - 1` },
-      { id: 'B', type: 'text', value: `1,1 × 10 - 2` },
-      { id: 'C', type: 'text', value: `1,1 × 10 - 3` },
-      { id: 'D', type: 'text', value: `1,1 × 10 - 4` },
-      { id: 'E', type: 'text', value: `1,1 × 10 - 5` },
+      { id: 'A', type: 'text', value: `1,1 × 10⁻¹` },
+      { id: 'B', type: 'text', value: `1,1 × 10⁻²` },
+      { id: 'C', type: 'text', value: `1,1 × 10⁻³` },
+      { id: 'D', type: 'text', value: `1,1 × 10⁻⁴` },
+      { id: 'E', type: 'text', value: `1,1 × 10⁻⁵` },
     ],
     correct: 'D',
     explanation: `0,00011 = 1,1 × 10⁻⁴ mm (a vírgula desloca-se 4 casas). Resposta: D.`,
@@ -2332,10 +2330,7 @@ a cada uma das faces de um tetraedro regular.
 Para essa luminária, as secções serão feitas de 
 maneira que, em cada corte, um terço das arestas 
 seccionadas serão removidas. Uma dessas secções 
-está indicada na figura. 
-a 
-3 
-a 
+está indicada na figura.
 Essa luminária terá por faces`,
     images: ['/enem/2019/images/enem_2019_d2_q157.jpg'],
     alternatives: [
@@ -2815,12 +2810,8 @@ numerações, conforme ilustrado na figura.
 12 
 De acordo com as possíveis variações nas colorações 
 dos vagões, a quantidade de trens que podem ser 
-montados, expressa por meio de combinações, é 
-dada por 
-4 
-3 
-3 
-2`,
+montados, expressa por meio de combinações, é
+dada por`,
     images: ['/enem/2019/images/enem_2019_d2_q171.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `C₁₂⁴ × C₁₂³ × C₁₂³ × C₁₂²` },

@@ -2896,7 +2896,6 @@ CARDOSO, C. F. A cidade-estado clássica . São Paulo: Ática, 1985.
 Nas cidades-estado da Antiguidade Clássica, a proporção 
 de cidadãos descrita no texto é explicada pela adoção do 
 seguinte critério para a participação política:`,
-    images: ['/enem/2019/images/enem_2019_d1_q79.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Controle da terra.` },
       { id: 'B', type: 'text', value: `Liberdade de culto.` },
@@ -3317,7 +3316,6 @@ He knew the day was dawning
 And I didn't have a chance to say goodbye.
 MADONNA. Erótica. Estados Unidos: Maverick, 1992.
 A canção, muitas vezes, é uma forma de manifestar sentimentos e emoções da vida cotidiana. Por exemplo, o sofrimento retratado nessa canção foi causado`,
-    images: ['/enem/2019/images/enem_2019_d1_q93.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `pela morte precoce de um amigo jovem.` },
       { id: 'B', type: 'text', value: `pelo término de um relacionamento amoroso.` },
