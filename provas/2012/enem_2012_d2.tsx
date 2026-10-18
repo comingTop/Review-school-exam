@@ -2459,11 +2459,11 @@ Qual relação entre R e L o auxiliar técnico deverá
 apresentar de modo que a exigência de segurança 
 seja cumprida?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `R ≥ L / 2` },
+      { id: 'A', type: 'text', value: `R ≥ L / √2` },
       { id: 'B', type: 'text', value: `R ≥ 2 L / π` },
-      { id: 'C', type: 'text', value: `R ≥ L / π` },
+      { id: 'C', type: 'text', value: `R ≥ L / √π` },
       { id: 'D', type: 'text', value: `R ≥ L / 2` },
-      { id: 'E', type: 'text', value: `R ≥ L / (2 2)` },
+      { id: 'E', type: 'text', value: `R ≥ L / (2√2)` },
     ],
     correct: 'A',
     explanation: `Para que a base quadrada de lado L fique inteiramente apoiada, a plataforma circular de raio R deve conter o quadrado. O menor círculo que contém o quadrado é o circunscrito, cujo diâmetro é a diagonal do quadrado: 2R ≥ L√2. Logo R ≥ L√2/2 = L/√2. Resposta: A.`,
@@ -2666,12 +2666,10 @@ III
 I 
 8 m 
 5 m 
-Avaliando-se todas as informações, serão necessários 
-A quatro unidades do tipo A e nenhuma unidade do tipo B. 
-B tres unidades do tipo`,
+Avaliando-se todas as informações, serão necessários`,
     images: ['/enem/2012/images/enem_2012_d2_q159.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `e uma unidade do tipo` },
+      { id: 'A', type: 'text', value: `quatro unidades do tipo A e nenhuma unidade do tipo B.` },
       { id: 'B', type: 'text', value: `três unidades do tipo A e uma unidade do tipo B.` },
       { id: 'C', type: 'text', value: `duas unidades do tipo A e duas unidades do tipo B.` },
       { id: 'D', type: 'text', value: `uma unidade do tipo A e três unidades do tipo B.` },
