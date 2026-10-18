@@ -52,13 +52,12 @@ desse período, a bateria funcionava normalmente e estava com o total de sua car
 na possibilidade de haver uma corrente de fuga, que se estabelece mesmo com os dispositivos elétricos do
 veículo desligados, ele associa um amperímetro digital ao circuito do veículo.
 Qual dos esquemas indica a maneira com que o amperímetro deve ser ligado e a leitura por ele realizada?`,
-    images: ['/enem/2020/images/enem_2020_d2_q93_A.jpg', '/enem/2020/images/enem_2020_d2_q93_B.jpg', '/enem/2020/images/enem_2020_d2_q93_C.jpg', '/enem/2020/images/enem_2020_d2_q93_D.jpg', '/enem/2020/images/enem_2020_d2_q93_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2020/images/enem_2020_d2_q93_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2020/images/enem_2020_d2_q93_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2020/images/enem_2020_d2_q93_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2020/images/enem_2020_d2_q93_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2020/images/enem_2020_d2_q93_E.jpg` },
     ],
     correct: 'B',
     explanation: `A corrente de fuga é dada por i = Q/Δt. Convertendo o tempo: 5 dias = 5 × 24 = 120 h; com Q = 60 Ah, tem-se i = 60/120 = 0,5 A. Para medir a corrente que percorre o circuito, o amperímetro deve ser ligado em série com ele (e não em paralelo). O esquema que mostra o amperímetro em série indicando a leitura de 0,5 A é o B (alternativa B).`,
@@ -436,7 +435,7 @@ substância
 refrigerante 
 no 
 condensador diminui mais rapidamente.` },
-      { id: 'C', type: 'text', value: `o fl uxo de calor promove signifi cativa elevação da 
+      { id: 'C', type: 'text', value: `o fl uxo de calor promove significativa elevação da 
 temperatura no interior do refrigerador.` },
       { id: 'D', type: 'text', value: `a 
 liquefação 
@@ -446,7 +445,7 @@ refrigerante
 no 
 condensador exige mais trabalho do compressor.` },
       { id: 'E', type: 'text', value: `as correntes de convecção nas proximidades do 
-condensador ocorrem com maior difi culdade.` },
+condensador ocorrem com maior dificuldade.` },
     ],
     correct: 'D',
     explanation: `O refrigerador funciona retirando calor do interior e liberando-o no condensador, onde o fluido refrigerante se liquefaz. Se o aparelho estiver próximo de uma fonte de calor, a temperatura no condensador aumenta, dificultando a liquefação do fluido. Para condensar o gás nessas condições, o compressor precisa realizar mais trabalho, consumindo mais energia elétrica. Portanto, o maior consumo resulta porque a liquefação da substância refrigerante no condensador exige mais trabalho do compressor (alternativa D).`,
@@ -458,15 +457,15 @@ condensador ocorrem com maior difi culdade.` },
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Um mergulhador fi ca preso ao explorar uma caverna 
+    text: `Um mergulhador fica preso ao explorar uma caverna 
 no oceano. Dentro da caverna formou-se um bolsão de 
-ar, como mostrado na fi gura, onde o mergulhador se 
+ar, como mostrado na figura, onde o mergulhador se 
 abrigou. 
 Durante o resgate, para evitar danos a seu 
 organismo, foi necessário que o mergulhador passasse 
 por um processo de descompressão antes de retornar 
-à superfície para que seu corpo fi casse novamente sob 
-pressão atmosférica. O gráfi co mostra a relação entre 
+à superfície para que seu corpo ficasse novamente sob 
+pressão atmosférica. O gráfico mostra a relação entre 
 os tempos de descompressão recomendados para 
 indivíduos nessa situação e a variação de pressão. 
 Tempo de 
@@ -700,13 +699,12 @@ queda até o chão.
 Qual figura melhor representa a trajetória de queda da bolinha? 
 V 0 
 Mesa`,
-    images: ['/enem/2020/images/enem_2020_d2_q113_A.jpg', '/enem/2020/images/enem_2020_d2_q113_B.jpg', '/enem/2020/images/enem_2020_d2_q113_C.jpg', '/enem/2020/images/enem_2020_d2_q113_D.jpg', '/enem/2020/images/enem_2020_d2_q113_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2020/images/enem_2020_d2_q113_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2020/images/enem_2020_d2_q113_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2020/images/enem_2020_d2_q113_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2020/images/enem_2020_d2_q113_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2020/images/enem_2020_d2_q113_E.jpg` },
     ],
     correct: 'D',
     explanation: `Ao deixar a mesa com velocidade horizontal constante V₀, a bolinha realiza um lançamento horizontal: na direção horizontal o movimento é uniforme e na vertical é uma queda livre (acelerada pela gravidade). A composição desses dois movimentos resulta em uma trajetória parabólica, iniciada no instante em que a bolinha abandona a borda da mesa. Portanto, a figura que representa corretamente a queda é a da parábola que começa na quina da mesa (alternativa D).`,
@@ -1348,7 +1346,7 @@ O perfil de um processo que segue todos os princípios desse ramo da química po
       { id: 'B', type: 'text', value: `A + B → C + D (a reação é fortemente endotérmica).` },
       { id: 'C', type: 'text', value: `A + 3B → C (a reação ocorre com uso de solvente orgânico).` },
       { id: 'D', type: 'text', value: `3A + 2B → 2C → 3D + 2E (a reação ocorre sob pressão atmosférica).` },
-      { id: 'E', type: 'text', value: `A + 1−2B → C (a reação ocorre com o uso de um catalisador contendo um metal não tóxico).` },
+      { id: 'E', type: 'text', value: `A + ½B → C (a reação ocorre com o uso de um catalisador contendo um metal não tóxico).` },
 
     ],
     correct: 'E',
@@ -1787,8 +1785,8 @@ completamente o balde, partindo do instante atual?`,
 troféu que ganhou no último campeonato. O troféu está 
 representado na Figura 1 e é composto por uma base 
 em formato de um paralelepípedo reto-retângulo de 
-madeira, sobre a qual estão fi xadas três hastes verticais 
-que sustentam uma esfera de 30 cm de diâmetro, que fi ca 
+madeira, sobre a qual estão fixadas três hastes verticais 
+que sustentam uma esfera de 30 cm de diâmetro, que fica 
 centralizada sobre a base de madeira. O troféu tem 100 cm 
 de altura, incluída sua base. 
 ? 
@@ -1833,7 +1831,7 @@ escada para o acesso ao segundo andar. Para o cálculo
 das dimensões dos degraus utilizam-se as regras: 
 |2 h + b − 63,5| ≤ 1,5 e 16 ≤ h ≤ 19, 
 nas quais h é a altura do degrau (denominada espelho) 
-e b é a profundidade da pisada, como mostra a fi gura. 
+e b é a profundidade da pisada, como mostra a figura. 
 Por conveniência, escolheu-se a altura do degrau como 
 sendo h = 16. As unidades de h e b estão em centímetro. 
 Nesse caso, o mais amplo intervalo numérico ao qual a 
@@ -1869,7 +1867,7 @@ combustível gasto para percorrer 100 quilômetros;
 • Tipo B: informa a quantidade de quilômetro que 
 o veículo é capaz de percorrer com um litro de 
 combustível. 
-Um veículo utiliza o computador do Tipo A, e ao fi nal 
+Um veículo utiliza o computador do Tipo A, e ao final 
 de uma viagem o condutor viu apresentada na tela a 
 informação “ X /100”. 
 Caso o seu veículo utilizasse o computador do Tipo B, o 
@@ -1942,7 +1940,7 @@ palavras por ordem de frequência. Ou seja, r = 1 para a
 palavra mais frequente, r = 2 para a segunda palavra mais
 frequente e assim sucessivamente. A e B são constantes
 positivas.
-Diponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adatpado).
+Diponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adaptado).
 Com base nos valores de X = log(r) e Y = log(f), é
 possível estimar valores para A e B.
 No caso hipotético em que a lei é verificada exatamente,
@@ -1970,12 +1968,9 @@ quantidade vai diminuindo. Sabe-se que a meia-vida do
 carbono 14 é de 5 730 anos, ou seja, num fóssil de um 
 organismo que morreu há 5 730 anos haverá metade do 
 carbono 14 que existia quando ele estava vivo. Assim, 
-cientistas e arqueólogos usam a seguinte fórmula para 
-− 
-t 
-5730 
-saber a idade de um fóssil encontrado: Q t = Q 0 ∙ 2 
-em que t é o tempo, medido em ano, Q t é a quantidade 
+cientistas e arqueólogos usam a seguinte fórmula para
+saber a idade de um fóssil encontrado: Q(t) = Q₀ ∙ 2^(−t/5730)
+em que t é o tempo, medido em ano, Q t é a quantidade
 de carbono 14 medida no instante t e Q 0 é a quantidade 
 de carbono 14 no ser vivo correspondente. 
 Um grupo de arqueólogos, numa de suas expedições, 
@@ -2396,44 +2391,6 @@ no qual estão representados os lotes, as ruas e os
 afastamentos considerados nos projetos entre as 
 casas e as divisas dos lotes. As medidas indicadas no 
 esquema estão expressas em metro. 
-1 
-1 
-4 
-1 
-1 
-1 
-Casa 1 
-Casa 2 
-Lote 
-20 
-20 
-20 
-4 
-4 
-10 
-10 
-Rua 
-10 
-10 
-2 
-4 
-4 
-2 
-2 
-1 
-Lote 
-Casa 3 
-Casa 4 
-Rua 
-2 
-4 
-1 
-4 
-1 
-Lote 
-Casa 5 
-1 
-Lote 
 A prefeitura aprovará apenas a planta da casa`,
     images: ['/enem/2020/images/enem_2020_d2_q162.jpg'],
     alternatives: [
@@ -2509,7 +2466,7 @@ de 55 decibéis?`,
       { id: 'E', type: 'text', value: `13` },
     ],
     correct: 'E',
-    explanation: `Lendo o gráfico, o ruído ultrapassa a linha de 55 dB em quatro intervalos ao longo do dia; somando as durações desses intervalos (em horas inteiras da escala) obtém-se um total de 13 horas acima de 55 dB. Resposta: E.`,
+    explanation: `Lendo o gráfico, o ruído ultrapassa a linha de 55 dB em cinco intervalos ao longo do dia; somando as durações desses intervalos (em horas inteiras da escala) obtém-se um total de 13 horas acima de 55 dB. Resposta: E.`,
     subject: ['mat'],
     topics: ['Estatística e probabilidade', 'Questões aleatórias'],
   },
@@ -2526,11 +2483,11 @@ baixos, de estaturas: 1,78 m, 1,82 m, 1,84 m e 1,86 m.
 Para isso, o técnico contratou um novo jogador de 2,02 m. 
 Os outros três jogadores que ele ainda precisa contratar 
 devem satisfazer à sua necessidade de aumentar a média 
-das estaturas da equipe. Ele fi xará a média das estaturas 
+das estaturas da equipe. Ele fixará a média das estaturas 
 para os três jogadores que ainda precisa contratar dentro 
 do critério inicialmente estabelecido. 
 Qual deverá ser a média mínima das estaturas, em metro, 
-que ele deverá fi xar para o grupo de três novos jogadores 
+que ele deverá fixar para o grupo de três novos jogadores 
 que ainda irá contratar?`,
     alternatives: [
       { id: 'A', type: 'text', value: `1,96` },
@@ -2558,17 +2515,17 @@ garrafa é constante e cessa quando atinge o nível de
 envasamento. 
 Nível de envasamento 
 da garrafa 
-Qual esboço de gráfi co melhor representa a variação da 
+Qual esboço de gráfico melhor representa a variação da 
 altura do líquido em função do tempo, na garrafa indicada 
 na imagem? 
 altura`,
     images: ['/enem/2020/images/enem_2020_d2_q166.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2020/images/enem_2020_d2_q166_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2020/images/enem_2020_d2_q166_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2020/images/enem_2020_d2_q166_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2020/images/enem_2020_d2_q166_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2020/images/enem_2020_d2_q166_E.jpg` },
     ],
     correct: 'B',
     explanation: `Com vazão constante, a altura do líquido sobe mais devagar onde a garrafa é larga (corpo) e mais depressa onde ela é estreita (ombro, perto do nível de envasamento). Assim o gráfico altura × tempo começa crescendo de forma quase linear e passa a crescer mais rápido (concavidade para cima) ao final — esboço B. Resposta: B.`,
@@ -2740,10 +2697,10 @@ das áreas em branco desse painel são os de formato`,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `No período de fi m de ano, o síndico de um condomínio 
+    text: `No período de fim de ano, o síndico de um condomínio 
 resolveu colocar, em um poste, uma iluminação natalina 
 em formato de cone, lembrando uma árvore de Natal, 
-conforme as fi guras 1 e 2. 
+conforme as figuras 1 e 2. 
 Poste 
 h = 3 m 
 c 
@@ -2753,8 +2710,8 @@ A árvore deverá ser feita colocando-se mangueiras
 de iluminação, consideradas segmentos de reta de 
 mesmo comprimento, a partir de um ponto situado a 3 m 
 de altura no poste até um ponto de uma circunferência de 
-fi xação, no chão, de tal forma que esta fi que dividida em 
-20 arcos iguais. O poste está fi xado no ponto C (centro 
+fixação, no chão, de tal forma que esta fique dividida em 
+20 arcos iguais. O poste está fixado no ponto C (centro 
 da circunferência) perpendicularmente ao plano do chão. 
 Para economizar, ele utilizará mangueiras de 
 iluminação aproveitadas de anos anteriores, que juntas 
@@ -2786,8 +2743,8 @@ projetada por arquitetos, comumente em praças e jardins,
 para criar um ambiente para pessoas ou plantas, no qual 
 há uma quebra da quantidade de luz, dependendo da 
 posição do sol. É feito como um estrado de vigas iguais, 
-postas paralelas e perfeitamente em fi la, como ilustra a 
-fi gura. 
+postas paralelas e perfeitamente em fila, como ilustra a 
+figura. 
 30 cm 
 30 cm 
 Um arquiteto projeta um pergolado com vãos de 
@@ -2795,7 +2752,7 @@ Um arquiteto projeta um pergolado com vãos de
 solstício de verão, a trajetória do sol durante o dia seja 
 realizada num plano perpendicular à direção das vigas, 
 e que o sol da tarde, no momento em que seus raios 
-fi zerem 30° com a posição a pino, gere a metade da luz 
+fizerem 30° com a posição a pino, gere a metade da luz 
 que passa no pergolado ao meio-dia. 
 Para atender à proposta do projeto elaborado pelo 
 arquiteto, as vigas do pergolado devem ser construídas 
@@ -2854,7 +2811,7 @@ Segundo a metodologia descrita, o número estimado de pessoas presentes a essa m
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Um administrador resolve estudar o lucro de sua empresa e, para isso, traca o gráfico da receita e do custo de 
+    text: `Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de
 produção de seus itens, em real, em função da quantidade de itens produzidos. 
 R$ 
 55 
@@ -2886,11 +2843,11 @@ R$
 15`,
     images: ['/enem/2020/images/enem_2020_d2_q175.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2020/images/enem_2020_d2_q175_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2020/images/enem_2020_d2_q175_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2020/images/enem_2020_d2_q175_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2020/images/enem_2020_d2_q175_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2020/images/enem_2020_d2_q175_E.jpg` },
     ],
     correct: 'A',
     explanation: `Lucro = Receita − Custo. Pelos gráficos: para poucas unidades o custo supera a receita (lucro negativo, mínimo ≈ −20 perto de 10 itens), o lucro se anula perto de 15 itens, atinge máximo ≈ +40 perto de 25 itens e volta a cair até 30. Esse comportamento corresponde ao gráfico A. Resposta: A.`,
@@ -2902,21 +2859,21 @@ R$
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Em um jogo desenvolvido para uso no computador, objetos tridimensionais vao descendo do alto da tela ate 
-alcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posiciona-lo 
+    text: `Em um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até
+alcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posicioná-lo
 convenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos, 
 formando assim um sólido rígido, como ilustrado na figura. 
-Para facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse solido em tres 
+Para facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três
 planos quadriculados perpendiculares entre si, durante sua descida. 
 A figura que apresenta uma possível posição desse sólido, com suas respectivas projeções ortogonais sobre os três 
 planos citados, durante sua descida e`,
     images: ['/enem/2020/images/enem_2020_d2_q176.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2020/images/enem_2020_d2_q176_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2020/images/enem_2020_d2_q176_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2020/images/enem_2020_d2_q176_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2020/images/enem_2020_d2_q176_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2020/images/enem_2020_d2_q176_E.jpg` },
     ],
     correct: 'E',
     explanation: `Projetando ortogonalmente o sólido (quatro cubos dispostos em degrau/forma de S) sobre os três planos perpendiculares, cada projeção deve coincidir com a silhueta do sólido naquela direção. A única figura em que as três projeções (nas duas paredes e no piso) são compatíveis com a posição do sólido é a E. Resposta: E.`,
@@ -2938,11 +2895,11 @@ o escoamento da água de chuva que o pedreiro precisa
 fazer é`,
     images: ['/enem/2020/images/enem_2020_d2_q177.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2020/images/enem_2020_d2_q177_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2020/images/enem_2020_d2_q177_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2020/images/enem_2020_d2_q177_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2020/images/enem_2020_d2_q177_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2020/images/enem_2020_d2_q177_E.jpg` },
     ],
     correct: 'B',
     explanation: `Um telhado de três águas tem três planos inclinados, logo a água escoa em três direções. Na planta, uma extremidade forma uma água triangular (tacaniça) que escoa para um lado, enquanto as outras duas águas escoam para cima e para baixo — representação da alternativa B. Resposta: B.`,
