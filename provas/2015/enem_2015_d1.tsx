@@ -1563,13 +1563,12 @@ e sua localização em uma célula secretora?
 Radioatividade (%) 
 Retículo Endoplasmático 
 Complexo Golgiense`,
-    images: ['/enem/2015/images/enem_2015_d1_q48_A.jpg', '/enem/2015/images/enem_2015_d1_q48_B.jpg', '/enem/2015/images/enem_2015_d1_q48_C.jpg', '/enem/2015/images/enem_2015_d1_q48_D.jpg', '/enem/2015/images/enem_2015_d1_q48_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2015/images/enem_2015_d1_q48_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2015/images/enem_2015_d1_q48_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2015/images/enem_2015_d1_q48_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2015/images/enem_2015_d1_q48_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2015/images/enem_2015_d1_q48_E.jpg` },
     ],
     correct: 'C',
     explanation: `No ensaio com aminoácidos radioativos acompanha-se a rota de secreção de proteínas: a síntese ocorre no retículo endoplasmático, o processamento no complexo golgiense e, por fim, o empacotamento nas vesículas de secreção. Com o passar do tempo, a radioatividade deve aparecer primeiro no retículo (aos 5 min), depois predominar no complexo golgiense (aos 10 min) e, por último, nas vesículas de secreção (aos 15 min). O gráfico que mostra essa sequência — retículo alto aos 5 min, Golgi alto aos 10 min e vesículas altas aos 15 min — é o da alternativa C. Portanto, a resposta é a alternativa C.`,

@@ -1094,7 +1094,6 @@ compositores de Assum preto resultam da aplicação de
 um conjunto de princípios ou regras gerais que alteram a 
 pronúncia, a morfologia, a sintaxe ou o léxico. No texto, é 
 resultado de uma mesma regra a`,
-    images: ['/enem/2015/images/enem_2015_d2_q116.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `pronúncia das palavras “vorta” e “veve”.` },
       { id: 'B', type: 'text', value: `pronúncia das palavras “tarvez” e “sorto”.` },
@@ -1299,7 +1298,6 @@ VIARO, M. E. Língua Portuguesa , n. 77, mar. 2012 (adaptado).
 A discussão empreendida sobre o (des)uso do verbo 
 “pinchar” nos traz uma reflexão sobre a linguagem e seus 
 usos, a partir da qual compreende-se que`,
-    images: ['/enem/2015/images/enem_2015_d2_q120.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `as palavras esquecidas pelos falantes devem ser 
 descartadas dos dicionários, conforme sugere o título.` },
@@ -3334,13 +3332,12 @@ fixo mensal de R$ 32,00.
 Com base nos elementos apresentados, o gráfico que 
 melhor representa a relação entre o valor mensal pago 
 nesse plano e o número de ligações feitas é:`,
-    images: ['/enem/2015/images/enem_2015_d2_q176_A.jpg', '/enem/2015/images/enem_2015_d2_q176_B.jpg', '/enem/2015/images/enem_2015_d2_q176_C.jpg', '/enem/2015/images/enem_2015_d2_q176_D.jpg', '/enem/2015/images/enem_2015_d2_q176_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2015/images/enem_2015_d2_q176_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2015/images/enem_2015_d2_q176_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2015/images/enem_2015_d2_q176_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2015/images/enem_2015_d2_q176_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2015/images/enem_2015_d2_q176_E.jpg` },
     ],
     correct: 'B',
     explanation: `Até 100 ligações paga-se o fixo de R$ 12 (reta horizontal em 12). De 101 a 300, soma-se R$ 0,10 por ligação: em 300 chega a 12 + 0,10 × 200 = R$ 32 (segmento crescente de 12 a 32). De 300 a 500 paga-se o fixo de R$ 32 (reta horizontal em 32). O gráfico com patamar em 12, subida e patamar em 32 é o da alternativa B. Resposta: B.`,
