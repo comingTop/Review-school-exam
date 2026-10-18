@@ -1,0 +1,731 @@
+{
+ "1": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Meio ambiente e sustentabilidade"
+  ]
+ },
+ "2": {
+  "subject": [
+   "soc"
+  ],
+  "topics": [
+   "Trabalho e economia"
+  ]
+ },
+ "3": {
+  "subject": [
+   "fil"
+  ],
+  "topics": [
+   "Filosofia Contemporânea",
+   "Teoria do conhecimento"
+  ]
+ },
+ "4": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Agricultura e pecuária"
+  ]
+ },
+ "5": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "História Geral Antiga e Medieval"
+  ]
+ },
+ "6": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "Brasil Colônia"
+  ]
+ },
+ "7": {
+  "subject": [
+   "soc"
+  ],
+  "topics": [
+   "Trabalho e economia",
+   "Sociologia"
+  ]
+ },
+ "8": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Globalização"
+  ]
+ },
+ "9": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "História Contemporânea",
+   "Movimentos sociais"
+  ]
+ },
+ "10": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "Brasil República"
+  ]
+ },
+ "11": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "História Geral Antiga e Medieval"
+  ]
+ },
+ "12": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Urbanização"
+  ]
+ },
+ "13": {
+  "subject": [
+   "fil"
+  ],
+  "topics": [
+   "Filosofia Antiga (Sócrates, Platão, Aristóteles)",
+   "Ética e moral"
+  ]
+ },
+ "14": {
+  "subject": [
+   "soc"
+  ],
+  "topics": [
+   "Sociologia"
+  ]
+ },
+ "15": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Cartografia"
+  ]
+ },
+ "16": {
+  "subject": [
+   "fil"
+  ],
+  "topics": [
+   "Filosofia Moderna (Descartes, Kant, Hume)",
+   "Teoria do conhecimento"
+  ]
+ },
+ "17": {
+  "subject": [
+   "fil"
+  ],
+  "topics": [
+   "Filosofia Medieval",
+   "Política e Estado"
+  ]
+ },
+ "18": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "Brasil República"
+  ]
+ },
+ "19": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "Ditadura Militar no Brasil"
+  ]
+ },
+ "20": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "Brasil República"
+  ]
+ },
+ "21": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Geopolítica"
+  ]
+ },
+ "22": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "Brasil República"
+  ]
+ },
+ "23": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "Escravidão e abolição",
+   "Brasil Império"
+  ]
+ },
+ "24": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "Primeira e Segunda Guerra Mundial"
+  ]
+ },
+ "25": {
+  "subject": [
+   "soc"
+  ],
+  "topics": [
+   "Movimentos sociais",
+   "Cidadania e democracia"
+  ]
+ },
+ "26": {
+  "subject": [
+   "fil"
+  ],
+  "topics": [
+   "Filosofia Moderna (Descartes, Kant, Hume)",
+   "Política e Estado"
+  ]
+ },
+ "27": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Geografia física (clima, relevo, hidrografia)"
+  ]
+ },
+ "28": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "História Geral Antiga e Medieval"
+  ]
+ },
+ "29": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Globalização"
+  ]
+ },
+ "30": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Geografia física (clima, relevo, hidrografia)"
+  ]
+ },
+ "31": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Geografia física (clima, relevo, hidrografia)"
+  ]
+ },
+ "32": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Geografia física (clima, relevo, hidrografia)"
+  ]
+ },
+ "33": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Agricultura e pecuária"
+  ]
+ },
+ "34": {
+  "subject": [
+   "fil"
+  ],
+  "topics": [
+   "Filosofia Antiga (Sócrates, Platão, Aristóteles)"
+  ]
+ },
+ "35": {
+  "subject": [
+   "soc"
+  ],
+  "topics": [
+   "Cultura e identidade"
+  ]
+ },
+ "36": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "Brasil Império"
+  ]
+ },
+ "37": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "História Geral Antiga e Medieval"
+  ]
+ },
+ "38": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Globalização"
+  ]
+ },
+ "39": {
+  "subject": [
+   "soc"
+  ],
+  "topics": [
+   "Cultura e identidade"
+  ]
+ },
+ "40": {
+  "subject": [
+   "soc"
+  ],
+  "topics": [
+   "Sociologia"
+  ]
+ },
+ "41": {
+  "subject": [
+   "soc"
+  ],
+  "topics": [
+   "Sociologia"
+  ]
+ },
+ "42": {
+  "subject": [
+   "soc"
+  ],
+  "topics": [
+   "Movimentos sociais"
+  ]
+ },
+ "43": {
+  "subject": [
+   "soc"
+  ],
+  "topics": [
+   "Sociologia"
+  ]
+ },
+ "44": {
+  "subject": [
+   "his"
+  ],
+  "topics": [
+   "História Contemporânea"
+  ]
+ },
+ "45": {
+  "subject": [
+   "geo"
+  ],
+  "topics": [
+   "Meio ambiente e sustentabilidade"
+  ]
+ },
+ "46": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Físico-química"
+  ]
+ },
+ "47": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Ecologia"
+  ]
+ },
+ "48": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Citologia"
+  ]
+ },
+ "49": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Trabalho, energia e potência"
+  ]
+ },
+ "50": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Ondulatória"
+  ]
+ },
+ "51": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Química Geral"
+  ]
+ },
+ "52": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Química Geral"
+  ]
+ },
+ "53": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Ondulatória"
+  ]
+ },
+ "54": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Genética"
+  ]
+ },
+ "55": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Físico-química"
+  ]
+ },
+ "56": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Evolução"
+  ]
+ },
+ "57": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Termodinâmica"
+  ]
+ },
+ "58": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Eletroquímica"
+  ]
+ },
+ "59": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Química Orgânica"
+  ]
+ },
+ "60": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Química Orgânica"
+  ]
+ },
+ "61": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Ecologia"
+  ]
+ },
+ "62": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Química Geral"
+  ]
+ },
+ "63": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Termologia"
+  ]
+ },
+ "64": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Trabalho, energia e potência"
+  ]
+ },
+ "65": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Termologia"
+  ]
+ },
+ "66": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Genética"
+  ]
+ },
+ "67": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Fisiologia Humana"
+  ]
+ },
+ "68": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Eletrodinâmica"
+  ]
+ },
+ "69": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Citologia"
+  ]
+ },
+ "70": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Trabalho, energia e potência"
+  ]
+ },
+ "71": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Físico-química"
+  ]
+ },
+ "72": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Saúde pública & parasitologia (doenças, vetores, prevenção)"
+  ]
+ },
+ "73": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Física moderna"
+  ]
+ },
+ "74": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Biotecnologia"
+  ]
+ },
+ "75": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Óptica"
+  ]
+ },
+ "76": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Química Geral"
+  ]
+ },
+ "77": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Química Orgânica"
+  ]
+ },
+ "78": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Fisiologia Humana"
+  ]
+ },
+ "79": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Termologia"
+  ]
+ },
+ "80": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Química Ambiental"
+  ]
+ },
+ "81": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Eletroquímica"
+  ]
+ },
+ "82": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Dinâmica"
+  ]
+ },
+ "83": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Zoologia"
+  ]
+ },
+ "84": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Físico-química"
+  ]
+ },
+ "85": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Óptica"
+  ]
+ },
+ "86": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Ondulatória"
+  ]
+ },
+ "87": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Citologia"
+  ]
+ },
+ "88": {
+  "subject": [
+   "fis"
+  ],
+  "topics": [
+   "Ondulatória"
+  ]
+ },
+ "89": {
+  "subject": [
+   "bio"
+  ],
+  "topics": [
+   "Saúde pública & parasitologia (doenças, vetores, prevenção)"
+  ]
+ },
+ "90": {
+  "subject": [
+   "qui"
+  ],
+  "topics": [
+   "Química Ambiental"
+  ]
+ }
+}
