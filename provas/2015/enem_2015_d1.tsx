@@ -1493,9 +1493,8 @@ cabeça, tontura, falta de ar etc.) ao praticarem atividade
 física em altitudes elevadas. Nessas condições, ocorrerá 
 uma diminuição na concentração de hemoglobina 
 oxigenada (HbO 2 ) em equilíbrio no sangue, conforme a 
-relação: 
-Hb (aq) + O 2 (aq) 
- HbO 2 (aq) 
+relação:
+Hb(aq) + O₂(aq) ⇌ HbO₂(aq)
 Mal da montanha . Disponível em: www.feng.pucrs.br. Acesso em: 11 fev. 2015 (adaptado). 
 A alteração da concentração de hemoglobina oxigenada 
 no sangue ocorre por causa do(a)`,
@@ -1739,15 +1738,9 @@ Expressa em termos do comprimento de onda (λ), a
 espessura mínima é igual a`,
     images: ['/enem/2015/images/enem_2015_d1_q53.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `λ 
-4 
-.` },
-      { id: 'B', type: 'text', value: `λ 
-2 
-.` },
-      { id: 'C', type: 'text', value: `3λ 
-4 
-.` },
+      { id: 'A', type: 'text', value: `λ/4.` },
+      { id: 'B', type: 'text', value: `λ/2.` },
+      { id: 'C', type: 'text', value: `3λ/4.` },
       { id: 'D', type: 'text', value: `λ.` },
       { id: 'E', type: 'text', value: `2λ.` },
     ],

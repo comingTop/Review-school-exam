@@ -2573,11 +2573,11 @@ base, em metros.
 A expressão algébrica que determina a altura do vidro é`,
     images: ['/enem/2015/images/enem_2015_d2_q154.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'text', value: `log[(n + √(n² + 4))/2] − log[(n − √(n² + 4))/2]` },
+      { id: 'B', type: 'text', value: `log(1 + n/2) − log(1 − n/2)` },
+      { id: 'C', type: 'text', value: `log(1 + n/2) + log(1 − n/2)` },
+      { id: 'D', type: 'text', value: `log[(n + √(n² + 4))/2]` },
+      { id: 'E', type: 'text', value: `2·log[(n + √(n² + 4))/2]` },
     ],
     correct: 'E',
     explanation: `A curva y = log(x) delimita a lateral do vidro, e o eixo x divide a altura h ao meio: o topo está em y = h/2 (onde x = 10^(h/2)) e a parte inferior em y = −h/2 (onde x = 10^(−h/2)). A base vale n = 10^(h/2) − 10^(−h/2). Pondo u = 10^(h/2): n = u − 1/u → u² − n·u − 1 = 0 → u = (n + √(n² + 4))/2. Logo h/2 = log[(n + √(n² + 4))/2] e h = 2 log[(n + √(n² + 4))/2]. Resposta: E.`,
@@ -2589,14 +2589,12 @@ A expressão algébrica que determina a altura do vidro é`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `Uma empresa de telefonia celular possui duas antenas 
-que serão 
- por uma nova, mais potente. 
-As áreas de cobertura das antenas que serão substituídas 
-são círculos de raio 2 km, cujas circunferências se 
-tangenciam no ponto O , como mostra a figura. 
- substituídas 
-Área de cobertura 
+    text: `Uma empresa de telefonia celular possui duas antenas
+que serão substituídas por uma nova, mais potente.
+As áreas de cobertura das antenas que serão substituídas
+são círculos de raio 2 km, cujas circunferências se
+tangenciam no ponto O , como mostra a figura.
+Área de cobertura
 Nova antena 
 Área de cobertura 
 Antena 1 
@@ -3012,11 +3010,11 @@ pronta.
 A figura que representa a forma da bandeirinha pronta é`,
     images: ['/enem/2015/images/enem_2015_d2_q167.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2015/images/enem_2015_d2_q167_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2015/images/enem_2015_d2_q167_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2015/images/enem_2015_d2_q167_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2015/images/enem_2015_d2_q167_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2015/images/enem_2015_d2_q167_E.jpg` },
     ],
     correct: 'E',
     explanation: `Com a folha dobrada, os cortes ligam M (em AD, com AM = AD/4) a N (meio da base AF) e a O (meio do lado dobrado FG). Ao abrir, a figura fica simétrica em relação à dobra: a borda inferior apresenta dois bicos para baixo (em N e seu simétrico), um entalhe em 'V' para cima no centro (ponto O) e os cantos inferiores cortados (a partir de M). Esse é o formato da alternativa E. Resposta: E.`,
