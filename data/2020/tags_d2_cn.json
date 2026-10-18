@@ -1,0 +1,362 @@
+{
+  "91": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Eletricidade"
+    ]
+  },
+  "92": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Química Ambiental"
+    ]
+  },
+  "93": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Eletrodinâmica"
+    ]
+  },
+  "94": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Química Orgânica"
+    ]
+  },
+  "95": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Ecologia"
+    ]
+  },
+  "96": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Físico-química"
+    ]
+  },
+  "97": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Ecologia"
+    ]
+  },
+  "98": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Eletromagnetismo/Indução"
+    ]
+  },
+  "99": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Cinemática"
+    ]
+  },
+  "100": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Química Geral"
+    ]
+  },
+  "101": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Evolução"
+    ]
+  },
+  "102": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Química Geral"
+    ]
+  },
+  "103": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Química Ambiental"
+    ]
+  },
+  "104": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Zoologia"
+    ]
+  },
+  "105": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Termodinâmica"
+    ]
+  },
+  "106": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Hidrostática"
+    ]
+  },
+  "107": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Hidrostática"
+    ]
+  },
+  "108": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Química Orgânica"
+    ]
+  },
+  "109": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Termologia"
+    ]
+  },
+  "110": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Físico-química"
+    ]
+  },
+  "111": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Ondulatória"
+    ]
+  },
+  "112": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Físico-química"
+    ]
+  },
+  "113": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Cinemática"
+    ]
+  },
+  "114": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Ondulatória"
+    ]
+  },
+  "115": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Biotecnologia"
+    ]
+  },
+  "116": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Eletrodinâmica"
+    ]
+  },
+  "117": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Biotecnologia"
+    ]
+  },
+  "118": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Zoologia"
+    ]
+  },
+  "119": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Ecologia"
+    ]
+  },
+  "120": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Química Geral"
+    ]
+  },
+  "121": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Botânica"
+    ]
+  },
+  "122": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Saúde pública & parasitologia (doenças, vetores, prevenção)"
+    ]
+  },
+  "123": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Química Geral"
+    ]
+  },
+  "124": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Química Ambiental"
+    ]
+  },
+  "125": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Genética"
+    ]
+  },
+  "126": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Física moderna"
+    ]
+  },
+  "127": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Ecologia"
+    ]
+  },
+  "128": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Termologia"
+    ]
+  },
+  "129": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Citologia"
+    ]
+  },
+  "130": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Óptica"
+    ]
+  },
+  "131": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Química Ambiental"
+    ]
+  },
+  "132": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Química Ambiental"
+    ]
+  },
+  "133": {
+    "subject": [
+      "fis"
+    ],
+    "topics": [
+      "Eletricidade"
+    ]
+  },
+  "134": {
+    "subject": [
+      "qui"
+    ],
+    "topics": [
+      "Química Geral"
+    ]
+  },
+  "135": {
+    "subject": [
+      "bio"
+    ],
+    "topics": [
+      "Genética"
+    ]
+  }
+}
