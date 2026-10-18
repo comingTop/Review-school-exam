@@ -100,21 +100,6 @@ máxima de corrente elétrica igual a 20 A. Acima desse valor, o
 fusível de segurança da régua se rompe, inutilizando-a até que 
 um novo fusível seja instalado. Considere as potências nominais 
 de alguns aparelhos eletroeletrônicos apresentadas no quadro. 
-Aparelho 
-Potência (watt) 
-Luminária de LED 
-5 
-Computador 
-250 
-Impressora a laser 
-660 
-Secador de cabelos 
-750 
-Cafeteira 
-900 
-Condicionador 
-de ar portátil 
-1 100 
 Em um dia quente, a estudante mantém o computador e o 
 condicionador de ar portátil ligados à régua permanentemente. 
 Nessa situação, ela tenta realizar algumas atividades, uma de 
