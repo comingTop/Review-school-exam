@@ -46,12 +46,9 @@ apontada no texto teve como consequência a`,
     alternatives: [
       { id: 'A', type: 'text', value: `melhoria da qualidade da produção industrial.` },
       { id: 'B', type: 'text', value: `redução da oferta de emprego nas zonas rurais.` },
-      { id: 'C', type: 'text', value: `permissão ao trabalhador para controlar seus próprios 
-horários.` },
-      { id: 'D', type: 'text', value: `diminuição das exigências de esforço no trabalho 
-com máquinas.` },
-      { id: 'E', type: 'text', value: `ampliação do período disponível para a jornada 
-de trabalho.` },
+      { id: 'C', type: 'text', value: `permissão ao trabalhador para controlar seus próprios horários.` },
+      { id: 'D', type: 'text', value: `diminuição das exigências de esforço no trabalho com máquinas.` },
+      { id: 'E', type: 'text', value: `ampliação do período disponível para a jornada de trabalho.` },
     ],
     correct: 'E',
     explanation: `O texto afirma que a iluminação artificial venceu a escuridão noturna, de modo que a antiga separação entre trabalho e descanso perdeu sentido e todas as partes do dia passaram a poder ser aproveitadas produtivamente. Em relação ao mundo do trabalho, a consequência dessa transformação foi a ampliação do período disponível para a jornada de trabalho, que deixou de se limitar às horas de luz natural, por isso a alternativa E é correta. A melhoria da qualidade da produção (A) e a redução da oferta de emprego no campo (B) não derivam do domínio da luz descrito. A permissão para o trabalhador controlar seus horários (C) e a diminuição do esforço físico com máquinas (D) não são efeitos da iluminação noturna, mas de outros processos.`,
@@ -155,16 +152,11 @@ A observação do cronista português Pero de Magalhães
 de Gândavo, em 1576, sobre a ausência das letras F, L e 
 R na língua mencionada, demonstra a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `simplicidade da organização social das tribos 
-brasileiras.` },
-      { id: 'B', type: 'text', value: `dominação portuguesa imposta aos índios no início 
-da colonização.` },
-      { id: 'C', type: 'text', value: `superioridade da sociedade europeia em relação à 
-sociedade indígena.` },
-      { id: 'D', type: 'text', value: `incompreensão dos valores socioculturais indígenas 
-pelos portugueses.` },
-      { id: 'E', type: 'text', value: `dificuldade experimentada pelos portugueses no 
-aprendizado da língua nativa.` },
+      { id: 'A', type: 'text', value: `simplicidade da organização social das tribos brasileiras.` },
+      { id: 'B', type: 'text', value: `dominação portuguesa imposta aos índios no início da colonização.` },
+      { id: 'C', type: 'text', value: `superioridade da sociedade europeia em relação à sociedade indígena.` },
+      { id: 'D', type: 'text', value: `incompreensão dos valores socioculturais indígenas pelos portugueses.` },
+      { id: 'E', type: 'text', value: `dificuldade experimentada pelos portugueses no aprendizado da língua nativa.` },
     ],
     correct: 'D',
     explanation: `Pero de Magalhães Gândavo, cronista português de 1576, estranha a ausência das letras F, L e R na língua indígena e associa isso à suposta falta de Fé, Lei e Rei entre os nativos. Esse julgamento revela a incompreensão dos valores socioculturais indígenas pelos portugueses, que avaliavam o outro a partir de seus próprios padrões europeus, por isso a alternativa D é correta. A simplicidade da organização social (A) e a superioridade europeia (C) tomam como verdadeiro o preconceito do cronista, em vez de identificá-lo. A dominação imposta aos índios (B) e a dificuldade de aprendizado da língua (E) não traduzem o etnocentrismo expresso na observação.`,
@@ -269,16 +261,11 @@ Nesse poema, o líder angolano Agostinho Neto, na
 década de 1940, evoca o pan-africanismo com o 
 objetivo de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `incitar a luta por políticas de ações afirmativas na 
-América e na África.` },
-      { id: 'B', type: 'text', value: `reconhecer as desigualdades sociais entre os negros 
-de Angola e dos Estados Unidos.` },
-      { id: 'C', type: 'text', value: `descrever o quadro de pobreza após os processos de 
-independência no continente africano.` },
-      { id: 'D', type: 'text', value: `solicitar o engajamento dos negros estadunidenses 
-na luta armada pela independência em Angola.` },
-      { id: 'E', type: 'text', value: `conclamar as populações negras de diferentes países 
-a apoiar as lutas por igualdade e independência.` },
+      { id: 'A', type: 'text', value: `incitar a luta por políticas de ações afirmativas na América e na África.` },
+      { id: 'B', type: 'text', value: `reconhecer as desigualdades sociais entre os negros de Angola e dos Estados Unidos.` },
+      { id: 'C', type: 'text', value: `descrever o quadro de pobreza após os processos de independência no continente africano.` },
+      { id: 'D', type: 'text', value: `solicitar o engajamento dos negros estadunidenses na luta armada pela independência em Angola.` },
+      { id: 'E', type: 'text', value: `conclamar as populações negras de diferentes países a apoiar as lutas por igualdade e independência.` },
     ],
     correct: 'E',
     explanation: `No poema "Voz do sangue", Agostinho Neto evoca o batuque, o negro do Harlem, de Chicago, do Sul dos Estados Unidos e da África, unindo-se a "negros de todo o mundo" como irmãos. Esse apelo pan-africanista, nos anos 1940, tinha por objetivo conclamar as populações negras de diferentes países a apoiar as lutas por igualdade e independência, por isso a alternativa E é correta. Incitar ações afirmativas (A) e descrever a pobreza pós-independência (C) não correspondem ao contexto anterior às descolonizações africanas. Reconhecer desigualdades entre negros de Angola e dos EUA (B) e pedir o engajamento de estadunidenses na luta armada angolana (D) restringem o alcance do chamado de solidariedade universal expresso nos versos.`,
@@ -308,16 +295,11 @@ A prática governamental descrita no texto, com a escolha
 dos temas das obras, tinha como propósito a construção 
 de uma memória que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `afirmava a centralidade de um estado na política 
-do país.` },
-      { id: 'B', type: 'text', value: `resgatava a importância da resistência escrava 
-na história brasileira.` },
-      { id: 'C', type: 'text', value: `evidenciava a importância da produção artística no 
-contexto regional.` },
-      { id: 'D', type: 'text', value: `valorizava a saga histórica do povo na afirmação de 
-uma memória social.` },
-      { id: 'E', type: 'text', value: `destacava a presença do indígena no desbravamento 
-do território colonial.` },
+      { id: 'A', type: 'text', value: `afirmava a centralidade de um estado na política do país.` },
+      { id: 'B', type: 'text', value: `resgatava a importância da resistência escrava na história brasileira.` },
+      { id: 'C', type: 'text', value: `evidenciava a importância da produção artística no contexto regional.` },
+      { id: 'D', type: 'text', value: `valorizava a saga histórica do povo na afirmação de uma memória social.` },
+      { id: 'E', type: 'text', value: `destacava a presença do indígena no desbravamento do território colonial.` },
     ],
     correct: 'A',
     explanation: `O texto relata que o Museu Paulista passou a adquirir, a partir de 1903, obras que homenageavam os bandeirantes, inclusive o destruidor de Palmares, construindo uma interpretação que colocava São Paulo como elo decisivo da trajetória territorial do Brasil. Essa escolha de temas tinha como propósito construir uma memória que afirmava a centralidade de um estado na política do país, exaltando o protagonismo paulista, por isso a alternativa A é correta. Resgatar a resistência escrava (B) contraria a homenagem ao destruidor de Palmares. Valorizar a produção artística regional (C), a saga histórica do povo (D) ou a presença indígena no desbravamento (E) não captam o objetivo de projetar São Paulo como centro político nacional.`,
@@ -387,20 +369,11 @@ O sofista Trasímaco, personagem imortalizado no diálogo
 A República, de Platão, sustentava que a correlação entre
 justiça e ética é resultado de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `determinações biológicas impregnadas na natureza 
-humana.` },
-      { id: 'B', type: 'text', value: `verdades objetivas com fundamento anterior aos 
-interesses sociais.` },
-      { id: 'C', type: 'text', value: `mandamentos divinos inquestionáveis legados das 
-tradições antigas.` },
-      { id: 'D', type: 'text', value: `convenções 
-sociais 
-resultantes 
-de 
-interesses 
-humanos contingentes.` },
-      { id: 'E', type: 'text', value: `sentimentos experimentados diante de determinadas 
-atitudes humanas.` },
+      { id: 'A', type: 'text', value: `determinações biológicas impregnadas na natureza humana.` },
+      { id: 'B', type: 'text', value: `verdades objetivas com fundamento anterior aos interesses sociais.` },
+      { id: 'C', type: 'text', value: `mandamentos divinos inquestionáveis legados das tradições antigas.` },
+      { id: 'D', type: 'text', value: `convenções sociais resultantes de interesses humanos contingentes.` },
+      { id: 'E', type: 'text', value: `sentimentos experimentados diante de determinadas atitudes humanas.` },
     ],
     correct: 'D',
     explanation: `O sofista Trasímaco, retratado no diálogo A República, negava que a justiça fosse algo real e sustentava que as noções de certo e errado eram apenas regras ensinadas pela sociedade, sem fundamento natural. Para ele, portanto, a correlação entre justiça e ética resulta de convenções sociais produzidas por interesses humanos contingentes, por isso a alternativa D é correta. Determinações biológicas na natureza humana (A) e verdades objetivas anteriores aos interesses sociais (B) contrariam a tese de que tudo é invenção humana. Mandamentos divinos legados pela tradição (C) e sentimentos diante de atitudes humanas (E) não traduzem o caráter convencional e contingente atribuído por Trasímaco à justiça.`,
@@ -412,28 +385,21 @@ atitudes humanas.` },
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `Em 
-sociedade 
-de 
-origens 
-tão 
-nitidamente 
-personalistas como a nossa, é compreensível que os 
-simples vínculos de pessoa a pessoa, independentes e 
-até exclusivos de qualquer tendência para a cooperação 
-autêntica entre os indivíduos, tenham sido quase sempre 
-os mais decisivos. As agregações e relações pessoais, 
-embora por vezes precárias, e, de outro lado, as lutas 
-entre facções, entre famílias, entre regionalismos, 
-faziam dela um todo incoerente e amorfo. O peculiar 
-da vida brasileira parece ter sido, por essa época, uma 
-acentuação singularmente enérgica do afetivo, do 
-irracional, do passional e uma estagnação ou antes uma 
-atrofia correspondente das qualidades ordenadoras, 
-disciplinadoras, racionalizadoras. 
-HOLANDA, S. B. Raízes do Brasil . São Paulo: Cia. das Letras, 1995. 
-Um traço formador da vida pública brasileira expressa-se, 
-segundo a análise do historiador, na`,
+    text: `Em sociedade de origens tão nitidamente personalistas como a
+nossa, é compreensível que os simples vínculos de pessoa a
+pessoa, independentes e até exclusivos de qualquer tendência
+para a cooperação autêntica entre os indivíduos, tenham sido
+quase sempre os mais decisivos. As agregações e relações
+pessoais, embora por vezes precárias, e, de outro lado, as
+lutas entre facções, entre famílias, entre regionalismos,
+faziam dela um todo incoerente e amorfo. O peculiar da vida
+brasileira parece ter sido, por essa época, uma acentuação
+singularmente enérgica do afetivo, do irracional, do passional
+e uma estagnação ou antes uma atrofia correspondente das
+qualidades ordenadoras, disciplinadoras, racionalizadoras.
+HOLANDA, S. B. Raízes do Brasil . São Paulo: Cia. das Letras,
+1995. Um traço formador da vida pública brasileira
+expressa-se, segundo a análise do historiador, na`,
     alternatives: [
       { id: 'A', type: 'text', value: `rigidez das normas jurídicas.` },
       { id: 'B', type: 'text', value: `prevalência dos interesses privados.` },
@@ -451,20 +417,14 @@ segundo a análise do historiador, na`,
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `O Projeto Nova Cartografia Social da Amazônia 
-ensina 
-indígenas, 
-quilombolas 
-e 
-outros 
-grupos 
-tradicionais a empregar o GPS e técnicas modernas de 
-georreferenciamento para produzir mapas artesanais, 
-mas bastante precisos, de suas próprias terras. 
-LOPES, R. J. O novo mapa da floresta. Folha de S. Paulo , 7 maio 2011 (adaptado). 
-A existência de um projeto como o apresentado no 
-texto indica a importância da cartografia como elemento 
-promotor da`,
+    text: `O Projeto Nova Cartografia Social da Amazônia ensina
+indígenas, quilombolas e outros grupos tradicionais a empregar
+o GPS e técnicas modernas de georreferenciamento para produzir
+mapas artesanais, mas bastante precisos, de suas próprias
+terras. LOPES, R. J. O novo mapa da floresta. Folha de S.
+Paulo , 7 maio 2011 (adaptado). A existência de um projeto
+como o apresentado no texto indica a importância da
+cartografia como elemento promotor da`,
     alternatives: [
       { id: 'A', type: 'text', value: `expansão da fronteira agrícola.` },
       { id: 'B', type: 'text', value: `remoção de populações nativas.` },
@@ -496,16 +456,11 @@ HUME, D. Investigação sobre o entendimento humano . São Paulo: Abril Cultural
 Hume estabelece um vínculo entre pensamento e 
 impressão ao considerar que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `os conteúdos das ideias no intelecto têm origem na 
-sensação.` },
-      { id: 'B', type: 'text', value: `o espírito é capaz de classificar os dados da 
-percepção sensível.` },
-      { id: 'C', type: 'text', value: `as ideias fracas resultam de experiências sensoriais 
-determinadas pelo acaso.` },
-      { id: 'D', type: 'text', value: `os sentimentos ordenam como os pensamentos 
-devem ser processados na memória.` },
-      { id: 'E', type: 'text', value: `as ideias têm como fonte específica o sentimento 
-cujos dados são colhidos na empiria.` },
+      { id: 'A', type: 'text', value: `os conteúdos das ideias no intelecto têm origem na sensação.` },
+      { id: 'B', type: 'text', value: `o espírito é capaz de classificar os dados da percepção sensível.` },
+      { id: 'C', type: 'text', value: `as ideias fracas resultam de experiências sensoriais determinadas pelo acaso.` },
+      { id: 'D', type: 'text', value: `os sentimentos ordenam como os pensamentos devem ser processados na memória.` },
+      { id: 'E', type: 'text', value: `as ideias têm como fonte específica o sentimento cujos dados são colhidos na empiria.` },
     ],
     correct: 'A',
     explanation: `Hume afirma que todo o poder criativo da mente se limita a compor e combinar materiais que vêm dos sentidos e da experiência, como ao unir ouro e montanha em uma imagem imaginária. Ele estabelece, assim, um vínculo entre pensamento e impressão ao considerar que os conteúdos das ideias no intelecto têm origem na sensação, por isso a alternativa A é correta. Essa posição empirista nega que o espírito classifique os dados por si mesmo (B) ou que os sentimentos ordenem os pensamentos na memória (D). A ideia de que as ideias fracas surgem do acaso (C) e de que a fonte específica seria o sentimento (E) distorcem a tese de que toda ideia deriva de impressões sensíveis.`,
@@ -535,12 +490,9 @@ como o regime de governo capaz de`,
     alternatives: [
       { id: 'A', type: 'text', value: `refrear os movimentos religiosos contestatórios.` },
       { id: 'B', type: 'text', value: `promover a atuação da sociedade civil na vida política.` },
-      { id: 'C', type: 'text', value: `unir a sociedade tendo em vista a realização do 
-bem comum.` },
-      { id: 'D', type: 'text', value: `reformar a religião por meio do retorno à tradição 
-helenística.` },
-      { id: 'E', type: 'text', value: `dissociar a relação política entre os poderes temporal 
-e espiritual.` },
+      { id: 'C', type: 'text', value: `unir a sociedade tendo em vista a realização do bem comum.` },
+      { id: 'D', type: 'text', value: `reformar a religião por meio do retorno à tradição helenística.` },
+      { id: 'E', type: 'text', value: `dissociar a relação política entre os poderes temporal e espiritual.` },
     ],
     correct: 'C',
     explanation: `No trecho citado, Tomás de Aquino compara a sociedade a um navio que precisa de um piloto para alcançar seu destino e conclui que os homens, agindo de modos diversos, necessitam de um dirigente voltado ao fim comum. Ele justifica a monarquia como o regime capaz de unir a sociedade tendo em vista a realização do bem comum, conduzindo a multidão a um objetivo único, por isso a alternativa C é correta. Refrear movimentos religiosos (A) e dissociar os poderes temporal e espiritual (E) não constam de seu argumento. Promover a atuação da sociedade civil (B) é anacrônico, e reformar a religião pelo retorno à tradição helenística (D) contraria o pensamento cristão do autor.`,
@@ -615,19 +567,11 @@ bandeiras estaduais eram queimadas diante da bandeira
 nacional revela o pacto nacional proposto pelo Estado 
 Novo, que se associa à`,
     alternatives: [
-      { id: 'A', type: 'text', value: `supressão das diferenças socioeconômicas entre as 
-regiões do Brasil, priorizando as regiões estaduais 
-carentes.` },
-      { id: 'B', type: 'text', value: `orientação do regime quanto ao reforço do 
-federalismo, espelhando-se na experiência política 
-norte-americana.` },
-      { id: 'C', type: 'text', value: `adoção de práticas políticas autoritárias, considerando 
-a contenção dos interesses regionais dispersivos.` },
-      { id: 'D', type: 'text', value: `propagação de uma cultura política avessa aos ritos 
-cívicos, cultivados pela cultura regional brasileira.` },
-      { id: 'E', type: 'text', value: `defesa da unidade do território nacional, ameaçado 
-por movimentos separatistas contrários à política 
-varguista.` },
+      { id: 'A', type: 'text', value: `supressão das diferenças socioeconômicas entre as regiões do Brasil, priorizando as regiões estaduais carentes.` },
+      { id: 'B', type: 'text', value: `orientação do regime quanto ao reforço do federalismo, espelhando-se na experiência política norte-americana.` },
+      { id: 'C', type: 'text', value: `adoção de práticas políticas autoritárias, considerando a contenção dos interesses regionais dispersivos.` },
+      { id: 'D', type: 'text', value: `propagação de uma cultura política avessa aos ritos cívicos, cultivados pela cultura regional brasileira.` },
+      { id: 'E', type: 'text', value: `defesa da unidade do território nacional, ameaçado por movimentos separatistas contrários à política varguista.` },
     ],
     correct: 'C',
     explanation: `O discurso de Francisco Campos, proferido na cerimônia em que bandeiras estaduais eram queimadas diante da bandeira nacional, defende que não haja lugar para outros símbolos além do Brasil. Esse ato, próprio do Estado Novo, associa-se à adoção de práticas políticas autoritárias voltadas à contenção dos interesses regionais dispersivos, eliminando a autonomia dos estados em favor da centralização, por isso a alternativa C é correta. A supressão das diferenças socioeconômicas (A) e o reforço do federalismo (B) contrariam a lógica centralizadora do regime. A propagação de uma cultura avessa aos ritos cívicos (D) opõe-se ao culto aos símbolos nacionais, e a defesa contra movimentos separatistas (E) não descreve o combate ao poder dos estados promovido por Vargas.`,
@@ -794,16 +738,11 @@ GOHN, M. G. M. Os sem-terras, ONGs e cidadania . São Paulo: Cortez, 2003 (adapt
 No processo da redemocratização brasileira, os novos 
 movimentos sociais contribuíram para`,
     alternatives: [
-      { id: 'A', type: 'text', value: `diminuir a legitimidade dos novos partidos políticos 
-então criados.` },
-      { id: 'B', type: 'text', value: `tornar a democracia um valor social que ultrapassa os 
-momentos eleitorais.` },
-      { id: 'C', type: 'text', value: `difundir a democracia representativa como objetivo 
-fundamental da luta política.` },
-      { id: 'D', type: 'text', value: `ampliar as disputas pela hegemonia das entidades de 
-trabalhadores com os sindicatos.` },
-      { id: 'E', type: 'text', value: `fragmentar as lutas políticas dos diversos atores 
-sociais frente ao Estado.` },
+      { id: 'A', type: 'text', value: `diminuir a legitimidade dos novos partidos políticos então criados.` },
+      { id: 'B', type: 'text', value: `tornar a democracia um valor social que ultrapassa os momentos eleitorais.` },
+      { id: 'C', type: 'text', value: `difundir a democracia representativa como objetivo fundamental da luta política.` },
+      { id: 'D', type: 'text', value: `ampliar as disputas pela hegemonia das entidades de trabalhadores com os sindicatos.` },
+      { id: 'E', type: 'text', value: `fragmentar as lutas políticas dos diversos atores sociais frente ao Estado.` },
     ],
     correct: 'B',
     explanation: `O texto de Maria da Glória Gohn afirma que a principal contribuição dos movimentos sociais brasileiros nas últimas décadas não se resumiu à retomada do regime político, mas à construção de novos rumos para a cultura do país e para a luta pela redemocratização, com diálogo direto com a população e o Estado. Esses movimentos contribuíram para tornar a democracia um valor social que ultrapassa os momentos eleitorais, enraizando a participação para além do voto, por isso a alternativa B é correta. Diminuir a legitimidade dos partidos (A) e fragmentar as lutas políticas (E) contrariam o papel construtivo descrito. Restringir a democracia à representação (C) e disputar a hegemonia com os sindicatos (D) não correspondem à ampliação do sentido da democracia proposta no texto.`,
@@ -844,32 +783,7 @@ quando dois homens desejavam o mesmo objeto, eles`,
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `Figura 1. Diagrama das regiões de intemperismo para 
-as condições brasileiras (adaptado de Peltier, 1950). 
-35 
-30 
-1. Muito Fraco 
-Temperatura (°C) 
-25 
-3. Moderado 
-20 
-15 
-10 
-5 
-2. Fraco 
-400 
-800 
-1200 
-1600 
-2000 
-2400 
-2800 
-0 
-Precipitação média anual (mm) 
-Figura 2. Mapa das regiões de intemperismo do Brasil, 
-baseado no diagrama da Figura 1. 
-FONTES, M. P. F. Intemperismo de rochas e minerais. In: KER, J. C. et al. (Org.). Pedologia : fundamentos. Viçosa (MG): SBCS, 2012 (adaptado). 
-De acordo com as figuras, a intensidade de intemperismo de grau muito fraco e característica de qual tipo climático?`,
+    text: ``,
     images: ['/enem/2015/images/enem_2015_d1_q27_1.jpg', '/enem/2015/images/enem_2015_d1_q27_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Tropical.` },
@@ -898,17 +812,11 @@ VERNANT, J. P. As origens do pensamento grego . Rio de Janeiro: Bertrand, 1992 (
 Na configuração política da democracia grega, em 
 especial a ateniense, a ágora tinha por função`,
     alternatives: [
-      { id: 'A', type: 'text', value: `agregar os cidadãos em torno de reis que governavam 
-em prol da cidade.` },
-      { id: 'B', type: 'text', value: `permitir aos homens livres o acesso às decisões do 
-Estado expostas por seus magistrados.` },
-      { id: 'C', type: 'text', value: `constituir o lugar onde o corpo de cidadãos se reunia 
-para deliberar sobre as questões da comunidade.` },
-      { id: 'D', type: 'text', value: `reunir os exércitos para decidir em assembleias 
-fechadas os rumos a serem tomados em caso de 
-guerra.` },
-      { id: 'E', type: 'text', value: `congregar a comunidade para eleger representantes 
-com direito a pronunciar-se em assembleias.` },
+      { id: 'A', type: 'text', value: `agregar os cidadãos em torno de reis que governavam em prol da cidade.` },
+      { id: 'B', type: 'text', value: `permitir aos homens livres o acesso às decisões do Estado expostas por seus magistrados.` },
+      { id: 'C', type: 'text', value: `constituir o lugar onde o corpo de cidadãos se reunia para deliberar sobre as questões da comunidade.` },
+      { id: 'D', type: 'text', value: `reunir os exércitos para decidir em assembleias fechadas os rumos a serem tomados em caso de guerra.` },
+      { id: 'E', type: 'text', value: `congregar a comunidade para eleger representantes com direito a pronunciar-se em assembleias.` },
     ],
     correct: 'C',
     explanation: `Segundo Vernant, o sistema da pólis conferia à palavra uma preeminência sobre todos os outros instrumentos de poder, fazendo do debate e da argumentação a regra do jogo político. Nesse contexto, especialmente na democracia ateniense, a ágora tinha por função constituir o lugar onde o corpo de cidadãos se reunia para deliberar sobre as questões da comunidade, por isso a alternativa C é correta. Agregar cidadãos em torno de reis (A) contraria o caráter democrático da pólis. Expor decisões por magistrados (B), reunir exércitos em assembleias fechadas (D) e eleger representantes (E) não descrevem a função deliberativa e pública da ágora destacada pelo autor.`,
@@ -933,20 +841,11 @@ mundo do trabalho advindas das transformações citadas
 no texto estão presentes, respectivamente, em:`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `Eliminação das vantagens locacionais e ampliação da 
-legislação laboral.` },
-      { id: 'B', type: 'text', value: `Limitação dos fluxos logísticos e fortalecimento de 
-associações sindicais.` },
-      { id: 'C', type: 'text', value: `Diminuição 
-dos 
-investimentos 
-industriais 
-e 
-desvalorização dos postos qualificados.` },
-      { id: 'D', type: 'text', value: `Concentração das áreas manufatureiras e redução da 
-jornada semanal.` },
-      { id: 'E', type: 'text', value: `Automatização dos processos fabris e aumento dos 
-níveis de desemprego.` },
+      { id: 'A', type: 'text', value: `Eliminação das vantagens locacionais e ampliação da legislação laboral.` },
+      { id: 'B', type: 'text', value: `Limitação dos fluxos logísticos e fortalecimento de associações sindicais.` },
+      { id: 'C', type: 'text', value: `Diminuição dos investimentos industriais e desvalorização dos postos qualificados.` },
+      { id: 'D', type: 'text', value: `Concentração das áreas manufatureiras e redução da jornada semanal.` },
+      { id: 'E', type: 'text', value: `Automatização dos processos fabris e aumento dos níveis de desemprego.` },
     ],
     correct: 'E',
     explanation: `Milton Santos descreve um sistema de técnicas da informação que, no fim do século XX, assegura uma presença planetária e sustenta a globalização perversa. Como consequência, respectivamente, para o setor produtivo e para o mundo do trabalho, ocorrem a automatização dos processos fabris e o aumento dos níveis de desemprego, já que a tecnologia substitui a mão de obra, por isso a alternativa E é correta. A eliminação das vantagens locacionais com ampliação da legislação laboral (A) e a limitação dos fluxos logísticos (B) não decorrem do avanço técnico descrito. A diminuição dos investimentos industriais (C) e a redução da jornada semanal (D) contrariam os efeitos da automação sobre a produção e o emprego.`,
@@ -993,16 +892,11 @@ em rochas nos leitos dos rios, que decorre do processo
 natural de`,
     images: ['/enem/2015/images/enem_2015_d1_q31.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `fraturamento geológico, derivado da força dos 
-agentes internos.` },
-      { id: 'B', type: 'text', value: `solapamento de camadas de argilas, transportadas 
-pela correnteza.` },
-      { id: 'C', type: 'text', value: `movimento circular de seixos e areias, arrastados por 
-águas turbilhonares.` },
-      { id: 'D', type: 'text', value: `decomposição das camadas sedimentares, resultante 
-da alteração química.` },
-      { id: 'E', type: 'text', value: `assoreamento no fundo do rio, proporcionado pela 
-chegada de material sedimentar.` },
+      { id: 'A', type: 'text', value: `fraturamento geológico, derivado da força dos agentes internos.` },
+      { id: 'B', type: 'text', value: `solapamento de camadas de argilas, transportadas pela correnteza.` },
+      { id: 'C', type: 'text', value: `movimento circular de seixos e areias, arrastados por águas turbilhonares.` },
+      { id: 'D', type: 'text', value: `decomposição das camadas sedimentares, resultante da alteração química.` },
+      { id: 'E', type: 'text', value: `assoreamento no fundo do rio, proporcionado pela chegada de material sedimentar.` },
     ],
     correct: 'C',
     explanation: `A imagem mostra cavidades arredondadas (marmitas) esculpidas nas rochas do leito do rio, resultado da erosão provocada pelas águas. Esse processo decorre do movimento circular de seixos e areias, arrastados por águas turbilhonares, que desgastam a rocha ao girarem dentro das depressões, por isso a alternativa C é correta. O fraturamento geológico por agentes internos (A) e a decomposição por alteração química (D) referem-se a processos distintos da erosão mecânica descrita. O solapamento de camadas de argila (B) e o assoreamento por material sedimentar (E) correspondem a deposição ou desgaste de margens, não à abrasão que forma as marmitas no leito rochoso.`,
@@ -1029,12 +923,9 @@ Cerrado, pois`,
     alternatives: [
       { id: 'A', type: 'text', value: `colaboram para a formação de vegetação xerófila.` },
       { id: 'B', type: 'text', value: `formam os leques aluviais nas planícies das bacias.` },
-      { id: 'C', type: 'text', value: `fornecem sumidouro para as águas de recarga 
-da bacia.` },
-      { id: 'D', type: 'text', value: `contribuem para o aprofundamento dos talvegues 
-à jusante.` },
-      { id: 'E', type: 'text', value: `constituem um sistema represador da água na 
-chapada.` },
+      { id: 'C', type: 'text', value: `fornecem sumidouro para as águas de recarga da bacia.` },
+      { id: 'D', type: 'text', value: `contribuem para o aprofundamento dos talvegues à jusante.` },
+      { id: 'E', type: 'text', value: `constituem um sistema represador da água na chapada.` },
     ],
     correct: 'E',
     explanation: `O texto afirma que as veredas são fundamentais para o equilíbrio hidrológico dos cursos de água no Cerrado e vêm perdendo a capacidade de funcionar como caixa-d'água do sertão mineiro. Isso ocorre porque elas constituem um sistema represador da água na chapada, armazenando e liberando gradualmente a água que abastece os rios, por isso a alternativa E é correta. Colaborar para a formação de vegetação xerófila (A) contraria o ambiente úmido das veredas. Formar leques aluviais nas planícies (B), fornecer sumidouro para a recarga (C) e aprofundar os talvegues a jusante (D) não descrevem a função de reservatório natural que mantém o fluxo de água no ambiente do Cerrado.`,
@@ -1092,16 +983,11 @@ NIETZSCHE, F. Crítica moderna. In: Os pré-socráticos. São Paulo: Nova Cultur
 O que, de acordo com Nietzsche, caracteriza o surgimento 
 da filosofia entre os gregos?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `O impulso para transformar, mediante justificativas, 
-os elementos sensíveis em verdades racionais.` },
-      { id: 'B', type: 'text', value: `O desejo de explicar, usando metáforas, a origem dos 
-seres e das coisas.` },
-      { id: 'C', type: 'text', value: `A necessidade de buscar, de forma racional, a causa 
-primeira das coisas existentes.` },
-      { id: 'D', type: 'text', value: `A ambição de expor, de maneira metódica, as 
-diferenças entre as coisas.` },
-      { id: 'E', type: 'text', value: `A tentativa de justificar, a partir de elementos 
-empíricos, o que existe no real.` },
+      { id: 'A', type: 'text', value: `O impulso para transformar, mediante justificativas, os elementos sensíveis em verdades racionais.` },
+      { id: 'B', type: 'text', value: `O desejo de explicar, usando metáforas, a origem dos seres e das coisas.` },
+      { id: 'C', type: 'text', value: `A necessidade de buscar, de forma racional, a causa primeira das coisas existentes.` },
+      { id: 'D', type: 'text', value: `A ambição de expor, de maneira metódica, as diferenças entre as coisas.` },
+      { id: 'E', type: 'text', value: `A tentativa de justificar, a partir de elementos empíricos, o que existe no real.` },
     ],
     correct: 'C',
     explanation: `Nietzsche analisa a proposição de que a água é a origem de todas as coisas e destaca três razões pelas quais ela marca o nascimento da filosofia: enuncia algo sobre a origem das coisas, fá-lo sem imagem ou fábula e contém a ideia de que "tudo é um". O que caracteriza esse surgimento é a necessidade de buscar, de forma racional, a causa primeira das coisas existentes, substituindo o mito pela explicação racional, por isso a alternativa C é correta. Transformar o sensível em verdades por justificativas (A) e justificar o real a partir de elementos empíricos (E) não traduzem a busca pela origem única. Explicar por metáforas (B) contraria o abandono da fabulação, e expor metodicamente as diferenças (D) opõe-se à ideia de unidade de todas as coisas.`,
@@ -1180,8 +1066,7 @@ O surgimento da categoria mencionada no período em destaque no texto evidencia 
       { id: 'B', type: 'text', value: `relação entre desenvolvimento urbano e divisão do trabalho.` },
       { id: 'C', type: 'text', value: `importância organizacional das corporações de ofício.` },
       { id: 'D', type: 'text', value: `progressiva expansão da educação escolar.` },
-      { id: 'E', type: 'text', value: `acúmulo de trabalho dos professores e eruditos. 
-LE GOFF, J. Os intelectuais na Idade Media . Rio de Janeiro: José Olympio, 2010.` },
+      { id: 'E', type: 'text', value: `acúmulo de trabalho dos professores e eruditos. LE GOFF, J. Os intelectuais na Idade Media . Rio de Janeiro: José Olympio, 2010.` },
     ],
     correct: 'B',
     explanation: `Le Goff afirma que o intelectual da Idade Média nasceu com as cidades, surgindo entre os homens de ofício no contexto do desenvolvimento urbano ligado às funções comercial e artesanal, onde se impôs a divisão do trabalho. O surgimento dessa categoria evidencia a relação entre desenvolvimento urbano e divisão do trabalho, pois o intelectual é descrito como um profissional especializado em escrever e ensinar, por isso a alternativa B é correta. O apoio da Igreja ao trabalho abstrato (A) e a importância das corporações de ofício (C) não são o foco do trecho. A expansão da educação escolar (D) e o acúmulo de trabalho dos professores (E) não traduzem o vínculo entre cidade e especialização que explica o aparecimento do intelectual.`,
@@ -1223,29 +1108,21 @@ pressupõe o uso de`,
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `Na sociedade contemporânea, onde as relações 
-sociais tendem a reger-se por imagens midiáticas, a 
-imagem de um indivíduo, principalmente na indústria do 
-espetáculo, pode agregar valor econômico na medida 
-de seu incremento técnico: amplitude do espelhamento 
-e da atenção pública. Aparecer é então mais do que 
-ser; o sujeito é famoso porque é falado. Nesse âmbito, 
-a lógica circulatória do mercado, ao mesmo tempo que 
-acena democraticamente para as massas com supostos 
-“ganhos distributivos” (a informação ilimitada, a quebra 
-das supostas hierarquias culturais), afeta a velha cultura 
-disseminada na esfera pública. A participação nas redes 
-sociais, a obsessão dos selfies , tanto falar e ser falado 
-quanto ser visto são índices do desejo de “espelhamento”. 
-SODRÉ, M. Disponível em: http://alias.estadao.com.br. Acesso em: 9 fev. 2015 (adaptado).
-A 
-crítica 
-contida 
-no 
-texto 
-sobre 
-a 
-sociedade 
+    text: `Na sociedade contemporânea, onde as relações sociais tendem a
+reger-se por imagens midiáticas, a imagem de um indivíduo,
+principalmente na indústria do espetáculo, pode agregar valor
+econômico na medida de seu incremento técnico: amplitude do
+espelhamento e da atenção pública. Aparecer é então mais do
+que ser; o sujeito é famoso porque é falado. Nesse âmbito, a
+lógica circulatória do mercado, ao mesmo tempo que acena
+democraticamente para as massas com supostos “ganhos
+distributivos” (a informação ilimitada, a quebra das supostas
+hierarquias culturais), afeta a velha cultura disseminada na
+esfera pública. A participação nas redes sociais, a obsessão
+dos selfies , tanto falar e ser falado quanto ser visto são
+índices do desejo de “espelhamento”. SODRÉ, M. Disponível em:
+http://alias.estadao.com.br. Acesso em: 9 fev. 2015
+(adaptado). A crítica contida no texto sobre a sociedade
 contemporânea enfatiza`,
     alternatives: [
       { id: 'A', type: 'text', value: `a prática identitária autorreferente.` },
@@ -1264,44 +1141,22 @@ contemporânea enfatiza`,
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `A crescente intelectualização e racionalização não 
-indicam um conhecimento maior e geral das condições 
-sob as quais vivemos. Significa a crença em que, se 
-quiséssemos, 
-poderíamos 
-ter 
-esse 
-conhecimento 
-a qualquer momento. Não há forças misteriosas 
-incalculáveis; podemos dominar todas as coisas pelo 
-cálculo. 
-WEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). Max Weber : ensaios 
-de sociologia. Rio de Janeiro: Zahar, 1979 (adaptado). 
-Tal como apresentada no texto, a proposição de Max 
-Weber a respeito do processo de desencantamento do 
-mundo evidencia o(a)`,
+    text: `A crescente intelectualização e racionalização não indicam um
+conhecimento maior e geral das condições sob as quais vivemos.
+Significa a crença em que, se quiséssemos, poderíamos ter esse
+conhecimento a qualquer momento. Não há forças misteriosas
+incalculáveis; podemos dominar todas as coisas pelo cálculo.
+WEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W.
+(Org.). Max Weber : ensaios de sociologia. Rio de Janeiro:
+Zahar, 1979 (adaptado). Tal como apresentada no texto, a
+proposição de Max Weber a respeito do processo de
+desencantamento do mundo evidencia o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `progresso civilizatório como decorrência da expansão 
-do industrialismo.` },
-      { id: 'B', type: 'text', value: `extinção 
-do 
-pensamento 
-mítico 
-como 
-um 
-desdobramento do capitalismo.` },
-      { id: 'C', type: 'text', value: `emancipação como consequência do processo de 
-racionalização da vida.` },
-      { id: 'D', type: 'text', value: `afastamento de crenças tradicionais como uma 
-característica da modernidade.` },
-      { id: 'E', type: 'text', value: `fim 
-do 
-monoteísmo 
-como 
-condição 
-para 
-a 
-consolidação da ciência.` },
+      { id: 'A', type: 'text', value: `progresso civilizatório como decorrência da expansão do industrialismo.` },
+      { id: 'B', type: 'text', value: `extinção do pensamento mítico como um desdobramento do capitalismo.` },
+      { id: 'C', type: 'text', value: `emancipação como consequência do processo de racionalização da vida.` },
+      { id: 'D', type: 'text', value: `afastamento de crenças tradicionais como uma característica da modernidade.` },
+      { id: 'E', type: 'text', value: `fim do monoteísmo como condição para a consolidação da ciência.` },
     ],
     correct: 'D',
     explanation: `Max Weber afirma que a crescente intelectualização e racionalização não significam maior conhecimento das condições de vida, mas a crença de que tudo pode, em princípio, ser dominado pelo cálculo, sem forças misteriosas ou mágicas. Essa proposição sobre o desencantamento do mundo evidencia o afastamento de crenças tradicionais como característica da modernidade, marcada pela substituição do mágico pelo racional, por isso a alternativa D é correta. O progresso civilizatório pela industrialização (A) e a emancipação pela racionalização (C) não traduzem o sentido do conceito. A extinção do pensamento mítico como desdobramento do capitalismo (B) e o fim do monoteísmo como condição da ciência (E) deturpam a ideia de desencantamento proposta por Weber.`,
@@ -1313,42 +1168,25 @@ consolidação da ciência.` },
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `Diante de ameaças surgidas com a engenharia 
-genética de alimentos, vários grupos da sociedade 
-civil conceberam o chamado “princípio da precaução”. 
-O fundamento desse princípio é: quando uma tecnologia 
-ou produto comporta alguma ameaça à saúde ou ao 
-ambiente, ainda que não se possa avaliar a natureza 
-precisa ou a magnitude do dano que venha a ser causado 
-por eles, deve-se evitá-los ou deixá-los de quarentena 
-para maiores estudos e avaliações antes de sua liberação. 
-SEVCENKO, N. A corrida para o século XXI : no loop da montanha-russa. 
-São Paulo: Cia. das Letras, 2001 (adaptado). 
-O texto expõe uma tendência representativa do 
-pensamento 
-social 
-contemporâneo, 
-na 
-qual 
-o 
-desenvolvimento de mecanismos de acautelamento ou 
-administração de riscos tem como objetivo`,
+    text: `Diante de ameaças surgidas com a engenharia genética de
+alimentos, vários grupos da sociedade civil conceberam o
+chamado “princípio da precaução”. O fundamento desse princípio
+é: quando uma tecnologia ou produto comporta alguma ameaça à
+saúde ou ao ambiente, ainda que não se possa avaliar a
+natureza precisa ou a magnitude do dano que venha a ser
+causado por eles, deve-se evitá-los ou deixá-los de quarentena
+para maiores estudos e avaliações antes de sua liberação.
+SEVCENKO, N. A corrida para o século XXI : no loop da
+montanha-russa. São Paulo: Cia. das Letras, 2001 (adaptado). O
+texto expõe uma tendência representativa do pensamento social
+contemporâneo, na qual o desenvolvimento de mecanismos de
+acautelamento ou administração de riscos tem como objetivo`,
     alternatives: [
-      { id: 'A', type: 'text', value: `priorizar os interesses econômicos em relação aos 
-seres humanos e à natureza.` },
-      { id: 'B', type: 'text', value: `negar a perspectiva científica e suas conquistas por 
-causa de riscos ecológicos.` },
-      { id: 'C', type: 'text', value: `instituir 
-o 
-diálogo 
-público 
-sobre 
-mudanças 
-tecnológicas e suas consequências.` },
-      { id: 'D', type: 'text', value: `combater a introdução de tecnologias para travar o 
-curso das mudanças sociais.` },
-      { id: 'E', type: 'text', value: `romper o equilíbrio entre benefícios e riscos do 
-avanço tecnológico e científico.` },
+      { id: 'A', type: 'text', value: `priorizar os interesses econômicos em relação aos seres humanos e à natureza.` },
+      { id: 'B', type: 'text', value: `negar a perspectiva científica e suas conquistas por causa de riscos ecológicos.` },
+      { id: 'C', type: 'text', value: `instituir o diálogo público sobre mudanças tecnológicas e suas consequências.` },
+      { id: 'D', type: 'text', value: `combater a introdução de tecnologias para travar o curso das mudanças sociais.` },
+      { id: 'E', type: 'text', value: `romper o equilíbrio entre benefícios e riscos do avanço tecnológico e científico.` },
     ],
     correct: 'C',
     explanation: `O princípio da precaução, diante das ameaças da engenharia genética de alimentos, recomenda evitar ou colocar em quarentena tecnologias cujos danos à saúde ou ao ambiente ainda não podem ser avaliados com precisão. Essa tendência do pensamento social contemporâneo tem como objetivo instituir o diálogo público sobre mudanças tecnológicas e suas consequências, submetendo os riscos à deliberação coletiva, por isso a alternativa C é correta. Priorizar interesses econômicos sobre as pessoas (A) e romper o equilíbrio entre benefícios e riscos (E) contrariam a lógica cautelosa do princípio. Negar a perspectiva científica (B) e combater toda introdução de tecnologias (D) extrapolam a proposta, que não rejeita a ciência, mas busca avaliá-la com responsabilidade.`,
@@ -1371,16 +1209,11 @@ Na década de 1960, a proposição de Simone de Beauvoir
 contribuiu para estruturar um movimento social que teve 
 como marca o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `ação do Poder Judiciário para criminalizar a violência 
-sexual.` },
-      { id: 'B', type: 'text', value: `pressão do Poder Legislativo para impedir a dupla 
-jornada de trabalho.` },
-      { id: 'C', type: 'text', value: `organização de protestos públicos para garantir a 
-igualdade de gênero.` },
-      { id: 'D', type: 'text', value: `oposição de grupos religiosos para impedir os 
-casamentos homoafetivos.` },
-      { id: 'E', type: 'text', value: `estabelecimento de políticas governamentais para 
-promover ações afirmativas.` },
+      { id: 'A', type: 'text', value: `ação do Poder Judiciário para criminalizar a violência sexual.` },
+      { id: 'B', type: 'text', value: `pressão do Poder Legislativo para impedir a dupla jornada de trabalho.` },
+      { id: 'C', type: 'text', value: `organização de protestos públicos para garantir a igualdade de gênero.` },
+      { id: 'D', type: 'text', value: `oposição de grupos religiosos para impedir os casamentos homoafetivos.` },
+      { id: 'E', type: 'text', value: `estabelecimento de políticas governamentais para promover ações afirmativas.` },
     ],
     correct: 'C',
     explanation: `A frase de Simone de Beauvoir, segundo a qual não se nasce mulher, mas torna-se mulher, afirma que o feminino é uma construção social, e não um destino biológico. Essa proposição contribuiu para estruturar um movimento social — o feminismo — que teve como marca a organização de protestos públicos para garantir a igualdade de gênero, por isso a alternativa C é correta. A ação do Judiciário para criminalizar a violência sexual (A) e a pressão do Legislativo contra a dupla jornada (B) restringem o movimento a esferas institucionais específicas. A oposição a casamentos homoafetivos (D) é alheia à pauta feminista, e o estabelecimento de ações afirmativas governamentais (E) não define a mobilização social desencadeada pela obra.`,
@@ -1407,13 +1240,10 @@ Ilustrando uma proposição básica da sociologia do
 conhecimento, o argumento de Karl Mannheim defende 
 que o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `conhecimento sobre a realidade é condicionado 
-socialmente.` },
-      { id: 'B', type: 'text', value: `submissão ao grupo manipula o conhecimento do 
-mundo.` },
+      { id: 'A', type: 'text', value: `conhecimento sobre a realidade é condicionado socialmente.` },
+      { id: 'B', type: 'text', value: `submissão ao grupo manipula o conhecimento do mundo.` },
       { id: 'C', type: 'text', value: `divergência é um privilégio de indivíduos excepcionais.` },
-      { id: 'D', type: 'text', value: `educação formal determina o conhecimento do 
-idioma.` },
+      { id: 'D', type: 'text', value: `educação formal determina o conhecimento do idioma.` },
       { id: 'E', type: 'text', value: `domínio das línguas universaliza o conhecimento.` },
     ],
     correct: 'A',
@@ -1454,21 +1284,16 @@ Iraque a desestruturação do(a)`,
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `A questão ambiental, uma das principais pautas 
-contemporâneas, 
-possibilitou 
-o 
-surgimento 
-de 
-concepções políticas diversas, dentre as quais se destaca 
-a preservação ambiental, que sugere uma ideia de 
-intocabilidade da natureza e impede o seu aproveitamento 
-econômico sob qualquer justificativa. 
-PORTO-GONÇALVES, C. W. A globalização da natureza e a natureza da 
-globalização . Rio de Janeiro: Civilização Brasileira, 2006 (adaptado). 
-Considerando as atuais concepções políticas sobre a 
-questão ambiental, a dinâmica caracterizada no texto 
-quanto à proteção do meio ambiente está baseada na`,
+    text: `A questão ambiental, uma das principais pautas contemporâneas,
+possibilitou o surgimento de concepções políticas diversas,
+dentre as quais se destaca a preservação ambiental, que sugere
+uma ideia de intocabilidade da natureza e impede o seu
+aproveitamento econômico sob qualquer justificativa.
+PORTO-GONÇALVES, C. W. A globalização da natureza e a natureza
+da globalização . Rio de Janeiro: Civilização Brasileira, 2006
+(adaptado). Considerando as atuais concepções políticas sobre
+a questão ambiental, a dinâmica caracterizada no texto quanto
+à proteção do meio ambiente está baseada na`,
     alternatives: [
       { id: 'A', type: 'text', value: `prática econômica sustentável.` },
       { id: 'B', type: 'text', value: `contenção de impactos ambientais.` },
@@ -1539,29 +1364,15 @@ negativo inicial que ocorre é o(a)`,
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `Muitos estudos de síntese e endereçamento de 
-proteínas utilizam aminoácidos marcados radioativamente 
-para acompanhar as proteínas, desde fases iniciais de 
-sua produção até seu destino final. Esses ensaios foram 
-muito empregados para estudo e caracterização de 
-células secretoras. 
-Após esses ensaios de radioatividade, qual gráfico 
-representa a evolução temporal da produção de proteínas 
-e sua localização em uma célula secretora? 
-100 
-90 
-80 
-70 
-60 
-50 
-40 
-30 
-20 
-10 
-0 
-Radioatividade (%) 
-Retículo Endoplasmático 
-Complexo Golgiense`,
+    text: `Muitos estudos de síntese e endereçamento de proteínas
+utilizam aminoácidos marcados radioativamente para acompanhar
+as proteínas, desde fases iniciais de sua produção até seu
+destino final. Esses ensaios foram muito empregados para
+estudo e caracterização de células secretoras. Após esses
+ensaios de radioatividade, qual gráfico representa a evolução
+temporal da produção de proteínas e sua localização em uma
+célula secretora? 100 90 80 70 60 50 40 30 20 10 0
+Radioatividade (%) Retículo Endoplasmático Complexo Golgiense`,
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2015/images/enem_2015_d1_q48_A.jpg` },
       { id: 'B', type: 'image', value: `/enem/2015/images/enem_2015_d1_q48_B.jpg` },
@@ -1687,10 +1498,8 @@ O fenômeno de “derretimento” decorre da`,
       { id: 'A', type: 'text', value: `absorção da umidade presente no ar atmosférico.` },
       { id: 'B', type: 'text', value: `fusão do hidróxido pela troca de calor com o ambiente.` },
       { id: 'C', type: 'text', value: `reação das impurezas do produto com o oxigênio do ar.` },
-      { id: 'D', type: 'text', value: `adsorção de gases atmosféricos na superfície do 
-sólido.` },
-      { id: 'E', type: 'text', value: `reação do hidróxido de sódio com o gás nitrogênio 
-presente no ar.` },
+      { id: 'D', type: 'text', value: `adsorção de gases atmosféricos na superfície do sólido.` },
+      { id: 'E', type: 'text', value: `reação do hidróxido de sódio com o gás nitrogênio presente no ar.` },
     ],
     correct: 'A',
     explanation: `O hidróxido de sódio é uma substância higroscópica (deliquescente): exposto ao ar, atrai e absorve o vapor de água da atmosfera. A água captada dissolve o sólido em sua própria superfície, dando o aspecto de material "derretido". Esse fenômeno não envolve fusão por calor nem reação com gases do ar, mas sim a absorção de umidade. Portanto, o "derretimento" decorre da absorção da umidade presente no ar atmosférico (alternativa A).`,
@@ -1702,40 +1511,26 @@ presente no ar.` },
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `Certos tipos de superfícies na natureza podem 
-refletir luz de forma a gerar um efeito de arco-íris. 
-Essa característica é conhecida como iridescência 
-e ocorre por causa do fenômeno da interferência de 
-película fina. A figura ilustra o esquema de uma fina 
-camada iridescente de óleo sobre uma poça d’água. 
-Parte do feixe de luz branca incidente 
-1 reflete na 
-interface ar/óleo e sofre inversão de fase 
-2 , o que 
-equivale a uma mudança de meio comprimento de 
-onda. A parte refratada do feixe 3 incide na interface 
-óleo/água e sofre reflexão sem inversão de fase 4 . 
-O observador indicado enxergará aquela região do filme 
-com coloração equivalente à do comprimento de onda 
-que sofre interferência completamente construtiva entre 
-os raios 2 e 5 , mas essa condição só é possível para 
-uma espessura mínima da película. Considere que o 
-caminho percorrido em 3 e 4 corresponde ao dobro da 
-espessura E da película de óleo. 
-Esses raios produzem a 
-interferência observada 
-1 
-2 
-5 
-interface ar/óleo 
-4 
-3 
-E 
-camada fina de óleo 
-água 
-Disponível em: http://2011.igem.org. Acesso em: 18 nov. 2014 (adaptado). 
-Expressa em termos do comprimento de onda (λ), a 
-espessura mínima é igual a`,
+    text: `Certos tipos de superfícies na natureza podem refletir luz de
+forma a gerar um efeito de arco-íris. Essa característica é
+conhecida como iridescência e ocorre por causa do fenômeno da
+interferência de película fina. A figura ilustra o esquema de
+uma fina camada iridescente de óleo sobre uma poça d’água.
+Parte do feixe de luz branca incidente 1 reflete na interface
+ar/óleo e sofre inversão de fase 2 , o que equivale a uma
+mudança de meio comprimento de onda. A parte refratada do
+feixe 3 incide na interface óleo/água e sofre reflexão sem
+inversão de fase 4 . O observador indicado enxergará aquela
+região do filme com coloração equivalente à do comprimento de
+onda que sofre interferência completamente construtiva entre
+os raios 2 e 5 , mas essa condição só é possível para uma
+espessura mínima da película. Considere que o caminho
+percorrido em 3 e 4 corresponde ao dobro da espessura E da
+película de óleo. Esses raios produzem a interferência
+observada 1 2 5 interface ar/óleo 4 3 E camada fina de óleo
+água Disponível em: http://2011.igem.org. Acesso em: 18 nov.
+2014 (adaptado). Expressa em termos do comprimento de onda
+(λ), a espessura mínima é igual a`,
     images: ['/enem/2015/images/enem_2015_d1_q53.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `λ/4.` },
@@ -1774,16 +1569,11 @@ MUOTRI, A. Você não é só você: carregamos células maternas na maioria de n
 O princípio contestado com essa descoberta, relacionado 
 ao desenvolvimento do corpo humano, é o de que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o fenótipo das nossas células pode mudar por 
-influência do meio ambiente.` },
-      { id: 'B', type: 'text', value: `a dominância genética determina a expressão de 
-alguns genes.` },
-      { id: 'C', type: 'text', value: `as mutações genéticas introduzem variabilidade no 
-genoma.` },
-      { id: 'D', type: 'text', value: `as mitocôndrias e o seu DNA provêm do gameta 
-materno.` },
-      { id: 'E', type: 'text', value: `as nossas células corporais provêm de um único 
-zigoto.` },
+      { id: 'A', type: 'text', value: `o fenótipo das nossas células pode mudar por influência do meio ambiente.` },
+      { id: 'B', type: 'text', value: `a dominância genética determina a expressão de alguns genes.` },
+      { id: 'C', type: 'text', value: `as mutações genéticas introduzem variabilidade no genoma.` },
+      { id: 'D', type: 'text', value: `as mitocôndrias e o seu DNA provêm do gameta materno.` },
+      { id: 'E', type: 'text', value: `as nossas células corporais provêm de um único zigoto.` },
     ],
     correct: 'E',
     explanation: `O microquimerismo fetal mostra que uma mulher pode abrigar células (e DNA) derivadas do feto, inclusive células masculinas identificadas pela presença do cromossomo Y. Isso revela que nem todas as células do corpo de um indivíduo descendem de um mesmo e único zigoto, pois há células de outra origem genética convivendo no organismo. O princípio clássico contestado é justamente o de que todas as nossas células corporais provêm de um único zigoto. Portanto, a resposta é a alternativa E.`,
@@ -1826,16 +1616,11 @@ em litros, que o produtor deve adicionar ao tanque?`,
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `Algumas raças de cães domésticos não conseguem 
-copular entre si devido à grande diferença em seus 
-tamanhos 
-corporais. Ainda 
-assim, 
-tal 
-dificuldade 
-reprodutiva não ocasiona a formação de novas espécies 
-(especiação). 
-Essa especiação não ocorre devido ao(à)`,
+    text: `Algumas raças de cães domésticos não conseguem copular entre
+si devido à grande diferença em seus tamanhos corporais. Ainda
+assim, tal dificuldade reprodutiva não ocasiona a formação de
+novas espécies (especiação). Essa especiação não ocorre devido
+ao(à)`,
     alternatives: [
       { id: 'A', type: 'text', value: `oscilação genética das raças.` },
       { id: 'B', type: 'text', value: `convergência adaptativa das raças.` },
@@ -1874,12 +1659,9 @@ armazenado pela`,
     alternatives: [
       { id: 'A', type: 'text', value: `expansão do nitrogênio durante a ebulição.` },
       { id: 'B', type: 'text', value: `absorção de calor pelo nitrogênio durante a ebulição.` },
-      { id: 'C', type: 'text', value: `realização de trabalho sobre o nitrogênio durante a 
-liquefação.` },
-      { id: 'D', type: 'text', value: `retirada de água e gás carbônico da atmosfera antes 
-do resfriamento.` },
-      { id: 'E', type: 'text', value: `liberação de calor do nitrogênio para a vizinhança 
-durante a liquefação.` },
+      { id: 'C', type: 'text', value: `realização de trabalho sobre o nitrogênio durante a liquefação.` },
+      { id: 'D', type: 'text', value: `retirada de água e gás carbônico da atmosfera antes do resfriamento.` },
+      { id: 'E', type: 'text', value: `liberação de calor do nitrogênio para a vizinhança durante a liquefação.` },
     ],
     correct: 'C',
     explanation: `No processo, o ar é resfriado e o nitrogênio é liquefeito; para comprimir e liquefazer o gás é preciso realizar trabalho sobre ele, e é nessa etapa que a energia elétrica excedente fica armazenada no nitrogênio líquido. Depois, ao voltar à temperatura ambiente, o nitrogênio entra em ebulição e se expande, devolvendo essa energia ao acionar as turbinas. Assim, o armazenamento ocorre quando se realiza trabalho sobre o nitrogênio durante a liquefação. Portanto, a resposta é a alternativa C.`,
@@ -1891,42 +1673,24 @@ durante a liquefação.` },
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `Alimentos 
-em 
-conserva 
-são 
-frequentemente 
-armazenados em latas metálicas seladas, fabricadas com 
-um material chamado folha de flandres, que consiste de 
-uma chapa de aço revestida com uma fina camada de 
-estanho, metal brilhante e de difícil oxidação. É comum 
-que a superfície interna seja ainda revestida por uma 
-camada de verniz à base de epóxi, embora também 
-existam latas sem esse revestimento, apresentando uma 
-camada de estanho mais espessa. 
-SANTANA, V. M. S. A leitura e a química das substâncias. Cadernos PDE . Ivaiporã: 
-Secretaria de Estado da Educação do Paraná (SEED); Universidade 
-Estadual de Londrina, 2010 (adaptado). 
-Comprar 
-uma 
-lata 
-de 
-conserva 
-amassada 
-no 
-supermercado é desaconselhável porque o amassado 
-pode`,
+    text: `Alimentos em conserva são frequentemente armazenados em latas
+metálicas seladas, fabricadas com um material chamado folha de
+flandres, que consiste de uma chapa de aço revestida com uma
+fina camada de estanho, metal brilhante e de difícil oxidação.
+É comum que a superfície interna seja ainda revestida por uma
+camada de verniz à base de epóxi, embora também existam latas
+sem esse revestimento, apresentando uma camada de estanho mais
+espessa. SANTANA, V. M. S. A leitura e a química das
+substâncias. Cadernos PDE . Ivaiporã: Secretaria de Estado da
+Educação do Paraná (SEED); Universidade Estadual de Londrina,
+2010 (adaptado). Comprar uma lata de conserva amassada no
+supermercado é desaconselhável porque o amassado pode`,
     alternatives: [
-      { id: 'A', type: 'text', value: `alterar a pressão no interior da lata, promovendo a 
-degradação acelerada do alimento.` },
-      { id: 'B', type: 'text', value: `romper a camada de estanho, permitindo a corrosão 
-do ferro e alterações do alimento.` },
-      { id: 'C', type: 'text', value: `prejudicar o apelo visual da embalagem, apesar de 
-não afetar as propriedades do alimento.` },
-      { id: 'D', type: 'text', value: `romper a camada de verniz, fazendo com que o metal 
-tóxico estanho contamine o alimento.` },
-      { id: 'E', type: 'text', value: `desprender camadas de verniz, que se dissolverão no 
-meio aquoso, contaminando o alimento.` },
+      { id: 'A', type: 'text', value: `alterar a pressão no interior da lata, promovendo a degradação acelerada do alimento.` },
+      { id: 'B', type: 'text', value: `romper a camada de estanho, permitindo a corrosão do ferro e alterações do alimento.` },
+      { id: 'C', type: 'text', value: `prejudicar o apelo visual da embalagem, apesar de não afetar as propriedades do alimento.` },
+      { id: 'D', type: 'text', value: `romper a camada de verniz, fazendo com que o metal tóxico estanho contamine o alimento.` },
+      { id: 'E', type: 'text', value: `desprender camadas de verniz, que se dissolverão no meio aquoso, contaminando o alimento.` },
     ],
     correct: 'B',
     explanation: `A folha de flandres é uma chapa de aço (ferro) recoberta por uma fina camada de estanho, metal brilhante e resistente à oxidação, que protege o ferro. Ao amassar a lata, essa camada de estanho pode se romper, expondo o ferro ao meio e permitindo sua corrosão. Com o ferro corroído, o interior da lata e o alimento ficam sujeitos a alterações. Portanto, o amassado é desaconselhável porque pode romper a camada de estanho, permitindo a corrosão do ferro e alterações do alimento (alternativa B).`,
@@ -1938,27 +1702,20 @@ meio aquoso, contaminando o alimento.` },
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `Uma forma de organização de um sistema biológico 
-é a presença de sinais diversos utilizados pelos 
-indivíduos para se comunicarem. No caso das abelhas 
-da espécie Apis mellifera , os sinais utilizados podem ser 
-feromônios. Para saírem e voltarem de suas colmeias, 
-usam um feromônio que indica a trilha percorrida por elas 
-(Composto A). Quando pressentem o perigo, expelem um 
-feromônio de alarme (Composto B), que serve de sinal 
-para um combate coletivo. O que diferencia cada um 
-desses sinais utilizados pelas abelhas são as estruturas e 
-funções orgânicas dos feromônios. 
-CH₂ OH 
-Composto A 
-CH₃ COO(CH₂ )CH 
-CH₃ 
-CH₃ 
-Composto B 
-QUADROS, A. L. Os feromônios e o ensino de química. 
-Química Nova na Escola , n. 7, maio 1998 (adaptado). 
-As funções orgânicas que caracterizam os feromônios de 
-trilha e de alarme são, respectivamente,`,
+    text: `Uma forma de organização de um sistema biológico é a presença
+de sinais diversos utilizados pelos indivíduos para se
+comunicarem. No caso das abelhas da espécie Apis mellifera ,
+os sinais utilizados podem ser feromônios. Para saírem e
+voltarem de suas colmeias, usam um feromônio que indica a
+trilha percorrida por elas (Composto A). Quando pressentem o
+perigo, expelem um feromônio de alarme (Composto B), que serve
+de sinal para um combate coletivo. O que diferencia cada um
+desses sinais utilizados pelas abelhas são as estruturas e
+funções orgânicas dos feromônios. CH₂ OH Composto A CH₃
+COO(CH₂ )CH CH₃ CH₃ Composto B QUADROS, A. L. Os feromônios e
+o ensino de química. Química Nova na Escola , n. 7, maio 1998
+(adaptado). As funções orgânicas que caracterizam os
+feromônios de trilha e de alarme são, respectivamente,`,
     images: ['/enem/2015/images/enem_2015_d1_q59.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `álcool e éster.` },
@@ -2016,17 +1773,9 @@ elemento pela`,
     alternatives: [
       { id: 'A', type: 'text', value: `absorção do gás nitrogênio pela respiração.` },
       { id: 'B', type: 'text', value: `ingestão de moléculas de carboidratos vegetais.` },
-      { id: 'C', type: 'text', value: `incorporação 
-de 
-nitritos 
-dissolvidos 
-na 
-água 
-consumida.` },
-      { id: 'D', type: 'text', value: `transferência da matéria orgânica pelas cadeias 
-tróficas.` },
-      { id: 'E', type: 'text', value: `protocooperação com microrganismos fixadores de 
-nitrogênio.` },
+      { id: 'C', type: 'text', value: `incorporação de nitritos dissolvidos na água consumida.` },
+      { id: 'D', type: 'text', value: `transferência da matéria orgânica pelas cadeias tróficas.` },
+      { id: 'E', type: 'text', value: `protocooperação com microrganismos fixadores de nitrogênio.` },
     ],
     correct: 'D',
     explanation: `O nitrogênio atmosférico (N₂) é fixado por microrganismos e incorporado à matéria orgânica dos produtores; a partir daí, ele passa aos demais organismos ao longo das cadeias alimentares. Os animais, que não fixam N₂ nem o absorvem diretamente do ar, obtêm o nitrogênio necessário ao se alimentarem, ou seja, pela transferência da matéria orgânica pelas cadeias tróficas. Assim, é pela alimentação que o elemento chega aos consumidores. Portanto, a resposta é a alternativa D.`,
@@ -2038,23 +1787,18 @@ nitrogênio.` },
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `Em um experimento, colocou-se água até a metade 
-da capacidade de um frasco de vidro e, em seguida, 
-adicionaram-se três gotas de solução alcoólica de 
-fenolftaleína. 
-Adicionou-se 
-bicarbonato 
-de 
-sódio 
-comercial, em pequenas quantidades, até que a solução 
-se tornasse rosa. Dentro do frasco, acendeu-se um 
-palito de fósforo, o qual foi apagado assim que a 
-cabeça terminou de queimar. Imediatamente, o frasco 
-foi tampado. Em seguida, agitou-se o frasco tampado e 
-observou-se o desaparecimento da cor rosa. 
-MATEUS, A. L. Química na cabeça . Belo Horizonte: UFMG, 2001 (adaptado). 
-A explicação para o desaparecimento da cor rosa é que, 
-com a combustão do palito de fósforo, ocorreu o(a)`,
+    text: `Em um experimento, colocou-se água até a metade da capacidade
+de um frasco de vidro e, em seguida, adicionaram-se três gotas
+de solução alcoólica de fenolftaleína. Adicionou-se
+bicarbonato de sódio comercial, em pequenas quantidades, até
+que a solução se tornasse rosa. Dentro do frasco, acendeu-se
+um palito de fósforo, o qual foi apagado assim que a cabeça
+terminou de queimar. Imediatamente, o frasco foi tampado. Em
+seguida, agitou-se o frasco tampado e observou-se o
+desaparecimento da cor rosa. MATEUS, A. L. Química na cabeça .
+Belo Horizonte: UFMG, 2001 (adaptado). A explicação para o
+desaparecimento da cor rosa é que, com a combustão do palito
+de fósforo, ocorreu o(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `formação de óxidos de caráter ácido.` },
       { id: 'B', type: 'text', value: `evaporação do indicador fenolftaleína.` },
@@ -2081,14 +1825,10 @@ A dificuldade extra para reabrir a geladeira ocorre
 porque o(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `volume de ar dentro da geladeira diminuiu.` },
-      { id: 'B', type: 'text', value: `motor da geladeira está funcionando com potência 
-máxima.` },
-      { id: 'C', type: 'text', value: `força exercida pelo ímã fixado na porta da geladeira 
-aumenta.` },
-      { id: 'D', type: 'text', value: `pressão no interior da geladeira está abaixo da 
-pressão externa.` },
-      { id: 'E', type: 'text', value: `temperatura no interior da geladeira é inferior ao valor 
-existente antes de ela ser aberta.` },
+      { id: 'B', type: 'text', value: `motor da geladeira está funcionando com potência máxima.` },
+      { id: 'C', type: 'text', value: `força exercida pelo ímã fixado na porta da geladeira aumenta.` },
+      { id: 'D', type: 'text', value: `pressão no interior da geladeira está abaixo da pressão externa.` },
+      { id: 'E', type: 'text', value: `temperatura no interior da geladeira é inferior ao valor existente antes de ela ser aberta.` },
     ],
     correct: 'D',
     explanation: `Ao fechar a geladeira, parte do ar relativamente quente fica retido no interior e, em contato com o ambiente frio, resfria-se rapidamente. Com a diminuição da temperatura e o volume praticamente constante, a pressão do ar interno cai, tornando-se menor que a pressão atmosférica externa. Essa diferença de pressão empurra a porta contra o gabinete, exigindo uma força maior para reabri-la. Portanto, a dificuldade ocorre porque a pressão no interior da geladeira fica abaixo da pressão externa (alternativa D).`,
@@ -2229,20 +1969,16 @@ Nessa situação o sistema excretor dos estudantes`,
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `Um estudante, precisando instalar um computador, 
-um monitor e uma lâmpada em seu quarto, verificou 
-que precisaria fazer a instalação de duas tomadas e 
-um interruptor na rede elétrica. Decidiu esboçar com 
-antecedência o esquema elétrico. 
-“O circuito deve ser tal que as tomadas e a lâmpada 
-devem estar submetidas à tensão nominal da rede elétrica 
-e a lâmpada deve poder ser ligada ou desligada por um 
-interruptor sem afetar os outros dispositivos” - pensou. 
-Símbolos adotados: 
-Lâmpada: 
-Tomada: 
-Interruptor: 
-Qual dos circuitos esboçados atende às exigências?`,
+    text: `Um estudante, precisando instalar um computador, um monitor e
+uma lâmpada em seu quarto, verificou que precisaria fazer a
+instalação de duas tomadas e um interruptor na rede elétrica.
+Decidiu esboçar com antecedência o esquema elétrico. “O
+circuito deve ser tal que as tomadas e a lâmpada devem estar
+submetidas à tensão nominal da rede elétrica e a lâmpada deve
+poder ser ligada ou desligada por um interruptor sem afetar os
+outros dispositivos” - pensou. Símbolos adotados: Lâmpada:
+Tomada: Interruptor: Qual dos circuitos esboçados atende às
+exigências?`,
     images: ['/enem/2015/images/enem_2015_d1_q68.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `A` },
@@ -2261,35 +1997,17 @@ Qual dos circuitos esboçados atende às exigências?`,
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `Normalmente, as células do organismo humano 
-realizam a respiração aeróbica, na qual o consumo de uma 
-molécula de glicose gera 38 moléculas de ATP. Contudo, 
-em condições anaeróbicas, o consumo de uma molécula 
-de glicose pelas células é capaz de gerar apenas duas 
-moléculas de ATP. 
-1 
-2 
-3 
-40 
-(unidades arbitrárias)
-Consumo de glicose
-4 
-20 
-5 
-0 
-28 
-35 
-42 
-7 
-14 
-21 
-Concentração de oxigênio 
-(unidades arbitrárias) 
-Qual curva representa o perfil de consumo de glicose, 
-para manutenção da homeostase de uma célula que 
-inicialmente está em uma condição anaeróbica e é 
-submetida a um aumento gradual da concentração 
-de oxigênio?`,
+    text: `Normalmente, as células do organismo humano realizam a
+respiração aeróbica, na qual o consumo de uma molécula de
+glicose gera 38 moléculas de ATP. Contudo, em condições
+anaeróbicas, o consumo de uma molécula de glicose pelas
+células é capaz de gerar apenas duas moléculas de ATP. 1 2 3
+40 (unidades arbitrárias) Consumo de glicose 4 20 5 0 28 35 42
+7 14 21 Concentração de oxigênio (unidades arbitrárias) Qual
+curva representa o perfil de consumo de glicose, para
+manutenção da homeostase de uma célula que inicialmente está
+em uma condição anaeróbica e é submetida a um aumento gradual
+da concentração de oxigênio?`,
     images: ['/enem/2015/images/enem_2015_d1_q69.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1` },
@@ -2379,16 +2097,11 @@ combate ao vetor. Manual de Normas Técnicas. Disponível em: http://portal.saud
 Acesso em: 7 ago. 2012 (adaptado). 
 Esse fato pode ser atribuído à`,
     alternatives: [
-      { id: 'A', type: 'text', value: `maior taxa de mutação do vírus da febre amarela do 
-que do vírus da dengue.` },
-      { id: 'B', type: 'text', value: `alta variabilidade antigênica do vírus da dengue em 
-relação ao vírus da febre amarela.` },
-      { id: 'C', type: 'text', value: `menor adaptação do vírus da dengue à população 
-humana do que do vírus da febre amarela.` },
-      { id: 'D', type: 'text', value: `presença de dois tipos de ácidos nucleicos no vírus da 
-dengue e somente um tipo no vírus da febre amarela.` },
-      { id: 'E', type: 'text', value: `baixa capacidade de indução da resposta imunológica 
-pelo vírus da dengue em relação ao da febre amarela.` },
+      { id: 'A', type: 'text', value: `maior taxa de mutação do vírus da febre amarela do que do vírus da dengue.` },
+      { id: 'B', type: 'text', value: `alta variabilidade antigênica do vírus da dengue em relação ao vírus da febre amarela.` },
+      { id: 'C', type: 'text', value: `menor adaptação do vírus da dengue à população humana do que do vírus da febre amarela.` },
+      { id: 'D', type: 'text', value: `presença de dois tipos de ácidos nucleicos no vírus da dengue e somente um tipo no vírus da febre amarela.` },
+      { id: 'E', type: 'text', value: `baixa capacidade de indução da resposta imunológica pelo vírus da dengue em relação ao da febre amarela.` },
     ],
     correct: 'B',
     explanation: `O vírus da dengue possui quatro sorotipos diferentes e grande variabilidade antigênica, o que dificulta a produção de uma vacina capaz de proteger contra todos eles ao mesmo tempo. Já o vírus da febre amarela apresenta pouca variação antigênica, permitindo uma vacina única e eficaz. Por isso existe vacina contra a febre amarela, mas não uma vacina efetiva contra a dengue. Portanto, o fato se deve à alta variabilidade antigênica do vírus da dengue em relação ao da febre amarela (alternativa B).`,
@@ -2407,18 +2120,11 @@ ANDRADE, C. D. Poesia completa e prosa . Rio de Janeiro: Aguilar, 1973 (fragment
 Nesse fragmento de poema, o autor refere-se à bomba 
 atômica de urânio. Essa reação é dita “em cadeia” porque na`,
     alternatives: [
-      { id: 'A', type: 'text', value: `fissão do ²³⁵U ocorre liberação de grande quantidade 
-de calor, que dá continuidade à reação.` },
-      { id: 'B', type: 'text', value: `fissão de ²³⁵U ocorre liberação de energia, que vai 
-desintegrando o isótopo ²³⁸U, enriquecendo-o em 
-mais ²³⁵U.` },
-      { id: 'C', type: 'text', value: `fissão do ²³⁵U ocorre uma liberação de nêutrons, que 
-bombardearão outros núcleos.` },
-      { id: 'D', type: 'text', value: `fusão do ²³⁵U com ²³⁸U ocorre formação de neutrino, 
-que bombardeará outros núcleos radioativos.` },
-      { id: 'E', type: 'text', value: `fusão do ²³⁵U com ²³⁸U ocorre formação de
-outros elementos radioativos mais pesados, que
-desencadeiam novos processos de fusão.` },
+      { id: 'A', type: 'text', value: `fissão do ²³⁵U ocorre liberação de grande quantidade de calor, que dá continuidade à reação.` },
+      { id: 'B', type: 'text', value: `fissão de ²³⁵U ocorre liberação de energia, que vai desintegrando o isótopo ²³⁸U, enriquecendo-o em mais ²³⁵U.` },
+      { id: 'C', type: 'text', value: `fissão do ²³⁵U ocorre uma liberação de nêutrons, que bombardearão outros núcleos.` },
+      { id: 'D', type: 'text', value: `fusão do ²³⁵U com ²³⁸U ocorre formação de neutrino, que bombardeará outros núcleos radioativos.` },
+      { id: 'E', type: 'text', value: `fusão do ²³⁵U com ²³⁸U ocorre formação de outros elementos radioativos mais pesados, que desencadeiam novos processos de fusão.` },
     ],
     correct: 'C',
     explanation: `Na fissão do ²³⁵U, além de energia, cada núcleo que se rompe libera nêutrons livres. Esses nêutrons colidem com outros núcleos de ²³⁵U, provocando novas fissões, que por sua vez liberam mais nêutrons, e assim sucessivamente. É essa sucessão autossustentada de fissões provocadas pelos nêutrons liberados que caracteriza a reação "em cadeia". Portanto, a reação é em cadeia porque a fissão do ²³⁵U libera nêutrons que bombardearão outros núcleos (alternativa C).`,
@@ -2520,35 +2226,17 @@ esfalerita?`,
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `Hidrocarbonetos podem ser obtidos em laboratório 
-por 
-descarboxilação 
-oxidativa 
-anódica, 
-processo 
-conhecido como eletrossíntese de Kolbe. Essa reação 
-é utilizada na síntese de hidrocarbonetos diversos, a 
-partir de óleos vegetais, os quais podem ser empregados 
-como fontes alternativas de energia, em substituição 
-aos 
-hidrocarbonetos 
-fósseis. 
-O 
-esquema 
-ilustra 
-simplificadamente esse processo. 
-eletrólise 
-OH 
-2 
-+ 
-2 CO₂ 
-KOH 
-metanol 
-O 
-AZEVEDO, D. C.; GOULART, M. O. F. Estereosseletividade em reações eletródicas. 
-Química Nova , n. 2, 1997 (adaptado). 
-Com base nesse processo, o hidrocarboneto produzido 
-na eletrólise do ácido 3,3-dimetil-butanoico é o`,
+    text: `Hidrocarbonetos podem ser obtidos em laboratório por
+descarboxilação oxidativa anódica, processo conhecido como
+eletrossíntese de Kolbe. Essa reação é utilizada na síntese de
+hidrocarbonetos diversos, a partir de óleos vegetais, os quais
+podem ser empregados como fontes alternativas de energia, em
+substituição aos hidrocarbonetos fósseis. O esquema ilustra
+simplificadamente esse processo. eletrólise OH 2 + 2 CO₂ KOH
+metanol O AZEVEDO, D. C.; GOULART, M. O. F.
+Estereosseletividade em reações eletródicas. Química Nova , n.
+2, 1997 (adaptado). Com base nesse processo, o hidrocarboneto
+produzido na eletrólise do ácido 3,3-dimetil-butanoico é o`,
     images: ['/enem/2015/images/enem_2015_d1_q77.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `2,2,7,7-tetrametil-octano.` },
@@ -2584,12 +2272,9 @@ paciente ao hospital é`,
     alternatives: [
       { id: 'A', type: 'text', value: `colocar gelo sobre a flictena para amenizar o ardor.` },
       { id: 'B', type: 'text', value: `utilizar manteiga para evitar o rompimento da flictena.` },
-      { id: 'C', type: 'text', value: `passar creme dental para diminuir a ardência da 
-flictena.` },
-      { id: 'D', type: 'text', value: `perfurar a flictena para que a água acumulada seja 
-liberada.` },
-      { id: 'E', type: 'text', value: `cobrir a flictena com gazes molhadas para evitar a 
-desidratação.` },
+      { id: 'C', type: 'text', value: `passar creme dental para diminuir a ardência da flictena.` },
+      { id: 'D', type: 'text', value: `perfurar a flictena para que a água acumulada seja liberada.` },
+      { id: 'E', type: 'text', value: `cobrir a flictena com gazes molhadas para evitar a desidratação.` },
     ],
     correct: 'E',
     explanation: `Na flictena (bolha) formada pela queimadura, a pele atua como barreira que protege os tecidos e retém o líquido, evitando infecção e perda de água. Não se deve perfurar a bolha, aplicar gelo diretamente, manteiga ou creme dental, pois isso agrava a lesão e o risco de contaminação. O procedimento correto de primeiros socorros é proteger a região, cobrindo a flictena com gazes molhadas para evitar a desidratação até o atendimento médico. Portanto, a resposta é a alternativa E.`,
@@ -2733,8 +2418,7 @@ Uma das características a que o texto se refere é a`,
       { id: 'B', type: 'text', value: `respiração pulmonar nos adultos.` },
       { id: 'C', type: 'text', value: `regulação térmica por endotermia.` },
       { id: 'D', type: 'text', value: `cobertura corporal delgada e altamente permeável.` },
-      { id: 'E', type: 'text', value: `locomoção por membros anteriores e posteriores 
-desenvolvidos.` },
+      { id: 'E', type: 'text', value: `locomoção por membros anteriores e posteriores desenvolvidos.` },
     ],
     correct: 'D',
     explanation: `Os anfíbios foram os primeiros vertebrados a ocupar o ambiente terrestre, mas dependem da água em razão de características fisiológicas ligadas à pele. Sua cobertura corporal é delgada, úmida e altamente permeável, o que permite a respiração cutânea (troca de gases pela pele), mas também facilita a perda de água por evaporação. Por isso precisam permanecer em ambientes úmidos ou próximos à água. Portanto, a característica referida é a cobertura corporal delgada e altamente permeável (alternativa D).`,
@@ -2746,32 +2430,16 @@ desenvolvidos.` },
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `O aproveitamento de resíduos florestais vem se 
-tornando cada dia mais atrativo, pois eles são uma fonte 
-renovável de energia. A figura representa a queima de 
-um bio-óleo extraído do resíduo de madeira, sendo ∆H 1 
-a variação de entalpia devido à queima de 1 g desse 
-bio-óleo, resultando em gás carbônico e água líquida, e 
-∆H 2 a variação de entalpia envolvida na conversão de 1 g 
-de água no estado gasoso para o estado líquido. 
-Energia 
-Bio-óleo + O (g) 
-2 
-H = 18,8 kJ/g 
-1 
-CO (g) 
-H O (g) 
-+ 
-2 
-2 
-H = 2,4 kJ/g 
-2 
-CO (g) 
-H O ( ) ℓ 
-+ 
-2 
-2 
-A variação de entalpia, em kJ, para a queima de 5 g desse 
+    text: `O aproveitamento de resíduos florestais vem se tornando cada
+dia mais atrativo, pois eles são uma fonte renovável de
+energia. A figura representa a queima de um bio-óleo extraído
+do resíduo de madeira, sendo ∆H 1 a variação de entalpia
+devido à queima de 1 g desse bio-óleo, resultando em gás
+carbônico e água líquida, e ∆H 2 a variação de entalpia
+envolvida na conversão de 1 g de água no estado gasoso para o
+estado líquido. Energia Bio-óleo + O (g) 2 H = 18,8 kJ/g 1 CO
+(g) H O (g) + 2 2 H = 2,4 kJ/g 2 CO (g) H O ( ) ℓ + 2 2 A
+variação de entalpia, em kJ, para a queima de 5 g desse
 bio-óleo resultando em CO 2 (gasoso) e H 2 O (gasoso) é:`,
     images: ['/enem/2015/images/enem_2015_d1_q84.jpg'],
     alternatives: [
@@ -2827,16 +2495,11 @@ nota musical, consegue-se diferenciar esses instrumentos
 um do outro. 
 Essa diferenciação se deve principalmente ao(à)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `intensidade sonora do som de cada instrumento 
-musical.` },
-      { id: 'B', type: 'text', value: `potência sonora do som emitido pelos diferentes 
-instrumentos musicais.` },
-      { id: 'C', type: 'text', value: `diferente velocidade de propagação do som emitido 
-por cada instrumento musical.` },
-      { id: 'D', type: 'text', value: `timbre do som, que faz com que os formatos das 
-ondas de cada instrumento sejam diferentes.` },
-      { id: 'E', type: 'text', value: `altura do som, que possui diferentes frequências para 
-diferentes instrumentos musicais.` },
+      { id: 'A', type: 'text', value: `intensidade sonora do som de cada instrumento musical.` },
+      { id: 'B', type: 'text', value: `potência sonora do som emitido pelos diferentes instrumentos musicais.` },
+      { id: 'C', type: 'text', value: `diferente velocidade de propagação do som emitido por cada instrumento musical.` },
+      { id: 'D', type: 'text', value: `timbre do som, que faz com que os formatos das ondas de cada instrumento sejam diferentes.` },
+      { id: 'E', type: 'text', value: `altura do som, que possui diferentes frequências para diferentes instrumentos musicais.` },
     ],
     correct: 'D',
     explanation: `Flauta e piano podem emitir a mesma nota, isto é, sons de mesma frequência (altura) e, se tocados com igual volume, de mesma intensidade. O que distingue os instrumentos é o timbre, determinado pela forma da onda sonora, que resulta da combinação característica de harmônicos de cada fonte. Como cada instrumento gera um conjunto próprio de harmônicos, o formato das ondas é diferente, permitindo diferenciá-los. Portanto, a diferenciação se deve ao timbre, que faz os formatos das ondas serem diferentes (alternativa D).`,
@@ -2922,26 +2585,18 @@ O uso desse látex em água infestada por hospedeiros intermediários tem potenc
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: `A química verde permite o desenvolvimento tecnológico com danos reduzidos ao meio ambiente, e encontrar rotas 
-limpas tem sido um grande desafio. Considere duas rotas diferentes utilizadas para a obtenção de ácido adípico, um 
-insumo muito importante para a indústria têxtil e de plastificantes. 
-Rota tradicional (marrom) 
-OOH 
-Cr(III) 
-Co 
-lavagem cáustica 
-180 °C 
-+ 
-O 
-OH 
-Rota verde 
-+ 
-O 
-Na₂WO₄, 4 H₂O₂
-75 - 90 °C 
-OH 
-LENARDÃO, E. J. et al. Green chemistry - os 12 princípios da química verde e sua inserção nas atividades de ensino e pesquisa. Química Nova , n. 1, 2003 (adaptado). 
-Que fator contribui positivamente para que a segunda rota de síntese seja verde em comparação à primeira?`,
+    text: `A química verde permite o desenvolvimento tecnológico com
+danos reduzidos ao meio ambiente, e encontrar rotas limpas tem
+sido um grande desafio. Considere duas rotas diferentes
+utilizadas para a obtenção de ácido adípico, um insumo muito
+importante para a indústria têxtil e de plastificantes. Rota
+tradicional (marrom) OOH Cr(III) Co lavagem cáustica 180 °C +
+O OH Rota verde + O Na₂WO₄, 4 H₂O₂ 75 - 90 °C OH LENARDÃO, E.
+J. et al. Green chemistry - os 12 princípios da química verde
+e sua inserção nas atividades de ensino e pesquisa. Química
+Nova , n. 1, 2003 (adaptado). Que fator contribui
+positivamente para que a segunda rota de síntese seja verde em
+comparação à primeira?`,
     images: ['/enem/2015/images/enem_2015_d1_q90.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Etapa única na síntese.` },

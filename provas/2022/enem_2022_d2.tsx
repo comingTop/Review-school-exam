@@ -6,28 +6,26 @@ const ENEM_2022_D2: QuizQuestion[] = [
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `A figura ilustra esquematicamente um processo de 
-remediação de solos contaminados com tricloroeteno 
-(TCE), um agente desengraxante. Em razão de 
-vazamentos de tanques de estocagem ou de manejo 
-inapropriado de resíduos industriais, ele se encontra 
-presente em águas subterrâneas, nas quais forma 
-uma fase líquida densa não aquosa (DNAPL) que se 
-deposita no fundo do aquífero. Essa tecnologia de 
+    text: `A figura ilustra esquematicamente um processo de
+remediação de solos contaminados com tricloroeteno
+(TCE), um agente desengraxante. Em razão de
+vazamentos de tanques de estocagem ou de manejo
+inapropriado de resíduos industriais, ele se encontra
+presente em águas subterrâneas, nas quais forma
+uma fase líquida densa não aquosa (DNAPL) que se
+deposita no fundo do aquífero. Essa tecnologia de
 descontaminação emprega o íon persulfato (S₂O₈²⁻), que
 é convertido no radical •SO₄⁻ por minerais que contêm
-Fe(III). O esquema representa de forma simplificada o 
-mecanismo de ação química sobre o TCE e a formação 
-dos produtos de degradação. 
-MONITORAMENTO 
+Fe(III). O esquema representa de forma simplificada o
+mecanismo de ação química sobre o TCE e a formação
+dos produtos de degradação.
+MONITORAMENTO
 
-DNAPL 
-SOLUBILIZAÇÃO 
-ÁGUA SUBTERRÂNEA 
-BERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato: 
-remediação de águas subterrâneas e solos contaminados. Química Nova , n. 9, 2021 (adaptado). 
-Esse procedimento de remediação de águas subterrâneas 
-baseia-se em reações de`,
+DNAPL SOLUBILIZAÇÃO ÁGUA SUBTERRÂNEA BERTAGI, L. T.; BASÍLIO,
+A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato:
+remediação de águas subterrâneas e solos contaminados. Química
+Nova , n. 9, 2021 (adaptado). Esse procedimento de remediação
+de águas subterrâneas baseia-se em reações de`,
     images: ['/enem/2022/images/enem_2022_d2_q91.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `oxirredução.` },
@@ -99,50 +97,24 @@ compõem o Parque Solar Lapa é mais próxima de:`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Os riscos apresentados pelos produtos dependem de 
-suas propriedades e da reatividade quando em contato 
-com outras substâncias. Para prevenir os riscos devido 
-à natureza química dos produtos, devemos conhecer 
-a lista de substâncias incompatíveis e de uso cotidiano 
-em fábricas, hospitais e laboratórios, a fim de observar 
-cuidados na estocagem, manipulação e descarte. 
-O quadro elenca algumas dessas incompatibilidades, que 
-podem levar à ocorrência de acidentes. 
-Substância 
-Incompatibilidade 
-Riscos 
-associados 
-Reação enérgica, 
-explosão, 
-produção de 
-oxidante forte e 
-produto tóxico 
-Ácidos 
-minerais 
-fortes 
-concentrados 
-Bases fortes 
-Cianetos 
-Hipoclorito de sódio 
-Ácido nítrico 
-concentrado 
-Matéria orgânica 
-Reação enérgica, 
-explosão e 
-produto tóxico 
-Considere que houve o descarte indevido de dois 
-conjuntos de substâncias: 
-(1) ácido clorídrico concentrado com cianeto de potássio; 
-(2) ácido nítrico concentrado com sacarose. 
-Disponível em: www.fiocruz.br. Acesso em: 6 dez. 2017 (adaptado). 
-O 
-descarte 
-dos 
-conjuntos 
-(1) 
-e 
-(2) 
-resultará, 
+    text: `Os riscos apresentados pelos produtos dependem de suas
+propriedades e da reatividade quando em contato com outras
+substâncias. Para prevenir os riscos devido à natureza química
+dos produtos, devemos conhecer a lista de substâncias
+incompatíveis e de uso cotidiano em fábricas, hospitais e
+laboratórios, a fim de observar cuidados na estocagem,
+manipulação e descarte. O quadro elenca algumas dessas
+incompatibilidades, que podem levar à ocorrência de acidentes.
+Substância Incompatibilidade Riscos associados Reação
+enérgica, explosão, produção de oxidante forte e produto
+tóxico Ácidos minerais fortes concentrados Bases fortes
+Cianetos Hipoclorito de sódio Ácido nítrico concentrado
+Matéria orgânica Reação enérgica, explosão e produto tóxico
+Considere que houve o descarte indevido de dois conjuntos de
+substâncias: (1) ácido clorídrico concentrado com cianeto de
+potássio; (2) ácido nítrico concentrado com sacarose.
+Disponível em: www.fiocruz.br. Acesso em: 6 dez. 2017
+(adaptado). O descarte dos conjuntos (1) e (2) resultará,
 respectivamente, em`,
     images: ['/enem/2022/images/enem_2022_d2_q94.jpg'],
     alternatives: [
@@ -162,17 +134,16 @@ respectivamente, em`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `O físico Hans C. Oersted observou que um fio transportando corrente elétrica produz um campo magnético. A presença 
-do campo magnético foi verificada ao aproximar uma bússola de um fio conduzindo corrente elétrica. 
-A figura ilustra um fio percorrido por uma corrente elétrica i , constante e com sentido para cima. Os pontos A , B e C 
-estão num plano transversal e equidistantes do fio. Em cada ponto foi colocada uma bússola. 
-i 
-A 
-B 
-C 
-Considerando apenas o campo magnético por causa da corrente i , as respectivas configurações das bússolas nos 
-pontos A , B e C serão 
-i`,
+    text: `O físico Hans C. Oersted observou que um fio transportando
+corrente elétrica produz um campo magnético. A presença do
+campo magnético foi verificada ao aproximar uma bússola de um
+fio conduzindo corrente elétrica. A figura ilustra um fio
+percorrido por uma corrente elétrica i , constante e com
+sentido para cima. Os pontos A , B e C estão num plano
+transversal e equidistantes do fio. Em cada ponto foi colocada
+uma bússola. i A B C Considerando apenas o campo magnético por
+causa da corrente i , as respectivas configurações das
+bússolas nos pontos A , B e C serão i`,
     images: ['/enem/2022/images/enem_2022_d2_q95.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2022/images/enem_2022_d2_q95_A.jpg` },
@@ -191,30 +162,20 @@ i`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `O quadro mostra valores de corrente elétrica e seus efeitos sobre o corpo humano. A corrente elétrica que percorrerá o corpo de um 
-indivíduo depende da tensão aplicada e da resistência 
-elétrica média do corpo humano. Esse último fator está 
-intimamente relacionado com a umidade da pele, que 
-seca apresenta resistência elétrica da ordem de 500 kΩ, 
-mas, se molhada, pode chegar a apenas 1 kΩ. 
-Apesar de incomum, é possível sofrer um acidente 
-utilizando baterias de 12 V. Considere que um indivíduo 
-com a pele molhada sofreu uma parada respiratória 
-ao tocar simultaneamente nos pontos A e B de uma 
-associação de duas dessas baterias. 
-DURAN, J. E. R. Biofísica: fundamentos e aplicações . 
-São Paulo: Pearson Prentice Hall, 2003 (adaptado). 
-Qual associação de baterias foi responsável pelo acidente? 
-A 
-- 
-+ 
-A 
-B 
-- 
-+ 
-B 
-- 
-+`,
+    text: `O quadro mostra valores de corrente elétrica e seus efeitos
+sobre o corpo humano. A corrente elétrica que percorrerá o
+corpo de um indivíduo depende da tensão aplicada e da
+resistência elétrica média do corpo humano. Esse último fator
+está intimamente relacionado com a umidade da pele, que seca
+apresenta resistência elétrica da ordem de 500 kΩ, mas, se
+molhada, pode chegar a apenas 1 kΩ. Apesar de incomum, é
+possível sofrer um acidente utilizando baterias de 12 V.
+Considere que um indivíduo com a pele molhada sofreu uma
+parada respiratória ao tocar simultaneamente nos pontos A e B
+de uma associação de duas dessas baterias. DURAN, J. E. R.
+Biofísica: fundamentos e aplicações . São Paulo: Pearson
+Prentice Hall, 2003 (adaptado). Qual associação de baterias
+foi responsável pelo acidente? A - + A B - + B - +`,
     images: ['/enem/2022/images/enem_2022_d2_q96.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2022/images/enem_2022_d2_q96_A.jpg` },
@@ -282,16 +243,11 @@ ANVISA. Disponível em: www.gov.br/anvisa. Acesso em: 4 dez. 2021 (adaptado).
 O sucesso dessa terapia advém do fato de que o produto 
 favorecerá a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `correção do código genético para a tradução da 
-proteína.` },
-      { id: 'B', type: 'text', value: `alteração do RNA ribossômico ligado à síntese da 
-proteína.` },
-      { id: 'C', type: 'text', value: `produção de mutações benéficas para a correção do 
-problema.` },
-      { id: 'D', type: 'text', value: `liberação imediata da proteína normal na região 
-ocular humana.` },
-      { id: 'E', type: 'text', value: `expressão do gene responsável pela produção da 
-enzima normal.` },
+      { id: 'A', type: 'text', value: `correção do código genético para a tradução da proteína.` },
+      { id: 'B', type: 'text', value: `alteração do RNA ribossômico ligado à síntese da proteína.` },
+      { id: 'C', type: 'text', value: `produção de mutações benéficas para a correção do problema.` },
+      { id: 'D', type: 'text', value: `liberação imediata da proteína normal na região ocular humana.` },
+      { id: 'E', type: 'text', value: `expressão do gene responsável pela produção da enzima normal.` },
     ],
     correct: 'E',
     explanation: `A distrofia decorre da mutação do gene RPE65, que impede a produção da enzima funcional nas células da retina. A terapia introduz, por meio de um vírus vetor, uma cópia normal (selvagem) do gene RPE65 no interior dessas células. Com o gene íntegro presente, a maquinaria celular passa a transcrevê-lo e traduzi-lo, ou seja, a expressá-lo, produzindo a enzima normal que restaura o funcionamento da retina. Não há correção do código genético universal, alteração do RNA ribossômico, indução de mutações benéficas nem entrega direta da proteína pronta. O sucesso vem da expressão do gene responsável pela produção da enzima normal (alternativa E).`,
@@ -314,19 +270,11 @@ todo o território nacional.
 Casos como o dessa árvore podem provocar a redução 
 da biodiversidade, pois elas`,
     alternatives: [
-      { id: 'A', type: 'text', value: `ocupam áreas de vegetação nativa e substituem 
-parcialmente a flora original.` },
-      { id: 'B', type: 'text', value: `estimulam a competição por seus frutos entre animais 
-típicos da região e eliminam as espécies perdedoras.` },
-      { id: 'C', type: 'text', value: `alteram os nichos e aumentam o número de 
-possibilidades de relações entre os seres vivos 
-daquele ambiente.` },
-      { id: 'D', type: 'text', value: `apresentam alta taxa de reprodução e se mantêm 
-com um número de indivíduos superior à capacidade 
-suporte do ambiente.` },
-      { id: 'E', type: 'text', value: `diminuem a relação de competição entre os 
-polinizadores e facilitam a ação de dispersores de 
-sementes de espécies nativas.` },
+      { id: 'A', type: 'text', value: `ocupam áreas de vegetação nativa e substituem parcialmente a flora original.` },
+      { id: 'B', type: 'text', value: `estimulam a competição por seus frutos entre animais típicos da região e eliminam as espécies perdedoras.` },
+      { id: 'C', type: 'text', value: `alteram os nichos e aumentam o número de possibilidades de relações entre os seres vivos daquele ambiente.` },
+      { id: 'D', type: 'text', value: `apresentam alta taxa de reprodução e se mantêm com um número de indivíduos superior à capacidade suporte do ambiente.` },
+      { id: 'E', type: 'text', value: `diminuem a relação de competição entre os polinizadores e facilitam a ação de dispersores de sementes de espécies nativas.` },
     ],
     correct: 'A',
     explanation: `A jaqueira é uma espécie exótica invasora que se aclimatou bem em todo o território. Ao se estabelecer, ela ocupa o espaço físico e os recursos das áreas de vegetação nativa, competindo com e substituindo parcialmente as plantas originais. Essa substituição reduz a diversidade da flora nativa e, por consequência, a biodiversidade local. As demais alternativas sugerem efeitos que aumentariam relações ecológicas ou favoreceriam nativas, o que é contrário ao impacto empobrecedor de uma invasora. A redução da biodiversidade ocorre porque elas ocupam áreas nativas e substituem parcialmente a flora original (alternativa A).`,
@@ -421,10 +369,8 @@ Essa etapa deve ser realizada para`,
       { id: 'A', type: 'text', value: `concentrar o RNA viral para otimizar a técnica.` },
       { id: 'B', type: 'text', value: `identificar nas amostras anticorpos anti-SARS-CoV-2.` },
       { id: 'C', type: 'text', value: `proliferar o vírus em culturas, aumentando a carga viral.` },
-      { id: 'D', type: 'text', value: `purificar ácidos nucleicos virais, facilitando a ação da 
-enzima.` },
-      { id: 'E', type: 'text', value: `obter moléculas de cDNA viral por meio da transcrição 
-reversa.` },
+      { id: 'D', type: 'text', value: `purificar ácidos nucleicos virais, facilitando a ação da enzima.` },
+      { id: 'E', type: 'text', value: `obter moléculas de cDNA viral por meio da transcrição reversa.` },
     ],
     correct: 'E',
     explanation: `O SARS-CoV-2 é um vírus de RNA, mas a PCR utiliza uma DNA-polimerase que só amplifica moléculas de DNA. Por isso, antes da PCR é necessária uma etapa de transcrição reversa, na qual a enzima transcriptase reversa sintetiza DNA complementar (cDNA) a partir do RNA viral. Esse cDNA é então a molécula-molde que a polimerase pode amplificar na reação em cadeia. As alternativas sobre concentrar RNA, detectar anticorpos ou cultivar o vírus não habilitam a amplificação por PCR. A etapa prévia é obter moléculas de cDNA viral por transcrição reversa (alternativa E).`,
@@ -499,20 +445,11 @@ volta do carro após a colisão.
 Comparando as duas situações, como ficam a força média
 exercida sobre o carro e a energia mecânica dissipada?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `A força é maior na colisão com a barreira de pneus, e
-a energia dissipada é maior na colisão com a barreira
-de blocos.` },
-      { id: 'B', type: 'text', value: `A força é maior na colisão com a barreira de blocos, e 
-a energia dissipada é maior na colisão com a barreira 
-de pneus.` },
-      { id: 'C', type: 'text', value: `A força é maior na colisão com a barreira de blocos, e 
-a energia dissipada é a mesma nas duas situações.` },
-      { id: 'D', type: 'text', value: `A força é maior na colisão com a barreira de pneus, e 
-a energia dissipada é maior na colisão com a barreira 
-de pneus.` },
-      { id: 'E', type: 'text', value: `A força é maior na colisão com a barreira de blocos, e 
-a energia dissipada é maior na colisão com a barreira 
-de blocos.` },
+      { id: 'A', type: 'text', value: `A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de blocos.` },
+      { id: 'B', type: 'text', value: `A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de pneus.` },
+      { id: 'C', type: 'text', value: `A força é maior na colisão com a barreira de blocos, e a energia dissipada é a mesma nas duas situações.` },
+      { id: 'D', type: 'text', value: `A força é maior na colisão com a barreira de pneus, e a energia dissipada é maior na colisão com a barreira de pneus.` },
+      { id: 'E', type: 'text', value: `A força é maior na colisão com a barreira de blocos, e a energia dissipada é maior na colisão com a barreira de blocos.` },
     ],
     correct: 'A',
     explanation: `Nos dois casos a colisão tem a mesma duração (os blocos são escolhidos para serem tão demorados quanto os pneus). Na barreira de pneus o carro retorna com velocidade, então a variação de quantidade de movimento é maior (de +v a −v'), exigindo maior impulso e, para o mesmo tempo, maior força média. Na barreira de blocos o carro para (não retorna), logo a variação de momento é menor e a força média é menor. Quanto à energia: nos blocos o carro perde praticamente toda a energia cinética (não volta), dissipando mais; nos pneus parte da energia retorna com o carro, dissipando menos. Assim, a força é maior na colisão com os pneus e a energia dissipada é maior na colisão com os blocos (alternativa A).`,
@@ -555,54 +492,13 @@ predominantemente encontrada na urina?`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `A biomassa celulósica pode ser utilizada para a produção de etanol de segunda geração. Entretanto, é necessário 
-que os polissacarídeos sejam convertidos em mono e dissacarídeos, processo que pode ser conduzido em meio 
-ácido, conforme mostra o esquema: 
-H 
-+ 
-OH 
-OH 
-O 
-H 
-O 
-OH 
-O 
-H 
-O 
-O 
-OH 
-OH 
-O 
-H 
-O 
-+ 
-O 
-OH 
-O 
-H 
-O 
-O 
-O 
-H 
-O 
-+ 
-OH 
-O 
-H 
-H 
-O 
-H 
-OH 
-O 
-H 
-O 
-OH 
-O 
-H 
-O + 
-O 
-H 
-OGEDA, T. L.; PETRI, D. F. S. [...] Química Nova , n. 7, 2010 (adaptado). 
+    text: `A biomassa celulósica pode ser utilizada para a produção de
+etanol de segunda geração. Entretanto, é necessário que os
+polissacarídeos sejam convertidos em mono e dissacarídeos,
+processo que pode ser conduzido em meio ácido, conforme mostra
+o esquema: H + OH OH O H O OH O H O O OH OH O H O + O OH O H O
+O O H O + OH O H H O H OH O H O OH O H O + O H OGEDA, T. L.;
+PETRI, D. F. S. [...] Química Nova , n. 7, 2010 (adaptado).
 Nessa conversão de polissacarídeos, a função do íon H + é`,
     images: ['/enem/2022/images/enem_2022_d2_q107.jpg'],
     alternatives: [
@@ -622,23 +518,15 @@ Nessa conversão de polissacarídeos, a função do íon H + é`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `O ácido tartárico é o principal ácido do vinho e está diretamente relacionado com sua qualidade. Na avaliação de 
-um vinho branco em produção, uma analista neutralizou uma alíquota de 25,0 mL do vinho com NaOH a 0,10 mol L −1 , 
-consumindo um volume igual a 8,0 mL dessa base. A reação para esse processo de titulação é representada pela 
-equação química: 
-O 
-OH 
- 2 NaOH 
- 2 H₂ O 
-OH 
-O 
-H 
-O 
-OH 
-Ácido tartárico 
-(massa molar: 150 g mol 
- 1 ) 
-A concentração de ácido tartárico no vinho analisado é mais próxima de:`,
+    text: `O ácido tartárico é o principal ácido do vinho e está
+diretamente relacionado com sua qualidade. Na avaliação de um
+vinho branco em produção, uma analista neutralizou uma
+alíquota de 25,0 mL do vinho com NaOH a 0,10 mol L −1 ,
+consumindo um volume igual a 8,0 mL dessa base. A reação para
+esse processo de titulação é representada pela equação
+química: O OH  2 NaOH  2 H₂ O OH O H O OH Ácido tartárico
+(massa molar: 150 g mol  1 ) A concentração de ácido
+tartárico no vinho analisado é mais próxima de:`,
     images: ['/enem/2022/images/enem_2022_d2_q108.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1,8 g L −1` },
@@ -714,12 +602,9 @@ Os padrões descritos evidenciam que`,
     alternatives: [
       { id: 'A', type: 'text', value: `as fêmeas influenciam o comportamento dos machos.` },
       { id: 'B', type: 'text', value: `o cuidado parental é necessário para o desenvolvimento.` },
-      { id: 'C', type: 'text', value: `o grau de evolução determina o comportamento 
-reprodutivo.` },
-      { id: 'D', type: 'text', value: `o sucesso reprodutivo pode ser garantido por 
-estratégias diferentes.` },
-      { id: 'E', type: 'text', value: `o ambiente induz modificação na produção do número 
-de gametas femininos.` },
+      { id: 'C', type: 'text', value: `o grau de evolução determina o comportamento reprodutivo.` },
+      { id: 'D', type: 'text', value: `o sucesso reprodutivo pode ser garantido por estratégias diferentes.` },
+      { id: 'E', type: 'text', value: `o ambiente induz modificação na produção do número de gametas femininos.` },
     ],
     correct: 'D',
     explanation: `As quatro espécies de anuros produzem números muito diferentes de gametas e adotam cuidados parentais distintos (desde total abandono com milhares de ovos até poucos ovos protegidos no saco vocal do macho). Apesar das enormes diferenças, todas as estratégias persistem na natureza, o que indica que cada uma é eficaz na perpetuação da espécie em seu contexto. Ou seja, não existe uma única forma correta: o sucesso reprodutivo pode ser alcançado por estratégias variadas moldadas pela seleção natural. As demais alternativas generalizam indevidamente (grau de evolução, necessidade obrigatória de cuidado, etc.). A resposta é a alternativa D.`,
@@ -731,39 +616,19 @@ de gametas femininos.` },
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `O eixo de rotação da Terra apresenta uma inclinação 
-em relação ao plano de sua órbita em torno do Sol, 
-interferindo na duração do dia e da noite ao longo do ano. 
-Polo Norte 
-Trópico de 
-Câncer 
-Círculo Polar 
-Ártico 
-Equador 
-DIA 
-NOITE 
-Incidência direta 
-ao meio-dia 
-Trópico de 
-Capricórnio 
-Círculo Polar 
-Antártico 
-Polo Sul 
-Terra em 21 de dezembro 
-Uma pessoa instala em sua residência uma placa 
-fotovoltaica, que transforma energia solar em elétrica. 
-Ela monitora a energia total produzida por essa placa 
-em 4 dias do ano, ensolarados e sem nuvens, e lança os 
-resultados no gráfico. 
-Energia 
-Dia 
-10/01 
-10/04 
-10/07 
-10/10 
-Disponível em: www.fisica.ufpr.br. Acesso em: 27 maio 2022 (adaptado). 
-Próximo a que região se situa a residência onde as placas 
-foram instaladas?`,
+    text: `O eixo de rotação da Terra apresenta uma inclinação em relação
+ao plano de sua órbita em torno do Sol, interferindo na
+duração do dia e da noite ao longo do ano. Polo Norte Trópico
+de Câncer Círculo Polar Ártico Equador DIA NOITE Incidência
+direta ao meio-dia Trópico de Capricórnio Círculo Polar
+Antártico Polo Sul Terra em 21 de dezembro Uma pessoa instala
+em sua residência uma placa fotovoltaica, que transforma
+energia solar em elétrica. Ela monitora a energia total
+produzida por essa placa em 4 dias do ano, ensolarados e sem
+nuvens, e lança os resultados no gráfico. Energia Dia 10/01
+10/04 10/07 10/10 Disponível em: www.fisica.ufpr.br. Acesso
+em: 27 maio 2022 (adaptado). Próximo a que região se situa a
+residência onde as placas foram instaladas?`,
     images: ['/enem/2022/images/enem_2022_d2_q111_1.jpg', '/enem/2022/images/enem_2022_d2_q111_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Trópico de Capricórnio.` },
@@ -782,24 +647,17 @@ foram instaladas?`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Um pai faz um balanço utilizando dois segmentos 
-paralelos e iguais da mesma corda para fixar uma tábua a 
-uma barra horizontal. Por segurança, opta por um tipo de 
-corda cuja tensão de ruptura seja 25% superior à tensão 
-máxima calculada nas seguintes condições: 
-• O ângulo máximo atingido pelo balanço em relação 
-à vertical é igual a 90°; 
-• Os filhos utilizarão o balanço até que tenham uma 
-massa de 24 kg. 
-Além disso, ele aproxima o movimento do balanço 
-para o movimento circular uniforme, considera que a 
-aceleração da gravidade é igual a 10 
-2 
-m 
-s 
- e despreza 
-forças dissipativas. 
-Qual é a tensão de ruptura da corda escolhida?`,
+    text: `Um pai faz um balanço utilizando dois segmentos paralelos e
+iguais da mesma corda para fixar uma tábua a uma barra
+horizontal. Por segurança, opta por um tipo de corda cuja
+tensão de ruptura seja 25% superior à tensão máxima calculada
+nas seguintes condições: • O ângulo máximo atingido pelo
+balanço em relação à vertical é igual a 90°; • Os filhos
+utilizarão o balanço até que tenham uma massa de 24 kg. Além
+disso, ele aproxima o movimento do balanço para o movimento
+circular uniforme, considera que a aceleração da gravidade é
+igual a 10 2 m s e despreza forças dissipativas. Qual é a
+tensão de ruptura da corda escolhida?`,
     alternatives: [
       { id: 'A', type: 'text', value: `120 N` },
       { id: 'B', type: 'text', value: `300 N` },
@@ -835,16 +693,11 @@ revestimentos anticorrosivos do aço. Química Nova , n. 9, 2021 (adaptado).
 Essa nanotecnologia aplicada na proteção contra a 
 corrosão se baseia no(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `proteção catódica, que utiliza um metal fortemente 
-redutor.` },
-      { id: 'B', type: 'text', value: `uso de metais de sacrifício, que se oxidam no lugar 
-do ferro.` },
-      { id: 'C', type: 'text', value: `passivação do ferro, que fica revestido pelo seu 
-próprio óxido.` },
-      { id: 'D', type: 'text', value: `efeito de barreira, que impede o contato com o agente 
-oxidante.` },
-      { id: 'E', type: 'text', value: `galvanização, que usa outros metais de menor 
-potencial de redução.` },
+      { id: 'A', type: 'text', value: `proteção catódica, que utiliza um metal fortemente redutor.` },
+      { id: 'B', type: 'text', value: `uso de metais de sacrifício, que se oxidam no lugar do ferro.` },
+      { id: 'C', type: 'text', value: `passivação do ferro, que fica revestido pelo seu próprio óxido.` },
+      { id: 'D', type: 'text', value: `efeito de barreira, que impede o contato com o agente oxidante.` },
+      { id: 'E', type: 'text', value: `galvanização, que usa outros metais de menor potencial de redução.` },
     ],
     correct: 'D',
     explanation: `Os filmes finos nanocerâmicos de zircônia (ZrO₂) e alumina (Al₂O₃) são quimicamente inertes e revestem a superfície do ferro. Eles atuam como uma barreira física que isola o metal do contato com oxigênio e água (os agentes oxidantes), impedindo a reação de corrosão. Não há metal de sacrifício nem proteção catódica (o revestimento não é um metal mais redutor), e não se trata de passivação pelo próprio óxido de ferro nem de galvanização. O mecanismo é o efeito de barreira que impede o contato com o agente oxidante (alternativa D).`,
@@ -867,14 +720,10 @@ lâmina e observado em microscópio óptico.
 Durante a observação desse corte, foi possível identificar o(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `acúmulo do solvente com fragmentação da organela.` },
-      { id: 'B', type: 'text', value: `rompimento da membrana celular com liberação do 
-citosol.` },
-      { id: 'C', type: 'text', value: `aumento do vacúolo com diluição do pigmento no seu 
-interior.` },
-      { id: 'D', type: 'text', value: `quebra da parede celular com extravasamento do 
-pigmento.` },
-      { id: 'E', type: 'text', value: `murchamento da célula com expulsão do pigmento 
-do vacúolo.` },
+      { id: 'B', type: 'text', value: `rompimento da membrana celular com liberação do citosol.` },
+      { id: 'C', type: 'text', value: `aumento do vacúolo com diluição do pigmento no seu interior.` },
+      { id: 'D', type: 'text', value: `quebra da parede celular com extravasamento do pigmento.` },
+      { id: 'E', type: 'text', value: `murchamento da célula com expulsão do pigmento do vacúolo.` },
     ],
     correct: 'C',
     explanation: `Em meio hipotônico, a concentração de soluto é menor fora da célula, de modo que a água entra na célula por osmose. Nas células da epiderme da trapoeraba-roxa, essa água acumula-se principalmente no grande vacúolo, que contém o pigmento. Com o aumento de volume do vacúolo, o pigmento fica diluído em seu interior, o que é observável ao microscópio como atenuação da coloração. Como se trata de célula vegetal, a parede celular impede o rompimento, descartando lise e extravasamento. O que se identifica é o aumento do vacúolo com diluição do pigmento (alternativa C).`,
@@ -897,8 +746,7 @@ A razão entre as variações de temperatura nas áreas concretada e alagada é 
       { id: 'B', type: 'text', value: `2,1.` },
       { id: 'C', type: 'text', value: `2,5.` },
       { id: 'D', type: 'text', value: `5,3.` },
-      { id: 'E', type: 'text', value: `13,1.
-` },
+      { id: 'E', type: 'text', value: `13,1.` },
     
     ],
     correct: 'B',
@@ -932,15 +780,12 @@ O disjuntor adequado para a proteção dessa ducha é especificado por:`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Um grupo de alunos realizou um experimento para 
-observar algumas propriedades dos ácidos, adicionando 
-um pedaço de mármore (CaCO 3 ) a uma solução aquosa 
-de ácido clorídrico (HCl), observando a liberação de um 
-gás e o aumento da temperatura. 
-Gás 
-Ácido 
-Mármore 
-O gás obtido no experimento é o:`,
+    text: `Um grupo de alunos realizou um experimento para observar
+algumas propriedades dos ácidos, adicionando um pedaço de
+mármore (CaCO 3 ) a uma solução aquosa de ácido clorídrico
+(HCl), observando a liberação de um gás e o aumento da
+temperatura. Gás Ácido Mármore O gás obtido no experimento é
+o:`,
     images: ['/enem/2022/images/enem_2022_d2_q117.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `H₂` },
@@ -959,37 +804,23 @@ O gás obtido no experimento é o:`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Em 2002, foi publicado um artigo científico que 
-relacionava alterações na produção de hormônios sexuais 
-de sapos machos expostos à atrazina, um herbicida, com 
-o desenvolvimento anômalo de seus caracteres sexuais 
-primários e secundários. Entre os animais sujeitos à 
-contaminação, observaram-se casos de hermafroditismo 
-e desmasculinização da laringe. O estudo em questão 
-comparou a concentração de um hormônio específico 
-no sangue de machos expostos ao agrotóxico com a de 
-outros machos e fêmeas que não o foram (controles). 
-Os resultados podem ser vistos na figura. 
-6 
-Concentração do hormônio (ng mL − 1 ) 
-5 
-4 
-3 
-2 
-1 
-0 
-Machos 
-controle 
-Machos 
-expostos 
-à atrazina 
-Fêmeas 
-controle 
-HAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to 
-the Herbicide Atrazine at Low Ecologically Relevant Doses.  Proceedings of 
-the National Academy of Sciences , n. 8, 2002 (adaptado). 
-Com base nas informações do texto, qual é o hormônio 
-cujas concentrações estão representadas na figura?`,
+    text: `Em 2002, foi publicado um artigo científico que relacionava
+alterações na produção de hormônios sexuais de sapos machos
+expostos à atrazina, um herbicida, com o desenvolvimento
+anômalo de seus caracteres sexuais primários e secundários.
+Entre os animais sujeitos à contaminação, observaram-se casos
+de hermafroditismo e desmasculinização da laringe. O estudo em
+questão comparou a concentração de um hormônio específico no
+sangue de machos expostos ao agrotóxico com a de outros machos
+e fêmeas que não o foram (controles). Os resultados podem ser
+vistos na figura. 6 Concentração do hormônio (ng mL − 1 ) 5 4
+3 2 1 0 Machos controle Machos expostos à atrazina Fêmeas
+controle HAYES, T. B. et al. Hermaphroditic, Demasculinized
+Frogs After Exposure to the Herbicide Atrazine at Low
+Ecologically Relevant Doses. Proceedings of the National
+Academy of Sciences , n. 8, 2002 (adaptado). Com base nas
+informações do texto, qual é o hormônio cujas concentrações
+estão representadas na figura?`,
     images: ['/enem/2022/images/enem_2022_d2_q118.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Estrogênio.` },
@@ -1092,16 +923,11 @@ JULIÃO, A. Técnica modifica proteína do veneno de cascavel e permite
  https://agencia.fapesp.br. Acesso em: 22 nov. 2021 (adaptado). 
 Esse novo medicamento apresenta potencial aplicação para`,
     alternatives: [
-      { id: 'A', type: 'text', value: `impedir a formação de trombos, típicos em alguns 
-casos de acidente vascular cerebral.` },
-      { id: 'B', type: 'text', value: `tratar consequências da anemia profunda, em razão da 
-perda de grande volume de sangue.` },
-      { id: 'C', type: 'text', value: `evitar a manifestação de urticárias, comumente 
-relacionadas a processos alérgicos.` },
-      { id: 'D', type: 'text', value: `reduzir o inchaço dos linfonodos, parte da resposta 
-imunitária de diferentes infecções.` },
-      { id: 'E', type: 'text', value: `regular a oscilação da pressão arterial, característica 
-dos quadros de hipertensão.` },
+      { id: 'A', type: 'text', value: `impedir a formação de trombos, típicos em alguns casos de acidente vascular cerebral.` },
+      { id: 'B', type: 'text', value: `tratar consequências da anemia profunda, em razão da perda de grande volume de sangue.` },
+      { id: 'C', type: 'text', value: `evitar a manifestação de urticárias, comumente relacionadas a processos alérgicos.` },
+      { id: 'D', type: 'text', value: `reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções.` },
+      { id: 'E', type: 'text', value: `regular a oscilação da pressão arterial, característica dos quadros de hipertensão.` },
     ],
     correct: 'A',
     explanation: `A PEG-collineína-1, derivada de proteína do veneno da cascavel, modula a coagulação sanguínea; no contexto terapêutico seu interesse é o efeito anticoagulante/antitrombótico. Uma molécula que controla a coagulação pode impedir a formação de trombos (coágulos) que obstruem vasos, situação típica de acidentes vasculares cerebrais isquêmicos. As demais opções (anemia, urticárias alérgicas, linfonodos, pressão arterial) não se relacionam diretamente ao controle da coagulação. A aplicação potencial é impedir a formação de trombos, como em casos de AVC (alternativa A).`,
@@ -1129,12 +955,9 @@ Após a substituição descrita, o que aconteceria aos
 planetas do Sistema Solar?`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `Eles se moveriam em órbitas espirais, aproximando-se 
-sucessivamente do Buraco Negro.` },
-      { id: 'B', type: 'text', value: `Eles oscilariam aleatoriamente em torno de suas 
-órbitas elípticas originais.` },
-      { id: 'C', type: 'text', value: `Eles se moveriam em direção ao centro do Buraco 
-Negro.` },
+      { id: 'A', type: 'text', value: `Eles se moveriam em órbitas espirais, aproximando-se sucessivamente do Buraco Negro.` },
+      { id: 'B', type: 'text', value: `Eles oscilariam aleatoriamente em torno de suas órbitas elípticas originais.` },
+      { id: 'C', type: 'text', value: `Eles se moveriam em direção ao centro do Buraco Negro.` },
       { id: 'D', type: 'text', value: `Eles passariam a precessionar mais rapidamente.` },
       { id: 'E', type: 'text', value: `Eles manteriam suas órbitas inalteradas.` },
     ],
@@ -1181,23 +1004,15 @@ dessa substância deve-se à sua ação química como`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Na figura está representado o mosaicismo em função 
-da inativação aleatória de um dos cromossomos X, que 
-ocorre em todas as mulheres sem alterações patológicas. 
-Gameta 
-masculino 
-(22+X) 
-Amostras de células corporais 
-Zigoto (44+XX) 
-Gameta 
-feminino 
-(22+X) 
-Blástula (44+XX) 
-Células com cromossomo X paterno inativado 
-Células com cromossomo X materno inativado 
-Entre mulheres heterozigotas para doenças determinadas 
-por genes recessivos ligados ao sexo, essa inativação 
-tem como consequência a ocorrência de`,
+    text: `Na figura está representado o mosaicismo em função da
+inativação aleatória de um dos cromossomos X, que ocorre em
+todas as mulheres sem alterações patológicas. Gameta masculino
+(22+X) Amostras de células corporais Zigoto (44+XX) Gameta
+feminino (22+X) Blástula (44+XX) Células com cromossomo X
+paterno inativado Células com cromossomo X materno inativado
+Entre mulheres heterozigotas para doenças determinadas por
+genes recessivos ligados ao sexo, essa inativação tem como
+consequência a ocorrência de`,
     images: ['/enem/2022/images/enem_2022_d2_q125.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `pleiotropia.` },
@@ -1294,40 +1109,19 @@ Nesse teste, a ordenação das rotas indicadas pelo aplicativo será:`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `O esquema representa o ciclo do nitrogênio: 
-Plantas 
-Bactérias 
-desnitri- 
-ficantes 
-Assimilação 
-Bactérias fixa- 
-doras de N₂ nos 
-nódulos de raízes 
-de leguminosas 
-Nitratos (NO₃ 
-− ) 
-Decompositores 
-(fungos e bactérias 
-aeróbicas e anaeróbicas) 
-Bactérias 
-nitrificantes 
-Nitrificação 
-Amonificação 
-Amônia e Amônio 
-(NH₃ ) 
-(NH₄ 
-+ ) 
-Nitritos (NO₂ 
-− ) 
-Bactérias fixadoras 
-de N₂ no solo 
-Bactérias nitrificantes 
-A chuva ácida interfere no ciclo do nitrogênio, 
-principalmente, por proporcionar uma diminuição do pH 
-do solo e da atmosfera, alterando a concentração dos 
-compostos presentes nesse ciclo. 
-Disponível em: http://scienceprojectideasforkids.com. Acesso em: 6 ago. 2012 (adaptado). 
-Em um solo de menor pH, será favorecida a formação de:`,
+    text: `O esquema representa o ciclo do nitrogênio: Plantas Bactérias
+desnitri-ficantes Assimilação Bactérias fixa-doras de N₂ nos
+nódulos de raízes de leguminosas Nitratos (NO₃ − )
+Decompositores (fungos e bactérias aeróbicas e anaeróbicas)
+Bactérias nitrificantes Nitrificação Amonificação Amônia e
+Amônio (NH₃ ) (NH₄ + ) Nitritos (NO₂ − ) Bactérias fixadoras
+de N₂ no solo Bactérias nitrificantes A chuva ácida interfere
+no ciclo do nitrogênio, principalmente, por proporcionar uma
+diminuição do pH do solo e da atmosfera, alterando a
+concentração dos compostos presentes nesse ciclo. Disponível
+em: http://scienceprojectideasforkids.com. Acesso em: 6 ago.
+2012 (adaptado). Em um solo de menor pH, será favorecida a
+formação de:`,
     images: ['/enem/2022/images/enem_2022_d2_q129.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `N₂` },
@@ -1359,8 +1153,7 @@ Um animal que tem bastonetes mais sensíveis irá`,
       { id: 'B', type: 'text', value: `perceber cores fora do espectro do visível.` },
       { id: 'C', type: 'text', value: `enxergar bem em ambientes mal iluminados.` },
       { id: 'D', type: 'text', value: `necessitar de mais luminosidade para enxergar.` },
-      { id: 'E', type: 'text', value: `fazer uma pequena distinção de cores em ambientes 
-iluminados.` },
+      { id: 'E', type: 'text', value: `fazer uma pequena distinção de cores em ambientes iluminados.` },
     ],
     correct: 'C',
     explanation: `A energia de cada fóton está associada à frequência da luz (cor), enquanto a intensidade luminosa corresponde ao número de fótons incidentes. Os bastonetes são sensíveis à quantidade de fótons, isto é, respondem bem mesmo quando poucos fótons chegam. Um animal com bastonetes mais sensíveis consegue detectar baixas intensidades de luz e, portanto, enxergar bem em ambientes mal iluminados. Os cones (sensíveis à energia/frequência) é que diferenciam cores; bastonetes mais sensíveis não causam daltonismo nem exigem mais luz. A resposta é a alternativa C.`,
@@ -1372,40 +1165,25 @@ iluminados.` },
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de 
-canela. Associações similares ocorriam no passado da história da química orgânica, quando os compostos ditos “aromáticos” 
-apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram 
-elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural especifica. Os compostos aromáticos 
-que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas 
-eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais. 
-H 
-O 
-O 
-OH 
-Benzaldeído
-(no óleo de amêndoas) 
-Salicilato de metila 
-(no óleo de gaultéria) 
-Anetol 
-(no óleo de anis) 
-H 
-O 
-O 
-H 
-O 
-C 
-H₃ 
-O 
-OH 
-CH₃ 
-Vanilina 
-(no óleo de baunilha) 
-Eugenol 
-(no óleo de cravos) 
-Cinamaldeído
-(no óleo de canela) 
-SOLOMONS, T. W. G.; FRYHLE, C. B. Química orgânica . Rio de Janeiro: LTC, 2009 (adaptado). 
-A característica estrutural dessa família de compostos é a presença de`,
+    text: `De modo geral, a palavra “aromático” invoca associações
+agradáveis, como cheiro de café fresco ou de um pão doce de
+canela. Associações similares ocorriam no passado da história
+da química orgânica, quando os compostos ditos “aromáticos”
+apresentavam um odor agradável e foram isolados de óleos
+naturais. À medida que as estruturas desses compostos eram
+elucidadas, foi se descobrindo que vários deles continham uma
+unidade estrutural especifica. Os compostos aromáticos que
+continham essa unidade estrutural tornaram-se parte de uma
+grande família, muito mais com base em suas estruturas
+eletrônicas do que nos seus cheiros, como as substâncias a
+seguir, encontradas em óleos vegetais. H O O OH Benzaldeído
+(no óleo de amêndoas) Salicilato de metila (no óleo de
+gaultéria) Anetol (no óleo de anis) H O O H O C H₃ O OH CH₃
+Vanilina (no óleo de baunilha) Eugenol (no óleo de cravos)
+Cinamaldeído (no óleo de canela) SOLOMONS, T. W. G.; FRYHLE,
+C. B. Química orgânica . Rio de Janeiro: LTC, 2009 (adaptado).
+A característica estrutural dessa família de compostos é a
+presença de`,
     images: ['/enem/2022/images/enem_2022_d2_q131.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `ramificações.` },
@@ -1483,41 +1261,18 @@ as células de defesa, fazendo com que ataquem o tumor?`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `O sinal sonoro oriundo da queda de um grande bloco 
-de gelo de uma geleira é detectado por dois dispositivos 
-situados em um barco, sendo que o detector A está 
-imerso em água e o B, na proa da embarcação. Sabe-se 
-que a velocidade do som na água é de 1 540 m 
-s 
- e no ar 
-é de 340 m 
-s 
-. 
-L 
-B 
-A 
-Os gráficos indicam, em tempo real, o sinal sonoro 
-detectado pelos dois dispositivos, os quais foram ligados 
-simultaneamente em um instante anterior à queda do 
-bloco de gelo. Ao comparar pontos correspondentes 
-desse sinal em cada dispositivo, é possível obter 
-informações sobre a onda sonora. 
-A 
-B 
-Sinal 
-Sinal 
-Tempo (s) 
-Tempo (s) 
-208 
-220 
-232 
-244 
-208 
-220 
-232 
-244 
-A distância L, em metro, entre o barco e a geleira é mais 
-próxima de`,
+    text: `O sinal sonoro oriundo da queda de um grande bloco de gelo de
+uma geleira é detectado por dois dispositivos situados em um
+barco, sendo que o detector A está imerso em água e o B, na
+proa da embarcação. Sabe-se que a velocidade do som na água é
+de 1 540 m s e no ar é de 340 m s . L B A Os gráficos indicam,
+em tempo real, o sinal sonoro detectado pelos dois
+dispositivos, os quais foram ligados simultaneamente em um
+instante anterior à queda do bloco de gelo. Ao comparar pontos
+correspondentes desse sinal em cada dispositivo, é possível
+obter informações sobre a onda sonora. A B Sinal Sinal Tempo
+(s) Tempo (s) 208 220 232 244 208 220 232 244 A distância L,
+em metro, entre o barco e a geleira é mais próxima de`,
     images: ['/enem/2022/images/enem_2022_d2_q134_1.jpg', '/enem/2022/images/enem_2022_d2_q134_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `339 000.` },
@@ -1569,25 +1324,17 @@ engarrafada”?`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Uma máquina em operação tem sua temperatura 
-T  monitorada por meio de um registro gráfico, ao longo do 
-tempo t . Essa máquina possui um pistão cuja velocidade 
-V   varia com a temperatura  T da máquina, de acordo 
-com a expressão V = T 2 − 4. Após a máquina funcionar 
-durante o intervalo de tempo de 10 horas, o seu operador 
-analisa o registro gráfico, apresentado na figura, para 
-avaliar a necessidade de eventuais ajustes, sabendo que 
-a máquina apresenta falhas de funcionamento quando a 
-velocidade do pistão se anula. 
-T (ºC) 
-4 
-2 
-0 
-10 
-t (h) 
-− 2 
-Quantas vezes a velocidade do pistão se anulou durante 
-as 10 horas de funcionamento?`,
+    text: `Uma máquina em operação tem sua temperatura T monitorada por
+meio de um registro gráfico, ao longo do tempo t . Essa
+máquina possui um pistão cuja velocidade V varia com a
+temperatura T da máquina, de acordo com a expressão V = T 2 −
+4. Após a máquina funcionar durante o intervalo de tempo de 10
+horas, o seu operador analisa o registro gráfico, apresentado
+na figura, para avaliar a necessidade de eventuais ajustes,
+sabendo que a máquina apresenta falhas de funcionamento quando
+a velocidade do pistão se anula. T (ºC) 4 2 0 10 t (h) − 2
+Quantas vezes a velocidade do pistão se anulou durante as 10
+horas de funcionamento?`,
     images: ['/enem/2022/images/enem_2022_d2_q136.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1` },
@@ -1633,25 +1380,7 @@ venceu a primeira partida da World Series ?`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `O gráfico apresenta os totais de receitas e despesas 
-de uma empresa, expressos em milhão de reais, no 
-decorrer dos meses de um determinado ano. A empresa 
-obtém lucro quando a diferença entre receita e despesa é 
-positiva e tem prejuízo quando essa diferença é negativa. 
-9 
-8 
-7 
-6 
-5 
-4 
-3 
-2 
-1 
-0 
-Jan. Fev. Mar. Abr. Maio Jun. Jul. Ago. Set. Out. Nov. Dez. 
-Receitas Despesas 
-Qual é a mediana, em milhão de reais, dos valores dos 
-lucros apurados pela empresa nesse ano?`,
+    text: ``,
     images: ['/enem/2022/images/enem_2022_d2_q138.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1,5` },
@@ -1739,56 +1468,27 @@ desse torneio é`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Em um jogo de bingo, as cartelas contêm 
-16 quadrículas dispostas em linhas e colunas. Cada 
-quadrícula tem impresso um número, dentre os inteiros 
-de 1 a 50, sem repetição de número. Na primeira rodada, 
-um número é sorteado, aleatoriamente, dentre os 50 
-possíveis. Em todas as rodadas, o número sorteado 
-é descartado e não participa dos sorteios das rodadas 
-seguintes. Caso o jogador tenha em sua cartela o número 
-sorteado, ele o assinala na cartela. Ganha o jogador que 
-primeiro 
-conseguir 
-preencher 
-quatro 
-quadrículas 
-que formam uma linha, uma coluna ou uma diagonal, 
-conforme os tipos de situações ilustradas na Figura 1. 
-Preenchimento 
-em linha 
-Preenchimento 
-em coluna 
-Preenchimento 
-em diagonal 
-Figura 1 
-O jogo inicia e, nas quatro primeiras rodadas, foram 
-sorteados os seguintes números: 03, 27, 07 e 48. Ao 
-final da quarta rodada, somente Pedro possuía uma 
-cartela que continha esses quatro números sorteados, 
-sendo que todos os demais jogadores conseguiram 
-assinalar, no máximo, um desses números em suas 
-cartelas. Observe na Figura 2 o cartão de Pedro após as 
-quatro primeiras rodadas. 
-03 
-48 
-27 
-12 
-49 
-11 
-22 
-05 
-29 
-50 
-19 
-45 
-07 
-33 
-23 
-38 
-Figura 2 
-A probabilidade de Pedro ganhar o jogo em uma das duas 
-próximas rodadas é`,
+    text: `Em um jogo de bingo, as cartelas contêm 16 quadrículas
+dispostas em linhas e colunas. Cada quadrícula tem impresso um
+número, dentre os inteiros de 1 a 50, sem repetição de número.
+Na primeira rodada, um número é sorteado, aleatoriamente,
+dentre os 50 possíveis. Em todas as rodadas, o número sorteado
+é descartado e não participa dos sorteios das rodadas
+seguintes. Caso o jogador tenha em sua cartela o número
+sorteado, ele o assinala na cartela. Ganha o jogador que
+primeiro conseguir preencher quatro quadrículas que formam uma
+linha, uma coluna ou uma diagonal, conforme os tipos de
+situações ilustradas na Figura 1. Preenchimento em linha
+Preenchimento em coluna Preenchimento em diagonal Figura 1 O
+jogo inicia e, nas quatro primeiras rodadas, foram sorteados
+os seguintes números: 03, 27, 07 e 48. Ao final da quarta
+rodada, somente Pedro possuía uma cartela que continha esses
+quatro números sorteados, sendo que todos os demais jogadores
+conseguiram assinalar, no máximo, um desses números em suas
+cartelas. Observe na Figura 2 o cartão de Pedro após as quatro
+primeiras rodadas. 03 48 27 12 49 11 22 05 29 50 19 45 07 33
+23 38 Figura 2 A probabilidade de Pedro ganhar o jogo em uma
+das duas próximas rodadas é`,
     images: ['/enem/2022/images/enem_2022_d2_q141_1.jpg', '/enem/2022/images/enem_2022_d2_q141_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1/46 + 1/45` },
@@ -1866,28 +1566,19 @@ planificação apresentada na Figura 1, é`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Cada número que identifica uma agência bancária tem 
-quatro dígitos: N 1 , N 2 , N 3 , N 4 mais um dígito verificador N 5 . 
-N 1 N 2 N 3 
-N 4 
-N 5 
-Todos 
-esses 
-dígitos 
-são 
-números 
-naturais 
-pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. 
-Para a determinação de N 5 , primeiramente multiplica-se 
-ordenadamente os quatro primeiros dígitos do número 
-da agência por 5, 4, 3 e 2, respectivamente, somam-se 
-os resultados e obtém-se S = 5 N 1 + 4 N 2 + 3 N 3 + 2 N 4 . 
-Posteriormente, encontra-se o resto da divisão de 
-S por 11, denotando por R esse resto. Dessa forma, N 5 e 
-a diferença 11 − R. 
-Considere o número de uma agência bancária cujos 
-quatro primeiros dígitos são 0100. 
-Qual é o dígito verificador N 5 dessa agência bancária?`,
+    text: `Cada número que identifica uma agência bancária tem quatro
+dígitos: N 1 , N 2 , N 3 , N 4 mais um dígito verificador N 5
+. N 1 N 2 N 3 N 4 N 5 Todos esses dígitos são números naturais
+pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para
+a determinação de N 5 , primeiramente multiplica-se
+ordenadamente os quatro primeiros dígitos do número da agência
+por 5, 4, 3 e 2, respectivamente, somam-se os resultados e
+obtém-se S = 5 N 1 + 4 N 2 + 3 N 3 + 2 N 4 . Posteriormente,
+encontra-se o resto da divisão de S por 11, denotando por R
+esse resto. Dessa forma, N 5 e a diferença 11 − R. Considere o
+número de uma agência bancária cujos quatro primeiros dígitos
+são 0100. Qual é o dígito verificador N 5 dessa agência
+bancária?`,
     images: ['/enem/2022/images/enem_2022_d2_q144.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `0` },
@@ -2096,8 +1787,7 @@ O saque desse atleta foi invalidado`,
       { id: 'B', type: 'text', value: `apenas nos ginásios I e II.` },
       { id: 'C', type: 'text', value: `apenas nos ginásios I, II e III.` },
       { id: 'D', type: 'text', value: `apenas nos ginásios I, II, III e IV.` },
-      { id: 'E', type: 'text', value: `em todos os ginásios.
-` },
+      { id: 'E', type: 'text', value: `em todos os ginásios.` },
     
     ],
     correct: 'D',
@@ -2135,37 +1825,31 @@ Para que a recomendação médica tenha efetivamente sido respeitada, a atividad
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição 
-das poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as 
-seguintes indicações: 
-• Distância mínima ( D min ) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo 
-menos, 60% da largura ( L ) da tela. 
-• Distância máxima ( D max ) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da 
-largura ( L ) da tela, sendo aceitável uma distância de até 2,9 vezes a largura ( L ) da tela. 
-Para o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos de 
-poltronas em duas fileiras consecutivas. 
-Disponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013. 
-Uma sala de cinema, cuja largura da tela mede 12 m, está montada em conformidade com as normas da ABNT e 
-tem suas dimensões especificadas na figura. 
-Área de instalação 
-de novas poltronas 
-D 
-2,9 L 
-aceitável = 
-D 
-2 L 
-= 
-max 
-D 
-0,6 L 
-min = 
-L 
-Tela 
-Pretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas ja instaladas, 
-ampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite 
-aceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se 
-novas unidades, iguais às já instaladas. 
-Quantas fileiras de poltronas a sala comportará após essa ampliação?`,
+    text: `Em uma sala de cinema, para garantir que os espectadores vejam
+toda a imagem projetada na tela, a disposição das poltronas
+deve obedecer à norma técnica da Associação Brasileira de
+Normas Técnicas (ABNT), que faz as seguintes indicações: •
+Distância mínima ( D min ) entre a tela de projeção e o
+encosto da poltrona da primeira fileira deve ser de, pelo
+menos, 60% da largura ( L ) da tela. • Distância máxima ( D
+max ) entre a tela de projeção e o encosto da poltrona da
+última fileira deve ser o dobro da largura ( L ) da tela,
+sendo aceitável uma distância de até 2,9 vezes a largura ( L )
+da tela. Para o espaçamento entre as fileiras de poltronas, é
+considerada a distância de 1 metro entre os encostos de
+poltronas em duas fileiras consecutivas. Disponível em:
+www.ctav.gov.br. Acesso em: 14 nov. 2013. Uma sala de cinema,
+cuja largura da tela mede 12 m, está montada em conformidade
+com as normas da ABNT e tem suas dimensões especificadas na
+figura. Área de instalação de novas poltronas D 2,9 L
+aceitável = D 2 L = max D 0,6 L min = L Tela Pretende-se
+ampliar essa sala, mantendo-se na mesma posição a tela e todas
+as poltronas ja instaladas, ampliando-se ao máximo a sala para
+os fundos (área de instalação de novas poltronas),
+respeitando-se o limite aceitável da norma da ABNT. A intenção
+é aumentar, ao máximo, a quantidade de poltronas da sala,
+instalando-se novas unidades, iguais às já instaladas. Quantas
+fileiras de poltronas a sala comportará após essa ampliação?`,
     images: ['/enem/2022/images/enem_2022_d2_q152.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `26` },
@@ -2243,34 +1927,24 @@ vagas criadas em janeiro de 2012 foi`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Um prédio, com 9 andares e 8 apartamentos de 
-2 quartos por andar, está com todos os seus apartamentos 
-à venda. Os apartamentos são identificados por números 
-formados por dois algarismos, sendo que a dezena indica 
-o andar onde se encontra o apartamento, e a unidade, 
-um algarismo de 1 a 8, que diferencia os apartamentos 
-de um mesmo andar. Quanto à incidência de sol 
-nos quartos desses apartamentos, constatam-se as 
-seguintes características, em função de seus números de 
-identificação: 
-• naqueles que finalizam em 1 ou 2, ambos os quartos 
-recebem sol apenas na parte da manhã; 
-• naqueles que finalizam em 3, 4, 5 ou 6, apenas um 
-dos quartos recebe sol na parte da manhã; 
-• naqueles que finalizam em 7 ou 8, ambos os quartos 
-recebem sol apenas na parte da tarde. 
-Uma 
-pessoa 
-pretende 
-comprar 
-2 
-desses 
-apartamentos em um mesmo andar, mas quer que, em 
-ambos, pelo menos um dos quartos receba sol na parte 
-da manhã. 
-De quantas maneiras diferentes essa pessoa poderá 
-escolher 2 desses apartamentos para compra nas 
-condições desejadas?`,
+    text: `Um prédio, com 9 andares e 8 apartamentos de 2 quartos por
+andar, está com todos os seus apartamentos à venda. Os
+apartamentos são identificados por números formados por dois
+algarismos, sendo que a dezena indica o andar onde se encontra
+o apartamento, e a unidade, um algarismo de 1 a 8, que
+diferencia os apartamentos de um mesmo andar. Quanto à
+incidência de sol nos quartos desses apartamentos,
+constatam-se as seguintes características, em função de seus
+números de identificação: • naqueles que finalizam em 1 ou 2,
+ambos os quartos recebem sol apenas na parte da manhã; •
+naqueles que finalizam em 3, 4, 5 ou 6, apenas um dos quartos
+recebe sol na parte da manhã; • naqueles que finalizam em 7 ou
+8, ambos os quartos recebem sol apenas na parte da tarde. Uma
+pessoa pretende comprar 2 desses apartamentos em um mesmo
+andar, mas quer que, em ambos, pelo menos um dos quartos
+receba sol na parte da manhã. De quantas maneiras diferentes
+essa pessoa poderá escolher 2 desses apartamentos para compra
+nas condições desejadas?`,
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2022/images/enem_2022_d2_q155_A.jpg` },
       { id: 'B', type: 'image', value: `/enem/2022/images/enem_2022_d2_q155_B.jpg` },
@@ -2288,28 +1962,21 @@ condições desejadas?`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades: 
-• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas, 
-conforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3. 
-O 
- 
- 
-Figura 1 
-Figura 2 
-Figura 3 
-• Em seguida, no papel dobrado da Figura 3, considerar o ponto R , sobre o segmento OM , sendo M o ponto 
-médio do lado do quadrado original, de modo que OR = 1 
-4 OM , traçar um arco de circunferência de raio 
-medindo 1 
-2 OM com centro no ponto R , obtendo a Figura 4. Por último, recortar o papel ao longo do arco 
-de circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5. 
-R 
-O 
-M 
-⇒ 
-Figura 4 
-Figura 5 
-Após desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será`,
+    text: `O professor de artes orientou seus estudantes a realizarem a
+seguinte sequência de atividades: • Dobrar uma folha de papel
+em formato quadrado duas vezes, em sequência, ao longo das
+linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para
+obter o papel dobrado, conforme Figura 3. O   Figura 1
+Figura 2 Figura 3 • Em seguida, no papel dobrado da Figura 3,
+considerar o ponto R , sobre o segmento OM , sendo M o ponto
+médio do lado do quadrado original, de modo que OR = 1 4 OM ,
+traçar um arco de circunferência de raio medindo 1 2 OM com
+centro no ponto R , obtendo a Figura 4. Por último, recortar o
+papel ao longo do arco de circunferência e excluir a parte que
+contém o setor circular, obtendo o papel dobrado, conforme
+Figura 5. R O M ⇒ Figura 4 Figura 5 Após desdobrado o papel
+que restou na Figura 5, a figura plana que os estudantes
+obterão será`,
     images: ['/enem/2022/images/enem_2022_d2_q156_1.jpg', '/enem/2022/images/enem_2022_d2_q156_2.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2022/images/enem_2022_d2_q156_A.jpg` },
@@ -2442,29 +2109,15 @@ cubo, é`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Uma empresa de engenharia projetou uma casa com 
-a forma de um retângulo para um de seus clientes. Esse 
-cliente solicitou a inclusão de uma varanda em forma 
-de L. A figura apresenta a planta baixa desenhada pela 
-empresa, já com a varanda incluída, cujas medidas, 
-indicadas em centímetro, representam os valores das 
-dimensões da varanda na escala de 1 : 50. 
-16 cm 
-VARANDA 
-5 cm 
-BANHO 
-SOCIAL 
-BANHO 
-SUÍTE 
-COZINHA 
-SUÍTE 
-18,4 cm 
-SALA 
-QUARTO 
-QUARTO 
-4 cm 
-ESCALA 1 : 50 
-A medida real da área da varanda, em metro quadrado, é`,
+    text: `Uma empresa de engenharia projetou uma casa com a forma de um
+retângulo para um de seus clientes. Esse cliente solicitou a
+inclusão de uma varanda em forma de L. A figura apresenta a
+planta baixa desenhada pela empresa, já com a varanda
+incluída, cujas medidas, indicadas em centímetro, representam
+os valores das dimensões da varanda na escala de 1 : 50. 16 cm
+VARANDA 5 cm BANHO SOCIAL BANHO SUÍTE COZINHA SUÍTE 18,4 cm
+SALA QUARTO QUARTO 4 cm ESCALA 1 : 50 A medida real da área da
+varanda, em metro quadrado, é`,
     images: ['/enem/2022/images/enem_2022_d2_q161.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `33,40.` },
@@ -2483,27 +2136,17 @@ A medida real da área da varanda, em metro quadrado, é`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Uma loja de roupas fixou uma meta de vendas de 
-77 000 reais para um determinado mês de 30 dias. 
-O gráfico mostra o volume de vendas dessa loja, em real, 
-nos dez primeiros dias do mês e entre o dia dez e o dia 
-vinte desse mês, nos seus dois únicos setores (infantil e 
-adulto). Suponha que a variação no volume de vendas, 
-para o período registrado, tenha se dado de forma linear, 
-como mostrado no gráfico, e que essa tendência se 
-mantenha a mesma para os próximos dez dias. 
-18 000 
-15 000 
-Adulto 
-8 000 
-7 000 
-Infantil 
-10 
-30 
-20 
-Dias 
-Ao final do trigésimo dia, quanto faltará no volume de vendas, 
-em real, para que a meta fixada para o mês seja alcançada?`,
+    text: `Uma loja de roupas fixou uma meta de vendas de 77 000 reais
+para um determinado mês de 30 dias. O gráfico mostra o volume
+de vendas dessa loja, em real, nos dez primeiros dias do mês e
+entre o dia dez e o dia vinte desse mês, nos seus dois únicos
+setores (infantil e adulto). Suponha que a variação no volume
+de vendas, para o período registrado, tenha se dado de forma
+linear, como mostrado no gráfico, e que essa tendência se
+mantenha a mesma para os próximos dez dias. 18 000 15 000
+Adulto 8 000 7 000 Infantil 10 30 20 Dias Ao final do
+trigésimo dia, quanto faltará no volume de vendas, em real,
+para que a meta fixada para o mês seja alcançada?`,
     images: ['/enem/2022/images/enem_2022_d2_q162.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `5 000` },
@@ -2606,23 +2249,16 @@ dias?`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Em uma competição de velocidade, diz-se que há uma 
-ultrapassagem quando um veículo que está atrás de outro 
-passa à sua frente, com ambos se deslocando no mesmo 
-sentido. Considere uma competição automobilística entre 
-cinco carros em uma pista com 100 m de comprimento, 
-onde todos largam no mesmo instante e da mesma linha. 
-O gráfico mostra a variação da distância percorrida por cada 
-veículo, em função do tempo, durante toda a competição. 
-100
-Distância (m)
-0
-0
-Tempo (s)
-15 
-Qual o número de ultrapassagens, após o início da 
-competição, efetuadas pelo veículo que chegou em 
-último lugar?`,
+    text: `Em uma competição de velocidade, diz-se que há uma
+ultrapassagem quando um veículo que está atrás de outro passa
+à sua frente, com ambos se deslocando no mesmo sentido.
+Considere uma competição automobilística entre cinco carros em
+uma pista com 100 m de comprimento, onde todos largam no mesmo
+instante e da mesma linha. O gráfico mostra a variação da
+distância percorrida por cada veículo, em função do tempo,
+durante toda a competição. 100 Distância (m) 0 0 Tempo (s) 15
+Qual o número de ultrapassagens, após o início da competição,
+efetuadas pelo veículo que chegou em último lugar?`,
     images: ['/enem/2022/images/enem_2022_d2_q166.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `0` },
@@ -2705,29 +2341,19 @@ destacado é`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Uma 
-loja 
-comercializa 
-cinco 
-modelos 
-de 
-caixas-d’água (I, II, III, IV e V), todos em formato 
-de cilindro reto de base circular. Os modelos II, III, IV e V 
-têm as especificações de suas dimensões dadas em 
-relação às dimensões do modelo I, cuja profundidade é P 
-e área da base é A b , como segue: 
-• modelo II: o dobro da profundidade e a metade da 
-área da base do modelo I; 
-• modelo III: o dobro da profundidade e a metade do 
-raio da base do modelo I; 
-• modelo IV: a metade da profundidade e o dobro da 
-área da base do modelo I; 
-• modelo V: a metade da profundidade e o dobro do 
-raio da base do modelo I. 
-Uma pessoa pretende comprar nessa loja o modelo 
-de caixa-d’água que ofereça a maior capacidade 
-volumétrica. 
-O modelo escolhido deve ser o`,
+    text: `Uma loja comercializa cinco modelos de caixas-d’água (I, II,
+III, IV e V), todos em formato de cilindro reto de base
+circular. Os modelos II, III, IV e V têm as especificações de
+suas dimensões dadas em relação às dimensões do modelo I, cuja
+profundidade é P e área da base é A b , como segue: • modelo
+II: o dobro da profundidade e a metade da área da base do
+modelo I; • modelo III: o dobro da profundidade e a metade do
+raio da base do modelo I; • modelo IV: a metade da
+profundidade e o dobro da área da base do modelo I; • modelo
+V: a metade da profundidade e o dobro do raio da base do
+modelo I. Uma pessoa pretende comprar nessa loja o modelo de
+caixa-d’água que ofereça a maior capacidade volumétrica. O
+modelo escolhido deve ser o`,
     alternatives: [
       { id: 'A', type: 'text', value: `I.` },
       { id: 'B', type: 'text', value: `II.` },
@@ -2745,41 +2371,7 @@ O modelo escolhido deve ser o`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `No período de 2005 a 2013, o valor de venda dos 
-imóveis em uma cidade apresentou alta, o que resultou 
-no aumento dos aluguéis. Os gráficos apresentam a 
-evolução desses valores, para um mesmo imóvel, no 
-mercado imobiliário dessa cidade. 
-3 240 
-Valor mensal do aluguel (R$) 
-630 
-960 
-1 350 
-1 800 
-2005 
-2007 
-2009 
-2011 
-2013 
-Ano 
-540 
-Valor de mercado do imóvel 
-(milhar de R$) 
-90 
-120 
-270 
-450 
-2005 
-2007 
-2009 
-2011 
-2013 
-Ano 
-A rentabilidade do aluguel de um imóvel é calculada 
-pela razão entre o valor mensal de aluguel e o valor de 
-mercado desse imóvel. 
-Com base nos dados fornecidos, em que ano a 
-rentabilidade do aluguel foi maior?`,
+    text: ``,
     images: ['/enem/2022/images/enem_2022_d2_q170.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `2005` },
@@ -2944,42 +2536,23 @@ O número escrito pelo estudante foi`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `O governo de um estado pretende realizar uma 
-obra de infraestrutura para auxiliar na integração e 
-no processo de escoamento da produção agrícola 
-de duas cidades. O projeto consiste na interligação 
-direta das cidades A e B com a Rodovia 003, pela 
-construção das Rodovias 001 e 002. As duas rodovias 
-serão construídas em linha reta e deverão se conectar 
-à Rodovia 003 em um mesmo ponto, conforme 
-esboço apresentado na figura, na qual estão também 
-indicadas as posições das cidades A e B, considerando 
-o eixo x posicionado sobre a Rodovia 003, e cinco 
-localizações sugeridas para o ponto de conexão entre 
-as três rodovias. 
-40 
-y (km) 
-Cidade A 
-Rodovia 001 
-Rodovia 002 
-30 
-Cidade B 
-20 
-10 
-I 
-II 
-III IV 
-V 
-Rodovia 003 
-0 
-5 
-10 15 20 25 30 35 40 45 50 55 
-x (km) 
-Pretende-se que a distância percorrida entre as duas 
-cidades, pelas Rodovias 001 e 002, passando pelo ponto 
-de conexão, seja a menor possível. 
-Dadas as exigências do projeto, qual das localizações 
-sugeridas deve ser a escolhida para o ponto de conexão?`,
+    text: `O governo de um estado pretende realizar uma obra de
+infraestrutura para auxiliar na integração e no processo de
+escoamento da produção agrícola de duas cidades. O projeto
+consiste na interligação direta das cidades A e B com a
+Rodovia 003, pela construção das Rodovias 001 e 002. As duas
+rodovias serão construídas em linha reta e deverão se conectar
+à Rodovia 003 em um mesmo ponto, conforme esboço apresentado
+na figura, na qual estão também indicadas as posições das
+cidades A e B, considerando o eixo x posicionado sobre a
+Rodovia 003, e cinco localizações sugeridas para o ponto de
+conexão entre as três rodovias. 40 y (km) Cidade A Rodovia 001
+Rodovia 002 30 Cidade B 20 10 I II III IV V Rodovia 003 0 5 10
+15 20 25 30 35 40 45 50 55 x (km) Pretende-se que a distância
+percorrida entre as duas cidades, pelas Rodovias 001 e 002,
+passando pelo ponto de conexão, seja a menor possível. Dadas
+as exigências do projeto, qual das localizações sugeridas deve
+ser a escolhida para o ponto de conexão?`,
     images: ['/enem/2022/images/enem_2022_d2_q176.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I` },
@@ -3054,37 +2627,7 @@ preparar para atender esse cliente?`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `A esperança de vida ao nascer é o número médio 
-de anos que um indivíduo tende a viver a partir de seu 
-nascimento, considerando dados da população. No Brasil, 
-esse número vem aumentando consideravelmente, como 
-mostra o gráfico. 
-Esperança de vida ao nascer 
-75 
-74,23 
-74 
-73,95 
-73,67 
-73,09 
-73,4 
-73 
-72,78 
-72 
-2008 
-2009 
-2010 
-2011 
-2012 
-2013 
-Disponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado). 
-Pode-se observar que a esperança de vida ao nascer 
-em 2012 foi exatamente a média das registradas nos 
-anos de 2011 e 2013. Suponha que esse fato também 
-ocorreu com a esperança de vida ao nascer em 2013, em 
-relação às esperanças de vida de 2012 e de 2014. 
-Caso a suposição feita tenha sido confirmada, a 
-esperança de vida ao nascer no Brasil no ano de 2014 
-terá sido, em ano, igual a`,
+    text: ``,
     images: ['/enem/2022/images/enem_2022_d2_q179.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `74,23.` },
@@ -3103,20 +2646,14 @@ terá sido, em ano, igual a`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Na figura estão destacadas duas trajetórias sobre a 
-superfície do globo terrestre, descritas ao se percorrer 
-parte dos meridianos 1, 2 e da Linha do Equador, sendo 
-que os meridianos 1 e 2 estão contidos em planos 
-perpendiculares entre si. O plano α é paralelo ao que 
-contém a Linha do Equador. 
-N 
-Meridiano 2 
-Meridiano 1 
-Linha do Equador 
-S 
-α 
-A vista superior da projeção ortogonal sobre o plano α 
-dessas duas trajetórias é`,
+    text: `Na figura estão destacadas duas trajetórias sobre a superfície
+do globo terrestre, descritas ao se percorrer parte dos
+meridianos 1, 2 e da Linha do Equador, sendo que os meridianos
+1 e 2 estão contidos em planos perpendiculares entre si. O
+plano α é paralelo ao que contém a Linha do Equador. N
+Meridiano 2 Meridiano 1 Linha do Equador S α A vista superior
+da projeção ortogonal sobre o plano α dessas duas trajetórias
+é`,
     images: ['/enem/2022/images/enem_2022_d2_q180.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2022/images/enem_2022_d2_q180_A.jpg` },

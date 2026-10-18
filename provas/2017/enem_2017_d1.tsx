@@ -226,10 +226,8 @@ esse procedimento narrativo é o registro do(a)`,
       { id: 'A', type: 'text', value: `indignação face à suspeita do adultério da esposa.` },
       { id: 'B', type: 'text', value: `tristeza compartilhada pela perda da mulher amada.` },
       { id: 'C', type: 'text', value: `espanto diante da demonstração de afeto de Garcia.` },
-      { id: 'D', type: 'text', value: `prazer da personagem em relação ao sofrimento 
-alheio.` },
-      { id: 'E', type: 'text', value: `superação do ciúme pela comoção decorrente da 
-morte.` },
+      { id: 'D', type: 'text', value: `prazer da personagem em relação ao sofrimento alheio.` },
+      { id: 'E', type: 'text', value: `superação do ciúme pela comoção decorrente da morte.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O fragmento de Machado de Assis é narrado segundo a perspectiva de Fortunato, que, à porta, observa o pranto de Garcia diante do cadáver e 'saboreia tranquilo' aquela explosão de dor, achando-a 'deliciosamente longa'. O que singulariza esse ponto de vista é o registro do prazer da personagem com o sofrimento alheio (alternativa D), sentimento mórbido que dá título ao conto. Não há como foco a indignação pela suspeita de adultério (A), nem tristeza compartilhada (B), espanto diante do afeto de Garcia (C) ou superação do ciúme pela comoção (E) — ao contrário, Fortunato frui da dor do outro.`,
@@ -305,10 +303,8 @@ O comentário do Texto II sobre o Texto I evoca a
 mobilização da língua oral que, em determinados 
 contextos,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `assegura a existência de pensamentos contrários à 
-ordem vigente.` },
-      { id: 'B', type: 'text', value: `mantém a heterogeneidade das formas de relações 
-sociais.` },
+      { id: 'A', type: 'text', value: `assegura a existência de pensamentos contrários à ordem vigente.` },
+      { id: 'B', type: 'text', value: `mantém a heterogeneidade das formas de relações sociais.` },
       { id: 'C', type: 'text', value: `conserva a influência religiosa sobre certas culturas.` },
       { id: 'D', type: 'text', value: `preserva a diversidade cultural e comportamental.` },
       { id: 'E', type: 'text', value: `reforça comportamentos e padrões culturais.` },
@@ -323,29 +319,22 @@ sociais.` },
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `Essas moças tinham o vezo de afirmar o contrário 
-do que desejavam. Notei a singularidade quando 
-principiaram a elogiar o meu paletó cor de macaco. 
-Examinavam-no sérias, achavam o pano e os 
-aviamentos de qualidade superior, o feitio admirável. 
-Envaideci-me: 
-nunca 
-havia 
-reparado 
-em 
-tais 
-vantagens . Mas os gabos se prolongaram, trouxeram-me 
-desconfiança. Percebi afinal que elas zombavam e 
-não me susceptibilizei. Longe disso : achei curiosa 
-aquela maneira de falar pelo avesso, diferente das 
-grosserias a que me habituara. Em geral me diziam 
-com franqueza que a roupa não me assentava no 
-corpo, sobrava nos sovacos. 
-RAMOS, G. Infância . Rio de Janeiro: Record, 1994. 
-Por meio de recursos linguísticos, os textos mobilizam 
-estratégias para introduzir e retomar ideias, promovendo 
-a progressão do tema. No fragmento transcrito, um novo 
-aspecto do tema é introduzido pela expressão`,
+    text: `Essas moças tinham o vezo de afirmar o contrário do que
+desejavam. Notei a singularidade quando principiaram a elogiar
+o meu paletó cor de macaco. Examinavam-no sérias, achavam o
+pano e os aviamentos de qualidade superior, o feitio
+admirável. Envaideci-me: nunca havia reparado em tais
+vantagens . Mas os gabos se prolongaram, trouxeram-me
+desconfiança. Percebi afinal que elas zombavam e não me
+susceptibilizei. Longe disso : achei curiosa aquela maneira de
+falar pelo avesso, diferente das grosserias a que me
+habituara. Em geral me diziam com franqueza que a roupa não me
+assentava no corpo, sobrava nos sovacos. RAMOS, G. Infância .
+Rio de Janeiro: Record, 1994. Por meio de recursos
+linguísticos, os textos mobilizam estratégias para introduzir
+e retomar ideias, promovendo a progressão do tema. No
+fragmento transcrito, um novo aspecto do tema é introduzido
+pela expressão`,
     alternatives: [
       { id: 'A', type: 'text', value: `“a singularidade”.` },
       { id: 'B', type: 'text', value: `“tais vantagens”.` },
@@ -363,45 +352,20 @@ aspecto do tema é introduzido pela expressão`,
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `Usa novos canais 
-on-line e novas 
-ferramentas de 
-comunicação 
-Confia em 
-conselhos de 
-amigos on-line , 
-conhecidos e 
-estranhos 
-Quer suporte para 
-encontrar pessoas 
-que compartilham 
-da mesma 
-opinião 
-Lê e cria 
-avaliações, 
-ranking de 
-produtos e posts 
-em blogs 
-Tende a comprar 
-mais on-line do 
-que off-line 
-Novo consumidor 
-social 
-Quer fornecer 
-feedback sobre 
-o produto e 
-serviço ao 
-cliente 
-Deseja uma 
-experiencia 
-melhor on-line 
-do que off-line 
-CIPRIANI, F. Disponível em: www.snmsolutions.com.br. Acesso em: 15 maio 2013 (adaptado). 
-O consumidor do século XXI, chamado de novo 
-consumidor social, tende a se comportar de modo 
-diferente do consumidor tradicional. Pela associação das 
-características apresentadas no diagrama, infere-se que 
-esse novo consumidor sofre influência da`,
+    text: `Usa novos canais on-line e novas ferramentas de comunicação
+Confia em conselhos de amigos on-line , conhecidos e estranhos
+Quer suporte para encontrar pessoas que compartilham da mesma
+opinião Lê e cria avaliações, ranking de produtos e posts em
+blogs Tende a comprar mais on-line do que off-line Novo
+consumidor social Quer fornecer feedback sobre o produto e
+serviço ao cliente Deseja uma experiencia melhor on-line do
+que off-line CIPRIANI, F. Disponível em:
+www.snmsolutions.com.br. Acesso em: 15 maio 2013 (adaptado). O
+consumidor do século XXI, chamado de novo consumidor social,
+tende a se comportar de modo diferente do consumidor
+tradicional. Pela associação das características apresentadas
+no diagrama, infere-se que esse novo consumidor sofre
+influência da`,
     images: ['/enem/2017/images/enem_2017_d1_q11.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `cultura do comércio eletrônico.` },
@@ -455,20 +419,11 @@ linguística nacional. Quanto ao papel do tupi na formação
 do português brasileiro, depreende-se que essa língua 
 indígena`,
     alternatives: [
-      { id: 'A', type: 'text', value: `contribuiu efetivamente para o léxico, com nomes 
-relativos aos traços característicos dos lugares 
-designados.` },
-      { id: 'B', type: 'text', value: `originou o português falado em São Paulo no século 
-XVII, em cuja base gramatical também está a fala de 
-variadas etnias indígenas.` },
-      { id: 'C', type: 'text', value: `desenvolveu-se sob influência dos trabalhos de 
-catequese dos padres portugueses, vindos de Lisboa.` },
-      { id: 'D', type: 'text', value: `misturou-se aos falares africanos, em razão das 
-interações entre portugueses e negros nas investidas 
-contra o Quilombo dos Palmares.` },
-      { id: 'E', type: 'text', value: `expandiu-se paralelamente ao português falado 
-pelo colonizador, e juntos originaram a língua dos 
-bandeirantes paulistas.` },
+      { id: 'A', type: 'text', value: `contribuiu efetivamente para o léxico, com nomes relativos aos traços característicos dos lugares designados.` },
+      { id: 'B', type: 'text', value: `originou o português falado em São Paulo no século XVII, em cuja base gramatical também está a fala de variadas etnias indígenas.` },
+      { id: 'C', type: 'text', value: `desenvolveu-se sob influência dos trabalhos de catequese dos padres portugueses, vindos de Lisboa.` },
+      { id: 'D', type: 'text', value: `misturou-se aos falares africanos, em razão das interações entre portugueses e negros nas investidas contra o Quilombo dos Palmares.` },
+      { id: 'E', type: 'text', value: `expandiu-se paralelamente ao português falado pelo colonizador, e juntos originaram a língua dos bandeirantes paulistas.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto mostra que os bandeirantes, falantes do tupi, batizaram inúmeros lugares com nomes como Avanhandava, Pindamonhangaba e Itu, que descrevem traços característicos dos locais. Depreende-se, portanto, que a língua indígena contribuiu efetivamente para o léxico do português brasileiro (alternativa A). As alternativas B e E erram ao afirmar que o tupi deu origem ao português ou a uma base gramatical; C atribui o desenvolvimento à catequese; e D supõe mistura com falares africanos, não sustentada pelo texto.`,
@@ -502,10 +457,8 @@ A obra de Murilo Mendes situa-se na fase inicial do
 Modernismo, cujas propostas estéticas transparecem, no 
 poema, por um eu lírico que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `configura um ideal de nacionalidade pela integração 
-regional.` },
-      { id: 'B', type: 'text', value: `remonta ao colonialismo assente sob um viés 
-iconoclasta.` },
+      { id: 'A', type: 'text', value: `configura um ideal de nacionalidade pela integração regional.` },
+      { id: 'B', type: 'text', value: `remonta ao colonialismo assente sob um viés iconoclasta.` },
       { id: 'C', type: 'text', value: `repercute as manifestações do sincretismo religioso.` },
       { id: 'D', type: 'text', value: `descreve a gênese da formação do povo brasileiro.` },
       { id: 'E', type: 'text', value: `promove inovações no repertório linguístico.` },
@@ -537,13 +490,10 @@ e o uso da linguagem na produção da propaganda
 favorecem a`,
     alternatives: [
       { id: 'A', type: 'text', value: `reflexão da sociedade sobre os produtos anunciados.` },
-      { id: 'B', type: 'text', value: `difusão do pensamento e das preferências das 
-grandes massas.` },
+      { id: 'B', type: 'text', value: `difusão do pensamento e das preferências das grandes massas.` },
       { id: 'C', type: 'text', value: `imposição das ideias e posições de grupos específicos.` },
-      { id: 'D', type: 'text', value: `decisão consciente do consumidor a respeito de sua 
-compra.` },
-      { id: 'E', type: 'text', value: `identificação dos interesses do responsável pelo 
-produto divulgado.` },
+      { id: 'D', type: 'text', value: `decisão consciente do consumidor a respeito de sua compra.` },
+      { id: 'E', type: 'text', value: `identificação dos interesses do responsável pelo produto divulgado.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Segundo o verbete de Bobbio, a propaganda veicula posições parciais de uma minoria como se fossem convicção de toda a população, induzindo o indivíduo ao conformismo pela pressão do grupo. As estratégias argumentativas favorecem, assim, a imposição das ideias e posições de grupos específicos (alternativa C). A alternativa A sugere reflexão do público; B fala em difusão do pensamento das massas, quando se trata de uma minoria; D supõe decisão consciente; e E, identificação de interesses — todas contrárias ao mecanismo descrito.`,
@@ -568,16 +518,11 @@ Nos versos de um menino de 12 anos, o emprego da
 palavra “Gerimum” grafada com a letra “g” tem por objetivo`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `valorizar usos informais caracterizadores da norma 
-nacional.` },
-      { id: 'B', type: 'text', value: `confirmar o uso da norma-padrão em contexto da 
-linguagem poética.` },
-      { id: 'C', type: 'text', value: `enfatizar um processo recorrente na transformação 
-da língua portuguesa.` },
-      { id: 'D', type: 'text', value: `registrar a diversidade étnica e linguística presente no 
-território brasileiro.` },
-      { id: 'E', type: 'text', value: `reafirmar discursivamente a forte relação do falante 
-com seu lugar de origem.` },
+      { id: 'A', type: 'text', value: `valorizar usos informais caracterizadores da norma nacional.` },
+      { id: 'B', type: 'text', value: `confirmar o uso da norma-padrão em contexto da linguagem poética.` },
+      { id: 'C', type: 'text', value: `enfatizar um processo recorrente na transformação da língua portuguesa.` },
+      { id: 'D', type: 'text', value: `registrar a diversidade étnica e linguística presente no território brasileiro.` },
+      { id: 'E', type: 'text', value: `reafirmar discursivamente a forte relação do falante com seu lugar de origem.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Nos versos, o menino explica que grafa 'Gerimum' com 'g' porque assim o lugar foi registrado, vinculando a escrita à sua origem. O emprego dessa grafia reafirma discursivamente a forte relação do falante com seu lugar de origem (alternativa E). Não se trata de valorizar uma suposta norma nacional (A), confirmar a norma-padrão (B), enfatizar uma transformação da língua (C) ou registrar diversidade étnica (D), mas de marcar afetiva e identitariamente o pertencimento ao Sítio Gerimum.`,
@@ -614,10 +559,8 @@ o conceito de criatividade em publicidade apresentado
 no Texto I?`,
     images: ['/enem/2017/images/enem_2017_d1_q16.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Fazendo menção ao difícil trabalho das mães em criar 
-seus filhos.` },
-      { id: 'B', type: 'text', value: `Promovendo uma leitura simplista do papel materno 
-em seu trabalho de criar os filhos.` },
+      { id: 'A', type: 'text', value: `Fazendo menção ao difícil trabalho das mães em criar seus filhos.` },
+      { id: 'B', type: 'text', value: `Promovendo uma leitura simplista do papel materno em seu trabalho de criar os filhos.` },
       { id: 'C', type: 'text', value: `Explorando a polissemia do termo “criação”.` },
       { id: 'D', type: 'text', value: `Recorrendo a uma estrutura linguística simples.` },
       { id: 'E', type: 'text', value: `Utilizando recursos gráficos diversificados.` },
@@ -658,16 +601,11 @@ A autora incentiva o uso da internet pelos estudantes,
 ponderando sobre a necessidade de orientação a esse 
 uso, pois essa tecnologia`,
     alternatives: [
-      { id: 'A', type: 'text', value: `está repleta de informações confiáveis que constituem 
-fonte única para a aprendizagem dos alunos.` },
-      { id: 'B', type: 'text', value: `exige dos pais e professores que proíbam seu uso 
-abusivo para evitar que se torne um vício.` },
-      { id: 'C', type: 'text', value: `tende a se tornar um agente negativo na aprendizagem 
-e na socialização de crianças e jovens.` },
-      { id: 'D', type: 'text', value: `possibilita maior ampliação do conhecimento de 
-mundo quando a aprendizagem é direcionada.` },
-      { id: 'E', type: 'text', value: `leva ao isolamento do mundo real e ao uso exclusivo 
-do computador se a navegação for desmedida.` },
+      { id: 'A', type: 'text', value: `está repleta de informações confiáveis que constituem fonte única para a aprendizagem dos alunos.` },
+      { id: 'B', type: 'text', value: `exige dos pais e professores que proíbam seu uso abusivo para evitar que se torne um vício.` },
+      { id: 'C', type: 'text', value: `tende a se tornar um agente negativo na aprendizagem e na socialização de crianças e jovens.` },
+      { id: 'D', type: 'text', value: `possibilita maior ampliação do conhecimento de mundo quando a aprendizagem é direcionada.` },
+      { id: 'E', type: 'text', value: `leva ao isolamento do mundo real e ao uso exclusivo do computador se a navegação for desmedida.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A autora rebate o medo de que a internet prejudique crianças e jovens e defende seu uso com orientação, mostrando outros caminhos e possibilidades. Ela conclui que a tecnologia possibilita maior ampliação do conhecimento de mundo quando a aprendizagem é direcionada (alternativa D). As alternativas A, B, C e E reproduzem justamente os receios que o texto contesta — fonte única confiável, proibição, agente negativo e isolamento —, não a posição defendida pela autora.`,
@@ -747,18 +685,11 @@ BALZANO, O. N.; MORAIS, J. S. A formação do jogador de futebol e sua relação
 Ao abordar o fato de, no Brasil, muitos jovens depositarem 
 suas esperanças de futuro no futebol, o texto critica o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `despreparo dos jogadores de futebol para ajudarem 
-suas famílias a superar a miséria.` },
-      { id: 'B', type: 'text', value: `garantia de ascensão social dos jovens pela carreira 
-de jogador de futebol.` },
-      { id: 'C', type: 'text', value: `falta de investimento dos clubes para que os atletas 
-possam atuar profissionalmente e viver do futebol.` },
-      { id: 'D', type: 'text', value: `investimento reduzido dos atletas profissionais em 
-sua formação escolar, gerando frustração e desilusão 
-profissional no esporte.` },
-      { id: 'E', type: 'text', value: `despreocupação dos sujeitos com uma formação 
-paralela à esportiva, para habilitá-los a atuar em 
-outros setores da vida.` },
+      { id: 'A', type: 'text', value: `despreparo dos jogadores de futebol para ajudarem suas famílias a superar a miséria.` },
+      { id: 'B', type: 'text', value: `garantia de ascensão social dos jovens pela carreira de jogador de futebol.` },
+      { id: 'C', type: 'text', value: `falta de investimento dos clubes para que os atletas possam atuar profissionalmente e viver do futebol.` },
+      { id: 'D', type: 'text', value: `investimento reduzido dos atletas profissionais em sua formação escolar, gerando frustração e desilusão profissional no esporte.` },
+      { id: 'E', type: 'text', value: `despreocupação dos sujeitos com uma formação paralela à esportiva, para habilitá-los a atuar em outros setores da vida.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto critica o fato de muitos jovens apostarem apenas no futebol, abandonando a escola e deixando de se preparar para outras ocupações, de modo que, não selecionados, podem acabar em subempregos ou vícios. A crítica recai sobre a despreocupação dos sujeitos com uma formação paralela à esportiva, que os habilitaria a atuar em outros setores da vida (alternativa E). As alternativas A e C deslocam a culpa para o despreparo dos jogadores ou a falta de investimento dos clubes; B inverte o sentido ao garantir a ascensão; e D atribui a falha a atletas já profissionais, não aos jovens em formação.`,
@@ -893,8 +824,7 @@ diferentes, cujas realidades se aproximam em função do(a)`,
       { id: 'B', type: 'text', value: `preferência de uso na modalidade falada.` },
       { id: 'C', type: 'text', value: `modo de organização das regras sintáticas.` },
       { id: 'D', type: 'text', value: `predomínio em relação às outras línguas de contato.` },
-      { id: 'E', type: 'text', value: `fato de motivarem o desaparecimento de línguas 
-minoritárias.` },
+      { id: 'E', type: 'text', value: `fato de motivarem o desaparecimento de línguas minoritárias.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O Texto I mostra o ticuna submetendo, em sua área, os falantes de outras línguas, que são minoria; o Texto II apresenta o inglês como língua franca da globalização, dominante no mundo. As duas realidades, ainda que de culturas distintas, aproximam-se pelo predomínio dessas línguas em relação às outras línguas de contato (alternativa D). A semelhança no modo de expansão (A), a preferência pela fala (B), a organização sintática (C) e a ideia de que motivariam o desaparecimento de línguas minoritárias (E) não expressam esse ponto comum.`,
@@ -906,49 +836,25 @@ minoritárias.` },
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `As atrizes 
-Naturalmente 
-Ela sorria 
-Mas não me dava trela 
-Trocava a roupa 
-Na minha frente 
-E ia bailar sem mais aquela 
-Escolhia qualquer um 
-Lançava olhares 
-Debaixo do meu nariz 
-Dançava colada 
-Em novos pares 
-Com um pé atrás 
-Com um pé a fim 
-Surgiram outras 
-Naturalmente 
-Sem nem olhar a minha cara 
-Tomavam banho 
-Na minha frente 
-Para sair com outro cara 
-Porém nunca me importei 
-Com tais amantes 
-[...] 
-Com tantos filmes 
-Na minha mente 
-É natural que toda atriz 
-Presentemente represente 
-Muito para mim 
-CHICO BUARQUE. Carioca . Rio de Janeiro: Biscoito Fino, 2006 (fragmento). 
-Na canção, Chico Buarque trabalha uma determinada 
-função da linguagem para marcar a subjetividade do eu 
-lírico ante as atrizes que ele admira. A intensidade dessa 
-admiração está marcada em:`,
+    text: `As atrizes Naturalmente Ela sorria Mas não me dava trela
+Trocava a roupa Na minha frente E ia bailar sem mais aquela
+Escolhia qualquer um Lançava olhares Debaixo do meu nariz
+Dançava colada Em novos pares Com um pé atrás Com um pé a fim
+Surgiram outras Naturalmente Sem nem olhar a minha cara
+Tomavam banho Na minha frente Para sair com outro cara Porém
+nunca me importei Com tais amantes [...] Com tantos filmes Na
+minha mente É natural que toda atriz Presentemente represente
+Muito para mim CHICO BUARQUE. Carioca . Rio de Janeiro:
+Biscoito Fino, 2006 (fragmento). Na canção, Chico Buarque
+trabalha uma determinada função da linguagem para marcar a
+subjetividade do eu lírico ante as atrizes que ele admira. A
+intensidade dessa admiração está marcada em:`,
     alternatives: [
       { id: 'A', type: 'text', value: `"Naturalmente/ Ela sorria/ Mas não me dava trela".` },
-      { id: 'B', type: 'text', value: `"Tomavam banho/ Na minha frente/ Para sair com 
-outro cara".` },
-      { id: 'C', type: 'text', value: `"Surgiram outras/ Naturalmente/ Sem nem olhar a 
-minha cara".` },
-      { id: 'D', type: 'text', value: `"Escolhia qualquer um/ Lançava olhares/ Debaixo do 
-meu nariz".` },
-      { id: 'E', type: 'text', value: `"É natural que toda atriz/ Presentemente represente/ 
-Muito para mim".` },
+      { id: 'B', type: 'text', value: `"Tomavam banho/ Na minha frente/ Para sair com outro cara".` },
+      { id: 'C', type: 'text', value: `"Surgiram outras/ Naturalmente/ Sem nem olhar a minha cara".` },
+      { id: 'D', type: 'text', value: `"Escolhia qualquer um/ Lançava olhares/ Debaixo do meu nariz".` },
+      { id: 'E', type: 'text', value: `"É natural que toda atriz/ Presentemente represente/ Muito para mim".` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Chico Buarque explora a função emotiva (expressiva) da linguagem para marcar a subjetividade do eu lírico diante das atrizes. A intensidade de sua admiração aparece em 'É natural que toda atriz/ Presentemente represente/ Muito para mim', em que o 'muito para mim' explicita o quanto elas significam para ele (alternativa E). Os demais trechos descrevem o comportamento indiferente das atrizes — não davam trela, tomavam banho na frente dele, surgiam sem olhá-lo (A, B, C) ou escolhiam qualquer um (D) —, sem marcar a intensidade do sentimento do eu lírico.`,
@@ -977,21 +883,11 @@ apresenta o impasse vivido pela sociedade brasileira em
 face do regime vigente. Esse impasse é representado no 
 fragmento pelo(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `barulho excessivo produzido pelo ranger das cadeiras 
-do teatro.` },
-      { id: 'B', type: 'text', value: `indicação da neutralidade como a melhor opção 
-ideológica naquele momento.` },
-      { id: 'C', type: 'text', value: `constatação da censura em função do engajamento 
-social do texto dramático.` },
-      { id: 'D', type: 'text', value: `correlação entre o alinhamento político e a posição 
-corporal dos espectadores.` },
-      { id: 'E', type: 'text', value: `interrupção 
-do 
-espetáculo 
-em 
-virtude 
-do 
-comportamento inadequado do público.` },
+      { id: 'A', type: 'text', value: `barulho excessivo produzido pelo ranger das cadeiras do teatro.` },
+      { id: 'B', type: 'text', value: `indicação da neutralidade como a melhor opção ideológica naquele momento.` },
+      { id: 'C', type: 'text', value: `constatação da censura em função do engajamento social do texto dramático.` },
+      { id: 'D', type: 'text', value: `correlação entre o alinhamento político e a posição corporal dos espectadores.` },
+      { id: 'E', type: 'text', value: `interrupção do espetáculo em virtude do comportamento inadequado do público.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. No fragmento de 'Liberdade, liberdade', pede-se que cada espectador tome e mantenha uma posição — à esquerda, à direita ou neutra, de braços cruzados —, sob pena de as cadeiras rangerem e ninguém ouvir nada. Essa cena representa o impasse da sociedade brasileira diante do regime pela correlação entre o alinhamento político e a posição corporal dos espectadores (alternativa D). O ranger das cadeiras (A) é consequência, não o impasse; a peça não indica a neutralidade como melhor opção (B), não constata a censura no trecho (C) nem interrompe o espetáculo por mau comportamento do público (E).`,
@@ -1033,16 +929,11 @@ Considerando os elementos constitutivos dos gêneros
 textuais circulantes na sociedade, nesse fragmento de 
 resenha predominam`,
     alternatives: [
-      { id: 'A', type: 'text', value: `caracterizações de personalidades do contexto 
-musical brasileiro dos anos 1960.` },
-      { id: 'B', type: 'text', value: `questões polêmicas direcionadas à produção musical 
-brasileira nos anos 1960.` },
-      { id: 'C', type: 'text', value: `relatos de experiências de artistas sobre os festivais 
-de música de 1967.` },
-      { id: 'D', type: 'text', value: `explicações sobre o quadro cultural do Brasil durante 
-a década de 1960.` },
-      { id: 'E', type: 'text', value: `opiniões a respeito de uma obra sobre a cena musical 
-de 1967.` },
+      { id: 'A', type: 'text', value: `caracterizações de personalidades do contexto musical brasileiro dos anos 1960.` },
+      { id: 'B', type: 'text', value: `questões polêmicas direcionadas à produção musical brasileira nos anos 1960.` },
+      { id: 'C', type: 'text', value: `relatos de experiências de artistas sobre os festivais de música de 1967.` },
+      { id: 'D', type: 'text', value: `explicações sobre o quadro cultural do Brasil durante a década de 1960.` },
+      { id: 'E', type: 'text', value: `opiniões a respeito de uma obra sobre a cena musical de 1967.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O fragmento resenha o livro 'Uma noite em 67', comentando seu conteúdo e avaliando-o como deleite para quem viu o filme e como 'livro de histórias, pensando bem, de História'. Predominam, assim, opiniões a respeito de uma obra sobre a cena musical de 1967 (alternativa E), traço constitutivo do gênero resenha. As caracterizações de personalidades (A), eventuais polêmicas (B), relatos dos artistas (C) e explicações sobre o quadro cultural (D) aparecem de modo acessório, não como elemento predominante.`,
@@ -1087,16 +978,11 @@ Ao abordar as possíveis influências da indústria de
 brinquedos sobre a representação do corpo feminino, o 
 texto analisa a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `noção de beleza globalizada veiculada pela 
-indústria cultural.` },
-      { id: 'B', type: 'text', value: `influência da mídia para a adoção de um estilo de vida 
-salutar pelas mulheres.` },
-      { id: 'C', type: 'text', value: `relação entre a alimentação saudável e o padrão de 
-corpo instituído pela boneca.` },
-      { id: 'D', type: 'text', value: `proporcionalidade entre a representação do corpo da 
-boneca e a do corpo humano.` },
-      { id: 'E', type: 'text', value: `influência mercadológica na construção de uma 
-autoimagem positiva do corpo feminino.` },
+      { id: 'A', type: 'text', value: `noção de beleza globalizada veiculada pela indústria cultural.` },
+      { id: 'B', type: 'text', value: `influência da mídia para a adoção de um estilo de vida salutar pelas mulheres.` },
+      { id: 'C', type: 'text', value: `relação entre a alimentação saudável e o padrão de corpo instituído pela boneca.` },
+      { id: 'D', type: 'text', value: `proporcionalidade entre a representação do corpo da boneca e a do corpo humano.` },
+      { id: 'E', type: 'text', value: `influência mercadológica na construção de uma autoimagem positiva do corpo feminino.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto analisa como as medidas da Barbie, se transpostas para uma mulher real, seriam inviáveis — pescoço fino e longo demais, cintura menor que a cabeça, relação cintura-quadril irreal —, a ponto de inviabilizar a própria vida. A abordagem recai, portanto, sobre a proporcionalidade entre a representação do corpo da boneca e a do corpo humano (alternativa D). As alternativas A, B, C e E tratam de beleza globalizada, estilo de vida saudável, alimentação ou autoimagem positiva, temas não centrais na comparação anatômica apresentada.`,
@@ -1108,26 +994,17 @@ autoimagem positiva do corpo feminino.` },
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `Nuances 
-Euforia : alegria barulhenta. Felicidade : alegria silenciosa. 
-Gravar : quando o ator é de televisão. Filmar : quando 
-ele quer deixar claro que não é de televisão. 
-Gravida : em qualquer ocasião. Gestante : em filas e 
-assentos preferenciais. 
-Guardar : na gaveta. Salvar : no computador. 
-Salvaguardar : no Exército. 
-Menta : no sorvete, na bala ou no xarope. Hortelã : na 
-horta ou no suco de abacaxi. 
-Peca : quando você vai assistir. Espetáculo : quando 
-você está em cartaz com ele. 
-DUVIVIER, G. Folha de S. Paulo , 24 mar. 2014 (adaptado). 
-O texto trata da diferença de sentido entre vocábulos 
-muito 
-próximos. 
-Essa 
-diferença 
-é 
-apresentada 
+    text: `Nuances Euforia : alegria barulhenta. Felicidade : alegria
+silenciosa. Gravar : quando o ator é de televisão. Filmar :
+quando ele quer deixar claro que não é de televisão. Gravida :
+em qualquer ocasião. Gestante : em filas e assentos
+preferenciais. Guardar : na gaveta. Salvar : no computador.
+Salvaguardar : no Exército. Menta : no sorvete, na bala ou no
+xarope. Hortelã : na horta ou no suco de abacaxi. Peca :
+quando você vai assistir. Espetáculo : quando você está em
+cartaz com ele. DUVIVIER, G. Folha de S. Paulo , 24 mar. 2014
+(adaptado). O texto trata da diferença de sentido entre
+vocábulos muito próximos. Essa diferença é apresentada
 considerando-se a(s)`,
     alternatives: [
       { id: 'A', type: 'text', value: `alternâncias na sonoridade.` },
@@ -1151,21 +1028,11 @@ Campanhas publicitárias podem evidenciar problemas
 sociais. O cartaz tem como finalidade`,
     images: ['/enem/2017/images/enem_2017_d1_q28.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `alertar 
-os 
-homens 
-agressores 
-sobre 
-as 
-consequências de seus atos.` },
-      { id: 'B', type: 'text', value: `conscientizar a população sobre a necessidade de 
-denunciar a violência doméstica.` },
-      { id: 'C', type: 'text', value: `instruir as mulheres sobre o que fazer em casos de 
-agressão.` },
-      { id: 'D', type: 'text', value: `despertar nas crianças a capacidade de reconhecer 
-atos de violência doméstica.` },
-      { id: 'E', type: 'text', value: `exigir das autoridades ações preventivas contra a 
-violência doméstica.` },
+      { id: 'A', type: 'text', value: `alertar os homens agressores sobre as consequências de seus atos.` },
+      { id: 'B', type: 'text', value: `conscientizar a população sobre a necessidade de denunciar a violência doméstica.` },
+      { id: 'C', type: 'text', value: `instruir as mulheres sobre o que fazer em casos de agressão.` },
+      { id: 'D', type: 'text', value: `despertar nas crianças a capacidade de reconhecer atos de violência doméstica.` },
+      { id: 'E', type: 'text', value: `exigir das autoridades ações preventivas contra a violência doméstica.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O cartaz integra uma campanha contra a violência doméstica e tem por finalidade conscientizar a população sobre a necessidade de denunciar esse tipo de agressão (alternativa B). Ele não se dirige a alertar os agressores sobre as consequências de seus atos (A), nem a instruir as mulheres sobre procedimentos (C), despertar nas crianças o reconhecimento da violência (D) ou exigir das autoridades ações preventivas (E); o foco está em mobilizar a sociedade para a denúncia.`,
@@ -1203,17 +1070,11 @@ PESSOA, F. O livro do desassossego . São Paulo: Brasiliense, 1986.
 A linguagem cumpre diferentes funções no processo de 
 comunicação. A função que predomina nos textos I e II`,
     alternatives: [
-      { id: 'A', type: 'text', value: `destaca o “como” se elabora a mensagem, 
-considerando-se a seleção, combinação e sonoridade 
-do texto.` },
-      { id: 'B', type: 'text', value: `coloca o foco no “com o quê” se constrói a mensagem, 
-sendo o código utilizado o seu próprio objeto.` },
-      { id: 'C', type: 'text', value: `focaliza o “quem” produz a mensagem, mostrando 
-seu posicionamento e suas impressões pessoais.` },
-      { id: 'D', type: 'text', value: `orienta-se no “para quem” se dirige a mensagem, 
-estimulando a mudança de seu comportamento.` },
-      { id: 'E', type: 'text', value: `enfatiza sobre “o quê” versa a mensagem, apresentada 
-com palavras precisas e objetivas.` },
+      { id: 'A', type: 'text', value: `destaca o “como” se elabora a mensagem, considerando-se a seleção, combinação e sonoridade do texto.` },
+      { id: 'B', type: 'text', value: `coloca o foco no “com o quê” se constrói a mensagem, sendo o código utilizado o seu próprio objeto.` },
+      { id: 'C', type: 'text', value: `focaliza o “quem” produz a mensagem, mostrando seu posicionamento e suas impressões pessoais.` },
+      { id: 'D', type: 'text', value: `orienta-se no “para quem” se dirige a mensagem, estimulando a mudança de seu comportamento.` },
+      { id: 'E', type: 'text', value: `enfatiza sobre “o quê” versa a mensagem, apresentada com palavras precisas e objetivas.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. Tanto o Texto I, que trata das regras da gramática normativa, quanto o Texto II, em que Pessoa fala do prazer de 'palavrar' e das palavras como corpos tocáveis, voltam-se para a própria linguagem. Predomina, portanto, a função metalinguística, que coloca o foco no 'com o quê' se constrói a mensagem, tomando o código como seu próprio objeto (alternativa B). As demais opções descrevem a função poética (A), a emotiva (C), a conativa (D) e a referencial (E), que não predominam nesses textos centrados na linguagem.`,
@@ -1225,49 +1086,21 @@ com palavras precisas e objetivas.` },
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `Contranarciso 
-em mim 
-eu vejo o outro 
-e outro 
-e outro 
-enfim dezenas 
-trens passando 
-vagões cheios de gente 
-centenas 
-o outro 
-que há em mim 
-é você 
-você 
-e você 
-assim como 
-eu estou em você 
-eu estou nele 
-em nós 
-e só quando 
-estamos em nós 
-estamos em paz 
-mesmo que estejamos a sós 
-LEMINSKI, P. Toda poesia . São Paulo: Cia. das Letras, 2013. 
-A busca pela identidade constitui uma faceta da tradição 
-literária, redimensionada pelo olhar contemporâneo. 
-No poema, essa nova dimensão revela a`,
+    text: `Contranarciso em mim eu vejo o outro e outro e outro enfim
+dezenas trens passando vagões cheios de gente centenas o outro
+que há em mim é você você e você assim como eu estou em você
+eu estou nele em nós e só quando estamos em nós estamos em paz
+mesmo que estejamos a sós LEMINSKI, P. Toda poesia . São
+Paulo: Cia. das Letras, 2013. A busca pela identidade
+constitui uma faceta da tradição literária, redimensionada
+pelo olhar contemporâneo. No poema, essa nova dimensão revela
+a`,
     alternatives: [
       { id: 'A', type: 'text', value: `ausência de traços identitários.` },
       { id: 'B', type: 'text', value: `angústia com a solidão em público.` },
       { id: 'C', type: 'text', value: `valorização da descoberta do “eu” autêntico.` },
-      { id: 'D', type: 'text', value: `percepção 
-da 
-empatia 
-como 
-fator 
-de 
-autoconhecimento.` },
-      { id: 'E', type: 'text', value: `impossibilidade 
-de 
-vivenciar 
-experiências 
-de 
-pertencimento.` },
+      { id: 'D', type: 'text', value: `percepção da empatia como fator de autoconhecimento.` },
+      { id: 'E', type: 'text', value: `impossibilidade de vivenciar experiências de pertencimento.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. Em 'Contranarciso', Leminski afirma ver o outro em si mesmo e a si mesmo nos outros, concluindo que só quando 'estamos em nós' há paz. O poema redimensiona a busca da identidade pela percepção da empatia como fator de autoconhecimento (alternativa D), opondo-se ao mito de Narciso. Não há ausência de traços identitários (A), angústia com a solidão em público (B), valorização de um 'eu' autêntico isolado (C) nem impossibilidade de pertencimento (E); o eu se constitui na relação com o outro.`,
@@ -1300,20 +1133,11 @@ EFDeportes , n. 142, mar. 2010.
 O sentido de esporte-participação construído no texto 
 está fundamentalmente presente`,
     alternatives: [
-      { id: 'A', type: 'text', value: `nos Jogos Olímpicos, uma vez que reúnem diversos 
-países na disputa de diferentes modalidades 
-esportivas.` },
-      { id: 'B', type: 'text', value: `nas competições de esportes individuais, uma vez que 
-o sucesso de um indivíduo incentiva a participação 
-dos demais.` },
-      { id: 'C', type: 'text', value: `nos campeonatos oficiais de futebol, regionais e 
-nacionais, por se tratar de uma modalidade esportiva 
-muito popular no país.` },
-      { id: 'D', type: 'text', value: `nas competições promovidas pelas federações 
-e confederações, cujo objetivo é a formação e a 
-descoberta de talentos.` },
-      { id: 'E', type: 'text', value: `nas modalidades esportivas adaptadas, cujo objetivo 
-é o maior engajamento dos cidadãos.` },
+      { id: 'A', type: 'text', value: `nos Jogos Olímpicos, uma vez que reúnem diversos países na disputa de diferentes modalidades esportivas.` },
+      { id: 'B', type: 'text', value: `nas competições de esportes individuais, uma vez que o sucesso de um indivíduo incentiva a participação dos demais.` },
+      { id: 'C', type: 'text', value: `nos campeonatos oficiais de futebol, regionais e nacionais, por se tratar de uma modalidade esportiva muito popular no país.` },
+      { id: 'D', type: 'text', value: `nas competições promovidas pelas federações e confederações, cujo objetivo é a formação e a descoberta de talentos.` },
+      { id: 'E', type: 'text', value: `nas modalidades esportivas adaptadas, cujo objetivo é o maior engajamento dos cidadãos.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto define o esporte-participação pelo prazer lúdico, pelo bem-estar, pela ligação com o lazer e pela abertura democrática a todos que queiram dele tomar parte, em contraste com o esporte-performance, restrito aos talentos. Esse sentido está presente nas modalidades esportivas adaptadas, cujo objetivo é o maior engajamento dos cidadãos (alternativa E). Jogos Olímpicos (A), competições individuais (B), campeonatos oficiais de futebol (C) e torneios de federações voltados à descoberta de talentos (D) remetem à dimensão performance, não à participação.`,
@@ -1354,16 +1178,11 @@ O gênero peça teatral tem o entretenimento como uma de
 suas funções. Outra função relevante do gênero, explícita 
 nesse trecho de O bem amado , é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `criticar satiricamente o comportamento de pessoas 
-públicas.` },
-      { id: 'B', type: 'text', value: `denunciar a escassez de recursos públicos nas 
-prefeituras do interior.` },
-      { id: 'C', type: 'text', value: `censurar a falta de domínio da língua padrão em 
-eventos sociais.` },
-      { id: 'D', type: 'text', value: `despertar a preocupação da plateia com a expectativa 
-de vida dos cidadãos.` },
-      { id: 'E', type: 'text', value: `questionar o apoio irrestrito de agentes públicos aos 
-gestores governamentais.` },
+      { id: 'A', type: 'text', value: `criticar satiricamente o comportamento de pessoas públicas.` },
+      { id: 'B', type: 'text', value: `denunciar a escassez de recursos públicos nas prefeituras do interior.` },
+      { id: 'C', type: 'text', value: `censurar a falta de domínio da língua padrão em eventos sociais.` },
+      { id: 'D', type: 'text', value: `despertar a preocupação da plateia com a expectativa de vida dos cidadãos.` },
+      { id: 'E', type: 'text', value: `questionar o apoio irrestrito de agentes públicos aos gestores governamentais.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No trecho de 'O bem amado', Odorico discursa de modo pomposo e demagógico, prometendo como primeiro ato a construção de um cemitério e enterro de graça a quem votou nele. Além de entreter, o texto cumpre a função de criticar satiricamente o comportamento de pessoas públicas (alternativa A), representadas pelo político populista. As alternativas B, C, D e E — denúncia da escassez de recursos, censura ao desvio da norma culta, preocupação com a expectativa de vida e questionamento do apoio de agentes públicos — não correspondem à finalidade satírica explícita no fragmento.`,
@@ -1391,17 +1210,11 @@ Qual aspecto da organização gramatical atualiza os
 eventos apresentados na resenha, contribuindo para 
 despertar o interesse do leitor pelo filme?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `O emprego do verbo haver , em vez de ter , em “há 
-20 anos atrás foi humilhado”.` },
-      { id: 'B', type: 'text', value: `A descrição dos fatos com verbos no presente do 
-indicativo, como “retorna” e “descobre”.` },
-      { id: 'C', type: 'text', value: `A repetição do emprego da conjunção “mas” para 
-contrapor ideias.` },
-      { id: 'D', type: 'text', value: `A finalização do texto com a frase de efeito “Será que 
-ele conseguirá acertar as coisas?”.` },
-      { id: 'E', type: 'text', value: `O uso do pronome de terceira pessoa “ele” ao 
-longo do texto para fazer referência ao protagonista 
-“João/Zero”.` },
+      { id: 'A', type: 'text', value: `O emprego do verbo haver , em vez de ter , em “há 20 anos atrás foi humilhado”.` },
+      { id: 'B', type: 'text', value: `A descrição dos fatos com verbos no presente do indicativo, como “retorna” e “descobre”.` },
+      { id: 'C', type: 'text', value: `A repetição do emprego da conjunção “mas” para contrapor ideias.` },
+      { id: 'D', type: 'text', value: `A finalização do texto com a frase de efeito “Será que ele conseguirá acertar as coisas?”.` },
+      { id: 'E', type: 'text', value: `O uso do pronome de terceira pessoa “ele” ao longo do texto para fazer referência ao protagonista “João/Zero”.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A resenha narra parte do enredo do filme empregando verbos no presente do indicativo, como 'retorna' e 'descobre', recurso que atualiza os eventos e os aproxima do leitor, despertando o interesse pelo filme (alternativa B). O emprego de 'haver' em 'há 20 anos atrás' (A), a repetição de 'mas' (C), a pergunta final (D) e o uso do pronome 'ele' (E) não exercem essa função de atualização dos fatos que caracteriza o aspecto gramatical solicitado.`,
@@ -1424,8 +1237,7 @@ brasileiros sobre a necessidade de`,
       { id: 'B', type: 'text', value: `a formação leitora começar na infância.` },
       { id: 'C', type: 'text', value: `a alfabetização acontecer na idade certa.` },
       { id: 'D', type: 'text', value: `a literatura ter o seu mercado consumidor ampliado.` },
-      { id: 'E', type: 'text', value: `as escolas desenvolverem campanhas a favor da 
-leitura.` },
+      { id: 'E', type: 'text', value: `as escolas desenvolverem campanhas a favor da leitura.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O cartaz publicitário tem por objetivo conscientizar os brasileiros de que a formação do leitor deve começar na infância (alternativa B), associando imagem e texto em favor do incentivo à leitura desde cedo. As alternativas A, C, D e E — frequência escolar regular, alfabetização na idade certa, ampliação do mercado da literatura e campanhas das escolas — não traduzem a finalidade central da peça, voltada à iniciação precoce no universo da leitura.`,
@@ -1437,56 +1249,38 @@ leitura.` },
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `Aí pelas três da tarde 
-Nesta sala atulhada de mesas, máquinas e papéis, 
-onde invejáveis escreventes dividiram entre si o bom- 
-senso do mundo, aplicando-se em ideias claras apesar 
-do ruído e do mormaço, seguros ao se pronunciarem 
-sobre problemas que afligem o homem moderno (espécie 
-da qual você, milenarmente cansado, talvez se sinta um 
-tanto excluído), largue tudo de repente sob os olhares a 
-sua volta, componha uma cara de louco quieto e perigoso, 
-faça os gestos mais calmos quanto os tais escribas mais 
-severos, dê um largo “ciao” ao trabalho do dia, assim 
-como quem se despede da vida, e surpreenda pouco 
-mais tarde, com sua presença em hora tão insólita, os que 
-estiveram em casa ocupados na limpeza dos armários, 
-que você não sabia antes como era conduzida. Convém 
-não responder aos olhares interrogativos, deixando 
-crescer, por instantes, a intensa expectativa que se 
-instala. Mas não exagere na medida e suba sem demora 
-ao quarto, libertando aí os pés das meias e dos sapatos, 
-tirando a roupa do corpo como se retirasse a importância 
-das coisas, pondo-se enfim em vestes mínimas, quem 
-sabe até em pelo, mas sem ferir o decoro (o seu decoro, 
-está claro), e aceitando ao mesmo tempo, como boa 
-verdade provisória, toda mudança de comportamento. 
-NASSAR, R. Menina a caminho . São Paulo: Cia. das Letras, 1997. 
-Em textos de diferentes gêneros, algumas estratégias 
-argumentativas 
-referem-se 
-a 
-recursos 
-linguístico- 
-discursivos mobilizados para envolver o leitor. No texto, 
-caracteriza-se como estratégia de envolvimento a`,
+    text: `Aí pelas três da tarde Nesta sala atulhada de mesas, máquinas
+e papéis, onde invejáveis escreventes dividiram entre si o
+bom-senso do mundo, aplicando-se em ideias claras apesar do
+ruído e do mormaço, seguros ao se pronunciarem sobre problemas
+que afligem o homem moderno (espécie da qual você,
+milenarmente cansado, talvez se sinta um tanto excluído),
+largue tudo de repente sob os olhares a sua volta, componha
+uma cara de louco quieto e perigoso, faça os gestos mais
+calmos quanto os tais escribas mais severos, dê um largo
+“ciao” ao trabalho do dia, assim como quem se despede da vida,
+e surpreenda pouco mais tarde, com sua presença em hora tão
+insólita, os que estiveram em casa ocupados na limpeza dos
+armários, que você não sabia antes como era conduzida. Convém
+não responder aos olhares interrogativos, deixando crescer,
+por instantes, a intensa expectativa que se instala. Mas não
+exagere na medida e suba sem demora ao quarto, libertando aí
+os pés das meias e dos sapatos, tirando a roupa do corpo como
+se retirasse a importância das coisas, pondo-se enfim em
+vestes mínimas, quem sabe até em pelo, mas sem ferir o decoro
+(o seu decoro, está claro), e aceitando ao mesmo tempo, como
+boa verdade provisória, toda mudança de comportamento. NASSAR,
+R. Menina a caminho . São Paulo: Cia. das Letras, 1997. Em
+textos de diferentes gêneros, algumas estratégias
+argumentativas referem-se a recursos linguístico-discursivos
+mobilizados para envolver o leitor. No texto, caracteriza-se
+como estratégia de envolvimento a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `prescrição de comportamentos, como em: “[...] largue 
-tudo de repente sob os olhares a sua volta [...]”.` },
-      { id: 'B', type: 'text', value: `apresentação de contraposição, como em: “Mas 
-não exagere na medida e suba sem demora ao 
-quarto [...]”.` },
-      { id: 'C', type: 'text', value: `explicitação do interlocutor, como em: “[...] (espécie 
-da qual você, milenarmente cansado, talvez se sinta 
-um tanto excluído) [...]”.` },
-      { id: 'D', type: 'text', value: `descrição do espaço, como em: “Nesta sala atulhada 
-de mesas, máquinas e papéis, onde invejáveis 
-escreventes dividiram entre si o bom-senso do 
-mundo [...]”.` },
-      { id: 'E', type: 'text', value: `construção de comparações, como em: “[...] 
-libertando aí os pés das meias e dos sapatos, tirando 
-a roupa do corpo como se retirasse a importância das 
-coisas [...]”.` },
+      { id: 'A', type: 'text', value: `prescrição de comportamentos, como em: “[...] largue tudo de repente sob os olhares a sua volta [...]”.` },
+      { id: 'B', type: 'text', value: `apresentação de contraposição, como em: “Mas não exagere na medida e suba sem demora ao quarto [...]”.` },
+      { id: 'C', type: 'text', value: `explicitação do interlocutor, como em: “[...] (espécie da qual você, milenarmente cansado, talvez se sinta um tanto excluído) [...]”.` },
+      { id: 'D', type: 'text', value: `descrição do espaço, como em: “Nesta sala atulhada de mesas, máquinas e papéis, onde invejáveis escreventes dividiram entre si o bom-senso do mundo [...]”.` },
+      { id: 'E', type: 'text', value: `construção de comparações, como em: “[...] libertando aí os pés das meias e dos sapatos, tirando a roupa do corpo como se retirasse a importância das coisas [...]”.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No texto de Raduan Nassar, a estratégia de envolvimento do leitor manifesta-se na explicitação do interlocutor, quando o narrador se dirige diretamente a 'você', descrito como 'milenarmente cansado' e que 'talvez se sinta um tanto excluído' (alternativa C). As outras opções identificam recursos presentes no texto — prescrição de comportamentos (A), contraposição (B), descrição do espaço (D) e comparações (E) —, mas que não constituem o mecanismo de aproximação direta com o leitor pedido no enunciado.`,
@@ -1508,12 +1302,9 @@ relaciona-se com o Modernismo em virtude da`,
     alternatives: [
       { id: 'A', type: 'text', value: `simplificação de formas da paisagem brasileira.` },
       { id: 'B', type: 'text', value: `valorização de símbolos do processo de urbanização.` },
-      { id: 'C', type: 'text', value: `fusão de elementos da cultura brasileira com a arte 
-europeia.` },
-      { id: 'D', type: 'text', value: `alusão aos símbolos cívicos presentes na bandeira 
-nacional.` },
-      { id: 'E', type: 'text', value: `composição simétrica de elementos relativos à 
-miscigenação racial.` },
+      { id: 'C', type: 'text', value: `fusão de elementos da cultura brasileira com a arte europeia.` },
+      { id: 'D', type: 'text', value: `alusão aos símbolos cívicos presentes na bandeira nacional.` },
+      { id: 'E', type: 'text', value: `composição simétrica de elementos relativos à miscigenação racial.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. A obra 'Emblema 78', de Rubem Valentim, parte de signos das religiões afro-brasileiras e os converte em composição geométrica de inspiração construtiva europeia. Essa fusão de elementos da cultura brasileira com a arte europeia relaciona-a ao Modernismo (alternativa C), coerente com o projeto antropofágico do movimento. Não se trata de simplificar a paisagem (A), valorizar símbolos da urbanização (B), aludir aos símbolos cívicos da bandeira (D) ou compor simetricamente a miscigenação racial (E), mas de integrar matrizes afro-brasileiras e linguagem abstrata.`,
@@ -1576,18 +1367,10 @@ descrição dos fatos. Por isso, a escolha de determinadas
 palavras e expressões usadas no texto está a serviço da`,
     alternatives: [
       { id: 'A', type: 'text', value: `localização dos eventos de fala no tempo ficcional.` },
-      { id: 'B', type: 'text', value: `composição 
-da 
-verossimilhança 
-do 
-ambiente 
-retratado.` },
-      { id: 'C', type: 'text', value: `restrição do papel do narrador à observação das 
-cenas relatadas.` },
-      { id: 'D', type: 'text', value: `construção mística das personagens femininas pelo 
-autor do texto.` },
-      { id: 'E', type: 'text', value: `caracterização das preferências linguísticas da 
-personagem masculina.` },
+      { id: 'B', type: 'text', value: `composição da verossimilhança do ambiente retratado.` },
+      { id: 'C', type: 'text', value: `restrição do papel do narrador à observação das cenas relatadas.` },
+      { id: 'D', type: 'text', value: `construção mística das personagens femininas pelo autor do texto.` },
+      { id: 'E', type: 'text', value: `caracterização das preferências linguísticas da personagem masculina.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A narrativa emprega uma variedade linguística regional e rural, com termos como 'tomar tenência', 'tiquinho', 'buscação' e 'proseio', escolhidos para compor a verossimilhança do ambiente retratado (alternativa B). Essas palavras caracterizam o cenário interiorano de modo coerente com o relato. Não servem a localizar temporalmente as falas (A), restringir o narrador à observação (C), construir misticamente as personagens femininas (D) nem caracterizar as preferências linguísticas de uma personagem masculina (E), já que é o próprio narrador quem adota esse registro.`,
@@ -1667,20 +1450,11 @@ Ao apresentar uma situação de tensão em família, o
 narrador destila, nesse fragmento, uma percepção das 
 relações humanas e sociais demarcada pelo`,
     alternatives: [
-      { id: 'A', type: 'text', value: `predomínio dos estigmas de classe e de raça sobre a 
-intimidade da convivência.` },
-      { id: 'B', type: 'text', value: `discurso da manutenção de uma ética doméstica 
-contra a subversão dos valores.` },
-      { id: 'C', type: 'text', value: `desejo de superação do passado de escassez em 
-prol do presente de abastança.` },
-      { id: 'D', type: 'text', value: `sentimento 
-de 
-insubordinação 
-à 
-autoridade 
-representada pela matriarca da família.` },
-      { id: 'E', type: 'text', value: `rancor com a ingratidão e a hipocrisia geradas pelas 
-mudanças nas regras da casa.` },
+      { id: 'A', type: 'text', value: `predomínio dos estigmas de classe e de raça sobre a intimidade da convivência.` },
+      { id: 'B', type: 'text', value: `discurso da manutenção de uma ética doméstica contra a subversão dos valores.` },
+      { id: 'C', type: 'text', value: `desejo de superação do passado de escassez em prol do presente de abastança.` },
+      { id: 'D', type: 'text', value: `sentimento de insubordinação à autoridade representada pela matriarca da família.` },
+      { id: 'E', type: 'text', value: `rancor com a ingratidão e a hipocrisia geradas pelas mudanças nas regras da casa.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No fragmento de Milton Hatoum, os irmãos não toleram que a lavadeira indígena passe a comer à mesa, usando os mesmos talheres, pratos e copos, demonstrando asco e repulsa. O narrador flagra, assim, o predomínio dos estigmas de classe e de raça sobre a intimidade da convivência (alternativa A). As alternativas B, C, D e E — defesa de uma ética doméstica, desejo de superar a escassez, insubordinação à matriarca e rancor pela ingratidão — não traduzem a percepção das relações sociais marcada pelo preconceito que o trecho evidencia.`,
@@ -1699,17 +1473,11 @@ celulose, a combinação dos elementos verbais e não
 verbais visa`,
     images: ['/enem/2017/images/enem_2017_d1_q41.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `justificar os prejuízos ao meio ambiente, ao vincular a 
-empresa à difusão da cultura.` },
-      { id: 'B', type: 'text', value: `incentivar a leitura de obras literárias, ao referir-se a 
-títulos consagrados do acervo mundial.` },
-      { id: 'C', type: 'text', value: `seduzir o consumidor, ao relacionar o anunciante às 
-histórias clássicas da literatura universal.` },
-      { id: 'D', type: 'text', value: `promover uma reflexão sobre a preservação ambiental 
-ao aliar o desmatamento aos clássicos da literatura.` },
-      { id: 'E', type: 'text', value: `construir uma imagem positiva do anunciante, ao 
-associar a exploração alegadamente sustentável à 
-produção de livros.` },
+      { id: 'A', type: 'text', value: `justificar os prejuízos ao meio ambiente, ao vincular a empresa à difusão da cultura.` },
+      { id: 'B', type: 'text', value: `incentivar a leitura de obras literárias, ao referir-se a títulos consagrados do acervo mundial.` },
+      { id: 'C', type: 'text', value: `seduzir o consumidor, ao relacionar o anunciante às histórias clássicas da literatura universal.` },
+      { id: 'D', type: 'text', value: `promover uma reflexão sobre a preservação ambiental ao aliar o desmatamento aos clássicos da literatura.` },
+      { id: 'E', type: 'text', value: `construir uma imagem positiva do anunciante, ao associar a exploração alegadamente sustentável à produção de livros.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. No cartaz de uma empresa de papel e celulose, a combinação de elementos verbais e não verbais associa a atividade da empresa — apresentada como exploração sustentável — à produção de livros e à difusão da cultura, de modo a construir uma imagem positiva do anunciante (alternativa E). Não se trata de justificar prejuízos ambientais (A), incentivar a leitura em si (B), seduzir o consumidor por meio de histórias clássicas (C) ou promover reflexão sobre preservação aliando desmatamento à literatura (D); o objetivo é valorizar a marca pela associação a livros.`,
@@ -1746,20 +1514,11 @@ RACIONAIS MCs. Racionais MCs . São Paulo: Zimbabwue, 1994 (fragmento).
 A letra da canção apresenta uma realidade social quanto 
 à distribuição distinta dos espaços de lazer que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `retrata a ausência de opções de lazer para a população 
-de baixa renda, por falta de espaço adequado.` },
-      { id: 'B', type: 'text', value: `ressalta a irrelevância das opções de lazer para 
-diferentes classes sociais, que o acessam à sua 
-maneira.` },
-      { id: 'C', type: 'text', value: `expressa o desinteresse das classes sociais menos 
-favorecidas economicamente pelas atividades 
-de lazer.` },
-      { id: 'D', type: 'text', value: `implica condições desiguais de acesso ao lazer, 
-pela falta de infraestrutura e investimentos em 
-equipamentos.` },
-      { id: 'E', type: 'text', value: `aponta para o predomínio do lazer contemplativo, nas 
-classes favorecidas economicamente; e do prático, 
-nas menos favorecidas.` },
+      { id: 'A', type: 'text', value: `retrata a ausência de opções de lazer para a população de baixa renda, por falta de espaço adequado.` },
+      { id: 'B', type: 'text', value: `ressalta a irrelevância das opções de lazer para diferentes classes sociais, que o acessam à sua maneira.` },
+      { id: 'C', type: 'text', value: `expressa o desinteresse das classes sociais menos favorecidas economicamente pelas atividades de lazer.` },
+      { id: 'D', type: 'text', value: `implica condições desiguais de acesso ao lazer, pela falta de infraestrutura e investimentos em equipamentos.` },
+      { id: 'E', type: 'text', value: `aponta para o predomínio do lazer contemplativo, nas classes favorecidas economicamente; e do prático, nas menos favorecidas.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A canção dos Racionais MCs contrasta o lazer disponível às classes favorecidas — clube, quadra, campo, piscina e cinema — com a realidade da favela, onde o investimento no lazer é escasso e não há clube poliesportivo. Ela aponta condições desiguais de acesso ao lazer, pela falta de infraestrutura e investimentos em equipamentos (alternativa D). As alternativas A, B, C e E — mera ausência de espaço, irrelevância do lazer, desinteresse dos pobres e oposição entre lazer contemplativo e prático — não captam a crítica à desigualdade de acesso.`,
@@ -1857,9 +1616,7 @@ artístico que se caracterizava pela`,
       { id: 'B', type: 'text', value: `exploração insólita de elementos do cotidiano, dialogando com os ready-mades.` },
       { id: 'C', type: 'text', value: `repetição exaustiva de elementos visuais, levando à simplificação máxima da composição.` },
       { id: 'D', type: 'text', value: `incorporação das transformações tecnológicas, valorizando o dinamismo da vida moderna.` },
-      { id: 'E', type: 'text', value: `geometrização das formas, diluindo os detalhes sem se preocupar com a fidelidade ao real.
-DEMPSEY, A. Estilos, escolas e movimentos: guia enciclopédico da arte moderna.
-São Paulo: Cosac & Naify, 2003.` },
+      { id: 'E', type: 'text', value: `geometrização das formas, diluindo os detalhes sem se preocupar com a fidelidade ao real. DEMPSEY, A. Estilos, escolas e movimentos: guia enciclopédico da arte moderna. São Paulo: Cosac & Naify, 2003.` },
 
     ],
     correct: 'B',
@@ -1916,16 +1673,11 @@ A posição assumida pela Unesco, a partir de 1948, foi
 motivada por acontecimentos então recentes, dentre os 
 quais se destacava o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `ataque feito pelos japoneses à base militar americana 
-de Pearl Harbor.` },
-      { id: 'B', type: 'text', value: `desencadeamento da Guerra Fria e de novas 
-rivalidades entre nações.` },
-      { id: 'C', type: 'text', value: `morte de milhões de soldados nos combates da 
-Segunda Guerra Mundial.` },
-      { id: 'D', type: 'text', value: `execução de judeus e eslavos presos em guetos e 
-campos de concentração nazistas.` },
-      { id: 'E', type: 'text', value: `lançamento de bombas atômicas em Hiroshima e 
-Nagasaki pelas forças norte-americanas.` },
+      { id: 'A', type: 'text', value: `ataque feito pelos japoneses à base militar americana de Pearl Harbor.` },
+      { id: 'B', type: 'text', value: `desencadeamento da Guerra Fria e de novas rivalidades entre nações.` },
+      { id: 'C', type: 'text', value: `morte de milhões de soldados nos combates da Segunda Guerra Mundial.` },
+      { id: 'D', type: 'text', value: `execução de judeus e eslavos presos em guetos e campos de concentração nazistas.` },
+      { id: 'E', type: 'text', value: `lançamento de bombas atômicas em Hiroshima e Nagasaki pelas forças norte-americanas.` },
     ],
     correct: 'D',
     explanation: `A posição da Unesco em 1948, logo após a Declaração Universal dos Direitos Humanos, surgiu como reação ao horror recém-vivido na Segunda Guerra, quando doutrinas racistas foram usadas para justificar o extermínio em massa. O acontecimento que motivou diretamente a condenação científica do racismo foi o genocídio nazista de judeus e eslavos em guetos e campos de concentração, o que corresponde à alternativa D. O ataque a Pearl Harbor (A), a morte de soldados em combate (C) e as bombas de Hiroshima e Nagasaki (E) foram episódios bélicos sem relação direta com a tese da superioridade racial. O início da Guerra Fria (B) é posterior e não fundamenta o repúdio às doutrinas racistas que a Unesco buscava desqualificar.`,
@@ -1994,28 +1746,16 @@ uma de suas bases a`,
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `Art. 
-231. 
-São 
-reconhecidos 
-aos 
-índios 
-sua 
-organização 
-social, 
-costumes, 
-línguas, 
-crenças 
-e 
-tradições, e os direitos originários sobre as terras 
-que tradicionalmente ocupam, competindo à União 
-demarcá-las, proteger e fazer respeitar todos os 
-seus bens. 
-BRASIL. Constituição da República Federativa do Brasil de 1988. 
-Disponível em: www.planalto.gov.br. Acesso em: 27 abr. 2017. 
-A persistência das reivindicações relativas à aplicação 
-desse preceito normativo tem em vista a vinculação 
-histórica fundamental entre`,
+    text: `Art. 231. São reconhecidos aos índios sua organização social,
+costumes, línguas, crenças e tradições, e os direitos
+originários sobre as terras que tradicionalmente ocupam,
+competindo à União demarcá-las, proteger e fazer respeitar
+todos os seus bens. BRASIL. Constituição da República
+Federativa do Brasil de 1988. Disponível em:
+www.planalto.gov.br. Acesso em: 27 abr. 2017. A persistência
+das reivindicações relativas à aplicação desse preceito
+normativo tem em vista a vinculação histórica fundamental
+entre`,
     alternatives: [
       { id: 'A', type: 'text', value: `etnia e miscigenação racial.` },
       { id: 'B', type: 'text', value: `sociedade e igualdade jurídica.` },
@@ -2042,25 +1782,11 @@ A fotografia, datada de 1860, é um indício da cultura
 escravista no Brasil, ao expressar a`,
     images: ['/enem/2017/images/enem_2017_d1_q51.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `ambiguidade do trabalho doméstico exercido pela 
-ama de leite, desenvolvendo uma relação de 
-proximidade e subordinação em relação aos senhores.` },
-      { id: 'B', type: 'text', value: `integração dos escravos aos valores das classes médias, 
-cultivando a família como pilar da sociedade imperial.` },
-      { id: 'C', type: 'text', value: `melhoria das condições de vida dos escravos 
-observada pela roupa luxuosa, associando o trabalho 
-doméstico a privilégios para os cativos.` },
-      { id: 'D', type: 'text', value: `esfera da vida privada, centralizando a figura feminina 
-para afirmar o trabalho da mulher na educação letrada 
-dos infantes.` },
-      { id: 'E', type: 'text', value: `distinção 
-étnica 
-entre 
-senhores 
-e 
-escravos, 
-demarcando a convivência entre estratos sociais 
-como meio para superar a mestiçagem.` },
+      { id: 'A', type: 'text', value: `ambiguidade do trabalho doméstico exercido pela ama de leite, desenvolvendo uma relação de proximidade e subordinação em relação aos senhores.` },
+      { id: 'B', type: 'text', value: `integração dos escravos aos valores das classes médias, cultivando a família como pilar da sociedade imperial.` },
+      { id: 'C', type: 'text', value: `melhoria das condições de vida dos escravos observada pela roupa luxuosa, associando o trabalho doméstico a privilégios para os cativos.` },
+      { id: 'D', type: 'text', value: `esfera da vida privada, centralizando a figura feminina para afirmar o trabalho da mulher na educação letrada dos infantes.` },
+      { id: 'E', type: 'text', value: `distinção étnica entre senhores e escravos, demarcando a convivência entre estratos sociais como meio para superar a mestiçagem.` },
     ],
     correct: 'A',
     explanation: `A fotografia de 1860 retrata um menino branco ao lado de Mônica, sua ama de leite escravizada, registrando a intimidade cotidiana entre a cativa e a família senhorial. Essa cena expressa a ambiguidade do trabalho doméstico da ama de leite, que vivia ao mesmo tempo uma relação de proximidade afetiva e de clara subordinação aos senhores, o que corresponde à alternativa A. A suposta integração dos escravos aos valores das classes médias (B) e a melhoria de suas condições de vida sugerida pela roupa (C) idealizam falsamente a escravidão. A centralidade da mulher na educação letrada (D) e a demarcação étnica para superar a mestiçagem (E) não traduzem a relação de trabalho e dependência evidenciada na imagem.`,
@@ -2120,8 +1846,7 @@ para os países-membros`,
       { id: 'B', type: 'text', value: `fomentar a competitividade no mercado externo.` },
       { id: 'C', type: 'text', value: `restringir investimentos de empresas multinacionais.` },
       { id: 'D', type: 'text', value: `adotar medidas cambiais para subsidiar o setor agrícola.` },
-      { id: 'E', type: 'text', value: `reduzir a fiscalização alfandegária para incentivar o 
-consumo.` },
+      { id: 'E', type: 'text', value: `reduzir a fiscalização alfandegária para incentivar o consumo.` },
     ],
     correct: 'B',
     explanation: `A Aliança do Pacífico, formada por México, Colômbia, Peru e Chile, eliminou tarifas sobre a maior parte do comércio entre seus membros para integrar e fortalecer suas economias. O objetivo econômico central era ganhar escala e fomentar a competitividade no mercado externo, ampliando a inserção conjunta desses países no comércio internacional, o que corresponde à alternativa B. A livre circulação de trabalhadores (A) não era o foco do acordo, voltado às mercadorias. Restringir investimentos multinacionais (C) e reduzir a fiscalização para incentivar o consumo (E) contrariam a lógica de abertura comercial, e as medidas cambiais para subsidiar a agricultura (D) não constam do pacto descrito.`,
@@ -2224,22 +1949,16 @@ no texto seria a`,
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `A 
-diversidade 
-de 
-atividades 
-relacionadas 
-ao 
-setor terciário reforça a tendência mais geral de 
-desindustrialização de muitos dos países desenvolvidos 
-sem que estes, contudo, percam o comando da economia. 
-Essa mudança implica nova divisão internacional do 
-trabalho, que não é mais apoiada na clara segmentação 
-setorial das atividades econômicas. 
-RIO, G. A. P. A espacialidade da economia. In: CASTRO, I. E.; GOMES, P. C. C.; CORRÊA, 
-R. L. (Org.). Olhares geográficos : modos de ver e viver o espaço. Rio de Janeiro: 
- Bertrand Brasil, 2012 (adaptado). 
-Nesse contexto, o fenômeno descrito tem como um de 
+    text: `A diversidade de atividades relacionadas ao setor terciário
+reforça a tendência mais geral de desindustrialização de
+muitos dos países desenvolvidos sem que estes, contudo, percam
+o comando da economia. Essa mudança implica nova divisão
+internacional do trabalho, que não é mais apoiada na clara
+segmentação setorial das atividades econômicas. RIO, G. A. P.
+A espacialidade da economia. In: CASTRO, I. E.; GOMES, P. C.
+C.; CORRÊA, R. L. (Org.). Olhares geográficos : modos de ver e
+viver o espaço. Rio de Janeiro: Bertrand Brasil, 2012
+(adaptado). Nesse contexto, o fenômeno descrito tem como um de
 seus resultados a`,
     alternatives: [
       { id: 'A', type: 'text', value: `saturação do setor secundário.` },
@@ -2273,13 +1992,7 @@ demanda, simultaneamente,`,
       { id: 'B', type: 'text', value: `universalização de direitos e respeito à diversidade.` },
       { id: 'C', type: 'text', value: `segregação do território e estímulo ao autogoverno.` },
       { id: 'D', type: 'text', value: `políticas de compensação e homogeneização do idioma.` },
-      { id: 'E', type: 'text', value: `padronização 
-da 
-cultura 
-e 
-repressão 
-aos 
-particularismos.` },
+      { id: 'E', type: 'text', value: `padronização da cultura e repressão aos particularismos.` },
     ],
     correct: 'B',
     explanation: `O texto de Giddens observa que muitas sociedades se tornaram multiétnicas, seja por longa formação histórica, seja por migrações e legados coloniais. Para funcionar democraticamente, uma sociedade assim precisa, ao mesmo tempo, garantir direitos iguais a todos e respeitar as diferenças culturais, o que corresponde à alternativa B. A defesa do patriotismo com rejeição ao hibridismo (A) e a padronização da cultura com repressão aos particularismos (E) negam a diversidade. A segregação do território (C) e a homogeneização do idioma (D) contrariam a convivência democrática entre grupos distintos pretendida nesse modelo de sociedade.`,
@@ -2291,57 +2004,20 @@ particularismos.` },
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `Figura 1 
-50 
-ºC 
-mm 
-100 
-40 
-80 
-30 
-60 
-20 
-40 
-10 
-20 
-0 
-0 
-J 
-J 
-A 
-S 
-O 
-N 
-D 
-− 10 
-J 
-F 
-M 
-A 
-M 
-Temperatura 
-Taxa de pluviosidade 
-Figura 2 
-Moscou 
-Barcelona 
-Mumbai 
-Sydney 
-Cidade do Cabo 
-Disponível em: https://pt.climate-data.org. Acesso em: 12 maio 2017 (adaptado). 
-As temperaturas médias mensais e as taxas de 
-pluviosidade expressas no climograma apresentam o 
-clima típico da seguinte cidade:`,
+    text: `Figura 1 50 ºC mm 100 40 80 30 60 20 40 10 20 0 0 J J A S O N
+D − 10 J F M A M Temperatura Taxa de pluviosidade Figura 2
+Moscou Barcelona Mumbai Sydney Cidade do Cabo Disponível em:
+https://pt.climate-data.org. Acesso em: 12 maio 2017
+(adaptado). As temperaturas médias mensais e as taxas de
+pluviosidade expressas no climograma apresentam o clima típico
+da seguinte cidade:`,
     images: ['/enem/2017/images/enem_2017_d1_q59_1.jpg', '/enem/2017/images/enem_2017_d1_q59_2.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Cidade do Cabo (África do Sul), marcado pela 
-reduzida amplitude térmica anual.` },
-      { id: 'B', type: 'text', value: `Sydney (Austrália), caracterizado por precipitações 
-abundantes no decorrer do ano.` },
-      { id: 'C', type: 'text', value: `Mumbai (Índia), definido pelas chuvas monçônicas 
-torrenciais.` },
+      { id: 'A', type: 'text', value: `Cidade do Cabo (África do Sul), marcado pela reduzida amplitude térmica anual.` },
+      { id: 'B', type: 'text', value: `Sydney (Austrália), caracterizado por precipitações abundantes no decorrer do ano.` },
+      { id: 'C', type: 'text', value: `Mumbai (Índia), definido pelas chuvas monçônicas torrenciais.` },
       { id: 'D', type: 'text', value: `Barcelona (Espanha), afetado por massas de ar seco.` },
-      { id: 'E', type: 'text', value: `Moscou (Rússia), influenciado pela localização 
-geográfica em alta latitude.` },
+      { id: 'E', type: 'text', value: `Moscou (Rússia), influenciado pela localização geográfica em alta latitude.` },
     ],
     correct: 'E',
     explanation: `O climograma apresenta grande amplitude térmica anual, com temperaturas que chegam a valores negativos no inverno, e chuvas distribuídas de forma moderada, padrão típico de clima continental de latitudes elevadas. Essas características correspondem a Moscou, cidade influenciada pela localização em alta latitude, como afirma a alternativa E. Cidade do Cabo (A) e Sydney (B) têm clima ameno e reduzida amplitude térmica, incompatíveis com os invernos rigorosos mostrados. Mumbai (C) apresentaria chuvas monçônicas concentradas e temperaturas sempre elevadas, e Barcelona (D), de clima mediterrâneo, não registra as mínimas negativas do gráfico.`,
@@ -2368,10 +2044,8 @@ SEN, A. Desenvolvimento como liberdade . São Paulo: Cia. das Letras, 2010.
 A concepção de desenvolvimento proposta no texto 
 fundamenta-se no vínculo entre`,
     alternatives: [
-      { id: 'A', type: 'text', value: `incremento da indústria e atuação no mercado 
-financeiro.` },
-      { id: 'B', type: 'text', value: `criação de programas assistencialistas e controle de 
-preços.` },
+      { id: 'A', type: 'text', value: `incremento da indústria e atuação no mercado financeiro.` },
+      { id: 'B', type: 'text', value: `criação de programas assistencialistas e controle de preços.` },
       { id: 'C', type: 'text', value: `elevação da renda média e arrecadação de impostos.` },
       { id: 'D', type: 'text', value: `garantia da cidadania e ascensão econômica.` },
       { id: 'E', type: 'text', value: `ajuste de políticas econômicas e incentivos fiscais.` },
@@ -2395,14 +2069,11 @@ HOBSBAWM, E. Globalização, democracia e terrorismo . São Paulo: Cia. das Letr
 Um aspecto que explica a força dos Estados Unidos, 
 apontada pelo texto, reside no(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `poder de suas bases militares espalhadas ao redor do 
-mundo.` },
+      { id: 'A', type: 'text', value: `poder de suas bases militares espalhadas ao redor do mundo.` },
       { id: 'B', type: 'text', value: `alinhamento geopolítico da Rússia em relação aos EUA.` },
       { id: 'C', type: 'text', value: `política de expansionismo territorial exercida sobre Cuba.` },
-      { id: 'D', type: 'text', value: `aliança estratégica com países produtores de 
-petróleo, como Kuwait e Irã.` },
-      { id: 'E', type: 'text', value: `incorporação da China à Organização do Tratado 
-do Atlântico Norte (Otan).` },
+      { id: 'D', type: 'text', value: `aliança estratégica com países produtores de petróleo, como Kuwait e Irã.` },
+      { id: 'E', type: 'text', value: `incorporação da China à Organização do Tratado do Atlântico Norte (Otan).` },
     ],
     correct: 'A',
     explanation: `O texto de Hobsbawm destaca a força dos Estados Unidos na era pós-soviética, evidenciada na Guerra do Golfo e na reação ao 11 de Setembro. Essa força se explica pelo poder de suas bases militares espalhadas por todo o mundo, que asseguram capacidade de intervenção global, como afirma a alternativa A. O alinhamento da Rússia aos EUA (B) e a entrada da China na Otan (E) não ocorreram e distorcem o cenário geopolítico. O expansionismo territorial sobre Cuba (C) não corresponde ao período, e a aliança com Kuwait e Irã (D) é equivocada, já que o Irã era adversário dos Estados Unidos.`,
@@ -2431,10 +2102,8 @@ objetivavam`,
       { id: 'A', type: 'text', value: `flexibilizar as regras do mercado financeiro.` },
       { id: 'B', type: 'text', value: `fortalecer o sistema de tributação regressiva.` },
       { id: 'C', type: 'text', value: `introduzir os dispositivos de contenção creditícia.` },
-      { id: 'D', type: 'text', value: `racionalizar os custos da automação industrial 
-mediante negociação sindical.` },
-      { id: 'E', type: 'text', value: `recompor os mecanismos de acumulação econômica 
-por meio da intervenção estatal.` },
+      { id: 'D', type: 'text', value: `racionalizar os custos da automação industrial mediante negociação sindical.` },
+      { id: 'E', type: 'text', value: `recompor os mecanismos de acumulação econômica por meio da intervenção estatal.` },
     ],
     correct: 'E',
     explanation: `O New Deal, resposta à crise de 1929 no período entreguerras, buscava reequilibrar preços, salários e produção e reativar o mercado interno por meio do controle estatal da economia. Seu objetivo era recompor os mecanismos de acumulação econômica pela intervenção do Estado, retomando o crescimento e o emprego, o que corresponde à alternativa E. Flexibilizar o mercado financeiro (A) e introduzir a contenção creditícia (C) contrariam a lógica de regulação e estímulo adotada. O fortalecimento da tributação regressiva (B) e a racionalização dos custos da automação via negociação sindical (D) não traduzem as medidas de valorização salarial e regulação descritas no texto.`,
@@ -2490,12 +2159,9 @@ aspecto do pensamento moderno?`,
     alternatives: [
       { id: 'A', type: 'text', value: `A relação entre liberdade e autonomia do Liberalismo.` },
       { id: 'B', type: 'text', value: `A independência entre poder e moral do Racionalismo.` },
-      { id: 'C', type: 'text', value: `A convenção entre cidadãos e soberano do 
-Absolutismo.` },
-      { id: 'D', type: 'text', value: `A dialética entre indivíduo e governo autocrata do 
-Idealismo.` },
-      { id: 'E', type: 'text', value: `A contraposição entre bondade e condição selvagem 
-do Naturalismo.` },
+      { id: 'C', type: 'text', value: `A convenção entre cidadãos e soberano do Absolutismo.` },
+      { id: 'D', type: 'text', value: `A dialética entre indivíduo e governo autocrata do Idealismo.` },
+      { id: 'E', type: 'text', value: `A contraposição entre bondade e condição selvagem do Naturalismo.` },
     ],
     correct: 'A',
     explanation: `Rawls concebe a sociedade bem ordenada como aquela regulada por uma concepção pública de justiça aceita por todos, em que os indivíduos reconhecem regras comuns de conduta. Essa visão remete ao pensamento liberal moderno, que articula a liberdade individual com a autonomia dos sujeitos sob princípios de justiça consentidos, conforme a alternativa A. A independência entre poder e moral do Racionalismo (B) e a convenção com o soberano do Absolutismo (C) não correspondem à proposta rawlsiana. A dialética com o governo autocrata do Idealismo (D) e a contraposição à condição selvagem do Naturalismo (E) não traduzem a ideia de justiça pactuada entre cidadãos livres.`,
@@ -2523,8 +2189,7 @@ constitutivo das coisas” estava representado pelo(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `número, que fundamenta a criação dos deuses.` },
       { id: 'B', type: 'text', value: `devir, que simboliza o constante movimento dos objetos.` },
-      { id: 'C', type: 'text', value: `água, que expressa a causa material da origem 
-do universo.` },
+      { id: 'C', type: 'text', value: `água, que expressa a causa material da origem do universo.` },
       { id: 'D', type: 'text', value: `imobilidade, que sustenta a existência do ser atemporal.` },
       { id: 'E', type: 'text', value: `átomo, que explica o surgimento dos entes.` },
     ],
@@ -2567,25 +2232,19 @@ socrático, que se baseava na`,
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `A grande maioria dos países ocidentais democráticos 
-adotou o Tribunal Constitucional como mecanismo de 
-controle dos demais poderes. A inclusão dos Tribunais 
-no cenário político implicou alterações no cálculo para 
-a implementação de políticas públicas. O governo, 
-além de negociar seu plano político com o Parlamento, 
-teve que se preocupar em não infringir a Constituição. 
-Essa 
-nova 
-arquitetura 
-institucional 
-propiciou 
-o 
-desenvolvimento de um ambiente político que viabilizou a 
-participação do Judiciário nos processos decisórios. 
-CARVALHO, E. R. Revista de Sociologia e Politica , n. 23, nov. 2004 (adaptado). 
-O texto faz referência a uma importante mudança na 
-dinâmica de funcionamento dos Estados contemporâneos 
-que, no caso brasileiro, teve como consequência a`,
+    text: `A grande maioria dos países ocidentais democráticos adotou o
+Tribunal Constitucional como mecanismo de controle dos demais
+poderes. A inclusão dos Tribunais no cenário político implicou
+alterações no cálculo para a implementação de políticas
+públicas. O governo, além de negociar seu plano político com o
+Parlamento, teve que se preocupar em não infringir a
+Constituição. Essa nova arquitetura institucional propiciou o
+desenvolvimento de um ambiente político que viabilizou a
+participação do Judiciário nos processos decisórios. CARVALHO,
+E. R. Revista de Sociologia e Politica , n. 23, nov. 2004
+(adaptado). O texto faz referência a uma importante mudança na
+dinâmica de funcionamento dos Estados contemporâneos que, no
+caso brasileiro, teve como consequência a`,
     alternatives: [
       { id: 'A', type: 'text', value: `adoção de eleições para a alta magistratura.` },
       { id: 'B', type: 'text', value: `diminuição das tensões entre os entes federativos.` },
@@ -2741,28 +2400,21 @@ ao processo de`,
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `O fenômeno da mobilidade populacional vem, 
-desde as últimas décadas do século XX, apresentando 
-transformações significativas no seu comportamento, não 
-só no Brasil como também em outras partes do mundo. 
-Esses novos processos se materializam, entre outros 
-aspectos, na dimensão interna, pelo redirecionamento 
-dos fluxos migratórios para as cidades médias, em 
-detrimento 
-dos 
-grandes 
-centros 
-urbanos; 
-pelos 
-deslocamentos de curta duração e a distâncias menores; 
-pelos movimentos pendulares, que passam a assumir 
-maior relevância nas estratégias de sobrevivência, não 
-mais restritos aos grandes aglomerados urbanos. 
-OLIVEIRA, L. A. P.; OLIVEIRA, A. T. R. Reflexões sobre os deslocamentos populacionais 
-no Brasil . Rio de Janeiro: IBGE, 2011 (adaptado). 
-A redefinição dos fluxos migratórios internos no Brasil, 
-no período apontado no texto, tem como causa a 
-intensificação do processo de`,
+    text: `O fenômeno da mobilidade populacional vem, desde as últimas
+décadas do século XX, apresentando transformações
+significativas no seu comportamento, não só no Brasil como
+também em outras partes do mundo. Esses novos processos se
+materializam, entre outros aspectos, na dimensão interna, pelo
+redirecionamento dos fluxos migratórios para as cidades
+médias, em detrimento dos grandes centros urbanos; pelos
+deslocamentos de curta duração e a distâncias menores; pelos
+movimentos pendulares, que passam a assumir maior relevância
+nas estratégias de sobrevivência, não mais restritos aos
+grandes aglomerados urbanos. OLIVEIRA, L. A. P.; OLIVEIRA, A.
+T. R. Reflexões sobre os deslocamentos populacionais no Brasil
+. Rio de Janeiro: IBGE, 2011 (adaptado). A redefinição dos
+fluxos migratórios internos no Brasil, no período apontado no
+texto, tem como causa a intensificação do processo de`,
     alternatives: [
       { id: 'A', type: 'text', value: `descapitalização do setor primário.` },
       { id: 'B', type: 'text', value: `ampliação da economia informal.` },
@@ -2780,24 +2432,18 @@ intensificação do processo de`,
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `A participação da mulher no processo de decisão 
-política ainda é extremamente limitada em praticamente 
-todos 
-os 
-países, 
-independentemente 
-do 
-regime 
-econômico e social e da estrutura institucional vigente 
-em cada um deles. É fato público e notório, além de 
-empiricamente comprovado, que as mulheres estão em 
-geral sub-representadas nos órgãos do poder, pois a 
-proporção não corresponde jamais ao peso relativo dessa 
-parte da população. 
-TABAK, F. Mulheres publicas : participação política e poder. Rio de Janeiro: Letra Capital, 2002. 
-No âmbito do Poder Legislativo brasileiro, a tentativa de 
-reverter esse quadro de sub-representação tem envolvido 
-a implementação, pelo Estado, de`,
+    text: `A participação da mulher no processo de decisão política ainda
+é extremamente limitada em praticamente todos os países,
+independentemente do regime econômico e social e da estrutura
+institucional vigente em cada um deles. É fato público e
+notório, além de empiricamente comprovado, que as mulheres
+estão em geral sub-representadas nos órgãos do poder, pois a
+proporção não corresponde jamais ao peso relativo dessa parte
+da população. TABAK, F. Mulheres publicas : participação
+política e poder. Rio de Janeiro: Letra Capital, 2002. No
+âmbito do Poder Legislativo brasileiro, a tentativa de
+reverter esse quadro de sub-representação tem envolvido a
+implementação, pelo Estado, de`,
     alternatives: [
       { id: 'A', type: 'text', value: `leis de combate à violência doméstica.` },
       { id: 'B', type: 'text', value: `cotas de gênero nas candidaturas partidárias.` },
@@ -2835,10 +2481,8 @@ A mencionada resolução da ONU referendou o(a)`,
       { id: 'A', type: 'text', value: `delimitação institucional das fronteiras territoriais.` },
       { id: 'B', type: 'text', value: `aumento da qualidade de vida da população local.` },
       { id: 'C', type: 'text', value: `implementação do tratado de paz com os israelenses.` },
-      { id: 'D', type: 'text', value: `apoio da comunidade internacional à demanda 
-nacional.` },
-      { id: 'E', type: 'text', value: `equiparação da condição política com a dos demais 
-países.` },
+      { id: 'D', type: 'text', value: `apoio da comunidade internacional à demanda nacional.` },
+      { id: 'E', type: 'text', value: `equiparação da condição política com a dos demais países.` },
     ],
     correct: 'D',
     explanation: `O texto relata a aprovação, por ampla maioria na Assembleia-Geral da ONU, da resolução que elevou a Palestina à condição de Estado observador não membro. Esse resultado referendou o apoio da comunidade internacional à demanda nacional palestina por reconhecimento, conforme a alternativa D. A delimitação das fronteiras (A) e a equiparação com os demais países (E) não ocorreram, pois o status de observador não equivale ao de Estado-membro pleno. A melhoria da qualidade de vida local (B) e a implementação de um tratado de paz com Israel (C) não foram efeitos da resolução, que teve caráter simbólico e diplomático.`,
@@ -2881,28 +2525,13 @@ importância dos(as)`,
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `Figura 1 
-FORMAÇÃO DA BRISA MARINHA 
-ALTA PRESSÃO 
-BAIXA 
-PRESSÃO 
-MORNO 
-QUENTE 
-TERRA 
-MAR 
-Figura 2 
-FORMAÇÃO DO TERRAL 
-BAIXA 
-PRESSÃO 
-ALTA PRESSÃO 
-MORNO 
-FRIO 
-TERRA 
-MAR 
-SALGADO-LABOURIAU, M. L. História ecológica da Terra . 
-São Paulo: Edgard Blucher, 1994 (adaptado). 
-Nas imagens constam informações sobre a formação de 
-brisas em áreas litorâneas. Esse processo é resultado de`,
+    text: `Figura 1 FORMAÇÃO DA BRISA MARINHA ALTA PRESSÃO BAIXA PRESSÃO
+MORNO QUENTE TERRA MAR Figura 2 FORMAÇÃO DO TERRAL BAIXA
+PRESSÃO ALTA PRESSÃO MORNO FRIO TERRA MAR SALGADO-LABOURIAU,
+M. L. História ecológica da Terra . São Paulo: Edgard Blucher,
+1994 (adaptado). Nas imagens constam informações sobre a
+formação de brisas em áreas litorâneas. Esse processo é
+resultado de`,
     images: ['/enem/2017/images/enem_2017_d1_q77.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `uniformidade do gradiente de pressão atmosférica.` },
@@ -2934,16 +2563,11 @@ O controle sobre os meios de comunicação foi uma
 marca do Estado Novo, sendo fundamental à propaganda 
 política, na medida em que visava`,
     alternatives: [
-      { id: 'A', type: 'text', value: `conquistar o apoio popular na legitimação do novo 
-governo.` },
-      { id: 'B', type: 'text', value: `ampliar o envolvimento das multidões nas decisões 
-políticas.` },
-      { id: 'C', type: 'text', value: `aumentar a oferta de informações públicas para a 
-sociedade civil.` },
-      { id: 'D', type: 'text', value: `estender a participação democrática dos meios de 
-comunicação no Brasil.` },
-      { id: 'E', type: 'text', value: `alargar o entendimento da população sobre as 
-intenções do novo governo.` },
+      { id: 'A', type: 'text', value: `conquistar o apoio popular na legitimação do novo governo.` },
+      { id: 'B', type: 'text', value: `ampliar o envolvimento das multidões nas decisões políticas.` },
+      { id: 'C', type: 'text', value: `aumentar a oferta de informações públicas para a sociedade civil.` },
+      { id: 'D', type: 'text', value: `estender a participação democrática dos meios de comunicação no Brasil.` },
+      { id: 'E', type: 'text', value: `alargar o entendimento da população sobre as intenções do novo governo.` },
     ],
     correct: 'A',
     explanation: `O texto mostra que a propaganda do Estado Novo buscava empolgar e envolver as massas, importando menos o conteúdo das palavras do que o efeito produzido, como admitia Goebbels. O controle dos meios de comunicação servia, assim, para conquistar o apoio popular e legitimar o novo governo autoritário, conforme a alternativa A. Ampliar o envolvimento das multidões nas decisões (B) e estender a participação democrática (D) contrariam o caráter ditatorial do regime. Aumentar a oferta de informações públicas (C) e alargar o entendimento da população (E) opõem-se à manipulação propagandística descrita, voltada ao controle e não ao esclarecimento.`,
@@ -2955,52 +2579,30 @@ intenções do novo governo.` },
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `TEXTO I 
-Sólon é o primeiro nome grego que nos vem à 
-mente quando terra e dívida são mencionadas juntas. 
-Logo depois de 600 a.C., ele foi designado “legislador” 
-em Atenas, com poderes sem precedentes, porque a 
-exigência de redistribuição de terras e o cancelamento 
-das dívidas não podiam continuar bloqueados pela 
-oligarquia dos proprietários de terra por meio da força ou 
-de pequenas concessões. 
-FINLEY, M. Economia e sociedade na Grécia antiga . 
-São Paulo: WMF Martins Fontes, 2013 (adaptado). 
-TEXTO II 
-A “Lei das Doze Tábuas” se tornou um dos textos 
-fundamentais do direito romano, uma das principais 
-heranças romanas que chegaram até nós. A publicação 
-dessas leis, por volta de 450 a.C., foi importante, 
-pois o conhecimento das “regras do jogo” da vida 
-em sociedade é um instrumento favorável ao homem 
-comum e potencialmente limitador da hegemonia e 
-arbítrio dos poderosos. 
- FUNARI, P. P. Grécia e Roma . São Paulo: Contexto, 2011 (adaptado). 
-O 
-ponto 
-de 
-convergência 
-entre 
-as 
-realidades 
-sociopolíticas indicadas nos textos consiste na ideia de 
-que a`,
+    text: `TEXTO I Sólon é o primeiro nome grego que nos vem à mente
+quando terra e dívida são mencionadas juntas. Logo depois de
+600 a.C., ele foi designado “legislador” em Atenas, com
+poderes sem precedentes, porque a exigência de redistribuição
+de terras e o cancelamento das dívidas não podiam continuar
+bloqueados pela oligarquia dos proprietários de terra por meio
+da força ou de pequenas concessões. FINLEY, M. Economia e
+sociedade na Grécia antiga . São Paulo: WMF Martins Fontes,
+2013 (adaptado). TEXTO II A “Lei das Doze Tábuas” se tornou um
+dos textos fundamentais do direito romano, uma das principais
+heranças romanas que chegaram até nós. A publicação dessas
+leis, por volta de 450 a.C., foi importante, pois o
+conhecimento das “regras do jogo” da vida em sociedade é um
+instrumento favorável ao homem comum e potencialmente
+limitador da hegemonia e arbítrio dos poderosos. FUNARI, P. P.
+Grécia e Roma . São Paulo: Contexto, 2011 (adaptado). O ponto
+de convergência entre as realidades sociopolíticas indicadas
+nos textos consiste na ideia de que a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `discussão de preceitos formais estabeleceu a 
-democracia.` },
-      { id: 'B', type: 'text', value: `invenção de códigos jurídicos desarticulou as 
-aristocracias.` },
-      { id: 'C', type: 'text', value: `formulação de regulamentos oficiais instituiu as 
-sociedades.` },
-      { id: 'D', type: 'text', value: `definição de princípios morais encerrou os conflitos 
-de interesses.` },
-      { id: 'E', type: 'text', value: `criação 
-de 
-normas 
-coletivas 
-diminuiu 
-as 
-desigualdades de tratamento.` },
+      { id: 'A', type: 'text', value: `discussão de preceitos formais estabeleceu a democracia.` },
+      { id: 'B', type: 'text', value: `invenção de códigos jurídicos desarticulou as aristocracias.` },
+      { id: 'C', type: 'text', value: `formulação de regulamentos oficiais instituiu as sociedades.` },
+      { id: 'D', type: 'text', value: `definição de princípios morais encerrou os conflitos de interesses.` },
+      { id: 'E', type: 'text', value: `criação de normas coletivas diminuiu as desigualdades de tratamento.` },
     ],
     correct: 'E',
     explanation: `Os textos tratam das reformas de Sólon, em Atenas, e da Lei das Doze Tábuas, em Roma, ambas ligadas à publicação de regras que limitavam o arbítrio dos poderosos. O ponto de convergência é a ideia de que a criação de normas coletivas e conhecidas por todos diminuiu as desigualdades de tratamento, protegendo o homem comum, conforme a alternativa E. Afirmar que elas estabeleceram a democracia (A) ou instituíram as sociedades (C) é exagero, pois as sociedades já existiam e a democracia tinha outras bases. A invenção de códigos não desarticulou as aristocracias (B), e as leis não eram princípios morais que encerraram os conflitos de interesses (D).`,
@@ -3055,10 +2657,8 @@ por`,
       { id: 'A', type: 'text', value: `reclamar a participação das agremiações partidárias.` },
       { id: 'B', type: 'text', value: `apoiar a permanência da ditadura estadonovista.` },
       { id: 'C', type: 'text', value: `demandar a confirmação dos direitos trabalhistas.` },
-      { id: 'D', type: 'text', value: `reivindicar a transição constitucional sob influência 
-do governante.` },
-      { id: 'E', type: 'text', value: `resgatar a representatividade dos sindicatos sob 
-controle social.` },
+      { id: 'D', type: 'text', value: `reivindicar a transição constitucional sob influência do governante.` },
+      { id: 'E', type: 'text', value: `resgatar a representatividade dos sindicatos sob controle social.` },
     ],
     correct: 'D',
     explanation: `O texto, de 1945, retrata o fim do Estado Novo e a disputa entre Eduardo Gomes, Dutra e o apelo popular em torno de Getúlio Vargas, visto como o candidato próximo do povo. Trata-se do queremismo, movimento que reivindicava uma transição constitucional conduzida sob a influência do próprio Vargas, conforme a alternativa D. Reclamar a participação das agremiações partidárias (A) não traduz o apelo popular direto a Getúlio. Apoiar a permanência da ditadura estadonovista (B) e resgatar sindicatos sob controle social (E) não correspondem ao movimento, e a mera confirmação dos direitos trabalhistas (C) não capta sua pauta central, voltada à permanência política de Vargas.`,
@@ -3118,15 +2718,8 @@ da hierarquia católica de que o(a)`,
       { id: 'A', type: 'text', value: `luta de classes é estimulada pelo livre mercado.` },
       { id: 'B', type: 'text', value: `poder oligárquico é limitado pela ação do Exército.` },
       { id: 'C', type: 'text', value: `doutrina cristã é beneficiada pelo atraso do interior.` },
-      { id: 'D', type: 'text', value: `espaço 
-político 
-é 
-dominado 
-pelo 
-interesse 
-empresarial.` },
-      { id: 'E', type: 'text', value: `manipulação ideológica é favorecida pela privação 
-material.` },
+      { id: 'D', type: 'text', value: `espaço político é dominado pelo interesse empresarial.` },
+      { id: 'E', type: 'text', value: `manipulação ideológica é favorecida pela privação material.` },
     ],
     correct: 'E',
     explanation: `O texto mostra que a hierarquia católica apoiou o golpe de 1964 por acreditar que o desenvolvimento capitalista, com melhor distribuição de riqueza, resolveria a miséria rural e barraria o avanço comunista entre os camponeses. Esse raciocínio pressupunha que a manipulação ideológica, no caso o proselitismo comunista, é favorecida pela privação material, de modo que superar a pobreza enfraqueceria tal influência, conforme a alternativa E. Afirmar que a luta de classes é estimulada pelo livre mercado (A) inverte o argumento. Que a doutrina cristã se beneficia do atraso do interior (C) contraria o texto, e as leituras sobre o poder oligárquico limitado pelo Exército (B) e o domínio empresarial da política (D) não correspondem ao receio da Igreja diante da miséria.`,
@@ -3156,10 +2749,8 @@ com o texto, é uma condição para que isso aconteça o(a)`,
       { id: 'A', type: 'text', value: `participação direta periódica do cidadão.` },
       { id: 'B', type: 'text', value: `debate livre e racional entre cidadãos e Estado.` },
       { id: 'C', type: 'text', value: `interlocução entre os poderes governamentais.` },
-      { id: 'D', type: 'text', value: `eleição de lideranças políticas com mandatos 
-temporários.` },
-      { id: 'E', type: 'text', value: `controle do poder político por cidadãos mais 
-esclarecidos.` },
+      { id: 'D', type: 'text', value: `eleição de lideranças políticas com mandatos temporários.` },
+      { id: 'E', type: 'text', value: `controle do poder político por cidadãos mais esclarecidos.` },
     ],
     correct: 'B',
     explanation: `Para Habermas, a legitimidade democrática depende de um processo deliberativo, em que as decisões políticas resultam de ampla discussão pública antes de serem tomadas. A condição para que esse modelo favoreça a inclusão social é o debate livre e racional entre cidadãos e Estado, conforme a alternativa B. A participação direta periódica (A) e a eleição de lideranças com mandatos temporários (D) remetem a procedimentos eleitorais, não ao núcleo deliberativo. A interlocução apenas entre os poderes (C) restringe o debate ao âmbito institucional, e o controle por cidadãos mais esclarecidos (E) contraria o caráter aberto e igualitário da discussão pública defendida pelo autor.`,
@@ -3186,16 +2777,11 @@ KANT, I. Fundamentação da metafísica dos costumes . São Paulo: Abril Cultura
 De acordo com a moral kantiana, a “falsa promessa de 
 pagamento” representada no texto`,
     alternatives: [
-      { id: 'A', type: 'text', value: `assegura que a ação seja aceita por todos a partir da 
-livre discussão participativa.` },
-      { id: 'B', type: 'text', value: `garante que os efeitos das ações não destruam a 
-possibilidade da vida futura na terra.` },
-      { id: 'C', type: 'text', value: `opõe-se ao princípio de que toda ação do homem 
-possa valer como norma universal.` },
-      { id: 'D', type: 'text', value: `materializa-se no entendimento de que os ﬁ ns da 
-ação humana podem justiﬁ car os meios.` },
-      { id: 'E', type: 'text', value: `permite que a ação individual produza a mais ampla 
-felicidade para as pessoas envolvidas.` },
+      { id: 'A', type: 'text', value: `assegura que a ação seja aceita por todos a partir da livre discussão participativa.` },
+      { id: 'B', type: 'text', value: `garante que os efeitos das ações não destruam a possibilidade da vida futura na terra.` },
+      { id: 'C', type: 'text', value: `opõe-se ao princípio de que toda ação do homem possa valer como norma universal.` },
+      { id: 'D', type: 'text', value: `materializa-se no entendimento de que os ﬁ ns da ação humana podem justiﬁ car os meios.` },
+      { id: 'E', type: 'text', value: `permite que a ação individual produza a mais ampla felicidade para as pessoas envolvidas.` },
     ],
     correct: 'C',
     explanation: `No exemplo kantiano, a pessoa faz uma promessa de pagamento que sabe não poder cumprir, adotando a máxima de mentir sempre que estiver em apuros. Pela moral de Kant, essa falsa promessa é imoral porque não pode ser universalizada: se todos agissem assim, a própria instituição da promessa ruiria, de modo que a ação se opõe ao princípio de que toda conduta possa valer como norma universal, conforme a alternativa C. Assegurar a aceitação por livre discussão (A) remete a Habermas, e garantir a vida futura (B) a Hans Jonas. O entendimento de que os fins justificam os meios (D) e a busca da maior felicidade possível (E) contrariam a ética do dever kantiana, que não avalia a ação por suas consequências.`,
@@ -3223,18 +2809,11 @@ No texto, destaca-se um tipo de evento geológico
 frequente em determinadas partes da superfície terrestre. 
 Esses eventos estão concentrados em`,
     alternatives: [
-      { id: 'A', type: 'text', value: `áreas vulcânicas, onde o material magmático se 
-eleva, formando cordilheiras.` },
-      { id: 'B', type: 'text', value: `faixas costeiras, onde o assoalho oceânico recebe 
-sedimentos, provocando tsunamis.` },
-      { id: 'C', type: 'text', value: `estreitas faixas de intensidade sísmica, no contato das 
-placas tectônicas, próximas a dobramentos modernos.` },
-      { id: 'D', type: 'text', value: `escudos cristalinos, onde as rochas são submetidas 
-aos processos de intemperismo, com alterações 
-bruscas de temperatura.` },
-      { id: 'E', type: 'text', value: `áreas de bacias sedimentares antigas, localizadas no 
-centro das placas tectônicas, em regiões conhecidas 
-como pontos quentes.` },
+      { id: 'A', type: 'text', value: `áreas vulcânicas, onde o material magmático se eleva, formando cordilheiras.` },
+      { id: 'B', type: 'text', value: `faixas costeiras, onde o assoalho oceânico recebe sedimentos, provocando tsunamis.` },
+      { id: 'C', type: 'text', value: `estreitas faixas de intensidade sísmica, no contato das placas tectônicas, próximas a dobramentos modernos.` },
+      { id: 'D', type: 'text', value: `escudos cristalinos, onde as rochas são submetidas aos processos de intemperismo, com alterações bruscas de temperatura.` },
+      { id: 'E', type: 'text', value: `áreas de bacias sedimentares antigas, localizadas no centro das placas tectônicas, em regiões conhecidas como pontos quentes.` },
     ],
     correct: 'C',
     explanation: `O terremoto que atingiu o Chile e deslocou cidades evidencia a atividade sísmica concentrada na borda ocidental da América do Sul. Esses eventos ocorrem em estreitas faixas de intensidade sísmica, situadas no contato entre placas tectônicas e próximas a dobramentos modernos, como os Andes, conforme a alternativa C. As áreas vulcânicas que formam cordilheiras (A) e as faixas costeiras com sedimentação (B) não definem corretamente a origem dos terremotos. Os escudos cristalinos (D) e as bacias sedimentares no centro das placas (E) são áreas estáveis, onde a sismicidade é reduzida.`,
@@ -3246,40 +2825,10 @@ como pontos quentes.` },
     exam: 'enem',
     year: 2017,
     day: 1,
-    text: `Figura 1 
-Mínimas - Quinta-feira 
-CPTEC/INPE 
-28/08/2014 
-24º 
-23º 
-22º 
-24º 
-23º 
-18º 
-24º 
-22º 
-21º 
-22º 
-18º 
-23º 
-22º 
-22º 
-17º 
-17º 
-19º 
-11º 
-20º 
-19º 
-11º 
-4º 
-9º 
-4º 
-Disponível em: http://img0.cptec.inpe.br. Acesso em: 25 ago. 2014 (adaptado). 
- 
-Disponível em: http://imagens.climatempo.com.br. Acesso em: 25 ago. 2014 (adaptado). 
-No dia em que foram colhidos os dados meteorológicos 
-apresentados, qual fator climático foi determinante para 
-explicar os índices de umidade relativa do ar nas regiões 
+    text: `Disponível em: http://imagens.climatempo.com.br. Acesso em: 25 ago. 2014 (adaptado).
+No dia em que foram colhidos os dados meteorológicos
+apresentados, qual fator climático foi determinante para
+explicar os índices de umidade relativa do ar nas regiões
 Nordeste e Sul?`,
     images: ['/enem/2017/images/enem_2017_d1_q87_1.jpg', '/enem/2017/images/enem_2017_d1_q87_2.jpg'],
     alternatives: [
@@ -3287,12 +2836,7 @@ Nordeste e Sul?`,
       { id: 'B', type: 'text', value: `Vegetação, que afeta a incidência solar.` },
       { id: 'C', type: 'text', value: `Massas de ar, que provocam precipitações.` },
       { id: 'D', type: 'text', value: `Correntes marítimas, que atuam na troca de calor.` },
-      { id: 'E', type: 'text', value: `Continentalidade, 
-que 
-infl uencia 
-na 
-amplitude 
-da temperatura.` },
+      { id: 'E', type: 'text', value: `Continentalidade, que infl uencia na amplitude da temperatura.` },
     ],
     correct: 'C',
     explanation: `Os mapas mostram, no mesmo dia, temperaturas mínimas e índices de umidade distintos entre o Nordeste e o Sul do país. O fator que explica essas diferenças é a atuação das massas de ar, que, ao avançarem, provocam precipitações e alteram a umidade relativa em cada região, conforme a alternativa C. A altitude (A) e a continentalidade (E) influem na temperatura, mas não explicam a variação de umidade naquele dia específico. A vegetação (B) não determina a incidência solar da forma sugerida, e as correntes marítimas (D) atuam de modo mais permanente, não respondendo pela dinâmica diária da umidade descrita.`,
@@ -3328,16 +2872,11 @@ ARISTÓTELES. Ética a Nicômaco. In: Pensadores . São Paulo: Nova Cultural, 19
 Para Aristóteles, a relação entre o sumo bem e a 
 organização da pólis pressupõe que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o bem dos indivíduos consiste em cada um perseguir 
-seus interesses.` },
-      { id: 'B', type: 'text', value: `o sumo bem é dado pela fé de que os deuses são os 
-portadores da verdade.` },
-      { id: 'C', type: 'text', value: `a política é a ciência que precede todas as demais na 
-organização da cidade.` },
-      { id: 'D', type: 'text', value: `a educação visa formar a consciência de cada pessoa 
-para agir corretamente.` },
-      { id: 'E', type: 'text', value: `a democracia protege as atividades políticas 
-necessárias para o bem comum.` },
+      { id: 'A', type: 'text', value: `o bem dos indivíduos consiste em cada um perseguir seus interesses.` },
+      { id: 'B', type: 'text', value: `o sumo bem é dado pela fé de que os deuses são os portadores da verdade.` },
+      { id: 'C', type: 'text', value: `a política é a ciência que precede todas as demais na organização da cidade.` },
+      { id: 'D', type: 'text', value: `a educação visa formar a consciência de cada pessoa para agir corretamente.` },
+      { id: 'E', type: 'text', value: `a democracia protege as atividades políticas necessárias para o bem comum.` },
     ],
     correct: 'C',
     explanation: `Aristóteles afirma que há um fim supremo, o sumo bem, e que a política, por determinar quais ciências devem ser estudadas e por legislar sobre o agir, subordina as demais faculdades. Assim, na organização da pólis, a política é a ciência que precede todas as outras, pois sua finalidade abrange o bem humano coletivo, conforme a alternativa C. Reduzir o bem à busca de interesses individuais (A) contraria a dimensão coletiva do texto. Fundar o sumo bem na fé nos deuses (B), na educação da consciência individual (D) ou na proteção democrática das atividades (E) não corresponde à primazia da política afirmada por Aristóteles.`,
@@ -3360,10 +2899,8 @@ São Paulo: Paulus, 2003 (adaptado).
 Do ponto de vista comercial, o avanço das novas 
 tecnologias, indicado no texto, está associado à`,
     alternatives: [
-      { id: 'A', type: 'text', value: `atuação dos consumidores como fiscalizadores da 
-produção.` },
-      { id: 'B', type: 'text', value: `exigência de consumidores conscientes de seus 
-direitos.` },
+      { id: 'A', type: 'text', value: `atuação dos consumidores como fiscalizadores da produção.` },
+      { id: 'B', type: 'text', value: `exigência de consumidores conscientes de seus direitos.` },
       { id: 'C', type: 'text', value: `relação direta entre fabricantes e consumidores.` },
       { id: 'D', type: 'text', value: `individualização das mensagens publicitárias.` },
       { id: 'E', type: 'text', value: `manutenção das preferências de consumo.` },
@@ -3392,14 +2929,8 @@ Elaborada em 1969, a releitura contida na Figura 2 revela
 aspectos de uma trajetória e obra dedicadas à`,
     images: ['/enem/2017/images/enem_2017_d1_q90.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `valorização de uma representação tradicional da 
-mulher.` },
-      { id: 'B', type: 'text', value: `descaracterização 
-de 
-referências 
-do 
-folclore 
-nordestino.` },
+      { id: 'A', type: 'text', value: `valorização de uma representação tradicional da mulher.` },
+      { id: 'B', type: 'text', value: `descaracterização de referências do folclore nordestino.` },
       { id: 'C', type: 'text', value: `fusão de elementos brasileiros à moda da Europa.` },
       { id: 'D', type: 'text', value: `massificação do consumo de uma arte local.` },
       { id: 'E', type: 'text', value: `criação de uma estética de resistência.` },
@@ -3425,8 +2956,7 @@ Antes de viajar, turistas geralmente buscam informações sobre o local para ond
       { id: 'B', type: 'text', value: `informa hábitos religiosos para auxiliar turistas a entenderem as diferenças culturais.` },
       { id: 'C', type: 'text', value: `divulga os principais pontos turísticos para ajudar turistas a planejarem sua viagem.` },
       { id: 'D', type: 'text', value: `recomenda medidas de segurança para alertar turistas sobre possíveis riscos locais.` },
-      { id: 'E', type: 'text', value: `apresenta aspectos gerais da cultura do país para
-continuar a atrair turistas estrangeiros.` },
+      { id: 'E', type: 'text', value: `apresenta aspectos gerais da cultura do país para continuar a atrair turistas estrangeiros.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O guia de viagem apresenta Israel por meio de vários aspectos gerais — história, sítios ligados à Bíblia, praias, ecoturismo e, sobretudo, a diversidade de sua população —, com o propósito de continuar a atrair turistas estrangeiros (alternativa E). Não se limita a descrever a história para valorizar costumes milenares (A), nem informa hábitos religiosos (B), divulga apenas os principais pontos turísticos (C) ou recomenda medidas de segurança contra riscos (D) — ao contrário, afirma que a maioria dos locais é segura e acessível.`,

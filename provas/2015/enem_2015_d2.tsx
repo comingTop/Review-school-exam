@@ -22,16 +22,11 @@ sobre o plantio da cana-de-açúcar na América Latina, as
 preposições junto, sobre e bajo são usadas para indicar 
 metaforicamente`,
     alternatives: [
-      { id: 'A', type: 'text', value: `desordens na organização da lavoura de cana-de- 
-açúcar.` },
-      { id: 'B', type: 'text', value: `relações diplomáticas entre os países produtores 
-de cana-de-açúcar.` },
-      { id: 'C', type: 'text', value: `localidades da América Latina nas quais a cana-de- 
-açúcar é cultivada.` },
-      { id: 'D', type: 'text', value: `relações sociais dos indivíduos que vivem do plantio 
-da cana-de-açúcar.` },
-      { id: 'E', type: 'text', value: `funções particulares de cada profissional na lavoura 
-da cana-de-açúcar.` },
+      { id: 'A', type: 'text', value: `desordens na organização da lavoura de cana-de-açúcar.` },
+      { id: 'B', type: 'text', value: `relações diplomáticas entre os países produtores de cana-de-açúcar.` },
+      { id: 'C', type: 'text', value: `localidades da América Latina nas quais a cana-de-açúcar é cultivada.` },
+      { id: 'D', type: 'text', value: `relações sociais dos indivíduos que vivem do plantio da cana-de-açúcar.` },
+      { id: 'E', type: 'text', value: `funções particulares de cada profissional na lavoura da cana-de-açúcar.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. No poema “Caña”, de Nicolás Guillén, as preposições junto, sobre e bajo situam, respectivamente, o negro, o yanqui e a terra em relação ao canavial. Mais do que marcar posições físicas, elas organizam metaforicamente a hierarquia do cultivo: o trabalhador negro ao pé do canavial, o estrangeiro explorador acima e a terra espoliada embaixo. Assim, as preposições indicam as relações sociais dos indivíduos que vivem do plantio da cana-de-açúcar (alternativa D). As demais opções associam os termos a desordens da lavoura, relações diplomáticas, localidades ou funções profissionais, sentidos que o poema não sustenta.`,
@@ -72,8 +67,7 @@ como uma oportunidade para`,
       { id: 'B', type: 'text', value: `evidenciar as eficazes ações do governo.` },
       { id: 'C', type: 'text', value: `camuflar a violência de gênero existente no país.` },
       { id: 'D', type: 'text', value: `atenuar os maus-tratos cometidos por alguns homens.` },
-      { id: 'E', type: 'text', value: `enaltecer o sucesso das campanhas de conscientização 
-feminina.` },
+      { id: 'E', type: 'text', value: `enaltecer o sucesso das campanhas de conscientização feminina.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto peruano celebra o dia do amor e da amizade, mas lembra que, apesar da data, persistem muitos casos de maltrato contra a mulher, por isso o Ministério lança uma campanha de conscientização. Ao chamar a comemoração de “puro floro” (pura aparência, conversa vazia), o autor sugere que festejar o amor sem enfrentar a violência apenas disfarça o problema real. A expressão revela, portanto, a crítica de que a data pode servir para camuflar a violência de gênero existente no país (alternativa C). As demais opções valorizam o governo e as campanhas ou atenuam os maus-tratos, contrariando o tom crítico do texto.`,
@@ -148,15 +142,9 @@ representar o(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `patrimônio histórico-geográfico que a área abriga.` },
       { id: 'B', type: 'text', value: `diversidade turística que atrai estrangeiros.` },
-      { id: 'C', type: 'text', value: `prosperidade econômica que advém de diferentes 
-segmentos comerciais.` },
-      { id: 'D', type: 'text', value: `multiculturalidade 
-característica 
-da 
-identidade 
-hispano-americana.` },
-      { id: 'E', type: 'text', value: `valorização da cultura indígena observada entre as 
-comunidades locais.` },
+      { id: 'C', type: 'text', value: `prosperidade econômica que advém de diferentes segmentos comerciais.` },
+      { id: 'D', type: 'text', value: `multiculturalidade característica da identidade hispano-americana.` },
+      { id: 'E', type: 'text', value: `valorização da cultura indígena observada entre as comunidades locais.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto “Atitlán” descreve a região do lago homônimo, na Guatemala, onde convivem as culturas indígena, espanhola e mestiça, além de hippies, comerciantes e estrangeiros de todo o mundo. O autor conclui que ali há um verdadeiro mosaico de etnias e culturas, símbolo e reflexo da Hispanoamérica. A relevância social do entorno do lago está, portanto, em representar a multiculturalidade característica da identidade hispano-americana (alternativa D). As demais opções reduzem essa importância ao patrimônio histórico-geográfico, ao turismo, à prosperidade comercial ou apenas à cultura indígena.`,
@@ -197,14 +185,10 @@ todas as falas em espanhol são legendadas em inglês.
 Esse fato revela a`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `assimetria no tratamento do espanhol como elemento 
-da diversidade linguística nos Estados Unidos.` },
-      { id: 'B', type: 'text', value: `escassez de personagens de origem hispânica nas 
-séries e filmes produzidos nos Estados Unidos.` },
-      { id: 'C', type: 'text', value: `desconsideração com o público hispânico que frequenta 
-as salas de cinema norte-americanas.` },
-      { id: 'D', type: 'text', value: `falta de uma formação linguística específica para os 
-roteiristas e tradutores norte-americanos.` },
+      { id: 'A', type: 'text', value: `assimetria no tratamento do espanhol como elemento da diversidade linguística nos Estados Unidos.` },
+      { id: 'B', type: 'text', value: `escassez de personagens de origem hispânica nas séries e filmes produzidos nos Estados Unidos.` },
+      { id: 'C', type: 'text', value: `desconsideração com o público hispânico que frequenta as salas de cinema norte-americanas.` },
+      { id: 'D', type: 'text', value: `falta de uma formação linguística específica para os roteiristas e tradutores norte-americanos.` },
       { id: 'E', type: 'text', value: `carência de pesquisas científicas sobre a influência do espanhol na cultura norte-americana.` },
     ],
     correct: 'A',
@@ -230,16 +214,11 @@ relação entre imprensa, cidadania, informação e opinião.
 Sobre essa relação, depreende-se do texto da ABI que,`,
     images: ['/enem/2015/images/enem_2015_d2_q96.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `para a imprensa exercer seu papel social, ela deve 
-transformar opinião em informação.` },
-      { id: 'B', type: 'text', value: `para a imprensa democratizar a opinião, ela deve 
-selecionar a informação.` },
-      { id: 'C', type: 'text', value: `para o cidadão expressar sua opinião, ele deve 
-democratizar a informação.` },
-      { id: 'D', type: 'text', value: `para a imprensa gerar informação, ela deve 
-fundamentar-se em opinião.` },
-      { id: 'E', type: 'text', value: `para o cidadão formar sua opinião, ele deve ter 
-acesso à informação.` },
+      { id: 'A', type: 'text', value: `para a imprensa exercer seu papel social, ela deve transformar opinião em informação.` },
+      { id: 'B', type: 'text', value: `para a imprensa democratizar a opinião, ela deve selecionar a informação.` },
+      { id: 'C', type: 'text', value: `para o cidadão expressar sua opinião, ele deve democratizar a informação.` },
+      { id: 'D', type: 'text', value: `para a imprensa gerar informação, ela deve fundamentar-se em opinião.` },
+      { id: 'E', type: 'text', value: `para o cidadão formar sua opinião, ele deve ter acesso à informação.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. A peça da Associação Brasileira de Imprensa combina a imagem de uma cabeça e o enunciado “se a informação não chega, a opinião não sai”, abordando a relação entre imprensa, cidadania, informação e opinião. A ideia central é que a formação da opinião depende do acesso à informação garantido pela imprensa. Depreende-se, portanto, que, para o cidadão formar sua opinião, ele deve ter acesso à informação (alternativa E). As demais opções invertem essa relação, atribuindo à imprensa transformar opinião em informação ou ao cidadão democratizar a informação, o que não corresponde à mensagem.`,
@@ -267,13 +246,10 @@ o break se caracteriza como um tipo de dança que representa
 aspectos contemporâneos por meio de movimentos`,
     alternatives: [
       { id: 'A', type: 'text', value: `retilíneos, como crítica aos indivíduos alienados.` },
-      { id: 'B', type: 'text', value: `improvisados, como expressão da dinâmica da vida 
-urbana.` },
+      { id: 'B', type: 'text', value: `improvisados, como expressão da dinâmica da vida urbana.` },
       { id: 'C', type: 'text', value: `suaves, como sinônimo da rotina dos espaços públicos.` },
-      { id: 'D', type: 'text', value: `ritmados pela sola dos sapatos, como símbolo 
-de protesto.` },
-      { id: 'E', type: 'text', value: `cadenciados, como contestação às rápidas mudanças 
-culturais.` },
+      { id: 'D', type: 'text', value: `ritmados pela sola dos sapatos, como símbolo de protesto.` },
+      { id: 'E', type: 'text', value: `cadenciados, como contestação às rápidas mudanças culturais.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto explica que o hip hop reúne o rap, o break dancing e o grafite, todos nascidos nas ruas e nos guetos de Nova York como expressões culturais dos jovens. O break surge como dança de rua, marcada por movimentos espontâneos e criados no momento. Entre as manifestações citadas, o break caracteriza-se, assim, por movimentos improvisados, como expressão da dinâmica da vida urbana (alternativa B). As demais opções descrevem movimentos retilíneos, suaves, ritmados pela sola dos sapatos ou cadenciados, que não correspondem à natureza da dança.`,
@@ -303,16 +279,11 @@ configura um painel evolutivo da história da humanidade.
 Nele, a projeção do olhar contemporâneo manifesta uma 
 percepção que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `recorre à tradição bíblica como fonte de inspiração 
-para a humanidade.` },
-      { id: 'B', type: 'text', value: `desconstrói o discurso da filosofia a fim de questionar 
-o conceito de dever.` },
-      { id: 'C', type: 'text', value: `resgata a metodologia da história para denunciar as 
-atitudes irracionais.` },
-      { id: 'D', type: 'text', value: `transita entre o humor e a ironia para celebrar o caos 
-da vida cotidiana.` },
-      { id: 'E', type: 'text', value: `satiriza a matemática e a medicina para desmistificar 
-o saber científico.` },
+      { id: 'A', type: 'text', value: `recorre à tradição bíblica como fonte de inspiração para a humanidade.` },
+      { id: 'B', type: 'text', value: `desconstrói o discurso da filosofia a fim de questionar o conceito de dever.` },
+      { id: 'C', type: 'text', value: `resgata a metodologia da história para denunciar as atitudes irracionais.` },
+      { id: 'D', type: 'text', value: `transita entre o humor e a ironia para celebrar o caos da vida cotidiana.` },
+      { id: 'E', type: 'text', value: `satiriza a matemática e a medicina para desmistificar o saber científico.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto de Fernando Bonassi condensa, em poucas linhas, um painel irônico da história da humanidade, do homem nu ao surgimento do fogo, da filosofia, dos números e da História, sempre com tom bem-humorado e crítico. A projeção do olhar contemporâneo sobre esse percurso evidencia o caráter desordenado e absurdo da existência. A narrativa, portanto, transita entre o humor e a ironia para celebrar o caos da vida cotidiana (alternativa D). As demais opções apontam valorização da tradição bíblica, desconstrução da filosofia, resgate da metodologia histórica ou sátira à ciência, leituras que não abrangem o conjunto do texto.`,
@@ -324,40 +295,22 @@ o saber científico.` },
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `cântico VI 
-Tu tens um medo de 
-Acabar. 
-Não vês que acabas todo o dia. 
-Que morres no amor. 
-Na tristeza. 
-Na dúvida. 
-No desejo. 
-Que te renovas todo dia. 
-No amor. 
-Na tristeza. 
-Na dúvida. 
-No desejo. 
-Que és sempre outro. 
-Que és sempre o mesmo. 
-Que morrerás por idades imensas. 
-Até não teres medo de morrer. 
-E então serás eterno. 
-MEIRELES, C. Antologia poética . Rio de Janeiro: Record, 1963 (fragmento). 
-A poesia de Cecília Meireles revela concepções sobre o 
-homem em seu aspecto existencial. Em Cântico VI , o eu 
-lírico exorta seu interlocutor a perceber, como inerente à 
-condição humana,`,
+    text: `cântico VI Tu tens um medo de Acabar. Não vês que acabas todo
+o dia. Que morres no amor. Na tristeza. Na dúvida. No desejo.
+Que te renovas todo dia. No amor. Na tristeza. Na dúvida. No
+desejo. Que és sempre outro. Que és sempre o mesmo. Que
+morrerás por idades imensas. Até não teres medo de morrer. E
+então serás eterno. MEIRELES, C. Antologia poética . Rio de
+Janeiro: Record, 1963 (fragmento). A poesia de Cecília
+Meireles revela concepções sobre o homem em seu aspecto
+existencial. Em Cântico VI , o eu lírico exorta seu
+interlocutor a perceber, como inerente à condição humana,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a sublimação espiritual graças ao poder de se 
-emocionar.` },
-      { id: 'B', type: 'text', value: `o desalento irremediável em face do cotidiano 
-repetitivo.` },
-      { id: 'C', type: 'text', value: `o questionamento cético sobre o rumo das atitudes 
-humanas.` },
-      { id: 'D', type: 'text', value: `a vontade inconsciente de perpetuar-se em estado 
-adolescente.` },
-      { id: 'E', type: 'text', value: `um receio ancestral de confrontar a imprevisibilidade 
-das coisas.` },
+      { id: 'A', type: 'text', value: `a sublimação espiritual graças ao poder de se emocionar.` },
+      { id: 'B', type: 'text', value: `o desalento irremediável em face do cotidiano repetitivo.` },
+      { id: 'C', type: 'text', value: `o questionamento cético sobre o rumo das atitudes humanas.` },
+      { id: 'D', type: 'text', value: `a vontade inconsciente de perpetuar-se em estado adolescente.` },
+      { id: 'E', type: 'text', value: `um receio ancestral de confrontar a imprevisibilidade das coisas.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Em “Cântico VI”, Cecília Meireles mostra que o ser humano teme acabar, mas se renova a cada dia no amor, na tristeza, na dúvida e no desejo, até alcançar uma espécie de eternidade. O eu lírico exorta o interlocutor a perceber essa capacidade de recomeço como algo inerente à condição humana. Essa percepção decorre da sublimação espiritual alcançada graças ao poder de se emocionar (alternativa A). As demais opções associam o poema ao desalento, ao ceticismo, à perpetuação adolescente ou ao receio ancestral, sentidos que contrariam o tom afirmativo do texto.`,
@@ -393,10 +346,8 @@ comum na música popular. Observa-se, como marca da
 variedade coloquial da linguagem presente no texto, o 
 uso de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `palavras emprestadas de língua estrangeira, de uso 
-inusitado no português.` },
-      { id: 'B', type: 'text', value: `expressões populares, que reforçam a proximidade 
-entre o autor e o leitor.` },
+      { id: 'A', type: 'text', value: `palavras emprestadas de língua estrangeira, de uso inusitado no português.` },
+      { id: 'B', type: 'text', value: `expressões populares, que reforçam a proximidade entre o autor e o leitor.` },
       { id: 'C', type: 'text', value: `palavras polissêmicas, que geram ambiguidade.` },
       { id: 'D', type: 'text', value: `formas pronominais em primeira pessoa.` },
       { id: 'E', type: 'text', value: `repetições sonoras no final dos versos.` },
@@ -434,16 +385,11 @@ O trecho da canção de Toquinho e Vinícius de Moraes
 apresenta marcas do gênero textual carta, possibilitando 
 que o eu poético e o interlocutor`,
     alternatives: [
-      { id: 'A', type: 'text', value: `compartilhem uma visão realista sobre o amor em 
-sintonia com o meio urbano.` },
-      { id: 'B', type: 'text', value: `troquem notícias em tom nostálgico sobre as 
-mudanças ocorridas na cidade.` },
-      { id: 'C', type: 'text', value: `façam confidências, uma vez que não se encontram 
-mais no Rio de Janeiro.` },
-      { id: 'D', type: 'text', value: `tratem pragmaticamente sobre os destinos do amor e 
-da vida citadina.` },
-      { id: 'E', type: 'text', value: `aceitem as transformações ocorridas em pontos 
-turísticos específicos.` },
+      { id: 'A', type: 'text', value: `compartilhem uma visão realista sobre o amor em sintonia com o meio urbano.` },
+      { id: 'B', type: 'text', value: `troquem notícias em tom nostálgico sobre as mudanças ocorridas na cidade.` },
+      { id: 'C', type: 'text', value: `façam confidências, uma vez que não se encontram mais no Rio de Janeiro.` },
+      { id: 'D', type: 'text', value: `tratem pragmaticamente sobre os destinos do amor e da vida citadina.` },
+      { id: 'E', type: 'text', value: `aceitem as transformações ocorridas em pontos turísticos específicos.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. “Carta ao Tom 74”, de Vinícius de Moraes e Toquinho, assume a forma de uma carta endereçada ao amigo Tom Jobim, com endereço, lembranças e tom de saudade. O eu poético relembra o tempo feliz de Ipanema e lamenta as transformações sofridas pela cidade e pelo amor. A estrutura do gênero carta possibilita, portanto, que o eu poético e o interlocutor troquem notícias em tom nostálgico sobre as mudanças ocorridas na cidade (alternativa B). As demais opções falam em visão realista, confidências, pragmatismo ou aceitação das transformações, que não traduzem o teor saudoso do texto.`,
@@ -479,31 +425,11 @@ foco no interlocutor, que caracteriza a função conativa da
 linguagem, predomina também nele a função referencial, 
 que busca`,
     alternatives: [
-      { id: 'A', type: 'text', value: `despertar no leitor sentimentos de amor pela natureza, 
-induzindo-o 
-a 
-ter 
-atitudes 
-responsáveis 
-que 
-beneficiarão a sustentabilidade do planeta.` },
-      { id: 'B', type: 'text', value: `informar o leitor sobre as consequências da destinação 
-inadequada do lixo, orientando-o sobre como fazer o 
-correto descarte de alguns dejetos.` },
-      { id: 'C', type: 'text', value: `transmitir uma mensagem de caráter subjetivo, 
-mostrando exemplos de atitudes sustentáveis do 
-autor do texto em relação ao planeta.` },
-      { id: 'D', type: 'text', value: `estabelecer uma comunicação com o leitor, procurando 
-certificar-se de que a mensagem sobre ações de 
-sustentabilidade está sendo compreendida.` },
-      { id: 'E', type: 'text', value: `explorar 
-o 
-uso 
-da 
-linguagem, 
-conceituando 
-detalhadamente os termos utilizados de forma a 
-proporcionar melhor compreensão do texto.` },
+      { id: 'A', type: 'text', value: `despertar no leitor sentimentos de amor pela natureza, induzindo-o a ter atitudes responsáveis que beneficiarão a sustentabilidade do planeta.` },
+      { id: 'B', type: 'text', value: `informar o leitor sobre as consequências da destinação inadequada do lixo, orientando-o sobre como fazer o correto descarte de alguns dejetos.` },
+      { id: 'C', type: 'text', value: `transmitir uma mensagem de caráter subjetivo, mostrando exemplos de atitudes sustentáveis do autor do texto em relação ao planeta.` },
+      { id: 'D', type: 'text', value: `estabelecer uma comunicação com o leitor, procurando certificar-se de que a mensagem sobre ações de sustentabilidade está sendo compreendida.` },
+      { id: 'E', type: 'text', value: `explorar o uso da linguagem, conceituando detalhadamente os termos utilizados de forma a proporcionar melhor compreensão do texto.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto “14 coisas que você não deve jogar na privada” tem objetivo educativo: além de dirigir-se diretamente ao leitor (função conativa), predomina nele a função referencial, voltada a transmitir informações objetivas sobre o tema. Essa função se manifesta ao informar o leitor sobre as consequências da destinação inadequada do lixo e ao orientá-lo sobre como fazer o correto descarte de alguns dejetos (alternativa B). As demais opções associam o texto a despertar sentimentos, transmitir mensagem subjetiva, certificar-se da compreensão ou explorar a própria linguagem, funções que não correspondem à referencial.`,
@@ -540,16 +466,11 @@ que são produzidos, pelo público a que eles se destinam,
 por sua finalidade. Pela leitura do texto apresentado, 
 reconhece-se que sua função é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `apresentar dados estatísticos sobre a reciclagem no 
-país.` },
-      { id: 'B', type: 'text', value: `alertar sobre os riscos da falta de sustentabilidade do 
-mercado de recicláveis.` },
-      { id: 'C', type: 'text', value: `divulgar a quantidade de produtos reciclados retirados 
-das rodovias brasileiras.` },
-      { id: 'D', type: 'text', value: `revelar os altos índices de acidentes nas rodovias 
-brasileiras poluídas nos últimos anos.` },
-      { id: 'E', type: 'text', value: `conscientizar sobre a necessidade de preservação 
-ambiental e de segurança nas rodovias.` },
+      { id: 'A', type: 'text', value: `apresentar dados estatísticos sobre a reciclagem no país.` },
+      { id: 'B', type: 'text', value: `alertar sobre os riscos da falta de sustentabilidade do mercado de recicláveis.` },
+      { id: 'C', type: 'text', value: `divulgar a quantidade de produtos reciclados retirados das rodovias brasileiras.` },
+      { id: 'D', type: 'text', value: `revelar os altos índices de acidentes nas rodovias brasileiras poluídas nos últimos anos.` },
+      { id: 'E', type: 'text', value: `conscientizar sobre a necessidade de preservação ambiental e de segurança nas rodovias.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto “Embalagens usadas e resíduos devem ser descartados adequadamente” descreve o acúmulo de lixo nas rodovias brasileiras e os perigos que ele representa, como enchentes, incêndios e acidentes. Como gênero, destina-se a sensibilizar o leitor quanto ao descarte correto dos resíduos e seus efeitos. Sua função é, portanto, conscientizar sobre a necessidade de preservação ambiental e de segurança nas rodovias (alternativa E). As demais opções o restringem a apresentar dados estatísticos, alertar sobre o mercado de recicláveis, divulgar quantidades ou revelar índices de acidentes, aspectos que não resumem seu propósito.`,
@@ -561,39 +482,17 @@ ambiental e de segurança nas rodovias.` },
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `da sua memória 
-mil 
-e 
-mui 
-tos 
-out 
-ros 
-ros 
-tos 
-sol 
-tos 
-pou 
-coa 
-pou 
-coa 
-pag 
-amo 
-meu 
-ANTUNES, A. 2 ou + corpos no mesmo espaço . São Paulo: Perspectiva, 1998. 
-Trabalhando com recursos formais inspirados no 
-Concretismo, o poema atinge uma expressividade que se 
-caracteriza pela`,
+    text: `da sua memória mil e mui tos out ros ros tos sol tos pou coa
+pou coa pag amo meu ANTUNES, A. 2 ou + corpos no mesmo espaço
+. São Paulo: Perspectiva, 1998. Trabalhando com recursos
+formais inspirados no Concretismo, o poema atinge uma
+expressividade que se caracteriza pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `interrupção da fluência verbal, para testar os limites 
-da lógica racional.` },
-      { id: 'B', type: 'text', value: `reestruturação formal da palavra, para provocar o 
-estranhamento no leitor.` },
-      { id: 'C', type: 'text', value: `dispersão das unidades verbais, para questionar o 
-sentido das lembranças.` },
-      { id: 'D', type: 'text', value: `fragmentação da palavra, para representar o 
-estreitamento das lembranças.` },
-      { id: 'E', type: 'text', value: `renovação das formas tradicionais, para propor uma 
-nova vanguarda poética.` },
+      { id: 'A', type: 'text', value: `interrupção da fluência verbal, para testar os limites da lógica racional.` },
+      { id: 'B', type: 'text', value: `reestruturação formal da palavra, para provocar o estranhamento no leitor.` },
+      { id: 'C', type: 'text', value: `dispersão das unidades verbais, para questionar o sentido das lembranças.` },
+      { id: 'D', type: 'text', value: `fragmentação da palavra, para representar o estreitamento das lembranças.` },
+      { id: 'E', type: 'text', value: `renovação das formas tradicionais, para propor uma nova vanguarda poética.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. Inspirado no Concretismo, o poema de Arnaldo Antunes fragmenta as palavras em sílabas distribuídas verticalmente (“mil / e / mui / tos / out / ros...”), de modo que o leitor as reconstrói lentamente. Essa quebra visual reproduz, na própria forma, o esforço de recuperar lembranças que se desfazem aos poucos. A expressividade resulta, assim, da fragmentação da palavra, para representar o estreitamento das lembranças (alternativa D). As demais opções falam em interrupção da lógica racional, estranhamento, dispersão para questionar as lembranças ou renovação vanguardista, leituras que não captam o efeito central.`,
@@ -627,16 +526,11 @@ crescente utilização das novas tecnologias e pelo acesso
 o texto, a sociedade da informação corresponde a uma 
 mudança na organização social porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `representa uma alternativa para a melhoria da 
-qualidade de vida.` },
-      { id: 'B', type: 'text', value: `associa informações obtidas instantaneamente por 
-todos e em qualquer parte do mundo.` },
-      { id: 'C', type: 'text', value: `propõe uma comunicação mais rápida e barata, 
-contribuindo para a intensificação do comércio.` },
-      { id: 'D', type: 'text', value: `propicia a interação entre as pessoas por meio de 
-redes sociais.` },
-      { id: 'E', type: 'text', value: `representa um modelo em que a informação é 
-utilizada intensamente nos vários setores da vida.` },
+      { id: 'A', type: 'text', value: `representa uma alternativa para a melhoria da qualidade de vida.` },
+      { id: 'B', type: 'text', value: `associa informações obtidas instantaneamente por todos e em qualquer parte do mundo.` },
+      { id: 'C', type: 'text', value: `propõe uma comunicação mais rápida e barata, contribuindo para a intensificação do comércio.` },
+      { id: 'D', type: 'text', value: `propicia a interação entre as pessoas por meio de redes sociais.` },
+      { id: 'E', type: 'text', value: `representa um modelo em que a informação é utilizada intensamente nos vários setores da vida.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto afirma que a sociedade da informação resulta de profundas transformações técnico-científicas das últimas décadas, com uso crescente de técnicas de transmissão e armazenamento de dados a baixo custo. Essas mudanças tornam a informação e o conhecimento elementos estratégicos nos campos econômico, político e sociocultural. Logo, essa sociedade corresponde a uma mudança na organização social porque representa um modelo em que a informação é utilizada intensamente nos vários setores da vida (alternativa E). As demais opções reduzem o fenômeno à melhoria da qualidade de vida, à instantaneidade, ao comércio ou às redes sociais.`,
@@ -680,16 +574,11 @@ informação e de comunicação, usos particulares da
 escrita foram surgindo. Diante dessa nova realidade, 
 segundo o texto, cabe à escola levar o aluno a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `interagir por meio da linguagem formal no contexto 
-digital.` },
-      { id: 'B', type: 'text', value: `buscar alternativas para estabelecer melhores contatos 
-on-line .` },
-      { id: 'C', type: 'text', value: `adotar o uso de uma mesma norma nos diferentes 
-suportes tecnológicos.` },
-      { id: 'D', type: 'text', value: `desenvolver habilidades para compreender os textos 
-postados na web .` },
-      { id: 'E', type: 'text', value: `perceber as especificidades das linguagens em diferentes 
-ambientes digitais.` },
+      { id: 'A', type: 'text', value: `interagir por meio da linguagem formal no contexto digital.` },
+      { id: 'B', type: 'text', value: `buscar alternativas para estabelecer melhores contatos on-line .` },
+      { id: 'C', type: 'text', value: `adotar o uso de uma mesma norma nos diferentes suportes tecnológicos.` },
+      { id: 'D', type: 'text', value: `desenvolver habilidades para compreender os textos postados na web .` },
+      { id: 'E', type: 'text', value: `perceber as especificidades das linguagens em diferentes ambientes digitais.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto discute como as novas tecnologias aproximam a escrita da oralidade, sem que isso signifique escrever errado: o usuário adapta a linguagem ao suporte e ao contexto. Os especialistas defendem que o emprego social da língua é mais amplo que o uso escolar e que é preciso ter discernimento quanto às distintas situações. Diante disso, cabe à escola levar o aluno a perceber as especificidades das linguagens em diferentes ambientes digitais (alternativa E). As demais opções propõem impor a linguagem formal, buscar contatos on-line, adotar uma norma única ou apenas compreender textos da web, o que contraria a proposta do texto.`,
@@ -724,16 +613,11 @@ com um projeto ideológico em construção na Primeira
 República. O discurso poético de Olavo Bilac ecoa esse 
 projeto, na medida em que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a paisagem natural ganha contornos surreais, como o 
-projeto brasileiro de grandeza.` },
-      { id: 'B', type: 'text', value: `a prosperidade individual, como a exuberância da 
-terra, independe de políticas de governo.` },
-      { id: 'C', type: 'text', value: `os valores afetivos atribuídos à família devem ser 
-aplicados também aos ícones nacionais.` },
-      { id: 'D', type: 'text', value: `a capacidade produtiva da terra garante ao país a 
-riqueza que se verifica naquele momento.` },
-      { id: 'E', type: 'text', value: `a valorização do trabalhador passa a integrar o 
-conceito de bem-estar social experimentado.` },
+      { id: 'A', type: 'text', value: `a paisagem natural ganha contornos surreais, como o projeto brasileiro de grandeza.` },
+      { id: 'B', type: 'text', value: `a prosperidade individual, como a exuberância da terra, independe de políticas de governo.` },
+      { id: 'C', type: 'text', value: `os valores afetivos atribuídos à família devem ser aplicados também aos ícones nacionais.` },
+      { id: 'D', type: 'text', value: `a capacidade produtiva da terra garante ao país a riqueza que se verifica naquele momento.` },
+      { id: 'E', type: 'text', value: `a valorização do trabalhador passa a integrar o conceito de bem-estar social experimentado.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. No poema “A pátria”, Olavo Bilac exalta a grandeza e a fertilidade da terra brasileira, afirmando que ela jamais negou pão e abrigo a quem a cultiva com o próprio suor. Esse louvor harmoniza-se com o ideário ufanista e liberal em construção na Primeira República. O discurso poético ecoa esse projeto na medida em que apresenta a prosperidade individual, como a exuberância da terra, independentemente de políticas de governo (alternativa B): basta o esforço de quem trabalha para enriquecer. As demais opções falam em contornos surreais, valores afetivos familiares, riqueza nacional garantida ou valorização do trabalhador no bem-estar social, que não correspondem à leitura do texto.`,
@@ -754,16 +638,11 @@ suas produções. Um traço do Surrealismo presente nessa
 pintura é o(a)`,
     images: ['/enem/2015/images/enem_2015_d2_q108.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `justaposição de elementos díspares, observada na 
-imagem do homem no espelho.` },
-      { id: 'B', type: 'text', value: `crítica ao passadismo, exposta na dupla imagem do 
-homem olhando sempre para frente.` },
-      { id: 'C', type: 'text', value: `construção de perspectiva, apresentada na sobreposição 
-de planos visuais.` },
-      { id: 'D', type: 'text', value: `processo de automatismo, indicado na repetição da 
-imagem do homem.` },
-      { id: 'E', type: 'text', value: `procedimento de colagem, identificado no reflexo do 
-livro no espelho.` },
+      { id: 'A', type: 'text', value: `justaposição de elementos díspares, observada na imagem do homem no espelho.` },
+      { id: 'B', type: 'text', value: `crítica ao passadismo, exposta na dupla imagem do homem olhando sempre para frente.` },
+      { id: 'C', type: 'text', value: `construção de perspectiva, apresentada na sobreposição de planos visuais.` },
+      { id: 'D', type: 'text', value: `processo de automatismo, indicado na repetição da imagem do homem.` },
+      { id: 'E', type: 'text', value: `procedimento de colagem, identificado no reflexo do livro no espelho.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A pintura “A reprodução proibida”, de René Magritte, traz um homem diante de um espelho cujo reflexo, de modo impossível, mostra novamente suas costas, enquanto um livro sobre a lareira se reflete corretamente. Essa combinação de elementos realistas em uma cena logicamente impossível é típica do Surrealismo, que aproxima o incongruente para criar o estranhamento onírico. O traço surrealista presente na obra está, portanto, na justaposição de elementos díspares, observada na imagem do homem no espelho (alternativa A). As demais opções falam em crítica ao passadismo, construção de perspectiva, automatismo ou colagem, que não definem o procedimento da tela.`,
@@ -775,40 +654,23 @@ livro no espelho.` },
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `Yaô 
-Aqui có no terreiro 
-Pelú adié 
-Faz inveja pra gente 
-Que não tem mulher 
-No jacutá de preto velho 
-Há uma festa de yaô 
-Ôi tem nêga de Ogum 
-De Oxalá, de Iemanjá 
-Mucama de Oxossi é caçador 
-Ora viva Nanã 
-Nanã Buruku 
-Yô yôo 
-Yô yôoo 
-No terreiro de preto velho iaiá 
-Vamos saravá (a quem meu pai?) 
-Xangô! 
-VIANA, G. Agô, Pixinguinha! 100 Anos . Som Livre, 1997. 
-A canção Yaô foi composta na década de 1930 por 
-Pixinguinha, em parceria com Gastão Viana, que escreveu 
-a letra. O texto mistura o português com o iorubá, língua 
-usada por africanos escravizados trazidos para o Brasil. 
-Ao fazer uso do iorubá nessa composição, o autor`,
+    text: `Yaô Aqui có no terreiro Pelú adié Faz inveja pra gente Que não
+tem mulher No jacutá de preto velho Há uma festa de yaô Ôi tem
+nêga de Ogum De Oxalá, de Iemanjá Mucama de Oxossi é caçador
+Ora viva Nanã Nanã Buruku Yô yôo Yô yôoo No terreiro de preto
+velho iaiá Vamos saravá (a quem meu pai?) Xangô! VIANA, G.
+Agô, Pixinguinha! 100 Anos . Som Livre, 1997. A canção Yaô foi
+composta na década de 1930 por Pixinguinha, em parceria com
+Gastão Viana, que escreveu a letra. O texto mistura o
+português com o iorubá, língua usada por africanos
+escravizados trazidos para o Brasil. Ao fazer uso do iorubá
+nessa composição, o autor`,
     alternatives: [
-      { id: 'A', type: 'text', value: `promove uma crítica bem-humorada às religiões afro- 
-brasileiras, destacando diversos orixás.` },
-      { id: 'B', type: 'text', value: `ressalta uma mostra da marca da cultura africana, 
-que se mantém viva na produção musical brasileira.` },
-      { id: 'C', type: 'text', value: `evidencia a superioridade da cultura africana e seu 
-caráter de resistência à dominação do branco.` },
-      { id: 'D', type: 'text', value: `deixa à mostra a separação racial e cultural que 
-caracteriza a constituição do povo brasileiro.` },
-      { id: 'E', type: 'text', value: `expressa os rituais africanos com maior autenticidade, 
-respeitando as referências originais.` },
+      { id: 'A', type: 'text', value: `promove uma crítica bem-humorada às religiões afro-brasileiras, destacando diversos orixás.` },
+      { id: 'B', type: 'text', value: `ressalta uma mostra da marca da cultura africana, que se mantém viva na produção musical brasileira.` },
+      { id: 'C', type: 'text', value: `evidencia a superioridade da cultura africana e seu caráter de resistência à dominação do branco.` },
+      { id: 'D', type: 'text', value: `deixa à mostra a separação racial e cultural que caracteriza a constituição do povo brasileiro.` },
+      { id: 'E', type: 'text', value: `expressa os rituais africanos com maior autenticidade, respeitando as referências originais.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A canção “Yaô”, de Pixinguinha e Gastão Viana, mistura o português ao iorubá, língua trazida pelos africanos escravizados, e menciona orixás como Ogum, Oxalá, Iemanjá e Xangô. Esse emprego preserva, na música popular brasileira, elementos vivos da herança africana. Ao recorrer ao iorubá, o autor ressalta uma mostra da marca da cultura africana, que se mantém viva na produção musical brasileira (alternativa B). As demais opções falam em crítica bem-humorada às religiões, superioridade da cultura africana, separação racial ou mera autenticidade ritual, sentidos que não correspondem ao texto.`,
@@ -893,16 +755,11 @@ O texto apresenta uma obra da artista Marina Abramovic,
 cuja performance se alinha a tendências contemporâneas 
 e se caracteriza pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `inovação de uma proposta de arte relacional que 
-adentra um museu.` },
-      { id: 'B', type: 'text', value: `abordagem educacional estabelecida na relação da 
-artista com o público.` },
-      { id: 'C', type: 'text', value: `redistribuição do espaço do museu, que integra
-diversas linguagens artísticas.` },
-      { id: 'D', type: 'text', value: `negociação colaborativa de sentidos entre a artista e 
-a pessoa com quem interage.` },
-      { id: 'E', type: 'text', value: `aproximação entre artista e público, o que rompe com 
-a elitização dessa forma de arte.` },
+      { id: 'A', type: 'text', value: `inovação de uma proposta de arte relacional que adentra um museu.` },
+      { id: 'B', type: 'text', value: `abordagem educacional estabelecida na relação da artista com o público.` },
+      { id: 'C', type: 'text', value: `redistribuição do espaço do museu, que integra diversas linguagens artísticas.` },
+      { id: 'D', type: 'text', value: `negociação colaborativa de sentidos entre a artista e a pessoa com quem interage.` },
+      { id: 'E', type: 'text', value: `aproximação entre artista e público, o que rompe com a elitização dessa forma de arte.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. Na performance “A Artista Está Presente”, Marina Abramovic permanecia sentada e em silêncio, recebendo um a um os visitantes, com quem trocava olhares. Essa proposta, alinhada à arte contemporânea, faz do encontro entre artista e público o próprio sentido da obra. A performance caracteriza-se, assim, pela negociação colaborativa de sentidos entre a artista e a pessoa com quem interage (alternativa D). As demais opções falam em arte relacional no museu, abordagem educacional, redistribuição do espaço ou fim da elitização, que não definem o traço central.`,
@@ -939,14 +796,10 @@ sobre a formação da palavra sambódromo, o processo de
 formação dessa palavra reflete`,
     alternatives: [
       { id: 'A', type: 'text', value: `o dinamismo da língua na criação de novas palavras.` },
-      { id: 'B', type: 'text', value: `uma nova realidade limitando o aparecimento de 
-novas palavras.` },
-      { id: 'C', type: 'text', value: `a apropriação inadequada de mecanismos de criação 
-de palavras por leigos.` },
-      { id: 'D', type: 'text', value: `o reconhecimento da impropriedade semântica dos 
-neologismos.` },
-      { id: 'E', type: 'text', value: `a restrição na produção de novas palavras com o 
-radical grego.` },
+      { id: 'B', type: 'text', value: `uma nova realidade limitando o aparecimento de novas palavras.` },
+      { id: 'C', type: 'text', value: `a apropriação inadequada de mecanismos de criação de palavras por leigos.` },
+      { id: 'D', type: 'text', value: `o reconhecimento da impropriedade semântica dos neologismos.` },
+      { id: 'E', type: 'text', value: `a restrição na produção de novas palavras com o radical grego.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Os dois textos tratam da palavra “sambódromo”, formada com a terminação -dromo (“ação de correr”, “lugar de corrida”), que também gerou formas populares como “rangódromo” e “camelódromo”. Embora o Texto II julgue impróprio o termo, o processo de formação revela que a língua cria novas palavras a partir de elementos já existentes. Esse processo reflete, portanto, o dinamismo da língua na criação de novas palavras (alternativa A). As demais opções veem nele limitação, apropriação inadequada, impropriedade semântica ou restrição ao radical grego, interpretações que o texto não sustenta.`,
@@ -958,46 +811,38 @@ radical grego.` },
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `Rede social pode prever desempenho profissional, 
-diz pesquisa 
-Pense duas vezes antes de postar qualquer item 
-em seu perfil nas redes sociais. O conselho, repetido à 
-exaustão por consultores de carreira por aí, acaba de 
-ganhar um status , digamos, mais científico. De acordo 
-com resultados da pesquisa, uma rápida análise do 
-perfil nas redes sociais pode prever o desempenho 
-profissional do candidato a uma oportunidade de 
-emprego. Para chegar a essa conclusão, uma equipe de 
-pesquisadores da Northern Illinois University, University 
-of Evansville e Auburn University pediu a um professor 
-universitário e dois alunos para analisarem perfis de um 
-grupo de universitários. 
-Após checar fotos, postagens, número de amigos e 
-interesses por 10 minutos, o trio considerou itens como 
-consciência, 
-afabilidade, 
-extroversão, 
-estabilidade 
-emocional e receptividade. Seis meses depois, as 
-impressões do grupo foram comparadas com a análise 
-de desempenho feita pelos chefes dos jovens que tiveram 
-seus perfis analisados. Os pesquisadores encontraram 
-uma forte correlação entre as características descritas 
-a partir dos dados da rede e o comportamento dos 
-universitários no ambiente de trabalho. 
-Disponível em: http://exame.abril.com.br. Acesso em: 29 fev. 2012 (adaptado). 
-As redes sociais são espaços de comunicação e interação 
-on-line que possibilitam o conhecimento de aspectos da 
-privacidade de seus usuários. Segundo o texto, no mundo 
-do trabalho, esse conhecimento permite`,
+    text: `Rede social pode prever desempenho profissional, diz pesquisa
+Pense duas vezes antes de postar qualquer item em seu perfil
+nas redes sociais. O conselho, repetido à exaustão por
+consultores de carreira por aí, acaba de ganhar um status ,
+digamos, mais científico. De acordo com resultados da
+pesquisa, uma rápida análise do perfil nas redes sociais pode
+prever o desempenho profissional do candidato a uma
+oportunidade de emprego. Para chegar a essa conclusão, uma
+equipe de pesquisadores da Northern Illinois University,
+University of Evansville e Auburn University pediu a um
+professor universitário e dois alunos para analisarem perfis
+de um grupo de universitários. Após checar fotos, postagens,
+número de amigos e interesses por 10 minutos, o trio
+considerou itens como consciência, afabilidade, extroversão,
+estabilidade emocional e receptividade. Seis meses depois, as
+impressões do grupo foram comparadas com a análise de
+desempenho feita pelos chefes dos jovens que tiveram seus
+perfis analisados. Os pesquisadores encontraram uma forte
+correlação entre as características descritas a partir dos
+dados da rede e o comportamento dos universitários no ambiente
+de trabalho. Disponível em: http://exame.abril.com.br. Acesso
+em: 29 fev. 2012 (adaptado). As redes sociais são espaços de
+comunicação e interação on-line que possibilitam o
+conhecimento de aspectos da privacidade de seus usuários.
+Segundo o texto, no mundo do trabalho, esse conhecimento
+permite`,
     alternatives: [
       { id: 'A', type: 'text', value: `identificar a capacidade física atribuída ao candidato.` },
       { id: 'B', type: 'text', value: `certificar a competência profissional do candidato.` },
       { id: 'C', type: 'text', value: `controlar o comportamento virtual e real do candidato.` },
-      { id: 'D', type: 'text', value: `avaliar informações pessoais e comportamentais 
-sobre o candidato.` },
-      { id: 'E', type: 'text', value: `aferir a capacidade intelectual do candidato na resolução 
-de problemas.` },
+      { id: 'D', type: 'text', value: `avaliar informações pessoais e comportamentais sobre o candidato.` },
+      { id: 'E', type: 'text', value: `aferir a capacidade intelectual do candidato na resolução de problemas.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A reportagem relata uma pesquisa segundo a qual a análise rápida do perfil de alguém nas redes sociais permite prever seu desempenho profissional, pois características como extroversão e estabilidade emocional se correlacionam com o comportamento no trabalho. No mundo do trabalho, portanto, esse conhecimento permite avaliar informações pessoais e comportamentais sobre o candidato (alternativa D). As demais opções falam em capacidade física, competência profissional, controle do comportamento ou capacidade intelectual na resolução de problemas, que não correspondem ao que a pesquisa indica.`,
@@ -1009,60 +854,45 @@ de problemas.` },
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `As narrativas indígenas se sustentam e se 
-perpetuam 
-por 
-uma 
-tradição 
-de 
-transmissão 
-oral (sejam as histórias verdadeiras dos seus 
-antepassados, dos fatos e guerras recentes ou 
-antigos; sejam as histórias de ficção, como aquelas 
-da onça e do macaco). De fato, as comunidades 
-indígenas nas chamadas “terras baixas da América 
-do Sul” (o que exclui as montanhas dos Andes, por 
-exemplo) não desenvolveram sistemas de escrita como 
-os que conhecemos, sejam alfabéticos (como a escrita 
-do português), sejam ideogramáticos (como a escrita 
-dos chineses) ou outros. Somente nas sociedades 
-indígenas com estratificação social (ou seja, já divididas 
-em classes), como foram os astecas e os maias, é que 
-surgiu algum tipo de escrita. A história da escrita parece 
-mesmo mostrar claramente isso: que ela surge e se 
-desenvolve - em qualquer das formas - apenas em 
-sociedades estratificadas (sumérios, egípcios, chineses, 
-gregos etc.). O fato é que os povos indígenas no Brasil, 
-por exemplo, não empregavam um sistema de escrita, 
-mas garantiram a conservação e continuidade dos 
-conhecimentos acumulados, das histórias passadas e, 
-também, das narrativas que sua tradição criou, através 
-da transmissão oral. Todas as tecnologias indígenas se 
-transmitiram e se desenvolveram assim. E não foram 
-poucas: por exemplo, foram os índios que domesticaram 
-plantas silvestres e, muitas vezes, venenosas, criando 
-o milho, a mandioca (ou macaxeira), o amendoim, 
-as morangas e muitas outras mais (e também as 
-desenvolveram muito; por exemplo, somente do milho 
-criaram cerca de 250 variedades diferentes em toda 
-a América). 
-D’ANGELIS, W. R. Histórias dos índios lá em casa : narrativas indígenas e tradição oral popular 
-no Brasil. Disponível em: www.portalkaingang.org. Acesso em: 5 dez. 2012. 
-A escrita e a oralidade, nas diversas culturas, 
-cumprem diferentes objetivos. O fragmento aponta 
-que, nas sociedades indígenas brasileiras, a oralidade 
+    text: `As narrativas indígenas se sustentam e se perpetuam por uma
+tradição de transmissão oral (sejam as histórias verdadeiras
+dos seus antepassados, dos fatos e guerras recentes ou
+antigos; sejam as histórias de ficção, como aquelas da onça e
+do macaco). De fato, as comunidades indígenas nas chamadas
+“terras baixas da América do Sul” (o que exclui as montanhas
+dos Andes, por exemplo) não desenvolveram sistemas de escrita
+como os que conhecemos, sejam alfabéticos (como a escrita do
+português), sejam ideogramáticos (como a escrita dos chineses)
+ou outros. Somente nas sociedades indígenas com estratificação
+social (ou seja, já divididas em classes), como foram os
+astecas e os maias, é que surgiu algum tipo de escrita. A
+história da escrita parece mesmo mostrar claramente isso: que
+ela surge e se desenvolve - em qualquer das formas - apenas em
+sociedades estratificadas (sumérios, egípcios, chineses,
+gregos etc.). O fato é que os povos indígenas no Brasil, por
+exemplo, não empregavam um sistema de escrita, mas garantiram
+a conservação e continuidade dos conhecimentos acumulados, das
+histórias passadas e, também, das narrativas que sua tradição
+criou, através da transmissão oral. Todas as tecnologias
+indígenas se transmitiram e se desenvolveram assim. E não
+foram poucas: por exemplo, foram os índios que domesticaram
+plantas silvestres e, muitas vezes, venenosas, criando o
+milho, a mandioca (ou macaxeira), o amendoim, as morangas e
+muitas outras mais (e também as desenvolveram muito; por
+exemplo, somente do milho criaram cerca de 250 variedades
+diferentes em toda a América). D’ANGELIS, W. R. Histórias dos
+índios lá em casa : narrativas indígenas e tradição oral
+popular no Brasil. Disponível em: www.portalkaingang.org.
+Acesso em: 5 dez. 2012. A escrita e a oralidade, nas diversas
+culturas, cumprem diferentes objetivos. O fragmento aponta
+que, nas sociedades indígenas brasileiras, a oralidade
 possibilitou`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a conservação e a valorização dos grupos detentores 
-de certos saberes.` },
-      { id: 'B', type: 'text', value: `a preservação e a transmissão dos saberes e da 
-memória cultural dos povos.` },
-      { id: 'C', type: 'text', value: `a manutenção e a reprodução dos modelos 
-estratificados de organização social.` },
-      { id: 'D', type: 'text', value: `a restrição e a limitação do conhecimento acumulado 
-a determinadas comunidades.` },
-      { id: 'E', type: 'text', value: `o reconhecimento e a legitimação da importância da 
-fala como meio de comunicação.` },
+      { id: 'A', type: 'text', value: `a conservação e a valorização dos grupos detentores de certos saberes.` },
+      { id: 'B', type: 'text', value: `a preservação e a transmissão dos saberes e da memória cultural dos povos.` },
+      { id: 'C', type: 'text', value: `a manutenção e a reprodução dos modelos estratificados de organização social.` },
+      { id: 'D', type: 'text', value: `a restrição e a limitação do conhecimento acumulado a determinadas comunidades.` },
+      { id: 'E', type: 'text', value: `o reconhecimento e a legitimação da importância da fala como meio de comunicação.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto de D’Angelis explica que os povos indígenas brasileiros não desenvolveram sistemas de escrita, mas garantiram a continuidade de seus conhecimentos e de suas histórias por meio da tradição oral. Assim, a oralidade cumpriu, nessas sociedades, papel fundamental de guardar e repassar o saber acumulado. O fragmento aponta, portanto, que a oralidade possibilitou a preservação e a transmissão dos saberes e da memória cultural dos povos (alternativa B). As demais opções restringem a função da fala a certos grupos, à estratificação social, à limitação do conhecimento ou apenas ao reconhecimento da fala como meio de comunicação.`,
@@ -1098,8 +928,7 @@ resultado de uma mesma regra a`,
       { id: 'A', type: 'text', value: `pronúncia das palavras “vorta” e “veve”.` },
       { id: 'B', type: 'text', value: `pronúncia das palavras “tarvez” e “sorto”.` },
       { id: 'C', type: 'text', value: `flexão verbal encontrada em “furaro” e “cantá”.` },
-      { id: 'D', type: 'text', value: `redundância nas expressões “cego dos óio” e “mata 
-em frô”.` },
+      { id: 'D', type: 'text', value: `redundância nas expressões “cego dos óio” e “mata em frô”.` },
       { id: 'E', type: 'text', value: `pronúncia das palavras “ignorança” e “avuá”.` },
     ],
     correct: 'B',
@@ -1137,14 +966,10 @@ o texto chama a atenção por contrariar a norma prevista
 para esse gênero, pois o autor`,
     alternatives: [
       { id: 'A', type: 'text', value: `emprega sinais de pontuação em excesso.` },
-      { id: 'B', type: 'text', value: `recorre a termos e expressões em desuso no 
-português.` },
-      { id: 'C', type: 'text', value: `apresenta-se na primeira pessoa do singular, para 
-conotar intimidade com o destinatário.` },
-      { id: 'D', type: 'text', value: `privilegia o uso de termos técnicos, para demonstrar 
-conhecimento especializado.` },
-      { id: 'E', type: 'text', value: `expressa-se em linguagem mais subjetiva, com forte 
-carga emocional.` },
+      { id: 'B', type: 'text', value: `recorre a termos e expressões em desuso no português.` },
+      { id: 'C', type: 'text', value: `apresenta-se na primeira pessoa do singular, para conotar intimidade com o destinatário.` },
+      { id: 'D', type: 'text', value: `privilegia o uso de termos técnicos, para demonstrar conhecimento especializado.` },
+      { id: 'E', type: 'text', value: `expressa-se em linguagem mais subjetiva, com forte carga emocional.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Embora seja um relatório oficial dirigido ao governo do estado, o texto de Graciliano Ramos foge à impessoalidade esperada do gênero. O autor ironiza, por exemplo, a mania de celebrar cada obra pública com telegramas, comparando-a a fatos históricos grandiosos, e imprime ao relato forte carga crítica e afetiva. O texto contraria a norma do gênero porque se expressa em linguagem mais subjetiva, com forte carga emocional (alternativa E). As demais opções apontam pontuação excessiva, termos em desuso, primeira pessoa para criar intimidade ou linguagem técnica, que não explicam a quebra de expectativa.`,
@@ -1186,19 +1011,11 @@ as informações verbais e não verbais trazidas no texto a
 respeito da hepatite, verifica-se que`,
     images: ['/enem/2015/images/enem_2015_d2_q118.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `o tom lúdico é empregado como recurso de consolidação 
-do pacto de confiança entre o médico e a população.` },
-      { id: 'B', type: 'text', value: `a figura do profissional da saúde é legitimada, evocando-se 
-o discurso autorizado como estratégia argumentativa.` },
-      { id: 'C', type: 'text', value: `o uso de construções coloquiais e específicas da 
-oralidade são recursos de argumentação que simulam o 
-discurso do médico.` },
-      { id: 'D', type: 'text', value: `a empresa anunciada deixa de se autopromover ao 
-mostrar preocupação social e assumir a responsabilidade 
-pelas informações.` },
-      { id: 'E', type: 'text', value: `o discurso evidencia uma cena de ensinamento didático, 
-projetado com subjetividade no trecho sobre as maneiras 
-de prevenção.` },
+      { id: 'A', type: 'text', value: `o tom lúdico é empregado como recurso de consolidação do pacto de confiança entre o médico e a população.` },
+      { id: 'B', type: 'text', value: `a figura do profissional da saúde é legitimada, evocando-se o discurso autorizado como estratégia argumentativa.` },
+      { id: 'C', type: 'text', value: `o uso de construções coloquiais e específicas da oralidade são recursos de argumentação que simulam o discurso do médico.` },
+      { id: 'D', type: 'text', value: `a empresa anunciada deixa de se autopromover ao mostrar preocupação social e assumir a responsabilidade pelas informações.` },
+      { id: 'E', type: 'text', value: `o discurso evidencia uma cena de ensinamento didático, projetado com subjetividade no trecho sobre as maneiras de prevenção.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A peça publicitária sobre a hepatite combina recursos verbais e não verbais e traz a imagem de uma profissional da saúde ao lado das orientações de prevenção. Essa presença confere autoridade às informações, apoiando o conteúdo no saber médico. Assim, a figura do profissional da saúde é legitimada, evocando-se o discurso autorizado como estratégia argumentativa (alternativa B). As demais opções falam em tom lúdico de confiança, construções coloquiais, renúncia à autopromoção ou cena de ensino subjetiva, que não correspondem à estratégia do anúncio.`,
@@ -1230,29 +1047,11 @@ A reflexão acerca do fazer poético é um dos mais marcantes
 atributos da produção literária contemporânea, que, no 
 poema de José Paulo Paes, se expressa por um(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `reconhecimento, pelo eu lírico, de suas limitações 
-no processo criativo, manifesto na expressão “Por 
-translúcida pões”.` },
-      { id: 'B', type: 'text', value: `subserviência aos princípios do rigor formal e dos 
-cuidados com a precisão metafórica, como se 
-observa em “prisão da forma”.` },
-      { id: 'C', type: 'text', value: `visão progressivamente pessimista, em face da 
-impossibilidade 
-da 
-criação 
-poética, 
-conforme 
-expressa o verso “e te estilhaces, suicida”.` },
-      { id: 'D', type: 'text', value: `processo 
-de 
-contenção, 
-amadurecimento 
-e 
-transformação da palavra, representado pelos versos 
-“numa explosão / de diamantes”.` },
-      { id: 'E', type: 'text', value: `necessidade premente de libertação da prisão 
-representada pela poesia, simbolicamente comparada 
-à “garrafa” a ser “estilhaçada”.` },
+      { id: 'A', type: 'text', value: `reconhecimento, pelo eu lírico, de suas limitações no processo criativo, manifesto na expressão “Por translúcida pões”.` },
+      { id: 'B', type: 'text', value: `subserviência aos princípios do rigor formal e dos cuidados com a precisão metafórica, como se observa em “prisão da forma”.` },
+      { id: 'C', type: 'text', value: `visão progressivamente pessimista, em face da impossibilidade da criação poética, conforme expressa o verso “e te estilhaces, suicida”.` },
+      { id: 'D', type: 'text', value: `processo de contenção, amadurecimento e transformação da palavra, representado pelos versos “numa explosão / de diamantes”.` },
+      { id: 'E', type: 'text', value: `necessidade premente de libertação da prisão representada pela poesia, simbolicamente comparada à “garrafa” a ser “estilhaçada”.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. No poema “À garrafa”, José Paulo Paes toma o objeto como metáfora do fazer poético: assim como a garrafa contém e dá forma ao seu conteúdo, o poeta trabalha e lapida a palavra até alcançar a síntese expressiva. Os versos finais, “numa explosão / de diamantes”, simbolizam o resultado refinado desse amadurecimento. A reflexão sobre a criação literária expressa-se, portanto, por um processo de contenção, amadurecimento e transformação da palavra (alternativa D). As demais opções apontam reconhecimento de limitações, subserviência ao rigor formal, visão pessimista ou libertação pela poesia, que não traduzem o sentido central.`,
@@ -1299,16 +1098,11 @@ A discussão empreendida sobre o (des)uso do verbo
 “pinchar” nos traz uma reflexão sobre a linguagem e seus 
 usos, a partir da qual compreende-se que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `as palavras esquecidas pelos falantes devem ser 
-descartadas dos dicionários, conforme sugere o título.` },
-      { id: 'B', type: 'text', value: `o cuidado com espécies animais em extinção é mais 
-urgente do que a preservação de palavras.` },
-      { id: 'C', type: 'text', value: `o abandono de determinados vocábulos está associado 
-a preconceitos socioculturais.` },
-      { id: 'D', type: 'text', value: `as gerações têm a tradição de perpetuar o inventário 
-de uma língua.` },
-      { id: 'E', type: 'text', value: `o mundo contemporâneo exige a inovação do vocabulário 
-das línguas.` },
+      { id: 'A', type: 'text', value: `as palavras esquecidas pelos falantes devem ser descartadas dos dicionários, conforme sugere o título.` },
+      { id: 'B', type: 'text', value: `o cuidado com espécies animais em extinção é mais urgente do que a preservação de palavras.` },
+      { id: 'C', type: 'text', value: `o abandono de determinados vocábulos está associado a preconceitos socioculturais.` },
+      { id: 'D', type: 'text', value: `as gerações têm a tradição de perpetuar o inventário de uma língua.` },
+      { id: 'E', type: 'text', value: `o mundo contemporâneo exige a inovação do vocabulário das línguas.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto “Palavras jogadas fora”, de M. E. Viaro, reflete sobre o desuso do verbo “pinchar” e lembra que as palavras morrem quando se rompe a tradição que as mantinha. O autor observa que a gramática normativa muitas vezes cria preconceitos e que o fator mais forte para o abandono de um termo é associá-lo a grupos de pouca escolaridade e prestígio. Compreende-se, assim, que o abandono de determinados vocábulos está associado a preconceitos socioculturais (alternativa C). As demais opções defendem descartar palavras esquecidas, priorizar espécies animais, atribuir a tradição a todas as gerações ou exigir inovação do vocabulário, ideias que o texto não sustenta.`,
@@ -1343,12 +1137,9 @@ Língua Portuguesa , n. 71, set. 2011.
 A proposta de um projeto como o “Pão e Poesia” objetiva 
 inovar em sua área de atuação, pois`,
     alternatives: [
-      { id: 'A', type: 'text', value: `privilegia novos escritores em detrimento daqueles já 
-consagrados.` },
-      { id: 'B', type: 'text', value: `resgata poetas que haviam perdido espaços de 
-publicação impressa.` },
-      { id: 'C', type: 'text', value: `prescinde de critérios de seleção em prol da 
-popularização da literatura.` },
+      { id: 'A', type: 'text', value: `privilegia novos escritores em detrimento daqueles já consagrados.` },
+      { id: 'B', type: 'text', value: `resgata poetas que haviam perdido espaços de publicação impressa.` },
+      { id: 'C', type: 'text', value: `prescinde de critérios de seleção em prol da popularização da literatura.` },
       { id: 'D', type: 'text', value: `propõe acesso à literatura a públicos diversos.` },
       { id: 'E', type: 'text', value: `alavanca projetos de premiações antes esquecidos.` },
     ],
@@ -1382,16 +1173,11 @@ Angra dos Reis mencionada no texto, os fenômenos
 naturais que a atingiram poderiam ter sido previstos e 
 suas consequências minimizadas se`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o acervo linguístico indígena fosse conhecido e 
-valorizado.` },
-      { id: 'B', type: 'text', value: `as línguas indígenas brasileiras tivessem sido 
-substituídas pela língua geral.` },
-      { id: 'C', type: 'text', value: `o conhecimento acadêmico tivesse sido priorizado 
-pelos engenheiros.` },
-      { id: 'D', type: 'text', value: `a língua tupinambá tivesse palavras adequadas para 
-descrever o solo.` },
-      { id: 'E', type: 'text', value: `o laboratório tivesse sido construído de acordo com 
-as leis ambientais vigentes na época.` },
+      { id: 'A', type: 'text', value: `o acervo linguístico indígena fosse conhecido e valorizado.` },
+      { id: 'B', type: 'text', value: `as línguas indígenas brasileiras tivessem sido substituídas pela língua geral.` },
+      { id: 'C', type: 'text', value: `o conhecimento acadêmico tivesse sido priorizado pelos engenheiros.` },
+      { id: 'D', type: 'text', value: `a língua tupinambá tivesse palavras adequadas para descrever o solo.` },
+      { id: 'E', type: 'text', value: `o laboratório tivesse sido construído de acordo com as leis ambientais vigentes na época.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto relata que o Laboratório de Radioecologia foi construído em Itaorna, nome que, em tupinambá, significa “pedra podre”, advertência que os engenheiros só compreenderam depois do acidente provocado pelas chuvas. O episódio mostra como o saber linguístico indígena guardava informações relevantes sobre o local. Os danos poderiam ter sido previstos e minimizados se o acervo linguístico indígena fosse conhecido e valorizado (alternativa A). As demais opções propõem substituir línguas indígenas pela língua geral, priorizar o conhecimento acadêmico, adequar a língua tupinambá ou seguir leis ambientais, soluções que o texto não aponta.`,
@@ -1424,8 +1210,7 @@ entre vocabulário formal e vocabulário informal. Altera-se
 o grau de formalidade do segmento no texto, sem alterar 
 o sentido da informação, com a substituição de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `“dá um chega pra lá no diabete” por “manda embora 
-o diabete”.` },
+      { id: 'A', type: 'text', value: `“dá um chega pra lá no diabete” por “manda embora o diabete”.` },
       { id: 'B', type: 'text', value: `“esquentar a cabeça” por “quebrar a cabeça”.` },
       { id: 'C', type: 'text', value: `“bate um bolão” por “é um show ”.` },
       { id: 'D', type: 'text', value: `“juntinhos” por “misturadinhos”.` },
@@ -1462,17 +1247,11 @@ O texto apresenta uma reflexão sobre saúde e aponta o
 excesso de peso e de gordura corporal dos indivíduos 
 como um problema, relacionando-o ao`,
     alternatives: [
-      { id: 'A', type: 'text', value: `padrão estético, pois o modelo de beleza dominante 
-na sociedade requer corpos magros.` },
-      { id: 'B', type: 'text', value: `equilíbrio psíquico da população, pois esse quadro 
-interfere na autoestima das pessoas.` },
-      { id: 'C', type: 'text', value: `quadro clínico da população, pois a obesidade é 
-um fator de risco para o surgimento de diversas 
-doenças crônicas.` },
-      { id: 'D', type: 'text', value: `preconceito contra a pessoa obesa, pois ela sofre 
-discriminação em diversos espaços sociais.` },
-      { id: 'E', type: 'text', value: `desempenho na realização das atividades cotidianas, 
-pois a obesidade interfere na performance.` },
+      { id: 'A', type: 'text', value: `padrão estético, pois o modelo de beleza dominante na sociedade requer corpos magros.` },
+      { id: 'B', type: 'text', value: `equilíbrio psíquico da população, pois esse quadro interfere na autoestima das pessoas.` },
+      { id: 'C', type: 'text', value: `quadro clínico da população, pois a obesidade é um fator de risco para o surgimento de diversas doenças crônicas.` },
+      { id: 'D', type: 'text', value: `preconceito contra a pessoa obesa, pois ela sofre discriminação em diversos espaços sociais.` },
+      { id: 'E', type: 'text', value: `desempenho na realização das atividades cotidianas, pois a obesidade interfere na performance.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto “Obesidade causa doença” apresenta a obesidade como epidemia global ligada ao sedentarismo e à má alimentação, associando o excesso de peso e de gordura corporal ao aumento da mortalidade e ao surgimento de diversas enfermidades. A reflexão relaciona, portanto, o excesso de peso ao quadro clínico da população, pois a obesidade é um fator de risco para o surgimento de diversas doenças crônicas (alternativa C). As demais opções associam o problema ao padrão estético, ao equilíbrio psíquico, ao preconceito ou ao desempenho nas atividades cotidianas, aspectos que não são o foco do texto.`,
@@ -1502,16 +1281,11 @@ Guia da língua 2010: modelos e técnicas. Língua Portuguesa , 2010 (adaptado).
 O texto integra um guia de modelos e técnicas de 
 elaboração de textos e cumpre a função social de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `divulgar um padrão oficial de redação e envio de 
-currículos.` },
-      { id: 'B', type: 'text', value: `indicar um modelo de currículo para pleitear uma 
-vaga de emprego.` },
-      { id: 'C', type: 'text', value: `instruir o leitor sobre como ser eficiente no envio de 
-currículo por e-mail .` },
-      { id: 'D', type: 'text', value: `responder a uma pergunta de um assinante da revista 
-sobre o envio de currículo por e-mail .` },
-      { id: 'E', type: 'text', value: `orientar o leitor sobre como alcançar o maior número 
-possível de selecionadores de currículos.` },
+      { id: 'A', type: 'text', value: `divulgar um padrão oficial de redação e envio de currículos.` },
+      { id: 'B', type: 'text', value: `indicar um modelo de currículo para pleitear uma vaga de emprego.` },
+      { id: 'C', type: 'text', value: `instruir o leitor sobre como ser eficiente no envio de currículo por e-mail .` },
+      { id: 'D', type: 'text', value: `responder a uma pergunta de um assinante da revista sobre o envio de currículo por e-mail .` },
+      { id: 'E', type: 'text', value: `orientar o leitor sobre como alcançar o maior número possível de selecionadores de currículos.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto “Posso mandar por e-mail?” integra um guia de modelos e técnicas de elaboração de textos e orienta como enviar currículos pela internet de forma eficaz. Ele recomenda identificar quem receberá o material e anexar um texto breve de apresentação, com exemplo de assunto e mensagem. Sua função social é, assim, instruir o leitor sobre como ser eficiente no envio de currículo por e-mail (alternativa C). As demais opções falam em divulgar padrão oficial, indicar modelo de currículo, responder a assinante ou alcançar o maior número de selecionadores, que não correspondem ao propósito do texto.`,
@@ -1530,21 +1304,11 @@ A restauração de elementos daquele contexto por uma
 poética contemporânea revela que`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `a disposição visual do poema reflete sua dimensão 
-plástica, que prevalece sobre a observação da 
-realidade social.` },
-      { id: 'B', type: 'text', value: `a reflexão do eu lírico privilegia a memória e resgata, em 
-fragmentos, fatos e personalidades da Inconfidência 
-Mineira.` },
-      { id: 'C', type: 'text', value: `a palavra “esconso” (escondido) demonstra o desencanto 
-do poeta com a utopia e sua opção por uma linguagem 
-erudita.` },
-      { id: 'D', type: 'text', value: `o eu lírico pretende revitalizar os contrastes barrocos, 
-gerando uma continuidade de procedimentos estéticos 
-e literários.` },
-      { id: 'E', type: 'text', value: `o eu lírico recria, em seu momento histórico, numa 
-linguagem de ruptura, o ambiente de opressão vivido 
-pelos inconfidentes.` },
+      { id: 'A', type: 'text', value: `a disposição visual do poema reflete sua dimensão plástica, que prevalece sobre a observação da realidade social.` },
+      { id: 'B', type: 'text', value: `a reflexão do eu lírico privilegia a memória e resgata, em fragmentos, fatos e personalidades da Inconfidência Mineira.` },
+      { id: 'C', type: 'text', value: `a palavra “esconso” (escondido) demonstra o desencanto do poeta com a utopia e sua opção por uma linguagem erudita.` },
+      { id: 'D', type: 'text', value: `o eu lírico pretende revitalizar os contrastes barrocos, gerando uma continuidade de procedimentos estéticos e literários.` },
+      { id: 'E', type: 'text', value: `o eu lírico recria, em seu momento histórico, numa linguagem de ruptura, o ambiente de opressão vivido pelos inconfidentes.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O poema “Casa dos Contos”, de Afonso Ávila, retoma o contexto histórico e literário do Barroco-Arcadismo mineiro e o episódio da Inconfidência, citando nomes como Cláudio e Afonso. Com disposição fragmentada e linguagem que rompe a ordem convencional, o eu lírico recria, em sua própria época, o clima de opressão e perseguição vivido pelos inconfidentes. A restauração desse contexto por uma poética contemporânea revela que o eu lírico recria, em seu momento histórico, numa linguagem de ruptura, o ambiente de opressão vivido pelos inconfidentes (alternativa E). As demais opções reduzem o poema à dimensão plástica, à memória da Inconfidência, ao desencanto erudito ou à continuidade barroca, sem captar essa recriação.`,
@@ -1556,57 +1320,41 @@ pelos inconfidentes.` },
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `Um dia, meu pai tomou-me pela mão, minha mãe 
-beijou-me a testa, molhando-me de lágrimas os cabelos 
-e eu parti. 
-Duas vezes fora visitar o Ateneu antes da minha 
-instalação. 
-Ateneu era o grande colégio da época. Afamado por 
-um sistema de nutrido reclame, mantido por um diretor 
-que de tempos a tempos reformava o estabelecimento, 
-pintando-o 
-jeitosamente 
-de 
-novidade, 
-como 
-os 
-negociantes que liquidam para recomeçar com artigos de 
-última remessa; o Ateneu desde muito tinha consolidado 
-crédito na preferência dos pais, sem levar em conta a 
-simpatia da meninada, a cercar de aclamações o bombo 
-vistoso dos anúncios. 
-O Dr. Aristarco Argolo de Ramos, da conhecida família 
-do Visconde de Ramos, do Norte, enchia o império com o 
-seu renome de pedagogo. Eram boletins de propaganda 
-pelas províncias, conferências em diversos pontos da 
-cidade, a pedidos, à substância, atochando a imprensa 
-dos lugarejos, caixões, sobretudo, de livros elementares, 
-fabricados às pressas com o ofegante e esbaforido 
-concurso de professores prudentemente anônimos, 
-caixões e mais caixões de volumes cartonados em 
-Leipzig, inundando as escolas públicas de toda a parte 
-com a sua invasão de capas azuis, róseas, amarelas, 
-em que o nome de Aristarco, inteiro e sonoro, oferecia- 
-se ao pasmo venerador dos esfaimados de alfabeto dos 
-confins da pátria. Os lugares que os não procuravam 
-eram um belo dia surpreendidos pela enchente, gratuita, 
-espontânea, irresistível! E não havia senão aceitar a 
-farinha daquela marca para o pão do espírito. 
-POMPÉIA, R. O Ateneu . São Paulo: Scipione, 2005. 
-Ao descrever o Ateneu e as atitudes de seu diretor, o 
-narrador revela um olhar sobre a inserção social do 
-colégio demarcado pela`,
+    text: `Um dia, meu pai tomou-me pela mão, minha mãe beijou-me a
+testa, molhando-me de lágrimas os cabelos e eu parti. Duas
+vezes fora visitar o Ateneu antes da minha instalação. Ateneu
+era o grande colégio da época. Afamado por um sistema de
+nutrido reclame, mantido por um diretor que de tempos a tempos
+reformava o estabelecimento, pintando-o jeitosamente de
+novidade, como os negociantes que liquidam para recomeçar com
+artigos de última remessa; o Ateneu desde muito tinha
+consolidado crédito na preferência dos pais, sem levar em
+conta a simpatia da meninada, a cercar de aclamações o bombo
+vistoso dos anúncios. O Dr. Aristarco Argolo de Ramos, da
+conhecida família do Visconde de Ramos, do Norte, enchia o
+império com o seu renome de pedagogo. Eram boletins de
+propaganda pelas províncias, conferências em diversos pontos
+da cidade, a pedidos, à substância, atochando a imprensa dos
+lugarejos, caixões, sobretudo, de livros elementares,
+fabricados às pressas com o ofegante e esbaforido concurso de
+professores prudentemente anônimos, caixões e mais caixões de
+volumes cartonados em Leipzig, inundando as escolas públicas
+de toda a parte com a sua invasão de capas azuis, róseas,
+amarelas, em que o nome de Aristarco, inteiro e sonoro,
+oferecia-se ao pasmo venerador dos esfaimados de alfabeto dos
+confins da pátria. Os lugares que os não procuravam eram um
+belo dia surpreendidos pela enchente, gratuita, espontânea,
+irresistível! E não havia senão aceitar a farinha daquela
+marca para o pão do espírito. POMPÉIA, R. O Ateneu . São
+Paulo: Scipione, 2005. Ao descrever o Ateneu e as atitudes de
+seu diretor, o narrador revela um olhar sobre a inserção
+social do colégio demarcado pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `ideologia mercantil da educação, repercutida nas vaidades 
-pessoais.` },
-      { id: 'B', type: 'text', value: `interferência afetiva das famílias, determinantes no 
-processo educacional.` },
-      { id: 'C', type: 'text', value: `produção pioneira de material didático, responsável pela 
-facilitação do ensino.` },
-      { id: 'D', type: 'text', value: `ampliação do acesso à educação, com a negociação 
-dos custos escolares.` },
-      { id: 'E', type: 'text', value: `cumplicidade entre educadores e famílias, unidos pelo 
-interesse comum do avanço social.` },
+      { id: 'A', type: 'text', value: `ideologia mercantil da educação, repercutida nas vaidades pessoais.` },
+      { id: 'B', type: 'text', value: `interferência afetiva das famílias, determinantes no processo educacional.` },
+      { id: 'C', type: 'text', value: `produção pioneira de material didático, responsável pela facilitação do ensino.` },
+      { id: 'D', type: 'text', value: `ampliação do acesso à educação, com a negociação dos custos escolares.` },
+      { id: 'E', type: 'text', value: `cumplicidade entre educadores e famílias, unidos pelo interesse comum do avanço social.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No trecho de “O Ateneu”, de Raul Pompéia, o narrador descreve o colégio como empresa sustentada por intensa propaganda e pelo renome do diretor Aristarco, que vivia a reformar e anunciar o estabelecimento como um comerciante. A escola aparece movida pelo lucro e pela vaidade de seu dono. O olhar do narrador sobre a inserção social do colégio é demarcado, assim, pela ideologia mercantil da educação, repercutida nas vaidades pessoais (alternativa A). As demais opções apontam interferência afetiva das famílias, produção de material didático, ampliação do acesso ou cumplicidade entre educadores e famílias, que não correspondem ao texto.`,
@@ -1637,16 +1385,11 @@ singularidade. No caso específico de uma biografia
 como a de João Antônio de Barros, um dos principais 
 elementos que a constitui é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a estilização dos eventos reais de sua vida, para que 
-o relato biográfico surta os efeitos desejados.` },
-      { id: 'B', type: 'text', value: `o relato de eventos de sua vida em perspectiva 
-histórica, que valorize seu percurso artístico.` },
-      { id: 'C', type: 'text', value: `a narração de eventos de sua vida que demonstrem a 
-qualidade de sua obra.` },
-      { id: 'D', type: 'text', value: `uma retórica que enfatize alguns eventos da vida 
-exemplar da pessoa biografada.` },
-      { id: 'E', type: 'text', value: `uma exposição de eventos de sua vida que mescle 
-objetividade e construção ficcional.` },
+      { id: 'A', type: 'text', value: `a estilização dos eventos reais de sua vida, para que o relato biográfico surta os efeitos desejados.` },
+      { id: 'B', type: 'text', value: `o relato de eventos de sua vida em perspectiva histórica, que valorize seu percurso artístico.` },
+      { id: 'C', type: 'text', value: `a narração de eventos de sua vida que demonstrem a qualidade de sua obra.` },
+      { id: 'D', type: 'text', value: `uma retórica que enfatize alguns eventos da vida exemplar da pessoa biografada.` },
+      { id: 'E', type: 'text', value: `uma exposição de eventos de sua vida que mescle objetividade e construção ficcional.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A biografia é um gênero que descreve a trajetória de um indivíduo, evidenciando sua singularidade. No caso de João Antônio de Barros, marceneiro, xilógrafo e poeta repentista que vive da venda de cordéis, o texto ressalta justamente seu percurso como artista popular. Um dos principais elementos que constituem essa biografia é, portanto, o relato de eventos de sua vida em perspectiva histórica, que valorize seu percurso artístico (alternativa B). As demais opções falam em estilização, narração que comprove a qualidade da obra, retórica de enfatização ou construção ficcional, que não definem o gênero biográfico.`,
@@ -1679,14 +1422,10 @@ uma forma de resistência e protesto a esse período,
 metaforizando`,
     alternatives: [
       { id: 'A', type: 'text', value: `as artes plásticas, deturpadas pela repressão e censura.` },
-      { id: 'B', type: 'text', value: `a natureza brasileira, agonizante como um pássaro 
-enjaulado.` },
-      { id: 'C', type: 'text', value: `o nacionalismo romântico, silenciado pela perplexidade 
-com a Ditadura.` },
-      { id: 'D', type: 'text', value: `o emblema nacional, transfigurado pelas marcas do 
-medo e da violência.` },
-      { id: 'E', type: 'text', value: `as riquezas da terra, espoliadas durante o aparelhamento 
-do poder armado.` },
+      { id: 'B', type: 'text', value: `a natureza brasileira, agonizante como um pássaro enjaulado.` },
+      { id: 'C', type: 'text', value: `o nacionalismo romântico, silenciado pela perplexidade com a Ditadura.` },
+      { id: 'D', type: 'text', value: `o emblema nacional, transfigurado pelas marcas do medo e da violência.` },
+      { id: 'E', type: 'text', value: `as riquezas da terra, espoliadas durante o aparelhamento do poder armado.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. No poema “Aquarela”, de Cacaso, escrito durante o Regime Militar dos anos 1970, o corpo é comparado a um pássaro que agoniza, e as cores verde, amarelo, azul e branco remetem às da bandeira nacional. Essa recomposição dolorosa dos símbolos pátrios transforma o emblema do país em imagem de sofrimento e repressão. O poema, como forma de resistência e protesto, metaforiza o emblema nacional, transfigurado pelas marcas do medo e da violência (alternativa D). As demais opções associam a metáfora às artes plásticas, à natureza, ao nacionalismo romântico ou às riquezas da terra, sentidos que não se sustentam.`,
@@ -1724,16 +1463,11 @@ Representante da ficção contemporânea, a prosa de Lygia
 Fagundes Telles configura e desconstrói modelos sociais. 
 No trecho, a percepção do núcleo familiar descortina um(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `convivência frágil ligando pessoas financeiramente 
-dependentes.` },
-      { id: 'B', type: 'text', value: `tensa hierarquia familiar equilibrada graças à presença 
-da matriarca.` },
-      { id: 'C', type: 'text', value: `pacto de atitudes e valores mantidos à custa de 
-ocultações e hipocrisias.` },
-      { id: 'D', type: 'text', value: `tradicional conflito de gerações protagonizado pela 
-narradora e seus tios.` },
-      { id: 'E', type: 'text', value: `velada discriminação racial refletida na procura de 
-casamentos com europeus.` },
+      { id: 'A', type: 'text', value: `convivência frágil ligando pessoas financeiramente dependentes.` },
+      { id: 'B', type: 'text', value: `tensa hierarquia familiar equilibrada graças à presença da matriarca.` },
+      { id: 'C', type: 'text', value: `pacto de atitudes e valores mantidos à custa de ocultações e hipocrisias.` },
+      { id: 'D', type: 'text', value: `tradicional conflito de gerações protagonizado pela narradora e seus tios.` },
+      { id: 'E', type: 'text', value: `velada discriminação racial refletida na procura de casamentos com europeus.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No trecho de “A estrutura da bolha de sabão”, de Lygia Fagundes Telles, a narradora revela que a imagem harmoniosa e perfeita da própria família era uma construção idealizada, desmentida quando Margarida expõe os “podres” do clã. Vêm à tona casamentos por interesse, hipocrisias e preconceitos antes dissimulados. A percepção do núcleo familiar descortina, assim, um pacto de atitudes e valores mantidos à custa de ocultações e hipocrisias (alternativa C). As demais opções falam em dependência financeira, hierarquia equilibrada, conflito de gerações ou discriminação racial, que não traduzem o essencial do texto.`,
@@ -1783,15 +1517,11 @@ gráfico. O recurso da linguagem verbal que contribui
 para esse destaque é o emprego`,
     images: ['/enem/2015/images/enem_2015_d2_q132.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `do termo “fácil” no início do anúncio, com foco no 
-processo.` },
+      { id: 'A', type: 'text', value: `do termo “fácil” no início do anúncio, com foco no processo.` },
       { id: 'B', type: 'text', value: `de adjetivos que valorizam a nitidez da impressão.` },
-      { id: 'C', type: 'text', value: `das formas verbais no futuro e no pretérito, em 
-sequência.` },
-      { id: 'D', type: 'text', value: `da expressão intensificadora “menos do que” 
-associada à qualidade.` },
-      { id: 'E', type: 'text', value: `da locução “do mundo” associada a “melhor”, que 
-quantifica a ação.` },
+      { id: 'C', type: 'text', value: `das formas verbais no futuro e no pretérito, em sequência.` },
+      { id: 'D', type: 'text', value: `da expressão intensificadora “menos do que” associada à qualidade.` },
+      { id: 'E', type: 'text', value: `da locução “do mundo” associada a “melhor”, que quantifica a ação.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. A peça publicitária “Cópia rápida fácil. Vai ser bom, não foi?” destaca a rapidez do serviço gráfico como estratégia de persuasão. Para isso, emprega uma forma verbal no futuro (“vai ser”) seguida de outra no pretérito (“não foi?”), antecipando a satisfação do cliente como se ela já tivesse acontecido. Esse recurso reforça o destaque à rapidez pelo emprego das formas verbais no futuro e no pretérito, em sequência (alternativa C). As demais opções apontam o termo “fácil”, adjetivos sobre a nitidez, a expressão “menos do que” ou a locução “do mundo”, que não explicam esse efeito.`,
@@ -1821,10 +1551,8 @@ Nesse sentido, conclui-se que as brincadeiras comportam o(a)`,
       { id: 'A', type: 'text', value: `caráter competitivo que se assemelha às suas origens.` },
       { id: 'B', type: 'text', value: `delimitação de regras que se perpetuam com o tempo.` },
       { id: 'C', type: 'text', value: `definição antecipada do número de grupos participantes.` },
-      { id: 'D', type: 'text', value: `objetivo de aperfeiçoamento físico daqueles que a 
-praticam.` },
-      { id: 'E', type: 'text', value: `possibilidade de reinvenção no contexto em que é 
-realizada.` },
+      { id: 'D', type: 'text', value: `objetivo de aperfeiçoamento físico daqueles que a praticam.` },
+      { id: 'E', type: 'text', value: `possibilidade de reinvenção no contexto em que é realizada.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto conta que a amarelinha nasceu como treinamento militar no Império Romano e, ao longo do tempo, transformou-se em brincadeira infantil, variando formatos, número de casas e até os nomes escritos no desenho. Essa trajetória mostra que a brincadeira se adapta a cada época e lugar em que é praticada. Conclui-se, assim, que as brincadeiras comportam a possibilidade de reinvenção no contexto em que é realizada (alternativa E). As demais opções apontam caráter competitivo, delimitação fixa de regras, definição antecipada de grupos ou aperfeiçoamento físico, que não traduzem o processo descrito.`,
@@ -1849,16 +1577,11 @@ BANDEIRA, M. Poesia completa e prosa . Rio de Janeiro: Nova Aguilar, 1985.
 No relato de memórias do autor, entre os recursos usados 
 para organizar a sequência dos eventos narrados, destaca-se a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `construção de frases curtas a fim de conferir 
-dinamicidade ao texto.` },
-      { id: 'B', type: 'text', value: `presença de advérbios de lugar para indicar a 
-progressão dos fatos.` },
-      { id: 'C', type: 'text', value: `alternância de tempos do pretérito para ordenar os 
-acontecimentos.` },
-      { id: 'D', type: 'text', value: `inclusão de enunciados com comentários e avaliações 
-pessoais.` },
-      { id: 'E', type: 'text', value: `alusão a pessoas marcantes na trajetória de vida do 
-escritor.` },
+      { id: 'A', type: 'text', value: `construção de frases curtas a fim de conferir dinamicidade ao texto.` },
+      { id: 'B', type: 'text', value: `presença de advérbios de lugar para indicar a progressão dos fatos.` },
+      { id: 'C', type: 'text', value: `alternância de tempos do pretérito para ordenar os acontecimentos.` },
+      { id: 'D', type: 'text', value: `inclusão de enunciados com comentários e avaliações pessoais.` },
+      { id: 'E', type: 'text', value: `alusão a pessoas marcantes na trajetória de vida do escritor.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No relato de memórias de Manuel Bandeira, o autor narra sua viagem à Europa em 1913 para tratar-se num sanatório suíço, encadeando fatos ocorridos antes, durante e depois desse momento. Para organizar a sequência dos acontecimentos, ele alterna diferentes tempos do pretérito, como “embarquei”, “me falara”, “vim a saber” e “fiquei”. Destaca-se, portanto, a alternância de tempos do pretérito para ordenar os acontecimentos (alternativa C). As demais opções apontam frases curtas, advérbios de lugar, comentários pessoais ou alusão a pessoas marcantes, que não são o recurso central de organização temporal.`,
@@ -1890,20 +1613,11 @@ materializam diferentes propósitos comunicativos.
 Ao responder à pergunta que dá título ao texto, o autor 
 tem como objetivo principal`,
     alternatives: [
-      { id: 'A', type: 'text', value: `defender o ponto de vista de que as ondas 
-eletromagnéticas são inofensivas.` },
-      { id: 'B', type: 'text', value: `divulgar resultados de recentes pesquisas científicas 
-para a sociedade.` },
-      { id: 'C', type: 'text', value: `apresentar 
-informações 
-acerca 
-das 
-ondas 
-eletromagnéticas e de seu uso.` },
-      { id: 'D', type: 'text', value: `alertar o leitor sobre os riscos de usar as micro-ondas 
-em seu dia a dia.` },
-      { id: 'E', type: 'text', value: `apontar diferenças fisiológicas entre formigas e seres 
-humanos.` },
+      { id: 'A', type: 'text', value: `defender o ponto de vista de que as ondas eletromagnéticas são inofensivas.` },
+      { id: 'B', type: 'text', value: `divulgar resultados de recentes pesquisas científicas para a sociedade.` },
+      { id: 'C', type: 'text', value: `apresentar informações acerca das ondas eletromagnéticas e de seu uso.` },
+      { id: 'D', type: 'text', value: `alertar o leitor sobre os riscos de usar as micro-ondas em seu dia a dia.` },
+      { id: 'E', type: 'text', value: `apontar diferenças fisiológicas entre formigas e seres humanos.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto de divulgação científica responde por que as formigas sobrevivem ao forno de micro-ondas, explicando que essas ondas eletromagnéticas aquecem a água e que, tendo pouca água no corpo, os insetos pouco se aquecem. Ao longo da resposta, o autor esclarece o funcionamento e os usos das micro-ondas, inclusive as de baixa intensidade presentes na telefonia celular. Seu objetivo principal é, assim, apresentar informações acerca das ondas eletromagnéticas e de seu uso (alternativa C). As demais opções restringem o texto a defender a inofensividade das ondas, divulgar pesquisas recentes, alertar sobre riscos ou comparar formigas e seres humanos.`,
@@ -1915,28 +1629,19 @@ humanos.` },
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `Um investidor inicia um dia com x ações de uma 
-empresa. No decorrer desse dia, ele efetua apenas 
-dois tipos de operações, comprar ou vender ações. 
-Para realizar essas operações, ele segue estes critérios: 
-I. 
-vende metade das ações que possui, assim que 
-seu valor fica acima do valor ideal ( Vi ); 
-II. compra a mesma quantidade de ações que 
-possui, assim que seu valor fica abaixo do valor 
-mínimo ( Vm ); 
-III. vende todas as ações que possui, quando seu 
-valor fica acima do valor ótimo ( Vo) . 
-O gráfico apresenta o período de operações e a variação 
-do valor de cada ação, em reais, no decorrer daquele dia e 
-a indicação dos valores ideal, mínimo e ótimo. 
-Valor da ação (R$) 
-Vo 
-Vi 
-Vm 
-Tempo (hora) 
-10 11 12 13 14 15 16 17 
-Quantas operações o investidor fez naquele dia?`,
+    text: `Um investidor inicia um dia com x ações de uma empresa. No
+decorrer desse dia, ele efetua apenas dois tipos de operações,
+comprar ou vender ações. Para realizar essas operações, ele
+segue estes critérios: I. vende metade das ações que possui,
+assim que seu valor fica acima do valor ideal ( Vi ); II.
+compra a mesma quantidade de ações que possui, assim que seu
+valor fica abaixo do valor mínimo ( Vm ); III. vende todas as
+ações que possui, quando seu valor fica acima do valor ótimo (
+Vo) . O gráfico apresenta o período de operações e a variação
+do valor de cada ação, em reais, no decorrer daquele dia e a
+indicação dos valores ideal, mínimo e ótimo. Valor da ação
+(R$) Vo Vi Vm Tempo (hora) 10 11 12 13 14 15 16 17 Quantas
+operações o investidor fez naquele dia?`,
     images: ['/enem/2015/images/enem_2015_d2_q136.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `3` },
@@ -2013,39 +1718,7 @@ em qual(is) intervalo(s)?`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `No contexto da matemática recreativa, utilizando 
-diversos materiais didáticos para motivar seus alunos, 
-uma professora organizou um jogo com um tipo de 
-baralho modificado. No início do jogo, vira-se uma carta 
-do baralho na mesa e cada jogador recebe em mãos 
-nove cartas. Deseja-se formar pares de cartas, sendo 
-a primeira carta a da mesa e a segunda, uma carta na 
-mão do jogador, que tenha um valor equivalente àquele 
-descrito na carta da mesa. O objetivo do jogo é verificar 
-qual jogador consegue o maior número de pares. Iniciado 
-o jogo, a carta virada na mesa e as cartas da mão de um 
-jogador são como no esquema: 
-7,5 
-4 
-3 
-4,3 
-6,8 
-3 
-4 
-0,75 
-6 
-8 
-34% 
-3,4 
-75% 
-6 
-8 
-3 
-4 
-Carta da mesa 
-Cartas da mão 
-Segundo as regras do jogo, quantas cartas da mão desse 
-jogador podem formar um par com a carta da mesa?`,
+    text: ``,
     images: ['/enem/2015/images/enem_2015_d2_q139.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `9` },
@@ -2064,56 +1737,23 @@ jogador podem formar um par com a carta da mesa?`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `Uma pesquisa de mercado foi realizada entre os 
-consumidores das classes sociais A, B, C e D que 
-costumam participar de promoções tipo sorteio ou 
-concurso. Os dados comparativos, expressos no 
-gráfico, revelam a participação desses consumidores 
-em 
-cinco 
-categorias: 
-via 
-Correios 
-(juntando 
-embalagens ou recortando códigos de barra), via 
-internet (cadastrando-se no site da empresa/marca 
-promotora), via mídias sociais (redes sociais), via SMS 
-(mensagem por celular) ou via rádio/TV. 
-Participação em promoções do tipo sorteio ou concurso em uma região 
-Percentual 
-45 
-40 
-37 
-40 
-35 
-35 
-34 
-33 
-30 
-28 
-Correios 
-28 
-24 
-30 
-25 
-Internet 
-20 
-Mídias Sociais 
-20 
-15 
-SMS 
-10 
-Rádio/TV 
-5 
-0 
-A/B 
-C/D 
-Uma empresa vai lançar uma promoção utilizando 
-apenas uma categoria nas classes A e B (A/B) e uma 
-categoria nas classes C e D (C/D). 
-De acordo com o resultado da pesquisa, para atingir o 
-maior número de consumidores das classes A/B e C/D, a 
-empresa deve realizar a promoção, respectivamente, via`,
+    text: `Uma pesquisa de mercado foi realizada entre os consumidores
+das classes sociais A, B, C e D que costumam participar de
+promoções tipo sorteio ou concurso. Os dados comparativos,
+expressos no gráfico, revelam a participação desses
+consumidores em cinco categorias: via Correios (juntando
+embalagens ou recortando códigos de barra), via internet
+(cadastrando-se no site da empresa/marca promotora), via
+mídias sociais (redes sociais), via SMS (mensagem por celular)
+ou via rádio/TV. Participação em promoções do tipo sorteio ou
+concurso em uma região Percentual 45 40 37 40 35 35 34 33 30
+28 Correios 28 24 30 25 Internet 20 Mídias Sociais 20 15 SMS
+10 Rádio/TV 5 0 A/B C/D Uma empresa vai lançar uma promoção
+utilizando apenas uma categoria nas classes A e B (A/B) e uma
+categoria nas classes C e D (C/D). De acordo com o resultado
+da pesquisa, para atingir o maior número de consumidores das
+classes A/B e C/D, a empresa deve realizar a promoção,
+respectivamente, via`,
     images: ['/enem/2015/images/enem_2015_d2_q140.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Correios e SMS.` },
@@ -2210,28 +1850,17 @@ A mediana dos tempos apresentados no quadro é`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `O Esquema I mostra a configuração de uma quadra 
-de basquete. Os trapézios em cinza, chamados de 
-garrafões, correspondem a áreas restritivas. 
-580 cm 
-580 cm 
-360 cm 
-600 cm 
-360 cm 
-600 cm 
-Esquema I: área restritiva antes de 2010 
-Visando atender as orientações do Comitê Central da 
-Federação Internacional de Basquete (Fiba) em 2010, que 
-unificou as marcações das diversas ligas, foi prevista uma 
-modificação nos garrafões das quadras, que passariam a 
-ser retângulos, como mostra o Esquema II. 
-490 cm 
-490 cm 
-580 cm 
-580 cm 
-Esquema II: área restritiva a partir de 2010 
-Após executadas as modificações previstas, houve 
-uma alteração na área ocupada por cada garrafão, que 
+    text: `O Esquema I mostra a configuração de uma quadra de basquete.
+Os trapézios em cinza, chamados de garrafões, correspondem a
+áreas restritivas. 580 cm 580 cm 360 cm 600 cm 360 cm 600 cm
+Esquema I: área restritiva antes de 2010 Visando atender as
+orientações do Comitê Central da Federação Internacional de
+Basquete (Fiba) em 2010, que unificou as marcações das
+diversas ligas, foi prevista uma modificação nos garrafões das
+quadras, que passariam a ser retângulos, como mostra o Esquema
+II. 490 cm 490 cm 580 cm 580 cm Esquema II: área restritiva a
+partir de 2010 Após executadas as modificações previstas,
+houve uma alteração na área ocupada por cada garrafão, que
 corresponde a um(a)`,
     images: ['/enem/2015/images/enem_2015_d2_q144_1.jpg', '/enem/2015/images/enem_2015_d2_q144_2.jpg'],
     alternatives: [
@@ -2343,27 +1972,16 @@ campeã a Escola II?`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `Uma carga de 100 contêineres, idênticos ao modelo 
-apresentado na Figura 1, deverá ser descarregada no 
-porto de uma cidade. Para isso, uma área retangular de 
-10 m por 32 m foi cedida para o empilhamento desses 
-contêineres (Figura 2). 
-6,4 m 
-2,5 m 
-2,5 m 
-Figura 1 
-Área para 
-armazenar 
-contêineres 
-32 m 
-10 m 
-Figura 2 
-De acordo com as normas desse porto, os contêineres 
-deverão ser empilhados de forma a não sobrarem espaços 
-nem ultrapassarem a área delimitada. 
-Após o empilhamento total da carga e atendendo à norma 
-do porto, a altura mínima a ser atingida por essa pilha de 
-contêineres é`,
+    text: `Uma carga de 100 contêineres, idênticos ao modelo apresentado
+na Figura 1, deverá ser descarregada no porto de uma cidade.
+Para isso, uma área retangular de 10 m por 32 m foi cedida
+para o empilhamento desses contêineres (Figura 2). 6,4 m 2,5 m
+2,5 m Figura 1 Área para armazenar contêineres 32 m 10 m
+Figura 2 De acordo com as normas desse porto, os contêineres
+deverão ser empilhados de forma a não sobrarem espaços nem
+ultrapassarem a área delimitada. Após o empilhamento total da
+carga e atendendo à norma do porto, a altura mínima a ser
+atingida por essa pilha de contêineres é`,
     images: ['/enem/2015/images/enem_2015_d2_q148.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `12,5 m.` },
@@ -2513,35 +2131,21 @@ de t , para t ≥ 1?`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `Para uma alimentação saudável, recomenda-se 
-ingerir, em relação ao total de calorias diárias, 60% de 
-carboidratos, 10% de proteínas e 30% de gorduras. 
-Uma nutricionista, para melhorar a visualização dessas 
-porcentagens, quer dispor esses dados em um polígono. 
-Ela pode fazer isso em um triângulo equilátero, um 
-losango, um pentágono regular, um hexágono regular 
-ou um octógono regular, desde que o polígono seja 
-dividido em regiões cujas áreas sejam proporcionais 
-às porcentagens mencionadas. Ela desenhou as 
-seguintes figuras: 
-Proteínas 
-Proteínas 
-Gorduras 
-Carboidratos 
-Gorduras 
-Carboidratos 
-Proteínas 
-Gorduras 
-Carboidratos 
-Gorduras 
-Carboidratos 
-Proteínas 
-Proteínas 
-Gorduras 
-Carboidratos 
-Entre esses polígonos, o único que satisfaz as condições 
-necessárias para representar a ingestão correta de 
-diferentes tipos de alimentos é o`,
+    text: `Para uma alimentação saudável, recomenda-se ingerir, em
+relação ao total de calorias diárias, 60% de carboidratos, 10%
+de proteínas e 30% de gorduras. Uma nutricionista, para
+melhorar a visualização dessas porcentagens, quer dispor esses
+dados em um polígono. Ela pode fazer isso em um triângulo
+equilátero, um losango, um pentágono regular, um hexágono
+regular ou um octógono regular, desde que o polígono seja
+dividido em regiões cujas áreas sejam proporcionais às
+porcentagens mencionadas. Ela desenhou as seguintes figuras:
+Proteínas Proteínas Gorduras Carboidratos Gorduras
+Carboidratos Proteínas Gorduras Carboidratos Gorduras
+Carboidratos Proteínas Proteínas Gorduras Carboidratos Entre
+esses polígonos, o único que satisfaz as condições necessárias
+para representar a ingestão correta de diferentes tipos de
+alimentos é o`,
     images: ['/enem/2015/images/enem_2015_d2_q153.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `triângulo.` },
@@ -2770,39 +2374,21 @@ centímetros, são, respectivamente, iguais a`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `Uma indústria produz malhas de proteção solar 
-para serem aplicadas em vidros, de modo a diminuir a 
-passagem de luz, a partir de fitas plásticas entrelaçadas 
-perpendicularmente. Nas direções vertical e horizontal, 
-são aplicadas fitas de 1 milímetro de largura, tal que a 
-distância entre elas é de ( d − 1) milímetros, conforme 
-a figura. O material utilizado não permite a passagem 
-da luz, ou seja, somente o raio de luz que atingir as 
-lacunas deixadas pelo entrelaçamento consegue 
-transpor essa proteção. 
-A taxa de cobertura do vidro é o percentual da área 
-da região coberta pelas fitas da malha, que são colocadas 
-paralelamente às bordas do vidro. 
-1 mm 
-1 mm 
-1 mm 
-1 mm 
-1 mm 
-1 mm 
-d 
-1 mm 
-d 
-1 mm 
-d 
-1 mm 
-d 
-d 
-d 
-d 
-Essa indústria recebeu a encomenda de uma malha 
-de proteção solar para ser aplicada em um vidro retangular 
-de 5 m de largura por 9 m de comprimento.  
-A medida de d , em milímetros, para que a taxa de 
+    text: `Uma indústria produz malhas de proteção solar para serem
+aplicadas em vidros, de modo a diminuir a passagem de luz, a
+partir de fitas plásticas entrelaçadas perpendicularmente. Nas
+direções vertical e horizontal, são aplicadas fitas de 1
+milímetro de largura, tal que a distância entre elas é de ( d
+− 1) milímetros, conforme a figura. O material utilizado não
+permite a passagem da luz, ou seja, somente o raio de luz que
+atingir as lacunas deixadas pelo entrelaçamento consegue
+transpor essa proteção. A taxa de cobertura do vidro é o
+percentual da área da região coberta pelas fitas da malha, que
+são colocadas paralelamente às bordas do vidro. 1 mm 1 mm 1 mm
+1 mm 1 mm 1 mm d 1 mm d 1 mm d 1 mm d d d d Essa indústria
+recebeu a encomenda de uma malha de proteção solar para ser
+aplicada em um vidro retangular de 5 m de largura por 9 m de
+comprimento. A medida de d , em milímetros, para que a taxa de
 cobertura da malha seja de 75% é`,
     images: ['/enem/2015/images/enem_2015_d2_q161.jpg'],
     alternatives: [
@@ -2980,34 +2566,19 @@ Qual o tipo de garrafa escolhida pela paciente?`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `Uma família fez uma festa de aniversário e 
-enfeitou o local da festa com bandeirinhas de papel. 
-Essas bandeirinhas foram feitas da seguinte maneira: 
-inicialmente, recortaram as folhas de papel em forma 
-de quadrado, como mostra a Figura 1. Em seguida, 
-dobraram as folhas quadradas ao meio sobrepondo 
-os lados BC e AD , de modo que C e D coincidam, e o 
-mesmo ocorra com A e B , conforme ilustrado na Figura 2. 
-Marcaram os pontos médios O e N , dos lados FG e AF , 
-respectivamente, e o ponto M do lado AD , de modo que 
-AM seja igual a um quarto de AD . A seguir, fizeram cortes 
-sobre as linhas pontilhadas ao longo da folha dobrada. 
-D 
-G 
-D 
-C 
-O 
-M 
-B 
-A 
-F 
-N 
-A 
-Figura 1 
-Figura 2 
-Após os cortes, a folha é aberta e a bandeirinha está 
-pronta. 
-A figura que representa a forma da bandeirinha pronta é`,
+    text: `Uma família fez uma festa de aniversário e enfeitou o local da
+festa com bandeirinhas de papel. Essas bandeirinhas foram
+feitas da seguinte maneira: inicialmente, recortaram as folhas
+de papel em forma de quadrado, como mostra a Figura 1. Em
+seguida, dobraram as folhas quadradas ao meio sobrepondo os
+lados BC e AD , de modo que C e D coincidam, e o mesmo ocorra
+com A e B , conforme ilustrado na Figura 2. Marcaram os pontos
+médios O e N , dos lados FG e AF , respectivamente, e o ponto
+M do lado AD , de modo que AM seja igual a um quarto de AD . A
+seguir, fizeram cortes sobre as linhas pontilhadas ao longo da
+folha dobrada. D G D C O M B A F N A Figura 1 Figura 2 Após os
+cortes, a folha é aberta e a bandeirinha está pronta. A figura
+que representa a forma da bandeirinha pronta é`,
     images: ['/enem/2015/images/enem_2015_d2_q167.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2015/images/enem_2015_d2_q167_A.jpg` },
@@ -3053,44 +2624,21 @@ pergunta oralmente respondida em inglês é`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `O polímero de PET (Politereftalato de Etileno) é um 
-dos plásticos mais reciclados em todo o mundo devido 
-à sua extensa gama de aplicações, entre elas, fibras 
-têxteis, tapetes, embalagens, filmes e cordas. Os gráficos 
-mostram o destino do PET reciclado no Brasil, sendo que, 
-no ano de 2010, o total de PET reciclado foi de 282 kton 
-(quilotoneladas). 
-PET RECICLADO - 2010 
-Usos Finais Têxteis 
-Usos Finais 
-Outros 
-7,6% 
-Tecidos e Malhas 
-Têxteis 
-37,8% 
-30% 
-Cerdas / Cordas / 
-Monofilamentos 
-27% 
-Tubos 
-3,8% 
-Fitas de Arquear 
-6,8% 
-Laminados 
-e chapas 
-7,9% 
-Emb. Alimentos 
-e não alimentos 
-17,2% 
-Resinas Insaturadas 
-e Alquídicas 
-18,9% 
-Não tecidos
-43% 
-Disponível em: www.abipet.org.br. Acesso em: 12 jul. 2012 (adaptado). 
-De acordo com os gráficos, a quantidade de embalagens 
-PET recicladas destinadas à produção de tecidos e 
-malhas, em kton, é mais aproximada de`,
+    text: `O polímero de PET (Politereftalato de Etileno) é um dos
+plásticos mais reciclados em todo o mundo devido à sua extensa
+gama de aplicações, entre elas, fibras têxteis, tapetes,
+embalagens, filmes e cordas. Os gráficos mostram o destino do
+PET reciclado no Brasil, sendo que, no ano de 2010, o total de
+PET reciclado foi de 282 kton (quilotoneladas). PET RECICLADO
+- 2010 Usos Finais Têxteis Usos Finais Outros 7,6% Tecidos e
+Malhas Têxteis 37,8% 30% Cerdas / Cordas / Monofilamentos 27%
+Tubos 3,8% Fitas de Arquear 6,8% Laminados e chapas 7,9% Emb.
+Alimentos e não alimentos 17,2% Resinas Insaturadas e
+Alquídicas 18,9% Não tecidos 43% Disponível em:
+www.abipet.org.br. Acesso em: 12 jul. 2012 (adaptado). De
+acordo com os gráficos, a quantidade de embalagens PET
+recicladas destinadas à produção de tecidos e malhas, em kton,
+é mais aproximada de`,
     images: ['/enem/2015/images/enem_2015_d2_q169.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `16,0.` },
@@ -3171,32 +2719,18 @@ temporal, em milímetros, é de`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `Devido ao aumento do fluxo de passageiros, uma 
-empresa de transporte coletivo urbano está fazendo 
-estudos para a implantação de um novo ponto de parada 
-em uma determinada rota. A figura mostra o percurso, 
-indicado pelas setas, realizado por um ônibus nessa rota 
-e a localização de dois de seus atuais pontos de parada, 
-representados por P e Q . 
-y 
-Rua C 
-Q 
-320 
-Rua B 
-20 
-Rua A 
-P 
-0 
-30 
-550 
-x 
-Os estudos indicam que o novo ponto T deverá 
-ser instalado, nesse percurso, entre as paradas 
-já existentes P e Q , de modo que as distâncias 
-percorridas pelo ônibus entre os pontos P e T e entre 
-os pontos T e Q sejam iguais. 
-De acordo com os dados, as coordenadas do novo ponto 
-de parada são`,
+    text: `Devido ao aumento do fluxo de passageiros, uma empresa de
+transporte coletivo urbano está fazendo estudos para a
+implantação de um novo ponto de parada em uma determinada
+rota. A figura mostra o percurso, indicado pelas setas,
+realizado por um ônibus nessa rota e a localização de dois de
+seus atuais pontos de parada, representados por P e Q . y Rua
+C Q 320 Rua B 20 Rua A P 0 30 550 x Os estudos indicam que o
+novo ponto T deverá ser instalado, nesse percurso, entre as
+paradas já existentes P e Q , de modo que as distâncias
+percorridas pelo ônibus entre os pontos P e T e entre os
+pontos T e Q sejam iguais. De acordo com os dados, as
+coordenadas do novo ponto de parada são`,
     images: ['/enem/2015/images/enem_2015_d2_q172.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `(290 ; 20).` },
@@ -3238,33 +2772,20 @@ escolhida será, em milímetros, de`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `Um estudante está pesquisando o desenvolvimento 
-de certo tipo de bactéria. Para essa pesquisa, ele utiliza 
-uma estufa para armazenar as bactérias. A temperatura
-no interior dessa estufa, em graus Celsius, é dada pela
-expressão T(h) = −h² + 22h − 85, em que h representa
-as horas do dia. Sabe-se que o número de bactérias é o 
-maior possível quando a estufa atinge sua temperatura 
-máxima e, nesse momento, ele deve retirá-las da estufa. 
-A tabela associa intervalos de temperatura, em graus 
-Celsius, com as classificações: muito baixa, baixa, média, 
-alta e muito alta. 
-Intervalos de 
-temperatura (°C) 
-Classificação 
-T < 0 
-Muito baixa 
-0 < T < 17 
-Baixa 
-17 < T < 30 
-Média 
-30 < T < 43 
-Alta 
-T > 43 
-Muito alta 
-Quando o estudante obtém o maior número possível 
-de bactérias, a temperatura no interior da estufa está 
-classificada como`,
+    text: `Um estudante está pesquisando o desenvolvimento de certo tipo
+de bactéria. Para essa pesquisa, ele utiliza uma estufa para
+armazenar as bactérias. A temperatura no interior dessa
+estufa, em graus Celsius, é dada pela expressão T(h) = −h² +
+22h − 85, em que h representa as horas do dia. Sabe-se que o
+número de bactérias é o maior possível quando a estufa atinge
+sua temperatura máxima e, nesse momento, ele deve retirá-las
+da estufa. A tabela associa intervalos de temperatura, em
+graus Celsius, com as classificações: muito baixa, baixa,
+média, alta e muito alta. Intervalos de temperatura (°C)
+Classificação T < 0 Muito baixa 0 < T < 17 Baixa 17 < T < 30
+Média 30 < T < 43 Alta T > 43 Muito alta Quando o estudante
+obtém o maior número possível de bactérias, a temperatura no
+interior da estufa está classificada como`,
     images: ['/enem/2015/images/enem_2015_d2_q174.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `muito baixa.` },
@@ -3283,23 +2804,15 @@ classificada como`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `A figura representa a vista superior de uma bola de futebol 
-americano, cuja forma é um elipsoide obtido pela rotação de 
-uma elipse em torno do eixo das abscissas. Os valores a 
-e b são, respectivamente, a metade do seu comprimento
-horizontal e a metade do seu comprimento vertical. Para
-essa bola, a diferença entre os comprimentos horizontal e 
-vertical é igual à metade do comprimento vertical. 
-y 
-b 
-− a 
-a 
-0 
-x 
-− b 
-Considere que o volume aproximado dessa bola é
-dado por V = 4ab².
-O volume dessa bola, em função apenas de b , é dado por`,
+    text: `A figura representa a vista superior de uma bola de futebol
+americano, cuja forma é um elipsoide obtido pela rotação de
+uma elipse em torno do eixo das abscissas. Os valores a e b
+são, respectivamente, a metade do seu comprimento horizontal e
+a metade do seu comprimento vertical. Para essa bola, a
+diferença entre os comprimentos horizontal e vertical é igual
+à metade do comprimento vertical. y b − a a 0 x − b Considere
+que o volume aproximado dessa bola é dado por V = 4ab². O
+volume dessa bola, em função apenas de b , é dado por`,
     images: ['/enem/2015/images/enem_2015_d2_q175.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `8b³` },
@@ -3347,21 +2860,15 @@ nesse plano e o número de ligações feitas é:`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: `Alguns 
-medicamentos 
-para 
-felinos 
-são 
-administrados com base na superfície corporal do 
-animal. Foi receitado a um felino pesando 3,0 kg um 
-medicamento na dosagem diária de 250 mg por metro 
-quadrado de superfície corporal. 
-O quadro apresenta a relação entre a massa do felino, 
-em quilogramas, e a área de sua superfície corporal, em 
-metros quadrados. 
- 
-NORSWORTHY, G. D. O paciente felino . São Paulo: Roca, 2009.  
-A dose diária, em miligramas, que esse felino deverá 
+    text: `Alguns medicamentos para felinos são administrados com base na
+superfície corporal do animal. Foi receitado a um felino
+pesando 3,0 kg um medicamento na dosagem diária de 250 mg por
+metro quadrado de superfície corporal. O quadro apresenta a
+relação entre a massa do felino, em quilogramas, e a área de
+sua superfície corporal, em metros quadrados.
+
+NORSWORTHY, G. D. O paciente felino . São Paulo: Roca, 2009. 
+A dose diária, em miligramas, que esse felino deverá
 receber é de`,
     images: ['/enem/2015/images/enem_2015_d2_q177.jpg'],
     alternatives: [
@@ -3514,14 +3021,10 @@ determinado momento porque`,
     images: ['/enem/2015/images/enem_2015_d2_q182.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `as duas amigas divergem de opinião sobre futebol.` },
-      { id: 'B', type: 'text', value: `uma das amigas desconsidera as preferências da
-outra.` },
-      { id: 'C', type: 'text', value: `uma das amigas ignora que o outono é temporada de
-futebol.` },
-      { id: 'D', type: 'text', value: `uma das amigas desconhece a razão pela qual a
-outra a maltrata.` },
-      { id: 'E', type: 'text', value: `as duas amigas atribuem sentidos diferentes à palavra
-season.` },
+      { id: 'B', type: 'text', value: `uma das amigas desconsidera as preferências da outra.` },
+      { id: 'C', type: 'text', value: `uma das amigas ignora que o outono é temporada de futebol.` },
+      { id: 'D', type: 'text', value: `uma das amigas desconhece a razão pela qual a outra a maltrata.` },
+      { id: 'E', type: 'text', value: `as duas amigas atribuem sentidos diferentes à palavra season.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Na tira “For better or for worse”, as personagens conversam sobre o outono: uma delas comenta a mudança das folhas e o frio da estação, enquanto a outra entende que o assunto é a temporada de futebol. O mal-entendido surge porque a palavra “season” é empregada com sentidos diferentes por cada uma. A comunicação fica comprometida porque as duas amigas atribuem sentidos diferentes à palavra season (alternativa E). As demais opções apontam divergência de opinião, desconsideração das preferências, desconhecimento da temporada de futebol ou maus-tratos, que não explicam a falha na comunicação.`,
@@ -3617,14 +3120,10 @@ voltado a passageiros, tem o objetivo de`,
     images: ['/enem/2015/images/enem_2015_d2_q185.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `solicitar que as malas sejam apresentadas para inspeção.` },
-      { id: 'B', type: 'text', value: `notificar o passageiro pelo transporte de produtos
-proibidos.` },
-      { id: 'C', type: 'text', value: `informar que a mala foi revistada pelos oficiais de
-segurança.` },
-      { id: 'D', type: 'text', value: `dar instruções de como arrumar malas de forma a
-evitar inspeções.` },
-      { id: 'E', type: 'text', value: `apresentar desculpas pelo dano causado à mala
-durante a viagem.` },
+      { id: 'B', type: 'text', value: `notificar o passageiro pelo transporte de produtos proibidos.` },
+      { id: 'C', type: 'text', value: `informar que a mala foi revistada pelos oficiais de segurança.` },
+      { id: 'D', type: 'text', value: `dar instruções de como arrumar malas de forma a evitar inspeções.` },
+      { id: 'E', type: 'text', value: `apresentar desculpas pelo dano causado à mala durante a viagem.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O aviso da Transportation Security Administration (TSA) informa ao passageiro que sua bagagem foi selecionada e aberta para inspeção de segurança, conforme exigido por lei, e que o conteúdo foi devolvido à mala. Trata-se de uma comunicação oficial que dá ciência ao viajante do procedimento realizado. O objetivo do aviso é, portanto, informar que a mala foi revistada pelos oficiais de segurança (alternativa C). As demais opções falam em solicitar que as malas sejam apresentadas, notificar sobre o transporte de produtos proibidos, dar instruções de como arrumar as malas ou apresentar desculpas pelo dano, que não correspondem à finalidade do texto.`,

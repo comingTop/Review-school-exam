@@ -30,18 +30,11 @@ socialmente engajadas. O título Pablo Pueblo , associado ao
 conteúdo da letra da canção, revela uma crítica social ao`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `contrapor a individualidade de um sujeito a uma 
-estrutura social marcada pela decepção na atuação 
-política.` },
-      { id: 'B', type: 'text', value: `demonstrar que o problema sofrido pelo indivíduo 
-atinge toda a comunidade.` },
-      { id: 'C', type: 'text', value: `relativizar a importância que se dá ao sofrimento 
-individual em uma estrutura social baseada na 
-exploração.` },
-      { id: 'D', type: 'text', value: `descrever a vida de um sujeito que nunca resolve 
-suas inquietações e, por isso, mantém-se silencioso.` },
-      { id: 'E', type: 'text', value: `usar um apelido jocoso para designar a atuação de 
-um indivíduo em seu próprio bairro.` },
+      { id: 'A', type: 'text', value: `contrapor a individualidade de um sujeito a uma estrutura social marcada pela decepção na atuação política.` },
+      { id: 'B', type: 'text', value: `demonstrar que o problema sofrido pelo indivíduo atinge toda a comunidade.` },
+      { id: 'C', type: 'text', value: `relativizar a importância que se dá ao sofrimento individual em uma estrutura social baseada na exploração.` },
+      { id: 'D', type: 'text', value: `descrever a vida de um sujeito que nunca resolve suas inquietações e, por isso, mantém-se silencioso.` },
+      { id: 'E', type: 'text', value: `usar um apelido jocoso para designar a atuação de um indivíduo em seu próprio bairro.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A canção acompanha Pablo Pueblo, um trabalhador qualquer que volta cansado para seu bairro de sempre e reencontra velhos cartazes eleitorais que prometiam futuros 'en lides politiqueras', estampando no rosto 'la decepción de la espera'. A crítica social nasce justamente do contraste entre esse sujeito individual e uma estrutura social marcada pela frustração com a política, como aponta a alternativa correta. Não se afirma que o problema do indivíduo atinge toda a comunidade (B) nem se relativiza o sofrimento individual (C). O texto também não se limita a descrever um homem que vive calado (D) nem usa o nome como apelido jocoso (E), pois 'Pablo Pueblo' simboliza o próprio povo.`,
@@ -54,57 +47,42 @@ um indivíduo em seu próprio bairro.` },
     exam: 'enem',
     year: 2020,
     day: 1,
-    text: `Los propietarios de la libertad 
-Las palabras cumplen ciclos; las actitudes también. Sin 
-embargo, cuando las palabras designan actitudes, los ciclos 
-se vuelven más complejos. Cuando el hoy tan denostado 
-Sartre puso la palabra compromiso sobre el tapete y 
-hasta Mac Leish publicó un libro sobre la responsabilidad 
-de los intelectuales, estas dos palabras, compromiso y 
-responsabilidad , designaban actitudes que, sin ser gemelas, 
-eran bastante afines. Salvo contadas excepciones, los 
-intelectuales de entonces las hicieron suyas y, equivocados 
-o no, dijeron sin eufemismos por qué empeño se la jugaban. 
-Los 
-intelectuales 
-latinoamericanos 
-también 
-comprendieron dónde estaba esta vez el enemigo. Sólo 
-entonces empezó la mala prensa. Los grandes pontífices 
-de la propaganda subrayaron una y otra vez la palabra 
-libertad y denostaron el compromiso . Libertad no era 
-librarse de Batista o de Somoza, sino mantener la prensa 
-libre . Libertad es la emocionada comprobación de que la 
-gran prensa norteamericana es capaz de descubrir que 
-Lumumba o Allende fueron liquidados por la CIA, sin 
-poner el acento en que eso no sirve para resucitarlos. 
-¿Y compromiso ? Es la actitud que adoptan 
-ciertos intelectuales, cuya carga ideológica perjudica 
-notoriamente su arte. Después de todo, ¿cómo se atreven 
-a frecuentar las provincias del espíritu, si es público y
-notorio que tales ámbitos son patrimonio exclusivo de los
-propietarios de la libertad ? 
- BENEDETTI, M. Perplejidades de fin de siglo . 
-Buenos Aires: Sudamericana, 1993 (adaptado). 
-Transformar palavras em atitudes tem sido um dos 
-grandes dilemas dos intelectuais. Ao ponderar sobre 
-essa temática, o autor, um dos grandes críticos e literatos 
-latino-americanos da atualidade, leva o leitor a perceber 
-que`,
+    text: `Los propietarios de la libertad Las palabras cumplen ciclos;
+las actitudes también. Sin embargo, cuando las palabras
+designan actitudes, los ciclos se vuelven más complejos.
+Cuando el hoy tan denostado Sartre puso la palabra compromiso
+sobre el tapete y hasta Mac Leish publicó un libro sobre la
+responsabilidad de los intelectuales, estas dos palabras,
+compromiso y responsabilidad , designaban actitudes que, sin
+ser gemelas, eran bastante afines. Salvo contadas excepciones,
+los intelectuales de entonces las hicieron suyas y,
+equivocados o no, dijeron sin eufemismos por qué empeño se la
+jugaban. Los intelectuales latinoamericanos también
+comprendieron dónde estaba esta vez el enemigo. Sólo entonces
+empezó la mala prensa. Los grandes pontífices de la propaganda
+subrayaron una y otra vez la palabra libertad y denostaron el
+compromiso . Libertad no era librarse de Batista o de Somoza,
+sino mantener la prensa libre . Libertad es la emocionada
+comprobación de que la gran prensa norteamericana es capaz de
+descubrir que Lumumba o Allende fueron liquidados por la CIA,
+sin poner el acento en que eso no sirve para resucitarlos. ¿Y
+compromiso ? Es la actitud que adoptan ciertos intelectuales,
+cuya carga ideológica perjudica notoriamente su arte. Después
+de todo, ¿cómo se atreven a frecuentar las provincias del
+espíritu, si es público y notorio que tales ámbitos son
+patrimonio exclusivo de los propietarios de la libertad ?
+BENEDETTI, M. Perplejidades de fin de siglo . Buenos Aires:
+Sudamericana, 1993 (adaptado). Transformar palavras em
+atitudes tem sido um dos grandes dilemas dos intelectuais. Ao
+ponderar sobre essa temática, o autor, um dos grandes críticos
+e literatos latino-americanos da atualidade, leva o leitor a
+perceber que`,
     alternatives: [
       { id: 'A', type: 'text', value: `o compromisso político afasta o artista da criação.` },
-      { id: 'B', type: 'text', value: `os costumes sociais governam a linguagem e as 
-atitudes das pessoas.` },
-      { id: 'C', type: 'text', value: `o compromisso ideológico de alguns intelectuais está 
-refletido em suas obras.` },
-      { id: 'D', type: 'text', value: `a complexidade relacionada ao conceito de liberdade 
-impede o compromisso.` },
-      { id: 'E', type: 'text', value: `os 
-intelectuais 
-latino-americanos 
-têm 
-um 
-posicionamento acrítico perante o poder.` },
+      { id: 'B', type: 'text', value: `os costumes sociais governam a linguagem e as atitudes das pessoas.` },
+      { id: 'C', type: 'text', value: `o compromisso ideológico de alguns intelectuais está refletido em suas obras.` },
+      { id: 'D', type: 'text', value: `a complexidade relacionada ao conceito de liberdade impede o compromisso.` },
+      { id: 'E', type: 'text', value: `os intelectuais latino-americanos têm um posicionamento acrítico perante o poder.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Ao retomar o debate sobre 'compromiso' e 'responsabilidad', Benedetti conclui, em tom irônico, que o engajamento é 'la actitud que adoptan ciertos intelectuales, cuya carga ideológica' se faz notar em sua produção. O autor leva o leitor a perceber, portanto, que o compromisso ideológico de alguns intelectuais está refletido em suas obras. A ideia de que o engajamento afasta o artista da criação (A) é a tese dos 'propietarios de la libertad' que ele critica, não a sua. O texto não sustenta que os costumes governem a linguagem (B), que a complexidade da liberdade impeça o compromisso (D) ou que os intelectuais latino-americanos sejam acríticos (E) — ao contrário, diz que eles compreenderam onde estava o inimigo.`,
@@ -148,16 +126,11 @@ MARTÍNEZ, L. Disponível em: www.elmundo.es. Acesso em: 13 abr. 2015 (adaptado)
 Nessa resenha crítica acerca do filme Relatos Salvajes , 
 o autor evidencia o`,
     alternatives: [
-      { id: 'A', type: 'text', value: `cômico como fuga da sociedade diante de situações 
-violentas.` },
-      { id: 'B', type: 'text', value: `estado de apatia da sociedade perante a violência 
-rotineira do mundo atual.` },
-      { id: 'C', type: 'text', value: `empecilho para o espectador vivenciar a violência 
-bruta na realidade e na ficção.` },
-      { id: 'D', type: 'text', value: `sotaque reforçado dos personagens a fim de marcar 
-o espaço do cinema argentino.` },
-      { id: 'E', type: 'text', value: `autorreconhecimento diante dos diversos tipos de 
-comportamento humano frente à violência.` },
+      { id: 'A', type: 'text', value: `cômico como fuga da sociedade diante de situações violentas.` },
+      { id: 'B', type: 'text', value: `estado de apatia da sociedade perante a violência rotineira do mundo atual.` },
+      { id: 'C', type: 'text', value: `empecilho para o espectador vivenciar a violência bruta na realidade e na ficção.` },
+      { id: 'D', type: 'text', value: `sotaque reforçado dos personagens a fim de marcar o espaço do cinema argentino.` },
+      { id: 'E', type: 'text', value: `autorreconhecimento diante dos diversos tipos de comportamento humano frente à violência.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Na resenha de 'Relatos Salvajes', Martínez destaca que o filme provoca uma 'sensación de reconocimiento': cada personagem prejudicado 'somos nosotros' e cada insulto proferido já saiu, ou sairá, de nossa própria boca. O crítico evidencia, assim, o autorreconhecimento do espectador diante dos diversos comportamentos humanos frente à violência. O cômico não é apresentado como fuga (A), e a apatia social, embora citada, não é o ponto ressaltado pela pergunta (B). O filme não é tratado como empecilho para vivenciar a violência (C), e o sotaque argentino aparece como detalhe secundário, não como foco (D).`,
@@ -287,17 +260,11 @@ entre os quais se destacam as funções da linguagem.
 Nesse fragmento, a função da linguagem predominante é a`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `emotiva, porque o poeta expõe os sentimentos de 
-angústia que o levaram à criação poética.` },
-      { id: 'B', type: 'text', value: `referencial, porque o texto informa sobre a origem do 
-nome empregado em um famoso poema de Bandeira.` },
-      { id: 'C', type: 'text', value: `metalinguística, porque o poeta tece comentários 
-sobre a gênese e o processo de escrita de um de 
-seus poemas.` },
-      { id: 'D', type: 'text', value: `poética, porque o texto aborda os elementos estéticos 
-de um dos poemas mais conhecidos de Bandeira.` },
-      { id: 'E', type: 'text', value: `apelativa, porque o poeta tenta convencer os leitores 
-sobre sua dificuldade de compor um poema.` },
+      { id: 'A', type: 'text', value: `emotiva, porque o poeta expõe os sentimentos de angústia que o levaram à criação poética.` },
+      { id: 'B', type: 'text', value: `referencial, porque o texto informa sobre a origem do nome empregado em um famoso poema de Bandeira.` },
+      { id: 'C', type: 'text', value: `metalinguística, porque o poeta tece comentários sobre a gênese e o processo de escrita de um de seus poemas.` },
+      { id: 'D', type: 'text', value: `poética, porque o texto aborda os elementos estéticos de um dos poemas mais conhecidos de Bandeira.` },
+      { id: 'E', type: 'text', value: `apelativa, porque o poeta tenta convencer os leitores sobre sua dificuldade de compor um poema.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No fragmento do 'Itinerário de Pasárgada', Manuel Bandeira comenta a origem do nome, a longa gestação e o processo de composição de um de seus próprios poemas. Predomina, portanto, a função metalinguística, em que a linguagem se volta para refletir sobre a própria obra. Embora haja emoção no relato (A), ela não é o elemento predominante, assim como a informação sobre o nome é apenas parte do texto, não o foco central (B). Não se trata da função poética voltada aos elementos estéticos do poema (D) nem de função apelativa para convencer o leitor (E).`,
@@ -358,8 +325,7 @@ o intuito de`,
       { id: 'B', type: 'text', value: `redefinir o espaço de circulação da poesia urbana.` },
       { id: 'C', type: 'text', value: `estimular produções autorais de usuários de Libras.` },
       { id: 'D', type: 'text', value: `traduzir expressões verbais para a língua de sinais.` },
-      { id: 'E', type: 'text', value: `proporcionar performances estéticas de pessoas 
-surdas.` },
+      { id: 'E', type: 'text', value: `proporcionar performances estéticas de pessoas surdas.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto descreve o Slam do Corpo, sarau em que poemas em Libras são declamados sem figurino ou música, cabendo ao intérprete modular a voz e o corpo para tornar a palavra 'visível' e emocionar a plateia. O corpo articula diferentes linguagens com o intuito de imprimir ritmo e visibilidade à expressão poética. Não se trata de redefinir o espaço de circulação da poesia (B) nem de apenas estimular produções autorais em Libras (C). O objetivo não é traduzir enunciados verbais para a língua de sinais (D), e proporcionar performances de pessoas surdas (E) é consequência, não a função destacada.`,
@@ -433,14 +399,8 @@ intencionalmente pelo autor do texto para`,
       { id: 'A', type: 'text', value: `imprimir um tom irônico à reportagem.` },
       { id: 'B', type: 'text', value: `incorporar citações de especialistas à reportagem.` },
       { id: 'C', type: 'text', value: `atribuir maior valor aos metais, objeto da reportagem.` },
-      { id: 'D', type: 'text', value: `esclarecer 
-termos 
-científicos 
-empregados 
-na 
-reportagem.` },
-      { id: 'E', type: 'text', value: `marcar a apropriação de termos de outra ciência pela 
-reportagem.` },
+      { id: 'D', type: 'text', value: `esclarecer termos científicos empregados na reportagem.` },
+      { id: 'E', type: 'text', value: `marcar a apropriação de termos de outra ciência pela reportagem.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Ao chamar os metais de terras-raras de 'ouro do século 21', 'elementos do futuro' ou 'vitaminas da indústria', o autor emprega aspas para sinalizar expressões metafóricas. Esse recurso serve para atribuir maior valor aos metais, que são o objeto da reportagem, ressaltando sua importância. As aspas não conferem tom irônico ao texto (A) nem incorporam citações de especialistas identificados (B). Elas também não têm a função de esclarecer termos científicos (D) nem de marcar a apropriação de termos de outra ciência (E).`,
@@ -469,16 +429,11 @@ ARANHA, J. P. G. Canaã . São Paulo: Ática, 1997.
 No trecho, o narrador mobiliza recursos de linguagem que 
 geram uma expressividade centrada na percepção da`,
     alternatives: [
-      { id: 'A', type: 'text', value: `relação entre a natureza opressiva e o desejo de 
-libertação da personagem.` },
-      { id: 'B', type: 'text', value: `confluência entre o estado emocional da personagem 
-e a configuração da paisagem.` },
-      { id: 'C', type: 'text', value: `prevalência do mundo natural em relação à fragilidade 
-humana.` },
-      { id: 'D', type: 'text', value: `depreciação do sentido da vida diante da consciência 
-da morte iminente.` },
-      { id: 'E', type: 'text', value: `instabilidade psicológica da personagem face à 
-realidade hostil.` },
+      { id: 'A', type: 'text', value: `relação entre a natureza opressiva e o desejo de libertação da personagem.` },
+      { id: 'B', type: 'text', value: `confluência entre o estado emocional da personagem e a configuração da paisagem.` },
+      { id: 'C', type: 'text', value: `prevalência do mundo natural em relação à fragilidade humana.` },
+      { id: 'D', type: 'text', value: `depreciação do sentido da vida diante da consciência da morte iminente.` },
+      { id: 'E', type: 'text', value: `instabilidade psicológica da personagem face à realidade hostil.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. No trecho de 'Canaã', a imaginação perturbada de Maria faz a natureza parecer agitar-se para sufocá-la: as sombras aumentam, as montanhas se perfilam ameaçadoras e os caminhos viram serpentes. Os recursos de linguagem evidenciam, assim, a confluência entre o estado emocional da personagem e a configuração da paisagem, que reflete seu medo. Não se destaca propriamente um desejo de libertação diante de uma natureza opressiva (A) nem a prevalência do mundo natural sobre a fragilidade humana (C). O texto não trata da depreciação do sentido da vida (D), e a instabilidade psicológica (E) é apenas o ponto de partida para a projeção subjetiva sobre o cenário.`,
@@ -520,16 +475,11 @@ São Paulo: Cosac Naify, 2004.
 Ao situar a composição no panorama cultural brasileiro, o 
 Texto II destaca o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `diálogo que a letra da canção estabelece com 
-diferentes tradições da cultura nacional.` },
-      { id: 'B', type: 'text', value: `singularidade com que o compositor converte 
-referências eruditas em populares.` },
-      { id: 'C', type: 'text', value: `caráter inovador com que o compositor concebe o 
-processo de criação artística.` },
-      { id: 'D', type: 'text', value: `relativização que a letra da canção promove na 
-concepção tradicional de originalidade.` },
-      { id: 'E', type: 'text', value: `resgate que a letra da canção promove de obras 
-pouco conhecidas pelo público no país.` },
+      { id: 'A', type: 'text', value: `diálogo que a letra da canção estabelece com diferentes tradições da cultura nacional.` },
+      { id: 'B', type: 'text', value: `singularidade com que o compositor converte referências eruditas em populares.` },
+      { id: 'C', type: 'text', value: `caráter inovador com que o compositor concebe o processo de criação artística.` },
+      { id: 'D', type: 'text', value: `relativização que a letra da canção promove na concepção tradicional de originalidade.` },
+      { id: 'E', type: 'text', value: `resgate que a letra da canção promove de obras pouco conhecidas pelo público no país.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O Texto II situa 'Águas de Março' no panorama cultural brasileiro ao mostrar que a canção dialoga com fontes diversas, como o poema parnasiano de Olavo Bilac e um ponto de macumba gravado pelo Conjunto Tupi. Destaca-se, portanto, o diálogo que a letra estabelece com diferentes tradições da cultura nacional. Não se trata de converter o erudito em popular (B) nem de ressaltar um caráter inovador de criação do nada (C), pois o texto lembra que 'nada vem do nada'. A questão não é relativizar a originalidade (D) nem resgatar obras pouco conhecidas (E), mas evidenciar a combinação de tradições.`,
@@ -562,14 +512,10 @@ estimulado a criação de aplicativos. Nesse texto, isso é
 percebido pelo desenvolvimento de aplicativos para`,
     alternatives: [
       { id: 'A', type: 'text', value: `organização de eventos de competições esportivas.` },
-      { id: 'B', type: 'text', value: `agendamento de viagens para eventos de esporte 
-amador.` },
-      { id: 'C', type: 'text', value: `mapeamento dos interesses dos praticantes acerca 
-dos esportes.` },
-      { id: 'D', type: 'text', value: `identificação da escassez de espaços para a vivência 
-dos esportes.` },
-      { id: 'E', type: 'text', value: `formação de grupos em comunidades virtuais para a 
-prática esportiva.` },
+      { id: 'B', type: 'text', value: `agendamento de viagens para eventos de esporte amador.` },
+      { id: 'C', type: 'text', value: `mapeamento dos interesses dos praticantes acerca dos esportes.` },
+      { id: 'D', type: 'text', value: `identificação da escassez de espaços para a vivência dos esportes.` },
+      { id: 'E', type: 'text', value: `formação de grupos em comunidades virtuais para a prática esportiva.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto apresenta aplicativos que reúnem pessoas interessadas em jogar futebol, permitindo organizar partidas, reservar espaços e convidar jogadores, inclusive quem está de passagem por uma cidade. A inter-relação entre tecnologia e sociedade aparece, assim, na formação de grupos em comunidades virtuais para a prática esportiva. Não se trata da organização de competições (A) nem do agendamento de viagens para eventos esportivos (B). O foco também não é mapear interesses dos praticantes (C) nem identificar a escassez de espaços (D), mas reunir pessoas para jogar.`,
@@ -600,16 +546,11 @@ A provocação desse grupo gera um debate em torno da
 obra de arte pelo(a)`,
     images: ['/enem/2020/images/enem_2020_d1_q14.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `recusa a crenças, convicções, valores morais, 
-estéticos e políticos na história moderna.` },
-      { id: 'B', type: 'text', value: `frutífero arsenal de materiais e formas que se 
-relacionam com os objetos construídos.` },
-      { id: 'C', type: 'text', value: `economia e problemas financeiros gerados pela 
-recessão que tiveram grande impacto no mercado.` },
-      { id: 'D', type: 'text', value: `influência desse grupo junto aos estilos pós-modernos 
-que surgiram nos anos 1990.` },
-      { id: 'E', type: 'text', value: `interesse em produtos indesejáveis que revela uma 
-consciência sustentável no mercado.` },
+      { id: 'A', type: 'text', value: `recusa a crenças, convicções, valores morais, estéticos e políticos na história moderna.` },
+      { id: 'B', type: 'text', value: `frutífero arsenal de materiais e formas que se relacionam com os objetos construídos.` },
+      { id: 'C', type: 'text', value: `economia e problemas financeiros gerados pela recessão que tiveram grande impacto no mercado.` },
+      { id: 'D', type: 'text', value: `influência desse grupo junto aos estilos pós-modernos que surgiram nos anos 1990.` },
+      { id: 'E', type: 'text', value: `interesse em produtos indesejáveis que revela uma consciência sustentável no mercado.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A obra de Damien Hirst, com um bezerro dividido e conservado em formaldeído, e o Texto II, que descreve o uso de materiais incomuns pelos Jovens Artistas Britânicos, geram debate em torno do emprego inusitado de recursos na arte. A provocação do grupo decorre, portanto, do frutífero arsenal de materiais e formas que se relacionam com os objetos construídos. A recusa a crenças e valores (A) remete ao niilismo citado de passagem, mas não ao cerne do debate. A recessão econômica (C) é contexto, não objeto do questionamento artístico, e nem a influência sobre estilos pós-modernos (D) nem a suposta consciência sustentável (E) correspondem ao foco.`,
@@ -639,19 +580,11 @@ estabelecem relações sociais. Considerando o texto, o
 futebol é uma modalidade que`,
     images: ['/enem/2020/images/enem_2020_d1_q15.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `apresenta proximidades com o tênis, no que tange às 
-relações de gênero entre homens e mulheres.` },
-      { id: 'B', type: 'text', value: `se caracteriza por uma identidade masculina no 
-Brasil, conferindo maior remuneração aos jogadores.` },
-      { id: 'C', type: 'text', value: `traz remunerações, aos jogadores e jogadoras, 
-proporcionais aos seus esforços no treinamento 
-esportivo.` },
-      { id: 'D', type: 'text', value: `resulta em melhor eficiência para as mulheres e, 
-consequentemente, em remuneração mais alta às 
-jogadoras.` },
-      { id: 'E', type: 'text', value: `possui jogadores e jogadoras com a mesma 
-visibilidade, apesar de haver expoentes femininas de 
-destaque, como Marta.` },
+      { id: 'A', type: 'text', value: `apresenta proximidades com o tênis, no que tange às relações de gênero entre homens e mulheres.` },
+      { id: 'B', type: 'text', value: `se caracteriza por uma identidade masculina no Brasil, conferindo maior remuneração aos jogadores.` },
+      { id: 'C', type: 'text', value: `traz remunerações, aos jogadores e jogadoras, proporcionais aos seus esforços no treinamento esportivo.` },
+      { id: 'D', type: 'text', value: `resulta em melhor eficiência para as mulheres e, consequentemente, em remuneração mais alta às jogadoras.` },
+      { id: 'E', type: 'text', value: `possui jogadores e jogadoras com a mesma visibilidade, apesar de haver expoentes femininas de destaque, como Marta.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto compara o tênis, esporte mais equânime, ao futebol, em que a desigualdade de remuneração entre gêneros atinge seu ápice, exemplificada pelos salários de Marta e Neymar. Conclui-se que o futebol se caracteriza por uma identidade masculina no Brasil, conferindo maior remuneração aos jogadores homens. Por isso, não apresenta proximidades com o tênis quanto às relações de gênero (A), citado justamente como contraponto. As remunerações não são proporcionais ao esforço (C), as mulheres não recebem mais por maior eficiência (D) e não há igual visibilidade entre jogadores e jogadoras (E), apesar do destaque de Marta.`,
@@ -694,16 +627,11 @@ algumas tentativas de neutralização dos representantes
 do empregador, das quais a mais forte é o(a)`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `sequência de atribuição de responsabilidades e de 
-poder decisório a terceiros.` },
-      { id: 'B', type: 'text', value: `solicitação em nome dos prejuízos e compromissos 
-para entrega da obra.` },
-      { id: 'C', type: 'text', value: `intimidação pela discreta presença de um agente de 
-segurança na cena.` },
-      { id: 'D', type: 'text', value: `promessa de imediato atendimento da carência 
-sexual dos operários.` },
-      { id: 'E', type: 'text', value: `apelo pela identificação com a empresa extensiva ao 
-amor patriótico.` },
+      { id: 'A', type: 'text', value: `sequência de atribuição de responsabilidades e de poder decisório a terceiros.` },
+      { id: 'B', type: 'text', value: `solicitação em nome dos prejuízos e compromissos para entrega da obra.` },
+      { id: 'C', type: 'text', value: `intimidação pela discreta presença de um agente de segurança na cena.` },
+      { id: 'D', type: 'text', value: `promessa de imediato atendimento da carência sexual dos operários.` },
+      { id: 'E', type: 'text', value: `apelo pela identificação com a empresa extensiva ao amor patriótico.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Diante das reivindicações dos operários por melhores condições, os representantes do empregador recorrem a diferentes táticas, mas a mais forte é o apelo para que se identifiquem com a empresa, elevado ao amor patriótico: acabar a ponte é 'uma questão de honra', 'um orgulho nacional'. A transferência de responsabilidades a terceiros ocorre (A), mas é menos contundente que o apelo patriótico. A solicitação em nome dos prejuízos (B) e a presença discreta de um agente (C) são tentativas secundárias, e a promessa de atender à carência sexual (D) é um recurso grosseiro, não o mais forte.`,
@@ -735,16 +663,11 @@ FERREIRA, M. S. Aptidão física e saúde na educação física escolar: amplian
 RBCE , n. 2, jan. 2001 (adaptado). 
 Com base no texto, a relação entre saúde e estilos de vida`,
     alternatives: [
-      { id: 'A', type: 'text', value: `constrói a ideia de que a mudança individual de 
-hábitos promove a saúde.` },
-      { id: 'B', type: 'text', value: `considera a homogeneidade da escolha de hábitos 
-saudáveis pelos indivíduos.` },
-      { id: 'C', type: 'text', value: `reforça a necessidade de solucionar os problemas de 
-saúde da sociedade com a prática de exercícios.` },
-      { id: 'D', type: 'text', value: `problematiza a organização social e seu impacto na 
-mudança de hábitos dos indivíduos.` },
-      { id: 'E', type: 'text', value: `reproduz a noção de que a melhoria da aptidão física 
-pela prática de exercícios promove a saúde.` },
+      { id: 'A', type: 'text', value: `constrói a ideia de que a mudança individual de hábitos promove a saúde.` },
+      { id: 'B', type: 'text', value: `considera a homogeneidade da escolha de hábitos saudáveis pelos indivíduos.` },
+      { id: 'C', type: 'text', value: `reforça a necessidade de solucionar os problemas de saúde da sociedade com a prática de exercícios.` },
+      { id: 'D', type: 'text', value: `problematiza a organização social e seu impacto na mudança de hábitos dos indivíduos.` },
+      { id: 'E', type: 'text', value: `reproduz a noção de que a melhoria da aptidão física pela prática de exercícios promove a saúde.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto critica o discurso da aptidão física que responsabiliza apenas o indivíduo pela própria saúde, lembrando que vivemos em uma sociedade dividida em classes, na qual nem todos têm condições de adotar um estilo de vida ativo. A relação entre saúde e estilos de vida é, portanto, problematizada a partir da organização social e de seu impacto sobre a mudança de hábitos. O texto não constrói a ideia de que a mudança individual promove a saúde (A) nem considera homogêneas as escolhas das pessoas (B); ao contrário, contesta essas visões. Também não defende resolver os problemas apenas com exercícios (C) nem reproduz a noção de que a aptidão física por si promove a saúde (E).`,
@@ -786,20 +709,11 @@ de Minas Gerais, 1967.
 No poema, a descrição lírica do objeto representado é 
 orientada por um olhar que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `desvela sentimentos de vazio e angústia sob a 
-aparente austeridade.` },
-      { id: 'B', type: 'text', value: `expressa desilusão ante a possibilidade de superação 
-do sofrimento.` },
-      { id: 'C', type: 'text', value: `contrapõe a fragilidade emocional ao uso desmedido 
-da força física.` },
-      { id: 'D', type: 'text', value: `associa 
-a 
-incomunicabilidade 
-emocional 
-às 
-determinações culturais.` },
-      { id: 'E', type: 'text', value: `privilegia imagens relacionadas à exposição do 
-dinamismo urbano.` },
+      { id: 'A', type: 'text', value: `desvela sentimentos de vazio e angústia sob a aparente austeridade.` },
+      { id: 'B', type: 'text', value: `expressa desilusão ante a possibilidade de superação do sofrimento.` },
+      { id: 'C', type: 'text', value: `contrapõe a fragilidade emocional ao uso desmedido da força física.` },
+      { id: 'D', type: 'text', value: `associa a incomunicabilidade emocional às determinações culturais.` },
+      { id: 'E', type: 'text', value: `privilegia imagens relacionadas à exposição do dinamismo urbano.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Em 'Retrato de homem', a descrição austera do objeto — muros, vértebras, cascas e diques de sombra — é atravessada por imagens de contenção e vazio, culminando no verso 'a polpa toda é fruição de medo'. O olhar lírico desvela, assim, sentimentos de vazio e angústia que se escondem sob a aparente rigidez. Não se trata de desilusão ante a superação do sofrimento (B) nem de contrapor fragilidade emocional ao uso da força física (C). O poema não associa a incomunicabilidade a determinações culturais (D) nem privilegia imagens de dinamismo urbano (E), mas a tensão interior sob a superfície endurecida.`,
@@ -833,16 +747,11 @@ Acesso em: 23 set. 2020 (adaptado).
 Essa petição de habeas corpus , ao transgredir o rigor da 
 linguagem jurídica,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `permite que a narrativa seja objetiva e repleta de 
-sentidos denotativos.` },
-      { id: 'B', type: 'text', value: `mostra que o cordel explora termos próprios da esfera 
-do direito.` },
-      { id: 'C', type: 'text', value: `demonstra que o jogo de linguagem proposto atenua 
-a gravidade do delito.` },
-      { id: 'D', type: 'text', value: `exemplifica como o texto em forma de cordel 
-compromete a solicitação pretendida.` },
-      { id: 'E', type: 'text', value: `esclarece que os termos “crime” e “processo de 
-contravenção” são sinônimos.` },
+      { id: 'A', type: 'text', value: `permite que a narrativa seja objetiva e repleta de sentidos denotativos.` },
+      { id: 'B', type: 'text', value: `mostra que o cordel explora termos próprios da esfera do direito.` },
+      { id: 'C', type: 'text', value: `demonstra que o jogo de linguagem proposto atenua a gravidade do delito.` },
+      { id: 'D', type: 'text', value: `exemplifica como o texto em forma de cordel compromete a solicitação pretendida.` },
+      { id: 'E', type: 'text', value: `esclarece que os termos “crime” e “processo de contravenção” são sinônimos.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. A petição de habeas corpus é escrita em forma de cordel, tratando o 'crime' de tocar violão na rua com versos leves e comovidos que pedem a libertação do 'desgraçado'. Ao transgredir o rigor da linguagem jurídica, esse jogo de linguagem atenua a gravidade do suposto delito. O texto não é objetivo e denotativo (A), mas poético e conotativo, e não se limita a explorar termos próprios do direito (B). A forma de cordel não compromete a solicitação (D), que mantém o pedido de deferimento, e os termos 'crime' e 'processo de contravenção' não são apresentados como sinônimos (E).`,
@@ -921,30 +830,11 @@ e celebra a cultura popular nordestina. Nele, o artista
 exalta as diferentes manifestações culturais pela`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `valorização do teatro, música, artesanato, literatura, 
-dança, personagens históricos e artistas populares, 
-compondo um tecido diversificado e enriquecedor da 
-cultura popular como patrimônio regional e nacional.` },
-      { id: 'B', type: 'text', value: `identificação 
-dos 
-lugares 
-pernambucanos, 
-manifestações culturais, como o bumba meu boi, as 
-cirandas, os bonecos mamulengos e heróis locais, 
-fazendo com que essa canção se apresente como 
-uma referência à cultura popular nordestina.` },
-      { id: 'C', type: 'text', value: `exaltação das raízes populares, como a poesia, a 
-literatura de cordel e o frevo, misturadas ao erudito, 
-como a Orquestra Armorial, compondo um rico tecido 
-cultural, que transforma o popular em erudito.` },
-      { id: 'D', type: 'text', value: `caracterização das festas populares como identidade 
-cultural localizada e como representantes de uma 
-cultura que reflete valores históricos e sociais próprios 
-da população local.` },
-      { id: 'E', type: 'text', value: `apresentação do Pastoril do Faceta, do maracatu, do 
-bumba meu boi e dos autos como representação da 
-musicalidade e do teatro popular religioso, bastante 
-comum ao folclore brasileiro.` },
+      { id: 'A', type: 'text', value: `valorização do teatro, música, artesanato, literatura, dança, personagens históricos e artistas populares, compondo um tecido diversificado e enriquecedor da cultura popular como patrimônio regional e nacional.` },
+      { id: 'B', type: 'text', value: `identificação dos lugares pernambucanos, manifestações culturais, como o bumba meu boi, as cirandas, os bonecos mamulengos e heróis locais, fazendo com que essa canção se apresente como uma referência à cultura popular nordestina.` },
+      { id: 'C', type: 'text', value: `exaltação das raízes populares, como a poesia, a literatura de cordel e o frevo, misturadas ao erudito, como a Orquestra Armorial, compondo um rico tecido cultural, que transforma o popular em erudito.` },
+      { id: 'D', type: 'text', value: `caracterização das festas populares como identidade cultural localizada e como representantes de uma cultura que reflete valores históricos e sociais próprios da população local.` },
+      { id: 'E', type: 'text', value: `apresentação do Pastoril do Faceta, do maracatu, do bumba meu boi e dos autos como representação da musicalidade e do teatro popular religioso, bastante comum ao folclore brasileiro.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A letra de 'Leão do Norte' nomeia lugares e símbolos tipicamente pernambucanos — Itamaracá, São Bento do Una, Caruaru, Nova Jerusalém, Casa Forte — e manifestações como o boi-bumbá, as cirandas, os mamulengos e o maracatu, além de figuras locais como Mestre Vitalino, Ariano Suassuna e Luiz Gonzaga. A canção exalta as manifestações culturais pela identificação desses lugares e tradições, apresentando-se como referência à cultura popular nordestina. A alternativa que generaliza a valorização como patrimônio regional e nacional (A) perde a especificidade pernambucana. O texto não transforma o popular em erudito (C), não se concentra em festas como identidade localizada (D) nem se restringe ao teatro popular religioso (E).`,
@@ -961,16 +851,11 @@ Esse anúncio publicitário propõe soluções para um
 problema social recorrente, ao`,
     images: ['/enem/2020/images/enem_2020_d1_q22.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `promover ações de conscientização para reduzir a 
-violência de gênero em eventos esportivos.` },
-      { id: 'B', type: 'text', value: `estimular o compartilhamento de políticas públicas 
-sobre a igualdade de gênero no esporte.` },
-      { id: 'C', type: 'text', value: `divulgar para a população as novas regras 
-complementares para as torcidas de futebol.` },
-      { id: 'D', type: 'text', value: `informar ao público masculino as consequências de 
-condutas ofensivas.` },
-      { id: 'E', type: 'text', value: `regulamentar normas de boa convivência nos 
-estádios.` },
+      { id: 'A', type: 'text', value: `promover ações de conscientização para reduzir a violência de gênero em eventos esportivos.` },
+      { id: 'B', type: 'text', value: `estimular o compartilhamento de políticas públicas sobre a igualdade de gênero no esporte.` },
+      { id: 'C', type: 'text', value: `divulgar para a população as novas regras complementares para as torcidas de futebol.` },
+      { id: 'D', type: 'text', value: `informar ao público masculino as consequências de condutas ofensivas.` },
+      { id: 'E', type: 'text', value: `regulamentar normas de boa convivência nos estádios.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O anúncio 'Respeita as torcedoras!' orienta o público sobre atitudes aceitáveis e inaceitáveis nos estádios — conversar e torcer juntos, sim; tocar sem permissão e empurrar, não — e indica o disque 180 para denúncias. A campanha propõe solução para um problema social recorrente ao promover ações de conscientização para reduzir a violência de gênero em eventos esportivos. Não se trata de compartilhar políticas públicas (B) nem de divulgar novas regras para as torcidas (C). O texto não se limita a informar o público masculino sobre consequências (D) nem a regulamentar normas de convivência (E), mas a conscientizar contra o assédio.`,
@@ -1001,16 +886,11 @@ As repetições e as frases curtas constituem procedimentos
 linguísticos importantes para a compreensão da temática 
 do texto, pois`,
     alternatives: [
-      { id: 'A', type: 'text', value: `expressam a futilidade do discurso de poder e de 
-distinção do narrador.` },
-      { id: 'B', type: 'text', value: `disfarçam a falta de densidade das angústias 
-existenciais narradas.` },
-      { id: 'C', type: 'text', value: `ironizam a valorização da cultura norte-americana 
-pelos brasileiros.` },
-      { id: 'D', type: 'text', value: `explicitam a ganância financeira do capitalismo 
-contemporâneo.` },
-      { id: 'E', type: 'text', value: `criticam os estereótipos sociais das visões de mundo 
-elitistas.` },
+      { id: 'A', type: 'text', value: `expressam a futilidade do discurso de poder e de distinção do narrador.` },
+      { id: 'B', type: 'text', value: `disfarçam a falta de densidade das angústias existenciais narradas.` },
+      { id: 'C', type: 'text', value: `ironizam a valorização da cultura norte-americana pelos brasileiros.` },
+      { id: 'D', type: 'text', value: `explicitam a ganância financeira do capitalismo contemporâneo.` },
+      { id: 'E', type: 'text', value: `criticam os estereótipos sociais das visões de mundo elitistas.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No conto, o narrador repete obsessivamente frases curtas como 'está chovendo dinheiro em Nova York' e 'meu carro vermelho, importado da Alemanha', exibindo vistos, dólares e poder de compra. Esses procedimentos expressam a futilidade do discurso de poder e de distinção do narrador, cuja fala se esvazia na repetição de signos de status. As repetições não disfarçam angústias existenciais (B), que não há no texto, nem têm como foco ironizar a valorização da cultura norte-americana (C). O texto não se volta a explicitar a ganância do capitalismo (D) nem a criticar genericamente estereótipos elitistas (E), mas a revelar a vacuidade do personagem.`,
@@ -1070,14 +950,8 @@ imitação, já que a arte`,
       { id: 'A', type: 'text', value: `não é a realidade, mas uma representação dela.` },
       { id: 'B', type: 'text', value: `fundamenta-se na repetição, construindo variações.` },
       { id: 'C', type: 'text', value: `não se define, pois depende da interpretação do fruidor.` },
-      { id: 'D', type: 'text', value: `resiste ao tempo, beneficiada por múltiplas formas 
-de registro.` },
-      { id: 'E', type: 'text', value: `redesenha 
-a 
-verdade, 
-aproximando-se 
-das 
-definições lexicais.` },
+      { id: 'D', type: 'text', value: `resiste ao tempo, beneficiada por múltiplas formas de registro.` },
+      { id: 'E', type: 'text', value: `redesenha a verdade, aproximando-se das definições lexicais.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A obra de Joseph Kosuth reúne uma fotografia de cadeira, uma cadeira real e o verbete 'Cadeira', confrontando três formas de representar o mesmo objeto. Esse exemplo de arte conceitual revela o paradoxo entre verdade e imitação porque a arte não é a realidade, mas uma representação dela. A obra não se fundamenta na repetição que constrói variações (B) nem fica indefinida à mercê da interpretação do fruidor (C). Também não se trata de resistência ao tempo por meio de registros (D) nem de redesenhar a verdade aproximando-a das definições lexicais (E), mas de evidenciar a distância entre objeto e representação.`,
@@ -1095,21 +969,11 @@ conforme sugere a imagem, tem como uma de suas
 principais funções`,
     images: ['/enem/2020/images/enem_2020_d1_q26.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `promover a manipulação eficiente de conhecimentos 
-e informações de difícil compreensão no mundo 
-físico.` },
-      { id: 'B', type: 'text', value: `conduzir escolhas profissionais da área de ciência 
-da computação, oferecendo um leque de opções de 
-atuação.` },
-      { id: 'C', type: 'text', value: `transferir conhecimento da inteligência artificial para 
-as áreas tradicionais, como as das ciências exatas e 
-naturais.` },
-      { id: 'D', type: 'text', value: `levar o ser humano a experimentar mentalmente 
-outras realidades, para as quais é transportado sem 
-sair de seu próprio lugar.` },
-      { id: 'E', type: 'text', value: `delimitar tecnologias exclusivas de jogos virtuais, a 
-fim de oferecer maior emoção ao jogador por meio de 
-outras realidades.` },
+      { id: 'A', type: 'text', value: `promover a manipulação eficiente de conhecimentos e informações de difícil compreensão no mundo físico.` },
+      { id: 'B', type: 'text', value: `conduzir escolhas profissionais da área de ciência da computação, oferecendo um leque de opções de atuação.` },
+      { id: 'C', type: 'text', value: `transferir conhecimento da inteligência artificial para as áreas tradicionais, como as das ciências exatas e naturais.` },
+      { id: 'D', type: 'text', value: `levar o ser humano a experimentar mentalmente outras realidades, para as quais é transportado sem sair de seu próprio lugar.` },
+      { id: 'E', type: 'text', value: `delimitar tecnologias exclusivas de jogos virtuais, a fim de oferecer maior emoção ao jogador por meio de outras realidades.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A imagem mostra a cabeça de uma pessoa cercada por diversas cenas e paisagens flutuantes, sugerindo mundos acessados mentalmente. A realidade virtual tem, assim, como uma de suas principais funções levar o ser humano a experimentar mentalmente outras realidades, para as quais é transportado sem sair de seu lugar. Não se trata de manipular conhecimentos de difícil compreensão no mundo físico (A) nem de conduzir escolhas profissionais em computação (B). A tecnologia não serve para transferir conhecimento da inteligência artificial às ciências exatas (C) nem se restringe aos jogos virtuais (E).`,
@@ -1143,21 +1007,11 @@ São Paulo: Phillips, 1967 (fragmento).
 mesmo gênero textual. Nesse fragmento, os tipos textuais 
 que se destacam na organização temática são`,
     alternatives: [
-      { id: 'A', type: 'text', value: `descritivo e argumentativo, pois o enunciador detalha 
-cada lugar por onde passa, argumentando contra a 
-violência urbana.` },
-      { id: 'B', type: 'text', value: `dissertativo e argumentativo, pois o enunciador 
-apresenta seu ponto de vista sobre as notícias 
-relativas à cidade.` },
-      { id: 'C', type: 'text', value: `expositivo e injuntivo, pois o enunciador fala de 
-seus estados físicos e psicológicos e interage com a 
-mulher amada.` },
-      { id: 'D', type: 'text', value: `narrativo e descritivo, pois o enunciador conta sobre 
-suas andanças pelas ruas da cidade ao mesmo 
-tempo que a descreve.` },
-      { id: 'E', type: 'text', value: `narrativo e injuntivo, pois o enunciador ensina 
-o interlocutor como andar pelas ruas da cidade 
-contando sobre sua própria experiência.` },
+      { id: 'A', type: 'text', value: `descritivo e argumentativo, pois o enunciador detalha cada lugar por onde passa, argumentando contra a violência urbana.` },
+      { id: 'B', type: 'text', value: `dissertativo e argumentativo, pois o enunciador apresenta seu ponto de vista sobre as notícias relativas à cidade.` },
+      { id: 'C', type: 'text', value: `expositivo e injuntivo, pois o enunciador fala de seus estados físicos e psicológicos e interage com a mulher amada.` },
+      { id: 'D', type: 'text', value: `narrativo e descritivo, pois o enunciador conta sobre suas andanças pelas ruas da cidade ao mesmo tempo que a descreve.` },
+      { id: 'E', type: 'text', value: `narrativo e injuntivo, pois o enunciador ensina o interlocutor como andar pelas ruas da cidade contando sobre sua própria experiência.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. Em 'Alegria, alegria', o eu lírico conta suas andanças pela cidade ('Eu vou') ao mesmo tempo que descreve o que vê nas bancas, nas ruas e nas manchetes (crimes, espaçonaves, caras de presidentes). Predominam, portanto, os tipos textuais narrativo e descritivo na organização temática. Não há argumentação contra a violência urbana (A) nem apresentação de ponto de vista sobre as notícias (B). O enunciador não ensina o interlocutor a andar pelas ruas (E) nem interage com uma mulher amada em sequência injuntiva (C); apenas relata e descreve sua experiência.`,
@@ -1187,22 +1041,11 @@ Disponível em: https://g1.globo.com. Acesso em: 6 jun. 2018 (adaptado).
 A incorporação de um trecho da obra para flauta solo de 
 Johann Sebastian Bach na música de MC Fioti demonstra a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `influência permanente da cultura eurocêntrica nas 
-produções musicais brasileiras.` },
-      { id: 'B', type: 'text', value: `homenagem aos referenciais estéticos que deram 
-origem às produções da música popular.` },
-      { id: 'C', type: 'text', value: `necessidade de divulgar a música de concerto nos 
-meios populares nas periferias das grandes cidades.` },
-      { id: 'D', type: 'text', value: `utilização 
-desintencional 
-de 
-uma 
-música 
-excessivamente distante da realidade cultural dos 
-jovens brasileiros.` },
-      { id: 'E', type: 'text', value: `inter-relação de elementos culturais vindos de 
-realidades distintas na construção de uma nova 
-proposta musical.` },
+      { id: 'A', type: 'text', value: `influência permanente da cultura eurocêntrica nas produções musicais brasileiras.` },
+      { id: 'B', type: 'text', value: `homenagem aos referenciais estéticos que deram origem às produções da música popular.` },
+      { id: 'C', type: 'text', value: `necessidade de divulgar a música de concerto nos meios populares nas periferias das grandes cidades.` },
+      { id: 'D', type: 'text', value: `utilização desintencional de uma música excessivamente distante da realidade cultural dos jovens brasileiros.` },
+      { id: 'E', type: 'text', value: `inter-relação de elementos culturais vindos de realidades distintas na construção de uma nova proposta musical.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto conta que MC Fioti incorporou ao funk 'Bum bum tam tam' um trecho de uma partita de Bach, encontrado por acaso, sem conhecer o compositor. Essa mistura demonstra a inter-relação de elementos culturais vindos de realidades distintas na construção de uma nova proposta musical. Não se trata da influência permanente de uma cultura eurocêntrica (A) nem de homenagem aos referenciais estéticos (B), já que Fioti sequer sabia quem era o músico alemão. O texto não defende a necessidade de divulgar a música de concerto nas periferias (C) nem enfatiza o uso de uma obra distante da realidade dos jovens (D), mas o resultado criativo do encontro de culturas.`,
@@ -1257,16 +1100,11 @@ da mulher com o nariz e a boca cobertos por um lenço é
 a representação não verbal do(a)`,
     images: ['/enem/2020/images/enem_2020_d1_q30.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `silêncio imposto às mulheres, que não podem 
-denunciar o assédio sofrido.` },
-      { id: 'B', type: 'text', value: `metáfora de que as mulheres precisam defender-se 
-do assédio masculino.` },
-      { id: 'C', type: 'text', value: `constrangimento pelo qual passam as mulheres e 
-sua tentativa de esconderem-se.` },
-      { id: 'D', type: 'text', value: `necessidade que as mulheres têm de passarem 
-despercebidas para evitar o assédio.` },
-      { id: 'E', type: 'text', value: `incapacidade de as mulheres protegerem-se da 
-agressão verbal dos assediadores.` },
+      { id: 'A', type: 'text', value: `silêncio imposto às mulheres, que não podem denunciar o assédio sofrido.` },
+      { id: 'B', type: 'text', value: `metáfora de que as mulheres precisam defender-se do assédio masculino.` },
+      { id: 'C', type: 'text', value: `constrangimento pelo qual passam as mulheres e sua tentativa de esconderem-se.` },
+      { id: 'D', type: 'text', value: `necessidade que as mulheres têm de passarem despercebidas para evitar o assédio.` },
+      { id: 'E', type: 'text', value: `incapacidade de as mulheres protegerem-se da agressão verbal dos assediadores.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. Na campanha contra o assédio sofrido pelas mulheres nas ruas, o verbal afirma que 'a rua é um campo de batalha' e o não verbal mostra uma mulher com o nariz e a boca cobertos por um lenço, como quem se prepara para o confronto. Essa imagem funciona como metáfora de que as mulheres precisam defender-se do assédio masculino. Não representa o silêncio imposto que as impede de denunciar (A) nem o constrangimento que as leva a esconder-se (C). Tampouco simboliza a necessidade de passar despercebida (D) ou a incapacidade de se proteger (E), pois a figura remete à defesa diante da 'batalha'.`,
@@ -1309,18 +1147,10 @@ consequências da perda de um animal de estimação,
 considera-se que ele se enquadra no gênero`,
     alternatives: [
       { id: 'A', type: 'text', value: `conto, pois exibe a história de vida de Joanie Simpson.` },
-      { id: 'B', type: 'text', value: `depoimento, pois expõe o sofrimento da dona do 
-animal.` },
-      { id: 'C', type: 'text', value: `reportagem, 
-pois 
-discute 
-cientificamente 
-a 
-cardiomiopatia.` },
-      { id: 'D', type: 'text', value: `relato, pois narra um fato estressante vivido pela 
-paciente.` },
-      { id: 'E', type: 'text', value: `notícia, pois divulga fatos sobre a síndrome do 
-coração partido.` },
+      { id: 'B', type: 'text', value: `depoimento, pois expõe o sofrimento da dona do animal.` },
+      { id: 'C', type: 'text', value: `reportagem, pois discute cientificamente a cardiomiopatia.` },
+      { id: 'D', type: 'text', value: `relato, pois narra um fato estressante vivido pela paciente.` },
+      { id: 'E', type: 'text', value: `notícia, pois divulga fatos sobre a síndrome do coração partido.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto divulga, de forma objetiva, o caso de uma mulher diagnosticada com a síndrome do coração partido após a morte de seu cachorro, citando fontes como o 'The New England Journal of Medicine' e o 'Washington Post'. Por relatar um fato recente e de interesse público de maneira factual, enquadra-se no gênero notícia. Não é um conto, pois não é ficção que narre a vida da personagem (A), nem um depoimento em primeira pessoa (B). Também não é uma reportagem com discussão científica aprofundada (C) nem um relato pessoal do fato vivido (D), mas a divulgação jornalística do acontecimento.`,
@@ -1390,16 +1220,11 @@ postes normalmente exercem nas ruas das cidades
 grandes, esse texto evidencia a`,
     images: ['/enem/2020/images/enem_2020_d1_q33.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `disseminação da arte poética em um veículo não 
-convencional.` },
-      { id: 'B', type: 'text', value: `manutenção da expectativa das pessoas ao andarem 
-pelas ruas.` },
-      { id: 'C', type: 'text', value: `necessidade de exposição de poemas pequenos em 
-diferentes suportes.` },
-      { id: 'D', type: 'text', value: `característica corriqueira do suporte lambe-lambe, 
-muito comum nas ruas.` },
-      { id: 'E', type: 'text', value: `exposição da beleza escondida das esquinas da 
-cidade de Belo Horizonte.` },
+      { id: 'A', type: 'text', value: `disseminação da arte poética em um veículo não convencional.` },
+      { id: 'B', type: 'text', value: `manutenção da expectativa das pessoas ao andarem pelas ruas.` },
+      { id: 'C', type: 'text', value: `necessidade de exposição de poemas pequenos em diferentes suportes.` },
+      { id: 'D', type: 'text', value: `característica corriqueira do suporte lambe-lambe, muito comum nas ruas.` },
+      { id: 'E', type: 'text', value: `exposição da beleza escondida das esquinas da cidade de Belo Horizonte.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O Texto I apresenta o projeto #UmLambePorDia, que espalha poemas pela cidade em cartazes ao estilo lambe-lambe, e o Texto II mostra um desses cartazes num poste, com versos de humor existencial. Considerando que postes costumam servir a anúncios e avisos, o conjunto evidencia a disseminação da arte poética em um veículo não convencional. Não se trata de manter a expectativa das pessoas nas ruas (B) nem de uma suposta necessidade de expor poemas pequenos em diferentes suportes (C). O lambe-lambe não é aqui um suporte corriqueiro para poesia (D), e o foco não é a beleza escondida das esquinas de Belo Horizonte (E), mas o uso inusitado do suporte para a poesia.`,
@@ -1434,8 +1259,7 @@ pressupõem o reconhecimento da`,
       { id: 'B', type: 'text', value: `suspensão da linearidade temporal da narração.` },
       { id: 'C', type: 'text', value: `tentativa de materializar lembranças da infância.` },
       { id: 'D', type: 'text', value: `incidência da memória sobre as imagens narradas.` },
-      { id: 'E', type: 'text', value: `alternância entre impressões subjetivas e relatos 
-factuais.` },
+      { id: 'E', type: 'text', value: `alternância entre impressões subjetivas e relatos factuais.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No fragmento de Ondjaki, a vida é comparada a uma brincadeira de rua interrompida pela chegada de 'um mais velho', e o narrador se inclui entre 'as crianças' que viviam 'num tempo fora do tempo'. As significações afetivas do texto pressupõem o reconhecimento da perspectiva infantil assumida pela voz narrativa, que filtra as lembranças. A suspensão da linearidade temporal (B) e a incidência da memória sobre as imagens (D) são efeitos decorrentes desse olhar, não a condição pressuposta. O texto não se define pela tentativa de materializar lembranças (C) nem pela alternância entre impressões subjetivas e relatos factuais (E), mas pelo ponto de vista da criança.`,
@@ -1468,16 +1292,11 @@ desempenhar uma relevante função na abordagem do
 futebol ao`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `disseminarem uma modalidade, promovendo a 
-igualdade de gênero.` },
-      { id: 'B', type: 'text', value: `superarem jogos malsucedidos no mercado, lançados 
-anteriormente.` },
-      { id: 'C', type: 'text', value: `inovarem a modalidade com novas ofertas de jogos 
-ao mercado.` },
-      { id: 'D', type: 'text', value: `explorarem nichos de mercado antes ignorados, 
-produzindo mais lucro.` },
-      { id: 'E', type: 'text', value: `reforçarem estereótipos de gênero masculino ou 
-feminino nos esportes.` },
+      { id: 'A', type: 'text', value: `disseminarem uma modalidade, promovendo a igualdade de gênero.` },
+      { id: 'B', type: 'text', value: `superarem jogos malsucedidos no mercado, lançados anteriormente.` },
+      { id: 'C', type: 'text', value: `inovarem a modalidade com novas ofertas de jogos ao mercado.` },
+      { id: 'D', type: 'text', value: `explorarem nichos de mercado antes ignorados, produzindo mais lucro.` },
+      { id: 'E', type: 'text', value: `reforçarem estereótipos de gênero masculino ou feminino nos esportes.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto narra a lenta inclusão do futebol feminino nos videogames da série Fifa, impulsionada por petições on-line, e ressalta a importância de meninas verem a modalidade representada. Os jogos eletrônicos podem, assim, desempenhar relevante função ao disseminar a modalidade, promovendo a igualdade de gênero. Não se trata de superar jogos malsucedidos anteriores (B) nem de inovar a modalidade com novas ofertas (C). A exploração de nichos de mercado (D) é a motivação comercial da empresa, não a função relevante destacada, e o texto se opõe ao reforço de estereótipos de gênero (E).`,
@@ -1503,16 +1322,9 @@ quando o professor realiza uma proposta envolvendo`,
     alternatives: [
       { id: 'A', type: 'text', value: `contato corporal intenso entre o aluno e seu oponente.` },
       { id: 'B', type: 'text', value: `contenda entre os alunos que se agridem fi sicamente.` },
-      { id: 'C', type: 'text', value: `confronto corporal em que os vencedores são 
-previamente identifi cados.` },
-      { id: 'D', type: 'text', value: `combate 
-corporal 
-intencional 
-com 
-ações 
-regulamentadas entre os oponentes.` },
-      { id: 'E', type: 'text', value: `confl ito resolvido pelos alunos por meio de regras 
-previamente estabelecidas.` },
+      { id: 'C', type: 'text', value: `confronto corporal em que os vencedores são previamente identifi cados.` },
+      { id: 'D', type: 'text', value: `combate corporal intencional com ações regulamentadas entre os oponentes.` },
+      { id: 'E', type: 'text', value: `confl ito resolvido pelos alunos por meio de regras previamente estabelecidas.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A definição apresentada caracteriza a luta como prática corporal imprevisível, de contato proposital e regida por regras, em que oponentes trocam ações ofensivas e defensivas sobre um alvo móvel. A abordagem das lutas nas aulas se concretiza, portanto, quando o professor propõe um combate corporal intencional com ações regulamentadas entre os oponentes. Não basta um contato corporal intenso (A), e não se trata de alunos que simplesmente se agridem (B), pois há regras. Os vencedores não são previamente identificados (C), já que a prática é imprevisível, e a alternativa que fala apenas em conflito resolvido por regras (E) não contempla o combate sobre o oponente.`,
@@ -1543,8 +1355,7 @@ Com base no conceito apresentado no texto, a saúde é
 consequência direta do(a)`,
     images: ['/enem/2020/images/enem_2020_d1_q37.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `adoção de um estilo de vida ativo por parte dos 
-indivíduos.` },
+      { id: 'A', type: 'text', value: `adoção de um estilo de vida ativo por parte dos indivíduos.` },
       { id: 'B', type: 'text', value: `disponibilidade de emprego no mercado de trabalho.` },
       { id: 'C', type: 'text', value: `condição habitacional presente nas cidades.` },
       { id: 'D', type: 'text', value: `acesso ao sistema educacional.` },
@@ -1590,16 +1401,11 @@ exploração de uma voz externa sobre a identidade
 histórica do povo português. O trecho que evidencia 
 esse procedimento argumentativo é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `“Que linda a ‘antiga, muy nobre, sempre leal e invicta’ 
-cidade do Porto!”.` },
-      { id: 'B', type: 'text', value: `“‘Encantei-me’, diriam eles... pelas belas paisagens, 
-construções históricas com lindas fachadas [...]”.` },
-      { id: 'C', type: 'text', value: `“Os tripeiros, sinônimo de portuenses, têm orgulho de 
-sua cidade [...]”.` },
-      { id: 'D', type: 'text', value: `“E valorizam tudo o que há de bom ali, como ‘a melhor 
-estrada para se dirigir do mundo’ [...]”.` },
-      { id: 'E', type: 'text', value: `“Pois na manhã do 25 de abril, dia da Revolução dos 
-Cravos, resolvemos conhecer a tal maravilha”.` },
+      { id: 'A', type: 'text', value: `“Que linda a ‘antiga, muy nobre, sempre leal e invicta’ cidade do Porto!”.` },
+      { id: 'B', type: 'text', value: `“‘Encantei-me’, diriam eles... pelas belas paisagens, construções históricas com lindas fachadas [...]”.` },
+      { id: 'C', type: 'text', value: `“Os tripeiros, sinônimo de portuenses, têm orgulho de sua cidade [...]”.` },
+      { id: 'D', type: 'text', value: `“E valorizam tudo o que há de bom ali, como ‘a melhor estrada para se dirigir do mundo’ [...]”.` },
+      { id: 'E', type: 'text', value: `“Pois na manhã do 25 de abril, dia da Revolução dos Cravos, resolvemos conhecer a tal maravilha”.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto busca seduzir o leitor recorrendo a uma voz externa para falar da identidade histórica do povo português no trecho 'Que linda a "antiga, muy nobre, sempre leal e invicta" cidade do Porto!'. A expressão entre aspas é o epíteto histórico atribuído à cidade, uma voz externa que remete à sua tradição. A opção com 'Encantei-me, diriam eles' (B) traz outra voz, mas voltada às paisagens, não à identidade histórica. As falas sobre o orgulho dos tripeiros (C) e sobre a melhor estrada do mundo (D) são do próprio narrador ou sobre a estrada, e a menção à Revolução dos Cravos (E) apenas situa a data.`,
@@ -1740,8 +1546,7 @@ como possibilidade para estimular o(a)`,
       { id: 'B', type: 'text', value: `vivência de exercícios físicos sistemáticos.` },
       { id: 'C', type: 'text', value: `envolvimento com atividades físicas ao longo da vida.` },
       { id: 'D', type: 'text', value: `jogo por meio de comandos fornecidos pelo videogame.` },
-      { id: 'E', type: 'text', value: `disputa entre jogadores, contribuindo para o 
-individualismo.` },
+      { id: 'E', type: 'text', value: `disputa entre jogadores, contribuindo para o individualismo.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto discute os exergames, videogames controlados pelos movimentos do corpo, defendendo que podem contribuir para a prática regular de atividade física moderada, com efeitos positivos sobre a saúde. Por sua interatividade, apresentam-se como possibilidade para estimular a exercitação física, promovendo a saúde. Eles não garantem a vivência de exercícios físicos sistemáticos (B), e o próprio texto nega que motivem a prática permanente ao longo da vida (C). A alternativa que fala em jogar por comandos do videogame (D) contraria a ideia de controle pelo corpo, e os exergames reduzem o isolamento, em vez de alimentar a disputa individualista (E).`,
@@ -1831,19 +1636,11 @@ A tematização de Curitiba é frequente na obra de Dálton
 Trevisan. No fragmento, a relação do narrador com o 
 espaço urbano é caracterizada por um olhar`,
     alternatives: [
-      { id: 'A', type: 'text', value: `destituído de afetividade, que ironiza os costumes e 
-as tradições da sociedade curitibana.` },
-      { id: 'B', type: 'text', value: `marcado pela negatividade, que busca desconstruir 
-perspectivas habituais de representação da cidade.` },
-      { id: 'C', type: 'text', value: `carregado de melancolia, que constata a falta 
-de identidade cultural diante dos impactos da 
-urbanização.` },
-      { id: 'D', type: 'text', value: `embevecido pela simplicidade do cenário, indiferente 
-à descrição de elementos de reconhecido valor 
-histórico.` },
-      { id: 'E', type: 'text', value: `distanciado dos elementos narrados, que recorre 
-ao ponto de vista do viajante como expressão de 
-estranhamento.` },
+      { id: 'A', type: 'text', value: `destituído de afetividade, que ironiza os costumes e as tradições da sociedade curitibana.` },
+      { id: 'B', type: 'text', value: `marcado pela negatividade, que busca desconstruir perspectivas habituais de representação da cidade.` },
+      { id: 'C', type: 'text', value: `carregado de melancolia, que constata a falta de identidade cultural diante dos impactos da urbanização.` },
+      { id: 'D', type: 'text', value: `embevecido pela simplicidade do cenário, indiferente à descrição de elementos de reconhecido valor histórico.` },
+      { id: 'E', type: 'text', value: `distanciado dos elementos narrados, que recorre ao ponto de vista do viajante como expressão de estranhamento.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. No fragmento de Dalton Trevisan, o narrador descreve uma Curitiba 'sem pinheiro ou céu azul', feita de figuras insólitas, e declara viajar por essa cidade, 'e não a outra para inglês ver'. Seu olhar é marcado pela negatividade, pois busca desconstruir as perspectivas habituais e idealizadas de representação da cidade. Esse olhar não é destituído de afetividade (A), já que ele afirma viajar 'com amor', nem se define pela melancolia diante da urbanização (C). O narrador não se mostra embevecido pela simplicidade do cenário (D) nem distanciado como um viajante estranho (E); ao contrário, está implicado afetivamente com a cidade que reinventa.`,
@@ -1908,10 +1705,8 @@ que refletem a`,
       { id: 'A', type: 'text', value: `heterogeneidade do modo de vida agrário.` },
       { id: 'B', type: 'text', value: `redução do fluxo populacional nas cidades.` },
       { id: 'C', type: 'text', value: `correlação entre força de trabalho e migração sazonal.` },
-      { id: 'D', type: 'text', value: `indissociabilidade entre local de moradia e acesso à 
-renda.` },
-      { id: 'E', type: 'text', value: `desregulamentação das propriedades nas zonas de 
-fronteira.` },
+      { id: 'D', type: 'text', value: `indissociabilidade entre local de moradia e acesso à renda.` },
+      { id: 'E', type: 'text', value: `desregulamentação das propriedades nas zonas de fronteira.` },
     ],
     correct: 'A',
     explanation: `O texto expõe o paradoxo do rural brasileiro: o emprego agrícola definha, mas a população do campo volta a crescer, sustentada por ocupações não agrícolas, aposentados e inativos residentes na zona rural. Isso revela a heterogeneidade do modo de vida agrário, que não se resume mais à atividade agropecuária, o que confirma a alternativa A. A redução do fluxo nas cidades (B) e a migração sazonal (C) não são tratadas. A indissociabilidade entre moradia e renda (D) é justamente negada, pois muitos vivem no campo com renda externa à agricultura, e a desregulamentação de propriedades em fronteira (E) não aparece no texto.`,
@@ -1937,16 +1732,11 @@ A transformação descrita no texto tem sido insuficiente
 para o estabelecimento de uma condição de igualdade de 
 oportunidade em virtude da(s)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `estagnação de direitos adquiridos e do anacronismo 
-da legislação vigente.` },
-      { id: 'B', type: 'text', value: `manutenção do status quo gerencial e dos padrões 
-de socialização familiar.` },
-      { id: 'C', type: 'text', value: `desestruturação da herança patriarcal e das 
-mudanças do perfil ocupacional.` },
-      { id: 'D', type: 'text', value: `disputas na composição sindical e da presença na 
-esfera político-partidária.` },
-      { id: 'E', type: 'text', value: `exigências de aperfeiçoamento profissional e de 
-habilidades na competência diretiva.` },
+      { id: 'A', type: 'text', value: `estagnação de direitos adquiridos e do anacronismo da legislação vigente.` },
+      { id: 'B', type: 'text', value: `manutenção do status quo gerencial e dos padrões de socialização familiar.` },
+      { id: 'C', type: 'text', value: `desestruturação da herança patriarcal e das mudanças do perfil ocupacional.` },
+      { id: 'D', type: 'text', value: `disputas na composição sindical e da presença na esfera político-partidária.` },
+      { id: 'E', type: 'text', value: `exigências de aperfeiçoamento profissional e de habilidades na competência diretiva.` },
     ],
     correct: 'B',
     explanation: `A feminização do trabalho inseriu as mulheres sobretudo em empregos precários, de modo que o aumento de sua presença não bastou para gerar igualdade de oportunidades. Isso ocorre pela manutenção do status quo gerencial, que preserva o poder em mãos masculinas, e dos padrões de socialização familiar, que perpetuam papéis de gênero, o que sustenta a alternativa B. O anacronismo da legislação (A) não é apontado como causa. A desestruturação da herança patriarcal (C) favoreceria a igualdade, contrariando o texto. Disputas sindicais e partidárias (D) e exigências de aperfeiçoamento (E) não são as barreiras descritas.`,
@@ -1979,8 +1769,7 @@ apresentado no texto, propõem-se a`,
       { id: 'B', type: 'text', value: `ressaltar a inviabilidade da produção latifundiária.` },
       { id: 'C', type: 'text', value: `defender a desapropriação dos espaços improdutivos.` },
       { id: 'D', type: 'text', value: `impedir a produção exportadora nas terras agricultáveis.` },
-      { id: 'E', type: 'text', value: `coibir o funcionamento de empresas agroindustriais 
-no campo.` },
+      { id: 'E', type: 'text', value: `coibir o funcionamento de empresas agroindustriais no campo.` },
     ],
     correct: 'C',
     explanation: `O texto define que a propriedade deve cumprir função social, vinculada ao uso racional da terra e dos recursos ambientais em benefício da coletividade. Com base nesse conceito, os movimentos pró-reforma agrária defendem a desapropriação dos espaços improdutivos, que descumprem tal função, o que valida a alternativa C. Reverter a privatização fundiária (A) não é o objetivo. Afirmar a inviabilidade do latifúndio (B) e impedir a produção exportadora (D) extrapolam o argumento. Coibir empresas agroindustriais (E) também não é proposto, pois o critério central é a produtividade e o cumprimento da função social.`,
@@ -2150,16 +1939,11 @@ NAGEL, T. Uma breve introdução à filosofia . São Paulo: Martins Fontes, 2011
 O texto confere visibilidade a uma doutrina filosófica 
 contemporânea conhecida como:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Personalismo, que vincula a realidade circundante 
-aos domínios do pessoal.` },
-      { id: 'B', type: 'text', value: `Falsificacionismo, que estabelece ciclos de problemas 
-para refutar uma conjectura.` },
-      { id: 'C', type: 'text', value: `Falibilismo, que rejeita mecanismos mentais para 
-sustentar uma crença inequívoca.` },
-      { id: 'D', type: 'text', value: `Idealismo, que nega a existência de objetos 
-independentemente do trabalho cognoscente.` },
-      { id: 'E', type: 'text', value: `Solipsismo, que reconhece limitações cognitivas para 
-compreender uma experiência compartilhada.` },
+      { id: 'A', type: 'text', value: `Personalismo, que vincula a realidade circundante aos domínios do pessoal.` },
+      { id: 'B', type: 'text', value: `Falsificacionismo, que estabelece ciclos de problemas para refutar uma conjectura.` },
+      { id: 'C', type: 'text', value: `Falibilismo, que rejeita mecanismos mentais para sustentar uma crença inequívoca.` },
+      { id: 'D', type: 'text', value: `Idealismo, que nega a existência de objetos independentemente do trabalho cognoscente.` },
+      { id: 'E', type: 'text', value: `Solipsismo, que reconhece limitações cognitivas para compreender uma experiência compartilhada.` },
     ],
     correct: 'E',
     explanation: `O texto de Nagel sugere que tudo o que se julga mundo externo poderia existir apenas na própria mente, sem um mundo real ao qual despertar. Essa hipótese dá visibilidade ao solipsismo, doutrina que faz da consciência do próprio sujeito o único ponto de certeza da realidade, o que valida a alternativa E. O personalismo (A), o falsificacionismo (B), o falibilismo (C) e o idealismo (D) não traduzem a radicalização de reduzir toda experiência à mente individual, que é o núcleo da reflexão apresentada e distingue a posição solipsista.`,
@@ -2171,21 +1955,14 @@ compreender uma experiência compartilhada.` },
     exam: 'enem',
     year: 2020,
     day: 1,
-    text: `A demanda mundial para a produção de alimentos 
-aumenta 
-progressivamente 
-a 
-taxas 
-muito 
-altas. 
-Atualmente, na maioria dos países, continentes e regiões, 
-a água consumida na agricultura é de cerca de 70% da 
-disponibilidade total. 
-TUNDISI, J. G. Recursos hídricos no futuro: problemas e soluções. 
-Estudos Avançados , n. 63, 2008 (adaptado). 
-Para que haja a redução da pressão sobre o recurso 
-natural mencionado, a expansão da agricultura demanda 
-melhorias no(a)`,
+    text: `A demanda mundial para a produção de alimentos aumenta
+progressivamente a taxas muito altas. Atualmente, na maioria
+dos países, continentes e regiões, a água consumida na
+agricultura é de cerca de 70% da disponibilidade total.
+TUNDISI, J. G. Recursos hídricos no futuro: problemas e
+soluções. Estudos Avançados , n. 63, 2008 (adaptado). Para que
+haja a redução da pressão sobre o recurso natural mencionado,
+a expansão da agricultura demanda melhorias no(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `fertilização química do solo.` },
       { id: 'B', type: 'text', value: `escoamento hídrico do terreno.` },
@@ -2263,25 +2040,18 @@ texto é marcado pelo(a)`,
     exam: 'enem',
     year: 2020,
     day: 1,
-    text: `Escudos antigos ou maciços cristalinos são 
-blocos imensos de rochas antigas. Estes escudos 
-são constituídos por rochas cristalinas (magmático- 
-plutônicas), formadas em eras pré-cambrianas, ou 
-por rochas metamórficas (material sedimentar) do 
-Paleozoico. São resistentes, estáveis, porém bastante 
-desgastadas. Correspondem a 36% da área territorial 
-e dividem-se em duas grandes porções: o Escudo das 
-Guianas (norte da Planície Amazônica) e o Escudo 
-Brasileiro (porção centro-oriental brasileira). 
-Disponível em: http://ambientes.ambientebrasil.com.br. Acesso em: 25 jun. 2015. 
-As estruturas geológicas indicadas no texto são 
-importantes 
-economicamente 
-para 
-o 
-Brasil 
-por 
-concentrarem`,
+    text: `Escudos antigos ou maciços cristalinos são blocos imensos de
+rochas antigas. Estes escudos são constituídos por rochas
+cristalinas (magmático-plutônicas), formadas em eras
+pré-cambrianas, ou por rochas metamórficas (material
+sedimentar) do Paleozoico. São resistentes, estáveis, porém
+bastante desgastadas. Correspondem a 36% da área territorial e
+dividem-se em duas grandes porções: o Escudo das Guianas
+(norte da Planície Amazônica) e o Escudo Brasileiro (porção
+centro-oriental brasileira). Disponível em:
+http://ambientes.ambientebrasil.com.br. Acesso em: 25 jun.
+2015. As estruturas geológicas indicadas no texto são
+importantes economicamente para o Brasil por concentrarem`,
     alternatives: [
       { id: 'A', type: 'text', value: `fontes de águas termais.` },
       { id: 'B', type: 'text', value: `afloramentos de sal-gema.` },
@@ -2374,14 +2144,10 @@ Nesse contexto de organização da vida social, as leis
 contidas no Código citado tinham o sentido de`,
     alternatives: [
       { id: 'A', type: 'text', value: `assegurar garantias individuais aos cidadãos livres.` },
-      { id: 'B', type: 'text', value: `tipificar regras referentes aos atos dignos de 
-punição.` },
-      { id: 'C', type: 'text', value: `conceder benefícios de indulto aos prisioneiros de 
-guerra.` },
-      { id: 'D', type: 'text', value: `promover distribuição de terras aos desempregados 
-urbanos.` },
-      { id: 'E', type: 'text', value: `conferir prerrogativas políticas aos descendentes de 
-estrangeiros.` },
+      { id: 'B', type: 'text', value: `tipificar regras referentes aos atos dignos de punição.` },
+      { id: 'C', type: 'text', value: `conceder benefícios de indulto aos prisioneiros de guerra.` },
+      { id: 'D', type: 'text', value: `promover distribuição de terras aos desempregados urbanos.` },
+      { id: 'E', type: 'text', value: `conferir prerrogativas políticas aos descendentes de estrangeiros.` },
     ],
     correct: 'B',
     explanation: `O texto apresenta o Código de Hamurabi como a mais antiga consolidação jurídica conhecida, que harmonizou costumes e estendeu a lei a todos os súditos. Nesse contexto, as leis tinham o sentido de tipificar regras referentes aos atos dignos de punição, organizando a vida social por normas escritas, o que confirma a alternativa B. Assegurar garantias individuais (A) é anacrônico para a época. Conceder indulto a prisioneiros (C), distribuir terras a desempregados urbanos (D) e conferir prerrogativas a descendentes de estrangeiros (E) não correspondem à função codificadora do documento.`,
@@ -2407,16 +2173,11 @@ O processo de ressignificação do trabalho nas sociedades
 modernas teve início a partir do surgimento de uma nova 
 mentalidade, influenciada pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `reforma higienista, que combateu o caráter excessivo 
-e insalubre do trabalho fabril.` },
-      { id: 'B', type: 'text', value: `Reforma Protestante, que expressou a importância 
-das atividades laborais no mundo secularizado.` },
-      { id: 'C', type: 'text', value: `força do sindicalismo, que emergiu no esteio do 
-anarquismo reivindicando direitos trabalhistas.` },
-      { id: 'D', type: 'text', value: `participação das mulheres em movimentos sociais, 
-defendendo o direito ao trabalho.` },
-      { id: 'E', type: 'text', value: `visão do catolicismo, que, desde a Idade Média, 
-defendia a dignidade do trabalho e do lucro.` },
+      { id: 'A', type: 'text', value: `reforma higienista, que combateu o caráter excessivo e insalubre do trabalho fabril.` },
+      { id: 'B', type: 'text', value: `Reforma Protestante, que expressou a importância das atividades laborais no mundo secularizado.` },
+      { id: 'C', type: 'text', value: `força do sindicalismo, que emergiu no esteio do anarquismo reivindicando direitos trabalhistas.` },
+      { id: 'D', type: 'text', value: `participação das mulheres em movimentos sociais, defendendo o direito ao trabalho.` },
+      { id: 'E', type: 'text', value: `visão do catolicismo, que, desde a Idade Média, defendia a dignidade do trabalho e do lucro.` },
     ],
     correct: 'B',
     explanation: `Antunes mostra que, na Modernidade, prevaleceu uma ética positiva do trabalho, com a valorização do negócio em detrimento do ócio. Essa nova mentalidade foi influenciada pela Reforma Protestante, que atribuiu importância às atividades laborais no mundo secularizado, o que valida a alternativa B. A reforma higienista (A), o sindicalismo anarquista (C) e a participação das mulheres em movimentos sociais (D) são fenômenos posteriores ou de outra natureza. O catolicismo medieval (E) condenava a usura e o lucro, não originando a ética positiva do trabalho descrita.`,
@@ -2442,16 +2203,11 @@ Nesse contexto, a criticada postura dos governos frente
 à situação social do país coincidiu com a priorização de 
 que medidas?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Expansão dos investimentos nas empresas públicas 
-e nos bancos estatais.` },
-      { id: 'B', type: 'text', value: `Democratização do crédito habitacional e da aquisição 
-de moradias populares.` },
-      { id: 'C', type: 'text', value: `Enxugamento da carga fiscal individual e da 
-contribuição tributária empresarial.` },
-      { id: 'D', type: 'text', value: `Reformulação do acesso ao ensino superior e do 
-financiamento científico nacional.` },
-      { id: 'E', type: 'text', value: `Reforma das políticas macroeconômicas e dos 
-mecanismos de controle inflacionário.` },
+      { id: 'A', type: 'text', value: `Expansão dos investimentos nas empresas públicas e nos bancos estatais.` },
+      { id: 'B', type: 'text', value: `Democratização do crédito habitacional e da aquisição de moradias populares.` },
+      { id: 'C', type: 'text', value: `Enxugamento da carga fiscal individual e da contribuição tributária empresarial.` },
+      { id: 'D', type: 'text', value: `Reformulação do acesso ao ensino superior e do financiamento científico nacional.` },
+      { id: 'E', type: 'text', value: `Reforma das políticas macroeconômicas e dos mecanismos de controle inflacionário.` },
     ],
     correct: 'E',
     explanation: `O texto critica, no contexto dos anos 1990, o Estado que abandona seu papel de promotor social na expectativa de que o mercado resolva os problemas. Essa postura neoliberal coincidiu com a priorização da reforma das políticas macroeconômicas e dos mecanismos de controle inflacionário, o que sustenta a alternativa E. A expansão de empresas públicas e bancos estatais (A) é o oposto do período. A democratização do crédito habitacional (B), a reformulação do ensino superior (D) e o enxugamento da carga fiscal (C) não são as medidas destacadas como prioridade pelo autor.`,
@@ -2673,15 +2429,8 @@ O novo gênero de escrita aludido no texto é o(a)`,
       { id: 'A', type: 'text', value: `confissão, que relata experiências de transformação.` },
       { id: 'B', type: 'text', value: `ensaio, que expõe concepções subjetivas de um tema.` },
       { id: 'C', type: 'text', value: `carta, que comunica informações para um conhecido.` },
-      { id: 'D', type: 'text', value: `meditação, 
-que 
-propõe 
-preparações 
-para 
-o 
-conhecimento.` },
-      { id: 'E', type: 'text', value: `diálogo, que discute assuntos com diferentes 
-interlocutores.` },
+      { id: 'D', type: 'text', value: `meditação, que propõe preparações para o conhecimento.` },
+      { id: 'E', type: 'text', value: `diálogo, que discute assuntos com diferentes interlocutores.` },
     ],
     correct: 'B',
     explanation: `O texto atribui a Montaigne a criação de um gênero que instituiu na literatura moderna o espaço do eu, com hesitações, autocríticas e correções incorporadas à própria escrita. Esse gênero é o ensaio, que expõe concepções subjetivas de um tema, o que valida a alternativa B. A confissão (A), centrada em experiências de transformação, a carta (C), voltada a um destinatário, a meditação (D), que prepara para o conhecimento, e o diálogo (E), que discute assuntos entre interlocutores, não correspondem à escrita pessoal e reflexiva característica do ensaio montaigniano.`,
@@ -2786,25 +2535,19 @@ da América foi marcada por`,
     exam: 'enem',
     year: 2020,
     day: 1,
-    text: `A principal característica da situação social dos 
-anglo-americanos 
-é 
-seu 
-caráter 
-eminentemente 
-democrático. Afirmei anteriormente que reinava uma 
-igualdade muito grande entre os emigrantes que foram 
-se estabelecer na Nova Inglaterra. Para isso contribuiu 
-a influência das leis de sucessão. Estabelecidas 
-de uma maneira, as leis de sucessão reúnem, 
-concentram e agrupam em um só a propriedade e o 
-poder. Estabelecidas por outros princípios, produzem 
-o oposto: dividem, partilham e disseminam os bens e 
-o poder. 
-TOCQUEVILLE, A. A democracia na América . Belo Horizonte: Itatiaia; 
-São Paulo: Edusp, 1977 (adaptado). 
-O texto tematiza o papel desempenhado por uma norma 
-na criação de um ambiente propício ao(à)`,
+    text: `A principal característica da situação social dos
+anglo-americanos é seu caráter eminentemente democrático.
+Afirmei anteriormente que reinava uma igualdade muito grande
+entre os emigrantes que foram se estabelecer na Nova
+Inglaterra. Para isso contribuiu a influência das leis de
+sucessão. Estabelecidas de uma maneira, as leis de sucessão
+reúnem, concentram e agrupam em um só a propriedade e o poder.
+Estabelecidas por outros princípios, produzem o oposto:
+dividem, partilham e disseminam os bens e o poder.
+TOCQUEVILLE, A. A democracia na América . Belo Horizonte:
+Itatiaia; São Paulo: Edusp, 1977 (adaptado). O texto tematiza
+o papel desempenhado por uma norma na criação de um ambiente
+propício ao(à)`,
     alternatives: [
       { id: 'A', type: 'text', value: `emprego do trabalho escravo.` },
       { id: 'B', type: 'text', value: `consolidação dos valores burgueses.` },
@@ -2836,13 +2579,10 @@ associa dois elementos essenciais à discussão sobre a
 vida em comunidade, a saber:`,
     alternatives: [
       { id: 'A', type: 'text', value: `Ética e política, pois conduzem à eudaimonia .` },
-      { id: 'B', type: 'text', value: `Retórica e linguagem, pois cuidam dos discursos 
-na ágora.` },
+      { id: 'B', type: 'text', value: `Retórica e linguagem, pois cuidam dos discursos na ágora.` },
       { id: 'C', type: 'text', value: `Metafísica e ontologia, pois tratam da filosofia primeira.` },
-      { id: 'D', type: 'text', value: `Democracia e sociedade, pois se referem a relações 
-sociais.` },
-      { id: 'E', type: 'text', value: `Geração e corrupção, pois abarcam o campo da 
-physis .` },
+      { id: 'D', type: 'text', value: `Democracia e sociedade, pois se referem a relações sociais.` },
+      { id: 'E', type: 'text', value: `Geração e corrupção, pois abarcam o campo da physis .` },
     ],
     correct: 'A',
     explanation: `Aristóteles afirma que toda comunidade visa a algum bem e que a cidade, a mais importante delas, visa ao bem supremo. O fragmento associa, assim, ética e política, pois a vida em comunidade orienta-se para a realização do bem e da felicidade (eudaimonia), o que valida a alternativa A. Retórica e linguagem (B), metafísica e ontologia (C), democracia e sociedade (D) e geração e corrupção (E) não expressam a conexão entre a busca do bem e a organização da polis que o filósofo estabelece ao refletir sobre a vida em comum.`,
@@ -3013,16 +2753,11 @@ SENNET, R. Carne e pedra . Rio de Janeiro: Record, 2008.
 Um motivo que explica a ambientação da prática descrita 
 no texto encontra-se no(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `regra judaica, que pregava a superioridade espiritual 
-dos cultos das sinagogas.` },
-      { id: 'B', type: 'text', value: `moralismo da legislação, que dificultava as reuniões 
-abertas da juventude livre.` },
-      { id: 'C', type: 'text', value: `adesão do patriciado, que subvertia o conceito 
-original dos valores estrangeiros.` },
-      { id: 'D', type: 'text', value: `decisão política, que censurava as manifestações 
-públicas da doutrina dissidente.` },
-      { id: 'E', type: 'text', value: `violência senhorial, que impunha a desestruturação 
-forçada das famílias escravas.` },
+      { id: 'A', type: 'text', value: `regra judaica, que pregava a superioridade espiritual dos cultos das sinagogas.` },
+      { id: 'B', type: 'text', value: `moralismo da legislação, que dificultava as reuniões abertas da juventude livre.` },
+      { id: 'C', type: 'text', value: `adesão do patriciado, que subvertia o conceito original dos valores estrangeiros.` },
+      { id: 'D', type: 'text', value: `decisão política, que censurava as manifestações públicas da doutrina dissidente.` },
+      { id: 'E', type: 'text', value: `violência senhorial, que impunha a desestruturação forçada das famílias escravas.` },
     ],
     correct: 'D',
     explanation: `O texto descreve os primeiros cristãos reunindo-se em casas no século II, onde partilhavam refeições, oravam e liam cartas, em ambiente que oferecia apoio emocional. Esse caráter doméstico explica-se por uma decisão política que censurava as manifestações públicas da doutrina então considerada dissidente no Império Romano, o que sustenta a alternativa D. A regra judaica sobre sinagogas (A), o moralismo da legislação sobre a juventude (B), a adesão do patriciado (C) e a violência senhorial sobre famílias escravas (E) não explicam a reclusão dos cultos aos espaços privados.`,
@@ -3081,15 +2816,11 @@ relacionam-se a um aspecto do processo de
 independência da colônia luso-americana expresso 
 em dissensões entre`,
     alternatives: [
-      { id: 'A', type: 'text', value: `quadros dirigentes em torno da abolição da ordem 
-escravocrata.` },
-      { id: 'B', type: 'text', value: `grupos regionais acerca da configuração político- 
--territorial.` },
-      { id: 'C', type: 'text', value: `intelectuais laicos acerca da revogação do domínio 
-eclesiástico.` },
+      { id: 'A', type: 'text', value: `quadros dirigentes em torno da abolição da ordem escravocrata.` },
+      { id: 'B', type: 'text', value: `grupos regionais acerca da configuração político- -territorial.` },
+      { id: 'C', type: 'text', value: `intelectuais laicos acerca da revogação do domínio eclesiástico.` },
       { id: 'D', type: 'text', value: `homens livres em torno da extensão do direito de voto.` },
-      { id: 'E', type: 'text', value: `elites locais acerca da ordenação do monopólio 
-fundiário.` },
+      { id: 'E', type: 'text', value: `elites locais acerca da ordenação do monopólio fundiário.` },
     ],
     correct: 'B',
     explanation: `O texto mostra duas leituras jornalísticas do movimento pernambucano de 1817: o Correio Braziliense via um descontentamento geral, e a Gazeta do Rio de Janeiro, um simples desvio de súditos fiéis ao soberano. Essa divergência expressa, no processo de independência, as dissensões entre grupos regionais acerca da configuração político-territorial da futura nação, o que valida a alternativa B. A abolição da escravidão (A), o domínio eclesiástico (C), o direito de voto (D) e o monopólio fundiário (E) não são os eixos das duas matérias, que discutem a natureza e o alcance político do movimento.`,
@@ -3317,41 +3048,28 @@ elementos verbais e não verbais faz referência ao ato de`,
     exam: 'enem',
     subject: ['ing'],
     topics: ['Interpretação de texto', 'Questões aleatórias'],
-    text: `No Madonna and Child could touch
-Her tenderness for a son
-She soon would have to forget...
-The air was heavy with odors of diarrhea,
-Of unwashed children with washed-out ribs
-And dried-up bottoms waddling in labored steps
-Behind blown-empty bellies. Other mothers there
-Had long ceased to care, but not this one:
-She held a ghost-smile between her teeth,
-and in her eyes the memory
-Of a mother’s pride... She had bathed him
-And rubbed him down with bare palms.
-She took from their bundle of possessions
-The rust-colored hair left on his skull
-And then — humming in her eyes — began carefully
-[to part it.
-In their former life this was perhaps
-Before his breakfast and school; now she did it
-Like putting flowers on a tiny grave.
-ACHEBE, C. Collected Poems. New York: Anchor Books, 2004.
-O escritor nigeriano Chinua Achebe traz uma reflexão
-sobre a situação dos refugiados em um cenário pós-guerra
-civil em seu país. Essa reflexão é construída no poema
-por meio da representação de uma mãe, explorando a(s)
-doações.
-conhecida.
-filho.`,
+    text: `No Madonna and Child could touch Her tenderness for a son She
+soon would have to forget... The air was heavy with odors of
+diarrhea, Of unwashed children with washed-out ribs And
+dried-up bottoms waddling in labored steps Behind blown-empty
+bellies. Other mothers there Had long ceased to care, but not
+this one: She held a ghost-smile between her teeth, and in her
+eyes the memory Of a mother’s pride... She had bathed him And
+rubbed him down with bare palms. She took from their bundle of
+possessions The rust-colored hair left on his skull And then —
+humming in her eyes — began carefully [to part it. In their
+former life this was perhaps Before his breakfast and school;
+now she did it Like putting flowers on a tiny grave. ACHEBE,
+C. Collected Poems. New York: Anchor Books, 2004. O escritor
+nigeriano Chinua Achebe traz uma reflexão sobre a situação dos
+refugiados em um cenário pós-guerra civil em seu país. Essa
+reflexão é construída no poema por meio da representação de
+uma mãe, explorando a(s) doações. conhecida. filho.`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `demonstração de orgulho por não precisar pedir
-doações.` },
-      { id: 'B', type: 'text', value: `descrições artísticas detalhadas de uma obra
-conhecida.` },
-      { id: 'C', type: 'text', value: `aceitação de um diagnóstico de doença terminal do
-filho.` },
+      { id: 'A', type: 'text', value: `demonstração de orgulho por não precisar pedir doações.` },
+      { id: 'B', type: 'text', value: `descrições artísticas detalhadas de uma obra conhecida.` },
+      { id: 'C', type: 'text', value: `aceitação de um diagnóstico de doença terminal do filho.` },
       { id: 'D', type: 'text', value: `consternação ao visitar o túmulo do filho recém-falecido.` },
       { id: 'E', type: 'text', value: `impressões sensoriais experimentadas no ambiente.` },
     ],

@@ -32,12 +32,9 @@ Qual(ais) grupo(s) terá(ão) uma mortalidade mínima de
     alternatives: [
       { id: 'A', type: 'text', value: `O grupo que se contaminou somente com atrazina.` },
       { id: 'B', type: 'text', value: `O grupo que se contaminou somente com diazinon.` },
-      { id: 'C', type: 'text', value: `Os grupos que se contaminaram com atrazina e 
-malation.` },
-      { id: 'D', type: 'text', value: `Os grupos que se contaminaram com diazinon e 
-malation.` },
-      { id: 'E', type: 'text', value: `Nenhum dos grupos contaminados com atrazina, 
-diazinon e malation.` },
+      { id: 'C', type: 'text', value: `Os grupos que se contaminaram com atrazina e malation.` },
+      { id: 'D', type: 'text', value: `Os grupos que se contaminaram com diazinon e malation.` },
+      { id: 'E', type: 'text', value: `Nenhum dos grupos contaminados com atrazina, diazinon e malation.` },
     ],
     correct: 'D',
     explanation: `Cada rato, de 200 g, consumiu 100 g de ração contaminada na concentração de 3 mg/g, ingerindo 3 × 100 = 300 mg do pesticida. A dose por massa corporal é 300 mg ÷ 0,200 kg = 1 500 mg/kg. Um pesticida provoca a morte de pelo menos 50% do grupo (ou seja, 10 dos 20 ratos) quando a dose ingerida atinge ou supera sua DL₅₀. Como no quadro a DL₅₀ é 70 mg/kg para o diazinon, 1 000 mg/kg para o malation e 3 100 mg/kg para a atrazina, a dose de 1 500 mg/kg supera a DL₅₀ do diazinon e do malation, mas não a da atrazina. Portanto, terão mortalidade mínima de 10 ratos os grupos contaminados com diazinon e malation (alternativa D).`,
@@ -73,31 +70,18 @@ fármacos atuam`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Dispositivos eletrônicos que utilizam materiais de 
-baixo custo, como polímeros semicondutores, têm sido 
-desenvolvidos para monitorar a concentração de amônia 
-(gás tóxico e incolor) em granjas avícolas. A polianilina 
-é um polímero semicondutor que tem o valor de sua 
-resistência elétrica nominal quadruplicado quando exposta 
-a altas concentrações de amônia. Na ausência de amônia, 
-a polianilina se comporta como um resistor ôhmico e a sua 
-resposta elétrica é mostrada no gráfico. 
-6,0 
-5,0 
-Corrente (10 -6 A) 
-4,0 
-3,0 
-2,0 
-1,0 
-1,0 
-0,5 
-1,5 
-2,0 
-2,5 
-3,0 
-Diferença de potencial (V) 
-O valor da resistência elétrica da polianilina na presença 
-de altas concentrações de amônia, em ohm, é igual a`,
+    text: `Dispositivos eletrônicos que utilizam materiais de baixo
+custo, como polímeros semicondutores, têm sido desenvolvidos
+para monitorar a concentração de amônia (gás tóxico e incolor)
+em granjas avícolas. A polianilina é um polímero semicondutor
+que tem o valor de sua resistência elétrica nominal
+quadruplicado quando exposta a altas concentrações de amônia.
+Na ausência de amônia, a polianilina se comporta como um
+resistor ôhmico e a sua resposta elétrica é mostrada no
+gráfico. 6,0 5,0 Corrente (10 -6 A) 4,0 3,0 2,0 1,0 1,0 0,5
+1,5 2,0 2,5 3,0 Diferença de potencial (V) O valor da
+resistência elétrica da polianilina na presença de altas
+concentrações de amônia, em ohm, é igual a`,
     images: ['/enem/2017/images/enem_2017_d2_q93.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `0,5 × 10⁰ .` },
@@ -151,24 +135,17 @@ de os nanotubos de carbono promoverem diretamente a`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `A eletrólise é um processo não espontâneo de grande importância para a industria química. Uma de suas 
-aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio. 
-Nesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado. 
-e 
-e 
-+ 
-e 
-Bateria 
-Produto secundário 
-Cl₂ (g) 
-Solução aquosa 
-de NaCl 
-+ 
-Ânodo de carbono 
-Diafragma de amianto 
-Célula eletroquímica 
-SHREVE, R. N.; BRINK Jr., J. A. Industrias de processos químicos . Rio de Janeiro: Guanabara Koogan, 1997 (adaptado). 
-No processo eletrolítico ilustrado, o produto secundário obtido é o`,
+    text: `A eletrólise é um processo não espontâneo de grande
+importância para a industria química. Uma de suas aplicações é
+a obtenção do gás cloro e do hidróxido de sódio, a partir de
+uma solução aquosa de cloreto de sódio. Nesse procedimento,
+utiliza-se uma célula eletroquímica, como ilustrado. e e + e
+Bateria Produto secundário Cl₂ (g) Solução aquosa de NaCl +
+Ânodo de carbono Diafragma de amianto Célula eletroquímica
+SHREVE, R. N.; BRINK Jr., J. A. Industrias de processos
+químicos . Rio de Janeiro: Guanabara Koogan, 1997 (adaptado).
+No processo eletrolítico ilustrado, o produto secundário
+obtido é o`,
     images: ['/enem/2017/images/enem_2017_d2_q95.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `vapor de água.` },
@@ -223,16 +200,11 @@ encontram carboidratos, proteínas e sais minerais.
 Cientificamente, sabe-se que essa mudança de cor da 
 chama ocorre pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `reação do gás de cozinha com o sal, volatilizando 
-gás cloro.` },
-      { id: 'B', type: 'text', value: `emissão de fótons pelo sódio, excitado por causa da 
-chama.` },
-      { id: 'C', type: 'text', value: `produção de derivado amarelo, pela reação com o 
-carboidrato.` },
-      { id: 'D', type: 'text', value: `reação do gás de cozinha com a água, formando gás 
-hidrogênio.` },
-      { id: 'E', type: 'text', value: `excitação das moléculas de proteínas, com formação 
-de luz amarela.` },
+      { id: 'A', type: 'text', value: `reação do gás de cozinha com o sal, volatilizando gás cloro.` },
+      { id: 'B', type: 'text', value: `emissão de fótons pelo sódio, excitado por causa da chama.` },
+      { id: 'C', type: 'text', value: `produção de derivado amarelo, pela reação com o carboidrato.` },
+      { id: 'D', type: 'text', value: `reação do gás de cozinha com a água, formando gás hidrogênio.` },
+      { id: 'E', type: 'text', value: `excitação das moléculas de proteínas, com formação de luz amarela.` },
     ],
     correct: 'B',
     explanation: `A cor amarela surge por causa do sódio presente no sal de cozinha (NaCl) dissolvido na água de cozimento. O calor da chama excita os elétrons dos átomos de sódio para níveis de maior energia; ao retornarem ao estado fundamental, esses elétrons emitem fótons de luz na região do amarelo, fenômeno que é a base do teste de chama. Portanto, a mudança de cor ocorre pela emissão de fótons pelo sódio, excitado pela chama (alternativa B).`,
@@ -274,42 +246,22 @@ mais recente se baseia fundamentalmente em`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Em uma colisão frontal entre dois automóveis, a 
-força que o cinto de segurança exerce sobre o tórax e 
-abdômen do motorista pode causar lesões graves nos 
-órgãos internos. Pensando na segurança do seu produto, 
-um fabricante de automóveis realizou testes em cinco 
-modelos diferentes de cinto. Os testes simularam uma 
-colisão de 0,30 segundo de duração, e os bonecos que 
-representavam os ocupantes foram equipados com 
-acelerômetros. Esse equipamento registra o módulo 
-da desaceleração do boneco em função do tempo. 
-Os parâmetros como massa dos bonecos, dimensões dos 
-cintos e velocidade imediatamente antes e após o impacto 
-foram os mesmos para todos os testes. O resultado final 
-obtido está no gráfico de aceleração por tempo. 
-200 
-Cinto 1 
-Cinto 2 
-Cinto 3 
-Cinto 4 
-Cinto 5 
-Aceleração (m/s² ) 
-160 
-120 
-80 
-40 
-0 
-0,00 
-0,05 
-0,10 
-0,15 
-0,20 
-0,25 
-0,30 
-Tempo (s) 
-Qual modelo de cinto oferece menor risco de lesão interna 
-ao motorista?`,
+    text: `Em uma colisão frontal entre dois automóveis, a força que o
+cinto de segurança exerce sobre o tórax e abdômen do motorista
+pode causar lesões graves nos órgãos internos. Pensando na
+segurança do seu produto, um fabricante de automóveis realizou
+testes em cinco modelos diferentes de cinto. Os testes
+simularam uma colisão de 0,30 segundo de duração, e os bonecos
+que representavam os ocupantes foram equipados com
+acelerômetros. Esse equipamento registra o módulo da
+desaceleração do boneco em função do tempo. Os parâmetros como
+massa dos bonecos, dimensões dos cintos e velocidade
+imediatamente antes e após o impacto foram os mesmos para
+todos os testes. O resultado final obtido está no gráfico de
+aceleração por tempo. 200 Cinto 1 Cinto 2 Cinto 3 Cinto 4
+Cinto 5 Aceleração (m/s² ) 160 120 80 40 0 0,00 0,05 0,10 0,15
+0,20 0,25 0,30 Tempo (s) Qual modelo de cinto oferece menor
+risco de lesão interna ao motorista?`,
     images: ['/enem/2017/images/enem_2017_d2_q99.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1` },
@@ -356,39 +308,21 @@ estado de saúde com o uso desse material?`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `A figura mostra como é a emissão de radiação 
-eletromagnética para cinco tipos de lâmpada: haleto 
-metálico, tungstênio, mercúrio, xênon e LED (diodo 
-emissor de luz). As áreas marcadas em cinza são 
-proporcionais à intensidade da energia liberada pela 
-lâmpada. As linhas pontilhadas mostram a sensibilidade 
-do olho humano aos diferentes comprimentos de onda. 
-UV e IV são as regiões do ultravioleta e do infravermelho, 
-respectivamente. 
-Um arquiteto deseja iluminar uma sala usando uma 
-lâmpada que produza boa iluminação, mas que não 
-aqueça o ambiente. 
-Haleto metálico 
-Tungstênio 
-Intensidade emitida 
-Mercúrio 
-Xênon 
-LED 
-300 
-200 
-900 
-800 
-700 
-600 
-500 
-400 
-UV 
-IV 
-Visível 
-Comprimento de onda (nm) 
-  
-Disponível em: http://zeiss-campus.magnet.fsu.edu. Acesso em: 8 maio 2017 (adaptado). 
-Qual tipo de lâmpada melhor atende ao desejo do arquiteto?`,
+    text: `A figura mostra como é a emissão de radiação eletromagnética
+para cinco tipos de lâmpada: haleto metálico, tungstênio,
+mercúrio, xênon e LED (diodo emissor de luz). As áreas
+marcadas em cinza são proporcionais à intensidade da energia
+liberada pela lâmpada. As linhas pontilhadas mostram a
+sensibilidade do olho humano aos diferentes comprimentos de
+onda. UV e IV são as regiões do ultravioleta e do
+infravermelho, respectivamente. Um arquiteto deseja iluminar
+uma sala usando uma lâmpada que produza boa iluminação, mas
+que não aqueça o ambiente. Haleto metálico Tungstênio
+Intensidade emitida Mercúrio Xênon LED 300 200 900 800 700 600
+500 400 UV IV Visível Comprimento de onda (nm) Disponível em:
+http://zeiss-campus.magnet.fsu.edu. Acesso em: 8 maio 2017
+(adaptado). Qual tipo de lâmpada melhor atende ao desejo do
+arquiteto?`,
     images: ['/enem/2017/images/enem_2017_d2_q101.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Haleto metálico.` },
@@ -438,36 +372,7 @@ de condensação ocorre por`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Em uma linha de transmissão de informações por 
-fibra óptica, quando um sinal diminui sua intensidade para 
-valores inferiores a 10 dB, este precisa ser retransmitido. 
-No entanto, intensidades superiores a 100 dB não podem 
-ser transmitidas adequadamente. A figura apresenta 
-como se dá a perda de sinal (perda óptica) para diferentes 
-comprimentos de onda para certo tipo de fibra óptica. 
-6 
-Perda óptica (dB/km) 
-5 
-4 
-3 
-2 
-1 
-0,8 
-0,9 
-1,0 
-1,1 
-1,2 
-1,3 
-1,4 
-1,5 
-1,6 
-1,7 
-1,8 
-Comprimento de onda (µm) 
-Atenuação e limitações das fibras ópticas . Disponível em: www.gta.ufrj.br. 
-Acesso em: 25 maio 2017 (adaptado). 
-Qual é a máxima distância, em km, que um sinal pode ser 
-enviado nessa fibra sem ser necessária uma retransmissão?`,
+    text: ``,
     images: ['/enem/2017/images/enem_2017_d2_q103.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `6` },
@@ -509,31 +414,17 @@ radiação apresentou 6 750 emissões beta por hora. A idade desse fóssil, em a
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `A figura mostra o funcionamento de uma estacao hibrida de geração de eletricidade movida a energia eólica e 
-biogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na forma de gas hidrogênio, 
-usado no fornecimento de energia para a rede elétrica comum e para abastecer células a combustível. 
-Rede de distribuição 
-elétrica 
-Turbinas 
-eólicas 
-Produção de 
-hidrogênio 
-Eletricidade 
-Eletricidade 
-Planta mista 
-de geração 
-de energia 
-Eletricidade 
-Mistura 
-Válvula para 
-mistura 
-Calor 
-Biogás 
-Destino da 
- energia térmica 
-Armazenamento 
-de biogás 
-Mesmo com ausência de ventos por curtos períodos, essa estacao continua abastecendo a cidade onde esta 
+    text: `A figura mostra o funcionamento de uma estacao hibrida de
+geração de eletricidade movida a energia eólica e biogás. Essa
+estação possibilita que a energia gerada no parque eólico seja
+armazenada na forma de gas hidrogênio, usado no fornecimento
+de energia para a rede elétrica comum e para abastecer células
+a combustível. Rede de distribuição elétrica Turbinas eólicas
+Produção de hidrogênio Eletricidade Eletricidade Planta mista
+de geração de energia Eletricidade Mistura Válvula para
+mistura Calor Biogás Destino da energia térmica Armazenamento
+de biogás Mesmo com ausência de ventos por curtos períodos,
+essa estacao continua abastecendo a cidade onde esta
 instalada, pois o(a)`,
     images: ['/enem/2017/images/enem_2017_d2_q105.jpg'],
     alternatives: [
@@ -565,14 +456,10 @@ quantidades de óleos essenciais.
 A explicação científica que justifica essa prática se baseia na`,
     alternatives: [
       { id: 'A', type: 'text', value: `volatilização das substâncias de interesse.` },
-      { id: 'B', type: 'text', value: `polimerização dos óleos catalisada pela radiação 
-solar.` },
-      { id: 'C', type: 'text', value: `solubilização das substâncias de interesse pelo 
-orvalho.` },
-      { id: 'D', type: 'text', value: `oxidação do óleo pelo oxigênio produzido na 
-fotossíntese.` },
-      { id: 'E', type: 'text', value: `liberação das moléculas de óleo durante o processo 
-de fotossíntese.` },
+      { id: 'B', type: 'text', value: `polimerização dos óleos catalisada pela radiação solar.` },
+      { id: 'C', type: 'text', value: `solubilização das substâncias de interesse pelo orvalho.` },
+      { id: 'D', type: 'text', value: `oxidação do óleo pelo oxigênio produzido na fotossíntese.` },
+      { id: 'E', type: 'text', value: `liberação das moléculas de óleo durante o processo de fotossíntese.` },
     ],
     correct: 'A',
     explanation: `Os óleos essenciais são constituídos por substâncias voláteis, que evaporam com facilidade quando a temperatura aumenta. Ao raiar do dia, a temperatura é mais baixa e a volatilização desses compostos é mínima, de modo que a planta ainda retém a maior quantidade de óleo. Com a incidência dos raios solares e o aquecimento, parte dessas substâncias é volatilizada e perdida. Portanto, a coleta no raiar do dia é vantajosa porque evita a volatilização das substâncias de interesse (alternativa A).`,
@@ -584,39 +471,22 @@ de fotossíntese.` },
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `A epilação a laser (popularmente conhecida como 
-depilação a laser ) consiste na aplicação de uma fonte de luz 
-para aquecer e causar uma lesão localizada e controlada 
-nos folículos capilares. Para evitar que outros tecidos sejam 
-danificados, selecionam-se comprimentos de onda que são 
-absorvidos pela melanina presente nos pelos, mas que não 
-afetam a oxi-hemoglobina do sangue e a água dos tecidos 
-da região em que o tratamento será aplicado. A figura 
-mostra como é a absorção de diferentes comprimentos de 
-onda pela melanina, oxi-hemoglobina e água. 
-50,0 
-Melanina 
-37,5 
-Absorção (%) 
-25,0 
-Oxi-hemoglobina 
-12,5 
-Água 
-0 
-400 
-500 
-600 
-700 
-800 
-900 
-1 000 
-1 100 
-Comprimento de onda (nm) 
-MACEDO, F. S.; MONTEIRO, E. O. Epilação com laser e luz intensa pulsada. 
-Revista Brasileira de Medicina . Disponível em: www.moreirajr.com.br. 
- Acesso em: 4 set. 2015 (adaptado). 
-Qual é o comprimento de onda, em nm, ideal para a 
-epilação a laser ?`,
+    text: `A epilação a laser (popularmente conhecida como depilação a
+laser ) consiste na aplicação de uma fonte de luz para aquecer
+e causar uma lesão localizada e controlada nos folículos
+capilares. Para evitar que outros tecidos sejam danificados,
+selecionam-se comprimentos de onda que são absorvidos pela
+melanina presente nos pelos, mas que não afetam a
+oxi-hemoglobina do sangue e a água dos tecidos da região em
+que o tratamento será aplicado. A figura mostra como é a
+absorção de diferentes comprimentos de onda pela melanina,
+oxi-hemoglobina e água. 50,0 Melanina 37,5 Absorção (%) 25,0
+Oxi-hemoglobina 12,5 Água 0 400 500 600 700 800 900 1 000 1
+100 Comprimento de onda (nm) MACEDO, F. S.; MONTEIRO, E. O.
+Epilação com laser e luz intensa pulsada. Revista Brasileira
+de Medicina . Disponível em: www.moreirajr.com.br. Acesso em:
+4 set. 2015 (adaptado). Qual é o comprimento de onda, em nm,
+ideal para a epilação a laser ?`,
     images: ['/enem/2017/images/enem_2017_d2_q107.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `400` },
@@ -695,24 +565,15 @@ reduz o(a)`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Fusível é um dispositivo de proteção contra 
-sobrecorrente em circuitos. Quando a corrente que passa 
-por esse componente elétrico é maior que sua máxima 
-corrente nominal, o fusível queima. Dessa forma, evita 
-que a corrente elevada danifique os aparelhos do circuito. 
-Suponha que o circuito elétrico mostrado seja alimentado 
-por uma fonte de tensão U e que o fusível suporte uma 
-corrente nominal de 500 mA. 
-60 Ω 
-60 Ω 
-30 Ω 
-120 Ω 
-Fusível 
-60 Ω 
-40 Ω 
-U 
-Qual é o máximo valor da tensão U para que o fusível não 
-queime?`,
+    text: `Fusível é um dispositivo de proteção contra sobrecorrente em
+circuitos. Quando a corrente que passa por esse componente
+elétrico é maior que sua máxima corrente nominal, o fusível
+queima. Dessa forma, evita que a corrente elevada danifique os
+aparelhos do circuito. Suponha que o circuito elétrico
+mostrado seja alimentado por uma fonte de tensão U e que o
+fusível suporte uma corrente nominal de 500 mA. 60 Ω 60 Ω 30 Ω
+120 Ω Fusível 60 Ω 40 Ω U Qual é o máximo valor da tensão U
+para que o fusível não queime?`,
     images: ['/enem/2017/images/enem_2017_d2_q110.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `20 V` },
@@ -759,33 +620,22 @@ substâncias porque`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `O trombone de Quincke é um dispositivo experimental 
-utilizado para demonstrar o fenômeno da interferência 
-de ondas sonoras. Uma fonte emite ondas sonoras de 
-determinada frequência na entrada do dispositivo. Essas 
-ondas se dividem pelos dois caminhos ( ADC e AEC ) e se 
-encontram no ponto C , a saída do dispositivo, onde se 
-posiciona um detector. O trajeto ADC pode ser aumentado 
-pelo deslocamento dessa parte do dispositivo. Com o 
-trajeto ADC igual ao AEC , capta-se um som muito intenso 
-na saída. Entretanto, aumentando-se gradativamente o 
-trajeto ADC , até que ele fique como mostrado na figura, a 
-intensidade do som na saída fica praticamente nula. Desta 
-forma, conhecida a velocidade do som no interior do tubo 
-(320 m/s), é possível determinar o valor da frequência do 
-som produzido pela fonte. 
-40 cm 
-30 cm 
-Fonte sonora 
-Entrada do som 
-A 
-E 
-D 
-C 
-Saída do som 
-Detector 
-O valor da frequência, em hertz, do som produzido pela 
-fonte sonora é`,
+    text: `O trombone de Quincke é um dispositivo experimental utilizado
+para demonstrar o fenômeno da interferência de ondas sonoras.
+Uma fonte emite ondas sonoras de determinada frequência na
+entrada do dispositivo. Essas ondas se dividem pelos dois
+caminhos ( ADC e AEC ) e se encontram no ponto C , a saída do
+dispositivo, onde se posiciona um detector. O trajeto ADC pode
+ser aumentado pelo deslocamento dessa parte do dispositivo.
+Com o trajeto ADC igual ao AEC , capta-se um som muito intenso
+na saída. Entretanto, aumentando-se gradativamente o trajeto
+ADC , até que ele fique como mostrado na figura, a intensidade
+do som na saída fica praticamente nula. Desta forma, conhecida
+a velocidade do som no interior do tubo (320 m/s), é possível
+determinar o valor da frequência do som produzido pela fonte.
+40 cm 30 cm Fonte sonora Entrada do som A E D C Saída do som
+Detector O valor da frequência, em hertz, do som produzido
+pela fonte sonora é`,
     images: ['/enem/2017/images/enem_2017_d2_q112.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `3 200.` },
@@ -804,33 +654,20 @@ fonte sonora é`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `A farinha de linhaça dourada é um produto natural que 
-oferece grandes benefícios para o nosso organismo. A maior 
-parte dos nutrientes da linhaça encontra-se no óleo desta 
-semente, rico em substâncias lipossolúveis com massas 
-moleculares elevadas. A farinha também apresenta altos 
-teores de fibras proteicas insolúveis em água, celulose, 
-vitaminas lipossolúveis e sais minerais hidrossolúveis. 
-Considere o esquema, que resume um processo de 
-separação dos componentes principais da farinha de 
-linhaça dourada. 
-Farinha de linhaça 
-Adição de éter etílico, seguida de agitação 
-Filtração 
-Destilado 1 
-Resíduo 1 
-Extrato etéreo 
-(fase orgânica) 
-Destilação 
-Resíduo 4 
-Adição de água, seguida de agitação 
-Filtração 
-Destilado 2 
-Resíduo 2 
-Extrato aquoso 
-Destilação 
-Resíduo 3 
-O óleo de linhaça será obtido na fração`,
+    text: `A farinha de linhaça dourada é um produto natural que oferece
+grandes benefícios para o nosso organismo. A maior parte dos
+nutrientes da linhaça encontra-se no óleo desta semente, rico
+em substâncias lipossolúveis com massas moleculares elevadas.
+A farinha também apresenta altos teores de fibras proteicas
+insolúveis em água, celulose, vitaminas lipossolúveis e sais
+minerais hidrossolúveis. Considere o esquema, que resume um
+processo de separação dos componentes principais da farinha de
+linhaça dourada. Farinha de linhaça Adição de éter etílico,
+seguida de agitação Filtração Destilado 1 Resíduo 1 Extrato
+etéreo (fase orgânica) Destilação Resíduo 4 Adição de água,
+seguida de agitação Filtração Destilado 2 Resíduo 2 Extrato
+aquoso Destilação Resíduo 3 O óleo de linhaça será obtido na
+fração`,
     images: ['/enem/2017/images/enem_2017_d2_q113.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Destilado 1.` },
@@ -849,45 +686,16 @@ O óleo de linhaça será obtido na fração`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `O biodiesel é um biocombustível obtido a partir de 
-fontes renováveis, que surgiu como alternativa ao uso do 
-diesel de petróleo para motores de combustão interna. 
-Ele pode ser obtido pela reação entre triglicerídeos, 
-presentes em óleos vegetais e gorduras animais, entre 
-outros, e álcoois de baixa massa molar, como o metanol 
-ou etanol, na presença de um catalisador, de acordo com 
-a equação química: 
-CH 
-CH 
-R 1 
-R 1 
-2 
-3 
-CH 
-OH 
-2 
-+ 
-+ 
-catalisador 
-CH 
-OH 
-3 CH 3 OH 
-R 2 
-R 2 
-CH 
-CH 
-3 
-CH 
-OH 
-2 
-CH 
-CH 
-R 3 
-R 3 
-2 
-3 
-A função química presente no produto que representa o 
-biodiesel é`,
+    text: `O biodiesel é um biocombustível obtido a partir de fontes
+renováveis, que surgiu como alternativa ao uso do diesel de
+petróleo para motores de combustão interna. Ele pode ser
+obtido pela reação entre triglicerídeos, presentes em óleos
+vegetais e gorduras animais, entre outros, e álcoois de baixa
+massa molar, como o metanol ou etanol, na presença de um
+catalisador, de acordo com a equação química: CH CH R 1 R 1 2
+3 CH OH 2 + + catalisador CH OH 3 CH 3 OH R 2 R 2 CH CH 3 CH
+OH 2 CH CH R 3 R 3 2 3 A função química presente no produto
+que representa o biodiesel é`,
     images: ['/enem/2017/images/enem_2017_d2_q114.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `éter.` },
@@ -931,54 +739,28 @@ em função`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Visando 
-explicar 
-uma 
-das 
-propriedades 
-da 
-membrana plasmática, fusionou-se uma célula de 
-camundongo com uma célula humana, formando uma 
-célula híbrida. Em seguida, com o intuito de marcar as 
-proteínas de membrana, dois anticorpos foram inseridos 
-no experimento, um específico para as proteínas de 
-membrana do camundongo e outro para as proteínas de 
-membrana humana. Os anticorpos foram visualizados ao 
-microscópio por meio de fluorescência de cores diferentes. 
-Célula de 
-camundongo 
-Célula 
-humana 
-ETAPA 1 
-Proteína da 
-membrana 
-Proteína da 
-membrana 
-Fusão celular 
-ETAPA 2 
-Célula híbrida 
-ETAPA 3 
-Anticorpos contra proteína 
-de membrana humana, 
-marcados com rodamina. 
-Anticorpos contra proteína de 
-membrana de camundongo, 
-marcados com fluoresceína. 
-Tempo = 0 minuto 
-Incubação a 37 °C 
-ETAPA 4 
-Tempo = 40 minutos 
-ALBERTS, B. et al. Biologia molecular da célula . Porto Alegre: Artes Médicas, 1997 (adaptado). 
-A mudança observada da etapa 3 para a etapa 4 do 
-experimento ocorre porque as proteínas`,
+    text: `Visando explicar uma das propriedades da membrana plasmática,
+fusionou-se uma célula de camundongo com uma célula humana,
+formando uma célula híbrida. Em seguida, com o intuito de
+marcar as proteínas de membrana, dois anticorpos foram
+inseridos no experimento, um específico para as proteínas de
+membrana do camundongo e outro para as proteínas de membrana
+humana. Os anticorpos foram visualizados ao microscópio por
+meio de fluorescência de cores diferentes. Célula de
+camundongo Célula humana ETAPA 1 Proteína da membrana Proteína
+da membrana Fusão celular ETAPA 2 Célula híbrida ETAPA 3
+Anticorpos contra proteína de membrana humana, marcados com
+rodamina. Anticorpos contra proteína de membrana de
+camundongo, marcados com fluoresceína. Tempo = 0 minuto
+Incubação a 37 °C ETAPA 4 Tempo = 40 minutos ALBERTS, B. et
+al. Biologia molecular da célula . Porto Alegre: Artes
+Médicas, 1997 (adaptado). A mudança observada da etapa 3 para
+a etapa 4 do experimento ocorre porque as proteínas`,
     images: ['/enem/2017/images/enem_2017_d2_q116.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `movimentam-se livremente no plano da bicamada 
-lipídica.` },
-      { id: 'B', type: 'text', value: `permanecem confinadas em determinadas regiões 
-da bicamada.` },
-      { id: 'C', type: 'text', value: `auxiliam o deslocamento dos fosfolipídios da 
-membrana plasmática.` },
+      { id: 'A', type: 'text', value: `movimentam-se livremente no plano da bicamada lipídica.` },
+      { id: 'B', type: 'text', value: `permanecem confinadas em determinadas regiões da bicamada.` },
+      { id: 'C', type: 'text', value: `auxiliam o deslocamento dos fosfolipídios da membrana plasmática.` },
       { id: 'D', type: 'text', value: `são mobilizadas em razão da inserção de anticorpos.` },
       { id: 'E', type: 'text', value: `são bloqueadas pelos anticorpos.` },
     ],
@@ -1004,16 +786,11 @@ RICHARDS, C. S. et al. The American Journal of Human Genetics , n. 4, 1990 (adap
 A diferença na manifestação da DMD entre as gêmeas 
 pode ser explicada pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `dominância incompleta do alelo mutante em relação 
-ao alelo normal.` },
-      { id: 'B', type: 'text', value: `falha na separação dos cromossomos X no momento 
-da separação dos dois embriões.` },
-      { id: 'C', type: 'text', value: `recombinação cromossômica em uma divisão celular 
-embrionária anterior à separação dos dois embriões.` },
-      { id: 'D', type: 'text', value: `inativação aleatória de um dos cromossomos X em 
-fase posterior à divisão que resulta nos dois embriões.` },
-      { id: 'E', type: 'text', value: `origem paterna do cromossomo portador do alelo mutante 
-em uma das gêmeas e origem materna na outra.` },
+      { id: 'A', type: 'text', value: `dominância incompleta do alelo mutante em relação ao alelo normal.` },
+      { id: 'B', type: 'text', value: `falha na separação dos cromossomos X no momento da separação dos dois embriões.` },
+      { id: 'C', type: 'text', value: `recombinação cromossômica em uma divisão celular embrionária anterior à separação dos dois embriões.` },
+      { id: 'D', type: 'text', value: `inativação aleatória de um dos cromossomos X em fase posterior à divisão que resulta nos dois embriões.` },
+      { id: 'E', type: 'text', value: `origem paterna do cromossomo portador do alelo mutante em uma das gêmeas e origem materna na outra.` },
     ],
     correct: 'D',
     explanation: `As gêmeas são monozigóticas e heterozigóticas para o alelo recessivo ligado ao X, de modo que ambas possuem um X normal e um X mutante. Em cada célula feminina, um dos cromossomos X é inativado ao acaso (lionização). Se essa inativação ocorreu após a divisão que separou os dois embriões, uma gêmea pode ter inativado preferencialmente o X normal, expressando o alelo mutante (DMD), enquanto a outra inativou o X mutante, permanecendo normal. Portanto, a diferença se explica pela inativação aleatória de um dos cromossomos X em fase posterior à divisão que origina os dois embriões (alternativa D).`,
@@ -1025,25 +802,18 @@ em uma das gêmeas e origem materna na outra.` },
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Para se adequar às normas ambientais atuais, as 
-construtoras precisam prever em suas obras a questão 
-do uso de materiais de modo a minimizar os impactos 
-causados no local. Entre esses materiais está o chamado 
-concregrama ou pisograma, que é um tipo de revestimento 
-composto por peças de concreto com áreas vazadas, 
-preenchidas com solo gramado. As figuras apresentam 
-essas duas formas de piso feitos de concreto. 
-Grama 
-Grama 
-Grama 
-Grama 
-Piso tradicional 
-de concreto 
-Piso concregrama 
-PONTES, K. L. F. Estudo de caso de um protótipo experimental [...]. 
-Disponível em: http://monografias.poli.ufrj.br. Acesso em: 9 maio 2017 (adaptado). 
-A utilização desse tipo de piso em uma obra tem o objetivo 
-de evitar, no solo, a`,
+    text: `Para se adequar às normas ambientais atuais, as construtoras
+precisam prever em suas obras a questão do uso de materiais de
+modo a minimizar os impactos causados no local. Entre esses
+materiais está o chamado concregrama ou pisograma, que é um
+tipo de revestimento composto por peças de concreto com áreas
+vazadas, preenchidas com solo gramado. As figuras apresentam
+essas duas formas de piso feitos de concreto. Grama Grama
+Grama Grama Piso tradicional de concreto Piso concregrama
+PONTES, K. L. F. Estudo de caso de um protótipo experimental
+[...]. Disponível em: http://monografias.poli.ufrj.br. Acesso
+em: 9 maio 2017 (adaptado). A utilização desse tipo de piso em
+uma obra tem o objetivo de evitar, no solo, a`,
     images: ['/enem/2017/images/enem_2017_d2_q118.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `impermeabilização.` },
@@ -1062,33 +832,24 @@ de evitar, no solo, a`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Diversos produtos naturais podem ser obtidos de 
-plantas por processo de extração. O lapachol é da classe 
-das naftoquinonas. Sua estrutura apresenta uma hidroxila 
-enólica (p K a = 6,0) que permite que este composto seja 
-isolado da serragem dos ipês por extração com solução 
-adequada, seguida de filtração simples. Considere que 
-p K a = −log K a , em que K a é a constante ácida da reação 
-de ionização do lapachol. 
-O 
-OH 
-O 
-Lapachol 
-COSTA, P. R. R. et al. Ácidos e bases em química orgânica . 
-Porto Alegre: Bookman, 2005 (adaptado). 
-Qual solução deve ser usada para extração do lapachol 
-da serragem do ipê com maior eficiência?`,
+    text: `Diversos produtos naturais podem ser obtidos de plantas por
+processo de extração. O lapachol é da classe das
+naftoquinonas. Sua estrutura apresenta uma hidroxila enólica
+(p K a = 6,0) que permite que este composto seja isolado da
+serragem dos ipês por extração com solução adequada, seguida
+de filtração simples. Considere que p K a = −log K a , em que
+K a é a constante ácida da reação de ionização do lapachol. O
+OH O Lapachol COSTA, P. R. R. et al. Ácidos e bases em química
+orgânica . Porto Alegre: Bookman, 2005 (adaptado). Qual
+solução deve ser usada para extração do lapachol da serragem
+do ipê com maior eficiência?`,
     images: ['/enem/2017/images/enem_2017_d2_q119.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Solução de Na₂ CO₃ para formar um sal de lapachol.` },
-      { id: 'B', type: 'text', value: `Solução-tampão ácido acético/acetato de sódio 
-(pH = 4,5).` },
-      { id: 'C', type: 'text', value: `Solução de NaCl a fim de aumentar a força iônica 
-do meio.` },
-      { id: 'D', type: 'text', value: `Solução de Na₂ SO₄ para formar um par iônico com 
-lapachol.` },
-      { id: 'E', type: 'text', value: `Solução de HCl a fim de extraí-lo por meio de reação 
-ácido-base.` },
+      { id: 'B', type: 'text', value: `Solução-tampão ácido acético/acetato de sódio (pH = 4,5).` },
+      { id: 'C', type: 'text', value: `Solução de NaCl a fim de aumentar a força iônica do meio.` },
+      { id: 'D', type: 'text', value: `Solução de Na₂ SO₄ para formar um par iônico com lapachol.` },
+      { id: 'E', type: 'text', value: `Solução de HCl a fim de extraí-lo por meio de reação ácido-base.` },
     ],
     correct: 'A',
     explanation: `O lapachol possui uma hidroxila enólica ácida (pKa = 6,0), comportando-se como um ácido fraco. Para extraí-lo com eficiência, deve-se ionizá-lo, convertendo-o em um sal solúvel em água; isso é conseguido com uma solução básica. A solução de Na₂CO₃ (básica) desprotona o lapachol, formando o sal correspondente, solúvel, que é separado por filtração. Portanto, a solução adequada é a de Na₂CO₃, para formar um sal de lapachol (alternativa A).`,
@@ -1154,18 +915,20 @@ Qual associação em série de pilhas fornece diferença de potencial, nas condi
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `O ácido acetilsalicílico, AAS (massa molar igual a 180 g/mol), é sintetizado a partir da reação do ácido salicílico 
-(massa molar igual a 138 g/mol) com anidrido acético, usando-se ácido sulfúrico como catalisador, conforme a 
-equação química: 
-Ácido salicílico 
-Anidrido acético 
-Ácido acetilsalicílico 
-Ácido acético 
-Após a síntese, o AAS é purificado e o rendimento final é de aproximadamente 50%. Devido às suas propriedades 
-farmacológicas (antitérmico, analgésico, anti-inflamatório e antitrombótico), o AAS é utilizado como medicamento na 
-forma de comprimidos, nos quais se emprega tipicamente uma massa de 500 mg dessa substância. 
-Uma indústria farmacêutica pretende fabricar um lote de 900 mil comprimidos, de acordo com as especificações do 
-texto. Qual é a massa de ácido salicílico, em kg, que deve ser empregada para esse fim?`,
+    text: `O ácido acetilsalicílico, AAS (massa molar igual a 180 g/mol),
+é sintetizado a partir da reação do ácido salicílico (massa
+molar igual a 138 g/mol) com anidrido acético, usando-se ácido
+sulfúrico como catalisador, conforme a equação química: Ácido
+salicílico Anidrido acético Ácido acetilsalicílico Ácido
+acético Após a síntese, o AAS é purificado e o rendimento
+final é de aproximadamente 50%. Devido às suas propriedades
+farmacológicas (antitérmico, analgésico, anti-inflamatório e
+antitrombótico), o AAS é utilizado como medicamento na forma
+de comprimidos, nos quais se emprega tipicamente uma massa de
+500 mg dessa substância. Uma indústria farmacêutica pretende
+fabricar um lote de 900 mil comprimidos, de acordo com as
+especificações do texto. Qual é a massa de ácido salicílico,
+em kg, que deve ser empregada para esse fim?`,
     images: ['/enem/2017/images/enem_2017_d2_q122.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `293` },
@@ -1296,52 +1059,14 @@ reagente para o processo mencionado?`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `No manual fornecido pelo fabricante de uma ducha 
-elétrica de 220 V é apresentado um gráfico com a variação 
-da temperatura da água em função da vazão para três 
-condições (morno, quente e superquente). Na condição 
-superquente, a potência dissipada é de 6 500 W. Considere 
-o calor específico da água igual a 4 200 J/(kg °C) e 
-densidade da água igual a 1 kg/L. 
-Elevação de temperatura × Curva vazão 
-1 - MORNO 
-2 - QUENTE 
-3 - SUPERQUENTE 
-∆T (°C) 
-40 
-3 
-30 
-2 
-20 
-1 
-10 
-2 
-3 
-4 
-5 
-6 
-7 
-8 
-9 
-10 
-Vazão 
-(L/min) 
-1 
-Com base nas informações dadas, a potência na condição 
-morno corresponde a que fração da potência na condição 
-superquente?`,
+    text: ``,
     images: ['/enem/2017/images/enem_2017_d2_q127.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `1 
-3` },
-      { id: 'B', type: 'text', value: `1 
-5` },
-      { id: 'C', type: 'text', value: `3 
-5` },
-      { id: 'D', type: 'text', value: `3 
-8` },
-      { id: 'E', type: 'text', value: `5 
-8` },
+      { id: 'A', type: 'text', value: `1 3` },
+      { id: 'B', type: 'text', value: `1 5` },
+      { id: 'C', type: 'text', value: `3 5` },
+      { id: 'D', type: 'text', value: `3 8` },
+      { id: 'E', type: 'text', value: `5 8` },
     ],
     correct: 'D',
     explanation: `A potência da ducha é dada por P = ρ·Q·c·ΔT, em que Q é a vazão; como ρ e c são constantes, para uma mesma vazão a potência é proporcional à elevação de temperatura ΔT (ou, de modo equivalente, P é proporcional ao produto vazão × ΔT, constante em cada curva). Lendo o gráfico numa mesma vazão, a razão entre o ΔT do modo morno (curva 1) e o do modo superquente (curva 3) vale 3/8 — por exemplo, 15 °C contra 40 °C. Como a potência no superquente é 6 500 W, a do morno é 3/8 × 6 500 ≈ 2 440 W, confirmando a proporção. Portanto, a potência no morno corresponde a 3/8 da potência no superquente (alternativa D).`,
@@ -1367,8 +1092,7 @@ Em relação à visão, a degeneração desse tipo celular irá`,
       { id: 'B', type: 'text', value: `impedir a projeção dos raios luminosos na retina.` },
       { id: 'C', type: 'text', value: `provocar a formação de imagens invertidas na retina.` },
       { id: 'D', type: 'text', value: `causar dificuldade de visualização de objetos próximos.` },
-      { id: 'E', type: 'text', value: `acarretar a perda da capacidade de alterar o diâmetro 
-da pupila.` },
+      { id: 'E', type: 'text', value: `acarretar a perda da capacidade de alterar o diâmetro da pupila.` },
     ],
     correct: 'A',
     explanation: `Os cones são as células da retina responsáveis por converter em sinais elétricos os diferentes comprimentos de onda da luz, o que permite a percepção das cores. A degeneração desse tipo celular afeta justamente essa função, prejudicando a distinção das cores. Os bastonetes (visão em baixa luminosidade) e as demais estruturas do olho continuam atuando na formação da imagem. Portanto, a degeneração dos cones compromete a capacidade de visão em cores (alternativa A).`,
@@ -1403,20 +1127,24 @@ resistência interna que, em relação à do corpo humano, é`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `A cromatografia em papel é um método de separação que se baseia na migração diferencial dos componentes 
-de uma mistura entre duas fases imiscíveis. Os componentes da amostra são separados entre a fase estacionária e 
-a fase móvel em movimento no papel. A fase estacionária consiste de celulose praticamente pura, que pode absorver 
-até 22% de água. É a água absorvida que funciona como fase estacionária líquida e que interage com a fase móvel, 
-também líquida (partição líquido-líquido). Os componentes capazes de formar interações intermoleculares mais fortes 
-com a fase estacionária migram mais lentamente. 
-Uma mistura de hexano com 5% (v/v) de acetona foi utilizada como fase móvel na separação dos componentes 
-de um extrato vegetal obtido a partir de pimentões. Considere que esse extrato contém as substâncias representadas. 
-O 
-Licopeno 
-α -caroteno 
-γ -caroteno 
-RIBEIRO, N. M.; NUNES, C. R. Análise de pigmentos de pimentões por cromatografia em papel. Química Nova na Escola , n. 29, ago. 2008 (adaptado). 
-A substância presente na mistura que migra mais lentamente é o(a)`,
+    text: `A cromatografia em papel é um método de separação que se
+baseia na migração diferencial dos componentes de uma mistura
+entre duas fases imiscíveis. Os componentes da amostra são
+separados entre a fase estacionária e a fase móvel em
+movimento no papel. A fase estacionária consiste de celulose
+praticamente pura, que pode absorver até 22% de água. É a água
+absorvida que funciona como fase estacionária líquida e que
+interage com a fase móvel, também líquida (partição
+líquido-líquido). Os componentes capazes de formar interações
+intermoleculares mais fortes com a fase estacionária migram
+mais lentamente. Uma mistura de hexano com 5% (v/v) de acetona
+foi utilizada como fase móvel na separação dos componentes de
+um extrato vegetal obtido a partir de pimentões. Considere que
+esse extrato contém as substâncias representadas. O Licopeno α
+-caroteno γ -caroteno RIBEIRO, N. M.; NUNES, C. R. Análise de
+pigmentos de pimentões por cromatografia em papel. Química
+Nova na Escola , n. 29, ago. 2008 (adaptado). A substância
+presente na mistura que migra mais lentamente é o(a)`,
     images: ['/enem/2017/images/enem_2017_d2_q130.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `licopeno.` },
@@ -1471,16 +1199,11 @@ sertanejos para conservar carnes de boi, porco e peixe.
 O que ocorre com as células presentes nos alimentos 
 preservados com essa técnica?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `O sal adicionado diminui a concentração de solutos 
-em seu interior.` },
-      { id: 'B', type: 'text', value: `O sal adicionado desorganiza e destrói suas 
-membranas plasmáticas.` },
-      { id: 'C', type: 'text', value: `A adição de sal altera as propriedades de suas 
-membranas plasmáticas.` },
-      { id: 'D', type: 'text', value: `Os íons Na + e Cl − provenientes da dissociação do sal 
-entram livremente nelas.` },
-      { id: 'E', type: 'text', value: `A grande concentração de sal no meio extracelular 
-provoca a saída de água de dentro delas.` },
+      { id: 'A', type: 'text', value: `O sal adicionado diminui a concentração de solutos em seu interior.` },
+      { id: 'B', type: 'text', value: `O sal adicionado desorganiza e destrói suas membranas plasmáticas.` },
+      { id: 'C', type: 'text', value: `A adição de sal altera as propriedades de suas membranas plasmáticas.` },
+      { id: 'D', type: 'text', value: `Os íons Na + e Cl − provenientes da dissociação do sal entram livremente nelas.` },
+      { id: 'E', type: 'text', value: `A grande concentração de sal no meio extracelular provoca a saída de água de dentro delas.` },
     ],
     correct: 'E',
     explanation: `O salgamento cria no meio externo às células uma concentração de sal muito maior do que a existente no interior delas (meio hipertônico). Por osmose, a água se desloca do meio mais diluído (interior celular) para o meio mais concentrado (exterior), de modo que as células perdem água e desidratam. Essa desidratação também atinge os microrganismos, impedindo sua proliferação e conservando o alimento. Portanto, a grande concentração de sal no meio extracelular provoca a saída de água de dentro das células (alternativa E).`,
@@ -1523,31 +1246,19 @@ estudante deve dobrar o(a)`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `A ozonólise, reação utilizada na indústria madeireira 
-para a produção de papel, é também utilizada em 
-escala de laboratório na síntese de aldeídos e cetonas. 
-As duplas ligações dos alcenos são clivadas pela oxidação 
-com o ozônio (O₃ ), em presença de água e zinco metálico, 
-e a reação produz aldeídos e/ou cetonas, dependendo do 
-grau de substituição da ligação dupla. Ligações duplas 
-dissubstituídas geram cetonas, enquanto as ligações 
-duplas terminais ou monossubstituídas dão origem a 
-aldeídos, como mostra o esquema. 
-O 
-O₃ , H₂ O 
-H 
-+ 
-Zn 
-H 
-H 
-O 
-But-1-eno 
-Propanal 
-Metanal 
-Considere a ozonólise do composto 1-fenil-2-metilprop-1-eno: 
-1-fenil-2-metilprop-1-eno 
-MARTINO, A. Química, a ciência global . Goiânia: Editora W, 2014 (adaptado). 
-Quais são os produtos formados nessa reação?`,
+    text: `A ozonólise, reação utilizada na indústria madeireira para a
+produção de papel, é também utilizada em escala de laboratório
+na síntese de aldeídos e cetonas. As duplas ligações dos
+alcenos são clivadas pela oxidação com o ozônio (O₃ ), em
+presença de água e zinco metálico, e a reação produz aldeídos
+e/ou cetonas, dependendo do grau de substituição da ligação
+dupla. Ligações duplas dissubstituídas geram cetonas, enquanto
+as ligações duplas terminais ou monossubstituídas dão origem a
+aldeídos, como mostra o esquema. O O₃ , H₂ O H + Zn H H O
+But-1-eno Propanal Metanal Considere a ozonólise do composto
+1-fenil-2-metilprop-1-eno: 1-fenil-2-metilprop-1-eno MARTINO,
+A. Química, a ciência global . Goiânia: Editora W, 2014
+(adaptado). Quais são os produtos formados nessa reação?`,
     images: ['/enem/2017/images/enem_2017_d2_q134_1.jpg', '/enem/2017/images/enem_2017_d2_q134_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Benzaldeído e propanona.` },
@@ -1590,19 +1301,13 @@ A que técnica refere-se o texto?`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Um empréstimo foi feito à taxa mensal de i %, usando 
-juros compostos, em oito parcelas fixas e iguais a P . 
-O devedor tem a possibilidade de quitar a dívida 
-antecipadamente 
-a 
-qualquer 
-momento, 
-pagando 
-para isso o valor atual das parcelas ainda a pagar. 
-Após pagar a 5ª parcela, resolve quitar a dívida no ato 
-de pagar a 6ª parcela. 
-A expressão que corresponde ao valor total pago pela 
-quitação do empréstimo é`,
+    text: `Um empréstimo foi feito à taxa mensal de i %, usando juros
+compostos, em oito parcelas fixas e iguais a P . O devedor tem
+a possibilidade de quitar a dívida antecipadamente a qualquer
+momento, pagando para isso o valor atual das parcelas ainda a
+pagar. Após pagar a 5ª parcela, resolve quitar a dívida no ato
+de pagar a 6ª parcela. A expressão que corresponde ao valor
+total pago pela quitação do empréstimo é`,
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2017/images/enem_2017_d2_q136_A.jpg` },
       { id: 'B', type: 'image', value: `/enem/2017/images/enem_2017_d2_q136_B.jpg` },
@@ -1650,23 +1355,14 @@ pela pessoa é`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Raios de luz solar estão atingindo a superfície de 
-um lago formando um ângulo x com a sua superfície, 
-conforme indica a figura. 
-Em determinadas condições, pode-se supor que a 
-intensidade luminosa desses raios, na superfície do 
-lago, seja dada aproximadamente por I x 
-sen x 
-( ) 
-( ) 
-= 
-⋅ 
-κ 
-, sendo k uma constante, e supondo-se que x está entre 
-0° e 90°. 
-x 
-Quando x = 30º, a intensidade luminosa se reduz a qual 
-percentual de seu valor máximo?`,
+    text: `Raios de luz solar estão atingindo a superfície de um lago
+formando um ângulo x com a sua superfície, conforme indica a
+figura. Em determinadas condições, pode-se supor que a
+intensidade luminosa desses raios, na superfície do lago, seja
+dada aproximadamente por I x sen x ( ) ( ) = ⋅ κ , sendo k uma
+constante, e supondo-se que x está entre 0° e 90°. x Quando x
+= 30º, a intensidade luminosa se reduz a qual percentual de
+seu valor máximo?`,
     images: ['/enem/2017/images/enem_2017_d2_q138.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `33%` },
@@ -1685,21 +1381,13 @@ percentual de seu valor máximo?`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Os congestionamentos de trânsito constituem um 
-problema que aflige, todos os dias, milhares de motoristas 
-brasileiros. O gráfico ilustra a situação, representando, ao 
-longo de um intervalo definido de tempo, a variação da 
-velocidade de um veículo durante um congestionamento. 
-Velocidade 
-Tempo (min) 
-0 
-2 
-4 
-6 
-8 
-10 
-Quantos minutos o veículo permaneceu imóvel ao longo 
-do intervalo de tempo total analisado?`,
+    text: `Os congestionamentos de trânsito constituem um problema que
+aflige, todos os dias, milhares de motoristas brasileiros. O
+gráfico ilustra a situação, representando, ao longo de um
+intervalo definido de tempo, a variação da velocidade de um
+veículo durante um congestionamento. Velocidade Tempo (min) 0
+2 4 6 8 10 Quantos minutos o veículo permaneceu imóvel ao
+longo do intervalo de tempo total analisado?`,
     images: ['/enem/2017/images/enem_2017_d2_q139.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `4` },
@@ -1874,24 +1562,17 @@ especificações técnicas é`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Um instituto de pesquisas eleitorais recebe uma 
-encomenda na qual a margem de erro deverá ser de, no 
-máximo, 2 pontos percentuais (0,02). 
-O instituto tem 5 pesquisas recentes, P1 a P5, sobre 
-o tema objeto da encomenda e irá usar a que tiver o erro 
-menor que o pedido. 
-Os dados sobre as pesquisas são os seguintes: 
- 
-O erro e pode ser expresso por 
-| 
-| 
-, 
-e 
-N 
-< 196 σ 
-em que σ é um parâmetro e N é o número de pessoas 
-entrevistadas pela pesquisa. 
-Qual pesquisa deverá ser utilizada?`,
+    text: `Um instituto de pesquisas eleitorais recebe uma
+encomenda na qual a margem de erro deverá ser de, no
+máximo, 2 pontos percentuais (0,02).
+O instituto tem 5 pesquisas recentes, P1 a P5, sobre
+o tema objeto da encomenda e irá usar a que tiver o erro
+menor que o pedido.
+Os dados sobre as pesquisas são os seguintes:
+
+O erro e pode ser expresso por | | , e N < 196 σ em que σ é um
+parâmetro e N é o número de pessoas entrevistadas pela
+pesquisa. Qual pesquisa deverá ser utilizada?`,
     images: ['/enem/2017/images/enem_2017_d2_q145.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `P1` },
@@ -1935,25 +1616,16 @@ bondinho A ?`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Num dia de tempestade, a alteração na profundidade 
-de um rio, num determinado local, foi registrada durante 
-um período de 4 horas. Os resultados estão indicados no 
-gráfico de linhas. Nele, a profundidade h , registrada às 
-13 horas, não foi anotada e, a partir de h , cada unidade 
-sobre o eixo vertical representa um metro. 
-Registro de profundidade 
-Profundidade (m) 
-Hora 
-0 
-13 
-14 
-15 
-16 
-17 
-Foi informado que entre 15 horas e 16 horas, a 
-profundidade do rio diminuiu em 10%. 
-Às 16 horas, qual é a profundidade do rio, em metro, no 
-local onde foram feitos os registros?`,
+    text: `Num dia de tempestade, a alteração na profundidade de um rio,
+num determinado local, foi registrada durante um período de 4
+horas. Os resultados estão indicados no gráfico de linhas.
+Nele, a profundidade h , registrada às 13 horas, não foi
+anotada e, a partir de h , cada unidade sobre o eixo vertical
+representa um metro. Registro de profundidade Profundidade (m)
+Hora 0 13 14 15 16 17 Foi informado que entre 15 horas e 16
+horas, a profundidade do rio diminuiu em 10%. Às 16 horas,
+qual é a profundidade do rio, em metro, no local onde foram
+feitos os registros?`,
     images: ['/enem/2017/images/enem_2017_d2_q147.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `18` },
@@ -2030,24 +1702,17 @@ O jogador deverá abrir o quadrado marcado com a letra`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `A imagem apresentada na figura é uma cópia em preto 
-e branco da tela quadrada intitulada O peixe, de Marcos 
-Pinto, que foi colocada em uma parede para exposição e 
-fixada nos pontos A e B . 
-Por um problema na fixação de um dos pontos, a tela 
-se desprendeu, girando rente à parede. Após o giro, ela 
-ficou posicionada como ilustrado na figura, formando um 
-ângulo de 45° com a linha do horizonte. 
-A 
-B 
-A 
-B 
-45 º 
-Para recolocar a tela na sua posição original, deve-se 
-girá-la, rente à parede, no menor ângulo possível inferior 
-a 360°.  
-A forma de recolocar a tela na posição original, obedecendo 
-ao que foi estabelecido, é girando-a em um ângulo de`,
+    text: `A imagem apresentada na figura é uma cópia em preto e branco
+da tela quadrada intitulada O peixe, de Marcos Pinto, que foi
+colocada em uma parede para exposição e fixada nos pontos A e
+B . Por um problema na fixação de um dos pontos, a tela se
+desprendeu, girando rente à parede. Após o giro, ela ficou
+posicionada como ilustrado na figura, formando um ângulo de
+45° com a linha do horizonte. A B A B 45 º Para recolocar a
+tela na sua posição original, deve-se girá-la, rente à parede,
+no menor ângulo possível inferior a 360°. A forma de recolocar
+a tela na posição original, obedecendo ao que foi
+estabelecido, é girando-a em um ângulo de`,
     images: ['/enem/2017/images/enem_2017_d2_q150_1.jpg', '/enem/2017/images/enem_2017_d2_q150_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `90° no sentido horário.` },
@@ -2100,16 +1765,17 @@ conseguir na disciplina I é`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `A água para o abastecimento de um prédio é armazenada em um sistema formado por dois reservatórios idênticos, 
-em formato de bloco retangular, ligados entre si por um cano igual ao cano de entrada, conforme ilustra a figura. 
-Cano de 
-entrada 
-Reservatório 1 
-Reservatório 2 
-A água entra no sistema pelo cano de entrada no Reservatório 1 a uma vazão constante e, ao atingir o nível do 
-cano de ligação, passa a abastecer o Reservatório 2. Suponha que, inicialmente, os dois reservatórios estejam vazios. 
-Qual dos gráficos melhor descreverá a altura h do nível da água no Reservatório 1, em função do volume V de água 
-no sistema?`,
+    text: `A água para o abastecimento de um prédio é armazenada em um
+sistema formado por dois reservatórios idênticos, em formato
+de bloco retangular, ligados entre si por um cano igual ao
+cano de entrada, conforme ilustra a figura. Cano de entrada
+Reservatório 1 Reservatório 2 A água entra no sistema pelo
+cano de entrada no Reservatório 1 a uma vazão constante e, ao
+atingir o nível do cano de ligação, passa a abastecer o
+Reservatório 2. Suponha que, inicialmente, os dois
+reservatórios estejam vazios. Qual dos gráficos melhor
+descreverá a altura h do nível da água no Reservatório 1, em
+função do volume V de água no sistema?`,
     images: ['/enem/2017/images/enem_2017_d2_q152.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2017/images/enem_2017_d2_q152_A.jpg` },
@@ -2382,23 +2048,14 @@ Copa poderia pintar a logomarca com as cores citadas?`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Viveiros 
-de 
-lagostas 
-são 
-construídos, 
-por 
-cooperativas locais de pescadores, em formato de 
-prismas reto-retangulares, fixados ao solo e com telas 
-flexíveis de mesma altura, capazes de suportar a 
-corrosão marinha. Para cada viveiro a ser construído, 
-a cooperativa utiliza integralmente 100 metros lineares 
-dessa tela, que é usada apenas nas laterais. 
-Nível do mar 
-Y 
-X 
-Quais devem ser os valores de X e de Y , em metro, para 
-que a área da base do viveiro seja máxima?`,
+    text: `Viveiros de lagostas são construídos, por cooperativas locais
+de pescadores, em formato de prismas reto-retangulares,
+fixados ao solo e com telas flexíveis de mesma altura, capazes
+de suportar a corrosão marinha. Para cada viveiro a ser
+construído, a cooperativa utiliza integralmente 100 metros
+lineares dessa tela, que é usada apenas nas laterais. Nível do
+mar Y X Quais devem ser os valores de X e de Y , em metro,
+para que a área da base do viveiro seja máxima?`,
     images: ['/enem/2017/images/enem_2017_d2_q161.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1 e 49` },
@@ -2505,16 +2162,11 @@ Disponível em: http://g1.globo.com. Acesso em: 21 jul. 2012 (adaptado).
 A razão entre as distâncias percorridas às cegas por 
 X e Y , nessa ordem, é igual a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `5 
-4` },
-      { id: 'B', type: 'text', value: `1 
-4` },
-      { id: 'C', type: 'text', value: `4 
-3` },
-      { id: 'D', type: 'text', value: `4 
-1` },
-      { id: 'E', type: 'text', value: `3 
-4` },
+      { id: 'A', type: 'text', value: `5 4` },
+      { id: 'B', type: 'text', value: `1 4` },
+      { id: 'C', type: 'text', value: `4 3` },
+      { id: 'D', type: 'text', value: `4 1` },
+      { id: 'E', type: 'text', value: `3 4` },
     ],
     correct: 'B',
     explanation: `A distância percorrida às cegas é proporcional ao tempo olhando o celular. Como t_X = 25% de t_Y = (1/4)·t_Y, a razão das distâncias é d_X/d_Y = t_X/t_Y = 1/4. Resposta: B.`,
@@ -2526,52 +2178,25 @@ X e Y , nessa ordem, é igual a`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `O resultado de uma pesquisa eleitoral, sobre a 
-preferência dos eleitores em relação a dois candidatos, 
-foi representado por meio do Gráfico 1. 
-70 
-60 
-Eleitores (%) 
-50 
-40 
-30 
-20 
-10 
-0 
-A 
-B 
-Gráfico 1 
-Candidato 
-Ao ser divulgado esse resultado em jornal, o Gráfico 1 
-foi cortado durante a diagramação, como mostra o Gráfico 2. 
-70 
-60 
-Eleitores (%) 
-50 
-40 
-30 
-20 
-A 
-B 
-Gráfico 2 
-Candidato 
-Apesar de os valores apresentados estarem corretos 
-e a largura das colunas ser a mesma, muitos leitores 
-criticaram o formato do Gráfico 2 impresso no jornal, 
-alegando que houve prejuízo visual para o candidato B. 
-A diferença entre as razões da altura da coluna B pela 
-coluna A nos gráficos 1 e 2 é`,
+    text: `O resultado de uma pesquisa eleitoral, sobre a preferência dos
+eleitores em relação a dois candidatos, foi representado por
+meio do Gráfico 1. 70 60 Eleitores (%) 50 40 30 20 10 0 A B
+Gráfico 1 Candidato Ao ser divulgado esse resultado em jornal,
+o Gráfico 1 foi cortado durante a diagramação, como mostra o
+Gráfico 2. 70 60 Eleitores (%) 50 40 30 20 A B Gráfico 2
+Candidato Apesar de os valores apresentados estarem corretos e
+a largura das colunas ser a mesma, muitos leitores criticaram
+o formato do Gráfico 2 impresso no jornal, alegando que houve
+prejuízo visual para o candidato B. A diferença entre as
+razões da altura da coluna B pela coluna A nos gráficos 1 e 2
+é`,
     images: ['/enem/2017/images/enem_2017_d2_q165_1.jpg', '/enem/2017/images/enem_2017_d2_q165_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `0` },
-      { id: 'B', type: 'text', value: `1 
-2` },
-      { id: 'C', type: 'text', value: `1 
-5` },
-      { id: 'D', type: 'text', value: `2 
-15` },
-      { id: 'E', type: 'text', value: `8 
-35` },
+      { id: 'B', type: 'text', value: `1 2` },
+      { id: 'C', type: 'text', value: `1 5` },
+      { id: 'D', type: 'text', value: `2 15` },
+      { id: 'E', type: 'text', value: `8 35` },
     ],
     correct: 'E',
     explanation: `Gráfico 1 (eixo a partir de 0): A = 70 e B = 30 → B/A = 30/70 = 3/7. Gráfico 2 (eixo a partir de 20): alturas visíveis A = 70 − 20 = 50 e B = 30 − 20 = 10 → B/A = 10/50 = 1/5. Diferença = 3/7 − 1/5 = 15/35 − 7/35 = 8/35. Resposta: E.`,
@@ -2612,30 +2237,19 @@ específico foi`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Para decorar uma mesa de festa infantil, um chefe de 
-cozinha usará um melão esférico com diâmetro medindo 
-10 cm, o qual servirá de suporte para espetar diversos 
-doces. Ele irá retirar uma calota esférica do melão, 
-conforme ilustra a figura, e, para garantir a estabilidade 
-deste suporte, dificultando que o melão role sobre a 
-mesa, o chefe fará o corte de modo que o raio r da seção 
-circular de corte seja de pelo menos 3 cm. Por outro lado, 
-o chefe desejará dispor da maior área possível da região 
-em que serão afixados os doces. 
-Região onde serão 
-afixados os doces 
-O 
-A 
-B 
-r 
-A parte hachurada 
-será apoiada 
-na mesa 
-h 
-Calota a ser cortada 
-e eliminada 
-Para atingir todos os seus objetivos, o chefe deverá cortar 
-a calota do melão numa altura h , em centímetro, igual a`,
+    text: `Para decorar uma mesa de festa infantil, um chefe de cozinha
+usará um melão esférico com diâmetro medindo 10 cm, o qual
+servirá de suporte para espetar diversos doces. Ele irá
+retirar uma calota esférica do melão, conforme ilustra a
+figura, e, para garantir a estabilidade deste suporte,
+dificultando que o melão role sobre a mesa, o chefe fará o
+corte de modo que o raio r da seção circular de corte seja de
+pelo menos 3 cm. Por outro lado, o chefe desejará dispor da
+maior área possível da região em que serão afixados os doces.
+Região onde serão afixados os doces O A B r A parte hachurada
+será apoiada na mesa h Calota a ser cortada e eliminada Para
+atingir todos os seus objetivos, o chefe deverá cortar a
+calota do melão numa altura h , em centímetro, igual a`,
     images: ['/enem/2017/images/enem_2017_d2_q167.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `5 − √91 / 2` },
@@ -2654,13 +2268,14 @@ a calota do melão numa altura h , em centímetro, igual a`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `A Igreja de São Francisco de Assis, obra arquitetônica modernista de Oscar Niemeyer, localizada na Lagoa da Pampulha, 
-em Belo Horizonte, possui abóbadas parabólicas. A seta na Figura 1 ilustra uma das abobadas na entrada principal 
-da capela. A Figura 2 fornece uma vista frontal desta abobada, com medidas hipotéticas para simplificar os cálculos. 
-H metros 
-Figura 1 
-Figura 2 
-Qual a medida da altura H, em metro, indicada na Figura 2?`,
+    text: `A Igreja de São Francisco de Assis, obra arquitetônica
+modernista de Oscar Niemeyer, localizada na Lagoa da Pampulha,
+em Belo Horizonte, possui abóbadas parabólicas. A seta na
+Figura 1 ilustra uma das abobadas na entrada principal da
+capela. A Figura 2 fornece uma vista frontal desta abobada,
+com medidas hipotéticas para simplificar os cálculos. H metros
+Figura 1 Figura 2 Qual a medida da altura H, em metro,
+indicada na Figura 2?`,
     images: ['/enem/2017/images/enem_2017_d2_q168.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `16/3` },
@@ -2679,24 +2294,19 @@ Qual a medida da altura H, em metro, indicada na Figura 2?`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Quanto tempo você fica conectado à internet? Para responder a essa pergunta foi criado um miniaplicativo de computador 
-que roda na área de trabalho, para gerar automaticamente um gráfico de setores, mapeando o tempo que uma pessoa 
-acessa cinco sites visitados. Em um computador, foi observado que houve um aumento significativo do tempo de acesso 
-da sexta-feira para o sábado, nos cinco sites mais acessados. A seguir, temos os dados do miniaplicativo para esses dias. 
-Tempo de acesso na sexta-feira (minuto) 
-Tempo de acesso no sábado (minuto) 
-Site X 
-12 
-Site U 
-40 
-Site Y 
-30 
-Site Z 
-10 
-Site W 
-38 
-Analisando os gráficos do computador, a maior taxa de aumento no tempo de acesso, da sexta-feira para o sábado, 
-foi no site`,
+    text: `Quanto tempo você fica conectado à internet? Para responder a
+essa pergunta foi criado um miniaplicativo de computador que
+roda na área de trabalho, para gerar automaticamente um
+gráfico de setores, mapeando o tempo que uma pessoa acessa
+cinco sites visitados. Em um computador, foi observado que
+houve um aumento significativo do tempo de acesso da
+sexta-feira para o sábado, nos cinco sites mais acessados. A
+seguir, temos os dados do miniaplicativo para esses dias.
+Tempo de acesso na sexta-feira (minuto) Tempo de acesso no
+sábado (minuto) Site X 12 Site U 40 Site Y 30 Site Z 10 Site W
+38 Analisando os gráficos do computador, a maior taxa de
+aumento no tempo de acesso, da sexta-feira para o sábado, foi
+no site`,
     images: ['/enem/2017/images/enem_2017_d2_q169.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `X.` },
@@ -2715,43 +2325,23 @@ foi no site`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Neste modelo de termômetro, os filetes na cor preta 
-registram as temperaturas mínima e máxima do dia anterior 
-e os filetes na cor cinza registram a temperatura ambiente 
-atual, ou seja, no momento da leitura do termômetro. 
-− 30 
-50 
-− 20 
-40 
-− 10 
-30 
-0 
-20 
-10 
-10 
-0 
-20 
-− 10 
-30 
-− 20 
-40 
-− 30 
-50 
-Por isso ele tem duas colunas. Na da esquerda, os 
-números estão em ordem crescente, de cima para baixo, 
-de - 30 °C até 50 °C. Na coluna da direita, os números 
-estão ordenados de forma crescente, de baixo para cima, 
-de - 30 °C até 50 °C. 
-A leitura é feita da seguinte maneira: 
-• a temperatura mínima é indicada pelo nível inferior 
-do filete preto na coluna da esquerda; 
-• a temperatura máxima é indicada pelo nível inferior 
-do filete preto na coluna da direita; 
-• a temperatura atual é indicada pelo nível superior 
-dos filetes cinza nas duas colunas. 
-Disponível em: www.if.ufrgs.br. Acesso em: 28 ago. 2014 (adaptado). 
-Qual é a temperatura máxima mais aproximada registrada 
-nesse termômetro?`,
+    text: `Neste modelo de termômetro, os filetes na cor preta registram
+as temperaturas mínima e máxima do dia anterior e os filetes
+na cor cinza registram a temperatura ambiente atual, ou seja,
+no momento da leitura do termômetro. − 30 50 − 20 40 − 10 30 0
+20 10 10 0 20 − 10 30 − 20 40 − 30 50 Por isso ele tem duas
+colunas. Na da esquerda, os números estão em ordem crescente,
+de cima para baixo, de - 30 °C até 50 °C. Na coluna da
+direita, os números estão ordenados de forma crescente, de
+baixo para cima, de - 30 °C até 50 °C. A leitura é feita da
+seguinte maneira: • a temperatura mínima é indicada pelo nível
+inferior do filete preto na coluna da esquerda; • a
+temperatura máxima é indicada pelo nível inferior do filete
+preto na coluna da direita; • a temperatura atual é indicada
+pelo nível superior dos filetes cinza nas duas colunas.
+Disponível em: www.if.ufrgs.br. Acesso em: 28 ago. 2014
+(adaptado). Qual é a temperatura máxima mais aproximada
+registrada nesse termômetro?`,
     images: ['/enem/2017/images/enem_2017_d2_q170.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `5 °C` },
@@ -2770,26 +2360,21 @@ nesse termômetro?`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Pivô central é um sistema de irrigação muito usado 
-na agricultura, em que uma área circular é projetada para 
-receber uma estrutura suspensa. No centro dessa área, há 
-uma tubulação vertical que transmite água através de um 
-cano horizontal longo, apoiado em torres de sustentação, 
-as quais giram, sobre rodas, em torno do centro do pivô, 
-também chamado de base, conforme mostram as figuras. 
-Cada torre move-se com velocidade constante. 
-T1 
-T2 
-T3 
-BASE 
-Um pivô de três torres (T 1 , T 2 e T 3 ) será instalado 
-em uma fazenda, sendo que as distâncias entre torres 
-consecutivas bem como da base à torre T 1 são iguais a 
-50 m. O fazendeiro pretende ajustar as velocidades das 
-torres, de tal forma que o pivô efetue uma volta completa 
-em 25 horas. Use 3 como aproximação para π . 
-Para atingir seu objetivo, as velocidades das torres T 1 , T 2 
-e T 3 devem ser, em metro por hora, de`,
+    text: `Pivô central é um sistema de irrigação muito usado na
+agricultura, em que uma área circular é projetada para receber
+uma estrutura suspensa. No centro dessa área, há uma tubulação
+vertical que transmite água através de um cano horizontal
+longo, apoiado em torres de sustentação, as quais giram, sobre
+rodas, em torno do centro do pivô, também chamado de base,
+conforme mostram as figuras. Cada torre move-se com velocidade
+constante. T1 T2 T3 BASE Um pivô de três torres (T 1 , T 2 e T
+3 ) será instalado em uma fazenda, sendo que as distâncias
+entre torres consecutivas bem como da base à torre T 1 são
+iguais a 50 m. O fazendeiro pretende ajustar as velocidades
+das torres, de tal forma que o pivô efetue uma volta completa
+em 25 horas. Use 3 como aproximação para π . Para atingir seu
+objetivo, as velocidades das torres T 1 , T 2 e T 3 devem ser,
+em metro por hora, de`,
     images: ['/enem/2017/images/enem_2017_d2_q171.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `12 , 24 e 36.` },
@@ -2808,56 +2393,7 @@ e T 3 devem ser, em metro por hora, de`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `Dois reservatórios A e B são alimentados por bombas distintas por um período de 20 horas. A quantidade de água 
-contida em cada reservatório nesse período pode ser visualizada na figura. 
-Quantidade de água armazenada 
-Volume (L) 
-180 000 
-170 000 
-160 000 
-150 000 
-140 000 
-Reservatório A 
-130 000 
-Reservatório B 
-120 000 
-Reservatório A 
-110 000 
-100 000 
-90 000 
-80 000 
-70 000 
-60 000 
-50 000 
-40 000 
-30 000 
-20 000 
-10 000 
-0 
-0 
-0 
-1 
-2 
-3 
-4 
-5 
-6 
-7 
-8 
-9 
-10 
-11 
-12 
-13 
-14 
-15 
-16 
-17 
-18 
-19 
-20 
-Tempo (h) 
-O número de horas em que os dois reservatórios contêm a mesma quantidade de água é`,
+    text: ``,
     images: ['/enem/2017/images/enem_2017_d2_q172.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1.` },
@@ -2908,44 +2444,7 @@ reabastecimento foi`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: `O gráfico apresenta a taxa de desemprego (em %) 
-para o período de março de 2008 a abril de 2009, 
-obtida com base nos dados observados nas regiões 
-metropolitanas de Recife, Salvador, Belo Horizonte, 
-Rio de Janeiro, São Paulo e Porto Alegre. 
-Taxa de desemprego (%) 
-9,0 
-8,6 
-8,5 
-8,9 
-8,1 
-8,2 
-8,5 
-7,7 
-7,6 
-7,9 
-7,9 
-7,6 
-7,5 
-6,8 
-03/08 
-04 
-05 
-06 
-07 
-08 
-09 
-10 
-11 
-12 
-01/09 
-02 
-03 
-04 
-IBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br. 
-Acesso em: 30 jul. 2012 (adaptado). 
-A mediana dessa taxa de desemprego, no período de 
-março de 2008 a abril de 2009, foi de`,
+    text: ``,
     images: ['/enem/2017/images/enem_2017_d2_q174.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `8,1%` },

@@ -49,29 +49,20 @@ da mistura sólida comercial para aumentar sua eficiência?`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `As redes de alta tensão para transmissão de energia 
-elétrica geram campo magnético variável o suficiente 
-para induzir corrente elétrica no arame das cercas. 
-Tanto 
-os 
-animais 
-quanto 
-os 
-funcionários 
-das 
-propriedades rurais ou das concessionárias de energia 
-devem ter muito cuidado ao se aproximarem de uma 
-cerca quando esta estiver próxima a uma rede de alta 
-tensão, pois, se tocarem no arame da cerca, poderão 
-sofrer choque elétrico. 
-Para minimizar este tipo de problema, deve-se:`,
+    text: `As redes de alta tensão para transmissão de energia elétrica
+geram campo magnético variável o suficiente para induzir
+corrente elétrica no arame das cercas. Tanto os animais quanto
+os funcionários das propriedades rurais ou das concessionárias
+de energia devem ter muito cuidado ao se aproximarem de uma
+cerca quando esta estiver próxima a uma rede de alta tensão,
+pois, se tocarem no arame da cerca, poderão sofrer choque
+elétrico. Para minimizar este tipo de problema, deve-se:`,
     alternatives: [
       { id: 'A', type: 'text', value: `Fazer o aterramento dos arames da cerca.` },
       { id: 'B', type: 'text', value: `Acrescentar fusível de segurança na cerca.` },
       { id: 'C', type: 'text', value: `Realizar o aterramento da rede de alta tensão.` },
       { id: 'D', type: 'text', value: `Instalar fusível de segurança na rede de alta tensão.` },
-      { id: 'E', type: 'text', value: `Utilizar fios encapados com isolante na rede 
-de alta tensão.` },
+      { id: 'E', type: 'text', value: `Utilizar fios encapados com isolante na rede de alta tensão.` },
     ],
     correct: 'A',
     explanation: `As redes de alta tensão produzem campo magnético variável que, por indução eletromagnética (lei de Faraday), gera corrente elétrica nos arames da cerca, deixando-os energizados. Para eliminar o risco de choque, a carga induzida precisa ser escoada continuamente para a Terra. Isso é feito aterrando-se os arames da cerca, ligando-os ao solo, de modo que as cargas sejam descarregadas e o potencial se mantenha praticamente nulo. Aterrar a rede de alta tensão ou instalar fusíveis não impede a indução na cerca. Portanto, deve-se fazer o aterramento dos arames da cerca (alternativa A).`,
@@ -103,12 +94,9 @@ tradicional é que ela poderá`,
     alternatives: [
       { id: 'A', type: 'text', value: `impedir a penetração do parasita pela pele.` },
       { id: 'B', type: 'text', value: `eliminar o caramujo para que não haja contágio.` },
-      { id: 'C', type: 'text', value: `impedir o acesso do esquistossomo especificamente 
-para o fígado.` },
-      { id: 'D', type: 'text', value: `eliminar o esquistossomo antes que ocorra contato 
-com o organismo.` },
-      { id: 'E', type: 'text', value: `eliminar o esquistossomo dentro do organismo antes 
-da manifestação de sintomas.` },
+      { id: 'C', type: 'text', value: `impedir o acesso do esquistossomo especificamente para o fígado.` },
+      { id: 'D', type: 'text', value: `eliminar o esquistossomo antes que ocorra contato com o organismo.` },
+      { id: 'E', type: 'text', value: `eliminar o esquistossomo dentro do organismo antes da manifestação de sintomas.` },
     ],
     correct: 'E',
     explanation: `A vacina é feita de uma proteína do verme e induz o organismo a produzir anticorpos específicos, que passam a circular no corpo mesmo antes de qualquer infecção. Quando as larvas penetram pela pele e alcançam o organismo, esses anticorpos já presentes combatem o parasita, eliminando-o internamente antes que a doença se manifeste. Essa é a vantagem sobre o tratamento tradicional, que só é iniciado após o diagnóstico, ou seja, depois do aparecimento dos sintomas. Os anticorpos não impedem fisicamente a penetração pela pele nem agem sobre o caramujo hospedeiro. Portanto, a vantagem é poder eliminar o esquistossomo dentro do organismo antes da manifestação de sintomas (alternativa E).`,
@@ -177,16 +165,11 @@ Na recuperação de uma área desmatada deveriam ser reintroduzidas primeirament
 estratégia?`,
     images: ['/enem/2019/images/enem_2019_d2_q96.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Estratégia 1, pois essas espécies produzem descendentes pequenos, o que diminui a competição com outras 
-espécies.` },
-      { id: 'B', type: 'text', value: `Estratégia 2, pois essas espécies têm uma longa duração da vida, o que favorece a produção de muitos 
-descendentes.` },
-      { id: 'C', type: 'text', value: `Estratégia 1, pois essas espécies apresentam um elevado potencial biótico, o que facilita a rápida recolonização 
-da área desmatada.` },
-      { id: 'D', type: 'text', value: `Estratégia 2, pois essas espécies estão adaptadas a hábitats mais estáveis, o que corresponde ao ambiente de 
-uma área desmatada.` },
-      { id: 'E', type: 'text', value: `Estratégia 2, pois essas espécies apresentam um tamanho populacional constante, o que propicia uma 
-recolonização mais estável da área desmatada.` },
+      { id: 'A', type: 'text', value: `Estratégia 1, pois essas espécies produzem descendentes pequenos, o que diminui a competição com outras espécies.` },
+      { id: 'B', type: 'text', value: `Estratégia 2, pois essas espécies têm uma longa duração da vida, o que favorece a produção de muitos descendentes.` },
+      { id: 'C', type: 'text', value: `Estratégia 1, pois essas espécies apresentam um elevado potencial biótico, o que facilita a rápida recolonização da área desmatada.` },
+      { id: 'D', type: 'text', value: `Estratégia 2, pois essas espécies estão adaptadas a hábitats mais estáveis, o que corresponde ao ambiente de uma área desmatada.` },
+      { id: 'E', type: 'text', value: `Estratégia 2, pois essas espécies apresentam um tamanho populacional constante, o que propicia uma recolonização mais estável da área desmatada.` },
     ],
     correct: 'C',
     explanation: `O quadro mostra que a Estratégia 1 corresponde a espécies r-estrategistas: hábitat instável, potencial biótico muito elevado, vida curta com reprodução precoce e muitos descendentes pequenos. Numa área desmatada (ambiente perturbado e instável), a recolonização inicial depende de organismos que se reproduzam rápido e em grande número. Essas características da Estratégia 1 garantem a rápida ocupação da área degradada, enquanto as espécies da Estratégia 2 (K-estrategistas) só se estabelecem bem em ambientes já estáveis. Portanto, devem ser reintroduzidas primeiro as espécies da Estratégia 1, pelo elevado potencial biótico que facilita a rápida recolonização (alternativa C).`,
@@ -227,30 +210,19 @@ Essa “ladroagem” está associada à relação de`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Os olhos humanos normalmente têm três tipos de 
-cones responsáveis pela percepção das cores: um tipo 
-para tons vermelhos, um para tons azuis e outro para tons 
-verdes. As diversas cores que enxergamos são o resultado 
-da percepção das cores básicas, como indica a figura. 
-Vermelho 
-Vermelho 
-Verde 
-Amarelo 
-Branco 
-Magenta 
-Magenta 
-Ciano 
-Azul 
-Azul 
-A protanopia é um tipo de daltonismo em que há 
-diminuição ou ausência de receptores da cor vermelha. 
-Considere um teste com dois voluntários: uma pessoa 
-com visão normal e outra com caso severo de protanopia. 
-Nesse teste, eles devem escrever a cor dos cartões que 
-lhes são mostrados. São utilizadas as cores indicadas 
-na figura. 
-Para qual cartão os dois voluntários identificarão a 
-mesma cor?`,
+    text: `Os olhos humanos normalmente têm três tipos de cones
+responsáveis pela percepção das cores: um tipo para tons
+vermelhos, um para tons azuis e outro para tons verdes. As
+diversas cores que enxergamos são o resultado da percepção das
+cores básicas, como indica a figura. Vermelho Vermelho Verde
+Amarelo Branco Magenta Magenta Ciano Azul Azul A protanopia é
+um tipo de daltonismo em que há diminuição ou ausência de
+receptores da cor vermelha. Considere um teste com dois
+voluntários: uma pessoa com visão normal e outra com caso
+severo de protanopia. Nesse teste, eles devem escrever a cor
+dos cartões que lhes são mostrados. São utilizadas as cores
+indicadas na figura. Para qual cartão os dois voluntários
+identificarão a mesma cor?`,
     images: ['/enem/2019/images/enem_2019_d2_q98.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Vermelho.` },
@@ -285,12 +257,9 @@ Esse resíduo contribui para a fertilidade do solo, pois`,
     alternatives: [
       { id: 'A', type: 'text', value: `possibilita a reciclagem de carbono e nitrogênio.` },
       { id: 'B', type: 'text', value: `promove o deslocamento do alumínio, que é tóxico.` },
-      { id: 'C', type: 'text', value: `melhora a compactação do solo por causa da 
-presença de pectina.` },
-      { id: 'D', type: 'text', value: `eleva o pH do solo em função da degradação dos 
-componentes do resíduo.` },
-      { id: 'E', type: 'text', value: `apresenta efeitos inibidores de crescimento para a 
-maioria das espécies vegetais pela cafeína.` },
+      { id: 'C', type: 'text', value: `melhora a compactação do solo por causa da presença de pectina.` },
+      { id: 'D', type: 'text', value: `eleva o pH do solo em função da degradação dos componentes do resíduo.` },
+      { id: 'E', type: 'text', value: `apresenta efeitos inibidores de crescimento para a maioria das espécies vegetais pela cafeína.` },
     ],
     correct: 'A',
     explanation: `O resíduo do café contém grande quantidade de matéria orgânica: pectina (polissacarídeo) e açúcares, ricos em carbono, além de alcaloides e compostos aminados, que contêm nitrogênio. Ao ser incorporado ao solo e decomposto pelos microrganismos, esse material devolve carbono e nitrogênio ao ambiente, reintegrando-os aos ciclos biogeoquímicos. Esse retorno de nutrientes é o que aumenta a fertilidade do solo. As demais opções (deslocamento de alumínio, compactação, elevação de pH, inibição pela cafeína) não explicam o ganho de fertilidade. Portanto, o resíduo contribui por possibilitar a reciclagem de carbono e nitrogênio (alternativa A).`,
@@ -348,13 +317,7 @@ relacionada ao transporte de`,
       { id: 'B', type: 'text', value: `ATP, para aumento da síntese hormonal.` },
       { id: 'C', type: 'text', value: `oxigênio, para aumento da produção de ATP.` },
       { id: 'D', type: 'text', value: `proteínas, para aumento da massa muscular.` },
-      { id: 'E', type: 'text', value: `vitamina 
-C, 
-para 
-aumento 
-da 
-integridade 
-dos vasos sanguíneos.` },
+      { id: 'E', type: 'text', value: `vitamina C, para aumento da integridade dos vasos sanguíneos.` },
     ],
     correct: 'C',
     explanation: `A EPO estimula a medula óssea a produzir mais eritrócitos (hemácias), células que contêm hemoglobina e transportam oxigênio. Com mais hemácias, aumenta a capacidade de transporte de O₂ para os músculos. Maior oferta de oxigênio intensifica a respiração celular aeróbia, elevando a produção de ATP e, portanto, a resistência física. Esse é justamente o efeito buscado ilegalmente pelos atletas. Portanto, a melhoria está relacionada ao transporte de oxigênio, para aumento da produção de ATP (alternativa C).`,
@@ -401,45 +364,28 @@ A razão kA/kB é mais próxima de`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Estudos mostram o desenvolvimento de biochips 
-utilizados para auxiliar o diagnóstico de diabetes melito, 
-doença evidenciada pelo excesso de glicose no organismo. 
-O teste é simples e consiste em duas reações sequenciais 
-na superfície do biochip, entre a amostra de soro sanguíneo 
-do paciente, enzimas específicas e reagente (iodeto de 
-potássio, KI), conforme mostrado na imagem. 
-(i) Biochip antes da adição de soro 
-Enzimas 
-KI 
-(ii) Biochip após a adição de soro 
-Cor 
-Soro 
-Fluxo 
-Após a adição de soro sanguíneo, o fluxo desloca- 
--se espontaneamente da esquerda para a direita (ii) 
-promovendo 
-reações 
-sequenciais, 
-conforme 
-as 
-equações 1 e 2. Na primeira, há conversão de glicose 
-do sangue em ácido glucônico, gerando peróxido de 
-hidrogênio: 
-Equação 1 
-C 6 H 12 O 6 (aq) + O 2 (g) + H 2 O (l) Enzimas 
- C 6 H 12 O 7 (aq) + H 2 O 2 (aq) 
-Na segunda, o peróxido de hidrogênio reage com 
-íons iodeto gerando o íon tri-iodeto, água e oxigênio. 
-Equação 2 
-− (aq) + 2 H 2 O (I) + O 2 (g) 
-2 H 2 O 2 (aq) + 3 l − (aq) 
- I 3 
-GARCIA, P. T. et al. A Handheld Stamping Process to Fabricate 
-Microfluidic Paper-Based Analytical Devices with Chemically 
-Modified Surface for Clinical Assays. RSC Advances , 
-v. 4, 13 ago. 2014 (adaptado). 
-O tipo de reação que ocorre na superfície do biochip, 
-nas duas reações do processo, é`,
+    text: `Estudos mostram o desenvolvimento de biochips utilizados para
+auxiliar o diagnóstico de diabetes melito, doença evidenciada
+pelo excesso de glicose no organismo. O teste é simples e
+consiste em duas reações sequenciais na superfície do biochip,
+entre a amostra de soro sanguíneo do paciente, enzimas
+específicas e reagente (iodeto de potássio, KI), conforme
+mostrado na imagem. (i) Biochip antes da adição de soro
+Enzimas KI (ii) Biochip após a adição de soro Cor Soro Fluxo
+Após a adição de soro sanguíneo, o fluxo desloca- -se
+espontaneamente da esquerda para a direita (ii) promovendo
+reações sequenciais, conforme as equações 1 e 2. Na primeira,
+há conversão de glicose do sangue em ácido glucônico, gerando
+peróxido de hidrogênio: Equação 1 C 6 H 12 O 6 (aq) + O 2 (g)
++ H 2 O (l) Enzimas C 6 H 12 O 7 (aq) + H 2 O 2 (aq) Na
+segunda, o peróxido de hidrogênio reage com íons iodeto
+gerando o íon tri-iodeto, água e oxigênio. Equação 2 − (aq) +
+2 H 2 O (I) + O 2 (g) 2 H 2 O 2 (aq) + 3 l − (aq) I 3 GARCIA,
+P. T. et al. A Handheld Stamping Process to Fabricate
+Microfluidic Paper-Based Analytical Devices with Chemically
+Modified Surface for Clinical Assays. RSC Advances , v. 4, 13
+ago. 2014 (adaptado). O tipo de reação que ocorre na
+superfície do biochip, nas duas reações do processo, é`,
     images: ['/enem/2019/images/enem_2019_d2_q103.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `análise.` },
@@ -458,43 +404,27 @@ nas duas reações do processo, é`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Algumas 
-toneladas 
-de 
-medicamentos 
-para 
-uso humano e veterinário são produzidas por ano. 
-Os fármacos são desenvolvidos para serem estáveis, 
-mantendo suas propriedades químicas de forma a 
-atender a um propósito terapêutico. Após o consumo 
-de fármacos, parte de sua dosagem é excretada 
-de forma inalterada, persistindo no meio ambiente. 
-Em todo o mundo, antibióticos, hormônios, anestésicos, 
-anti-inflamatórios, entre outros, são detectados em 
-concentrações preocupantes no esgoto doméstico, 
-em águas superficiais e de subsolo. Dessa forma, a 
-ocorrência de fármacos residuais no meio ambiente 
-pode apresentar efeitos adversos em organismos 
-aquáticos e terrestres. 
-BILA, D. M.; DEZOTTI, M. Fármacos no meio ambiente. 
- Química Nova , v. 26, n. 4, ago. 2003 (adaptado). 
-Qual 
-ação 
-minimiza 
-a 
-permanência 
-desses 
-contaminantes nos recursos hídricos?`,
+    text: `Algumas toneladas de medicamentos para uso humano e
+veterinário são produzidas por ano. Os fármacos são
+desenvolvidos para serem estáveis, mantendo suas propriedades
+químicas de forma a atender a um propósito terapêutico. Após o
+consumo de fármacos, parte de sua dosagem é excretada de forma
+inalterada, persistindo no meio ambiente. Em todo o mundo,
+antibióticos, hormônios, anestésicos, anti-inflamatórios,
+entre outros, são detectados em concentrações preocupantes no
+esgoto doméstico, em águas superficiais e de subsolo. Dessa
+forma, a ocorrência de fármacos residuais no meio ambiente
+pode apresentar efeitos adversos em organismos aquáticos e
+terrestres. BILA, D. M.; DEZOTTI, M. Fármacos no meio
+ambiente. Química Nova , v. 26, n. 4, ago. 2003 (adaptado).
+Qual ação minimiza a permanência desses contaminantes nos
+recursos hídricos?`,
     alternatives: [
       { id: 'A', type: 'text', value: `Utilização de esterco como fertilizante na agricultura.` },
-      { id: 'B', type: 'text', value: `Ampliação das redes de coleta de esgoto 
-na zona urbana.` },
-      { id: 'C', type: 'text', value: `Descarte dos medicamentos fora do prazo de 
-validade em lixões.` },
-      { id: 'D', type: 'text', value: `Desenvolvimento de novos processos nas estações 
-de tratamento de efluentes.` },
-      { id: 'E', type: 'text', value: `Reúso dos lodos provenientes das estações de 
-tratamento de esgoto na agricultura.` },
+      { id: 'B', type: 'text', value: `Ampliação das redes de coleta de esgoto na zona urbana.` },
+      { id: 'C', type: 'text', value: `Descarte dos medicamentos fora do prazo de validade em lixões.` },
+      { id: 'D', type: 'text', value: `Desenvolvimento de novos processos nas estações de tratamento de efluentes.` },
+      { id: 'E', type: 'text', value: `Reúso dos lodos provenientes das estações de tratamento de esgoto na agricultura.` },
     ],
     correct: 'D',
     explanation: `Os fármacos excretados de forma inalterada chegam ao esgoto e às águas porque as estações de tratamento convencionais não foram projetadas para removê-los. Logo, a ação que efetivamente reduz a permanência desses contaminantes é aprimorar o próprio tratamento, desenvolvendo novos processos capazes de degradar ou reter essas moléculas nos efluentes. Ampliar a coleta de esgoto apenas direciona os fármacos à estação, sem eliminá-los; o descarte em lixões e o reúso de lodo podem até espalhar os contaminantes. Portanto, a medida correta é o desenvolvimento de novos processos nas estações de tratamento de efluentes (alternativa D).`,
@@ -513,22 +443,11 @@ Bunsen para, em seguida, observar a cor da luz emitida.
 A cor observada é proveniente da emissão de radiação 
 eletromagnética ao ocorrer a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `mudança da fase sólida para a fase líquida do 
-elemento metálico.` },
-      { id: 'B', type: 'text', value: `combustão dos cátions metálicos provocada pelas 
-moléculas de oxigênio da atmosfera.` },
-      { id: 'C', type: 'text', value: `diminuição da energia cinética dos elétrons em uma 
-mesma órbita na eletrosfera atômica.` },
-      { id: 'D', type: 'text', value: `transição eletrônica de um nível mais externo para 
-outro mais interno na eletrosfera atômica.` },
-      { id: 'E', type: 'text', value: `promoção dos elétrons que se encontram no 
-estado 
-fundamental 
-de 
-energia 
-para 
-níveis 
-mais energéticos.` },
+      { id: 'A', type: 'text', value: `mudança da fase sólida para a fase líquida do elemento metálico.` },
+      { id: 'B', type: 'text', value: `combustão dos cátions metálicos provocada pelas moléculas de oxigênio da atmosfera.` },
+      { id: 'C', type: 'text', value: `diminuição da energia cinética dos elétrons em uma mesma órbita na eletrosfera atômica.` },
+      { id: 'D', type: 'text', value: `transição eletrônica de um nível mais externo para outro mais interno na eletrosfera atômica.` },
+      { id: 'E', type: 'text', value: `promoção dos elétrons que se encontram no estado fundamental de energia para níveis mais energéticos.` },
     ],
     correct: 'D',
     explanation: `No teste de chama, o calor fornece energia aos elétrons do cátion metálico, que são promovidos (excitados) para níveis mais externos de maior energia. Esse estado excitado é instável, e os elétrons retornam a níveis mais internos de menor energia. Nesse retorno, a diferença de energia é liberada na forma de radiação eletromagnética, cuja cor é característica de cada elemento. Ou seja, a luz observada resulta da transição eletrônica de um nível mais externo para outro mais interno. Portanto, a cor provém da transição eletrônica de um nível mais externo para outro mais interno na eletrosfera (alternativa D).`,
@@ -596,31 +515,23 @@ Esse comportamento das artêmias é chamado de`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Por 
-terem 
-camada 
-de 
-valência 
-completa, 
-alta energia de ionização e afinidade eletrônica 
-praticamente nula, considerou-se por muito tempo que 
-os gases nobres não formariam compostos químicos. 
-Porém, em 1962, foi realizada com sucesso a reação 
-entre o xenônio (camada de valência 5 s 2 5 p 6 ) e o 
-hexafluoreto de platina e, desde então, mais compostos 
-novos de gases nobres vêm sendo sintetizados. 
-Tais compostos demonstram que não se pode aceitar 
-acriticamente a regra do octeto, na qual se considera 
-que, numa ligação química, os átomos tendem a adquirir 
-estabilidade assumindo a configuração eletrônica de 
-gás nobre. Dentre os compostos conhecidos, um dos 
-mais estáveis é o difluoreto de xenônio, no qual dois 
-átomos do halogênio flúor (camada de valência 2 s 2 2 p 5 ) 
-se ligam covalentemente ao átomo de gás nobre para 
-ficarem com oito elétrons de valência. 
-Ao se escrever a fórmula de Lewis do composto de 
-xenônio citado, quantos elétrons na camada de valência 
-haverá no átomo do gás nobre?`,
+    text: `Por terem camada de valência completa, alta energia de
+ionização e afinidade eletrônica praticamente nula,
+considerou-se por muito tempo que os gases nobres não
+formariam compostos químicos. Porém, em 1962, foi realizada
+com sucesso a reação entre o xenônio (camada de valência 5 s 2
+5 p 6 ) e o hexafluoreto de platina e, desde então, mais
+compostos novos de gases nobres vêm sendo sintetizados. Tais
+compostos demonstram que não se pode aceitar acriticamente a
+regra do octeto, na qual se considera que, numa ligação
+química, os átomos tendem a adquirir estabilidade assumindo a
+configuração eletrônica de gás nobre. Dentre os compostos
+conhecidos, um dos mais estáveis é o difluoreto de xenônio, no
+qual dois átomos do halogênio flúor (camada de valência 2 s 2
+2 p 5 ) se ligam covalentemente ao átomo de gás nobre para
+ficarem com oito elétrons de valência. Ao se escrever a
+fórmula de Lewis do composto de xenônio citado, quantos
+elétrons na camada de valência haverá no átomo do gás nobre?`,
     images: null,
     alternatives: [
       { id: 'A', type: 'text', value: `6` },
@@ -772,34 +683,23 @@ A massa do íon medida por esse dispositivo será`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Na família Retroviridae encontram-se diversos vírus 
-que infectam aves e mamíferos, sendo caracterizada 
-pela produção de DNA a partir de uma molécula de RNA. 
-Alguns retrovírus infectam exclusivamente humanos, 
-não necessitando de outros hospedeiros, reservatórios 
-ou vetores biológicos. As infecções ocasionadas 
-por esses vírus vêm causando mortes e grandes 
-prejuízos ao desenvolvimento social e econômico. 
-Nesse 
-contexto, 
-pesquisadores 
-têm 
-produzido 
-medicamentos que contribuem para o tratamento 
-dessas doenças. 
-Que avanços tecnológicos têm contribuído para o 
-tratamento dessas infecções virais?`,
+    text: `Na família Retroviridae encontram-se diversos vírus que
+infectam aves e mamíferos, sendo caracterizada pela produção
+de DNA a partir de uma molécula de RNA. Alguns retrovírus
+infectam exclusivamente humanos, não necessitando de outros
+hospedeiros, reservatórios ou vetores biológicos. As infecções
+ocasionadas por esses vírus vêm causando mortes e grandes
+prejuízos ao desenvolvimento social e econômico. Nesse
+contexto, pesquisadores têm produzido medicamentos que
+contribuem para o tratamento dessas doenças. Que avanços
+tecnológicos têm contribuído para o tratamento dessas
+infecções virais?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Melhoria dos métodos de controle dos vetores 
-desses vírus.` },
-      { id: 'B', type: 'text', value: `Fabricação de soros mutagênicos para combate 
-desses vírus.` },
-      { id: 'C', type: 'text', value: `Investimento da indústria em equipamentos de 
-proteção individual.` },
-      { id: 'D', type: 'text', value: `Produção de vacinas que evitam a infecção das 
-células hospedeiras.` },
-      { id: 'E', type: 'text', value: `Desenvolvimento de antirretrovirais que dificultam 
-a reprodução desses vírus.` },
+      { id: 'A', type: 'text', value: `Melhoria dos métodos de controle dos vetores desses vírus.` },
+      { id: 'B', type: 'text', value: `Fabricação de soros mutagênicos para combate desses vírus.` },
+      { id: 'C', type: 'text', value: `Investimento da indústria em equipamentos de proteção individual.` },
+      { id: 'D', type: 'text', value: `Produção de vacinas que evitam a infecção das células hospedeiras.` },
+      { id: 'E', type: 'text', value: `Desenvolvimento de antirretrovirais que dificultam a reprodução desses vírus.` },
     ],
     correct: 'E',
     explanation: `Os retrovírus armazenam sua informação em RNA e, dentro da célula hospedeira, produzem DNA por meio da transcriptase reversa, usando a maquinaria celular para se multiplicar. Os antirretrovirais são medicamentos que atuam justamente nas etapas do ciclo viral (como a transcrição reversa e outras enzimas), dificultando a reprodução do vírus no organismo. Assim, esses avanços controlam a infecção reduzindo a produção de novas partículas virais. Vacinas ainda são limitadas para esses vírus, e o controle de vetores não se aplica, pois a transmissão é direta entre humanos. Portanto, o avanço é o desenvolvimento de antirretrovirais que dificultam a reprodução desses vírus (alternativa E).`,
@@ -843,32 +743,20 @@ redução do(a)`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `A fluidez da membrana celular é caracterizada pela 
-capacidade de movimento das moléculas componentes 
-dessa estrutura. Os seres vivos mantêm essa 
-propriedade de duas formas: controlando a temperatura 
-e/ou alterando a composição lipídica da membrana. 
-Neste último aspecto, o tamanho e o grau de insaturação 
-das caudas hidrocarbônicas dos fosfolipídios, conforme 
-representados na figura, influenciam significativamente 
-a fluidez. Isso porque quanto maior for a magnitude das 
-interações entre os fosfolipídios, menor será a fluidez da 
-membrana. 
-Representação simplificada da estrutura 
-de um fosfolipídio 
-Cabeça 
-polar 
-Caudas 
-hidrocarbônicas 
-Insaturação 
-Assim, existem bicamadas lipídicas com diferentes 
-composições de fosfolipídios, como as mostradas de I a V. 
-I 
-II 
-III 
-IV 
-V 
-Qual das bicamadas lipídicas apresentadas possui 
+    text: `A fluidez da membrana celular é caracterizada pela capacidade
+de movimento das moléculas componentes dessa estrutura. Os
+seres vivos mantêm essa propriedade de duas formas:
+controlando a temperatura e/ou alterando a composição lipídica
+da membrana. Neste último aspecto, o tamanho e o grau de
+insaturação das caudas hidrocarbônicas dos fosfolipídios,
+conforme representados na figura, influenciam
+significativamente a fluidez. Isso porque quanto maior for a
+magnitude das interações entre os fosfolipídios, menor será a
+fluidez da membrana. Representação simplificada da estrutura
+de um fosfolipídio Cabeça polar Caudas hidrocarbônicas
+Insaturação Assim, existem bicamadas lipídicas com diferentes
+composições de fosfolipídios, como as mostradas de I a V. I II
+III IV V Qual das bicamadas lipídicas apresentadas possui
 maior fluidez?`,
     images: ['/enem/2019/images/enem_2019_d2_q116_1.jpg', '/enem/2019/images/enem_2019_d2_q116_2.jpg'],
     alternatives: [
@@ -918,23 +806,17 @@ medida ao final do experimento?`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Grupos de pesquisa em todo o mundo vêm buscando 
-soluções inovadoras, visando a produção de dispositivos 
-para a geração de energia elétrica. Dentre eles, 
-pode-se destacar as baterias de zinco-ar, que combinam 
-o oxigênio atmosférico e o metal zinco em um eletrólito 
-aquoso de caráter alcalino. O esquema de funcionamento 
-da bateria zinco-ar está apresentado na figura. 
-Zn(OH)₄²⁻
-O₂
-Membrana separadora 
-Eletrodo de zinco 
-Eletrodo poroso
-OH⁻
-LI, Y.; DAI, H. Recent Advances in Zinc-Air Batteries. 
- Chemical Society Reviews , v. 43, n. 15, 2014 (adaptado). 
-No funcionamento da bateria, a espécie química formada 
-no ânodo é`,
+    text: `Grupos de pesquisa em todo o mundo vêm buscando soluções
+inovadoras, visando a produção de dispositivos para a geração
+de energia elétrica. Dentre eles, pode-se destacar as baterias
+de zinco-ar, que combinam o oxigênio atmosférico e o metal
+zinco em um eletrólito aquoso de caráter alcalino. O esquema
+de funcionamento da bateria zinco-ar está apresentado na
+figura. Zn(OH)₄²⁻ O₂ Membrana separadora Eletrodo de zinco
+Eletrodo poroso OH⁻ LI, Y.; DAI, H. Recent Advances in
+Zinc-Air Batteries. Chemical Society Reviews , v. 43, n. 15,
+2014 (adaptado). No funcionamento da bateria, a espécie
+química formada no ânodo é`,
     images: ['/enem/2019/images/enem_2019_d2_q118.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `H₂ (g).` },
@@ -1007,37 +889,27 @@ A propriedade comum às estruturas que confere cor a esses compostos e a presen�
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Numa feira de ciências, um estudante utilizará o 
-disco de Maxwell (ioiô) para demonstrar o princípio da 
-conservação da energia. A apresentação consistirá em 
-duas etapas: 
-Etapa 1 - a explicação de que, à medida que o disco 
-desce, parte de sua energia potencial gravitacional 
-é transformada em energia cinética de translação e 
-energia cinética de rotação; 
-Etapa 2 - o cálculo da energia cinética de rotação do 
-disco no ponto mais baixo de sua trajetória, supondo o 
-sistema conservativo. 
-Ao preparar a segunda etapa, ele considera a 
-aceleração da gravidade igual a 10 m s −2 e a velocidade 
-linear do centro de massa do disco desprezível em 
-comparação com a velocidade angular. Em seguida, 
-mede a altura do topo do disco em relação ao chão no 
-ponto mais baixo de sua trajetória, obtendo 1 
-3 da altura 
-da haste do brinquedo. 
-As especificações de tamanho do brinquedo, isto é, 
-de comprimento (C), largura (L) e altura (A), assim como 
-da massa de seu disco de metal, foram encontradas 
-pelo estudante no recorte de manual ilustrado a seguir. 
-2h 
-3 
-h 
-Conteúdo: base de metal, hastes metálicas, 
-barra superior, disco de metal. 
-Tamanho (C × L × A): 300 mm × 100 mm × 410 mm 
-Massa do disco de metal: 30 g 
-O resultado do cálculo da etapa 2, em joule, é:`,
+    text: `Numa feira de ciências, um estudante utilizará o disco de
+Maxwell (ioiô) para demonstrar o princípio da conservação da
+energia. A apresentação consistirá em duas etapas: Etapa 1 - a
+explicação de que, à medida que o disco desce, parte de sua
+energia potencial gravitacional é transformada em energia
+cinética de translação e energia cinética de rotação; Etapa 2
+- o cálculo da energia cinética de rotação do disco no ponto
+mais baixo de sua trajetória, supondo o sistema conservativo.
+Ao preparar a segunda etapa, ele considera a aceleração da
+gravidade igual a 10 m s −2 e a velocidade linear do centro de
+massa do disco desprezível em comparação com a velocidade
+angular. Em seguida, mede a altura do topo do disco em relação
+ao chão no ponto mais baixo de sua trajetória, obtendo 1 3 da
+altura da haste do brinquedo. As especificações de tamanho do
+brinquedo, isto é, de comprimento (C), largura (L) e altura
+(A), assim como da massa de seu disco de metal, foram
+encontradas pelo estudante no recorte de manual ilustrado a
+seguir. 2h 3 h Conteúdo: base de metal, hastes metálicas,
+barra superior, disco de metal. Tamanho (C × L × A): 300 mm ×
+100 mm × 410 mm Massa do disco de metal: 30 g O resultado do
+cálculo da etapa 2, em joule, é:`,
     images: ['/enem/2019/images/enem_2019_d2_q121.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `4,10 × 10⁻²` },
@@ -1056,21 +928,16 @@ O resultado do cálculo da etapa 2, em joule, é:`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `O odor que permanece nas mãos após o contato com 
-alho pode ser eliminado pela utilização de um “sabonete 
-de aço inoxidável”, constituído de aço inox (74%), cromo 
-e níquel. A principal vantagem desse “sabonete” é que 
-ele não se desgasta com o uso. Considere que a principal 
-substância responsável pelo odor de alho é a alicina 
-(estrutura I) e que, para que o odor seja eliminado, ela 
-seja transformada na estrutura II. 
-O 
-S 
-S 
-Estrutura I 
-CH₂ ═ CH - CH₂ - S - S - CH₂ - CH ═ CH₂ 
- 
- Estrutura II 
+    text: `O odor que permanece nas mãos após o contato com alho pode ser
+eliminado pela utilização de um “sabonete de aço inoxidável”,
+constituído de aço inox (74%), cromo e níquel. A principal
+vantagem desse “sabonete” é que ele não se desgasta com o uso.
+Considere que a principal substância responsável pelo odor de
+alho é a alicina (estrutura I) e que, para que o odor seja
+eliminado, ela seja transformada na estrutura II. O S S
+Estrutura I CH₂ ═ CH - CH₂ - S - S - CH₂ - CH ═ CH₂
+
+ Estrutura II
 Na conversão de I em II, o “sabonete” atuará como um`,
     images: ['/enem/2019/images/enem_2019_d2_q122.jpg'],
     alternatives: [
@@ -1090,26 +957,19 @@ Na conversão de I em II, o “sabonete” atuará como um`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `A 
-poluição 
-radioativa 
-compreende 
-mais 
-de 
-200 nuclídeos, sendo que, do ponto de vista de impacto 
-ambiental, destacam-se o césio-137 e o estrôncio-90. 
-A maior contribuição de radionuclídeos antropogênicos 
-no meio marinho ocorreu durante as décadas de 1950 
-e 1960, como resultado dos testes nucleares realizados 
-na atmosfera. O estrôncio-90 pode se acumular nos 
-organismos vivos e em cadeias alimentares e, em 
-razão de sua semelhança química, pode participar no 
-equilíbrio com carbonato e substituir o cálcio em diversos 
-processos biológicos. 
-FIGUEIRA, R. C. L.; CUNHA, I. I. L. A contaminação dos oceanos por 
-radionuclídeos antropogênicos. Química Nova , n. 21, 1998 (adaptado). 
-Ao entrar numa cadeia alimentar da qual o homem 
-faz parte, em qual tecido do organismo humano o 
+    text: `A poluição radioativa compreende mais de 200 nuclídeos, sendo
+que, do ponto de vista de impacto ambiental, destacam-se o
+césio-137 e o estrôncio-90. A maior contribuição de
+radionuclídeos antropogênicos no meio marinho ocorreu durante
+as décadas de 1950 e 1960, como resultado dos testes nucleares
+realizados na atmosfera. O estrôncio-90 pode se acumular nos
+organismos vivos e em cadeias alimentares e, em razão de sua
+semelhança química, pode participar no equilíbrio com
+carbonato e substituir o cálcio em diversos processos
+biológicos. FIGUEIRA, R. C. L.; CUNHA, I. I. L. A contaminação
+dos oceanos por radionuclídeos antropogênicos. Química Nova ,
+n. 21, 1998 (adaptado). Ao entrar numa cadeia alimentar da
+qual o homem faz parte, em qual tecido do organismo humano o
 estrôncio-90 será acumulado predominantemente?`,
     alternatives: [
       { id: 'A', type: 'text', value: `Cartilaginoso.` },
@@ -1128,20 +988,12 @@ estrôncio-90 será acumulado predominantemente?`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Uma das técnicas de reciclagem química do polímero PET [poli(tereftalato de etileno)] gera o tereftalato de 
-metila e o etanodiol, conforme o esquema de reação, e ocorre por meio de uma reação de transesterificação. 
-Altas temperaturas 
-e pressão 
-O 
-O 
-O 
-O 
-+ 2n A 
-+ 
-n 
-COOCH 3 
-PET 
-O composto A , representado no esquema de reação, e o`,
+    text: `Uma das técnicas de reciclagem química do polímero PET
+[poli(tereftalato de etileno)] gera o tereftalato de metila e
+o etanodiol, conforme o esquema de reação, e ocorre por meio
+de uma reação de transesterificação. Altas temperaturas e
+pressão O O O O + 2n A + n COOCH 3 PET O composto A ,
+representado no esquema de reação, e o`,
     images: ['/enem/2019/images/enem_2019_d2_q124.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `metano.` },
@@ -1189,23 +1041,14 @@ A aquisição evolutiva que permitiu a conquista definitiva do ambiente terrestr
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Uma casa tem um cabo elétrico mal dimensionado, 
-de resistência igual a 10 Ω, que a conecta à rede elétrica 
-de 120 V. Nessa casa, cinco lâmpadas, de resistência 
-igual a 200 Ω, estão conectadas ao mesmo circuito que 
-uma televisão de resistência igual a 50 Ω, conforme 
-ilustrado no esquema. A televisão funciona apenas com 
-tensão entre 90 V e 130 V. 
-10 Ω 
-120 V 
-50 Ω 
-200 Ω 
-200 Ω 
-200 Ω 
-200 Ω 
-200 Ω 
-O número máximo de lâmpadas que podem ser ligadas 
-sem que a televisão pare de funcionar é:`,
+    text: `Uma casa tem um cabo elétrico mal dimensionado, de resistência
+igual a 10 Ω, que a conecta à rede elétrica de 120 V. Nessa
+casa, cinco lâmpadas, de resistência igual a 200 Ω, estão
+conectadas ao mesmo circuito que uma televisão de resistência
+igual a 50 Ω, conforme ilustrado no esquema. A televisão
+funciona apenas com tensão entre 90 V e 130 V. 10 Ω 120 V 50 Ω
+200 Ω 200 Ω 200 Ω 200 Ω 200 Ω O número máximo de lâmpadas que
+podem ser ligadas sem que a televisão pare de funcionar é:`,
     images: ['/enem/2019/images/enem_2019_d2_q126.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1.` },
@@ -1224,37 +1067,25 @@ sem que a televisão pare de funcionar é:`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `O 2,4-dinitrofenol (DNP) é conhecido como 
-desacoplador da cadeia de elétrons na mitocôndria e 
-apresenta um efeito emagrecedor. Contudo, por ser 
-perigoso e pela ocorrência de casos letais, seu uso 
-como medicamento é proibido em diversos países, 
-inclusive no Brasil. Na mitocôndria, essa substância 
-captura, no espaço intermembranas, prótons (H + ) 
-provenientes da atividade das proteínas da cadeia 
-respiratória, 
-retornando-os 
-à 
-matriz 
-mitocondrial. 
-Assim, esses prótons não passam pelo transporte 
-enzimático na membrana interna. 
-GRUNDLINGH, J. et al. 2,4-Dinitrophenol (DNP): a Weight 
-Loss Agent with Significant Acute Toxicity and Risk of Death. 
- Journal of Medical Toxicology , v. 7, 2011 (adaptado). 
-O efeito emagrecedor desse composto está relacionado 
-ao(à)`,
+    text: `O 2,4-dinitrofenol (DNP) é conhecido como desacoplador da
+cadeia de elétrons na mitocôndria e apresenta um efeito
+emagrecedor. Contudo, por ser perigoso e pela ocorrência de
+casos letais, seu uso como medicamento é proibido em diversos
+países, inclusive no Brasil. Na mitocôndria, essa substância
+captura, no espaço intermembranas, prótons (H + ) provenientes
+da atividade das proteínas da cadeia respiratória,
+retornando-os à matriz mitocondrial. Assim, esses prótons não
+passam pelo transporte enzimático na membrana interna.
+GRUNDLINGH, J. et al. 2,4-Dinitrophenol (DNP): a Weight Loss
+Agent with Significant Acute Toxicity and Risk of Death.
+Journal of Medical Toxicology , v. 7, 2011 (adaptado). O
+efeito emagrecedor desse composto está relacionado ao(à)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `obstrução da cadeia respiratória, resultando em 
-maior consumo celular de ácidos graxos.` },
-      { id: 'B', type: 'text', value: `bloqueio das reações do ciclo de Krebs, resultando 
-em maior gasto celular de energia.` },
-      { id: 'C', type: 'text', value: `diminuição da produção de acetil CoA, resultando 
-em maior gasto celular de piruvato.` },
-      { id: 'D', type: 'text', value: `inibição da glicólise, resultando em maior absorção 
-celular da glicose sanguínea.` },
-      { id: 'E', type: 'text', value: `redução da produção de ATP, resultando em maior 
-gasto celular de nutrientes.` },
+      { id: 'A', type: 'text', value: `obstrução da cadeia respiratória, resultando em maior consumo celular de ácidos graxos.` },
+      { id: 'B', type: 'text', value: `bloqueio das reações do ciclo de Krebs, resultando em maior gasto celular de energia.` },
+      { id: 'C', type: 'text', value: `diminuição da produção de acetil CoA, resultando em maior gasto celular de piruvato.` },
+      { id: 'D', type: 'text', value: `inibição da glicólise, resultando em maior absorção celular da glicose sanguínea.` },
+      { id: 'E', type: 'text', value: `redução da produção de ATP, resultando em maior gasto celular de nutrientes.` },
     ],
     correct: 'E',
     explanation: `A energia da cadeia respiratória é armazenada como gradiente de prótons (H⁺) no espaço intermembranas e usada pela ATP-sintase para produzir ATP. O DNP transporta esses prótons de volta à matriz sem passar pela ATP-sintase, dissipando o gradiente (desacoplamento) e reduzindo drasticamente a produção de ATP. Para compensar a falta de ATP, a célula acelera a oxidação de nutrientes (como gorduras), gastando mais reservas, daí o efeito emagrecedor e o perigo. Portanto, o efeito está relacionado à redução da produção de ATP, resultando em maior gasto celular de nutrientes (alternativa E).`,
@@ -1359,21 +1190,11 @@ com excesso de sal. Finalmente, ela adicionou água
 para completar o caldo do feijão. 
 O sal foi absorvido pelas batatas por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `osmose, 
-por 
-envolver 
-apenas 
-o 
-transporte 
-do solvente.` },
-      { id: 'B', type: 'text', value: `fagocitose, porque o sal transportado é uma 
-substância sólida.` },
-      { id: 'C', type: 'text', value: `exocitose, uma vez que o sal foi transportado da 
-água para a batata.` },
-      { id: 'D', type: 'text', value: `pinocitose, porque o sal estava diluído na água 
-quando foi transportado.` },
-      { id: 'E', type: 'text', value: `difusão, porque o transporte ocorreu a favor do 
-gradiente de concentração.` },
+      { id: 'A', type: 'text', value: `osmose, por envolver apenas o transporte do solvente.` },
+      { id: 'B', type: 'text', value: `fagocitose, porque o sal transportado é uma substância sólida.` },
+      { id: 'C', type: 'text', value: `exocitose, uma vez que o sal foi transportado da água para a batata.` },
+      { id: 'D', type: 'text', value: `pinocitose, porque o sal estava diluído na água quando foi transportado.` },
+      { id: 'E', type: 'text', value: `difusão, porque o transporte ocorreu a favor do gradiente de concentração.` },
     ],
     correct: 'E',
     explanation: `O sal (soluto) estava mais concentrado no caldo do que no interior das batatas cruas. Por isso ele se desloca espontaneamente do meio mais concentrado (caldo) para o menos concentrado (batata), isto é, a favor do gradiente de concentração. Esse transporte de soluto a favor do gradiente, sem gasto de energia, é a difusão. Não é osmose (que envolve apenas o solvente, a água), nem fagocitose, exocitose ou pinocitose. Portanto, o sal foi absorvido por difusão, porque o transporte ocorreu a favor do gradiente de concentração (alternativa E).`,
@@ -1385,44 +1206,26 @@ gradiente de concentração.` },
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `A agricultura de precisão reúne técnicas agrícolas 
-que consideram particularidades locais do solo ou lavoura 
-a fim de otimizar o uso de recursos. Uma das formas 
-de adquirir informações sobre essas particularidades 
-é a fotografia aérea de baixa altitude realizada por um 
-veículo aéreo não tripulado (vant). Na fase de aquisição 
-é importante determinar o nível de sobreposição entre 
-as fotografias. A figura ilustra como uma sequência de 
-imagens é coletada por um vant e como são formadas 
-as sobreposições frontais. 
-Vant com câmera fotográfica 
-1 
-2 
-3 
-H 
-45° 
-45° 
-Solo 
-20% de 
-sobreposição 
-frontal 
-∆S 
-Imagens 
-coletadas 
-1, 2 e 3 
-1 
-2 
-3 
-O operador do vant recebe uma encomenda na 
-qual as imagens devem ter uma sobreposição frontal de 
-20% em um terreno plano. Para realizar a aquisição das 
-imagens, seleciona uma altitude H fixa de voo de 1 000 m, 
-a uma velocidade constante de 50 m s −1 . A abertura da 
-câmera fotográfica do vant é de 90°. Considere tg(45°) = 1. 
-Natural Resources Canada. Concepts of Aerial Photography . 
-Disponível em: www.nrcan.gc.ca. Acesso em: 26 abr. 2019 (adaptado). 
-Com que intervalo de tempo o operador deve adquirir 
-duas imagens consecutivas?`,
+    text: `A agricultura de precisão reúne técnicas agrícolas que
+consideram particularidades locais do solo ou lavoura a fim de
+otimizar o uso de recursos. Uma das formas de adquirir
+informações sobre essas particularidades é a fotografia aérea
+de baixa altitude realizada por um veículo aéreo não tripulado
+(vant). Na fase de aquisição é importante determinar o nível
+de sobreposição entre as fotografias. A figura ilustra como
+uma sequência de imagens é coletada por um vant e como são
+formadas as sobreposições frontais. Vant com câmera
+fotográfica 1 2 3 H 45° 45° Solo 20% de sobreposição frontal
+∆S Imagens coletadas 1, 2 e 3 1 2 3 O operador do vant recebe
+uma encomenda na qual as imagens devem ter uma sobreposição
+frontal de 20% em um terreno plano. Para realizar a aquisição
+das imagens, seleciona uma altitude H fixa de voo de 1 000 m,
+a uma velocidade constante de 50 m s −1 . A abertura da câmera
+fotográfica do vant é de 90°. Considere tg(45°) = 1. Natural
+Resources Canada. Concepts of Aerial Photography . Disponível
+em: www.nrcan.gc.ca. Acesso em: 26 abr. 2019 (adaptado). Com
+que intervalo de tempo o operador deve adquirir duas imagens
+consecutivas?`,
     images: ['/enem/2019/images/enem_2019_d2_q131.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `40 segundos.` },
@@ -1441,36 +1244,25 @@ duas imagens consecutivas?`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `A maioria das pessoas fica com a visão embaçada 
-ao abrir os olhos debaixo dʼágua. Mas há uma exceção: 
-o povo moken, que habita a costa da Tailândia. 
-Essa 
-característica 
-se 
-deve 
-principalmente 
-à 
-adaptabilidade do olho e à plasticidade do cérebro, o 
-que significa que você também, com algum treinamento, 
-poderia enxergar relativamente bem debaixo dʼágua. 
-Estudos mostraram que as pupilas de olhos de 
-indivíduos moken sofrem redução significativa debaixo 
-dʼágua, o que faz com que os raios luminosos incidam 
-quase paralelamente ao eixo óptico da pupila. 
-GISLÉN, A. et al. Visual Training Improves Underwater Vision in Children. 
-Vision Research , n. 46, 2006 (adaptado). 
-A acuidade visual associada à redução das pupilas é 
-fisicamente explicada pela diminuição`,
+    text: `A maioria das pessoas fica com a visão embaçada ao abrir os
+olhos debaixo dʼágua. Mas há uma exceção: o povo moken, que
+habita a costa da Tailândia. Essa característica se deve
+principalmente à adaptabilidade do olho e à plasticidade do
+cérebro, o que significa que você também, com algum
+treinamento, poderia enxergar relativamente bem debaixo
+dʼágua. Estudos mostraram que as pupilas de olhos de
+indivíduos moken sofrem redução significativa debaixo dʼágua,
+o que faz com que os raios luminosos incidam quase
+paralelamente ao eixo óptico da pupila. GISLÉN, A. et al.
+Visual Training Improves Underwater Vision in Children. Vision
+Research , n. 46, 2006 (adaptado). A acuidade visual associada
+à redução das pupilas é fisicamente explicada pela diminuição`,
     alternatives: [
       { id: 'A', type: 'text', value: `da intensidade luminosa incidente na retina.` },
-      { id: 'B', type: 'text', value: `da difração dos feixes luminosos que atravessam 
-a pupila.` },
-      { id: 'C', type: 'text', value: `da intensidade dos feixes luminosos em uma direção 
-por polarização.` },
-      { id: 'D', type: 'text', value: `do desvio dos feixes luminosos refratados no interior 
-do olho.` },
-      { id: 'E', type: 'text', value: `das reflexões dos feixes luminosos no interior 
-do olho.` },
+      { id: 'B', type: 'text', value: `da difração dos feixes luminosos que atravessam a pupila.` },
+      { id: 'C', type: 'text', value: `da intensidade dos feixes luminosos em uma direção por polarização.` },
+      { id: 'D', type: 'text', value: `do desvio dos feixes luminosos refratados no interior do olho.` },
+      { id: 'E', type: 'text', value: `das reflexões dos feixes luminosos no interior do olho.` },
     ],
     correct: 'D',
     explanation: `Debaixo d'água a córnea perde grande parte de seu poder de convergência, e os raios chegam muito desviados, formando imagem fora da retina (visão embaçada). Ao reduzir a pupila, o olho passa a aproveitar apenas os raios próximos ao eixo óptico, que incidem quase paralelamente e sofrem menor desvio ao serem refratados no interior do olho, efeito semelhante ao de uma câmara escura de orifício. Com menos desvio, a imagem forma-se de modo mais nítido na retina, aumentando a acuidade visual. Portanto, a explicação é a diminuição do desvio dos feixes luminosos refratados no interior do olho (alternativa D).`,
@@ -1543,39 +1335,24 @@ do líquido é a`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Quando se considera a extrema velocidade com 
-que a luz se espalha por todos os lados e que, quando 
-vêm de diferentes lugares, mesmo totalmente opostos, 
-[os raios luminosos] se atravessam uns aos outros sem 
-se atrapalharem, compreende-se que, quando vemos 
-um objeto luminoso, isso não poderia ocorrer pelo 
-transporte de uma matéria que venha do objeto até nós, 
-como uma flecha ou bala atravessa o ar; pois certamente 
-isso repugna bastante a essas duas propriedades da 
-luz, principalmente a última. 
-HUYGENS, C. In: MARTINS, R. A. Tratado sobre a luz, de Cristian Huygens. 
-Caderno de História e Filosofia da Ciência , supl. 4, 1986. 
-O 
-texto 
-contesta 
-que 
-concepção 
-acerca 
-do 
-comportamento da luz?`,
+    text: `Quando se considera a extrema velocidade com que a luz se
+espalha por todos os lados e que, quando vêm de diferentes
+lugares, mesmo totalmente opostos, [os raios luminosos] se
+atravessam uns aos outros sem se atrapalharem, compreende-se
+que, quando vemos um objeto luminoso, isso não poderia ocorrer
+pelo transporte de uma matéria que venha do objeto até nós,
+como uma flecha ou bala atravessa o ar; pois certamente isso
+repugna bastante a essas duas propriedades da luz,
+principalmente a última. HUYGENS, C. In: MARTINS, R. A.
+Tratado sobre a luz, de Cristian Huygens. Caderno de História
+e Filosofia da Ciência , supl. 4, 1986. O texto contesta que
+concepção acerca do comportamento da luz?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `O entendimento de que a luz precisa de um meio 
-de propagação, difundido pelos defensores da 
-existência do éter.` },
-      { id: 'B', type: 'text', value: `O modelo ondulatório para a luz, o qual 
-considera a possibilidade de interferência entre 
-feixes luminosos.` },
-      { id: 'C', type: 'text', value: `O modelo corpuscular defendido por Newton, 
-que descreve a luz como um feixe de partículas.` },
-      { id: 'D', type: 'text', value: `A crença na velocidade infinita da luz, defendida 
-pela maioria dos filósofos gregos.` },
-      { id: 'E', type: 'text', value: `A ideia defendida pelos gregos de que a luz era 
-produzida pelos olhos.` },
+      { id: 'A', type: 'text', value: `O entendimento de que a luz precisa de um meio de propagação, difundido pelos defensores da existência do éter.` },
+      { id: 'B', type: 'text', value: `O modelo ondulatório para a luz, o qual considera a possibilidade de interferência entre feixes luminosos.` },
+      { id: 'C', type: 'text', value: `O modelo corpuscular defendido por Newton, que descreve a luz como um feixe de partículas.` },
+      { id: 'D', type: 'text', value: `A crença na velocidade infinita da luz, defendida pela maioria dos filósofos gregos.` },
+      { id: 'E', type: 'text', value: `A ideia defendida pelos gregos de que a luz era produzida pelos olhos.` },
     ],
     correct: 'C',
     explanation: `Huygens argumenta que a luz, por se propagar com enorme velocidade e por permitir que raios vindos de direções opostas se cruzem sem se perturbar, não pode consistir no transporte de matéria do objeto até os olhos, como faria uma flecha ou bala ao atravessar o ar. Essa descrição de partículas lançadas corresponde justamente ao modelo corpuscular, defendido por Newton, que trata a luz como um feixe de partículas. Ao negar o transporte de matéria, o texto contesta essa concepção, em favor de um modelo ondulatório. Portanto, o texto contesta o modelo corpuscular defendido por Newton (alternativa C).`,
@@ -1796,16 +1573,11 @@ A conclusão correta a que o síndico deverá chegar,
 considerando a nova área a ser pavimentada, é a de 
 que o material disponível em estoque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `será suficiente, pois a área da nova região a ser 
-pavimentada mede 21 m² .` },
-      { id: 'B', type: 'text', value: `será suficiente, pois a área da nova região a ser 
-pavimentada mede 24 m² .` },
-      { id: 'C', type: 'text', value: `será suficiente, pois a área da nova região a ser 
-pavimentada mede 48 m² .` },
-      { id: 'D', type: 'text', value: `não será suficiente, pois a área da nova região a ser 
-pavimentada mede 108 m² .` },
-      { id: 'E', type: 'text', value: `não será suficiente, pois a área da nova região a ser 
-pavimentada mede 120 m² .` },
+      { id: 'A', type: 'text', value: `será suficiente, pois a área da nova região a ser pavimentada mede 21 m² .` },
+      { id: 'B', type: 'text', value: `será suficiente, pois a área da nova região a ser pavimentada mede 24 m² .` },
+      { id: 'C', type: 'text', value: `será suficiente, pois a área da nova região a ser pavimentada mede 48 m² .` },
+      { id: 'D', type: 'text', value: `não será suficiente, pois a área da nova região a ser pavimentada mede 108 m² .` },
+      { id: 'E', type: 'text', value: `não será suficiente, pois a área da nova região a ser pavimentada mede 120 m² .` },
     ],
     correct: 'E',
     explanation: `Com π ≈ 3: área inicial (d = 6, r = 3) = 3·3² = 27 m²; área ampliada (d = 14, r = 7) = 3·7² = 147 m². Área nova a pavimentar = 147 − 27 = 120 m² > 100 m² disponíveis, logo não será suficiente. Resposta: E.`,
@@ -1817,35 +1589,15 @@ pavimentada mede 120 m² .` },
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Os exercícios físicos são recomendados para o 
-bom funcionamento do organismo, pois aceleram o 
-metabolismo e, em consequência, elevam o consumo 
-de calorias. No gráfico, estão registrados os valores 
-calóricos, em kcal, gastos em cinco diferentes atividades 
-físicas, em função do tempo dedicado às atividades, 
-contado em minuto. 
-140 
-III 
-120 
-II 
-IV 
-100 
-V 
-80 
-(kcal) 
-60 
-40 
-I 
-20 
-5 
-10 
-15 
-20 
-25 
-30 
-Tempo (min) 
-Qual dessas atividades físicas proporciona o maior 
-consumo de quilocalorias por minuto?`,
+    text: `Os exercícios físicos são recomendados para o bom
+funcionamento do organismo, pois aceleram o metabolismo e, em
+consequência, elevam o consumo de calorias. No gráfico, estão
+registrados os valores calóricos, em kcal, gastos em cinco
+diferentes atividades físicas, em função do tempo dedicado às
+atividades, contado em minuto. 140 III 120 II IV 100 V 80
+(kcal) 60 40 I 20 5 10 15 20 25 30 Tempo (min) Qual dessas
+atividades físicas proporciona o maior consumo de
+quilocalorias por minuto?`,
     images: ['/enem/2019/images/enem_2019_d2_q143.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I` },
@@ -1864,25 +1616,18 @@ consumo de quilocalorias por minuto?`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Um professor aplica, durante os cinco dias úteis 
-de uma semana, testes com quatro questões de 
-múltipla escolha a cinco alunos. Os resultados foram 
-representados na matriz. 
- 
-Nessa matriz os elementos das linhas de 1 a 5 
-representam as quantidades de questões acertadas 
-pelos alunos Ana, Bruno, Carlos, Denis e Érica, 
-respectivamente, 
-enquanto 
-que 
-as 
-colunas 
-de 
-1 a 5 indicam os dias da semana, de segunda-feira 
-a sexta-feira, respectivamente, em que os testes 
-foram aplicados. 
-O teste que apresentou maior quantidade de acertos foi 
-o aplicado na`,
+    text: `Um professor aplica, durante os cinco dias úteis
+de uma semana, testes com quatro questões de
+múltipla escolha a cinco alunos. Os resultados foram
+representados na matriz.
+
+Nessa matriz os elementos das linhas de 1 a 5 representam as
+quantidades de questões acertadas pelos alunos Ana, Bruno,
+Carlos, Denis e Érica, respectivamente, enquanto que as
+colunas de 1 a 5 indicam os dias da semana, de segunda-feira a
+sexta-feira, respectivamente, em que os testes foram
+aplicados. O teste que apresentou maior quantidade de acertos
+foi o aplicado na`,
     images: ['/enem/2019/images/enem_2019_d2_q144.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `segunda-feira.` },
@@ -1938,52 +1683,26 @@ catraca, em centímetro e com uma casa decimal, é`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `O serviço de meteorologia de uma cidade emite 
-relatórios diários com a previsão do tempo. De posse 
-dessas informações, a prefeitura emite três tipos de 
-alertas para a população: 
-• Alerta cinza: deverá ser emitido sempre que a 
-previsão do tempo estimar que a temperatura 
-será inferior a 10 °C, e a umidade relativa do ar 
-for inferior a 40%; 
-• Alerta laranja: deverá ser emitido sempre que a 
-previsão do tempo estimar que a temperatura deve 
-variar entre 35 °C e 40 °C, e a umidade relativa do 
-ar deve ficar abaixo de 30%; 
-• Alerta vermelho: deverá ser emitido sempre que 
-a previsão do tempo estimar que a temperatura 
-será superior a 40 °C, e a umidade relativa do ar 
-for inferior a 25%. 
-Um resumo da previsão do tempo nessa cidade, 
-para um período de 15 dias, foi apresentado no gráfico. 
-Temperatura 
-Umidade relativa do ar 
-Temperatura 
-(°C) 
-Umidade relativa 
-do ar (%) 
- 60 
-60 
-40 
-40 
-20 
-20 
-0 
-2 
-4 
-6 
-8 
-10 
-12 
-14 
-16 Dia 
-Decorridos os 15 dias de validade desse relatório, 
-um funcionário percebeu que, no período a que se refere 
-o gráfico, foram emitidos os seguintes alertas: 
-• Dia 1: alerta cinza; 
-• Dia 12: alerta laranja; 
-• Dia 13: alerta vermelho. 
-Em qual(is) desses dias o(s) aviso(s) foi(ram) emitido(s) 
+    text: `O serviço de meteorologia de uma cidade emite relatórios
+diários com a previsão do tempo. De posse dessas informações,
+a prefeitura emite três tipos de alertas para a população: •
+Alerta cinza: deverá ser emitido sempre que a previsão do
+tempo estimar que a temperatura será inferior a 10 °C, e a
+umidade relativa do ar for inferior a 40%; • Alerta laranja:
+deverá ser emitido sempre que a previsão do tempo estimar que
+a temperatura deve variar entre 35 °C e 40 °C, e a umidade
+relativa do ar deve ficar abaixo de 30%; • Alerta vermelho:
+deverá ser emitido sempre que a previsão do tempo estimar que
+a temperatura será superior a 40 °C, e a umidade relativa do
+ar for inferior a 25%. Um resumo da previsão do tempo nessa
+cidade, para um período de 15 dias, foi apresentado no
+gráfico. Temperatura Umidade relativa do ar Temperatura (°C)
+Umidade relativa do ar (%) 60 60 40 40 20 20 0 2 4 6 8 10 12
+14 16 Dia Decorridos os 15 dias de validade desse relatório,
+um funcionário percebeu que, no período a que se refere o
+gráfico, foram emitidos os seguintes alertas: • Dia 1: alerta
+cinza; • Dia 12: alerta laranja; • Dia 13: alerta vermelho. Em
+qual(is) desses dias o(s) aviso(s) foi(ram) emitido(s)
 corretamente?`,
     images: ['/enem/2019/images/enem_2019_d2_q146.jpg'],
     alternatives: [
@@ -2003,24 +1722,16 @@ corretamente?`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Uma administração municipal encomendou a pintura 
-de dez placas de sinalização para colocar em seu pátio 
-de estacionamento. 
-O profissional contratado para o serviço inicial 
-pintará o fundo de dez placas e cobrará um valor de 
-acordo com a área total dessas placas. O formato 
-de cada placa é um círculo de diâmetro d = 40 cm, 
-que tangencia lados de um retângulo, sendo que 
-o comprimento total da placa é h = 60 cm, conforme 
-ilustrado na figura. Use 3,14 como aproximação para π . 
-d 
- 
-h 
-E 
-PROIBIDO 
-ESTACIONAR 
-Qual é a soma das medidas das áreas, em centímetros 
-quadrados, das dez placas?`,
+    text: `Uma administração municipal encomendou a pintura de dez placas
+de sinalização para colocar em seu pátio de estacionamento. O
+profissional contratado para o serviço inicial pintará o fundo
+de dez placas e cobrará um valor de acordo com a área total
+dessas placas. O formato de cada placa é um círculo de
+diâmetro d = 40 cm, que tangencia lados de um retângulo, sendo
+que o comprimento total da placa é h = 60 cm, conforme
+ilustrado na figura. Use 3,14 como aproximação para π . d  h
+E PROIBIDO ESTACIONAR Qual é a soma das medidas das áreas, em
+centímetros quadrados, das dez placas?`,
     images: ['/enem/2019/images/enem_2019_d2_q147.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `16 628` },
@@ -2383,22 +2094,16 @@ quantos dias?`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `O dono de um restaurante situado às margens de 
-uma rodovia percebeu que, ao colocar uma placa de 
-propaganda de seu restaurante ao longo da rodovia, as 
-vendas aumentaram. Pesquisou junto aos seus clientes 
-e concluiu que a probabilidade de um motorista perceber 
-uma placa de anúncio é 1 
-2 
-. Com isso, após autorização 
-do órgão competente, decidiu instalar novas placas com 
-anúncios de seu restaurante ao longo dessa rodovia, de 
-maneira que a probabilidade de um motorista perceber 
-pelo menos uma das placas instaladas fosse superior 
-a 99 
-100 
-. 
-A quantidade mínima de novas placas de propaganda a 
+    text: `O dono de um restaurante situado às margens de uma rodovia
+percebeu que, ao colocar uma placa de propaganda de seu
+restaurante ao longo da rodovia, as vendas aumentaram.
+Pesquisou junto aos seus clientes e concluiu que a
+probabilidade de um motorista perceber uma placa de anúncio é
+1 2 . Com isso, após autorização do órgão competente, decidiu
+instalar novas placas com anúncios de seu restaurante ao longo
+dessa rodovia, de maneira que a probabilidade de um motorista
+perceber pelo menos uma das placas instaladas fosse superior a
+99 100 . A quantidade mínima de novas placas de propaganda a
 serem instaladas é`,
     alternatives: [
       { id: 'A', type: 'text', value: `99.` },
@@ -2527,22 +2232,14 @@ Qual desses países obteve o maior IDH?`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Um mestre de obras deseja fazer uma laje com 
-espessura de 5 cm utilizando concreto usinado, 
-conforme as dimensões do projeto dadas na figura. 
-O concreto para fazer a laje será fornecido por uma 
-usina que utiliza caminhões com capacidades máximas 
-de 2 m³ , 5 m³ e 10 m³ de concreto. 
-8 m 
-1 m 
-3 m 
-2 m 
-3 m 
-5 m 
-14 m 
-Qual a menor quantidade de caminhões, utilizando suas 
-capacidades máximas, que o mestre de obras deverá 
-pedir à usina de concreto para fazer a laje?`,
+    text: `Um mestre de obras deseja fazer uma laje com espessura de 5 cm
+utilizando concreto usinado, conforme as dimensões do projeto
+dadas na figura. O concreto para fazer a laje será fornecido
+por uma usina que utiliza caminhões com capacidades máximas de
+2 m³ , 5 m³ e 10 m³ de concreto. 8 m 1 m 3 m 2 m 3 m 5 m 14 m
+Qual a menor quantidade de caminhões, utilizando suas
+capacidades máximas, que o mestre de obras deverá pedir à
+usina de concreto para fazer a laje?`,
     images: ['/enem/2019/images/enem_2019_d2_q164.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Dez caminhões com capacidade máxima de 10 m³ .` },
@@ -2625,24 +2322,16 @@ AE é`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Os alunos de uma turma escolar foram divididos em 
-dois grupos. Um grupo jogaria basquete, enquanto o 
-outro jogaria futebol. Sabe-se que o grupo de basquete 
-é formado pelos alunos mais altos da classe e tem 
-uma pessoa a mais do que o grupo de futebol. A tabela 
-seguinte apresenta informações sobre as alturas dos 
-alunos da turma. 
-Média 
-Mediana 
-Moda 
-1,65 
-1,67 
-1,70 
-Os alunos P, J, F e M medem, respectivamente, 
-1,65 m, 1,66 m, 1,67 m e 1,68 m, e as suas alturas não 
-são iguais a de nenhum outro colega da sala. 
-Segundo essas informações, argumenta-se que os 
-alunos P, J, F e M jogaram, respectivamente,`,
+    text: `Os alunos de uma turma escolar foram divididos em dois grupos.
+Um grupo jogaria basquete, enquanto o outro jogaria futebol.
+Sabe-se que o grupo de basquete é formado pelos alunos mais
+altos da classe e tem uma pessoa a mais do que o grupo de
+futebol. A tabela seguinte apresenta informações sobre as
+alturas dos alunos da turma. Média Mediana Moda 1,65 1,67 1,70
+Os alunos P, J, F e M medem, respectivamente, 1,65 m, 1,66 m,
+1,67 m e 1,68 m, e as suas alturas não são iguais a de nenhum
+outro colega da sala. Segundo essas informações, argumenta-se
+que os alunos P, J, F e M jogaram, respectivamente,`,
     alternatives: [
       { id: 'A', type: 'text', value: `basquete, basquete, basquete, basquete.` },
       { id: 'B', type: 'text', value: `futebol, basquete, basquete, basquete.` },
@@ -2686,59 +2375,29 @@ expressa por`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Um aplicativo de relacionamentos funciona da 
-seguinte forma: o usuário cria um perfil com foto e 
-informações pessoais, indica as características dos 
-usuários com quem deseja estabelecer contato e 
-determina um raio de abrangência a partir da sua 
-localização. O aplicativo identifica as pessoas que se 
-encaixam no perfil desejado e que estão a uma distância 
-do usuário menor ou igual ao raio de abrangência. 
-Caso dois usuários tenham perfis compatíveis e estejam 
-numa região de abrangência comum a ambos, o 
-aplicativo promove o contato entre os usuários, o que é 
-chamado de match . 
-O usuário P define um raio de abrangência com 
-medida de 3 km e busca ampliar a possibilidade de 
-obter um match se deslocando para a região central da 
-cidade, que concentra um maior número de usuários. 
-O gráfico ilustra alguns bares que o usuário P costuma 
-frequentar para ativar o aplicativo, indicados por 
-I, II, III, IV e V. Sabe-se que os usuários Q, R e S, 
-cujas posições estão descritas pelo gráfico, são 
-compatíveis com o usuário P, e que estes definiram 
-raios de abrangência respectivamente iguais a 
-3 km, 2 km e 5 km. 
-y (km) 
-8 
-Q 
-R 
-7 
-IV 
-I 
-6 
-II 
-III 
-5 
-V 
-4 
-S 
-3 
-2 
-1 
-P 
-x (km) 
-1 
-0 
-2 
-3 
-4 
-5 
-6 
-7 
-Com base no gráfico e nas afirmações anteriores, em 
-qual bar o usuário P teria a possibilidade de um match 
-com os usuários Q, R e S, simultaneamente?`,
+    text: `Um aplicativo de relacionamentos funciona da seguinte forma: o
+usuário cria um perfil com foto e informações pessoais, indica
+as características dos usuários com quem deseja estabelecer
+contato e determina um raio de abrangência a partir da sua
+localização. O aplicativo identifica as pessoas que se
+encaixam no perfil desejado e que estão a uma distância do
+usuário menor ou igual ao raio de abrangência. Caso dois
+usuários tenham perfis compatíveis e estejam numa região de
+abrangência comum a ambos, o aplicativo promove o contato
+entre os usuários, o que é chamado de match . O usuário P
+define um raio de abrangência com medida de 3 km e busca
+ampliar a possibilidade de obter um match se deslocando para a
+região central da cidade, que concentra um maior número de
+usuários. O gráfico ilustra alguns bares que o usuário P
+costuma frequentar para ativar o aplicativo, indicados por I,
+II, III, IV e V. Sabe-se que os usuários Q, R e S, cujas
+posições estão descritas pelo gráfico, são compatíveis com o
+usuário P, e que estes definiram raios de abrangência
+respectivamente iguais a 3 km, 2 km e 5 km. y (km) 8 Q R 7 IV
+I 6 II III 5 V 4 S 3 2 1 P x (km) 1 0 2 3 4 5 6 7 Com base no
+gráfico e nas afirmações anteriores, em qual bar o usuário P
+teria a possibilidade de um match com os usuários Q, R e S,
+simultaneamente?`,
     images: ['/enem/2019/images/enem_2019_d2_q169.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I` },
@@ -2788,30 +2447,7 @@ deverão comprar é`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Uma empresa confecciona e comercializa um 
-brinquedo formado por uma locomotiva, pintada na cor 
-preta, mais 12 vagões de iguais formato e tamanho, 
-numerados de 1 a 12. Dos 12 vagões, 4 são pintados 
-na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor 
-amarela. O trem é montado utilizando-se uma locomotiva 
-e 12 vagões, ordenados crescentemente segundo suas 
-numerações, conforme ilustrado na figura. 
-1 
-2 
-3 
-4 
-5 
-6 
-7 
-8 
-9 
-10 
-11 
-12 
-De acordo com as possíveis variações nas colorações 
-dos vagões, a quantidade de trens que podem ser 
-montados, expressa por meio de combinações, é
-dada por`,
+    text: ``,
     images: ['/enem/2019/images/enem_2019_d2_q171.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `C₁₂⁴ × C₁₂³ × C₁₂³ × C₁₂²` },
@@ -2830,34 +2466,20 @@ dada por`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `O gráfico a seguir mostra a evolução mensal das 
-vendas de certo produto de julho a novembro de 2011. 
-Unidades 
-vendidas 
-2 800 
-2 700 
-2 500 
-700 
-Jul 
-Ago 
-Set 
-Out 
-Nov 
-Mês 
-Sabe-se que o mês de julho foi o pior momento da 
-empresa em 2011 e que o número de unidades vendidas 
-desse produto em dezembro de 2011 foi igual à média 
-aritmética do número de unidades vendidas nos meses 
-de julho a novembro do mesmo ano. 
-O gerente de vendas disse, em uma reunião da 
-diretoria, que, se essa redução no número de unidades 
-vendidas de novembro para dezembro de 2011 se 
-mantivesse constante nos meses subsequentes, as 
-vendas só voltariam a ficar piores que julho de 2011 
-apenas no final de 2012. 
-O diretor financeiro rebateu imediatamente esse 
-argumento mostrando que, mantida a tendência, 
-isso aconteceria já em`,
+    text: `O gráfico a seguir mostra a evolução mensal das vendas de
+certo produto de julho a novembro de 2011. Unidades vendidas 2
+800 2 700 2 500 700 Jul Ago Set Out Nov Mês Sabe-se que o mês
+de julho foi o pior momento da empresa em 2011 e que o número
+de unidades vendidas desse produto em dezembro de 2011 foi
+igual à média aritmética do número de unidades vendidas nos
+meses de julho a novembro do mesmo ano. O gerente de vendas
+disse, em uma reunião da diretoria, que, se essa redução no
+número de unidades vendidas de novembro para dezembro de 2011
+se mantivesse constante nos meses subsequentes, as vendas só
+voltariam a ficar piores que julho de 2011 apenas no final de
+2012. O diretor financeiro rebateu imediatamente esse
+argumento mostrando que, mantida a tendência, isso aconteceria
+já em`,
     images: ['/enem/2019/images/enem_2019_d2_q172.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `janeiro.` },
@@ -2900,34 +2522,7 @@ ela era fraudulenta?`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do 
-município (isto é, a soma das populações rural e urbana). Os gráficos apresentam, respectivamente, a população 
-urbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião 
-entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de 
-urbanização receberá um investimento extra em infraestrutura. 
-16 000 
-18 000 
-20 000 
-População urbana 
-18 000 
-17 000 
-14 000 
-12 000 
-10 000 
-8 000 
-6 000 
-4 000 
-2 000 
-0 
-8 000 
-10 000 
-11 000 
-I 
-II 
-III 
-IV 
-V 
-Segundo o acordo, qual município receberá o investimento extra?`,
+    text: ``,
     images: ['/enem/2019/images/enem_2019_d2_q174.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I` },
@@ -2946,32 +2541,24 @@ Segundo o acordo, qual município receberá o investimento extra?`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Uma construtora pretende conectar um reservatório 
-central (R c ) em formato de um cilindro, com raio interno 
-igual a 2 m e altura interna igual a 3,30 m, a quatro 
-reservatórios cilíndricos auxiliares (R 1 , R 2 , R 3 e R 4 ), 
-os quais possuem raios internos e alturas internas 
-medindo 1,5 m. 
-R 2 
-R C 
-R 1 
-R 3 
-R 4 
-As ligações entre o reservatório central e os 
-auxiliares são feitas por canos cilíndricos com 0,10 m 
-de diâmetro interno e 20 m de comprimento, conectados 
-próximos às bases de cada reservatório. Na conexão 
-de cada um desses canos com o reservatório central há 
-registros que liberam ou interrompem o fluxo de água. 
-No momento em que o reservatório central está 
-cheio e os auxiliares estão vazios, abrem-se os quatro 
-registros e, após algum tempo, as alturas das colunas 
-de água nos reservatórios se igualam, assim que cessa 
-o fluxo de água entre eles, pelo princípio dos vasos 
-comunicantes. 
-A medida, em metro, das alturas das colunas de água 
-nos reservatórios auxiliares, após cessar o fluxo de 
-água entre eles, é`,
+    text: `Uma construtora pretende conectar um reservatório central (R c
+) em formato de um cilindro, com raio interno igual a 2 m e
+altura interna igual a 3,30 m, a quatro reservatórios
+cilíndricos auxiliares (R 1 , R 2 , R 3 e R 4 ), os quais
+possuem raios internos e alturas internas medindo 1,5 m. R 2 R
+C R 1 R 3 R 4 As ligações entre o reservatório central e os
+auxiliares são feitas por canos cilíndricos com 0,10 m de
+diâmetro interno e 20 m de comprimento, conectados próximos às
+bases de cada reservatório. Na conexão de cada um desses canos
+com o reservatório central há registros que liberam ou
+interrompem o fluxo de água. No momento em que o reservatório
+central está cheio e os auxiliares estão vazios, abrem-se os
+quatro registros e, após algum tempo, as alturas das colunas
+de água nos reservatórios se igualam, assim que cessa o fluxo
+de água entre eles, pelo princípio dos vasos comunicantes. A
+medida, em metro, das alturas das colunas de água nos
+reservatórios auxiliares, após cessar o fluxo de água entre
+eles, é`,
     images: ['/enem/2019/images/enem_2019_d2_q175.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1,44.` },
@@ -3024,41 +2611,24 @@ conceder nos custos fixos é de`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: `Um grupo de engenheiros está projetando um motor 
-cujo esquema de deslocamento vertical do pistão dentro 
-da câmara de combustão está representado na figura. 
-Câmara de 
-combustão 
-Câmara de 
-combustão 
-Pistão 
-h ( t ) 
-h (0) = 0 
-Pistão 
-Instante t = 0 
-Instante t ≠ 0 
-A função h t 
-sen 
-t 
-( ) 
-4 
-4 
-definida para t ≥ 0 
-descreve como varia a altura h , medida em centímetro, da 
-parte superior do pistão dentro da câmara de combustão, 
-em função do tempo t , medido em segundo. Nas figuras 
-estão indicadas as alturas do pistão em dois instantes 
-distintos. 
-O valor do parâmetro β , que é dado por um número 
-inteiro positivo, está relacionado com a velocidade 
-de deslocamento do pistão. Para que o motor tenha 
-uma boa potência, é necessário e suficiente que, em 
-menos de 4 segundos após o início do funcionamento 
-(instante t = 0), a altura da base do pistão alcance por 
-três vezes o valor de 6 cm. Para os cálculos, utilize 3 
-como aproximação para π . 
-O menor valor inteiro a ser atribuído ao parâmetro β , de 
-forma que o motor a ser construído tenha boa potência, é`,
+    text: `Um grupo de engenheiros está projetando um motor cujo esquema
+de deslocamento vertical do pistão dentro da câmara de
+combustão está representado na figura. Câmara de combustão
+Câmara de combustão Pistão h ( t ) h (0) = 0 Pistão Instante t
+= 0 Instante t ≠ 0 A função h t sen t ( ) 4 4 definida para t
+≥ 0 descreve como varia a altura h , medida em centímetro, da
+parte superior do pistão dentro da câmara de combustão, em
+função do tempo t , medido em segundo. Nas figuras estão
+indicadas as alturas do pistão em dois instantes distintos. O
+valor do parâmetro β , que é dado por um número inteiro
+positivo, está relacionado com a velocidade de deslocamento do
+pistão. Para que o motor tenha uma boa potência, é necessário
+e suficiente que, em menos de 4 segundos após o início do
+funcionamento (instante t = 0), a altura da base do pistão
+alcance por três vezes o valor de 6 cm. Para os cálculos,
+utilize 3 como aproximação para π . O menor valor inteiro a
+ser atribuído ao parâmetro β , de forma que o motor a ser
+construído tenha boa potência, é`,
     images: ['/enem/2019/images/enem_2019_d2_q177.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1.` },

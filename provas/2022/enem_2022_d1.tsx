@@ -7,37 +7,22 @@ const ENEM_2022_D1: QuizQuestion[] = [
     exam: 'enem',
     year: 2022,
     day: 1,
-    text: `Contigo 
-es posible 
-Diidxagola 
-Binnigula’ sa’ 
-N isa ri’ biraru’ mani’ 
-Duxhu’dxa’ ndaani 
-(Proverbio zapoteco) 
-? 
-Te gustó? 
-Las lenguas originarias de nuestra nación 
-guardan gran parte de la riqueza cultural. 
-Son parte viva de nuestro país. 
-Si se hablan, son reconocidas y todos las 
-respetamos, protegemos nuestro 
-patrimonio nacional. 
-SEP 
-SECRETARÍA DE 
-EDUCACIÓN 
-PÚBLICA 
-INSTITUTO NACIONAL DE LENGUAS INDÍGENAS 
-www.inali.gob.mx 
- Disponível em: www.inali.gob.mx. Acesso em: 2 dez. 2018. 
-Esse cartaz tem a função social de`,
+    text: `Contigo es posible Diidxagola Binnigula’ sa’ N isa ri’ biraru’
+mani’ Duxhu’dxa’ ndaani (Proverbio zapoteco) ? Te gustó? Las
+lenguas originarias de nuestra nación guardan gran parte de la
+riqueza cultural. Son parte viva de nuestro país. Si se
+hablan, son reconocidas y todos las respetamos, protegemos
+nuestro patrimonio nacional. SEP SECRETARÍA DE EDUCACIÓN
+PÚBLICA INSTITUTO NACIONAL DE LENGUAS INDÍGENAS
+www.inali.gob.mx Disponível em: www.inali.gob.mx. Acesso em: 2
+dez. 2018. Esse cartaz tem a função social de`,
     images: ['/enem/2022/images/enem_2022_d1_q1.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `difundir a arte iconográfica indígena mexicana.` },
       { id: 'B', type: 'text', value: `resgatar a literatura popular produzida em língua zapoteca.` },
       { id: 'C', type: 'text', value: `questionar o conhecimento do povo mexicano sobre as línguas ameríndias.` },
       { id: 'D', type: 'text', value: `destacar o papel dos órgãos governamentais na conservação das línguas no México.` },
-      { id: 'E', type: 'text', value: `defender a preservação das línguas originárias
-garantindo a diversidade linguística mexicana.` },
+      { id: 'E', type: 'text', value: `defender a preservação das línguas originárias garantindo a diversidade linguística mexicana.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O cartaz do Instituto Nacional de Lenguas Indígenas defende a preservação das línguas originárias do México, afirmando que, se forem faladas e reconhecidas, protege-se o patrimônio nacional e a diversidade linguística. A citação de um provérbio zapoteca reforça o valor cultural dessas línguas. A alternativa A está incorreta porque não há foco na arte iconográfica, e a B erra ao reduzir o objetivo ao resgate da literatura zapoteca. A C inverte o sentido, pois o cartaz não questiona o conhecimento do povo, e a D se equivoca ao apontar o protagonismo dos órgãos governamentais, que apenas assinam a peça, quando o propósito é defender a preservação das línguas.`,
@@ -75,10 +60,8 @@ No texto, o autor faz uma crítica ao(à)`,
       { id: 'A', type: 'text', value: `conhecimento das pessoas sobre as tecnologias.` },
       { id: 'B', type: 'text', value: `uso do celular alheio por pessoas desautorizadas.` },
       { id: 'C', type: 'text', value: `funcionamento de recursos tecnológicos obsoletos.` },
-      { id: 'D', type: 'text', value: `ingerência do celular sobre as escolhas dos 
-usuários.` },
-      { id: 'E', type: 'text', value: `falta de informação sobre a configuração de alertas 
-no celular.` },
+      { id: 'D', type: 'text', value: `ingerência do celular sobre as escolhas dos usuários.` },
+      { id: 'E', type: 'text', value: `falta de informação sobre a configuração de alertas no celular.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto critica a ingerência do celular sobre a vida do usuário, personificado como um "pequeno irmão" invasivo que decide o que são ou não seus recuerdos e exibe alertas mesmo com as notificações desativadas. As indagações irônicas ("¿Cómo te atreves a decirme qué son mis recuerdos?") evidenciam o incômodo com essa intromissão nas escolhas pessoais. A alternativa A trata do conhecimento das pessoas, assunto que não é o alvo da crítica, e a B fala de uso alheio não autorizado, o que não ocorre. A C aponta o funcionamento de recursos obsoletos, mencionados apenas de passagem, e a E reduz o problema à configuração de alertas, que é só um detalhe do incômodo maior.`,
@@ -150,10 +133,8 @@ SOSA, M. In: Corazón libre . Argentina: E.D.G.E., 2004 (fragmento).
 No texto, a expressão “ un mañana sin sol  ” é usada para 
 concluir uma crítica ao(à)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `descaso diante da problemática de crianças em 
-situação de rua.` },
-      { id: 'B', type: 'text', value: `violência característica do cotidiano das grandes 
-metrópoles.` },
+      { id: 'A', type: 'text', value: `descaso diante da problemática de crianças em situação de rua.` },
+      { id: 'B', type: 'text', value: `violência característica do cotidiano das grandes metrópoles.` },
       { id: 'C', type: 'text', value: `estímulo à mendicância nos centros urbanos.` },
       { id: 'D', type: 'text', value: `tendência de informalização do trabalho.` },
       { id: 'E', type: 'text', value: `falta de serviços de saúde adequados.` },
@@ -169,52 +150,26 @@ metrópoles.` },
     exam: 'enem',
     year: 2022,
     day: 1,
-    text: `MATERNIDADES EN TIEMPOS DE PANDEMIA 
-Maternar nunca ha 
-sido fácil; es 
-agotador y 
-desgastante. El 
-cierre de escuelas y 
-guarderías por 
-covid-19 incrementó 
-el trabajo. 
-Porque en este sistema 
-no hay lugar para la 
-queja, se da por 
-sentado que las 
-mujeres están hechas 
-para asumir la crianza 
-a pesar de las pocas o 
-nulas herramientas 
-que el Estado o la 
-sociedad les da para 
-ejercer la maternidad. 
-La maternidad esta 
-romantizada. No todas 
-viven las mismas 
-condiciones, pero aun 
-asi las madres ponen 
-lo mejor de si para 
-sobrellevarlo. 
-PARA MATERNAR SE 
-NECESITA UNA TRIBU, LA 
-CRIANZA NO DEBERÍA VIVIRSE 
-EN SOLEDAD. 
-MURIG 
-Mujeres en Red para la Igualdad de Género 
-MURIG. Disponível em: https://murigcolectivafeminista.wordpress.com. 
-Acesso em: 26 out. 2021 (adaptado). 
-No texto, as palavras “ crianza ” e “ tribu ” são usadas para`,
+    text: `MATERNIDADES EN TIEMPOS DE PANDEMIA Maternar nunca ha sido
+fácil; es agotador y desgastante. El cierre de escuelas y
+guarderías por covid-19 incrementó el trabajo. Porque en este
+sistema no hay lugar para la queja, se da por sentado que las
+mujeres están hechas para asumir la crianza a pesar de las
+pocas o nulas herramientas que el Estado o la sociedad les da
+para ejercer la maternidad. La maternidad esta romantizada. No
+todas viven las mismas condiciones, pero aun asi las madres
+ponen lo mejor de si para sobrellevarlo. PARA MATERNAR SE
+NECESITA UNA TRIBU, LA CRIANZA NO DEBERÍA VIVIRSE EN SOLEDAD.
+MURIG Mujeres en Red para la Igualdad de Género MURIG.
+Disponível em: https://murigcolectivafeminista.wordpress.com.
+Acesso em: 26 out. 2021 (adaptado). No texto, as palavras “
+crianza ” e “ tribu ” são usadas para`,
     images: ['/enem/2022/images/enem_2022_d1_q5.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `evidenciar a importância de uma rede de apoio para 
-as mães na criação de seus filhos.` },
-      { id: 'B', type: 'text', value: `denunciar a disparidade entre o trabalho das mães de 
-diferentes classes sociais.` },
-      { id: 'C', type: 'text', value: `ressaltar o fechamento de escolas e creches durante 
-o período pandêmico.` },
-      { id: 'D', type: 'text', value: `ratificar a romantização da dedicação das mães na 
-educação das crianças.` },
+      { id: 'A', type: 'text', value: `evidenciar a importância de uma rede de apoio para as mães na criação de seus filhos.` },
+      { id: 'B', type: 'text', value: `denunciar a disparidade entre o trabalho das mães de diferentes classes sociais.` },
+      { id: 'C', type: 'text', value: `ressaltar o fechamento de escolas e creches durante o período pandêmico.` },
+      { id: 'D', type: 'text', value: `ratificar a romantização da dedicação das mães na educação das crianças.` },
       { id: 'E', type: 'text', value: `enfatizar a proteção aos filhos em razão do isolamento social das famílias.` },
     ],
     correct: 'A',
@@ -249,16 +204,11 @@ uma situação distensa e de pouca formalidade, o que se
 evidencia pelo(a)`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `impessoalização ao longo do texto, como em: “se 
-não há mais tempo”.` },
-      { id: 'B', type: 'text', value: `construção de uma atmosfera de urgência, em 
-palavras como: “pressa”.` },
-      { id: 'C', type: 'text', value: `repetição de uma determinada estrutura sintática, 
-como em: “Se tudo é para ontem”.` },
-      { id: 'D', type: 'text', value: `ênfase no emprego da hipérbole, como em: “uma 
-refeição que pode durar uma vida”.` },
-      { id: 'E', type: 'text', value: `emprego de metáforas, como em: “a vida engata 
-uma primeira e sai em disparada”.` },
+      { id: 'A', type: 'text', value: `impessoalização ao longo do texto, como em: “se não há mais tempo”.` },
+      { id: 'B', type: 'text', value: `construção de uma atmosfera de urgência, em palavras como: “pressa”.` },
+      { id: 'C', type: 'text', value: `repetição de uma determinada estrutura sintática, como em: “Se tudo é para ontem”.` },
+      { id: 'D', type: 'text', value: `ênfase no emprego da hipérbole, como em: “uma refeição que pode durar uma vida”.` },
+      { id: 'E', type: 'text', value: `emprego de metáforas, como em: “a vida engata uma primeira e sai em disparada”.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O tom distenso e pouco formal do texto de opinião se evidencia pelo emprego de metáforas, como em "a vida engata uma primeira e sai em disparada", que transporta a imagem da direção automobilística para o ritmo apressado da vida. Esse recurso figurado aproxima o texto da linguagem coloquial e expressiva. A alternativa A erra ao falar em impessoalização, pois o autor usa a primeira pessoa ("caímos", "Temos pressa"). A B toma por marca de informalidade o campo semântico da urgência, que é tema, não registro; a C aponta a repetição sintática e a D a hipérbole, recursos presentes, mas que não caracterizam a informalidade apontada pelo enunciado.`,
@@ -301,12 +251,9 @@ Os dois textos abordam a temática de animais de rua,
 porém, em relação ao Texto I, o Texto II`,
     images: ['/enem/2022/images/enem_2022_d1_q7.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `problematiza a necessidade de adoção de animais 
-sem lar.` },
-      { id: 'B', type: 'text', value: `valida a troca afetiva entre os pets adotados e seus 
-donos.` },
-      { id: 'C', type: 'text', value: `reforça a importância da campanha de adoção de 
-animais.` },
+      { id: 'A', type: 'text', value: `problematiza a necessidade de adoção de animais sem lar.` },
+      { id: 'B', type: 'text', value: `valida a troca afetiva entre os pets adotados e seus donos.` },
+      { id: 'C', type: 'text', value: `reforça a importância da campanha de adoção de animais.` },
       { id: 'D', type: 'text', value: `exalta a natureza amigável de cães e de gatos.` },
       { id: 'E', type: 'text', value: `promove a campanha de adoção de animais.` },
     ],
@@ -351,23 +298,10 @@ Ao divulgar a adaptação do jogo para questões relativas a
 ações e habilidades de mulheres notáveis, o texto busca`,
     alternatives: [
       { id: 'A', type: 'text', value: `contribuir para a formação cidadã dos jogadores.` },
-      { id: 'B', type: 'text', value: `refutar 
-modelos 
-estereotipados 
-de 
-beleza 
-e 
-elegância.` },
-      { id: 'C', type: 'text', value: `estimular 
-a 
-competitividade 
-entre 
-potenciais 
-compradores.` },
-      { id: 'D', type: 'text', value: `exemplificar estratégias de arrecadação financeira 
-pela internet.` },
-      { id: 'E', type: 'text', value: `desenvolver conhecimentos lúdicos específicos dos 
-tempos atuais.` },
+      { id: 'B', type: 'text', value: `refutar modelos estereotipados de beleza e elegância.` },
+      { id: 'C', type: 'text', value: `estimular a competitividade entre potenciais compradores.` },
+      { id: 'D', type: 'text', value: `exemplificar estratégias de arrecadação financeira pela internet.` },
+      { id: 'E', type: 'text', value: `desenvolver conhecimentos lúdicos específicos dos tempos atuais.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Ao divulgar a versão do jogo em que as perguntas se voltam para os feitos e habilidades de mulheres notáveis, em vez de sua aparência, o texto contribui para a formação cidadã dos jogadores, estimulando o conhecimento sobre figuras femininas importantes da história. A alternativa B capta um efeito secundário (refutar estereótipos de beleza), mas não o objetivo central destacado. A C fala em competitividade, a D em estratégias de arrecadação e a E em conhecimentos lúdicos dos tempos atuais, aspectos que são apenas detalhes da notícia, não seu propósito formativo.`,
@@ -379,34 +313,21 @@ tempos atuais.` },
     exam: 'enem',
     year: 2022,
     day: 1,
-    text: `Causar um acidente
-é algo que você leva
-pro resto da vida.
-Não beba se for dirigir.
-Causar um acidente
-é algo que você leva
-pro resto da vida.
-Não beba se for dirigir. 
-Arrependimento 
-Arrependimento 
-DETRAN ES 
-DETRAN ES 
-Disponível em: www.portaldapropaganda.com.br. Acesso em: 29 out. 2013 (adaptado). 
-Para convencer o público-alvo sobre a necessidade de 
-um trânsito mais seguro, essa peça publicitária apela 
-para o(a)`,
+    text: `Causar um acidente é algo que você leva pro resto da vida. Não
+beba se for dirigir. Causar um acidente é algo que você leva
+pro resto da vida. Não beba se for dirigir. Arrependimento
+Arrependimento DETRAN ES DETRAN ES Disponível em:
+www.portaldapropaganda.com.br. Acesso em: 29 out. 2013
+(adaptado). Para convencer o público-alvo sobre a necessidade
+de um trânsito mais seguro, essa peça publicitária apela para
+o(a)`,
     images: ['/enem/2022/images/enem_2022_d1_q9.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `sentimento de culpa provocado no condutor 
-causador de acidentes.` },
-      { id: 'B', type: 'text', value: `dano psicológico causado nas vítimas da violência 
-nas estradas.` },
-      { id: 'C', type: 'text', value: `importância do monitoramento do trânsito pelas 
-autoridades competentes.` },
-      { id: 'D', type: 'text', value: `necessidade de punição a motoristas alcoolizados 
-envolvidos em acidentes.` },
-      { id: 'E', type: 'text', value: `sofrimento decorrente da perda de entes queridos em 
-acidentes automobilísticos.` },
+      { id: 'A', type: 'text', value: `sentimento de culpa provocado no condutor causador de acidentes.` },
+      { id: 'B', type: 'text', value: `dano psicológico causado nas vítimas da violência nas estradas.` },
+      { id: 'C', type: 'text', value: `importância do monitoramento do trânsito pelas autoridades competentes.` },
+      { id: 'D', type: 'text', value: `necessidade de punição a motoristas alcoolizados envolvidos em acidentes.` },
+      { id: 'E', type: 'text', value: `sofrimento decorrente da perda de entes queridos em acidentes automobilísticos.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A peça publicitária do Detran associa a frase "Causar um acidente é algo que você leva pro resto da vida" à palavra "Arrependimento", apelando ao sentimento de culpa do condutor que provoca acidentes ao beber e dirigir. Trata-se de uma estratégia de persuasão centrada no remorso do motorista. A alternativa B desloca o foco para o dano nas vítimas, e a C para o monitoramento pelas autoridades, que não aparece. A D propõe punição e a E o sofrimento pela perda de entes queridos, ângulos que a peça não enfatiza, pois o alvo é a consciência de culpa do próprio condutor.`,
@@ -486,8 +407,7 @@ impacta seus usuários é a`,
       { id: 'B', type: 'text', value: `valorização da utilização da nova tecnologia.` },
       { id: 'C', type: 'text', value: `recorrência das mudanças tecnológicas.` },
       { id: 'D', type: 'text', value: `suplantação imediata dos conhecimentos prévios.` },
-      { id: 'E', type: 'text', value: `rapidez no aprendizado do manuseio das novas 
-invenções.` },
+      { id: 'E', type: 'text', value: `rapidez no aprendizado do manuseio das novas invenções.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto afirma que o que mais impacta os usuários de uma nova técnica é a dificuldade de apropriação de sua nova linguagem, já que cada inovação exige uma longa iniciação, tanto mais demorada quanto mais o espírito está formatado pelas linguagens anteriores. A alternativa B fala em valorização da tecnologia, que não é o ponto central. A C menciona a recorrência das mudanças, e a E a rapidez no aprendizado, contrariando o texto, que fala em aprendizado longo. A D afirma a suplantação imediata dos conhecimentos prévios, justamente a ilusão que os autores desmentem ao dizer que ocorre o contrário.`,
@@ -564,20 +484,11 @@ Ao analisarem a correlação entre os hábitos e o perfil
 socioeconômico dos usuários da internet no Brasil, os 
 pesquisadores`,
     alternatives: [
-      { id: 'A', type: 'text', value: `apontam 
-o 
-desenvolvimento 
-econômico 
-como 
-solução para ampliar o uso da rede.` },
-      { id: 'B', type: 'text', value: `questionam a crença de que o acesso à informação é 
-igualitário e democrático.` },
-      { id: 'C', type: 'text', value: `afirmam que o uso comercial da rede é a causa da 
-exclusão de minorias.` },
-      { id: 'D', type: 'text', value: `refutam o vínculo entre níveis de escolaridade e 
-dificuldade de acesso.` },
-      { id: 'E', type: 'text', value: `condicionam a expansão da rede à elaboração de 
-políticas inclusivas.` },
+      { id: 'A', type: 'text', value: `apontam o desenvolvimento econômico como solução para ampliar o uso da rede.` },
+      { id: 'B', type: 'text', value: `questionam a crença de que o acesso à informação é igualitário e democrático.` },
+      { id: 'C', type: 'text', value: `afirmam que o uso comercial da rede é a causa da exclusão de minorias.` },
+      { id: 'D', type: 'text', value: `refutam o vínculo entre níveis de escolaridade e dificuldade de acesso.` },
+      { id: 'E', type: 'text', value: `condicionam a expansão da rede à elaboração de políticas inclusivas.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. Ao correlacionar hábitos e perfil socioeconômico dos usuários de internet, os pesquisadores questionam a crença de que o acesso à informação seja igualitário e democrático, mostrando que a rede reproduz as mesmas exclusões sociais (analfabetos, menos escolarizados, negros, indígenas e desempregados têm menor acesso). A alternativa A propõe o desenvolvimento econômico como solução, não defendida no texto; a C atribui a exclusão ao uso comercial da rede, o que não é afirmado. A D contraria o texto, que confirma o vínculo entre escolaridade e acesso, e a E fala em políticas inclusivas, que o texto não chega a propor.`,
@@ -606,18 +517,11 @@ O Texto II exemplifica o que se afirma no Texto I, na
 medida em que defende a ideia de que as escolhas 
 lexicais são resultantes de um`,
     alternatives: [
-      { id: 'A', type: 'text', value: `expediente próprio do sistema linguístico que nos 
-apresenta diferentes possibilidades para traduzir 
-estados de coisas.` },
-      { id: 'B', type: 'text', value: `ato inventivo de nomear novas realidades que 
-surgem diante de uma comunidade de falantes de 
-uma língua.` },
-      { id: 'C', type: 'text', value: `mecanismo de apropriação de formas linguísticas que 
-estão no acervo da formação do idioma nacional.` },
-      { id: 'D', type: 'text', value: `processo de incorporação de preconceitos que são 
-recorrentes na história de uma sociedade.` },
-      { id: 'E', type: 'text', value: `recurso de expressão marcado pela objetividade que 
-se requer na comunicação diária.` },
+      { id: 'A', type: 'text', value: `expediente próprio do sistema linguístico que nos apresenta diferentes possibilidades para traduzir estados de coisas.` },
+      { id: 'B', type: 'text', value: `ato inventivo de nomear novas realidades que surgem diante de uma comunidade de falantes de uma língua.` },
+      { id: 'C', type: 'text', value: `mecanismo de apropriação de formas linguísticas que estão no acervo da formação do idioma nacional.` },
+      { id: 'D', type: 'text', value: `processo de incorporação de preconceitos que são recorrentes na história de uma sociedade.` },
+      { id: 'E', type: 'text', value: `recurso de expressão marcado pela objetividade que se requer na comunicação diária.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O Texto II, ao listar expressões como "dia negro", "ovelha negra" e "magia negra", exemplifica a tese do Texto I de que a língua condensa as experiências de um povo, mostrando que as escolhas lexicais resultam de um processo de incorporação de preconceitos recorrentes na história da sociedade. A alternativa A fala em expediente neutro do sistema linguístico, e a B em ato inventivo de nomear novas realidades, o que não explica o viés discriminatório. A C reduz o fenômeno à apropriação de formas do idioma, e a E atribui as escolhas à busca de objetividade, ignorando a carga preconceituosa evidenciada.`,
@@ -638,17 +542,9 @@ Considerando-se a função social dos posts , essa imagem
 evidencia a apropriação de outro gênero com o objetivo de`,
     images: ['/enem/2022/images/enem_2022_d1_q15.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `promover o uso adequado de campanhas publicitárias 
-do governo.` },
-      { id: 'B', type: 'text', value: `divulgar 
-o 
-projeto 
-sobre 
-transparência 
-da 
-administração pública.` },
-      { id: 'C', type: 'text', value: `responsabilizar o cidadão pelo controle dos gastos 
-públicos.` },
+      { id: 'A', type: 'text', value: `promover o uso adequado de campanhas publicitárias do governo.` },
+      { id: 'B', type: 'text', value: `divulgar o projeto sobre transparência da administração pública.` },
+      { id: 'C', type: 'text', value: `responsabilizar o cidadão pelo controle dos gastos públicos.` },
       { id: 'D', type: 'text', value: `delegar a gestão de projetos de lei ao contribuinte.` },
       { id: 'E', type: 'text', value: `assegurar a fiscalização dos gastos públicos.` },
     ],
@@ -662,53 +558,39 @@ públicos.` },
     exam: 'enem',
     year: 2022,
     day: 1,
-    text: `Ela era linda. Gostava de dançar, fazia teatro em São 
-Paulo e sonhava ser atriz em Hollywood. Tinha 13 anos 
-quando ganhou uma câmera de vídeo - e uma irmã. 
-As 
-duas 
-se 
-tornaram 
-suas 
-companheiras 
-de 
-experimentações. Adolescente, Elena vivia a criar 
-filminhos e se empenhava em dirigir a pequena Petra nas 
-cenas que inventava. Era exigente com a irmã. E acreditava 
-no potencial da menina para satisfazer seus arroubos de 
-diretora precoce. Por cinco anos, integrou algumas das 
-melhores companhias paulistanas de teatro e participou 
-de preleções para filmes e trabalhos na TV. Nunca foi 
-chamada. No início de 1990, Elena tinha 20 anos quando se 
-mudou para Nova York para cursar artes cênicas e batalhar 
-uma chance no mercado americano. Deslocada, ansiosa, 
-frustrada após alguns testes de elenco malsucedidos, 
-decepcionada com a ausência de reconhecimento e 
-vitimada por uma depressão que se agravava com a falta 
-de perspectivas, Elena pôs fim à vida no segundo semestre. 
-Petra tinha 7 anos. Vinte anos depois, é ela, a irmã caçula, 
-que volta a Nova York para percorrer os últimos passos da 
-irmã, vasculhar seus arquivos e transformar suas memórias 
-em imagem e poesia. 
-Elena é um filme sobre a irmã que parte e sobre a irmã 
-que fica. É um filme sobre a busca, a perda, a saudade, mas 
-também sobre o encontro, o legado, a memória. Um filme sobre 
-a Elena de Petra e sobre a Petra de Elena, sobre o que ficou de 
-uma na outra e, essencialmente, um filme sobre a delicadeza. 
-VANUCHI, C. Época , 19 out. 2012 (adaptado). 
-O texto é exemplar de um gênero discursivo que cumpre 
-a função social de`,
+    text: `Ela era linda. Gostava de dançar, fazia teatro em São Paulo e
+sonhava ser atriz em Hollywood. Tinha 13 anos quando ganhou
+uma câmera de vídeo - e uma irmã. As duas se tornaram suas
+companheiras de experimentações. Adolescente, Elena vivia a
+criar filminhos e se empenhava em dirigir a pequena Petra nas
+cenas que inventava. Era exigente com a irmã. E acreditava no
+potencial da menina para satisfazer seus arroubos de diretora
+precoce. Por cinco anos, integrou algumas das melhores
+companhias paulistanas de teatro e participou de preleções
+para filmes e trabalhos na TV. Nunca foi chamada. No início de
+1990, Elena tinha 20 anos quando se mudou para Nova York para
+cursar artes cênicas e batalhar uma chance no mercado
+americano. Deslocada, ansiosa, frustrada após alguns testes de
+elenco malsucedidos, decepcionada com a ausência de
+reconhecimento e vitimada por uma depressão que se agravava
+com a falta de perspectivas, Elena pôs fim à vida no segundo
+semestre. Petra tinha 7 anos. Vinte anos depois, é ela, a irmã
+caçula, que volta a Nova York para percorrer os últimos passos
+da irmã, vasculhar seus arquivos e transformar suas memórias
+em imagem e poesia. Elena é um filme sobre a irmã que parte e
+sobre a irmã que fica. É um filme sobre a busca, a perda, a
+saudade, mas também sobre o encontro, o legado, a memória. Um
+filme sobre a Elena de Petra e sobre a Petra de Elena, sobre o
+que ficou de uma na outra e, essencialmente, um filme sobre a
+delicadeza. VANUCHI, C. Época , 19 out. 2012 (adaptado). O
+texto é exemplar de um gênero discursivo que cumpre a função
+social de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `narrar, por meio de imagem e poesia, cenas da vida 
-das irmãs Petra e Elena.` },
-      { id: 'B', type: 'text', value: `descrever, por meio das memórias de Petra, a 
-separação de duas irmãs.` },
-      { id: 'C', type: 'text', value: `sintetizar, por meio das principais cenas do filme, a 
-história de Elena.` },
-      { id: 'D', type: 'text', value: `lançar, por meio da história de vida do autor, um filme 
-autobiográfico.` },
-      { id: 'E', type: 'text', value: `avaliar, por meio de análise crítica, o filme em 
-referência.` },
+      { id: 'A', type: 'text', value: `narrar, por meio de imagem e poesia, cenas da vida das irmãs Petra e Elena.` },
+      { id: 'B', type: 'text', value: `descrever, por meio das memórias de Petra, a separação de duas irmãs.` },
+      { id: 'C', type: 'text', value: `sintetizar, por meio das principais cenas do filme, a história de Elena.` },
+      { id: 'D', type: 'text', value: `lançar, por meio da história de vida do autor, um filme autobiográfico.` },
+      { id: 'E', type: 'text', value: `avaliar, por meio de análise crítica, o filme em referência.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto é uma resenha crítica, gênero cuja função social é avaliar uma obra; ao comentar o filme Elena, o autor emite juízos de valor ("um filme sobre a delicadeza") e analisa criticamente a produção. A alternativa A confunde a função com a de narrar por imagem e poesia, o que descreve o filme em si; a B fala em descrever a separação das irmãs. A C propõe sintetizar as cenas do filme, e a D afirma tratar-se de um filme autobiográfico do autor do texto, o que é falso, já que a protagonista é Petra; a função do texto é, portanto, avaliar o filme.`,
@@ -740,17 +622,11 @@ São Paulo: Salamandra, 2013 (adaptado).
 Esse texto, que simula um verbete para a palavra 
 “palavra’’, constitui-se como um poema porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `tematiza o fazer poético, como em “Os poetas 
-classificam as palavras pela alma”.` },
-      { id: 'B', type: 'text', value: `utiliza o recurso expressivo da metáfora, como 
-em “As palavras têm corpo e alma”.` },
-      { id: 'C', type: 'text', value: `valoriza a gramática da língua, como em “substantivo, 
-adjetivo, verbo, advérbio, conjunção”.` },
-      { id: 'D', type: 'text', value: `estabelece comparações, como em “As palavras têm 
-corpo e alma, mas são diferentes das pessoas”.` },
-      { id: 'E', type: 'text', value: `apresenta informações pertinentes acerca do 
-conceito de “palavra”, como em “As gramáticas 
-classificam as palavras”.` },
+      { id: 'A', type: 'text', value: `tematiza o fazer poético, como em “Os poetas classificam as palavras pela alma”.` },
+      { id: 'B', type: 'text', value: `utiliza o recurso expressivo da metáfora, como em “As palavras têm corpo e alma”.` },
+      { id: 'C', type: 'text', value: `valoriza a gramática da língua, como em “substantivo, adjetivo, verbo, advérbio, conjunção”.` },
+      { id: 'D', type: 'text', value: `estabelece comparações, como em “As palavras têm corpo e alma, mas são diferentes das pessoas”.` },
+      { id: 'E', type: 'text', value: `apresenta informações pertinentes acerca do conceito de “palavra”, como em “As gramáticas classificam as palavras”.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O verbete lúdico de Adriana Falcão constitui-se como poema porque utiliza o recurso expressivo da metáfora, como em "As palavras têm corpo e alma", que atribui características humanas e sensoriais aos vocábulos, criando efeito poético. A alternativa A aponta a tematização do fazer poético, presente, mas que por si só não define o caráter poético do texto. A C e a E destacam a referência à gramática e às definições, aspectos próprios do verbete e não do poema. A D fala em comparações, mas as construções empregadas são metáforas, não comparações explícitas com conectivos.`,
@@ -789,10 +665,8 @@ texto é o(a)`,
       { id: 'A', type: 'text', value: `j ustaposicao de sequências verbais e nominais.` },
       { id: 'B', type: 'text', value: `mudança de eventos resultante do jogo temporal.` },
       { id: 'C', type: 'text', value: `uso de adjetivos qualificativos na descrição do cenário.` },
-      { id: 'D', type: 'text', value: `encadeamento semântico pelo uso de substantivos 
-sinônimos.` },
-      { id: 'E', type: 'text', value: `inter-relação entre orações por elementos linguísticos 
-lógicos.` },
+      { id: 'D', type: 'text', value: `encadeamento semântico pelo uso de substantivos sinônimos.` },
+      { id: 'E', type: 'text', value: `inter-relação entre orações por elementos linguísticos lógicos.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O trecho de Fim, de Fernando Torres, organiza-se pela justaposição de sequências verbais e nominais, acumulando ações e objetos lado a lado ("Buraco, cratera, pedra solta, bueiro-bomba"; "da poltrona para a janela, da janela para a cama") para reproduzir o fluxo irritado e entrecortado do pensamento do idoso. A alternativa B fala em jogo temporal, que não estrutura o texto; a C em adjetivos qualificativos na descrição de cenário, recurso secundário. A D menciona substantivos sinônimos encadeados, inexistentes, e a E a inter-relação entre orações por elementos lógicos, justamente o oposto da justaposição sem conectivos que caracteriza o fragmento.`,
@@ -834,12 +708,9 @@ como um(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `problema social localizado numa região do país.` },
       { id: 'B', type: 'text', value: `desafio para as torcidas organizadas dos clubes.` },
-      { id: 'C', type: 'text', value: `reflexo da precariedade da organização social no 
-país.` },
-      { id: 'D', type: 'text', value: `inadequação de espaço nos estádios para receber o 
-público.` },
-      { id: 'E', type: 'text', value: `consequência da insatisfação dos clubes com a 
-organização dos jogos.` },
+      { id: 'C', type: 'text', value: `reflexo da precariedade da organização social no país.` },
+      { id: 'D', type: 'text', value: `inadequação de espaço nos estádios para receber o público.` },
+      { id: 'E', type: 'text', value: `consequência da insatisfação dos clubes com a organização dos jogos.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. A reportagem caracteriza a violência no futebol como reflexo da precariedade da organização social do país, associando os episódios nos estádios ao quadro mais amplo de desordem pública, social, econômica e política, conforme a fala do sociólogo citado. A alternativa A reduz o fenômeno a um problema localizado numa região, e a B o apresenta como desafio apenas das torcidas organizadas. A D atribui a violência à inadequação do espaço dos estádios, e a E à insatisfação dos clubes com a organização dos jogos, causas pontuais que não correspondem à leitura estrutural proposta pelo texto.`,
@@ -884,19 +755,11 @@ saúde, para a prática regular de exercícios ter influência
 significativa na saúde dos brasileiros, é necessário o 
 desenvolvimento de estratégias que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `promovam a melhoria da aptidão física da população, 
-dedicando-se mais tempo aos esportes.` },
-      { id: 'B', type: 'text', value: `combatam o sedentarismo presente em parcela 
-significativa da população no território nacional.` },
-      { id: 'C', type: 'text', value: `facilitem a adoção da prática de exercícios, com 
-ações relacionadas à educação e à distribuição de 
-renda.` },
-      { id: 'D', type: 'text', value: `auxiliem na construção de mais instalações esportivas 
-e espaços adequados para a prática de atividades 
-físicas e esportes.` },
-      { id: 'E', type: 'text', value: `estimulem o incentivo fiscal para a iniciativa privada 
-destinar verbas aos programas nacionais de 
-promoção da saúde pelo esporte.` },
+      { id: 'A', type: 'text', value: `promovam a melhoria da aptidão física da população, dedicando-se mais tempo aos esportes.` },
+      { id: 'B', type: 'text', value: `combatam o sedentarismo presente em parcela significativa da população no território nacional.` },
+      { id: 'C', type: 'text', value: `facilitem a adoção da prática de exercícios, com ações relacionadas à educação e à distribuição de renda.` },
+      { id: 'D', type: 'text', value: `auxiliem na construção de mais instalações esportivas e espaços adequados para a prática de atividades físicas e esportes.` },
+      { id: 'E', type: 'text', value: `estimulem o incentivo fiscal para a iniciativa privada destinar verbas aos programas nacionais de promoção da saúde pelo esporte.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Numa visão ampliada de saúde, o combate ao sedentarismo exige estratégias que facilitem a adoção da prática de exercícios por meio de ações ligadas à educação e à distribuição de renda, já que a pesquisa mostra relação direta entre escolaridade, renda e prática de atividade física. A alternativa A foca apenas em dedicar mais tempo aos esportes, e a B apenas em combater o sedentarismo de forma genérica. A D propõe construir mais instalações, mas o texto diz que a falta de infraestrutura foi pouco citada; a E restringe-se a incentivos fiscais à iniciativa privada, aspecto não apontado como determinante.`,
@@ -935,16 +798,11 @@ Inscrito na estética romântica da literatura brasileira,
 o conto descortina aspectos da realidade nacional no 
 século XIX ao`,
     alternatives: [
-      { id: 'A', type: 'text', value: `revelar a imposição de crenças religiosas a pessoas 
-escravizadas.` },
-      { id: 'B', type: 'text', value: `apontar a hipocrisia do discurso conservador na 
-defesa da escravidão.` },
-      { id: 'C', type: 'text', value: `sugerir práticas de violência física e moral em nome 
-do progresso material.` },
-      { id: 'D', type: 'text', value: `relacionar o declínio da produção agrícola e 
-comercial a questões raciais.` },
-      { id: 'E', type: 'text', value: `ironizar o comportamento dos proprietários de 
-terra na exploração do trabalho.` },
+      { id: 'A', type: 'text', value: `revelar a imposição de crenças religiosas a pessoas escravizadas.` },
+      { id: 'B', type: 'text', value: `apontar a hipocrisia do discurso conservador na defesa da escravidão.` },
+      { id: 'C', type: 'text', value: `sugerir práticas de violência física e moral em nome do progresso material.` },
+      { id: 'D', type: 'text', value: `relacionar o declínio da produção agrícola e comercial a questões raciais.` },
+      { id: 'E', type: 'text', value: `ironizar o comportamento dos proprietários de terra na exploração do trabalho.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. Inscrito no Romantismo, o conto de Maria Firmina Reis descortina a realidade escravocrata do século XIX ao apontar a hipocrisia do discurso conservador: a personagem, com argumentos morais e religiosos, expõe a contradição de uma sociedade cristã que sustenta e defende a escravidão. A alternativa A fala em imposição de crenças religiosas aos escravizados, o que não ocorre; a C sugere violência em nome do progresso material, ausente do trecho. A D relaciona o declínio agrícola e comercial a questões raciais, invertendo o argumento econômico do texto, e a E fala em ironizar os proprietários, quando o tom é de denúncia direta, não irônica.`,
@@ -1140,12 +998,9 @@ relação da conquista da skatista com a`,
     alternatives: [
       { id: 'A', type: 'text', value: `conciliação do jornalismo com a prática do skate .` },
       { id: 'B', type: 'text', value: `inserção das mulheres na modalidade skate street.` },
-      { id: 'C', type: 'text', value: `desconstrução da noção do skate como modalidade 
-masculina.` },
-      { id: 'D', type: 'text', value: `vanguarda de ser a atleta mais jovem a subir no pódio 
-olímpico.` },
-      { id: 'E', type: 'text', value: `conquista de medalha nos Jogos Olímpicos 
-de Tóquio.` },
+      { id: 'C', type: 'text', value: `desconstrução da noção do skate como modalidade masculina.` },
+      { id: 'D', type: 'text', value: `vanguarda de ser a atleta mais jovem a subir no pódio olímpico.` },
+      { id: 'E', type: 'text', value: `conquista de medalha nos Jogos Olímpicos de Tóquio.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O discurso da jornalista relaciona a conquista de Rayssa Leal à desconstrução da noção do skate como modalidade masculina, ao criticar os padrões que enquadram meninas em certos papéis e questionar por que a mulher não poderia praticar esportes de aventura. A alternativa A foca apenas na conciliação entre jornalismo e skate, e a B na simples inserção das mulheres na modalidade, sem o viés de ruptura de estereótipos. A D destaca o fato de ser a atleta mais jovem no pódio e a E a conquista da medalha, dados factuais que não traduzem o questionamento sobre os papéis de gênero no esporte.`,
@@ -1211,22 +1066,10 @@ do texto tem como propósito desencadear a`,
     images: ['/enem/2022/images/enem_2022_d1_q27.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `identificação de distinções entre mulheres e homens.` },
-      { id: 'B', type: 'text', value: `revisão 
-de 
-representações 
-estereotipadas 
-de 
-gênero.` },
-      { id: 'C', type: 'text', value: `adoção de medidas preventivas de combate ao 
-sexismo.` },
-      { id: 'D', type: 'text', value: `ratificação 
-de 
-comportamentos 
-femininos 
-e 
-masculinos.` },
-      { id: 'E', type: 'text', value: `retomada de opiniões a respeito da diversidade dos 
-papéis sociais.` },
+      { id: 'B', type: 'text', value: `revisão de representações estereotipadas de gênero.` },
+      { id: 'C', type: 'text', value: `adoção de medidas preventivas de combate ao sexismo.` },
+      { id: 'D', type: 'text', value: `ratificação de comportamentos femininos e masculinos.` },
+      { id: 'E', type: 'text', value: `retomada de opiniões a respeito da diversidade dos papéis sociais.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A articulação entre os elementos verbais (frases sexistas como "Mulher ao volante, perigo constante") e os não verbais da peça tem o propósito de provocar a revisão de representações estereotipadas de gênero, expondo e contestando esses clichês. A alternativa A fala em identificar distinções entre homens e mulheres, reforçando a visão que o texto combate; a C propõe medidas preventivas de combate ao sexismo, ação mais ampla do que o texto realiza. A D ratifica comportamentos de gênero, contrariando o objetivo crítico, e a E fala em retomar opiniões sobre a diversidade de papéis, sem a intenção de revisão dos estereótipos.`,
@@ -1268,16 +1111,11 @@ Disponível em: https://brasil.elpais.com. Acesso em: 11 jun. 2019 (adaptado).
 O movimento de recuperação da língua patxôhã assume 
 um caráter identitário peculiar na medida em que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `denuncia o processo de perseguição histórica sofrida 
-pelos povos indígenas.` },
-      { id: 'B', type: 'text', value: `conjuga o ato de resistência étnica à preservação 
-da memória cultural.` },
-      { id: 'C', type: 'text', value: `associa a preservação linguística ao campo da 
-pesquisa acadêmica.` },
-      { id: 'D', type: 'text', value: `estimula o retorno de povos indígenas a suas terras 
-de origem.` },
-      { id: 'E', type: 'text', value: `aumenta o número de línguas indígenas faladas 
-no Brasil.` },
+      { id: 'A', type: 'text', value: `denuncia o processo de perseguição histórica sofrida pelos povos indígenas.` },
+      { id: 'B', type: 'text', value: `conjuga o ato de resistência étnica à preservação da memória cultural.` },
+      { id: 'C', type: 'text', value: `associa a preservação linguística ao campo da pesquisa acadêmica.` },
+      { id: 'D', type: 'text', value: `estimula o retorno de povos indígenas a suas terras de origem.` },
+      { id: 'E', type: 'text', value: `aumenta o número de línguas indígenas faladas no Brasil.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O movimento de recuperação da língua patxôhã assume caráter identitário peculiar porque conjuga o ato de resistência étnica à preservação da memória cultural: retomar a língua ameaçada pela perseguição histórica é afirmar a identidade do povo pataxó ("Você diz quem você é por meio da sua língua"). A alternativa A restringe-se a denunciar a perseguição histórica, e a C associa o processo apenas à pesquisa acadêmica. A D fala em estimular o retorno às terras, consequência pontual, e a E em aumentar o número de línguas faladas no país, dado que não decorre do movimento, cujo sentido é identitário e memorialístico.`,
@@ -1316,12 +1154,9 @@ representativos da narrativa machadiana - consiste no`,
     alternatives: [
       { id: 'A', type: 'text', value: `modo de vestir dos moradores do morro carioca.` },
       { id: 'B', type: 'text', value: `senso prático em relação às oportunidades de renda.` },
-      { id: 'C', type: 'text', value: `mistério que cerca as clientes de práticas de 
-vidência.` },
-      { id: 'D', type: 'text', value: `misto de singeleza e astúcia dos gestos da 
-personagem.` },
-      { id: 'E', type: 'text', value: `interesse do narrador pelas figuras femininas 
-ambíguas.` },
+      { id: 'C', type: 'text', value: `mistério que cerca as clientes de práticas de vidência.` },
+      { id: 'D', type: 'text', value: `misto de singeleza e astúcia dos gestos da personagem.` },
+      { id: 'E', type: 'text', value: `interesse do narrador pelas figuras femininas ambíguas.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A ironia tipicamente machadiana, no relato da visita das duas mulheres ricas à cabocla vidente, está no misto de singeleza e astúcia dos gestos de Bárbara: a figura aparentemente simples e quase sacerdotal esconde olhos agudos e perscrutadores que "revolviam o coração", revelando sagacidade por trás da aparência ingênua. A alternativa A foca no modo de vestir, e a B no senso prático de renda. A C fala no mistério que cerca as clientes, e a E no interesse do narrador por figuras femininas ambíguas, aspectos que não traduzem o contraste irônico entre candura e esperteza encarnado na própria personagem.`,
@@ -1354,16 +1189,11 @@ No trecho do romance naturalista, a forma como
 o narrador julga comportamentos e emoções das 
 personagens femininas revela influência do pensamento`,
     alternatives: [
-      { id: 'A', type: 'text', value: `capitalista, marcado pela distribuição funcional do 
-trabalho.` },
-      { id: 'B', type: 'text', value: `liberal, buscando a igualdade entre pessoas 
-escravizadas e livres.` },
-      { id: 'C', type: 'text', value: `científico, considerando o ser humano como um 
-fenômeno biológico.` },
-      { id: 'D', type: 'text', value: `religioso, fundamentado na fé e na aceitação dos 
-dogmas do cristianismo.` },
-      { id: 'E', type: 'text', value: `afetivo, manifesto na determinação de acolher 
-familiares e no respeito mútuo.` },
+      { id: 'A', type: 'text', value: `capitalista, marcado pela distribuição funcional do trabalho.` },
+      { id: 'B', type: 'text', value: `liberal, buscando a igualdade entre pessoas escravizadas e livres.` },
+      { id: 'C', type: 'text', value: `científico, considerando o ser humano como um fenômeno biológico.` },
+      { id: 'D', type: 'text', value: `religioso, fundamentado na fé e na aceitação dos dogmas do cristianismo.` },
+      { id: 'E', type: 'text', value: `afetivo, manifesto na determinação de acolher familiares e no respeito mútuo.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No romance naturalista Dona Guidinha do Poço, o modo como o narrador julga as emoções femininas revela a influência do pensamento científico, que concebe o ser humano como fenômeno biológico: o desejo de Margarida por crianças é explicado como "o egoísta e cru instinto da maternidade", movido por "simpatia carnal", e não por sentimento cristão. A alternativa A fala em pensamento capitalista pela divisão do trabalho, e a B em liberal, buscando igualdade. A D aponta base religiosa, justamente negada no texto, e a E uma leitura afetiva, quando o narrador reduz o comportamento a determinismos instintivos, marca do Naturalismo.`,
@@ -1405,8 +1235,7 @@ manifestam-se aqui no(a)`,
       { id: 'B', type: 'text', value: `indefinição dos espaços para efeito de generalização.` },
       { id: 'C', type: 'text', value: `análise psicológica da reação dos personagens à seca.` },
       { id: 'D', type: 'text', value: `engajamento político do narrador ante as desigualdades.` },
-      { id: 'E', type: 'text', value: `contemplação lírica da paisagem transformada em 
-alegoria.` },
+      { id: 'E', type: 'text', value: `contemplação lírica da paisagem transformada em alegoria.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Os recursos que inserem A bagaceira no Romance de 30 aparecem no desenho cru e cortante da realidade dramática dos retirantes, descritos como "esqueletos redivivos", "fantasmas estropiados" e corpos sem sexo, idade ou condição, em linguagem que denuncia a miséria da seca sem idealizações. A alternativa B fala em indefinição dos espaços para generalização, e a C em análise psicológica da reação à seca, que não predomina. A D aponta engajamento político explícito do narrador, mais sutil aqui, e a E uma contemplação lírica da paisagem como alegoria, oposta ao realismo duro e social que caracteriza o romance regionalista de 30.`,
@@ -1586,16 +1415,11 @@ Disponível em: https://revistaencontro.com.br. Acesso em: 11 dez. 2017.
 Essa notícia, além de cumprir sua função informativa, 
 assume o papel de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `fiscalizar as ações de saúde e saneamento da 
-cidade.` },
-      { id: 'B', type: 'text', value: `defender os serviços gratuitos de atendimento à 
-população.` },
-      { id: 'C', type: 'text', value: `conscientizar a população sobre grave problema de 
-saúde pública.` },
-      { id: 'D', type: 'text', value: `propor campanhas para a ampliação de acesso aos 
-serviços públicos.` },
-      { id: 'E', type: 'text', value: `responsabilizar os agentes públicos pela demora na 
-tomada de decisões.` },
+      { id: 'A', type: 'text', value: `fiscalizar as ações de saúde e saneamento da cidade.` },
+      { id: 'B', type: 'text', value: `defender os serviços gratuitos de atendimento à população.` },
+      { id: 'C', type: 'text', value: `conscientizar a população sobre grave problema de saúde pública.` },
+      { id: 'D', type: 'text', value: `propor campanhas para a ampliação de acesso aos serviços públicos.` },
+      { id: 'E', type: 'text', value: `responsabilizar os agentes públicos pela demora na tomada de decisões.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Além de informar sobre o projeto de vacinação de cães, a notícia assume o papel de conscientizar a população sobre um grave problema de saúde pública, destacando que a leishmaniose é doença séria, transmitida pelo mosquito-palha e que afeta humanos e animais. A alternativa A fala em fiscalizar as ações de saúde do município, e a B em defender serviços gratuitos como fim principal. A D propõe campanhas de ampliação de acesso, e a E responsabiliza os agentes públicos pela demora, ângulos que a notícia não assume, pois seu papel complementar é alertar sobre a gravidade da enfermidade.`,
@@ -1635,10 +1459,8 @@ Associada ao ideário de uma “vida perfeita”, a positividade
 tóxica mencionada no texto é um fenômeno social 
 recente, que se constitui com base em`,
     alternatives: [
-      { id: 'A', type: 'text', value: `representações estereotipadas e superficiais de 
-felicidade.` },
-      { id: 'B', type: 'text', value: `ressignificações contemporâneas do conceito de 
-alegria.` },
+      { id: 'A', type: 'text', value: `representações estereotipadas e superficiais de felicidade.` },
+      { id: 'B', type: 'text', value: `ressignificações contemporâneas do conceito de alegria.` },
       { id: 'C', type: 'text', value: `estilos de vida inacessíveis para a sociedade brasileira.` },
       { id: 'D', type: 'text', value: `atitudes contraditórias de influenciadores digitais.` },
       { id: 'E', type: 'text', value: `padrões idealizados e nocivos de beleza física.` },
@@ -1674,8 +1496,7 @@ distingue-se pela`,
       { id: 'B', type: 'text', value: `distorção ao representar a figura humana.` },
       { id: 'C', type: 'text', value: `evocação de um fato da cultura clássica grega.` },
       { id: 'D', type: 'text', value: `presença do tema da morte como punição da família.` },
-      { id: 'E', type: 'text', value: `utilização da perspectiva para integrar os diferentes 
-planos.` },
+      { id: 'E', type: 'text', value: `utilização da perspectiva para integrar os diferentes planos.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. Produzida no início do século XVII, a obra maneirista de El Greco distingue-se pela distorção ao representar a figura humana, com corpos alongados e torcidos, traço estilístico típico do Maneirismo. A alternativa A destaca a nudez masculina, e a C a evocação de um fato da cultura clássica grega, elementos do tema, não da técnica característica. A D fala no tema da morte como punição da família, assunto da cena descrita no Texto II, e a E na utilização da perspectiva para integrar os planos, recurso mais ligado ao Renascimento clássico, enquanto o Maneirismo rompe com esse equilíbrio por meio da deformação das figuras.`,
@@ -1744,12 +1565,9 @@ expressividade lírica é reforçada pela`,
     alternatives: [
       { id: 'A', type: 'text', value: `plasticidade da imagem do rebanho reunido.` },
       { id: 'B', type: 'text', value: `sugestão da firmeza do sertanejo ao arrear o cavalo.` },
-      { id: 'C', type: 'text', value: `situação de pobreza encontrada nos sertões 
-brasileiros.` },
-      { id: 'D', type: 'text', value: `afetividade demonstrada ao noticiar a morte do 
-cantador.` },
-      { id: 'E', type: 'text', value: `preocupação do vaqueiro em demonstrar sua 
-virilidade.` },
+      { id: 'C', type: 'text', value: `situação de pobreza encontrada nos sertões brasileiros.` },
+      { id: 'D', type: 'text', value: `afetividade demonstrada ao noticiar a morte do cantador.` },
+      { id: 'E', type: 'text', value: `preocupação do vaqueiro em demonstrar sua virilidade.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A expressividade lírica do conto regionalista de Coelho Netto é reforçada pela afetividade com que o vaqueiro Raimundinho noticia a morte de tio Firmo, o cantador: comovido, relata o episódio e dá de esporas no animal para esconder as lágrimas, revelando ternura pelo velho. A alternativa A fala na plasticidade da imagem do rebanho, e a B na firmeza do sertanejo ao arrear o cavalo, detalhes que não concentram o lirismo. A C aponta a pobreza dos sertões e a E a preocupação em demonstrar virilidade, leituras que contrariam o trecho, em que o personagem se emociona e tenta ocultar o choro.`,
@@ -1893,14 +1711,10 @@ ready-made Roda de bicicleta , demonstrando que`,
     images: ['/enem/2022/images/enem_2022_d1_q44.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `as formas de criticar obras do passado se repetem.` },
-      { id: 'B', type: 'text', value: `a recorrência de temas marca a arte do final do 
-século XX.` },
-      { id: 'C', type: 'text', value: `as criações desmistificam os valores estéticos 
-estabelecidos.` },
-      { id: 'D', type: 'text', value: `o distanciamento temporal permite a transformação 
-dos referenciais estéticos.` },
-      { id: 'E', type: 'text', value: `o objeto ausente sugere a degradação da forma 
-superando o modelo artístico.` },
+      { id: 'B', type: 'text', value: `a recorrência de temas marca a arte do final do século XX.` },
+      { id: 'C', type: 'text', value: `as criações desmistificam os valores estéticos estabelecidos.` },
+      { id: 'D', type: 'text', value: `o distanciamento temporal permite a transformação dos referenciais estéticos.` },
+      { id: 'E', type: 'text', value: `o objeto ausente sugere a degradação da forma superando o modelo artístico.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. A instalação In absêntia dialoga com o ready-made Roda de bicicleta, de Duchamp, demonstrando que as criações artísticas desmistificam os valores estéticos estabelecidos, pois transformam objetos comuns e não convencionais em obras de arte, numa crítica radical ao sistema da arte. A alternativa A fala que as formas de criticar o passado se repetem, e a B na recorrência de temas como marca da arte do fim do século XX. A D aponta que o distanciamento temporal transforma os referenciais estéticos, e a E que o objeto ausente sugere a degradação da forma, leituras que não traduzem o questionamento dos cânones estéticos proposto pelas duas obras.`,
@@ -1937,16 +1751,11 @@ FORCIONI, G. et al. O mangue está de volta. Revista Esquinas , n. 87, set. 2019
 Chico Science foi fundamental para a renovação da 
 música pernambucana, fato que se deu pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `utilização de aparelhos musicais eletrônicos em 
-lugar dos instrumentos tradicionais.` },
-      { id: 'B', type: 'text', value: `ocupação de espaços da natureza local para a 
-produção de eventos musicais memoráveis.` },
-      { id: 'C', type: 'text', value: `substituição de antigas práticas musicais, como o 
-frevo, por melodias e harmonias inovadoras.` },
-      { id: 'D', type: 'text', value: `recuperação de composições tradicionais folclóricas 
-e sua apresentação em grandes festivais.` },
-      { id: 'E', type: 'text', value: `integração de referenciais culturais de diferentes 
-origens, criando uma nova combinação estética.` },
+      { id: 'A', type: 'text', value: `utilização de aparelhos musicais eletrônicos em lugar dos instrumentos tradicionais.` },
+      { id: 'B', type: 'text', value: `ocupação de espaços da natureza local para a produção de eventos musicais memoráveis.` },
+      { id: 'C', type: 'text', value: `substituição de antigas práticas musicais, como o frevo, por melodias e harmonias inovadoras.` },
+      { id: 'D', type: 'text', value: `recuperação de composições tradicionais folclóricas e sua apresentação em grandes festivais.` },
+      { id: 'E', type: 'text', value: `integração de referenciais culturais de diferentes origens, criando uma nova combinação estética.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Chico Science renovou a música pernambucana pela integração de referenciais culturais de diferentes origens, criando uma nova combinação estética: o manguebeat misturou o maracatu e suas alfaias com hip-hop, guitarras do rock, elementos eletrônicos e o sotaque recifense. A alternativa A reduz a renovação ao uso de aparelhos eletrônicos em lugar de instrumentos tradicionais, e a B à ocupação de espaços da natureza. A C fala em substituir práticas como o frevo por melodias inovadoras, e a D em recuperar composições folclóricas em festivais, leituras que desconsideram o caráter de fusão híbrida que define o movimento.`,
@@ -2049,41 +1858,19 @@ uma característica da sociedade brasileira, que é o(a):`,
     exam: 'enem',
     year: 2022,
     day: 1,
-    text: `evapotranspiração: 40% 
-escoamento 
-superficial:10% 
-infiltração 
-subsuperficial: 25% 
-percolação 
-profunda: 25% 
-Cobertura natural do solo 
-evapotranspiração: 38% 
-escoamento 
-superficial: 20% 
-infiltração 
-subsuperficial: 21% 
-10% - 20% de superfície impermeável 
-percolação 
-profunda: 21% 
-evapotranspiração: 35% 
-escoamento 
-superficial: 30% 
-infiltração 
-subsuperficial: 20% 
-percolação 
-profunda: 15% 
-35% - 50% de superfície impermeável 
-evapotranspiração: 30% 
-escoamento 
-superficial: 55% 
-infiltração 
-subsuperficial: 10% 
-percolação 
-profunda: 5% 
-75% - 100% de superfície impermeável 
-PAZ, A. D.  Disponível em: www.ct.ufpb.br. Acesso em: 15 out. 2021 (adaptado). 
-A intensificação da ocupação urbana demonstrada afeta 
-de forma imediata o(a)`,
+    text: `evapotranspiração: 40% escoamento superficial:10% infiltração
+subsuperficial: 25% percolação profunda: 25% Cobertura natural
+do solo evapotranspiração: 38% escoamento superficial: 20%
+infiltração subsuperficial: 21% 10% - 20% de superfície
+impermeável percolação profunda: 21% evapotranspiração: 35%
+escoamento superficial: 30% infiltração subsuperficial: 20%
+percolação profunda: 15% 35% - 50% de superfície impermeável
+evapotranspiração: 30% escoamento superficial: 55% infiltração
+subsuperficial: 10% percolação profunda: 5% 75% - 100% de
+superfície impermeável PAZ, A. D. Disponível em:
+www.ct.ufpb.br. Acesso em: 15 out. 2021 (adaptado). A
+intensificação da ocupação urbana demonstrada afeta de forma
+imediata o(a)`,
     images: ['/enem/2022/images/enem_2022_d1_q49.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `nível altimétrico.` },
@@ -2118,24 +1905,11 @@ São Paulo: Cia. das Letras, 1988 (adaptado).
 No texto, há uma crítica ao modo de ocupação do espaço 
 amazônico pautada na`,
     alternatives: [
-      { id: 'A', type: 'text', value: `discrepância entre engenharia ambiental e equilíbrio 
-da fauna.` },
-      { id: 'B', type: 'text', value: `incoerência entre maquinaria estrangeira e controle 
-da floresta.` },
-      { id: 'C', type: 'text', value: `incompatibilidade 
-entre 
-investimento 
-estatal 
-e 
-proteção aos nativos.` },
-      { id: 'D', type: 'text', value: `competição entre farmacologia internacional e 
-produtos da fitoterapia.` },
-      { id: 'E', type: 'text', value: `contradição 
-entre 
-desenvolvimento 
-nacional 
-e 
-respeito aos trabalhadores.` },
+      { id: 'A', type: 'text', value: `discrepância entre engenharia ambiental e equilíbrio da fauna.` },
+      { id: 'B', type: 'text', value: `incoerência entre maquinaria estrangeira e controle da floresta.` },
+      { id: 'C', type: 'text', value: `incompatibilidade entre investimento estatal e proteção aos nativos.` },
+      { id: 'D', type: 'text', value: `competição entre farmacologia internacional e produtos da fitoterapia.` },
+      { id: 'E', type: 'text', value: `contradição entre desenvolvimento nacional e respeito aos trabalhadores.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto denuncia que, na construção da Madeira-Mamoré, o discurso do progresso científico convivia com a morte e o abandono dos trabalhadores, tratados como cobaias sem nome, revelando a contradição entre o desenvolvimento nacional e o respeito aos trabalhadores. As alternativas A e B deslocam a crítica para a fauna e a floresta, quando o texto se concentra nas vítimas humanas. A proteção aos nativos (C) não é o foco, e a competição entre farmacologia e fitoterapia (D) não encontra apoio no trecho, que critica o custo humano da obra.`,
@@ -2284,46 +2058,29 @@ representou, na capital do Império, um momento de`,
     exam: 'enem',
     year: 2022,
     day: 1,
-    text: `Solos salinos ou alomórficos apresentam como 
-característica comum uma concentração muito alta 
-de sais solúveis e/ou de sódio trocável. Eles ocorrem 
-nos locais mais baixos do relevo, em regiões áridas e 
-semiáridas e próximas do mar. Em regiões semiáridas, 
-por exemplo, o polígono das secas do Nordeste brasileiro, 
-os locais menos elevados recebem água que se escoa 
-dos declives adjacentes, durante as chuvas que caem em 
-alguns meses do ano. Essa água traz soluções de sais 
-minerais e evapora-se rapidamente antes de infiltrar-se 
-totalmente, havendo então, cada vez que esse processo 
-é repetido, um pequeno acúmulo de sais no horizonte 
-superficial que, com o passar dos anos, provoca a 
-salinização do solo. Nas últimas décadas, a expansão 
-das atividades agrícolas na região tem ampliado esse 
-processo. 
-LEPSCH, I. F. Solos: formação e conservação . 
-São Paulo: Melhoramentos, 1993 (adaptado). 
-As 
-atividades 
-agrícolas, 
-desenvolvidas 
-na 
-região 
-mencionada, intensificam o problema ambiental exposto ao`,
+    text: `Solos salinos ou alomórficos apresentam como característica
+comum uma concentração muito alta de sais solúveis e/ou de
+sódio trocável. Eles ocorrem nos locais mais baixos do relevo,
+em regiões áridas e semiáridas e próximas do mar. Em regiões
+semiáridas, por exemplo, o polígono das secas do Nordeste
+brasileiro, os locais menos elevados recebem água que se escoa
+dos declives adjacentes, durante as chuvas que caem em alguns
+meses do ano. Essa água traz soluções de sais minerais e
+evapora-se rapidamente antes de infiltrar-se totalmente,
+havendo então, cada vez que esse processo é repetido, um
+pequeno acúmulo de sais no horizonte superficial que, com o
+passar dos anos, provoca a salinização do solo. Nas últimas
+décadas, a expansão das atividades agrícolas na região tem
+ampliado esse processo. LEPSCH, I. F. Solos: formação e
+conservação . São Paulo: Melhoramentos, 1993 (adaptado). As
+atividades agrícolas, desenvolvidas na região mencionada,
+intensificam o problema ambiental exposto ao`,
     alternatives: [
-      { id: 'A', type: 'text', value: `realizar florestamentos de pinus, desrespeitando a 
-prática do pousio.` },
-      { id: 'B', type: 'text', value: `utilizar sistemas de irrigação, desprezando uma 
-drenagem adequada.` },
-      { id: 'C', type: 'text', value: `instalar açudes nos grotões, retardando a velocidade 
-da vazão fluvial.` },
-      { id: 'D', type: 'text', value: `desmatar 
-áreas 
-de 
-preservação 
-permanente, 
-causando assoreamento.` },
-      { id: 'E', type: 'text', value: `aplicar fertilizantes de origem orgânica, modificando 
-a química da terra.` },
+      { id: 'A', type: 'text', value: `realizar florestamentos de pinus, desrespeitando a prática do pousio.` },
+      { id: 'B', type: 'text', value: `utilizar sistemas de irrigação, desprezando uma drenagem adequada.` },
+      { id: 'C', type: 'text', value: `instalar açudes nos grotões, retardando a velocidade da vazão fluvial.` },
+      { id: 'D', type: 'text', value: `desmatar áreas de preservação permanente, causando assoreamento.` },
+      { id: 'E', type: 'text', value: `aplicar fertilizantes de origem orgânica, modificando a química da terra.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A salinização ocorre quando a água rica em sais evapora antes de infiltrar-se totalmente; ao usar irrigação sem drenagem adequada, a agricultura no semiárido acelera esse acúmulo de sais no solo. O florestamento de pinus (A) e a aplicação de fertilizantes orgânicos (E) não são as causas descritas do problema. Instalar açudes (C) e desmatar áreas de preservação (D) remetem a outros impactos, como assoreamento, que não correspondem ao mecanismo de concentração de sais explicado no texto, diretamente ligado ao manejo inadequado da irrigação.`,
@@ -2335,32 +2092,22 @@ a química da terra.` },
     exam: 'enem',
     year: 2022,
     day: 1,
-    text: `TEXTO I 
-TÁ 
-ESTUDANDO, 
-JÚNIOR? 
-CALMA, 
-TÔ TENTANDO 
-ACHAR UM SINAL 
-DE WI-FI! 
-CAZO. Disponível em: www.humorpolitico.com.br. 
-Acesso em: 21 nov. 2021 (adaptado). 
-TEXTO II 
-É como se os problemas fossem criados pela 
-pandemia quando, em verdade, isso só demonstra o 
-quanto eles sofrem uma tentativa de serem naturalizados. 
-Eles estavam lá, empurrados para debaixo de vários 
-tapetes. Diversos levantamentos realizados indicam 
-que parcela significativa dos estudantes não têm acesso 
-à internet em suas casas, não têm computadores; têm 
-celulares, mas com pacotes baratos que não permitem 
-assistir a todas as aulas. E, caso tenham celulares e 
-dados, pergunta-se: É possível elaborar um texto no 
-celular? É possível interagir na aula remota pelo celular? 
-ASSIS, A. E. S. Q. Educação e pandemia. 
-Educação em Revista , n. 37, 2021 (adaptado). 
-A crítica contida no texto e na figura evidencia o seguinte 
-aspecto da sociedade contemporânea:`,
+    text: `TEXTO I TÁ ESTUDANDO, JÚNIOR? CALMA, TÔ TENTANDO ACHAR UM
+SINAL DE WI-FI! CAZO. Disponível em: www.humorpolitico.com.br.
+Acesso em: 21 nov. 2021 (adaptado). TEXTO II É como se os
+problemas fossem criados pela pandemia quando, em verdade,
+isso só demonstra o quanto eles sofrem uma tentativa de serem
+naturalizados. Eles estavam lá, empurrados para debaixo de
+vários tapetes. Diversos levantamentos realizados indicam que
+parcela significativa dos estudantes não têm acesso à internet
+em suas casas, não têm computadores; têm celulares, mas com
+pacotes baratos que não permitem assistir a todas as aulas. E,
+caso tenham celulares e dados, pergunta-se: É possível
+elaborar um texto no celular? É possível interagir na aula
+remota pelo celular? ASSIS, A. E. S. Q. Educação e pandemia.
+Educação em Revista , n. 37, 2021 (adaptado). A crítica
+contida no texto e na figura evidencia o seguinte aspecto da
+sociedade contemporânea:`,
     images: ['/enem/2022/images/enem_2022_d1_q56.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `à Exclusão social.` },
@@ -2436,16 +2183,11 @@ NOBRE, E. Incêndios da alma. Rio de Janeiro: Multifoco, 2016 (adaptado).
 As práticas religiosas mencionadas nos textos estão 
 associadas, respectivamente, à:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Delimitação de paisagens urbanas e abandono de 
-componentes espiritualistas.` },
-      { id: 'B', type: 'text', value: `Demarcação de patrimônios afetivos e apropriação 
-de elementos judaizantes.` },
-      { id: 'C', type: 'text', value: `Expansão de fronteiras regionais e subjetivação do 
-cristianismo medieval.` },
-      { id: 'D', type: 'text', value: `Circunscrição de bens simbólicos e admissão de 
-cerimônias ecumênicas.` },
-      { id: 'E', type: 'text', value: `Criação de lugares místicos e experiências do 
-catolicismo popular.` },
+      { id: 'A', type: 'text', value: `Delimitação de paisagens urbanas e abandono de componentes espiritualistas.` },
+      { id: 'B', type: 'text', value: `Demarcação de patrimônios afetivos e apropriação de elementos judaizantes.` },
+      { id: 'C', type: 'text', value: `Expansão de fronteiras regionais e subjetivação do cristianismo medieval.` },
+      { id: 'D', type: 'text', value: `Circunscrição de bens simbólicos e admissão de cerimônias ecumênicas.` },
+      { id: 'E', type: 'text', value: `Criação de lugares místicos e experiências do catolicismo popular.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Os textos associam as romarias de Juazeiro e o episódio da hóstia que sangrou na boca da beata Maria de Araújo à criação de lugares místicos e às experiências do catolicismo popular, à margem da hierarquia oficial da Igreja. A delimitação de paisagens urbanas com abandono do espiritualismo (A) contraria o caráter religioso dos fatos. Não há elementos judaizantes (B) nem cristianismo medieval (C). A admissão de cerimônias ecumênicas (D) não corresponde ao texto, que trata de devoção católica popular e da consagração de um espaço sagrado.`,
@@ -2457,30 +2199,24 @@ catolicismo popular.` },
     exam: 'enem',
     year: 2022,
     day: 1,
-    text: `Em 2003, teve início o Programa de Aquisição de 
-Alimentos e, com ele, várias mudanças na perspectiva dos 
-mercados institucionais. Trata-se do primeiro programa 
-de compras públicas com uma orientação exclusiva 
-para a agricultura familiar, articulando-a explicitamente 
-com a segurança alimentar e nutricional. O Programa 
-é destinado à aquisição de produtos agropecuários 
-produzidos por agricultores enquadrados no Programa 
-Nacional de Fortalecimento da Agricultura Familiar 
-(Pronaf), incluídas aqui as categorias: assentados 
-da reforma agrária, trabalhadores rurais sem terra, 
-acampados, quilombolas, agroextrativistas, famílias 
-atingidas por barragens e comunidades indígenas. 
-GRISA, C.; ISOPO, S. P. Dez anos de PAA: As contribuições e os desafios para o 
-desenvolvimento rural. In: GRISA, C.; SCHNEIDER, S. (Org.). Políticas públicas de 
-desenvolvimento rural no Brasil . Porto Alegre: UFRGS, 2015. 
-A 
-ação 
-governamental 
-descrita 
-constitui-se 
-uma 
-importante conquista para os pequenos produtores em 
-virtude da:`,
+    text: `Em 2003, teve início o Programa de Aquisição de Alimentos e,
+com ele, várias mudanças na perspectiva dos mercados
+institucionais. Trata-se do primeiro programa de compras
+públicas com uma orientação exclusiva para a agricultura
+familiar, articulando-a explicitamente com a segurança
+alimentar e nutricional. O Programa é destinado à aquisição de
+produtos agropecuários produzidos por agricultores enquadrados
+no Programa Nacional de Fortalecimento da Agricultura Familiar
+(Pronaf), incluídas aqui as categorias: assentados da reforma
+agrária, trabalhadores rurais sem terra, acampados,
+quilombolas, agroextrativistas, famílias atingidas por
+barragens e comunidades indígenas. GRISA, C.; ISOPO, S. P. Dez
+anos de PAA: As contribuições e os desafios para o
+desenvolvimento rural. In: GRISA, C.; SCHNEIDER, S. (Org.).
+Políticas públicas de desenvolvimento rural no Brasil . Porto
+Alegre: UFRGS, 2015. A ação governamental descrita
+constitui-se uma importante conquista para os pequenos
+produtores em virtude da:`,
     alternatives: [
       { id: 'A', type: 'text', value: `Inovação tecnológica.` },
       { id: 'B', type: 'text', value: `Reestruturação fundiária.` },
@@ -2520,14 +2256,8 @@ celulares podem desempenhar uma função`,
       { id: 'A', type: 'text', value: `recreativa, promovendo o lazer em redes integradas.` },
       { id: 'B', type: 'text', value: `social, estimulando a reciprocidade por meios digitais.` },
       { id: 'C', type: 'text', value: `laboral, convertendo o desenvolvedor em usuário final.` },
-      { id: 'D', type: 'text', value: `comercial, direcionando a escolha por produtos 
-industrializados.` },
-      { id: 'E', type: 'text', value: `cognitiva, 
-favorecendo 
-a 
-aprendizagem 
-pelas 
-ferramentas virtuais.` },
+      { id: 'D', type: 'text', value: `comercial, direcionando a escolha por produtos industrializados.` },
+      { id: 'E', type: 'text', value: `cognitiva, favorecendo a aprendizagem pelas ferramentas virtuais.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O experimento FunFit vincula cada participante a outros membros da comunidade, que são recompensados quando a pessoa se exercita mais, mostrando que o celular pode ter função social ao estimular a reciprocidade por meios digitais. A função recreativa (A) e a comercial (D) não explicam o resultado, centrado em laços entre pessoas. A função laboral (C) não cabe, pois não se trata de trabalho. A função cognitiva de aprendizagem (E) também não é o foco, que é o reforço das relações sociais e da cooperação mediadas pela tecnologia.`,
@@ -2618,16 +2348,11 @@ Na conjuntura histórica destacada no texto, o dever de
 agir em face da situação de crise apresentada pertencia à 
 jurisdição`,
     alternatives: [
-      { id: 'A', type: 'text', value: `da nobreza, proveniente da obrigação de proteção ao 
-campesinato livre.` },
-      { id: 'B', type: 'text', value: `da realeza, decorrente do conceito de governo 
-subjacente à monarquia cristã.` },
-      { id: 'C', type: 'text', value: `dos mosteiros, resultante do caráter fraternal afirmado 
-nas regras monásticas.` },
-      { id: 'D', type: 'text', value: `dos bispados, consequente da participação dos 
-clérigos nos assuntos comunitários.` },
-      { id: 'E', type: 'text', value: `é das corporações, procedente do padrão assistencialista 
-previsto nas normas estatutárias.` },
+      { id: 'A', type: 'text', value: `da nobreza, proveniente da obrigação de proteção ao campesinato livre.` },
+      { id: 'B', type: 'text', value: `da realeza, decorrente do conceito de governo subjacente à monarquia cristã.` },
+      { id: 'C', type: 'text', value: `dos mosteiros, resultante do caráter fraternal afirmado nas regras monásticas.` },
+      { id: 'D', type: 'text', value: `dos bispados, consequente da participação dos clérigos nos assuntos comunitários.` },
+      { id: 'E', type: 'text', value: `é das corporações, procedente do padrão assistencialista previsto nas normas estatutárias.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. Nos primeiros séculos da Idade Média, o socorro aos famintos inscrevia-se na gestão pública ligada à concepção de governo da monarquia cristã, de modo que o dever de agir diante da crise pertencia à realeza, ainda que apresentado sob a aparência da caridade individual. A proteção pela nobreza (A) e a atuação de mosteiros (C) ou bispados (D) não são apontadas como a jurisdição responsável no trecho. As corporações (E) são anacrônicas para o século VI merovíngio, cujo modelo associa o enfrentamento da fome ao poder régio cristão.`,
@@ -2666,34 +2391,16 @@ em que provoca a formação de`,
     exam: 'enem',
     year: 2022,
     day: 1,
-    text: `MORTE 
-TENSÃO 
-AGRESSÃO 
-TENSÃO 
-LUA DE MEL 
-AGRESSÃO 
-LUA DE MEL 
-TENSÃO 
-AGRESSÃO 
-TENSÃO 
-LUA DE MEL 
-AGRESSÃO 
-TENSÃO 
-LUA DE MEL 
-LUA DE MEL 
-AGRESSÃO 
-TENSÃO 
-LUA DE MEL 
-carinho, paixão, presentes, promessas, reconciliação, liberdade 
-LUA DE MEL 
-TENSÃO 
-insulto, humilhação, intimidação, gritos, ameaça, controle, 
-isolamento, medo, conflitos, descumprimento de promessa 
-AGRESSÃO 
-empurrão, beliscão, puxão de cabelo, sufocamento, 
-arremesso de objetos, tapa, chute, espancamento 
-Disponível em: https://ndmais.com.br. Acesso em: 8 out. 2021. 
-O ápice da ilustração se traduz por uma conduta social 
+    text: `MORTE TENSÃO AGRESSÃO TENSÃO LUA DE MEL AGRESSÃO LUA DE MEL
+TENSÃO AGRESSÃO TENSÃO LUA DE MEL AGRESSÃO TENSÃO LUA DE MEL
+LUA DE MEL AGRESSÃO TENSÃO LUA DE MEL carinho, paixão,
+presentes, promessas, reconciliação, liberdade LUA DE MEL
+TENSÃO insulto, humilhação, intimidação, gritos, ameaça,
+controle, isolamento, medo, conflitos, descumprimento de
+promessa AGRESSÃO empurrão, beliscão, puxão de cabelo,
+sufocamento, arremesso de objetos, tapa, chute, espancamento
+Disponível em: https://ndmais.com.br. Acesso em: 8 out. 2021.
+O ápice da ilustração se traduz por uma conduta social
 caracterizada pela`,
     images: ['/enem/2022/images/enem_2022_d1_q65.jpg'],
     alternatives: [
@@ -2832,16 +2539,11 @@ Considerando a dinâmica geopolítica subjacente ao texto,
 a justificativa utilizada por Vladimir Putin, em 2014, para 
 anexação dessa península apela para o argumento de que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `as populações com idioma comum devem estar 
-submetidas à mesma autoridade estatal.` },
-      { id: 'B', type: 'text', value: `o imperialismo soviético havia se acomodado às 
-pretensões das potências vizinhas.` },
-      { id: 'C', type: 'text', value: `os organismos transnacionais são incapazes de 
-solucionar disputas territoriais.` },
-      { id: 'D', type: 'text', value: `a integração regional supõe a livre circulação de 
-pessoas e mercadorias.` },
-      { id: 'E', type: 'text', value: `a expulsão das forças navais ocidentais garantiria a 
-soberania nacional.` },
+      { id: 'A', type: 'text', value: `as populações com idioma comum devem estar submetidas à mesma autoridade estatal.` },
+      { id: 'B', type: 'text', value: `o imperialismo soviético havia se acomodado às pretensões das potências vizinhas.` },
+      { id: 'C', type: 'text', value: `os organismos transnacionais são incapazes de solucionar disputas territoriais.` },
+      { id: 'D', type: 'text', value: `a integração regional supõe a livre circulação de pessoas e mercadorias.` },
+      { id: 'E', type: 'text', value: `a expulsão das forças navais ocidentais garantiria a soberania nacional.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Putin justifica a anexação da Crimeia afirmando que a península sempre foi parte inseparável da Rússia na mente e no coração do povo, apelando para a ideia de que populações com idioma e identidade comuns devem estar sob a mesma autoridade estatal. O imperialismo soviético acomodado (B) não é o argumento usado. A incapacidade de organismos transnacionais (C) e a livre circulação da integração regional (D) não aparecem no discurso. A expulsão de forças navais ocidentais (E) não é a justificativa apresentada, que se apoia no vínculo histórico-identitário entre o território e a nação russa.`,
@@ -2853,30 +2555,18 @@ soberania nacional.` },
     exam: 'enem',
     year: 2022,
     day: 1,
-    text: `TEXTO I 
-Interseccionalidade : intercruzamento de desigualdades 
-que gera padrões complexos de discriminação. 
-TEXTO II 
-Proporção de pessoas abaixo da linha de pobreza 
-Por arranjo domiciliar no Brasil - 2017 
-Mulher sem cônjuge e com filho(s) até 14 anos 
-56,9% 
-Mulher preta ou parda sem cônjuge e com filho(s) até 14 anos 
-64,4% 
-Mulher branca sem cônjuge e com filho(s) até 14 anos 
-41,5% 
-Casal com filho(s) 
-30,4% 
-Outros 
-21,0% 
-Unipessoal 
-11,6% 
-Casal sem filho 
-10,0% 
-Disponível em: www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018. 
-Considerando o conceito apresentado no Texto I e os 
-dados apresentados no Texto II, no Brasil, são fatores 
-que intensificam o fenômeno da discriminação:`,
+    text: `TEXTO I Interseccionalidade : intercruzamento de desigualdades
+que gera padrões complexos de discriminação. TEXTO II
+Proporção de pessoas abaixo da linha de pobreza Por arranjo
+domiciliar no Brasil - 2017 Mulher sem cônjuge e com filho(s)
+até 14 anos 56,9% Mulher preta ou parda sem cônjuge e com
+filho(s) até 14 anos 64,4% Mulher branca sem cônjuge e com
+filho(s) até 14 anos 41,5% Casal com filho(s) 30,4% Outros
+21,0% Unipessoal 11,6% Casal sem filho 10,0% Disponível em:
+www.agenciadenoticias.ibge.gov.br. Acesso em: 2 dez. 2018.
+Considerando o conceito apresentado no Texto I e os dados
+apresentados no Texto II, no Brasil, são fatores que
+intensificam o fenômeno da discriminação:`,
     images: ['/enem/2022/images/enem_2022_d1_q70.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Raça e gênero.` },
@@ -2911,8 +2601,7 @@ do princípio básico enunciado no texto:`,
       { id: 'B', type: 'text', value: `Intervenção em áreas de vulnerabilidade pela Igreja.` },
       { id: 'C', type: 'text', value: `Disseminação de projetos sociais em universidades.` },
       { id: 'D', type: 'text', value: `Ampliação dos processos de concentração de renda.` },
-      { id: 'E', type: 'text', value: `Regulamentação das relações de trabalho pelo 
-Legislativo.` },
+      { id: 'E', type: 'text', value: `Regulamentação das relações de trabalho pelo Legislativo.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O Estado de direito supõe a eliminação do arbítrio e a submissão de todos à lei, inclusive os governantes escolhidos pelo voto; por isso, suprimir eleições de representantes políticos viola esse princípio ao romper o controle democrático do poder. A intervenção social da Igreja (B) e a disseminação de projetos em universidades (C) não ferem o Estado de direito. A concentração de renda (D) é um problema econômico, não uma violação direta do princípio enunciado. A regulamentação do trabalho pelo Legislativo (E) é, ao contrário, um exercício legítimo e legal do poder.`,
@@ -2987,19 +2676,12 @@ tinha por objetivo`,
     exam: 'enem',
     year: 2022,
     day: 1,
-    text: `RADIAÇÃO SOLAR 
-GLOBAL HORIZONTAL 
-MÉDIA ANUAL 
-3,15 3,50 3,85 4,20 4,55 4,90 5,25 5,60 5,95 6,30 6,65 kWh/m² 
-0 
-200 
-400 
-600 
-800 1000 km 
-PEREIRA, E. B. et al. Atlas brasileiro de energia solar . São José dos Campos: Inpe, 2006. 
-Uma característica regional que justifica o maior 
-potencial anual médio para o aproveitamento da 
-energia solar é a reduzida`,
+    text: `RADIAÇÃO SOLAR GLOBAL HORIZONTAL MÉDIA ANUAL 3,15 3,50 3,85
+4,20 4,55 4,90 5,25 5,60 5,95 6,30 6,65 kWh/m² 0 200 400 600
+800 1000 km PEREIRA, E. B. et al. Atlas brasileiro de energia
+solar . São José dos Campos: Inpe, 2006. Uma característica
+regional que justifica o maior potencial anual médio para o
+aproveitamento da energia solar é a reduzida`,
     images: ['/enem/2022/images/enem_2022_d1_q74.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `declividade do relevo.` },
@@ -3123,25 +2805,14 @@ justifica no âmbito dos objetivos`,
     exam: 'enem',
     year: 2022,
     day: 1,
-    text: `Possível trajeto do voo MH370 da Malaysia Airlines 
-antes da queda, em 2014 
-Último contato 
-MALÁSIA 
-Kuala Lumpur 
-INDONÉSIA 
-Possível trajeto antes da queda 
-MADAGASCAR 
-OCEANO 
-ÍNDICO 
-AUSTRÁLIA 
-2 500 km 
-Perth 
-Local onde os destroços 
- foram avistados 
-Disponível em: http://imguol.com. Acesso em: 30 mar. 2014 (adaptado). 
-Considerando-se que a distância entre o local onde os 
-destroços do avião foram avistados e a cidade de Perth 
-é de 2 cm, a escala aproximada dessa representação 
+    text: `Possível trajeto do voo MH370 da Malaysia Airlines antes da
+queda, em 2014 Último contato MALÁSIA Kuala Lumpur INDONÉSIA
+Possível trajeto antes da queda MADAGASCAR OCEANO ÍNDICO
+AUSTRÁLIA 2 500 km Perth Local onde os destroços foram
+avistados Disponível em: http://imguol.com. Acesso em: 30 mar.
+2014 (adaptado). Considerando-se que a distância entre o local
+onde os destroços do avião foram avistados e a cidade de Perth
+é de 2 cm, a escala aproximada dessa representação
 cartográfica é:`,
     images: ['/enem/2022/images/enem_2022_d1_q78.jpg'],
     alternatives: [
@@ -3220,12 +2891,9 @@ pensadores, a saber:`,
     alternatives: [
       { id: 'A', type: 'text', value: `Os epicuristas, envolvidos com o ideal de vida feliz.` },
       { id: 'B', type: 'text', value: `Os estoicos, dedicados à superação dos infortúnios.` },
-      { id: 'C', type: 'text', value: `Os sofistas, comprometidos com o ensino da 
-retórica.` },
-      { id: 'D', type: 'text', value: `Os peripatéticos, empenhados na dinâmica do 
-ensino.` },
-      { id: 'E', type: 'text', value: `Os poetas rapsodos, responsáveis pela narrativa do 
-mito.` },
+      { id: 'C', type: 'text', value: `Os sofistas, comprometidos com o ensino da retórica.` },
+      { id: 'D', type: 'text', value: `Os peripatéticos, empenhados na dinâmica do ensino.` },
+      { id: 'E', type: 'text', value: `Os poetas rapsodos, responsáveis pela narrativa do mito.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Vernant vincula o nascimento da filosofia à pólis e à construção de uma primeira forma de racionalidade; nesse contexto, destacam-se os sofistas, pensadores comprometidos com o ensino da retórica e do debate na cidade grega. Os epicuristas (A) e os estoicos (B) são correntes helenísticas posteriores, ligadas à busca da felicidade e à superação dos infortúnios. Os peripatéticos (D) são seguidores de Aristóteles, também posteriores. Os poetas rapsodos (E) associam-se ao mito, justamente o pensamento que a nova racionalidade da pólis começava a superar, e não ao vínculo entre filosofia e vida política.`,
@@ -3274,67 +2942,17 @@ criado permitiram ao governo promover o(a)`,
     exam: 'enem',
     year: 2022,
     day: 1,
-    text: `ROCHAS ÍGNEAS DA AMAZÔNIA LEGAL 
-70°W 
-60°W 
-50°W 
-Guiana Francesa 
-Guiana Francesa 
-5°N 
-5°N 
-Venezuela 
-Venezuela 
-Suriname 
-Roraima 
-Roraima 
-Oceano 
-Atlântico 
-Guiana 
-Colômbia 
-Amapá 
-0° 
-0° 
-Amazonas 
-Para 
- aranhão 
-Maranhão 
-5°S 
-5°S 
-Tocantins 
-Tocantins 
-Piauí 
-Acre 
-10°S 
-10°S 
-Rondônia 
-Rondônia 
-Bahia 
-Mato Grosso 
-Peru 
-Goiás 
-15°S 
-15°S 
-DF Minas Gerais 
-Bolívia 
-Oceano 
-Pacifico 
-0 
-80 
-160 
-320Km 
-Projeção: Albers 
-Datum: SIRGAS 2000 
-Mato Grosso do Sul 
-Chile 
-70°W 
-60°W 
-50°W 
-Rochas ígneas 
-Amazônia Legal 
-Geoestatísticas de recursos naturais da Amazônia Legal . 
-Rio de Janeiro: IBGE, 2011 (adaptado). 
-O mapa espacializa um recurso natural com alto potencial 
-para ocorrência de:`,
+    text: `ROCHAS ÍGNEAS DA AMAZÔNIA LEGAL 70°W 60°W 50°W Guiana Francesa
+Guiana Francesa 5°N 5°N Venezuela Venezuela Suriname Roraima
+Roraima Oceano Atlântico Guiana Colômbia Amapá 0° 0° Amazonas
+Para aranhão Maranhão 5°S 5°S Tocantins Tocantins Piauí Acre
+10°S 10°S Rondônia Rondônia Bahia Mato Grosso Peru Goiás 15°S
+15°S DF Minas Gerais Bolívia Oceano Pacifico 0 80 160 320Km
+Projeção: Albers Datum: SIRGAS 2000 Mato Grosso do Sul Chile
+70°W 60°W 50°W Rochas ígneas Amazônia Legal Geoestatísticas de
+recursos naturais da Amazônia Legal . Rio de Janeiro: IBGE,
+2011 (adaptado). O mapa espacializa um recurso natural com
+alto potencial para ocorrência de:`,
     images: ['/enem/2022/images/enem_2022_d1_q82.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Abalos sísmicos periódicos.` },
@@ -3398,10 +3016,8 @@ saber ancorado na sensibilidade?`,
       { id: 'A', type: 'text', value: `Admitindo o belo como fenômeno transcendental.` },
       { id: 'B', type: 'text', value: `Reafirmando a vivência estética como juízo de gosto.` },
       { id: 'C', type: 'text', value: `Considerando o olhar como experiência de conhecimento.` },
-      { id: 'D', type: 'text', value: `Apontando as formas de expressão como auxiliares 
-da razão.` },
-      { id: 'E', type: 'text', value: `Estabelecendo a inteligência como implicação das 
-representações.` },
+      { id: 'D', type: 'text', value: `Apontando as formas de expressão como auxiliares da razão.` },
+      { id: 'E', type: 'text', value: `Estabelecendo a inteligência como implicação das representações.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Merleau-Ponty valoriza a filosofia da percepção que reaprende a ver o mundo e Deleuze afirma que os cineastas pensam por imagens, de modo que ambos sustentam um saber ancorado na sensibilidade ao considerar o olhar como experiência de conhecimento. Admitir o belo como fenômeno transcendental (A) e reafirmar a vivência estética como juízo de gosto (B) remetem à estética kantiana, não ao argumento dos textos. Apontar as formas de expressão como auxiliares da razão (D) e estabelecer a inteligência como implicação das representações (E) subordinam a sensibilidade ao intelecto, invertendo a tese central de que o sensível é fonte de conhecimento.`,
@@ -3559,8 +3175,7 @@ diversidade de`,
       { id: 'B', type: 'text', value: `materiais bélicos pilhados em batalhas coloniais.` },
       { id: 'C', type: 'text', value: `heranças culturais constituídas em saberes próprios.` },
       { id: 'D', type: 'text', value: `costumes laborais moldados em estilos estrangeiros.` },
-      { id: 'E', type: 'text', value: `práticas medicinais alicerçadas no conhecimento 
-científico.` },
+      { id: 'E', type: 'text', value: `práticas medicinais alicerçadas no conhecimento científico.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Galeano ressalta a astronomia e a matemática dos maias, a eficiência dos astecas e as cirurgias dos incas, mostrando que essas sociedades deixaram como legado heranças culturais constituídas em saberes próprios, desenvolvidos de forma autônoma. Bens religiosos inspirados na matriz cristã (A) são anacrônicos para civilizações pré-colombianas. Materiais bélicos pilhados em batalhas coloniais (B) não são o legado destacado. Costumes laborais moldados em estilos estrangeiros (D) contrariam a originalidade enfatizada. Práticas medicinais alicerçadas no conhecimento científico moderno (E) distorcem o texto, que valoriza saberes autóctones anteriores à chegada europeia.`,
@@ -3683,43 +3298,17 @@ O texto aborda relações interpessoais com o objetivo de`,
     exam: 'enem',
     subject: ['ing'],
     topics: ['Interpretação de texto', 'Questões aleatórias'],
-    text: `NOW THAT YOU ARE MY
-BRIDE, YOU WILL NEVER
-LEAVE THIS CASTLE!
-WOW! YOUR
-LIBRARY IS
-AMAZING!
-BEYOND THE CASTLE IS
-GATE, AND BEYOND THAT
-IS A DEEP, DARK FOREST
-WITH NO PATH.
-I SUPPOSE IT´S
-MY LIBRARY TOO,
-NOW WE‛ RE
-MARRIED.
-THE FOREST IS CRAWLING
-WITH RAVENOUS WOLVES,
-MALIGNANT BIRDS AND
-THE SPIRITS OF LONG-
-DEAD TRAVELLERS.
-SO MANY BOOKS!
-I CAN´T BELIEVE
-MY LUCK!
-WHEN THE SUN SETS,
-I TRANSFORM INTO A WILD
-BEAST AND SOAR INTO
-THE NIGHT, SEIZED BY
-OK. I´LL STAY
-HERE AND READ.
-SEE YOU IN THE
-MORNING.
-GAULD, T. Disponível em: www.tomgauld.com. Acesso em: 25 out. 2021.
-Nessa tirinha, o comportamento da mulher expressa
-A
-B
-C
-D
-E`,
+    text: `NOW THAT YOU ARE MY BRIDE, YOU WILL NEVER LEAVE THIS CASTLE!
+WOW! YOUR LIBRARY IS AMAZING! BEYOND THE CASTLE IS GATE, AND
+BEYOND THAT IS A DEEP, DARK FOREST WITH NO PATH. I SUPPOSE
+IT´S MY LIBRARY TOO, NOW WE‛ RE MARRIED. THE FOREST IS
+CRAWLING WITH RAVENOUS WOLVES, MALIGNANT BIRDS AND THE SPIRITS
+OF LONG-DEAD TRAVELLERS. SO MANY BOOKS! I CAN´T BELIEVE MY
+LUCK! WHEN THE SUN SETS, I TRANSFORM INTO A WILD BEAST AND
+SOAR INTO THE NIGHT, SEIZED BY OK. I´LL STAY HERE AND READ.
+SEE YOU IN THE MORNING. GAULD, T. Disponível em:
+www.tomgauld.com. Acesso em: 25 out. 2021. Nessa tirinha, o
+comportamento da mulher expressa A B C D E`,
     images: ['/enem/2022/images/enem_2022_d1_q93.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `revolta com a falta de sorte.` },
@@ -3739,28 +3328,21 @@ E`,
     exam: 'enem',
     subject: ['ing'],
     topics: ['Vocabulário', 'Interpretação de texto', 'Questões aleatórias'],
-    text: `Instagram is made up of all photos and vídeos. There
-is the home page that showcases the posts from people
-you follow, an explore tab which offers posts from accounts
-all over the world, and your own page, with a notification
-tab to show who likes and comments on your posts.
-It has some downsides though. It is known to make
-many people feel insecure or down about themselves
-because the platform showcases the highlights of
-everyone’s lives, while rarely showing the negatives.
-This can make one feel like their life is not going as well
-as others, contributing to the growing rates of anxiety or
-depression in many teens today. There is an underlying
-desire for acceptance through the number of likes or
-followers one has.
-Disponível em: https://cyberbullying.org. Acesso em: 29 out. 2021.
-O termo “downsides” introduz a ideia de que o Instagram
-é responsável por
-A
-B
-C
-D
-E`,
+    text: `Instagram is made up of all photos and vídeos. There is the
+home page that showcases the posts from people you follow, an
+explore tab which offers posts from accounts all over the
+world, and your own page, with a notification tab to show who
+likes and comments on your posts. It has some downsides
+though. It is known to make many people feel insecure or down
+about themselves because the platform showcases the highlights
+of everyone’s lives, while rarely showing the negatives. This
+can make one feel like their life is not going as well as
+others, contributing to the growing rates of anxiety or
+depression in many teens today. There is an underlying desire
+for acceptance through the number of likes or followers one
+has. Disponível em: https://cyberbullying.org. Acesso em: 29
+out. 2021. O termo “downsides” introduz a ideia de que o
+Instagram é responsável por A B C D E`,
     images: null,
     alternatives: [
       { id: 'A', type: 'text', value: `oferecer recursos de fotografia.` },
@@ -3780,27 +3362,14 @@ E`,
     exam: 'enem',
     subject: ['ing'],
     topics: ['Interpretação de texto', 'Questões aleatórias'],
-    text: `I tend the mobile now
-like an injured bird
-We text, text, text
-our significant words.
-I re-read your first,
-your second, your third,
-Look for your small xx,
-feeling absurd.
-The codes we send
-arrive with a broken chord.
-I try to picture your hands,
-their image is blurred.
-Nothing my thumbs press
-will ever be heard.
-DUFFY, C. Disponível em: www.independent.co.uk. Acesso em: 27 out. 2021.
-Nesse poema, o eu lírico evidencia um sentimento de
-A
-B
-C
-D
-E`,
+    text: `I tend the mobile now like an injured bird We text, text, text
+our significant words. I re-read your first, your second, your
+third, Look for your small xx, feeling absurd. The codes we
+send arrive with a broken chord. I try to picture your hands,
+their image is blurred. Nothing my thumbs press will ever be
+heard. DUFFY, C. Disponível em: www.independent.co.uk. Acesso
+em: 27 out. 2021. Nesse poema, o eu lírico evidencia um
+sentimento de A B C D E`,
     images: null,
     alternatives: [
       { id: 'A', type: 'text', value: `contentamento com a interação virtual.` },

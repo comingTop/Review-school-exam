@@ -74,14 +74,10 @@ O título da palestra, citado no texto, antecipa o tema que
 será tratado e mostra que o autor tem a intenção de`,
     alternatives: [
       { id: 'A', type: 'text', value: `relatar novas experiências em tratamento de saúde.` },
-      { id: 'B', type: 'text', value: `alertar sobre os riscos mortais de determinados 
-softwares de uso médico para o ser humano.` },
-      { id: 'C', type: 'text', value: `denunciar falhas médicas na implantação de 
-softwares em seres humanos.` },
-      { id: 'D', type: 'text', value: `divulgar novos softwares presentes em aparelhos 
-médicos lançados no mercado.` },
-      { id: 'E', type: 'text', value: `apresentar os defeitos mais comuns de softwares 
-em aparelhos médicos.` },
+      { id: 'B', type: 'text', value: `alertar sobre os riscos mortais de determinados softwares de uso médico para o ser humano.` },
+      { id: 'C', type: 'text', value: `denunciar falhas médicas na implantação de softwares em seres humanos.` },
+      { id: 'D', type: 'text', value: `divulgar novos softwares presentes em aparelhos médicos lançados no mercado.` },
+      { id: 'E', type: 'text', value: `apresentar os defeitos mais comuns de softwares em aparelhos médicos.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto trata do risco potencialmente mortal das falhas de software em aparelhos médicos implantáveis, como marcapassos, tema da palestra cujo título ('Muerto por el código') antecipa esse perigo. A intenção do autor é, portanto, alertar sobre os riscos mortais de determinados softwares de uso médico para o ser humano, como diz a alternativa B. A alternativa C fala em denunciar falhas médicas na implantação, deslocando o foco das falhas do programa para o procedimento; a E reduz o texto à apresentação de defeitos comuns, sem o teor de advertência; a A e a D invertem o sentido, pois o texto não relata novos tratamentos nem divulga lançamentos de produtos.`,
@@ -121,16 +117,11 @@ da 34ª Sessão do Comitê do Patrimônio Mundial,
 destaca-se a`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `participação em reuniões do Conselho Internacional 
-de Monumentos e Sítios.` },
-      { id: 'B', type: 'text', value: `realização da cerimônia de recepção da Convenção 
-do Patrimônio Mundial.` },
-      { id: 'C', type: 'text', value: `organização das análises feitas pelo Ministério da 
-Cultura brasileiro.` },
-      { id: 'D', type: 'text', value: `discussão sobre o estado de conservação dos bens 
-já declarados patrimônios mundiais.` },
-      { id: 'E', type: 'text', value: `estruturação da próxima reunião do Comitê do 
-Patrimônio Mundial.` },
+      { id: 'A', type: 'text', value: `participação em reuniões do Conselho Internacional de Monumentos e Sítios.` },
+      { id: 'B', type: 'text', value: `realização da cerimônia de recepção da Convenção do Patrimônio Mundial.` },
+      { id: 'C', type: 'text', value: `organização das análises feitas pelo Ministério da Cultura brasileiro.` },
+      { id: 'D', type: 'text', value: `discussão sobre o estado de conservação dos bens já declarados patrimônios mundiais.` },
+      { id: 'E', type: 'text', value: `estruturação da próxima reunião do Comitê do Patrimônio Mundial.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto apresenta a 34ª Sessão do Comitê do Patrimônio Mundial da Unesco e explica que o órgão se reúne para deliberar sobre novas candidaturas e sobre o estado de conservação e de risco dos bens já declarados Patrimônio Mundial. Entre as tarefas atribuídas às delegações, destaca-se, assim, a discussão sobre o estado de conservação desses bens já reconhecidos, conforme a alternativa D. A alternativa B confunde a boas-vindas (recepção) com uma cerimônia da Convenção; a C atribui ao Ministério da Cultura brasileiro análises que são feitas por conselhos internacionais (Icomos, ICCROM, IUCN); a A reduz o trabalho à mera participação em reuniões; e a E projeta a pauta para uma próxima sessão, não para a 34ª.`,
@@ -172,16 +163,11 @@ pode influenciar, retratar ou, inclusive, ser reflexo de
 acontecimentos de sua história, o tango, dentro do 
 contexto histórico argentino, é reconhecido por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `manter-se inalterado ao longo de sua história no 
-país.` },
-      { id: 'B', type: 'text', value: `influenciar os subúrbios, sem chegar a outras 
-regiões.` },
-      { id: 'C', type: 'text', value: `sobreviver e se difundir, ultrapassando as fronteiras 
-do país.` },
-      { id: 'D', type: 'text', value: `manifestar seu valor primitivo nas diferentes 
-camadas sociais.` },
-      { id: 'E', type: 'text', value: `ignorar a influência de países europeus, como 
-Inglaterra e França.` },
+      { id: 'A', type: 'text', value: `manter-se inalterado ao longo de sua história no país.` },
+      { id: 'B', type: 'text', value: `influenciar os subúrbios, sem chegar a outras regiões.` },
+      { id: 'C', type: 'text', value: `sobreviver e se difundir, ultrapassando as fronteiras do país.` },
+      { id: 'D', type: 'text', value: `manifestar seu valor primitivo nas diferentes camadas sociais.` },
+      { id: 'E', type: 'text', value: `ignorar a influência de países europeus, como Inglaterra e França.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto mostra a trajetória do tango, que nasceu na Argentina, ganhou os salões de Paris nos anos 1920, foi revivido por grupos de rock e difundido pelo mundo por meio de filmes estrangeiros. Essa capacidade de sobreviver e se espalhar para além das fronteiras do país confirma a alternativa C. A alternativa A contraria o texto, que descreve mudanças e não a permanência inalterada do gênero; a B limita sua influência aos subúrbios; a D fala em valor primitivo, quando o texto registra sua renovação; e a E nega a influência europeia, justamente apontada no contato com Londres e Paris.`,
@@ -222,17 +208,11 @@ A partir do que se afirma no último parágrafo: “Es
 necesario saber para empezar a actuar...”, pode-se 
 constatar que o texto foi escrito com a intenção de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `informar o leitor a respeito da importância da 
-reciclagem para a conservação do meio ambiente.` },
-      { id: 'B', type: 'text', value: `indicar os cuidados que se deve ter para não consumir 
-alimentos que podem ser focos de infecção.` },
-      { id: 'C', type: 'text', value: `denunciar o quanto o consumismo é nocivo, pois é o 
-gerador dos dejetos produzidos no México.` },
-      { id: 'D', type: 'text', value: `ensinar como economizar tempo, dinheiro e esforço 
-a partir dos 50 mil depósitos de lixo legalizados.` },
-      { id: 'E', type: 'text', value: `alertar a população mexicana para os perigos 
-causados pelos consumidores de matéria-prima 
-reciclável.` },
+      { id: 'A', type: 'text', value: `informar o leitor a respeito da importância da reciclagem para a conservação do meio ambiente.` },
+      { id: 'B', type: 'text', value: `indicar os cuidados que se deve ter para não consumir alimentos que podem ser focos de infecção.` },
+      { id: 'C', type: 'text', value: `denunciar o quanto o consumismo é nocivo, pois é o gerador dos dejetos produzidos no México.` },
+      { id: 'D', type: 'text', value: `ensinar como economizar tempo, dinheiro e esforço a partir dos 50 mil depósitos de lixo legalizados.` },
+      { id: 'E', type: 'text', value: `alertar a população mexicana para os perigos causados pelos consumidores de matéria-prima reciclável.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto expõe o volume de lixo produzido no México e defende o consumo racional e a reciclagem como formas de economizar energia, água e matérias-primas e de reduzir o impacto ambiental. A frase final ('É necessário saber para começar a agir') revela a intenção de informar o leitor sobre a importância da reciclagem para a conservação do meio ambiente, como traz a alternativa A. A alternativa C desloca o foco para a denúncia do consumismo, e a E, para um alerta aos consumidores de matéria-prima reciclável; a B trata de alimentos como focos de infecção, e a D, de economia de recursos a partir dos depósitos legalizados, detalhes secundários no texto.`,
@@ -250,16 +230,11 @@ as academias de ginástica, as salas de musculação e o número de pessoas corr
 SECRETARIA DA EDUCAÇÃO. Caderno do professor: educação física. São Paulo, 2008. 
 Diante do exposto, é possível perceber que houve um aumento da procura por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `exercícios físicos aquáticos (natação/hidroginástica), que são exercícios de baixo impacto, evitando o atrito 
-(não prejudicando as articulações), e que previnem o envelhecimento precoce e melhoram a qualidade de vida.` },
-      { id: 'B', type: 'text', value: `mecanismos que permitem combinar alimentação e exercício físico, que permitem a aquisição e manutenção de 
-níveis adequados de saúde, sem a preocupação com padrões de beleza instituídos socialmente.` },
-      { id: 'C', type: 'text', value: `programas saudáveis de emagrecimento, que evitam os prejuízos causados na regulação metabólica, função 
-imunológica, integridade óssea e manutenção da capacidade funcional ao longo do envelhecimento.` },
-      { id: 'D', type: 'text', value: `exercícios de relaxamento, reeducação postural e alongamentos, que permitem um melhor funcionamento do 
-organismo como um todo, bem como uma dieta alimentar e hábitos saudáveis com base em produtos naturais.` },
-      { id: 'E', type: 'text', value: `dietas que preconizam a ingestão excessiva ou restrita de um ou mais macronutrientes (carboidratos, gorduras 
-ou proteínas), bem como exercícios que permitem um aumento de massa muscular e/ou modelar o corpo.` },
+      { id: 'A', type: 'text', value: `exercícios físicos aquáticos (natação/hidroginástica), que são exercícios de baixo impacto, evitando o atrito (não prejudicando as articulações), e que previnem o envelhecimento precoce e melhoram a qualidade de vida.` },
+      { id: 'B', type: 'text', value: `mecanismos que permitem combinar alimentação e exercício físico, que permitem a aquisição e manutenção de níveis adequados de saúde, sem a preocupação com padrões de beleza instituídos socialmente.` },
+      { id: 'C', type: 'text', value: `programas saudáveis de emagrecimento, que evitam os prejuízos causados na regulação metabólica, função imunológica, integridade óssea e manutenção da capacidade funcional ao longo do envelhecimento.` },
+      { id: 'D', type: 'text', value: `exercícios de relaxamento, reeducação postural e alongamentos, que permitem um melhor funcionamento do organismo como um todo, bem como uma dieta alimentar e hábitos saudáveis com base em produtos naturais.` },
+      { id: 'E', type: 'text', value: `dietas que preconizam a ingestão excessiva ou restrita de um ou mais macronutrientes (carboidratos, gorduras ou proteínas), bem como exercícios que permitem um aumento de massa muscular e/ou modelar o corpo.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto afirma que, na modernidade, o corpo passou a ser modelado pelos exercícios da moda e por padrões de beleza, o que multiplicou academias e práticas voltadas à estética corporal. Diante disso, infere-se o aumento da procura por dietas e exercícios destinados a ganhar massa muscular e a modelar o corpo, como descreve a alternativa E. As alternativas A, B, C e D associam a atividade física a finalidades de saúde, prevenção e qualidade de vida, que são legítimas, mas não correspondem ao enfoque estético e de modelagem do corpo apresentado no texto.`,
@@ -320,22 +295,11 @@ de blocos autônomos de texto, apresentado em meio
 eletrônico computadorizado e no qual há remissões 
 associando entre si diversos elementos, o hipertexto`,
     alternatives: [
-      { id: 'A', type: 'text', value: `é uma estratégia que, ao possibilitar caminhos 
-totalmente abertos, desfavorece o leitor, ao confundir 
-os conceitos cristalizados tradicionalmente.` },
-      { id: 'B', type: 'text', value: `é uma forma artificial de produção da escrita, 
-que, ao desviar o foco da leitura, pode ter como 
-consequência o menosprezo pela escrita tradicional.` },
-      { id: 'C', type: 'text', value: `exige do leitor um maior grau de conhecimentos 
-prévios, por isso deve ser evitado pelos estudantes 
-nas suas pesquisas escolares.` },
-      { id: 'D', type: 'text', value: `facilita a pesquisa, pois proporciona uma informação 
-específica, segura e verdadeira, em qualquer site de 
-busca ou blog oferecidos na internet.` },
-      { id: 'E', type: 'text', value: `possibilita ao leitor escolher seu próprio percurso 
-de leitura, sem seguir sequência predeterminada, 
-constituindo-se em atividade mais coletiva e 
-colaborativa.` },
+      { id: 'A', type: 'text', value: `é uma estratégia que, ao possibilitar caminhos totalmente abertos, desfavorece o leitor, ao confundir os conceitos cristalizados tradicionalmente.` },
+      { id: 'B', type: 'text', value: `é uma forma artificial de produção da escrita, que, ao desviar o foco da leitura, pode ter como consequência o menosprezo pela escrita tradicional.` },
+      { id: 'C', type: 'text', value: `exige do leitor um maior grau de conhecimentos prévios, por isso deve ser evitado pelos estudantes nas suas pesquisas escolares.` },
+      { id: 'D', type: 'text', value: `facilita a pesquisa, pois proporciona uma informação específica, segura e verdadeira, em qualquer site de busca ou blog oferecidos na internet.` },
+      { id: 'E', type: 'text', value: `possibilita ao leitor escolher seu próprio percurso de leitura, sem seguir sequência predeterminada, constituindo-se em atividade mais coletiva e colaborativa.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Os textos definem o hipertexto como escrita eletrônica não linear, que permite ao leitor escolher caminhos sucessivos e tornar-se coautor do texto final. Essa caracterização corresponde à alternativa E, que destaca a liberdade de percurso do leitor, sem sequência predeterminada, em atividade colaborativa. As alternativas A e B atribuem ao hipertexto efeitos negativos (confundir conceitos ou menosprezar a escrita tradicional) que o texto não defende; a C recomenda evitá-lo nas pesquisas escolares, contrariando sua valorização; e a D afirma que ele garante informação específica, segura e verdadeira, generalização que o texto não sustenta.`,
@@ -385,16 +349,11 @@ literariamente pela pergunta “Como então dizer quem
 fala / ora a Vossas Senhorias?”. A resposta à pergunta 
 expressa no poema é dada por meio da`,
     alternatives: [
-      { id: 'A', type: 'text', value: `descrição minuciosa dos traços biográficos do 
-personagem-narrador.` },
-      { id: 'B', type: 'text', value: `construção da figura do retirante nordestino como 
-um homem resignado com a sua situação.` },
-      { id: 'C', type: 'text', value: `representação, na figura do personagem-narrador, 
-de outros Severinos que compartilham sua condição.` },
-      { id: 'D', type: 'text', value: `apresentação do personagem-narrador como uma 
-projeção do próprio poeta, em sua crise existencial.` },
-      { id: 'E', type: 'text', value: `descrição de Severino, que, apesar de humilde, 
-orgulha-se de ser descendente do coronel Zacarias.` },
+      { id: 'A', type: 'text', value: `descrição minuciosa dos traços biográficos do personagem-narrador.` },
+      { id: 'B', type: 'text', value: `construção da figura do retirante nordestino como um homem resignado com a sua situação.` },
+      { id: 'C', type: 'text', value: `representação, na figura do personagem-narrador, de outros Severinos que compartilham sua condição.` },
+      { id: 'D', type: 'text', value: `apresentação do personagem-narrador como uma projeção do próprio poeta, em sua crise existencial.` },
+      { id: 'E', type: 'text', value: `descrição de Severino, que, apesar de humilde, orgulha-se de ser descendente do coronel Zacarias.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No trecho de Morte e Vida Severina, o retirante Severino se apresenta e, quanto mais tenta se definir, menos se individualiza, pois seus traços são partilhados por tantos outros Severinos, como esclarece a análise crítica do Texto II. A resposta à pergunta 'Como então dizer quem fala?' está, portanto, na representação de uma coletividade de Severinos que compartilham a mesma condição, conforme a alternativa C. A alternativa A contraria o poema, em que a biografia é genérica, não minuciosa; a B e a D desviam para a resignação ou para a projeção autobiográfica do poeta; e a E inventa um orgulho de ascendência que não existe no texto.`,
@@ -415,16 +374,11 @@ Terror”, de um parque de diversões. O entendimento da
 propaganda requer do leitor`,
     images: ['/enem/2011/images/enem_2011_d2_q100.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a identificação com o público-alvo a que se destina 
-o anúncio.` },
-      { id: 'B', type: 'text', value: `a avaliação da imagem como uma sátira às atrações 
-de terror.` },
-      { id: 'C', type: 'text', value: `a atenção para a imagem da parte do corpo humano 
-selecionada aleatoriamente.` },
-      { id: 'D', type: 'text', value: `o reconhecimento do intertexto entre a publicidade e 
-um dito popular.` },
-      { id: 'E', type: 'text', value: `a percepção do sentido literal da expressão “noites 
-do terror”, equivalente à expressão “noites de terror”.` },
+      { id: 'A', type: 'text', value: `a identificação com o público-alvo a que se destina o anúncio.` },
+      { id: 'B', type: 'text', value: `a avaliação da imagem como uma sátira às atrações de terror.` },
+      { id: 'C', type: 'text', value: `a atenção para a imagem da parte do corpo humano selecionada aleatoriamente.` },
+      { id: 'D', type: 'text', value: `o reconhecimento do intertexto entre a publicidade e um dito popular.` },
+      { id: 'E', type: 'text', value: `a percepção do sentido literal da expressão “noites do terror”, equivalente à expressão “noites de terror”.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O anúncio da atração 'Noites do Terror' usa a frase 'Quem é morto sempre aparece', que retoma e subverte um dito popular conhecido, combinando-a à imagem do corpo com etiqueta no pé. O entendimento da propaganda depende, assim, de o leitor reconhecer a intertextualidade entre a publicidade e esse ditado popular, como indica a alternativa D. A alternativa E restringe a leitura ao sentido literal da expressão; a A e a B falam em identificação com o público-alvo e em sátira às atrações, aspectos secundários; e a C erra ao supor que a parte do corpo foi selecionada aleatoriamente, quando a escolha reforça o apelo de terror.`,
@@ -470,10 +424,8 @@ refere a valores e situações de um povo. A atualidade
 da canção Onde está a honestidade? , de Noel Rosa, 
 evidencia-se por meio`,
     alternatives: [
-      { id: 'A', type: 'text', value: `da ironia, ao se referir ao enriquecimento de origem 
-duvidosa de alguns.` },
-      { id: 'B', type: 'text', value: `da crítica aos ricos que possuem joias, mas não têm 
-herança.` },
+      { id: 'A', type: 'text', value: `da ironia, ao se referir ao enriquecimento de origem duvidosa de alguns.` },
+      { id: 'B', type: 'text', value: `da crítica aos ricos que possuem joias, mas não têm herança.` },
       { id: 'C', type: 'text', value: `da maldade do povo a perguntar sobre a honestidade.` },
       { id: 'D', type: 'text', value: `do privilégio de alguns em clamar pela honestidade.` },
       { id: 'E', type: 'text', value: `da insistência em promover eventos beneficentes.` },
@@ -511,20 +463,11 @@ e pela relação de dependência entre agregados e
 fazendeiros. No texto, destaca-se essa relação porque 
 o personagem-narrador`,
     alternatives: [
-      { id: 'A', type: 'text', value: `relata a seu interlocutor a história de Zé-Zim, 
-demonstrando sua pouca disposição em ajudar seus 
-agregados, uma vez que superou essa condição 
-graças à sua força de trabalho.` },
-      { id: 'B', type: 'text', value: `descreve o processo de transformação de um meeiro 
-- espécie de agregado - em proprietário de terra.` },
-      { id: 'C', type: 'text', value: `denuncia a falta de compromisso e a desocupação 
-dos moradores, que pouco se envolvem no trabalho 
-da terra.` },
-      { id: 'D', type: 'text', value: `mostra como a condição material da vida do 
-sertanejo é dificultada pela sua dupla condição de 
-homem livre e, ao mesmo tempo, dependente.` },
-      { id: 'E', type: 'text', value: `mantém o distanciamento narrativo condizente com 
-sua posição social, de proprietário de terras.` },
+      { id: 'A', type: 'text', value: `relata a seu interlocutor a história de Zé-Zim, demonstrando sua pouca disposição em ajudar seus agregados, uma vez que superou essa condição graças à sua força de trabalho.` },
+      { id: 'B', type: 'text', value: `descreve o processo de transformação de um meeiro - espécie de agregado - em proprietário de terra.` },
+      { id: 'C', type: 'text', value: `denuncia a falta de compromisso e a desocupação dos moradores, que pouco se envolvem no trabalho da terra.` },
+      { id: 'D', type: 'text', value: `mostra como a condição material da vida do sertanejo é dificultada pela sua dupla condição de homem livre e, ao mesmo tempo, dependente.` },
+      { id: 'E', type: 'text', value: `mantém o distanciamento narrativo condizente com sua posição social, de proprietário de terras.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. Na passagem de Grande Sertão: Veredas, Riobaldo descreve Zé-Zim e os agregados que, como ele, vivem em terra alheia, numa relação de dependência típica das áreas rurais de concentração fundiária. O texto destaca essa desigualdade porque mostra como a vida material do sertanejo é dificultada por sua dupla condição de homem formalmente livre e, ao mesmo tempo, dependente do fazendeiro, como diz a alternativa D. A alternativa A afirma pouca disposição de Riobaldo em ajudar, o que o texto não sustenta; a B supõe ascensão do meeiro a proprietário; a C acusa os moradores de desocupação; e a E coloca o narrador como proprietário distante, contrariando sua posição.`,
@@ -556,18 +499,11 @@ Ao refletir sobre a possível extinção do livro impresso
 e o surgimento de outros suportes em via eletrônica, o 
 cronista manifesta seu ponto de vista, defendendo que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o cordel é um dos gêneros textuais, por exemplo, 
-que será extinto com o avanço da tecnologia.` },
-      { id: 'B', type: 'text', value: `o livro impresso permanecerá como objeto cultural 
-veiculador de impressões e de valores culturais.` },
-      { id: 'C', type: 'text', value: `o surgimento da mídia eletrônica decretou o fim do 
-prazer de se ler textos em livros e suportes impressos.` },
-      { id: 'D', type: 'text', value: `os textos continuarão vivos e passíveis de 
-reprodução em novas tecnologias, mesmo que os 
-livros desapareçam.` },
-      { id: 'E', type: 'text', value: `os livros impressos desaparecerão e, com eles, 
-a possibilidade de se ler obras literárias dos mais 
-diversos gêneros.` },
+      { id: 'A', type: 'text', value: `o cordel é um dos gêneros textuais, por exemplo, que será extinto com o avanço da tecnologia.` },
+      { id: 'B', type: 'text', value: `o livro impresso permanecerá como objeto cultural veiculador de impressões e de valores culturais.` },
+      { id: 'C', type: 'text', value: `o surgimento da mídia eletrônica decretou o fim do prazer de se ler textos em livros e suportes impressos.` },
+      { id: 'D', type: 'text', value: `os textos continuarão vivos e passíveis de reprodução em novas tecnologias, mesmo que os livros desapareçam.` },
+      { id: 'E', type: 'text', value: `os livros impressos desaparecerão e, com eles, a possibilidade de se ler obras literárias dos mais diversos gêneros.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O cronista compara o temido fim do livro de papel à discussão sobre a obsolescência do folheto de cordel e conclui que os textos são imortais, capazes de 'reencarnar' em diferentes suportes (livro impresso, Braille, PDF, chips). Seu ponto de vista é o de que os textos continuarão vivos e reproduzíveis em novas tecnologias mesmo que os livros desapareçam, como traz a alternativa D. A alternativa A prevê a extinção do cordel, contrário ao texto; a C afirma o fim do prazer de ler em suportes impressos; a E aposta no desaparecimento das obras literárias; e a B limita-se ao livro impresso, sem captar a tese sobre a permanência do texto em qualquer suporte.`,
@@ -605,18 +541,11 @@ são modernas. Nesse fragmento do samba Não tem
 tradução , por meio do recurso da metalinguagem, o 
 poeta propõe`,
     alternatives: [
-      { id: 'A', type: 'text', value: `incorporar novos costumes de origem francesa e 
-americana, juntamente com vocábulos estrangeiros.` },
-      { id: 'B', type: 'text', value: `respeitar e preservar o português padrão como 
-forma de fortalecimento do idioma do Brasil.` },
-      { id: 'C', type: 'text', value: `valorizar a fala popular brasileira como patrimônio 
-linguístico e forma legítima de identidade nacional.` },
-      { id: 'D', type: 'text', value: `mudar os valores sociais vigentes à época, com o 
-advento do novo e quente ritmo da música popular 
-brasileira.` },
-      { id: 'E', type: 'text', value: `ironizar a malandragem carioca, aculturada pela 
-invasão de valores étnicos de sociedades mais 
-desenvolvidas.` },
+      { id: 'A', type: 'text', value: `incorporar novos costumes de origem francesa e americana, juntamente com vocábulos estrangeiros.` },
+      { id: 'B', type: 'text', value: `respeitar e preservar o português padrão como forma de fortalecimento do idioma do Brasil.` },
+      { id: 'C', type: 'text', value: `valorizar a fala popular brasileira como patrimônio linguístico e forma legítima de identidade nacional.` },
+      { id: 'D', type: 'text', value: `mudar os valores sociais vigentes à época, com o advento do novo e quente ritmo da música popular brasileira.` },
+      { id: 'E', type: 'text', value: `ironizar a malandragem carioca, aculturada pela invasão de valores étnicos de sociedades mais desenvolvidas.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No samba 'Não tem tradução', Noel Rosa usa a metalinguagem para afirmar que o samba e a gíria do morro não se traduzem no idioma francês e que o 'malandro' fala uma língua genuinamente brasileira. Com isso, o poeta valoriza a fala popular como patrimônio linguístico e como forma legítima de identidade nacional, conforme a alternativa C. As alternativas A e E invertem o sentido, pois o texto rejeita a adoção de costumes e vocábulos estrangeiros; a B defende o português padrão, que não é o foco; e a D fala em mudar valores sociais, o que o samba não propõe.`,
@@ -643,30 +572,11 @@ rítmica, envolve a expressão corporal própria de um
 povo. Considerando-a como elemento folclórico, a 
 dança revela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `manifestações afetivas, históricas, ideológicas, 
-intelectuais e espirituais de um povo, refletindo seu 
-modo de expressar-se no mundo.` },
-      { id: 'B', type: 'text', value: `aspectos eminentemente afetivos, espirituais e de 
-entretenimento de um povo, desconsiderando fatos 
-históricos.` },
-      { id: 'C', type: 'text', value: `acontecimentos 
-do 
-cotidiano, 
-sob 
-influência 
-mitológica e religiosa de cada região, sobrepondo 
-aspectos políticos.` },
-      { id: 'D', type: 'text', value: `tradições 
-culturais 
-de 
-cada 
-região, 
-cujas 
-manifestações rítmicas são classificadas em um 
-ranking das mais originais.` },
-      { id: 'E', type: 'text', value: `lendas, que se sustentam em inverdades históricas, 
-uma vez que são inventadas, e servem apenas para 
-a vivência lúdica de um povo.` },
+      { id: 'A', type: 'text', value: `manifestações afetivas, históricas, ideológicas, intelectuais e espirituais de um povo, refletindo seu modo de expressar-se no mundo.` },
+      { id: 'B', type: 'text', value: `aspectos eminentemente afetivos, espirituais e de entretenimento de um povo, desconsiderando fatos históricos.` },
+      { id: 'C', type: 'text', value: `acontecimentos do cotidiano, sob influência mitológica e religiosa de cada região, sobrepondo aspectos políticos.` },
+      { id: 'D', type: 'text', value: `tradições culturais de cada região, cujas manifestações rítmicas são classificadas em um ranking das mais originais.` },
+      { id: 'E', type: 'text', value: `lendas, que se sustentam em inverdades históricas, uma vez que são inventadas, e servem apenas para a vivência lúdica de um povo.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto trata da dança como componente cultural e folclórico que representa as tradições, as crenças, a história e o cotidiano de um povo. Considerada como elemento folclórico, a dança revela as manifestações afetivas, históricas, ideológicas, intelectuais e espirituais de um povo e seu modo de expressar-se no mundo, como sintetiza a alternativa A. As demais alternativas são parciais ou contraditórias: a B e a C excluem fatos históricos ou sobrepõem aspectos políticos; a D reduz a dança a um ranking de originalidade; e a E trata as lendas como inverdades de função apenas lúdica, empobrecendo o sentido cultural proposto.`,
@@ -695,15 +605,11 @@ As ideias veiculadas no texto se organizam estabelecendo
 relações que atuam na construção do sentido. A esse 
 respeito, identifica-se, no fragmento, que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a expressão “Além disso” marca uma sequenciação 
-de ideias.` },
-      { id: 'B', type: 'text', value: `o conectivo “mas também” inicia oração que exprime 
-ideia de contraste.` },
-      { id: 'C', type: 'text', value: `o termo “como”, em “como morte súbita e derrame”, 
-introduz uma generalização.` },
+      { id: 'A', type: 'text', value: `a expressão “Além disso” marca uma sequenciação de ideias.` },
+      { id: 'B', type: 'text', value: `o conectivo “mas também” inicia oração que exprime ideia de contraste.` },
+      { id: 'C', type: 'text', value: `o termo “como”, em “como morte súbita e derrame”, introduz uma generalização.` },
       { id: 'D', type: 'text', value: `o termo “Também” exprime uma justificativa.` },
-      { id: 'E', type: 'text', value: `o termo “fatores” retoma coesivamente “níveis de 
-colesterol e de glicose no sangue”.` },
+      { id: 'E', type: 'text', value: `o termo “fatores” retoma coesivamente “níveis de colesterol e de glicose no sangue”.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A questão cobra as relações coesivas que organizam o texto sobre estilo de vida saudável. A expressão 'Além disso' introduz um novo argumento somado ao anterior, marcando uma sequenciação (adição) de ideias, o que valida a alternativa A. As outras alternativas erram na análise dos conectivos: 'mas também' não inicia ideia de contraste, e sim de adição (B); o 'como' em 'como morte súbita e derrame' introduz exemplificação, não generalização (C); 'Também' também soma informações, não exprime justificativa (D); e 'fatores' retoma o conjunto de elementos citados, e não apenas 'níveis de colesterol e de glicose no sangue' (E).`,
@@ -727,16 +633,11 @@ desenho de Niemeyer, das colunas do Palácio da
 Alvorada, observa-se`,
     images: ['/enem/2011/images/enem_2011_d2_q107.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a presença de um capitel muito simples, reforçando 
-a sustentação.` },
-      { id: 'B', type: 'text', value: `o traçado simples de amplas linhas curvas opostas, 
-resultando em formas marcantes.` },
-      { id: 'C', type: 'text', value: `a disposição simétrica das curvas, conferindo 
-saliência e distorção à base.` },
-      { id: 'D', type: 'text', value: `a oposição de curvas em concreto, configurando 
-certo peso e rebuscamento.` },
-      { id: 'E', type: 'text', value: `o excesso de linhas curvas, levando a um exagero 
-na ornamentação.` },
+      { id: 'A', type: 'text', value: `a presença de um capitel muito simples, reforçando a sustentação.` },
+      { id: 'B', type: 'text', value: `o traçado simples de amplas linhas curvas opostas, resultando em formas marcantes.` },
+      { id: 'C', type: 'text', value: `a disposição simétrica das curvas, conferindo saliência e distorção à base.` },
+      { id: 'D', type: 'text', value: `a oposição de curvas em concreto, configurando certo peso e rebuscamento.` },
+      { id: 'E', type: 'text', value: `o excesso de linhas curvas, levando a um exagero na ornamentação.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A imagem das colunas do Palácio da Alvorada, de Oscar Niemeyer, aliada à legenda 'imodesta' sobre as curvas copiadas pelo mundo, evidencia o traçado simples de amplas linhas curvas opostas que resultam em formas marcantes, conforme a alternativa B. A alternativa A fala em capitel reforçando a sustentação, elemento clássico que não caracteriza o projeto; a C atribui às curvas saliência e distorção na base; a D fala em peso e rebuscamento; e a E critica um excesso ornamental, leituras que contrariam a leveza e a simplicidade destacadas pela própria charge e pela obra.`,
@@ -769,17 +670,11 @@ das lutas, resultando, muitas vezes, em fatalidades.
 Portanto, o verdadeiro objetivo da aprendizagem desses 
 movimentos foi mal compreendido, afinal as lutas`,
     alternatives: [
-      { id: 'A', type: 'text', value: `se tornaram um esporte, mas eram praticadas com 
-o objetivo guerreiro a fim de garantir a sobrevivência.` },
-      { id: 'B', type: 'text', value: `apresentam a possibilidade de desenvolver o 
-autocontrole, o respeito ao outro e a formação do 
-caráter.` },
-      { id: 'C', type: 'text', value: `possuem como objetivo principal a “defesa pessoal” 
-por meio de golpes agressivos sobre o adversário.` },
-      { id: 'D', type: 'text', value: `sofreram transformações em seus princípios filosóficos 
-em razão de sua disseminação pelo mundo.` },
-      { id: 'E', type: 'text', value: `se disseminaram pela necessidade de luta pela 
-sobrevivência ou como filosofia pessoal de vida.` },
+      { id: 'A', type: 'text', value: `se tornaram um esporte, mas eram praticadas com o objetivo guerreiro a fim de garantir a sobrevivência.` },
+      { id: 'B', type: 'text', value: `apresentam a possibilidade de desenvolver o autocontrole, o respeito ao outro e a formação do caráter.` },
+      { id: 'C', type: 'text', value: `possuem como objetivo principal a “defesa pessoal” por meio de golpes agressivos sobre o adversário.` },
+      { id: 'D', type: 'text', value: `sofreram transformações em seus princípios filosóficos em razão de sua disseminação pelo mundo.` },
+      { id: 'E', type: 'text', value: `se disseminaram pela necessidade de luta pela sobrevivência ou como filosofia pessoal de vida.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto afirma que as lutas, antes de se tornarem esporte, tinham conotação guerreira ou apelo filosófico, e lamenta que seu verdadeiro objetivo tenha sido mal compreendido quando associado à violência urbana. Conclui-se, portanto, que as lutas apresentam a possibilidade de desenvolver o autocontrole, o respeito ao outro e a formação do caráter, como traz a alternativa B. As alternativas A, C e E retomam apenas as conotações iniciais (objetivo guerreiro, defesa pessoal, sobrevivência), sem captar a finalidade formativa; e a D reduz a mudança a uma transformação dos princípios filosóficos pela disseminação mundial.`,
@@ -791,35 +686,26 @@ sobrevivência ou como filosofia pessoal de vida.` },
     exam: 'enem',
     year: 2011,
     day: 2,
-    text: `O tema da velhice foi objeto de estudo de brilhantes 
-filósofos ao longo dos tempos. Um dos melhores livros 
-sobre o assunto foi escrito pelo pensador e orador 
-romano Cícero: A Arte do Envelhecimento . Cícero nota, 
-primeiramente, que todas as idades têm seus encantos 
-e suas dificuldades. E depois aponta para um paradoxo 
-da humanidade. Todos sonhamos ter uma vida longa, 
-o que significa viver muitos anos. Quando realizamos 
-a meta, em vez de celebrar o feito, nos atiramos a um 
-estado de melancolia e amargura. Ler as palavras de 
-Cícero sobre envelhecimento pode ajudar a aceitar 
-melhor a passagem do tempo. 
-NOGUEIRA, P. Saúde & Bem-Estar Antienvelhecimento. Época . 28 abr. 2008. 
-O 
-autor 
-discute 
-problemas 
-relacionados 
-ao 
-envelhecimento, apresentando argumentos que levam a 
-inferir que seu objetivo é`,
+    text: `O tema da velhice foi objeto de estudo de brilhantes filósofos
+ao longo dos tempos. Um dos melhores livros sobre o assunto
+foi escrito pelo pensador e orador romano Cícero: A Arte do
+Envelhecimento . Cícero nota, primeiramente, que todas as
+idades têm seus encantos e suas dificuldades. E depois aponta
+para um paradoxo da humanidade. Todos sonhamos ter uma vida
+longa, o que significa viver muitos anos. Quando realizamos a
+meta, em vez de celebrar o feito, nos atiramos a um estado de
+melancolia e amargura. Ler as palavras de Cícero sobre
+envelhecimento pode ajudar a aceitar melhor a passagem do
+tempo. NOGUEIRA, P. Saúde & Bem-Estar Antienvelhecimento.
+Época . 28 abr. 2008. O autor discute problemas relacionados
+ao envelhecimento, apresentando argumentos que levam a inferir
+que seu objetivo é`,
     alternatives: [
       { id: 'A', type: 'text', value: `esclarecer que a velhice é inevitável.` },
       { id: 'B', type: 'text', value: `contar fatos sobre a arte de envelhecer.` },
       { id: 'C', type: 'text', value: `defender a ideia de que a velhice é desagradável.` },
-      { id: 'D', type: 'text', value: `influenciar o leitor para que lute contra o 
-envelhecimento.` },
-      { id: 'E', type: 'text', value: `mostrar às pessoas que é possível aceitar, sem 
-angústia, o envelhecimento.` },
+      { id: 'D', type: 'text', value: `influenciar o leitor para que lute contra o envelhecimento.` },
+      { id: 'E', type: 'text', value: `mostrar às pessoas que é possível aceitar, sem angústia, o envelhecimento.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Apoiando-se em Cícero e em sua obra sobre o envelhecimento, o autor observa que todas as idades têm encantos e dificuldades e critica a melancolia de quem, ao alcançar a longevidade, se amarga em vez de celebrá-la. Seu objetivo é mostrar às pessoas que é possível aceitar o envelhecimento sem angústia, conforme a alternativa E. A alternativa A reduz o texto a esclarecer que a velhice é inevitável; a B, a contar fatos sobre a arte de envelhecer; a C afirma que a velhice é desagradável, contrariando o tom do autor; e a D propõe lutar contra o envelhecimento, oposto à ideia de aceitação defendida.`,
@@ -883,8 +769,7 @@ o texto pertence ao gênero`,
     alternatives: [
       { id: 'A', type: 'text', value: `anedota, pelo enredo e humor característicos.` },
       { id: 'B', type: 'text', value: `crônica, pela abordagem literária de fatos do cotidiano.` },
-      { id: 'C', type: 'text', value: `depoimento, pela apresentação de experiências 
-pessoais.` },
+      { id: 'C', type: 'text', value: `depoimento, pela apresentação de experiências pessoais.` },
       { id: 'D', type: 'text', value: `relato, pela descrição minuciosa de fatos verídicos.` },
       { id: 'E', type: 'text', value: `reportagem, pelo registro impessoal de situações reais.` },
     ],
@@ -912,16 +797,11 @@ apresentadas, é possível reconhecer elementos comuns
 entre os tipos de pinturas murais, tais como`,
     images: ['/enem/2011/images/enem_2011_d2_q112.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a preferência por tintas naturais, em razão de seu 
-efeito estético.` },
-      { id: 'B', type: 'text', value: `a inovação na técnica de pintura, rompendo com 
-modelos estabelecidos.` },
-      { id: 'C', type: 'text', value: `o registro do pensamento e das crenças das 
-sociedades em várias épocas.` },
-      { id: 'D', type: 'text', value: `a repetição dos temas e a restrição de uso pelas 
-classes dominantes.` },
-      { id: 'E', type: 'text', value: `o uso exclusivista da arte para atender aos interesses 
-da elite.` },
+      { id: 'A', type: 'text', value: `a preferência por tintas naturais, em razão de seu efeito estético.` },
+      { id: 'B', type: 'text', value: `a inovação na técnica de pintura, rompendo com modelos estabelecidos.` },
+      { id: 'C', type: 'text', value: `o registro do pensamento e das crenças das sociedades em várias épocas.` },
+      { id: 'D', type: 'text', value: `a repetição dos temas e a restrição de uso pelas classes dominantes.` },
+      { id: 'E', type: 'text', value: `o uso exclusivista da arte para atender aos interesses da elite.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O enunciado compara pinturas murais de épocas distintas: as inscrições pré-históricas da Toca do Salitre e o grafite urbano contemporâneo. O elemento comum reconhecível entre elas é o registro do pensamento e das crenças das sociedades ao longo do tempo, conforme a alternativa C. A alternativa A generaliza o uso de tintas naturais; a B atribui a ambas uma inovação técnica que rompe com modelos; a D fala em repetição de temas e restrição às classes dominantes; e a E vê uso exclusivista da arte a serviço da elite, leituras que não se sustentam diante das duas manifestações apresentadas.`,
@@ -958,17 +838,11 @@ cotidiano. No poema Estrada , o lirismo presente no
 contraste entre campo e cidade aponta para`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `o desejo do eu lírico de resgatar a movimentação 
-dos centros urbanos, o que revela sua nostalgia com 
-relação à cidade.` },
-      { id: 'B', type: 'text', value: `a percepção do caráter efêmero da vida, possibilitada 
-pela observação da aparente inércia da vida rural.` },
-      { id: 'C', type: 'text', value: `a opção do eu lírico pelo espaço bucólico como 
-possibilidade de meditação sobre a sua juventude.` },
-      { id: 'D', type: 'text', value: `a visão negativa da passagem do tempo, visto que 
-esta gera insegurança.` },
-      { id: 'E', type: 'text', value: `a profunda sensação de medo gerada pela reflexão 
-acerca da morte.` },
+      { id: 'A', type: 'text', value: `o desejo do eu lírico de resgatar a movimentação dos centros urbanos, o que revela sua nostalgia com relação à cidade.` },
+      { id: 'B', type: 'text', value: `a percepção do caráter efêmero da vida, possibilitada pela observação da aparente inércia da vida rural.` },
+      { id: 'C', type: 'text', value: `a opção do eu lírico pelo espaço bucólico como possibilidade de meditação sobre a sua juventude.` },
+      { id: 'D', type: 'text', value: `a visão negativa da passagem do tempo, visto que esta gera insegurança.` },
+      { id: 'E', type: 'text', value: `a profunda sensação de medo gerada pela reflexão acerca da morte.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. No poema 'Estrada', de Manuel Bandeira, o eu lírico contrasta a vida rural, aparentemente inerte e singular, com a uniformidade das cidades, e a partir de elementos cotidianos (o enterro a pé, o murmúrio da água) é levado a meditar que a vida passa e a mocidade acaba. Esse contraste aponta para a percepção do caráter efêmero da vida, possibilitada pela observação da aparente inércia do campo, como traz a alternativa B. A alternativa A inverte o lirismo ao supor nostalgia da cidade; a C fala em meditação sobre a juventude; a D reduz tudo a insegurança; e a E exagera ao falar em profundo medo da morte.`,
@@ -993,21 +867,11 @@ de onde sairia apenas em 1981. Essa obra cubista
 apresenta elementos plásticos identificados pelo`,
     images: ['/enem/2011/images/enem_2011_d2_q114.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `painel ideográfico, monocromático, que enfoca várias 
-dimensões de um evento, renunciando à realidade, 
-colocando-se em plano frontal ao espectador.` },
-      { id: 'B', type: 'text', value: `horror da guerra de forma fotográfica, com o uso 
-da perspectiva clássica, envolvendo o espectador 
-nesse exemplo brutal de crueldade do ser humano.` },
-      { id: 'C', type: 'text', value: `uso das formas geométricas no mesmo plano, sem 
-emoção e expressão, despreocupado com o volume, 
-a perspectiva e a sensação escultórica.` },
-      { id: 'D', type: 'text', value: `esfacelamento dos objetos abordados na mesma 
-narrativa, minimizando a dor humana a serviço da 
-objetividade, observada pelo uso do claro-escuro.` },
-      { id: 'E', type: 'text', value: `uso de vários ícones que representam personagens 
-fragmentados bidimensionalmente, de forma fotográ- 
-fica livre de sentimentalismo.` },
+      { id: 'A', type: 'text', value: `painel ideográfico, monocromático, que enfoca várias dimensões de um evento, renunciando à realidade, colocando-se em plano frontal ao espectador.` },
+      { id: 'B', type: 'text', value: `horror da guerra de forma fotográfica, com o uso da perspectiva clássica, envolvendo o espectador nesse exemplo brutal de crueldade do ser humano.` },
+      { id: 'C', type: 'text', value: `uso das formas geométricas no mesmo plano, sem emoção e expressão, despreocupado com o volume, a perspectiva e a sensação escultórica.` },
+      { id: 'D', type: 'text', value: `esfacelamento dos objetos abordados na mesma narrativa, minimizando a dor humana a serviço da objetividade, observada pelo uso do claro-escuro.` },
+      { id: 'E', type: 'text', value: `uso de vários ícones que representam personagens fragmentados bidimensionalmente, de forma fotográ-fica livre de sentimentalismo.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Guernica, de Picasso, é obra cubista que, em tons monocromáticos e sem perspectiva realista, representa várias dimensões do bombardeio em um mesmo painel ideográfico voltado frontalmente ao espectador. Essa descrição corresponde à alternativa A. A alternativa B atribui à obra perspectiva clássica e caráter fotográfico; a C afirma ausência de emoção e expressão; a D fala em claro-escuro minimizando a dor humana a serviço da objetividade; e a E a reduz a um registro fotográfico livre de sentimentalismo, leituras incompatíveis com o teor de protesto e com a linguagem cubista da pintura.`,
@@ -1032,15 +896,11 @@ Ao argumentar que a aquisição das habilidades de leitura
 e escrita não são suficientes para garantir o exercício da 
 cidadania, o autor`,
     alternatives: [
-      { id: 'A', type: 'text', value: `critica os processos de aquisição da leitura e da 
-escrita.` },
+      { id: 'A', type: 'text', value: `critica os processos de aquisição da leitura e da escrita.` },
       { id: 'B', type: 'text', value: `fala sobre o domínio da leitura e da escrita no Brasil.` },
-      { id: 'C', type: 'text', value: `incentiva a participação efetiva na vida da 
-comunidade.` },
-      { id: 'D', type: 'text', value: `faz uma avaliação crítica a respeito da condição 
-cidadã do brasileiro.` },
-      { id: 'E', type: 'text', value: `define instrumentos eficazes para elevar a condição 
-social da população do Brasil.` },
+      { id: 'C', type: 'text', value: `incentiva a participação efetiva na vida da comunidade.` },
+      { id: 'D', type: 'text', value: `faz uma avaliação crítica a respeito da condição cidadã do brasileiro.` },
+      { id: 'E', type: 'text', value: `define instrumentos eficazes para elevar a condição social da população do Brasil.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto, ligado ao programa PROLER, argumenta que a condição de cidadão não se garante apenas pela enunciação do direito nem pelo domínio da leitura e da escrita, mas depende da ruptura com o ciclo da pobreza. Ao sustentar que essas habilidades são insuficientes para o exercício da cidadania, o autor faz uma avaliação crítica da condição cidadã do brasileiro, conforme a alternativa D. A alternativa A diz que ele critica os processos de aquisição da leitura e da escrita, o que não ocorre; a B e a C reduzem o texto a tratar do domínio da leitura ou a incentivar a participação; e a E afirma que ele define instrumentos eficazes, indo além do que o texto propõe.`,
@@ -1075,16 +935,11 @@ concepções artísticas simbolistas. Entretanto, o texto
 selecionado incorpora referências temáticas e formais 
 modernistas, já que, nele, a poeta`,
     alternatives: [
-      { id: 'A', type: 'text', value: `procura desconstruir a visão metafórica do amor e 
-abandona o cuidado formal.` },
-      { id: 'B', type: 'text', value: `concebe a mulher como um ser sem linguagem e 
-questiona o poder da palavra.` },
-      { id: 'C', type: 'text', value: `questiona o trabalho intelectual da mulher e antecipa 
-a construção do verso livre.` },
-      { id: 'D', type: 'text', value: `propõe um modelo novo de erotização na lírica 
-amorosa e propõe a simplificação verbal.` },
-      { id: 'E', type: 'text', value: `explora a construção da essência feminina, a partir 
-da polissemia de “língua”, e inova o léxico.` },
+      { id: 'A', type: 'text', value: `procura desconstruir a visão metafórica do amor e abandona o cuidado formal.` },
+      { id: 'B', type: 'text', value: `concebe a mulher como um ser sem linguagem e questiona o poder da palavra.` },
+      { id: 'C', type: 'text', value: `questiona o trabalho intelectual da mulher e antecipa a construção do verso livre.` },
+      { id: 'D', type: 'text', value: `propõe um modelo novo de erotização na lírica amorosa e propõe a simplificação verbal.` },
+      { id: 'E', type: 'text', value: `explora a construção da essência feminina, a partir da polissemia de “língua”, e inova o léxico.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O poema 'Lépida e leve', de Gilka Machado, parte de concepções simbolistas, mas incorpora referências modernistas ao explorar a construção da essência feminina a partir da polissemia da palavra 'língua' (idioma, corpo, afeto) e ao inovar no léxico. Essa leitura corresponde à alternativa E. A alternativa A afirma que a poeta abandona o cuidado formal; a B, que concebe a mulher sem linguagem; a C, que questiona o trabalho intelectual feminino; e a D, que propõe simplificação verbal, interpretações que contrariam o refinamento formal e a valorização da palavra presentes no texto.`,
@@ -1120,16 +975,11 @@ sexo e etnia. Na passagem transcrita, o confronto
 entre brasileiros e portugueses revela prevalência do 
 elemento brasileiro, pois`,
     alternatives: [
-      { id: 'A', type: 'text', value: `destaca o nome de personagens brasileiras e omite 
-o de personagens portuguesas.` },
-      { id: 'B', type: 'text', value: `exalta a força do cenário natural brasileiro e 
-considera o do português inexpressivo.` },
-      { id: 'C', type: 'text', value: `mostra o poder envolvente da música brasileira, que 
-cala o fado português.` },
-      { id: 'D', type: 'text', value: `destaca o sentimentalismo brasileiro, contrário à 
-tristeza dos portugueses.` },
-      { id: 'E', type: 'text', value: `atribui aos brasileiros uma habilidade maior com 
-instrumentos musicais.` },
+      { id: 'A', type: 'text', value: `destaca o nome de personagens brasileiras e omite o de personagens portuguesas.` },
+      { id: 'B', type: 'text', value: `exalta a força do cenário natural brasileiro e considera o do português inexpressivo.` },
+      { id: 'C', type: 'text', value: `mostra o poder envolvente da música brasileira, que cala o fado português.` },
+      { id: 'D', type: 'text', value: `destaca o sentimentalismo brasileiro, contrário à tristeza dos portugueses.` },
+      { id: 'E', type: 'text', value: `atribui aos brasileiros uma habilidade maior com instrumentos musicais.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No fragmento de O Cortiço, de Aluízio Azevedo, as personagens são vistas como tipos coletivos e, na cena do chorado baiano, a música brasileira envolve e arrebata a todos, inclusive os portugueses, fazendo calar o fado. Essa prevalência do elemento brasileiro se dá, pois, pela força envolvente da música nacional, como indica a alternativa C. A alternativa A fala em omitir nomes de personagens portuguesas; a B, em exaltar o cenário natural e considerar o português inexpressivo; a D, em sentimentalismo brasileiro; e a E, em habilidade com instrumentos musicais, leituras que não traduzem o confronto cultural descrito.`,
@@ -1222,16 +1072,11 @@ marcante da função emotiva ou expressiva, por meio da
 qual o emissor`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `imprime à canção as marcas de sua atitude pessoal, 
-seus sentimentos.` },
-      { id: 'B', type: 'text', value: `transmite informações objetivas sobre o tema de 
-que trata a canção.` },
-      { id: 'C', type: 'text', value: `busca persuadir o receptor da canção a adotar um 
-certo comportamento.` },
-      { id: 'D', type: 'text', value: `procura explicar a própria linguagem que utiliza para 
-construir a canção.` },
-      { id: 'E', type: 'text', value: `objetiva verificar ou fortalecer a eficiência da 
-mensagem veiculada.` },
+      { id: 'A', type: 'text', value: `imprime à canção as marcas de sua atitude pessoal, seus sentimentos.` },
+      { id: 'B', type: 'text', value: `transmite informações objetivas sobre o tema de que trata a canção.` },
+      { id: 'C', type: 'text', value: `busca persuadir o receptor da canção a adotar um certo comportamento.` },
+      { id: 'D', type: 'text', value: `procura explicar a própria linguagem que utiliza para construir a canção.` },
+      { id: 'E', type: 'text', value: `objetiva verificar ou fortalecer a eficiência da mensagem veiculada.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Na canção de Geraldo Vandré, há a função poética, percebida nas combinações sonoras e rítmicas, mas o enunciado pede a função emotiva ou expressiva, centrada no emissor. Essa função se manifesta quando o eu lírico imprime à canção as marcas de sua atitude pessoal e de seus sentimentos (a dor, a decisão de voltar para si), como traz a alternativa A. A alternativa B remete à função referencial (informações objetivas); a C, à função conativa (persuadir o receptor); a D, à metalinguística (explicar a própria linguagem); e a E, à função fática ou ao reforço da mensagem, não à expressão da subjetividade.`,
@@ -1312,14 +1157,10 @@ destacar a potencial supressão de trecho do texto ―
 reforça a eficácia pretendida, revelada na estratégia de`,
     images: ['/enem/2011/images/enem_2011_d2_q122.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `ressaltar a informação no título, em detrimento do 
-restante do conteúdo associado.` },
-      { id: 'B', type: 'text', value: `incluir o leitor por meio do uso da 1ª pessoa do plural 
-no discurso.` },
-      { id: 'C', type: 'text', value: `contar a história da criação do órgão como argumento 
-de autoridade.` },
-      { id: 'D', type: 'text', value: `subverter o fazer publicitário pelo uso de sua 
-metalinguagem.` },
+      { id: 'A', type: 'text', value: `ressaltar a informação no título, em detrimento do restante do conteúdo associado.` },
+      { id: 'B', type: 'text', value: `incluir o leitor por meio do uso da 1ª pessoa do plural no discurso.` },
+      { id: 'C', type: 'text', value: `contar a história da criação do órgão como argumento de autoridade.` },
+      { id: 'D', type: 'text', value: `subverter o fazer publicitário pelo uso de sua metalinguagem.` },
       { id: 'E', type: 'text', value: `impressionar o leitor pelo jogo de palavras no texto.` },
     ],
     correct: 'D',
@@ -1362,18 +1203,11 @@ bem como os argumentos nele mobilizados, constata-se
 que o objetivo do autor do texto é`,
     images: ['/enem/2011/images/enem_2011_d2_q123.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `informar os consumidores em geral sobre a atuação 
-do Conar.` },
-      { id: 'B', type: 'text', value: `conscientizar publicitários do compromisso ético ao 
-elaborar suas peças publicitárias.` },
-      { id: 'C', type: 'text', value: `alertar chefes de família, para que eles fiscalizem o 
-conteúdo das propagandas veiculadas pela mídia.` },
-      { id: 'D', type: 'text', value: `chamar a atenção de empresários e anunciantes em 
-geral para suas responsabilidades ao contratarem 
-publicitários sem ética.` },
-      { id: 'E', type: 'text', value: `chamar a atenção de empresas para os efeitos 
-nocivos que elas podem causar à sociedade, se 
-compactuarem com propagandas enganosas.` },
+      { id: 'A', type: 'text', value: `informar os consumidores em geral sobre a atuação do Conar.` },
+      { id: 'B', type: 'text', value: `conscientizar publicitários do compromisso ético ao elaborar suas peças publicitárias.` },
+      { id: 'C', type: 'text', value: `alertar chefes de família, para que eles fiscalizem o conteúdo das propagandas veiculadas pela mídia.` },
+      { id: 'D', type: 'text', value: `chamar a atenção de empresários e anunciantes em geral para suas responsabilidades ao contratarem publicitários sem ética.` },
+      { id: 'E', type: 'text', value: `chamar a atenção de empresas para os efeitos nocivos que elas podem causar à sociedade, se compactuarem com propagandas enganosas.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Considerando que o texto é assinado pelo próprio Conar e emprega um tom franco sobre verdade, honestidade e credibilidade na publicidade, percebe-se que seu objetivo é informar os consumidores em geral sobre a atuação do órgão, inclusive sobre a possibilidade de registrar reclamações. Isso corresponde à alternativa A. As alternativas B e D dirigem-se a publicitários, empresários e anunciantes; a C, a chefes de família convidados a fiscalizar; e a E, a empresas alertadas sobre efeitos nocivos, públicos que não são o alvo prioritário do texto, voltado ao consumidor comum.`,
@@ -1400,18 +1234,11 @@ seu leitor. Entre os recursos argumentativos mobilizados
 pelo autor para obter a adesão do público à campanha, 
 destaca-se nesse texto`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a oposição entre individual e coletivo, trazendo um 
-ideário populista para o anúncio.` },
-      { id: 'B', type: 'text', value: `a utilização de tratamento informal com o leitor, o 
-que suaviza a seriedade do problema.` },
-      { id: 'C', type: 'text', value: `o emprego de linguagem figurada, o que desvia a 
-atenção da população do apelo financeiro.` },
-      { id: 'D', type: 'text', value: `o uso dos numerais “milhares” e “milhões”, 
-responsável pela supervalorização das condições 
-dos necessitados.` },
-      { id: 'E', type: 'text', value: `o jogo de palavras entre “acordar” e “dormir”, o que 
-relativiza o problema do leitor em relação ao dos 
-necessitados.` },
+      { id: 'A', type: 'text', value: `a oposição entre individual e coletivo, trazendo um ideário populista para o anúncio.` },
+      { id: 'B', type: 'text', value: `a utilização de tratamento informal com o leitor, o que suaviza a seriedade do problema.` },
+      { id: 'C', type: 'text', value: `o emprego de linguagem figurada, o que desvia a atenção da população do apelo financeiro.` },
+      { id: 'D', type: 'text', value: `o uso dos numerais “milhares” e “milhões”, responsável pela supervalorização das condições dos necessitados.` },
+      { id: 'E', type: 'text', value: `o jogo de palavras entre “acordar” e “dormir”, o que relativiza o problema do leitor em relação ao dos necessitados.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. A campanha beneficente usa o mote 'Se no inverno é difícil acordar, imagine dormir' para pedir doações a quem passa frio e fome. O recurso argumentativo que se destaca é o jogo de palavras entre 'acordar' e 'dormir', que relativiza o desconforto do leitor diante da situação muito mais grave dos necessitados, conforme a alternativa E. A alternativa A fala em oposição entre individual e coletivo com ideário populista; a B, em tratamento informal que suaviza o problema; a C, em linguagem figurada que desvia do apelo financeiro; e a D, no uso dos numerais 'milhares' e 'milhões', aspectos secundários frente ao trocadilho central.`,
@@ -1434,16 +1261,11 @@ SCARDOVELI, E. Revista Língua Portuguesa . São Paulo: Segmento, Ano II, nº 6,
 O texto propõe uma reflexão acerca da língua portuguesa, 
 ressaltando para o leitor a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `inauguração do museu e o grande investimento em 
-cultura no país.` },
-      { id: 'B', type: 'text', value: `importância da língua para a construção da 
-identidade nacional.` },
-      { id: 'C', type: 'text', value: `afetividade tão comum ao brasileiro, retratada 
-através da língua.` },
-      { id: 'D', type: 'text', value: `relação entre o idioma e as políticas públicas na 
-área de cultura.` },
-      { id: 'E', type: 'text', value: `diversidade étnica e linguística existente no território 
-nacional.` },
+      { id: 'A', type: 'text', value: `inauguração do museu e o grande investimento em cultura no país.` },
+      { id: 'B', type: 'text', value: `importância da língua para a construção da identidade nacional.` },
+      { id: 'C', type: 'text', value: `afetividade tão comum ao brasileiro, retratada através da língua.` },
+      { id: 'D', type: 'text', value: `relação entre o idioma e as políticas públicas na área de cultura.` },
+      { id: 'E', type: 'text', value: `diversidade étnica e linguística existente no território nacional.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto reflete sobre a língua portuguesa a partir do Museu da Língua, apresentando o idioma como algo vivo e fundamental para o entendimento do que é ser brasileiro. Ressalta, assim, para o leitor, a importância da língua na construção da identidade nacional, como traz a alternativa B. A alternativa A reduz o texto à inauguração do museu e ao investimento em cultura; a C fala apenas da afetividade do brasileiro na língua; a D, da relação entre idioma e políticas públicas; e a E, da diversidade étnica e linguística, aspectos que não constituem o foco da reflexão proposta.`,
@@ -1484,16 +1306,11 @@ Os textos apresentados expressam opiniões de leitores
 acerca de relevante assunto para a sociedade brasileira. 
 Os autores dos dois textos apontam para a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `necessidade de trabalho voluntário contínuo para a 
-resolução das mazelas sociais.` },
-      { id: 'B', type: 'text', value: `importância de ações preventivas para evitar 
-catástrofes, indevidamente atribuídas aos políticos.` },
-      { id: 'C', type: 'text', value: `incapacidade política para agir de forma diligente na 
-resolução das mazelas sociais.` },
-      { id: 'D', type: 'text', value: `urgência de se criarem novos órgãos públicos com 
-as mesmas características do SUS.` },
-      { id: 'E', type: 'text', value: `impossibilidade de o homem agir de forma eficaz ou 
-preventiva diante das ações da natureza.` },
+      { id: 'A', type: 'text', value: `necessidade de trabalho voluntário contínuo para a resolução das mazelas sociais.` },
+      { id: 'B', type: 'text', value: `importância de ações preventivas para evitar catástrofes, indevidamente atribuídas aos políticos.` },
+      { id: 'C', type: 'text', value: `incapacidade política para agir de forma diligente na resolução das mazelas sociais.` },
+      { id: 'D', type: 'text', value: `urgência de se criarem novos órgãos públicos com as mesmas características do SUS.` },
+      { id: 'E', type: 'text', value: `impossibilidade de o homem agir de forma eficaz ou preventiva diante das ações da natureza.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Os dois textos são cartas de leitores que comentam desastres e a atuação do poder público; ambos convergem ao responsabilizar a classe política por não agir de forma diligente diante das mazelas sociais, com desculpas e falta de competência. Essa crítica comum corresponde à alternativa C. A alternativa A fala em trabalho voluntário contínuo; a B, em ações preventivas atribuídas indevidamente aos políticos; a D, na criação de novos órgãos como o SUS; e a E, na impossibilidade de o homem agir diante da natureza, pontos que não traduzem a convergência central dos dois textos quanto à incapacidade política.`,
@@ -1513,26 +1330,11 @@ no emprego de recursos expressivos, verbais e não
 verbais, com vistas a`,
     images: ['/enem/2011/images/enem_2011_d2_q127.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `ridicularizar a forma física do possível cliente do 
-produto anunciado, aconselhando-o a uma busca de 
-mudanças estéticas.` },
-      { id: 'B', type: 'text', value: `enfatizar a tendência da sociedade contemporânea 
-de buscar hábitos alimentares saudáveis, reforçando 
-tal postura.` },
-      { id: 'C', type: 'text', value: `criticar 
-o 
-consumo 
-excessivo 
-de 
-produtos 
-industrializados por parte da população, propondo a 
-redução desse consumo.` },
-      { id: 'D', type: 'text', value: `associar o vocábulo “açúcar” à imagem do corpo fora 
-de forma, sugerindo a substituição desse produto 
-pelo adoçante.` },
-      { id: 'E', type: 'text', value: `relacionar a imagem do saco de açúcar a um corpo 
-humano que não desenvolve atividades físicas, 
-incentivando a prática esportiva.` },
+      { id: 'A', type: 'text', value: `ridicularizar a forma física do possível cliente do produto anunciado, aconselhando-o a uma busca de mudanças estéticas.` },
+      { id: 'B', type: 'text', value: `enfatizar a tendência da sociedade contemporânea de buscar hábitos alimentares saudáveis, reforçando tal postura.` },
+      { id: 'C', type: 'text', value: `criticar o consumo excessivo de produtos industrializados por parte da população, propondo a redução desse consumo.` },
+      { id: 'D', type: 'text', value: `associar o vocábulo “açúcar” à imagem do corpo fora de forma, sugerindo a substituição desse produto pelo adoçante.` },
+      { id: 'E', type: 'text', value: `relacionar a imagem do saco de açúcar a um corpo humano que não desenvolve atividades físicas, incentivando a prática esportiva.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A propaganda do adoçante mostra um saco de açúcar deformado, com aparência de corpo fora de forma, acompanhado do mote 'Mude sua embalagem'. A estratégia verbal e não verbal associa o vocábulo 'açúcar' à imagem do corpo fora de forma e sugere a substituição do produto pelo adoçante, conforme a alternativa D. A alternativa A diz que o anúncio ridiculariza o cliente aconselhando busca estética; a B afirma que ele reforça hábitos saudáveis; a C, que critica o consumo de industrializados; e a E, que incentiva a prática esportiva, leituras que não captam a analogia entre o açúcar e o corpo que estrutura o convencimento.`,
@@ -1568,20 +1370,11 @@ linguísticas, o texto mostra que as normas podem ser
 aprovadas ou condenadas socialmente, chamando a 
 atenção do leitor para a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `desconsideração 
-da 
-existência 
-das 
-normas 
-populares pelos falantes da norma culta.` },
-      { id: 'B', type: 'text', value: `difusão do português de Portugal em todas as 
-regiões do Brasil só a partir do século XVIII.` },
-      { id: 'C', type: 'text', value: `existência de usos da língua que caracterizam uma 
-norma nacional do Brasil, distinta da de Portugal.` },
-      { id: 'D', type: 'text', value: `inexistência de normas cultas locais e populares ou 
-vernáculas em um determinado país.` },
-      { id: 'E', type: 'text', value: `necessidade de se rejeitar a ideia de que os usos 
-frequentes de uma língua devem ser aceitos.` },
+      { id: 'A', type: 'text', value: `desconsideração da existência das normas populares pelos falantes da norma culta.` },
+      { id: 'B', type: 'text', value: `difusão do português de Portugal em todas as regiões do Brasil só a partir do século XVIII.` },
+      { id: 'C', type: 'text', value: `existência de usos da língua que caracterizam uma norma nacional do Brasil, distinta da de Portugal.` },
+      { id: 'D', type: 'text', value: `inexistência de normas cultas locais e populares ou vernáculas em um determinado país.` },
+      { id: 'E', type: 'text', value: `necessidade de se rejeitar a ideia de que os usos frequentes de uma língua devem ser aceitos.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto de Callou discute como normas prestigiadas e estigmatizadas se sobrepõem no território e defende que, a partir do século XVIII, consolidou-se uma norma nacional brasileira distinta da europeia. Ao considerar as variedades linguísticas, o texto chama a atenção para a existência de usos da língua que caracterizam essa norma nacional do Brasil, diferente da de Portugal, como traz a alternativa C. A alternativa B restringe o fenômeno à difusão do português de Portugal; a A e a D negam a existência de normas populares ou cultas locais; e a E prega a rejeição dos usos frequentes, contrariando a valorização da variação defendida no texto.`,
@@ -1602,8 +1395,7 @@ língua, esse uso é inadequado, pois`,
     images: ['/enem/2011/images/enem_2011_d2_q129.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `contraria o uso previsto para o registro oral da língua.` },
-      { id: 'B', type: 'text', value: `contraria a marcação das funções sintáticas de 
-sujeito e objeto.` },
+      { id: 'B', type: 'text', value: `contraria a marcação das funções sintáticas de sujeito e objeto.` },
       { id: 'C', type: 'text', value: `gera inadequação na concordância com o verbo.` },
       { id: 'D', type: 'text', value: `gera ambiguidade na leitura do texto.` },
       { id: 'E', type: 'text', value: `apresenta dupla marcação de sujeito.` },
@@ -1634,16 +1426,11 @@ De acordo com o texto, há no Brasil uma variedade de
 nomes para a Manihot utilissima, nome científico da 
 mandioca. Esse fenômeno revela que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `existem variedades regionais para nomear uma 
-mesma espécie de planta.` },
-      { id: 'B', type: 'text', value: `mandioca é nome específico para a espécie existente 
-na região amazônica.` },
-      { id: 'C', type: 'text', value: `“pão-de-pobre” é designação específica para a 
-planta da região amazônica.` },
-      { id: 'D', type: 'text', value: `os nomes designam espécies diferentes da planta, 
-conforme a região.` },
-      { id: 'E', type: 'text', value: `a planta é nomeada conforme as particularidades 
-que apresenta.` },
+      { id: 'A', type: 'text', value: `existem variedades regionais para nomear uma mesma espécie de planta.` },
+      { id: 'B', type: 'text', value: `mandioca é nome específico para a espécie existente na região amazônica.` },
+      { id: 'C', type: 'text', value: `“pão-de-pobre” é designação específica para a planta da região amazônica.` },
+      { id: 'D', type: 'text', value: `os nomes designam espécies diferentes da planta, conforme a região.` },
+      { id: 'E', type: 'text', value: `a planta é nomeada conforme as particularidades que apresenta.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto registra que a mandioca (Manihot utilissima) recebe nomes diferentes conforme a região do Brasil, como aipim, macaxeira e maniva. Esse fenômeno revela que existem variedades regionais para nomear uma mesma espécie de planta, como indica a alternativa A, caso típico de variação lexical de base geográfica. A alternativa B supõe que 'mandioca' seja nome exclusivo da espécie amazônica; a C restringe 'pão-de-pobre' a uma designação regional; a D afirma que os nomes designam espécies diferentes, quando se trata de uma só; e a E atribui os nomes às particularidades da planta, e não à variação regional da língua.`,
@@ -1676,32 +1463,11 @@ Ensino de gramática: descrição e uso. São Paulo: Contexto, 2007 (fragmento).
 Considerando a reflexão trazida no texto a respeito da 
 multiplicidade do discurso, verifica-se que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `estudantes que não conhecem as diferenças 
-entre língua escrita e língua falada empregam, 
-indistintamente, usos aceitos na conversa com 
-amigos quando vão elaborar um texto escrito.` },
-      { id: 'B', type: 'text', value: `falantes que dominam a variedade padrão do 
-português 
-do 
-Brasil 
-demonstram 
-usos 
-que 
-confirmam a diferença entre a norma idealizada e 
-a efetivamente praticada, mesmo por falantes mais 
-escolarizados.` },
-      { id: 'C', type: 'text', value: `moradores de diversas regiões do país que enfrentam 
-dificuldades ao se expressar na escrita revelam a 
-constante modificação das regras de emprego de 
-pronomes e os casos especiais de concordância.` },
-      { id: 'D', type: 'text', value: `pessoas que se julgam no direito de contrariar a 
-gramática ensinada na escola gostam de apresentar 
-usos não aceitos socialmente para esconderem seu 
-desconhecimento da norma padrão.` },
-      { id: 'E', type: 'text', value: `usuários que desvendam os mistérios e sutilezas da 
-língua portuguesa empregam formas do verbo ter 
-quando, na verdade, deveriam usar formas do verbo 
-haver , contrariando as regras gramaticais.` },
+      { id: 'A', type: 'text', value: `estudantes que não conhecem as diferenças entre língua escrita e língua falada empregam, indistintamente, usos aceitos na conversa com amigos quando vão elaborar um texto escrito.` },
+      { id: 'B', type: 'text', value: `falantes que dominam a variedade padrão do português do Brasil demonstram usos que confirmam a diferença entre a norma idealizada e a efetivamente praticada, mesmo por falantes mais escolarizados.` },
+      { id: 'C', type: 'text', value: `moradores de diversas regiões do país que enfrentam dificuldades ao se expressar na escrita revelam a constante modificação das regras de emprego de pronomes e os casos especiais de concordância.` },
+      { id: 'D', type: 'text', value: `pessoas que se julgam no direito de contrariar a gramática ensinada na escola gostam de apresentar usos não aceitos socialmente para esconderem seu desconhecimento da norma padrão.` },
+      { id: 'E', type: 'text', value: `usuários que desvendam os mistérios e sutilezas da língua portuguesa empregam formas do verbo ter quando, na verdade, deveriam usar formas do verbo haver , contrariando as regras gramaticais.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto de Callou argumenta que há usos consagrados na fala e até na escrita (como 'ter' por 'haver' ou o pronome objeto na posição de sujeito) que revelam tendências de mudança e a existência de uma pluralidade de normas, e não de uma norma única. Verifica-se, assim, que falantes que dominam a variedade padrão demonstram usos que confirmam a diferença entre a norma idealizada e a efetivamente praticada, mesmo entre os mais escolarizados, como traz a alternativa B. As alternativas A, C e D tratam esses usos como erro, desconhecimento ou recurso para esconder a ignorância da norma; e a E inverte o exemplo de 'ter' e 'haver', contrariando o texto.`,
@@ -1751,21 +1517,10 @@ homepage , entre outros. O texto trata da adaptação
 de termos da informática à língua indígena como uma 
 reação da tribo Sapucaí, o que revela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a possibilidade que o índio Potty vislumbrou em 
-relação à comunicação que a web pode trazer a seu 
-povo e à facilidade no envio de documentos e na 
-conversação em tempo real.` },
-      { id: 'B', type: 'text', value: `o uso da internet para preparação e envio de documentos, 
-bem como a contribuição para as atividades relacionadas 
-aos trabalhos da cultura indígena.` },
-      { id: 'C', type: 'text', value: `a preservação da identidade, demonstrada pela 
-conservação do idioma, mesmo com a utilização 
-de novas tecnologias características da cultura de 
-outros grupos sociais.` },
-      { id: 'D', type: 'text', value: `adesão ao projeto do Comitê para Democratização 
-da Informática (CDI), que, em parceria com a ONG 
-Rede Povos da Floresta, possibilitou o acesso à 
-web , mesmo em ambiente inóspito.` },
+      { id: 'A', type: 'text', value: `a possibilidade que o índio Potty vislumbrou em relação à comunicação que a web pode trazer a seu povo e à facilidade no envio de documentos e na conversação em tempo real.` },
+      { id: 'B', type: 'text', value: `o uso da internet para preparação e envio de documentos, bem como a contribuição para as atividades relacionadas aos trabalhos da cultura indígena.` },
+      { id: 'C', type: 'text', value: `a preservação da identidade, demonstrada pela conservação do idioma, mesmo com a utilização de novas tecnologias características da cultura de outros grupos sociais.` },
+      { id: 'D', type: 'text', value: `adesão ao projeto do Comitê para Democratização da Informática (CDI), que, em parceria com a ONG Rede Povos da Floresta, possibilitou o acesso à web , mesmo em ambiente inóspito.` },
       { id: 'E', type: 'text', value: `a apropriação da nova tecnologia de forma gradual, evidente quando os guaranis incorporaram a novidade tecnológica ao seu estilo de vida com a possibilidade de acesso à internet.` },
     ],
     correct: 'C',
@@ -1785,10 +1540,8 @@ problema físico habitual, ilustrado na imagem, que propicia uma piora na qualid
     alternatives: [
       { id: 'A', type: 'text', value: `a evolução ocorreu e com ela evoluíram as dores de cabeça, o estresse e a falta de atenção à família.` },
       { id: 'B', type: 'text', value: `a vida sem o computador tornou-se quase inviável, mas se tem diminuído problemas de visão cansada.` },
-      { id: 'C', type: 'text', value: `a utilização demasiada do computador tem proporcionado o surgimento de cientistas que apresentam lesão por 
-esforço repetitivo.` },
-      { id: 'D', type: 'text', value: `o homem criou o computador, que evoluiu, e hoje opera várias ações antes feitas pelas pessoas, tornando-as 
-sedentárias ou obesas.` },
+      { id: 'C', type: 'text', value: `a utilização demasiada do computador tem proporcionado o surgimento de cientistas que apresentam lesão por esforço repetitivo.` },
+      { id: 'D', type: 'text', value: `o homem criou o computador, que evoluiu, e hoje opera várias ações antes feitas pelas pessoas, tornando-as sedentárias ou obesas.` },
       { id: 'E', type: 'text', value: `o uso contínuo do computador de forma inadequada tem ocasionado má postura corporal.` },
     ],
     correct: 'E',
@@ -1809,8 +1562,7 @@ tecnológico. Considerando o contexto apresentado, verifica-se que o impacto tec
       { id: 'B', type: 'text', value: `a mudança do homem em razão dos novos inventos que destroem sua realidade.` },
       { id: 'C', type: 'text', value: `a problemática social de grande exclusão digital a partir da interferência da máquina.` },
       { id: 'D', type: 'text', value: `a invenção de equipamentos que dificultam o trabalho do homem, em sua esfera social.` },
-      { id: 'E', type: 'text', value: `o retrocesso do desenvolvimento do homem em face da criação de ferramentas como lança, máquina e 
-computador.` },
+      { id: 'E', type: 'text', value: `o retrocesso do desenvolvimento do homem em face da criação de ferramentas como lança, máquina e computador.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A charge constrói uma metáfora da teoria evolucionista aplicada ao desenvolvimento tecnológico, culminando no homem dependente da máquina diante do computador. Considerando esse contexto, o impacto tecnológico pode ocasionar o surgimento de um homem dependente de um novo modelo tecnológico, como indica a alternativa A. A alternativa B fala em mudança do homem porque os inventos destroem sua realidade; a C, em exclusão digital; a D, em equipamentos que dificultam o trabalho; e a E, em retrocesso do desenvolvimento humano, leituras que não correspondem ao sentido da imagem, voltado à relação de dependência criada pela tecnologia.`,
@@ -2265,28 +2017,20 @@ que essa jovem deve ter diante da nova medida é
     exam: 'enem',
     year: 2011,
     day: 2,
-    text: `Um bairro de uma cidade foi planejado em uma 
-região plana, com ruas paralelas e perpendiculares, 
-delimitando quadras de mesmo tamanho. No plano 
-de coordenadas cartesianas seguinte, esse bairro 
-localiza-se no segundo quadrante, e as distâncias nos 
-eixos são dadas em quilômetros. 
-A reta de equação y = x + 4 representa o 
-planejamento do percurso da linha do metrô subterrâneo 
-que atravessará o bairro e outras regiões da cidade. 
-No ponto P = (-5, 5), localiza-se um hospital público. A 
-comunidade solicitou ao comitê de planejamento que 
-fosse prevista uma estação do metrô de modo que sua 
-distância ao hospital, medida em linha reta, não fosse 
-maior que 5 km. 
-Atendendo ao pedido da comunidade, o comitê 
-argumentou 
-corretamente 
-que 
-isso 
-seria 
-automaticamente satisfeito, pois já estava prevista a 
-construção de uma estação no ponto`,
+    text: `Um bairro de uma cidade foi planejado em uma região plana, com
+ruas paralelas e perpendiculares, delimitando quadras de mesmo
+tamanho. No plano de coordenadas cartesianas seguinte, esse
+bairro localiza-se no segundo quadrante, e as distâncias nos
+eixos são dadas em quilômetros. A reta de equação y = x + 4
+representa o planejamento do percurso da linha do metrô
+subterrâneo que atravessará o bairro e outras regiões da
+cidade. No ponto P = (-5, 5), localiza-se um hospital público.
+A comunidade solicitou ao comitê de planejamento que fosse
+prevista uma estação do metrô de modo que sua distância ao
+hospital, medida em linha reta, não fosse maior que 5 km.
+Atendendo ao pedido da comunidade, o comitê argumentou
+corretamente que isso seria automaticamente satisfeito, pois
+já estava prevista a construção de uma estação no ponto`,
     images: ['/enem/2011/images/enem_2011_d2_q150.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `(-5, 0).` },
@@ -2374,21 +2118,11 @@ Um anfitrião decidiu seguir essas dicas ao se preparar para
 receber 30 convidados para a ceia de Natal. Para seguir 
 essas orientações à risca, o anfitrião deverá dispor de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `120 kg de carne, 7 copos americanos e meio de 
-arroz, 120 colheres de sopa de farofa, 5 garrafas de 
-vinho, 15 de cerveja e 10 de espumante.` },
-      { id: 'B', type: 'text', value: `120 kg de carne, 7 copos americanos e meio de 
-arroz, 120 colheres de sopa de farofa, 5 garrafas de 
-vinho, 30 de cerveja e 10 de espumante.` },
-      { id: 'C', type: 'text', value: `75 kg de carne, 7 copos americanos e meio de arroz, 
-120 colheres de sopa de farofa, 5 garrafas de vinho, 
-15 de cerveja e 10 de espumante.` },
-      { id: 'D', type: 'text', value: `7,5 kg de carne, 7 copos americanos, 120 colheres 
-de sopa de farofa, 5 garrafas de vinho, 30 de cerveja 
-e 10 de espumante.` },
-      { id: 'E', type: 'text', value: `7,5 kg de carne, 7 copos americanos e meio de 
-arroz, 120 colheres de sopa de farofa, 5 garrafas de 
-vinho, 15 de cerveja e 10 de espumante.` },
+      { id: 'A', type: 'text', value: `120 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 de cerveja e 10 de espumante.` },
+      { id: 'B', type: 'text', value: `120 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 30 de cerveja e 10 de espumante.` },
+      { id: 'C', type: 'text', value: `75 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 de cerveja e 10 de espumante.` },
+      { id: 'D', type: 'text', value: `7,5 kg de carne, 7 copos americanos, 120 colheres de sopa de farofa, 5 garrafas de vinho, 30 de cerveja e 10 de espumante.` },
+      { id: 'E', type: 'text', value: `7,5 kg de carne, 7 copos americanos e meio de arroz, 120 colheres de sopa de farofa, 5 garrafas de vinho, 15 de cerveja e 10 de espumante.` },
     ],
     correct: 'E',
     explanation: `Para 30 convidados: carne = 250 g × 30 = 7 500 g = 7,5 kg; arroz = 1 copo para cada 4 pessoas → 30/4 = 7,5 copos (7 copos e meio); farofa = 4 colheres × 30 = 120 colheres; vinho = 1 garrafa para 6 → 30/6 = 5 garrafas; cerveja = 1 garrafa para 2 → 30/2 = 15 garrafas; espumante = 1 garrafa para 3 → 30/3 = 10 garrafas. Resposta: E.`,
@@ -2480,19 +2214,13 @@ essas quantidades nesses meses é`,
     exam: 'enem',
     year: 2011,
     day: 2,
-    text: `Um 
-jovem 
-investidor 
-precisa 
-escolher 
-qual 
-investimento lhe trará maior retorno financeiro em uma 
-aplicação de R$ 500,00. Para isso, pesquisa o rendimento 
-e o imposto a ser pago em dois investimentos: poupança 
-e CDB (certificado de depósito bancário). As informações 
-obtidas estão resumidas no quadro: 
- 
-Para o jovem investidor, ao final de um mês, a aplicação 
+    text: `Um jovem investidor precisa escolher qual investimento lhe
+trará maior retorno financeiro em uma aplicação de R$ 500,00.
+Para isso, pesquisa o rendimento e o imposto a ser pago em
+dois investimentos: poupança e CDB (certificado de depósito
+bancário). As informações obtidas estão resumidas no quadro:
+
+Para o jovem investidor, ao final de um mês, a aplicação
 mais vantajosa é`,
     images: ['/enem/2011/images/enem_2011_d2_q157.jpg'],
     alternatives: [
@@ -2659,16 +2387,11 @@ para morar, a probabilidade de ele escolher uma região
 que seja adequada às recomendações médicas é`,
     images: ['/enem/2011/images/enem_2011_d2_q163.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `1 
-5` },
-      { id: 'B', type: 'text', value: `1 
-4` },
-      { id: 'C', type: 'text', value: `2 
-5` },
-      { id: 'D', type: 'text', value: `3 
-5` },
-      { id: 'E', type: 'text', value: `3 
-4` },
+      { id: 'A', type: 'text', value: `1 5` },
+      { id: 'B', type: 'text', value: `1 4` },
+      { id: 'C', type: 'text', value: `2 5` },
+      { id: 'D', type: 'text', value: `3 5` },
+      { id: 'E', type: 'text', value: `3 4` },
     ],
     correct: 'E',
     explanation: `Além do Centro, há 4 regiões: Rural, Comercial, Residencial Urbano e Residencial Suburbano. Pelo gráfico, as temperaturas das demais regiões ficam abaixo de 31 °C em 3 das 4 (Rural, Residencial Urbano e Residencial Suburbano); apenas a região Comercial atinge valor igual ou superior a 31 °C. A probabilidade de escolher, ao acaso, uma região adequada é 3/4. Resposta: E.`,
@@ -2814,18 +2537,9 @@ Com essa escolha, quem tem a maior probabilidade de
 ganhar o jogo é`,
     alternatives: [
       { id: 'A', type: 'text', value: `Arthur, pois a soma que escolheu é a menor.` },
-      { id: 'B', type: 'text', value: `Bernardo, pois há 7 possibilidades de compor a 
-soma escolhida por ele, contra 4 possibilidades 
-para a escolha de Arthur e 4 possibilidades para a 
-escolha de Caio.` },
-      { id: 'C', type: 'text', value: `Bernardo, pois há 7 possibilidades de compor a 
-soma escolhida por ele, contra 5 possibilidades 
-para a escolha de Arthur e 4 possibilidades para a 
-escolha de Caio.` },
-      { id: 'D', type: 'text', value: `Caio, pois há 10 possibilidades de compor a soma 
-escolhida por ele, contra 5 possibilidades para a 
-escolha de Arthur e 8 possibilidades para a escolha 
-de Bernardo.` },
+      { id: 'B', type: 'text', value: `Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 4 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.` },
+      { id: 'C', type: 'text', value: `Bernardo, pois há 7 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 4 possibilidades para a escolha de Caio.` },
+      { id: 'D', type: 'text', value: `Caio, pois há 10 possibilidades de compor a soma escolhida por ele, contra 5 possibilidades para a escolha de Arthur e 8 possibilidades para a escolha de Bernardo.` },
       { id: 'E', type: 'text', value: `Caio, pois a soma que escolheu é a maior.` },
     ],
     correct: 'C',
@@ -2857,18 +2571,11 @@ Escala de IMC, o valor IMC e a categoria em que cada
 uma das pessoas se posiciona na Escala são`,
     images: ['/enem/2011/images/enem_2011_d2_q169_1.jpg', '/enem/2011/images/enem_2011_d2_q169_2.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Duílio tem o IMC 26,7 e Sandra tem o IMC 26,6, 
-estando ambos na categoria de sobrepeso.` },
-      { id: 'B', type: 'text', value: `Duílio tem o IMC 27,3 e Sandra tem o IMC 29,1, 
-estando ambos na categoria de sobrepeso.` },
-      { id: 'C', type: 'text', value: `Duílio tem o IMC 27,3 e Sandra tem o IMC 26,6, 
-estando ambos na categoria de sobrepeso.` },
-      { id: 'D', type: 'text', value: `Duílio tem o IMC 25,6, estando na categoria de 
-sobrepeso, e Sandra tem o IMC 24,7, estando na 
-categoria de peso normal.` },
-      { id: 'E', type: 'text', value: `Duílio tem o IMC 25,1, estando na categoria de 
-sobrepeso, e Sandra tem o IMC 22,6, estando na 
-categoria de peso normal.` },
+      { id: 'A', type: 'text', value: `Duílio tem o IMC 26,7 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.` },
+      { id: 'B', type: 'text', value: `Duílio tem o IMC 27,3 e Sandra tem o IMC 29,1, estando ambos na categoria de sobrepeso.` },
+      { id: 'C', type: 'text', value: `Duílio tem o IMC 27,3 e Sandra tem o IMC 26,6, estando ambos na categoria de sobrepeso.` },
+      { id: 'D', type: 'text', value: `Duílio tem o IMC 25,6, estando na categoria de sobrepeso, e Sandra tem o IMC 24,7, estando na categoria de peso normal.` },
+      { id: 'E', type: 'text', value: `Duílio tem o IMC 25,1, estando na categoria de sobrepeso, e Sandra tem o IMC 22,6, estando na categoria de peso normal.` },
     ],
     correct: 'B',
     explanation: `IMC = massa/altura². Duílio: 96,4/(1,88²) = 96,4/3,5344 ≈ 27,3 → faixa 25 a 29,9 (sobrepeso). Sandra: 84/(1,70²) = 84/2,89 ≈ 29,1 → faixa 25 a 29,9 (sobrepeso). Ambos estão na categoria sobrepeso. Resposta: B.`,
@@ -3050,52 +2757,21 @@ responderam “NÃO” à enquete?`,
     exam: 'enem',
     year: 2011,
     day: 2,
-    text: `A cor de uma estrela tem relação com a temperatura 
-em sua superfície. Estrelas não muito quentes (cerca 
-de 3 000 K) nos parecem avermelhadas. Já as estrelas 
-amarelas, como o Sol, possuem temperatura em torno 
-dos 6 000 K; as mais quentes são brancas ou azuis 
-porque sua temperatura fica acima dos 10 000 K. 
-A tabela apresenta uma classificação espectral e 
-outros dados para as estrelas dessas classes. 
-Estrelas da Sequência Principal 
-Classe 
-Espectral 
-Temperatura 
-Luminosidade 
-Massa 
-Raio 
-O5 
-40 000 
-5 × 10⁵ 
-40 
-18 
-B0 
-28 000 
-2 × 10⁴ 
-18 
-7 
-A0 
-9 900 
-80 
-3 
-2.5 
-G2 
-5 770 
-1 
-1 
-1 
-M0 
-3 480 
-0,06 
-0,5 
-0,6 
-Temperatura em Kelvin. 
-Luminosidade, massa e raio, tomando o Sol como unidade. 
-Disponível em: http://www.zenite.nu. Acesso em: 1 maio 2010 (adaptado). 
-Se tomarmos uma estrela que tenha temperatura 
-5 vezes maior que a temperatura do Sol, qual será a 
-ordem de grandeza de sua luminosidade?`,
+    text: `A cor de uma estrela tem relação com a temperatura em sua
+superfície. Estrelas não muito quentes (cerca de 3 000 K) nos
+parecem avermelhadas. Já as estrelas amarelas, como o Sol,
+possuem temperatura em torno dos 6 000 K; as mais quentes são
+brancas ou azuis porque sua temperatura fica acima dos 10 000
+K. A tabela apresenta uma classificação espectral e outros
+dados para as estrelas dessas classes. Estrelas da Sequência
+Principal Classe Espectral Temperatura Luminosidade Massa Raio
+O5 40 000 5 × 10⁵ 40 18 B0 28 000 2 × 10⁴ 18 7 A0 9 900 80 3
+2.5 G2 5 770 1 1 1 M0 3 480 0,06 0,5 0,6 Temperatura em
+Kelvin. Luminosidade, massa e raio, tomando o Sol como
+unidade. Disponível em: http://www.zenite.nu. Acesso em: 1
+maio 2010 (adaptado). Se tomarmos uma estrela que tenha
+temperatura 5 vezes maior que a temperatura do Sol, qual será
+a ordem de grandeza de sua luminosidade?`,
     images: ['/enem/2011/images/enem_2011_d2_q176.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `20 000 vezes a luminosidade do Sol.` },
@@ -3133,19 +2809,11 @@ Para escolher o investimento com a maior rentabilidade
 anual, essa pessoa deverá`,
     images: ['/enem/2011/images/enem_2011_d2_q177.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `escolher qualquer um dos investimentos A, B ou C,
-pois as suas rentabilidades anuais são iguais a 36%.` },
-      { id: 'B', type: 'text', value: `escolher os investimentos A ou C, pois suas
-rentabilidades anuais são iguais a 39%.` },
-      { id: 'C', type: 'text', value: `escolher o investimento A, pois a sua rentabilidade
-anual é maior que as rentabilidades anuais dos
-investimentos B e C.` },
-      { id: 'D', type: 'text', value: `escolher o investimento B, pois sua rentabilidade
-de 36% é maior que as rentabilidades de 3% do
-investimento A e de 18% do investimento C.` },
-      { id: 'E', type: 'text', value: `escolher o investimento C, pois sua rentabilidade de
-39% ao ano é maior que a rentabilidade de 36% ao
-ano dos investimentos A e B.` },
+      { id: 'A', type: 'text', value: `escolher qualquer um dos investimentos A, B ou C, pois as suas rentabilidades anuais são iguais a 36%.` },
+      { id: 'B', type: 'text', value: `escolher os investimentos A ou C, pois suas rentabilidades anuais são iguais a 39%.` },
+      { id: 'C', type: 'text', value: `escolher o investimento A, pois a sua rentabilidade anual é maior que as rentabilidades anuais dos investimentos B e C.` },
+      { id: 'D', type: 'text', value: `escolher o investimento B, pois sua rentabilidade de 36% é maior que as rentabilidades de 3% do investimento A e de 18% do investimento C.` },
+      { id: 'E', type: 'text', value: `escolher o investimento C, pois sua rentabilidade de 39% ao ano é maior que a rentabilidade de 36% ao ano dos investimentos A e B.` },
 
     ],
     correct: 'C',
@@ -3247,14 +2915,10 @@ Em relação às pesquisas, a utilização da expressão
 university graduates evidencia a intenção de informar que`,
     alternatives: [
       { id: 'A', type: 'text', value: `as doenças do coração atacam dez mil pacientes.` },
-      { id: 'B', type: 'text', value: `as doenças do coração ocorrem na faixa dos
-dezesseis anos.` },
-      { id: 'C', type: 'text', value: `as pesquisas sobre doenças são divulgadas no meio
-acadêmico.` },
-      { id: 'D', type: 'text', value: `jovens americanos são alertados dos riscos de
-doenças do coração.` },
-      { id: 'E', type: 'text', value: `maior nível de estudo reduz riscos de ataques do
-coração.` },
+      { id: 'B', type: 'text', value: `as doenças do coração ocorrem na faixa dos dezesseis anos.` },
+      { id: 'C', type: 'text', value: `as pesquisas sobre doenças são divulgadas no meio acadêmico.` },
+      { id: 'D', type: 'text', value: `jovens americanos são alertados dos riscos de doenças do coração.` },
+      { id: 'E', type: 'text', value: `maior nível de estudo reduz riscos de ataques do coração.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto informa que um estudo com dez mil pacientes concluiu que pessoas que deixam a escola antes dos 16 anos têm risco bem maior de infarto do que quem concluiu a universidade. A expressão 'university graduates' é usada em oposição a esses, evidenciando a intenção de informar que um maior nível de estudo reduz os riscos de ataques do coração, conforme a alternativa E. A alternativa A toma o número de participantes como número de doentes; a B associa as doenças à faixa dos dezesseis anos; a C fala em divulgação acadêmica das pesquisas; e a D restringe o alerta aos jovens americanos, desvios do contraste que a expressão estabelece.`,
@@ -3313,16 +2977,11 @@ O projeto Mappiness, idealizado pela London School of
 Economics, ocupa-se do tema relacionado`,
     images: ['/enem/2011/images/enem_2011_d2_q183.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `ao nível de felicidade das pessoas em tempos de
-guerra.` },
-      { id: 'B', type: 'text', value: `à dificuldade de medir o nível de felicidade das
-pessoas a partir de seu humor.` },
-      { id: 'C', type: 'text', value: `ao nível de felicidade das pessoas enquanto falam
-ao celular com seus familiares.` },
-      { id: 'D', type: 'text', value: `à relação entre o nível de felicidade das pessoas e o
-ambiente no qual se encontram.` },
-      { id: 'E', type: 'text', value: `à influência das imagens grafitadas pelas ruas no
-aumento do nível de felicidade das pessoas.` },
+      { id: 'A', type: 'text', value: `ao nível de felicidade das pessoas em tempos de guerra.` },
+      { id: 'B', type: 'text', value: `à dificuldade de medir o nível de felicidade das pessoas a partir de seu humor.` },
+      { id: 'C', type: 'text', value: `ao nível de felicidade das pessoas enquanto falam ao celular com seus familiares.` },
+      { id: 'D', type: 'text', value: `à relação entre o nível de felicidade das pessoas e o ambiente no qual se encontram.` },
+      { id: 'E', type: 'text', value: `à influência das imagens grafitadas pelas ruas no aumento do nível de felicidade das pessoas.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto apresenta o projeto Mappiness, da London School of Economics, um aplicativo que pede ao usuário que registre seu humor e sua situação para estudar como a felicidade é afetada pelo ambiente local, como poluição do ar, ruído e áreas verdes. O projeto ocupa-se, portanto, da relação entre o nível de felicidade das pessoas e o ambiente em que se encontram, conforme a alternativa D. A alternativa A associa o tema a tempos de guerra; a B, à dificuldade de medir a felicidade pelo humor; a C, a conversas ao celular com familiares; e a E, à influência de imagens grafitadas nas ruas, leituras que não traduzem o objeto do estudo.`,

@@ -7,48 +7,33 @@ const ENEM_2023_D1: QuizQuestion[] = [
     exam: 'enem',
     year: 2023,
     day: 1,
-    text: `TEXTO I 
-QUE ME PASA?: 
-? 
-pORQUÉ ME CUESTA TANTO ESTUDIAR? 
-pORQUE ME CUESTA TANTO CONCENTRARME? 
-PoRQUE...... 
-PoRQUÉ...... 
-? 
-? 
-? 
-? 
-...... 
-PORQUé NO CONSIGO APRENDER COMO LOS DEMÁS? 
-? 
-Disponível em: www.otrasvoceseneducacion.org. Acesso em: 8 nov. 2022. 
-TEXTO II 
-Ishaan Awashi es un niño de 8 años cuyo mundo está 
-plagado de maravillas que nadie más parece apreciar: 
-colores, peces, perros y cometas, que simplemente no son 
-importantes en la vida de los adultos, que parecen más 
-interesados en cosas como los deberes, las notas o la 
-limpieza. E Ishaan parece no poder hacer nada bien en clase. 
-Cuando los problemas que ocasiona superan a sus padres, 
-es internado en un colegio para que le disciplinen. Las cosas 
-no mejoran en el nuevo colegio, donde Ishaan tiene además 
-que aceptar estar lejos de sus padres. Hasta que un día, 
-el nuevo profesor de arte, Ram Shankar Nikumbh, entra en 
-escena, se interesa por el pequeño Ishaan y todo cambia. 
-Disponível em: https://elfinalde.com. Acesso em: 26 out. 2021 (adaptado). 
-O filme Como estrellas en la tierra aborda o tema da 
-dislexia. Relacionando o cartaz do filme com a sinopse, 
-constata-se que o(a)`,
+    text: `TEXTO I QUE ME PASA?: ? pORQUÉ ME CUESTA TANTO ESTUDIAR?
+pORQUE ME CUESTA TANTO CONCENTRARME? PoRQUE...... PoRQUÉ......
+? ? ? ? ...... PORQUé NO CONSIGO APRENDER COMO LOS DEMÁS? ?
+Disponível em: www.otrasvoceseneducacion.org. Acesso em: 8
+nov. 2022. TEXTO II Ishaan Awashi es un niño de 8 años cuyo
+mundo está plagado de maravillas que nadie más parece
+apreciar: colores, peces, perros y cometas, que simplemente no
+son importantes en la vida de los adultos, que parecen más
+interesados en cosas como los deberes, las notas o la
+limpieza. E Ishaan parece no poder hacer nada bien en clase.
+Cuando los problemas que ocasiona superan a sus padres, es
+internado en un colegio para que le disciplinen. Las cosas no
+mejoran en el nuevo colegio, donde Ishaan tiene además que
+aceptar estar lejos de sus padres. Hasta que un día, el nuevo
+profesor de arte, Ram Shankar Nikumbh, entra en escena, se
+interesa por el pequeño Ishaan y todo cambia. Disponível em:
+https://elfinalde.com. Acesso em: 26 out. 2021 (adaptado). O
+filme Como estrellas en la tierra aborda o tema da dislexia.
+Relacionando o cartaz do filme com a sinopse, constata-se que
+o(a)`,
     images: ['/enem/2023/images/enem_2023_d1_q1.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `olhar diferenciado para com o outro gera mudanças.` },
       { id: 'B', type: 'text', value: `estudante com dislexia apresenta um tom questionador.` },
-      { id: 'C', type: 'text', value: `abordagem para lidar com a dislexia é pautada na 
-disciplina.` },
-      { id: 'D', type: 'text', value: `contato com os pais prejudica o acompanhamento da 
-dislexia.` },
-      { id: 'E', type: 'text', value: `mudança de interesses ocorre na transição da infância 
-para a vida adulta.` },
+      { id: 'C', type: 'text', value: `abordagem para lidar com a dislexia é pautada na disciplina.` },
+      { id: 'D', type: 'text', value: `contato com os pais prejudica o acompanhamento da dislexia.` },
+      { id: 'E', type: 'text', value: `mudança de interesses ocorre na transição da infância para a vida adulta.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O cartaz (Texto I) traz as perguntas angustiadas de quem não consegue aprender como os demais, e a sinopse (Texto II) mostra que tudo muda quando o professor de arte passa a se interessar pelo menino Ishaan. A relação entre os dois textos evidencia que um olhar diferenciado para com o outro é capaz de gerar transformação, o que confirma a alternativa A. A alternativa B inverte o foco ao atribuir ao estudante um tom questionador, e a C contraria o texto, pois a disciplina do novo colégio não melhora a situação. A D generaliza um prejuízo causado pela distância dos pais, e a E fala de uma mudança de interesses da infância para a vida adulta que não é o tema central.`,
@@ -61,35 +46,19 @@ para a vida adulta.` },
     exam: 'enem',
     year: 2023,
     day: 1,
-    text: `Me niego rotundamente 
-A negar mi voz, 
-Mi sangre y mi piel. 
-Y me niego rotundamente 
-A dejar de ser yo, 
-A dejar de sentirme bien 
-Cuando miro mi rostro en el espejo 
-Con mi boca 
-Rotundamente grande, 
-Y mi nariz 
-Rotundamente hermosa, 
-Y mis dientes 
-Rotundamente blancos, 
-Y mi piel valientemente negra. 
-Y me niego categóricamente 
-A dejar de hablar 
-Mi lengua, mi acento y mi historia. 
-Y me niego absolutamente 
-A ser parte de los que callan, 
-De los que temen, 
-De los que lloran. 
-Porque me acepto 
-Rotundamente libre, 
-Rotundamente negra, 
-Rotundamente hermosa. 
-CAMPBELL BARR, S. Disponível em: https://negracubanateniaqueser.com. 
-Acesso em: 25 out. 2021. 
-Para enfatizar características e atitudes que reforçam 
-a identidade da mulher negra, o poema da escritora 
+    text: `Me niego rotundamente A negar mi voz, Mi sangre y mi piel. Y
+me niego rotundamente A dejar de ser yo, A dejar de sentirme
+bien Cuando miro mi rostro en el espejo Con mi boca
+Rotundamente grande, Y mi nariz Rotundamente hermosa, Y mis
+dientes Rotundamente blancos, Y mi piel valientemente negra. Y
+me niego categóricamente A dejar de hablar Mi lengua, mi
+acento y mi historia. Y me niego absolutamente A ser parte de
+los que callan, De los que temen, De los que lloran. Porque me
+acepto Rotundamente libre, Rotundamente negra, Rotundamente
+hermosa. CAMPBELL BARR, S. Disponível em:
+https://negracubanateniaqueser.com. Acesso em: 25 out. 2021.
+Para enfatizar características e atitudes que reforçam a
+identidade da mulher negra, o poema da escritora
 costarriquenha apresenta`,
     alternatives: [
       { id: 'A', type: 'text', value: `advérbios como “ rotundamente ” e “ categoricamente ”.` },
@@ -132,10 +101,8 @@ Nesse poema, o eu poético enaltece a`,
       { id: 'A', type: 'text', value: `característica amistosa do povo espanhol.` },
       { id: 'B', type: 'text', value: `beleza das paisagens naturais da Espanha.` },
       { id: 'C', type: 'text', value: `variedade de pratos na gastronomia espanhola.` },
-      { id: 'D', type: 'text', value: `relação entre os sentidos do paladar e do olfato na 
-gastronomia.` },
-      { id: 'E', type: 'text', value: `gastronomia como representação da identidade 
-cultural de um povo.` },
+      { id: 'D', type: 'text', value: `relação entre os sentidos do paladar e do olfato na gastronomia.` },
+      { id: 'E', type: 'text', value: `gastronomia como representação da identidade cultural de um povo.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Ao longo do poema, o eu lírico associa os pratos típicos espanhóis a ideias de “identidad”, “alegoría” e “reserva”, mostrando que a comida funciona como marca cultural de um povo. Por isso o texto enaltece a gastronomia como representação da identidade cultural espanhola, o que valida a alternativa E. A alternativa C é parcial, pois a variedade de pratos é apenas um meio para chegar à ideia de identidade, e A e B destacam o povo e as paisagens, aspectos secundários. A D reduz o poema à relação entre paladar e olfato, que é apenas um detalhe sensorial do texto.`,
@@ -286,16 +253,11 @@ outros incômodos. Foram ser incomodados.
 ARRAES, J. Redemoinho em dia quente . São Paulo: Alfaguara, 2019. 
 Nesse texto, os recursos expressivos usados pela narradora`,
     alternatives: [
-      { id: 'A', type: 'text', value: `revelam as marcas da violência de raça e de gênero 
-na construção da identidade.` },
-      { id: 'B', type: 'text', value: `questionam o pioneirismo do estado do Ceará no 
-enfrentamento à escravidão.` },
-      { id: 'C', type: 'text', value: `reproduzem padrões estéticos em busca da valorização 
-da autoestima feminina.` },
-      { id: 'D', type: 'text', value: `sugerem uma atmosfera onírica alinhada ao desejo 
-de resgate da espiritualidade.` },
-      { id: 'E', type: 'text', value: `mimetizam, na paisagem, os corpos transformados 
-pela violência da escravidão.` },
+      { id: 'A', type: 'text', value: `revelam as marcas da violência de raça e de gênero na construção da identidade.` },
+      { id: 'B', type: 'text', value: `questionam o pioneirismo do estado do Ceará no enfrentamento à escravidão.` },
+      { id: 'C', type: 'text', value: `reproduzem padrões estéticos em busca da valorização da autoestima feminina.` },
+      { id: 'D', type: 'text', value: `sugerem uma atmosfera onírica alinhada ao desejo de resgate da espiritualidade.` },
+      { id: 'E', type: 'text', value: `mimetizam, na paisagem, os corpos transformados pela violência da escravidão.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A narradora descreve o próprio corpo como “animal da caatinga”, “faminto” e “violento” e entrelaça essa imagem à memória da escravidão abolida no Ceará, unindo corpo, raça e gênero. Os recursos expressivos revelam, assim, as marcas da violência de raça e de gênero na construção de sua identidade, o que confirma a alternativa A. A alternativa B afirma que o texto questiona o pioneirismo do Ceará, mas ele o menciona sem contestar. C fala em padrões estéticos de autoestima, D em atmosfera onírica e espiritualidade e E em corpos mimetizados na paisagem, leituras que não traduzem a associação entre violência histórica e identidade.`,
@@ -328,16 +290,11 @@ O texto de Agualusa tematiza o preconceito em relação
 ao português brasileiro. Com base no trecho citado pelo 
 autor, infere-se que esse preconceito se deve`,
     alternatives: [
-      { id: 'A', type: 'text', value: `à dificuldade de consolidação da literatura brasileira 
-em outros países.` },
-      { id: 'B', type: 'text', value: `aos diferentes graus de instrução formal entre os 
-falantes de língua portuguesa.` },
-      { id: 'C', type: 'text', value: `à existência de uma língua ideal que alguns falantes 
-lusitanos creem ser a falada em Portugal.` },
-      { id: 'D', type: 'text', value: `ao intercâmbio cultural que ocorre entre os povos dos 
-diferentes países de língua portuguesa.` },
-      { id: 'E', type: 'text', value: `à distância territorial entre os falantes do português 
-que vivem em Portugal e no Brasil.` },
+      { id: 'A', type: 'text', value: `à dificuldade de consolidação da literatura brasileira em outros países.` },
+      { id: 'B', type: 'text', value: `aos diferentes graus de instrução formal entre os falantes de língua portuguesa.` },
+      { id: 'C', type: 'text', value: `à existência de uma língua ideal que alguns falantes lusitanos creem ser a falada em Portugal.` },
+      { id: 'D', type: 'text', value: `ao intercâmbio cultural que ocorre entre os povos dos diferentes países de língua portuguesa.` },
+      { id: 'E', type: 'text', value: `à distância territorial entre os falantes do português que vivem em Portugal e no Brasil.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O trecho citado mostra que alguns portugueses consideram “errado” o português falado no Brasil, como se existisse uma única forma legítima da língua. Depreende-se daí que o preconceito decorre da crença, por parte de certos falantes lusitanos, em uma língua ideal que seria a verdadeira, o que confirma a alternativa C. A alternativa B atribui o preconceito a graus de instrução e E à distância territorial, fatores não sustentados pelo texto. A A fala em consolidação da literatura brasileira e D em intercâmbio cultural, aspectos que não explicam a desvalorização da variedade brasileira.`,
@@ -373,8 +330,7 @@ está diretamente relacionada ao(à)`,
       { id: 'B', type: 'text', value: `nível de letramento da população marginalizada.` },
       { id: 'C', type: 'text', value: `poder de censura por parte dos serviços públicos.` },
       { id: 'D', type: 'text', value: `legitimidade da voz dos representantes da nobreza.` },
-      { id: 'E', type: 'text', value: `diversidade dos meios disponíveis em uma época 
-histórica.` },
+      { id: 'E', type: 'text', value: `diversidade dos meios disponíveis em uma época histórica.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto enumera vários agentes que difundiam notícias na Idade Média — cavalos, ordens mendicantes, jograis, peregrinos, vagabundos e correios urbanos —, mostrando que a propagação eficaz dependia da multiplicidade desses canais. A eficácia está, portanto, diretamente relacionada à diversidade dos meios disponíveis naquela época, o que confirma a alternativa E. A alternativa A isola a velocidade de circulação, que é apenas um dos fatores citados. B, C e D remetem ao letramento dos marginalizados, à censura dos serviços públicos e à voz da nobreza, elementos que não aparecem como causa da eficácia descrita.`,
@@ -415,10 +371,8 @@ para o(a)`,
       { id: 'A', type: 'text', value: `controle da atuação dos profissionais de TI.` },
       { id: 'B', type: 'text', value: `desenvolvimento de tecnologias como os “ trolls ”.` },
       { id: 'C', type: 'text', value: `flexibilização dos turnos de trabalho dos controladores.` },
-      { id: 'D', type: 'text', value: `necessidade de regulamentação do funcionamento 
-dos “ bots ”.` },
-      { id: 'E', type: 'text', value: `identificação de padrões de disseminação de 
-informações inverídicas.` },
+      { id: 'D', type: 'text', value: `necessidade de regulamentação do funcionamento dos “ bots ”.` },
+      { id: 'E', type: 'text', value: `identificação de padrões de disseminação de informações inverídicas.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto explica que observar características da linguagem — como a concentração de postagens em horários de trabalho e a pobreza vocabular das mensagens — ajuda a reconhecer perfis falsos. Essa análise contribui para a identificação de padrões de disseminação de informações inverídicas, o que confirma a alternativa E. As alternativas A, B, C e D associam a análise ao controle de profissionais de TI, ao desenvolvimento de “trolls”, à flexibilização de turnos e à regulamentação de “bots”, desvios que não correspondem à finalidade apontada no texto, voltada a detectar a propagação de notícias falsas.`,
@@ -430,45 +384,34 @@ informações inverídicas.` },
     exam: 'enem',
     year: 2023,
     day: 1,
-    text: `Maio foi colorido de amarelo, e o foi porque 
-mundialmente amarelo é a cor convencionada para as 
-advertências. No trânsito, essas advertências têm sido 
-fatais. A estimativa, caso nada seja feito, é a de que se 
-atinjam assustadoras 2,4 milhões de mortes no trânsito 
-em 2030 em todo o mundo. 
-A pressa constante, o sentimento de invencibilidade, 
-a certeza de invulnerabilidade, a necessidade de poder, 
-a falta de civilidade, a certeza de impunidade, a ausência 
-de solidariedade, a inexistência de compaixão e o 
-desrespeito por si próprio são circunstâncias reais que, 
-não raro, concorrem para o comportamento violento no 
-trânsito. 
-O Maio Amarelo, que preconiza a atenção pela vida, 
-é uma das iniciativas nesse sentido. E é precisamente 
-a atenção pela vida que está esquecida. Essa atenção, 
-por certo, requer menos pressa, mais civilidade, 
-limites assegurados, consciência de vulnerabilidade, 
-solidariedade, compaixão e respeito por si e pelo outro. 
-Reafirmar e praticar esses princípios e valores talvez seja 
-um caminho mais seguro e menos violento, que garanta 
-a vida e não celebre a morte. 
-Disponível em: http://portaldotransito.com.br. Acesso em: 11 dez. 2018 (adaptado). 
-Considerando 
-os 
-procedimentos 
-argumentativos 
+    text: `Maio foi colorido de amarelo, e o foi porque mundialmente
+amarelo é a cor convencionada para as advertências. No
+trânsito, essas advertências têm sido fatais. A estimativa,
+caso nada seja feito, é a de que se atinjam assustadoras 2,4
+milhões de mortes no trânsito em 2030 em todo o mundo. A
+pressa constante, o sentimento de invencibilidade, a certeza
+de invulnerabilidade, a necessidade de poder, a falta de
+civilidade, a certeza de impunidade, a ausência de
+solidariedade, a inexistência de compaixão e o desrespeito por
+si próprio são circunstâncias reais que, não raro, concorrem
+para o comportamento violento no trânsito. O Maio Amarelo, que
+preconiza a atenção pela vida, é uma das iniciativas nesse
+sentido. E é precisamente a atenção pela vida que está
+esquecida. Essa atenção, por certo, requer menos pressa, mais
+civilidade, limites assegurados, consciência de
+vulnerabilidade, solidariedade, compaixão e respeito por si e
+pelo outro. Reafirmar e praticar esses princípios e valores
+talvez seja um caminho mais seguro e menos violento, que
+garanta a vida e não celebre a morte. Disponível em:
+http://portaldotransito.com.br. Acesso em: 11 dez. 2018
+(adaptado). Considerando os procedimentos argumentativos
 utilizados, infere-se que o objetivo desse texto é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `enumerar as causas determinantes da violência no 
-trânsito.` },
-      { id: 'B', type: 'text', value: `contextualizar a campanha de advertência no cenário 
-mundial.` },
-      { id: 'C', type: 'text', value: `divulgar dados numéricos alarmantes sobre acidentes 
-de trânsito.` },
-      { id: 'D', type: 'text', value: `sensibilizar o público para a importância de uma 
-direção responsável.` },
-      { id: 'E', type: 'text', value: `restringir os problemas da violência no trânsito a 
-aspectos emocionais.` },
+      { id: 'A', type: 'text', value: `enumerar as causas determinantes da violência no trânsito.` },
+      { id: 'B', type: 'text', value: `contextualizar a campanha de advertência no cenário mundial.` },
+      { id: 'C', type: 'text', value: `divulgar dados numéricos alarmantes sobre acidentes de trânsito.` },
+      { id: 'D', type: 'text', value: `sensibilizar o público para a importância de uma direção responsável.` },
+      { id: 'E', type: 'text', value: `restringir os problemas da violência no trânsito a aspectos emocionais.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. Ao apresentar valores como atenção à vida, civilidade, solidariedade e respeito ao outro, o texto não se limita a informar dados, mas busca convencer o leitor a mudar de atitude no trânsito. Os procedimentos argumentativos revelam, assim, a intenção de sensibilizar o público para a importância de uma direção responsável, o que confirma a alternativa D. A alternativa A reduz o texto à enumeração de causas, C à divulgação de dados e B à contextualização da campanha, aspectos que são apenas meios. A E distorce o texto ao afirmar que ele restringe o problema a fatores emocionais.`,
@@ -540,14 +483,10 @@ ANDRADE, M. Poesias completas . Rio de Janeiro: Nova Fronteira, 2013 (fragmento)
 Perante o outro, o eu lírico revela, na força das memórias 
 evocadas, a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `vergonha das marcas provocadas pela passagem do 
-tempo.` },
-      { id: 'B', type: 'text', value: `indecisão em face das possibilidades afetivas do 
-presente.` },
-      { id: 'C', type: 'text', value: `serenidade sedimentada pela entrega pacífica ao 
-desejo.` },
-      { id: 'D', type: 'text', value: `frustração causada pela vontade de retorno ao 
-passado.` },
+      { id: 'A', type: 'text', value: `vergonha das marcas provocadas pela passagem do tempo.` },
+      { id: 'B', type: 'text', value: `indecisão em face das possibilidades afetivas do presente.` },
+      { id: 'C', type: 'text', value: `serenidade sedimentada pela entrega pacífica ao desejo.` },
+      { id: 'D', type: 'text', value: `frustração causada pela vontade de retorno ao passado.` },
       { id: 'E', type: 'text', value: `disponibilidade para a exploração do prazer efêmero.` },
     ],
     correct: 'C',
@@ -630,10 +569,8 @@ Disponível em: https://brasil.elpais.com. Acesso em: 10 dez. 2018 (adaptado).
 A perda dos registros linguísticos no incêndio do Museu 
 Nacional tem impacto potencializado, uma vez que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `exige a retomada das pesquisas por especialistas de 
-diferentes áreas.` },
-      { id: 'B', type: 'text', value: `representa danos irreparáveis à memória e à identidade 
-nacionais.` },
+      { id: 'A', type: 'text', value: `exige a retomada das pesquisas por especialistas de diferentes áreas.` },
+      { id: 'B', type: 'text', value: `representa danos irreparáveis à memória e à identidade nacionais.` },
       { id: 'C', type: 'text', value: `impossibilita o surgimento de novas pesquisas na área.` },
       { id: 'D', type: 'text', value: `resulta na extinção da cultura de povos originários.` },
       { id: 'E', type: 'text', value: `inviabiliza o estudo da língua do povo Tikuna.` },
@@ -677,16 +614,11 @@ costumes da geração que o utiliza.
 Disponível em: www.educação.sp.gov.br. Acesso em: 1 nov. 2021 (adaptado). 
 Nesse texto, a Língua Brasileira de Sinais (Libras)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `passa por fenômenos de variação linguística como 
-qualquer outra língua.` },
-      { id: 'B', type: 'text', value: `apresenta variações regionais, assumindo novo 
-sentido para algumas palavras.` },
-      { id: 'C', type: 'text', value: `sofre mudança estrutural motivada pelo uso de sinais 
-diferentes para algumas palavras.` },
-      { id: 'D', type: 'text', value: `diferencia-se em todo o Brasil, desenvolvendo cada 
-região a sua própria língua de sinais.` },
-      { id: 'E', type: 'text', value: `é ininteligível para parte dos usuários em razão das 
-mudanças de sinais motivadas geograficamente.` },
+      { id: 'A', type: 'text', value: `passa por fenômenos de variação linguística como qualquer outra língua.` },
+      { id: 'B', type: 'text', value: `apresenta variações regionais, assumindo novo sentido para algumas palavras.` },
+      { id: 'C', type: 'text', value: `sofre mudança estrutural motivada pelo uso de sinais diferentes para algumas palavras.` },
+      { id: 'D', type: 'text', value: `diferencia-se em todo o Brasil, desenvolvendo cada região a sua própria língua de sinais.` },
+      { id: 'E', type: 'text', value: `é ininteligível para parte dos usuários em razão das mudanças de sinais motivadas geograficamente.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto compara a Libras às línguas orais ao mostrar que ela varia conforme região, idade e gênero dos usuários, como no caso dos diferentes sinais para “verde” ou “cerveja”. Conclui-se que a Libras passa por fenômenos de variação linguística como qualquer outra língua, o que confirma a alternativa A. As alternativas B e C afirmam que os sinais assumem novo sentido ou provocam mudança estrutural, extrapolando o texto; D sustenta que cada região desenvolveria uma língua própria, e E que a língua se tornaria ininteligível, conclusões contrariadas pela ideia de simples variação interna de uma mesma língua.`,
@@ -714,16 +646,11 @@ HERZ, P. ]cultura[ , n. 1, jun. 2018 (adaptado).
 O uso não padrão dos colchetes para nomear a revista 
 atribui-lhes uma nova função e está correlacionado ao(à)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `perfil de público-alvo, constituído por leitores exigentes 
-e especializados em leitura acadêmica.` },
-      { id: 'B', type: 'text', value: `propósito do editor, chamando a atenção para o rigor 
-normativo nos textos da revista.` },
-      { id: 'C', type: 'text', value: `exclusividade na seleção temática, direcionada para 
-a área das` },
-      { id: 'D', type: 'text', value: `identidade da revista, voltada para a recepção e a 
-promoção de ideias circulantes em livros.` },
-      { id: 'E', type: 'text', value: `padrão editorial dos artigos, organizados em torno de 
-uma proposta de design inovador.` },
+      { id: 'A', type: 'text', value: `perfil de público-alvo, constituído por leitores exigentes e especializados em leitura acadêmica.` },
+      { id: 'B', type: 'text', value: `propósito do editor, chamando a atenção para o rigor normativo nos textos da revista.` },
+      { id: 'C', type: 'text', value: `exclusividade na seleção temática, direcionada para a área das` },
+      { id: 'D', type: 'text', value: `identidade da revista, voltada para a recepção e a promoção de ideias circulantes em livros.` },
+      { id: 'E', type: 'text', value: `padrão editorial dos artigos, organizados em torno de uma proposta de design inovador.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O editor explica que os colchetes do nome ]cultura[ estão voltados para fora por serem “sinais abertos, receptivos, propícios à circulação de ideias”, em sintonia com uma revista que nasce das estantes de uma livraria. O uso não padrão da pontuação relaciona-se, assim, à identidade da revista, voltada para a recepção e a promoção de ideias que circulam nos livros, o que confirma a alternativa D. A alternativa A restringe o público a leitores acadêmicos e B associa os colchetes ao rigor normativo, sentidos ausentes no texto. C e E falam em exclusividade temática e em design inovador dos artigos, que não explicam a função atribuída aos sinais.`,
@@ -761,12 +688,9 @@ VELOSO, C.  Meu coco . Rio de Janeiro:   Sony, 2021 (fragmento).
 Embora oriundas de momentos históricos diferentes, 
 essas letras de canção têm em comum a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `referência às cores como elemento de crítica a hábitos 
-contemporâneos.` },
-      { id: 'B', type: 'text', value: `percepção da profusão de informações gerada pela 
-tecnologia.` },
-      { id: 'C', type: 'text', value: `contraposição entre os vícios e as virtudes da vida 
-moderna.` },
+      { id: 'A', type: 'text', value: `referência às cores como elemento de crítica a hábitos contemporâneos.` },
+      { id: 'B', type: 'text', value: `percepção da profusão de informações gerada pela tecnologia.` },
+      { id: 'C', type: 'text', value: `contraposição entre os vícios e as virtudes da vida moderna.` },
       { id: 'D', type: 'text', value: `busca constante pela liberdade de expressão individual.` },
       { id: 'E', type: 'text', value: `crítica à finalidade comercial das notícias.` },
     ],
@@ -808,16 +732,11 @@ Acesso em: 22 nov. 2021 (adaptado).
 O uso de citação e de dados estatísticos nesse texto tem 
 o objetivo de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `ressaltar a importância da poesia para denunciar a 
-morte de negros, que cresce a cada dia.` },
-      { id: 'B', type: 'text', value: `destacar o crescimento exponencial da temática do 
-preconceito na produção literária no Brasil.` },
-      { id: 'C', type: 'text', value: `demonstrar o incremento no quantitativo de expressões 
-artísticas na discussão de problemas sociais.` },
-      { id: 'D', type: 'text', value: `evidenciar argumentos que reforçam a ideia de que os 
-negros são vítimas em potencial da violência.` },
-      { id: 'E', type: 'text', value: `salientar o aumento da participação de jovens nos 
-movimentos de resistência na área da cultura.` },
+      { id: 'A', type: 'text', value: `ressaltar a importância da poesia para denunciar a morte de negros, que cresce a cada dia.` },
+      { id: 'B', type: 'text', value: `destacar o crescimento exponencial da temática do preconceito na produção literária no Brasil.` },
+      { id: 'C', type: 'text', value: `demonstrar o incremento no quantitativo de expressões artísticas na discussão de problemas sociais.` },
+      { id: 'D', type: 'text', value: `evidenciar argumentos que reforçam a ideia de que os negros são vítimas em potencial da violência.` },
+      { id: 'E', type: 'text', value: `salientar o aumento da participação de jovens nos movimentos de resistência na área da cultura.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto une os versos de Baticum Proletário aos dados do Atlas da Violência, que mostram que os negros foram 77% das vítimas de homicídio e têm quase 2,7 vezes mais chance de serem mortos. O uso da citação e dos números serve para evidenciar argumentos que reforçam a ideia de que os negros são vítimas em potencial da violência, o que confirma a alternativa D. A alternativa A enfatiza a importância da poesia e C o aumento de expressões artísticas, desviando do objetivo dos dados. B fala em crescimento da temática na literatura e E no aumento da participação de jovens na cultura, finalidades que a estatística sobre homicídios não sustenta.`,
@@ -863,10 +782,8 @@ a linguagem daqueles que detêm o poder foi`,
       { id: 'A', type: 'text', value: `revelar a origem religiosa da linguagem.` },
       { id: 'B', type: 'text', value: `questionar o temor sobre o futuro da linguagem.` },
       { id: 'C', type: 'text', value: `descrever a relação entre sociedade e linguagem.` },
-      { id: 'D', type: 'text', value: `apresentar as consequências do esfacelamento da 
-linguagem.` },
-      { id: 'E', type: 'text', value: `criticar o obstáculo promovido pelos usos especializados 
-da linguagem.` },
+      { id: 'D', type: 'text', value: `apresentar as consequências do esfacelamento da linguagem.` },
+      { id: 'E', type: 'text', value: `criticar o obstáculo promovido pelos usos especializados da linguagem.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Para mostrar que grande parte da população não entende a linguagem dos que detêm o poder, a autora questiona “quem entende” a linguagem de advogados, juízes, médicos, burocratas e cientistas, denunciando que ela mantém privilégios e exclui os demais. A estratégia é, portanto, criticar o obstáculo promovido pelos usos especializados da linguagem, o que confirma a alternativa E. A alternativa A trata da origem religiosa e B do temor sobre o futuro da linguagem, pontos introdutórios. C apenas descreve a relação entre sociedade e linguagem e D apresenta as consequências de seu esfacelamento, sem focar no argumento central da exclusão pela linguagem técnica.`,
@@ -893,16 +810,11 @@ Disponível em: https://g1.globo.com. Acesso em: 1 nov. 2021 (adaptado).
 Ao registrarem usos regionais de termos da área médica, 
 pesquisadores`,
     alternatives: [
-      { id: 'A', type: 'text', value: `apontaram erros motivados pelo desconhecimento da 
-variedade linguística local.` },
-      { id: 'B', type: 'text', value: `explicaram problemas provocados pela incapacidade 
-de comunicação.` },
-      { id: 'C', type: 'text', value: `descobriram novos sintomas de doenças existentes 
-na comunidade.` },
-      { id: 'D', type: 'text', value: `propiciaram melhor compreensão dos sintomas dos 
-pacientes.` },
-      { id: 'E', type: 'text', value: `divulgaram um novo rol de doenças características 
-da localidade.` },
+      { id: 'A', type: 'text', value: `apontaram erros motivados pelo desconhecimento da variedade linguística local.` },
+      { id: 'B', type: 'text', value: `explicaram problemas provocados pela incapacidade de comunicação.` },
+      { id: 'C', type: 'text', value: `descobriram novos sintomas de doenças existentes na comunidade.` },
+      { id: 'D', type: 'text', value: `propiciaram melhor compreensão dos sintomas dos pacientes.` },
+      { id: 'E', type: 'text', value: `divulgaram um novo rol de doenças características da localidade.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O dicionário criado pelos pesquisadores traduz termos populares de sintomas, como “defruço” e “piloura”, para a linguagem médica, melhorando a comunicação entre médico e paciente. Ao registrar esses usos regionais, os pesquisadores propiciaram melhor compreensão dos sintomas relatados pelos pacientes, o que confirma a alternativa D. A alternativa A afirma que eles apontaram erros, mas o texto valoriza a variedade linguística, não a condena. B reduz tudo à incapacidade de comunicação, e C e E supõem a descoberta de novos sintomas ou de novas doenças, o que o texto não menciona.`,
@@ -940,12 +852,9 @@ como patrimônio linguístico que`,
     alternatives: [
       { id: 'A', type: 'text', value: `representa a memória de uma língua africana extinta.` },
       { id: 'B', type: 'text', value: `exalta a rotina executada por jovens afrodescendentes.` },
-      { id: 'C', type: 'text', value: `preserva a ancestralidade africana por meio da 
-tradição oral.` },
-      { id: 'D', type: 'text', value: `resgata a musicalidade africana por meio de palavras 
-inteligíveis.` },
-      { id: 'E', type: 'text', value: `remonta à tristeza dos negros mais velhos com 
-saudade da África.` },
+      { id: 'C', type: 'text', value: `preserva a ancestralidade africana por meio da tradição oral.` },
+      { id: 'D', type: 'text', value: `resgata a musicalidade africana por meio de palavras inteligíveis.` },
+      { id: 'E', type: 'text', value: `remonta à tristeza dos negros mais velhos com saudade da África.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. A cantiga que Luandi aprendeu com o pai era transmitida dos negros mais velhos para os mais novos, numa língua africana que alguns ainda falavam, e acompanhava os momentos de regresso. Ela se configura como patrimônio linguístico que preserva a ancestralidade africana por meio da tradição oral, o que confirma a alternativa C. A alternativa A afirma que a língua está extinta, mas o texto diz que alguns ainda a falavam; D fala em palavras inteligíveis, quando Luandi não entendia o canto. B exalta uma rotina de jovens e E remete à tristeza e à saudade, sentimentos opostos à cantiga alegre descrita.`,
@@ -1002,8 +911,7 @@ ser explicada pelo Texto II no que diz respeito à(às)`,
       { id: 'B', type: 'text', value: `ausência da figura feminina na vida pública.` },
       { id: 'C', type: 'text', value: `construções imaginárias cristalizadas na sociedade.` },
       { id: 'D', type: 'text', value: `limitações inerentes às figuras femininas e masculinas.` },
-      { id: 'E', type: 'text', value: `dificuldade na atribuição de papéis masculinos e 
-femininos.` },
+      { id: 'E', type: 'text', value: `dificuldade na atribuição de papéis masculinos e femininos.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O Texto I critica as piadas machistas de um desenho que imagina o futuro, mas repete papéis antigos de gênero, e o Texto II afirma que masculino e feminino são “formações imaginárias” construídas por oposição. A visão estereotipada da mulher no primeiro texto explica-se, assim, pelas construções imaginárias cristalizadas na sociedade, o que confirma a alternativa C. A alternativa B trata da ausência feminina na vida pública e A da censura às formas de expressão, aspectos do Texto II que não são o foco da relação pedida. D e E falam em limitações inerentes aos sexos e em dificuldade de atribuir papéis, leituras que naturalizam a diferença, ao contrário do que propõem os textos.`,
@@ -1029,17 +937,11 @@ Esse anúncio publicitário, veiculado durante o contexto
 da pandemia de covid-19, tem por finalidade`,
     images: ['/enem/2023/images/enem_2023_d1_q24.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `divulgar o canal telefônico de atendimento a casos de 
-violência contra a mulher.` },
-      { id: 'B', type: 'text', value: `informar sobre a atuação de uma entidade defensora 
-da mulher vítima de violência.` },
-      { id: 'C', type: 'text', value: `evidenciar o trabalho da Defensoria Pública em relação 
-ao problema do abuso contra a mulher.` },
-      { id: 'D', type: 'text', value: `alertar a sociedade sobre o aumento da violência 
-contra a mulher em decorrência do coronavírus.` },
-      { id: 'E', type: 'text', value: `incentivar o público feminino a denunciar crimes 
-de violência contra a mulher durante o período de 
-isolamento.` },
+      { id: 'A', type: 'text', value: `divulgar o canal telefônico de atendimento a casos de violência contra a mulher.` },
+      { id: 'B', type: 'text', value: `informar sobre a atuação de uma entidade defensora da mulher vítima de violência.` },
+      { id: 'C', type: 'text', value: `evidenciar o trabalho da Defensoria Pública em relação ao problema do abuso contra a mulher.` },
+      { id: 'D', type: 'text', value: `alertar a sociedade sobre o aumento da violência contra a mulher em decorrência do coronavírus.` },
+      { id: 'E', type: 'text', value: `incentivar o público feminino a denunciar crimes de violência contra a mulher durante o período de isolamento.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O anúncio da Defensoria Pública, com os dizeres “Não se cale! Denuncie!” e o número 180, dirige-se às mulheres em meio ao isolamento da pandemia, alertando para o aumento da violência. Sua finalidade é incentivar o público feminino a denunciar crimes de violência contra a mulher durante o período de isolamento, o que confirma a alternativa E. As alternativas A, B, C e D destacam divulgar o telefone, informar sobre a entidade, evidenciar o trabalho da Defensoria ou alertar sobre o aumento da violência — ações presentes no cartaz, mas subordinadas ao apelo principal, que é levar a vítima a denunciar.`,
@@ -1073,8 +975,7 @@ tenta voltar a falar. Essa tentativa revela uma experiência que`,
       { id: 'B', type: 'text', value: `metaforiza a linguagem como ferramenta de lavoura.` },
       { id: 'C', type: 'text', value: `explicita, na busca pela palavra, o medo da solidão.` },
       { id: 'D', type: 'text', value: `confirma a frustração da narradora com relação à terra.` },
-      { id: 'E', type: 'text', value: `sugere, na ausência da linguagem, a estagnação do 
-tempo.` },
+      { id: 'E', type: 'text', value: `sugere, na ausência da linguagem, a estagnação do tempo.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A narradora, que perdeu parte da língua, escolhe a palavra “arado” para voltar a falar e compara o som deformado que produz a um arado torto que, em vez de preparar, deixa a terra “infértil, destruída, dilacerada”. A tentativa de falar metaforiza a linguagem como ferramenta de lavoura, o que confirma a alternativa B. A alternativa A fala no olhar do pai sobre o plantio e D na frustração com a terra, deslocando o foco da linguagem. C relaciona a cena ao medo da solidão e E à estagnação do tempo, sentidos que não traduzem a comparação entre fala e trabalho na lavoura.`,
@@ -1109,16 +1010,11 @@ BILAC, O. Disponível em: www.escritas.org. Acesso em: 29 out. 2021.
 Publicado em 1902, o texto de Olavo Bilac enfatiza as 
 mazelas da escravidão no Brasil ao`,
     alternatives: [
-      { id: 'A', type: 'text', value: `descrever de modo impessoal as consequências da 
-exploração racial sobre as gerações futuras.` },
-      { id: 'B', type: 'text', value: `contrapor a infância privilegiada das crianças da época 
-à infância violentada das crianças escravizadas.` },
-      { id: 'C', type: 'text', value: `antecipar o futuro apagamento das marcas da 
-escravidão no contexto social.` },
-      { id: 'D', type: 'text', value: `criticar a atenuação da violência contra os povos 
-escravizados nas memórias retratadas pelos museus.` },
-      { id: 'E', type: 'text', value: `imaginar a reação de indiferença de seus 
-contemporâneos com os escravizados libertos.` },
+      { id: 'A', type: 'text', value: `descrever de modo impessoal as consequências da exploração racial sobre as gerações futuras.` },
+      { id: 'B', type: 'text', value: `contrapor a infância privilegiada das crianças da época à infância violentada das crianças escravizadas.` },
+      { id: 'C', type: 'text', value: `antecipar o futuro apagamento das marcas da escravidão no contexto social.` },
+      { id: 'D', type: 'text', value: `criticar a atenuação da violência contra os povos escravizados nas memórias retratadas pelos museus.` },
+      { id: 'E', type: 'text', value: `imaginar a reação de indiferença de seus contemporâneos com os escravizados libertos.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Bilac observa que os meninos que jogam peteca nunca viram um escravo e que, no futuro, só conhecerão a escravidão por relatos e pelas peças expostas nos museus, como os troncos e outros instrumentos de tortura. Ao projetar esse distanciamento das gerações seguintes, o texto enfatiza as mazelas da escravidão ao antecipar o futuro apagamento de suas marcas no contexto social, o que confirma a alternativa C. A alternativa B contrapõe infância privilegiada e infância escravizada, leitura que não é o foco do trecho. A A fala em descrição impessoal, mas o tom é de forte indignação; D critica a atenuação da violência nos museus e E imagina a indiferença dos contemporâneos, aspectos que não correspondem à projeção do esquecimento futuro destacada.`,
@@ -1156,8 +1052,7 @@ têm um enredo comum, é a`,
       { id: 'B', type: 'text', value: `utilização do travessão na marcação do aposto.` },
       { id: 'C', type: 'text', value: `retomada do antecedente pelo pronome “isso”.` },
       { id: 'D', type: 'text', value: `contraposição de ideias marcada pela conjunção “mas”.` },
-      { id: 'E', type: 'text', value: `substantivação de expressões pela anteposição do 
-artigo.` },
+      { id: 'E', type: 'text', value: `substantivação de expressões pela anteposição do artigo.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O trecho acumula construções iniciadas por “de todos” — “de todos os grandes amores”, “de todas as juras”, “de todos os vínculos” —, e é essa repetição que faz o texto avançar e sugere que as relações amorosas seguem um enredo comum. O recurso de progressão textual é, portanto, a repetição do pronome indefinido “todos”, o que confirma a alternativa A. A alternativa C cita o pronome “isso” e D a conjunção “mas”, elementos de uso pontual no texto. B fala no travessão para marcar aposto e E na substantivação por anteposição de artigo, recursos que não respondem pela progressão baseada na enumeração repetida.`,
@@ -1228,8 +1123,7 @@ desconcertante centrado no`,
       { id: 'B', type: 'text', value: `efeito de apagamento de limites entre ficção e realidade.` },
       { id: 'C', type: 'text', value: `vínculo estabelecido entre animais urbanos e literatura.` },
       { id: 'D', type: 'text', value: `questionamento sutil quanto à sanidade dos inconfidentes.` },
-      { id: 'E', type: 'text', value: `contraste entre austeridade pomposa e imagem 
-repugnante.` },
+      { id: 'E', type: 'text', value: `contraste entre austeridade pomposa e imagem repugnante.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O narrador descreve um gato preto, gordo e lerdo e, a partir dele, evoca solenemente a Inconfidência, os ratos “dignos” descendentes dos que teriam passeado entre os inconfidentes e o crânio de Tiradentes. O efeito desconcertante nasce do contraste entre a austeridade pomposa dessas referências históricas e a imagem repugnante dos roedores e do bicho, o que confirma a alternativa E. A alternativa C aponta o vínculo entre animais urbanos e literatura e A o desenho do casario colonial, aspectos secundários. B fala em apagamento de limites entre ficção e realidade e D em dúvida sobre a sanidade dos inconfidentes, leituras que não captam o choque entre solenidade e repugnância.`,
@@ -1268,14 +1162,10 @@ oferecem um esboço do momento político vigente na
 década de 1970, aqui representado pelo`,
     alternatives: [
       { id: 'A', type: 'text', value: `culto ao medo, infiltrado em situações do cotidiano.` },
-      { id: 'B', type: 'text', value: `sentimento de dúvida quanto à veracidade das 
-informações.` },
-      { id: 'C', type: 'text', value: `ambiente de sonho, delineado por imagens 
-perturbadoras.` },
-      { id: 'D', type: 'text', value: `incentivo ao desenvolvimento econômico com 
-a iniciativa privada.` },
-      { id: 'E', type: 'text', value: `espaço urbano marcado por uma política de isolamento 
-das crianças.` },
+      { id: 'B', type: 'text', value: `sentimento de dúvida quanto à veracidade das informações.` },
+      { id: 'C', type: 'text', value: `ambiente de sonho, delineado por imagens perturbadoras.` },
+      { id: 'D', type: 'text', value: `incentivo ao desenvolvimento econômico com a iniciativa privada.` },
+      { id: 'E', type: 'text', value: `espaço urbano marcado por uma política de isolamento das crianças.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A Companhia impõe proibições arbitrárias e as reforça com cacos de vidro nos muros e castigos rigorosos, e o pai explica, com o gesto de torcer o pescoço de um frango, que nenhuma desobediência será tolerada. Sob o olhar do menino, esses fatos esboçam o clima político da década de 1970 por meio do culto ao medo infiltrado no cotidiano, o que confirma a alternativa A. A alternativa C fala em ambiente de sonho e E em isolamento das crianças, que não são o foco. B trata de dúvida sobre a veracidade das informações e D de incentivo à iniciativa privada, aspectos que não traduzem o autoritarismo alegorizado no texto.`,
@@ -1340,12 +1230,9 @@ A interpretação musical de Jurandy do Sax, codinome
 de José Jurandy Félix, apresenta um repertório 
 caracterizado pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `inter-relação de referenciais estéticos aparentemente 
-distanciados.` },
-      { id: 'B', type: 'text', value: `valorização de músicas que revelam mensagens 
-de serenidade.` },
-      { id: 'C', type: 'text', value: `consagração do repertório erudito como cultura 
-dominante.` },
+      { id: 'A', type: 'text', value: `inter-relação de referenciais estéticos aparentemente distanciados.` },
+      { id: 'B', type: 'text', value: `valorização de músicas que revelam mensagens de serenidade.` },
+      { id: 'C', type: 'text', value: `consagração do repertório erudito como cultura dominante.` },
       { id: 'D', type: 'text', value: `iniciativa de estímulo à vocação turística da cidade.` },
       { id: 'E', type: 'text', value: `divisão hierárquica entre gêneros e estilos musicais.` },
     ],
@@ -1379,16 +1266,11 @@ século XX, entre elas a obra Eternos caminhantes ,
 considerada degenerada por`,
     images: ['/enem/2023/images/enem_2023_d1_q33.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `representar uma estética tida como inconveniente para 
-o ideário político vigente.` },
-      { id: 'B', type: 'text', value: `manifestar um posicionamento político-cultural 
-concebido por grupos de oposição.` },
-      { id: 'C', type: 'text', value: `expressar a cultura artística por meio da representação 
-parcial do corpo humano.` },
-      { id: 'D', type: 'text', value: `apresentar uma composição que antecipa o imaginário 
-artístico germânico.` },
-      { id: 'E', type: 'text', value: `estimular discussões sobre o papel da arte na 
-construção coletiva de cultura.` },
+      { id: 'A', type: 'text', value: `representar uma estética tida como inconveniente para o ideário político vigente.` },
+      { id: 'B', type: 'text', value: `manifestar um posicionamento político-cultural concebido por grupos de oposição.` },
+      { id: 'C', type: 'text', value: `expressar a cultura artística por meio da representação parcial do corpo humano.` },
+      { id: 'D', type: 'text', value: `apresentar uma composição que antecipa o imaginário artístico germânico.` },
+      { id: 'E', type: 'text', value: `estimular discussões sobre o papel da arte na construção coletiva de cultura.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto informa que “Eternos caminhantes”, de Lasar Segall, foi exibida nas mostras de “Arte Degenerada” e confiscada pelo Ministério da Propaganda nazista, regime que rejeitava a arte moderna. A obra foi considerada degenerada por representar uma estética tida como inconveniente para o ideário político vigente, o que confirma a alternativa A. A alternativa B afirma que ela manifestava um posicionamento de grupos de oposição e E que estimulava discussões sobre o papel da arte, finalidades não indicadas. C atribui a condenação à representação parcial do corpo e D a uma antecipação do imaginário germânico, leituras que não correspondem à perseguição ideológica à arte moderna.`,
@@ -1417,14 +1299,10 @@ a dança exprime uma`,
     images: ['/enem/2023/images/enem_2023_d1_q34.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `crítica aos movimentos padronizados do balé clássico.` },
-      { id: 'B', type: 'text', value: `representação contemporânea de rituais ancestrais 
-extintos.` },
-      { id: 'C', type: 'text', value: `reelaboração estética erudita de práticas religiosas 
-populares.` },
-      { id: 'D', type: 'text', value: `releitura irônica da atmosfera mística presente no culto 
-a entidades.` },
-      { id: 'E', type: 'text', value: `oposição entre o resgate de tradições e a efemeridade 
-da vida humana.` },
+      { id: 'B', type: 'text', value: `representação contemporânea de rituais ancestrais extintos.` },
+      { id: 'C', type: 'text', value: `reelaboração estética erudita de práticas religiosas populares.` },
+      { id: 'D', type: 'text', value: `releitura irônica da atmosfera mística presente no culto a entidades.` },
+      { id: 'E', type: 'text', value: `oposição entre o resgate de tradições e a efemeridade da vida humana.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto descreve bailarinas em transe que dialogam com os cultos afro-brasileiros, mas adverte que o espetáculo não é uma representação mimética dessas religiões. A dança do Grupo Corpo exprime, assim, uma reelaboração estética erudita de práticas religiosas populares, o que confirma a alternativa C. A alternativa B fala em rituais ancestrais extintos, mas as religiões afro-brasileiras são vivas, e D sugere uma releitura irônica, tom ausente no texto. A A critica o balé clássico e E opõe tradição e efemeridade da vida, aspectos que não traduzem o diálogo estético descrito.`,
@@ -1488,16 +1366,11 @@ Disponível em: http://portal.iphan.gov.br. Acesso em: 15 nov. 2021 (adaptado).
 A manifestação do Marabaixo se constituiu em expressão 
 de arte e cultura, exercendo função de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `ressignificar episódios dramáticos em novas práticas 
-culturais.` },
-      { id: 'B', type: 'text', value: `adaptar coreografias como imitação dos movimentos 
-do mar.` },
-      { id: 'C', type: 'text', value: `lembrar dos mortos no passado escravista como forma 
-de lamento.` },
-      { id: 'D', type: 'text', value: `perpetuar uma narrativa de apagamento dos fatos 
-históricos traumáticos.` },
-      { id: 'E', type: 'text', value: `ritualizar a passagem de atos fúnebres nas produções 
-coletivas com espírito festivo.` },
+      { id: 'A', type: 'text', value: `ressignificar episódios dramáticos em novas práticas culturais.` },
+      { id: 'B', type: 'text', value: `adaptar coreografias como imitação dos movimentos do mar.` },
+      { id: 'C', type: 'text', value: `lembrar dos mortos no passado escravista como forma de lamento.` },
+      { id: 'D', type: 'text', value: `perpetuar uma narrativa de apagamento dos fatos históricos traumáticos.` },
+      { id: 'E', type: 'text', value: `ritualizar a passagem de atos fúnebres nas produções coletivas com espírito festivo.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto conta que o Marabaixo nasceu dos hinos de lamento às mortes de escravizados lançados ao mar e, depois, integrou-se à vivência das comunidades negras em danças, cantorias e festas religiosas, tornando-se patrimônio cultural. Sua função é ressignificar episódios dramáticos em novas práticas culturais, o que confirma a alternativa A. A alternativa C reduz a manifestação à lembrança dos mortos como lamento, ignorando sua transformação em festa, e B a uma imitação dos movimentos do mar. D fala em apagamento dos fatos históricos e E em ritualizar atos fúnebres, interpretações que não captam a ressignificação cultural descrita.`,
@@ -1521,17 +1394,11 @@ Disponível em: https://opopular.com.br. Acesso em: 15 nov. 2021 (adaptado).
 O artista goiano Wolney Fernandes busca expor seu 
 trabalho por meio de plataformas virtuais com o objetivo de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `dar suporte à técnica de colagem em Artes Visuais, 
-contornando dificuldades práticas.` },
-      { id: 'B', type: 'text', value: `aproximar-se da estética visual própria da editoração 
-de obras artísticas, como capas de livros.` },
-      { id: 'C', type: 'text', value: `oferecer uma vitrine internacional para sua produção 
-artística, a fim de dar mais visibilidade a suas obras.` },
-      { id: 'D', type: 'text', value: `enfatizar o caráter original e inovador de suas criações 
-artísticas, diferenciando-se das artes tradicionais.` },
-      { id: 'E', type: 'text', value: `trazer um sentido tecnológico às suas colagens, uma 
-vez que as imagens artísticas são recorrentes nas 
-redes sociais.` },
+      { id: 'A', type: 'text', value: `dar suporte à técnica de colagem em Artes Visuais, contornando dificuldades práticas.` },
+      { id: 'B', type: 'text', value: `aproximar-se da estética visual própria da editoração de obras artísticas, como capas de livros.` },
+      { id: 'C', type: 'text', value: `oferecer uma vitrine internacional para sua produção artística, a fim de dar mais visibilidade a suas obras.` },
+      { id: 'D', type: 'text', value: `enfatizar o caráter original e inovador de suas criações artísticas, diferenciando-se das artes tradicionais.` },
+      { id: 'E', type: 'text', value: `trazer um sentido tecnológico às suas colagens, uma vez que as imagens artísticas são recorrentes nas redes sociais.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Wolney Fernandes, que começou a criar em um ambiente árido para as artes visuais em Goiás, passou a usar as redes sociais e viu suas colagens aparecerem em capas de obras no Brasil e no exterior. Ele busca, assim, oferecer uma vitrine internacional para sua produção, dando-lhe mais visibilidade, o que confirma a alternativa C. A alternativa A fala em dar suporte técnico à colagem e B em aproximar-se da estética da editoração, finalidades que invertem causa e efeito. D enfatiza o caráter inovador de sua arte e E um sentido tecnológico às colagens, aspectos que não correspondem ao objetivo de divulgação ampliada.`,
@@ -1561,10 +1428,8 @@ demarcação de terras.
 Disponível em: www.correiobraziliense.com.br. Acesso em: 13 nov. 2021 (adaptado). 
 O movimento rap dos povos originários do Brasil revela o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `fusão de manifestações artísticas urbanas 
-contemporâneas com a cultura indígena.` },
-      { id: 'B', type: 'text', value: `contraposição das temáticas socioambientais 
-indígenas às questões urbanas.` },
+      { id: 'A', type: 'text', value: `fusão de manifestações artísticas urbanas contemporâneas com a cultura indígena.` },
+      { id: 'B', type: 'text', value: `contraposição das temáticas socioambientais indígenas às questões urbanas.` },
       { id: 'C', type: 'text', value: `rejeição da indústria radiofônica às músicas indígenas.` },
       { id: 'D', type: 'text', value: `distanciamento da realidade social indígena.` },
       { id: 'E', type: 'text', value: `estímulo ao estudo da poesia indígena.` },
@@ -1639,12 +1504,9 @@ dados pela`,
     alternatives: [
       { id: 'A', type: 'text', value: `dificuldade de conseguir bons resultados esportivos.` },
       { id: 'B', type: 'text', value: `dependência de características biológicas padronizadas.` },
-      { id: 'C', type: 'text', value: `inexistência de uma categoria para pessoas 
-transgênero.` },
-      { id: 'D', type: 'text', value: `necessidade de afastamento temporário das 
-competições.` },
-      { id: 'E', type: 'text', value: `impossibilidade de uso controlado de substâncias 
-exógenas.` },
+      { id: 'C', type: 'text', value: `inexistência de uma categoria para pessoas transgênero.` },
+      { id: 'D', type: 'text', value: `necessidade de afastamento temporário das competições.` },
+      { id: 'E', type: 'text', value: `impossibilidade de uso controlado de substâncias exógenas.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto mostra que, apesar de ser a primeira atleta trans a competir nas Olimpíadas, Laurel Hubbard só pode participar se mantiver o nível de testosterona abaixo de um limite fixado pelo COI. Os limites do potencial inclusivo do esporte são dados, portanto, pela dependência de características biológicas padronizadas, o que confirma a alternativa B. A alternativa A fala em dificuldade de obter bons resultados e D na necessidade de afastamento das competições, que não são o entrave discutido. C afirma a inexistência de categoria para transgêneros e E a impossibilidade de uso de substâncias exógenas, aspectos que não correspondem à exigência hormonal apresentada.`,
@@ -1755,16 +1617,11 @@ Brasileira de Letras em homenagem a Machado de Assis
 por ocasião de sua morte. Uma das características desse 
 discurso de homenagem é a presença de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `metáforas relacionadas à trajetória pessoal e criadora 
-do homenageado.` },
-      { id: 'B', type: 'text', value: `recursos fonológicos empregados para a valorização 
-do ritmo do texto.` },
-      { id: 'C', type: 'text', value: `frases curtas e diretas no relato da vida e da morte 
-do homenageado.` },
-      { id: 'D', type: 'text', value: `contraposição de ideias presentes na obra do 
-homenageado.` },
-      { id: 'E', type: 'text', value: `seleção vocabular representativa do sentimento de 
-nostalgia.` },
+      { id: 'A', type: 'text', value: `metáforas relacionadas à trajetória pessoal e criadora do homenageado.` },
+      { id: 'B', type: 'text', value: `recursos fonológicos empregados para a valorização do ritmo do texto.` },
+      { id: 'C', type: 'text', value: `frases curtas e diretas no relato da vida e da morte do homenageado.` },
+      { id: 'D', type: 'text', value: `contraposição de ideias presentes na obra do homenageado.` },
+      { id: 'E', type: 'text', value: `seleção vocabular representativa do sentimento de nostalgia.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No discurso em homenagem a Machado de Assis, Rui Barbosa afirma que a morte “transforma”, “renova” e “aproxima” e compara os sonetos do escritor à “aliança de ouro” de um “segundo noivado”, construindo imagens sobre a vida e a obra do homenageado. A presença dessas metáforas relacionadas à sua trajetória pessoal e criadora é a característica destacada, o que confirma a alternativa A. A alternativa B aponta recursos fonológicos e C frases curtas e diretas, contrariando o estilo rebuscado do texto. D fala em contraposição de ideias da obra de Machado e E em vocabulário de nostalgia, aspectos que não correspondem ao predomínio das construções metafóricas.`,
@@ -1780,14 +1637,10 @@ nostalgia.` },
 Essa campanha publicitária do Ministério da Saúde visa`,
     images: ['/enem/2023/images/enem_2023_d1_q44.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `divulgar um conjunto de benefícios proporcionados 
-pela amamentação.` },
-      { id: 'B', type: 'text', value: `apresentar tratamentos para infecções respiratórias 
-em bebês.` },
-      { id: 'C', type: 'text', value: `defender o direito das mulheres de amamentar em 
-público.` },
-      { id: 'D', type: 'text', value: `orientar sobre os exercícios para uma boa 
-amamentação.` },
+      { id: 'A', type: 'text', value: `divulgar um conjunto de benefícios proporcionados pela amamentação.` },
+      { id: 'B', type: 'text', value: `apresentar tratamentos para infecções respiratórias em bebês.` },
+      { id: 'C', type: 'text', value: `defender o direito das mulheres de amamentar em público.` },
+      { id: 'D', type: 'text', value: `orientar sobre os exercícios para uma boa amamentação.` },
       { id: 'E', type: 'text', value: `informar sobre o aumento de anticorpos nas mães.` },
     ],
     correct: 'A',
@@ -1827,16 +1680,11 @@ Rio de Janeiro, 15 de setembro de 2014.
 Disponível em: www.sbgg.org.br. Acesso em: 20 out. 2021 (adaptado). 
 O objetivo desse texto é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `sensibilizar o idoso a respeito dos cuidados com a 
-saúde.` },
-      { id: 'B', type: 'text', value: `alertar os governantes sobre os cuidados requeridos 
-pelo idoso.` },
-      { id: 'C', type: 'text', value: `divulgar o trabalho da Sociedade Brasileira de Geriatria 
-e Gerontologia.` },
-      { id: 'D', type: 'text', value: `informar o setor público sobre o retrocesso da 
-legislação destinada à população idosa.` },
-      { id: 'E', type: 'text', value: `chamar a atenção da população sobre a qualidade dos 
-serviços de saúde pública para o idoso.` },
+      { id: 'A', type: 'text', value: `sensibilizar o idoso a respeito dos cuidados com a saúde.` },
+      { id: 'B', type: 'text', value: `alertar os governantes sobre os cuidados requeridos pelo idoso.` },
+      { id: 'C', type: 'text', value: `divulgar o trabalho da Sociedade Brasileira de Geriatria e Gerontologia.` },
+      { id: 'D', type: 'text', value: `informar o setor público sobre o retrocesso da legislação destinada à população idosa.` },
+      { id: 'E', type: 'text', value: `chamar a atenção da população sobre a qualidade dos serviços de saúde pública para o idoso.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. A carta aberta da Sociedade Brasileira de Geriatria e Gerontologia, dirigida aos “Cidadãos e Cidadãs”, expõe as deficiências da saúde pública no atendimento ao idoso em todos os níveis de atenção e defende a saúde como direito universal. Seu objetivo é chamar a atenção da população sobre a qualidade dos serviços de saúde pública para o idoso, o que confirma a alternativa E. A alternativa B restringe o alvo aos governantes e A ao próprio idoso, mas o texto se dirige ao conjunto da população. C reduz o texto à divulgação do trabalho da entidade e D afirma que ele trata de retrocesso na legislação, aspectos que não expressam o apelo público central da carta.`,
@@ -1917,16 +1765,11 @@ do campesinato no Cerrado. Élisée, Rev. Geo. UEG , n. 1, jan.-jun. 2021 (adapt
 Os elementos descritos no texto, a respeito da 
 territorialização da produção, demonstram que há um`,
     alternatives: [
-      { id: 'A', type: 'text', value: `cerco aos camponeses, inviabilizando a manutenção 
-das condições para a vida.` },
-      { id: 'B', type: 'text', value: `descaso aos latifundiários, impactando a plantação 
-de alimentos para a exportação.` },
-      { id: 'C', type: 'text', value: `desprezo ao assalariado, afetando o engajamento dos 
-sindicatos para o trabalhador.` },
-      { id: 'D', type: 'text', value: `desrespeito aos governantes, comprometendo a 
-criação de empregos para o lavrador.` },
-      { id: 'E', type: 'text', value: `assédio ao empresariado, dificultando o investimento 
-de maquinários para a produção.` },
+      { id: 'A', type: 'text', value: `cerco aos camponeses, inviabilizando a manutenção das condições para a vida.` },
+      { id: 'B', type: 'text', value: `descaso aos latifundiários, impactando a plantação de alimentos para a exportação.` },
+      { id: 'C', type: 'text', value: `desprezo ao assalariado, afetando o engajamento dos sindicatos para o trabalhador.` },
+      { id: 'D', type: 'text', value: `desrespeito aos governantes, comprometendo a criação de empregos para o lavrador.` },
+      { id: 'E', type: 'text', value: `assédio ao empresariado, dificultando o investimento de maquinários para a produção.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto denuncia que o agronegócio no Cerrado privatiza águas, sementes e terras e submete camponeses à lógica do mercado, com violência e venenos, produzindo um cerco que inviabiliza as condições de vida e de permanência dessas populações. A alternativa B inverte a situação ao supor descaso aos latifundiários, que são os beneficiados. A letra C fala em assalariados e sindicatos, atores que não estão em pauta. As opções D e E colocam governantes e empresários como vítimas, contrariando o sentido do texto, que aponta a subordinação do campesinato.`,
@@ -2159,12 +2002,9 @@ No texto, o tempo livre é concebido como`,
     exam: 'enem',
     year: 2023,
     day: 1,
-    text: `FORÇA? VISÃO DE 
-RAIO X? TELECINESE? 
-TELEPATIA? 
-EU QUERIA 
-PODER. 
-A charge ilustra um anseio presente na sociedade contemporânea, que se caracteriza pela`,
+    text: `FORÇA? VISÃO DE RAIO X? TELECINESE? TELEPATIA? EU QUERIA
+PODER. A charge ilustra um anseio presente na sociedade
+contemporânea, que se caracteriza pela`,
     images: ['/enem/2023/images/enem_2023_d1_q56.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `situação de revolta individual.` },
@@ -2205,49 +2045,37 @@ A reflexão sobre o perdão apresentada no texto encontra fundamento na(s)`,
     exam: 'enem',
     year: 2023,
     day: 1,
-    text: `A Cavalgada de Sant’Ana é uma expressão da devoção 
-dos vaqueiros à padroeira de Caicó (RN). Nas décadas de 
-1950 a 1970, esse evento, então denominado Cavalaria, 
-era celebrado pelas pessoas que residiam na zona rural 
-do município de Caicó. Essas pessoas usavam os animais 
-(jegues, mulas e cavalos) como único meio de transporte, 
-sobretudo para se dirigirem à cidade nos dias de feiras, 
-trazendo seus produtos para comercializarem. Estando em 
-Caicó no período da Festa de Sant’Ana, esses agricultores 
-se organizavam em cavalgada até o pátio da Catedral de 
-Sant’Ana para louvar a santa e receber bênção para seus 
-animais. Por volta da década de 1970, com a chegada do 
-automóvel à zona rural do município, essa expressão cultural 
-foi extinta. O meio de transporte utilizando os animais passou 
-a ser substituído por carros, sobretudo caminhonetes e 
-caminhões, que transportavam os camponeses para a 
-cidade em dias de feiras e festas. Desde 2002, um grupo de 
-caicoenses retomou essa expressão cultural e, em conjunto 
-com a associação dos vaqueiros, realiza no primeiro 
-domingo da Festa a Cavalgada de Sant’Ana. O evento, além 
-de contar com a participação dos cavaleiros que residem 
-nas zonas rurais, atrai também pessoas que residem em 
-Caicó, cidades vizinhas e amantes das vaquejadas. 
-FESTA DE SANT’ANA. Disponível em: http://portal.iphan.gov.br. 
-Acesso em: 12 out. 2021 (adaptado). 
-As 
-mudanças 
-culturais 
-mencionadas 
-no 
-texto 
+    text: `A Cavalgada de Sant’Ana é uma expressão da devoção dos
+vaqueiros à padroeira de Caicó (RN). Nas décadas de 1950 a
+1970, esse evento, então denominado Cavalaria, era celebrado
+pelas pessoas que residiam na zona rural do município de
+Caicó. Essas pessoas usavam os animais (jegues, mulas e
+cavalos) como único meio de transporte, sobretudo para se
+dirigirem à cidade nos dias de feiras, trazendo seus produtos
+para comercializarem. Estando em Caicó no período da Festa de
+Sant’Ana, esses agricultores se organizavam em cavalgada até o
+pátio da Catedral de Sant’Ana para louvar a santa e receber
+bênção para seus animais. Por volta da década de 1970, com a
+chegada do automóvel à zona rural do município, essa expressão
+cultural foi extinta. O meio de transporte utilizando os
+animais passou a ser substituído por carros, sobretudo
+caminhonetes e caminhões, que transportavam os camponeses para
+a cidade em dias de feiras e festas. Desde 2002, um grupo de
+caicoenses retomou essa expressão cultural e, em conjunto com
+a associação dos vaqueiros, realiza no primeiro domingo da
+Festa a Cavalgada de Sant’Ana. O evento, além de contar com a
+participação dos cavaleiros que residem nas zonas rurais,
+atrai também pessoas que residem em Caicó, cidades vizinhas e
+amantes das vaquejadas. FESTA DE SANT’ANA. Disponível em:
+http://portal.iphan.gov.br. Acesso em: 12 out. 2021
+(adaptado). As mudanças culturais mencionadas no texto
 caracterizam-se pela presença de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `elementos tradicionais e modernos em torno de uma 
-crença religiosa.` },
-      { id: 'B', type: 'text', value: `argumentos teológicos e históricos em consequência 
-de uma ordem papal.` },
-      { id: 'C', type: 'text', value: `fundamentos estéticos e etnográficos em função de 
-uma cerimônia clerical.` },
-      { id: 'D', type: 'text', value: `práticas corporais e esportivas em decorrência de uma 
-imposição eclesiástica.` },
-      { id: 'E', type: 'text', value: `discursos filosóficos e antropológicos em resultado de 
-uma determinação paroquial.` },
+      { id: 'A', type: 'text', value: `elementos tradicionais e modernos em torno de uma crença religiosa.` },
+      { id: 'B', type: 'text', value: `argumentos teológicos e históricos em consequência de uma ordem papal.` },
+      { id: 'C', type: 'text', value: `fundamentos estéticos e etnográficos em função de uma cerimônia clerical.` },
+      { id: 'D', type: 'text', value: `práticas corporais e esportivas em decorrência de uma imposição eclesiástica.` },
+      { id: 'E', type: 'text', value: `discursos filosóficos e antropológicos em resultado de uma determinação paroquial.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A Cavalgada de Sant'Ana nasceu de uma devoção rural à padroeira, foi extinta com a chegada do automóvel e depois retomada como expressão cultural que hoje mistura cavaleiros e turistas, revelando a convivência de elementos tradicionais e modernos em torno de uma crença religiosa. A alternativa B fala em ordem papal, inexistente no relato. As letras C e D apelam a cerimônia clerical e imposição eclesiástica, mas a prática parte da iniciativa popular. A opção E atribui a mudança a discursos filosóficos e a uma determinação paroquial, elementos que o texto não aponta como causa.`,
@@ -2379,10 +2207,8 @@ históricas vinculadas a um contexto de`,
       { id: 'A', type: 'text', value: `domínio cultural-identitário de atores sociais.` },
       { id: 'B', type: 'text', value: `disputas étnico-raciais de povos tradicionais.` },
       { id: 'C', type: 'text', value: `divergências político-ideológicas de agentes estatais.` },
-      { id: 'D', type: 'text', value: `imposição econômico-financeira de empresas 
-privadas.` },
-      { id: 'E', type: 'text', value: `protestos ecológico-sustentáveis de entidades 
-ambientais.` },
+      { id: 'D', type: 'text', value: `imposição econômico-financeira de empresas privadas.` },
+      { id: 'E', type: 'text', value: `protestos ecológico-sustentáveis de entidades ambientais.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. A disputa entre as Coreias por alto-falantes e mastros de bandeira tem origem na divisão do país após a Guerra Fria, opondo um regime capitalista aliado ao Ocidente a um regime comunista, de modo que as competições refletem divergências político-ideológicas de agentes estatais. A alternativa A fala em domínio cultural-identitário, dimensão secundária diante da rivalidade entre Estados. A letra B trata de disputas étnico-raciais, inexistentes entre coreanos de mesma origem. As opções D e E atribuem a competição a empresas privadas e a entidades ambientais, agentes que não protagonizam o conflito descrito.`,
@@ -2646,16 +2472,11 @@ O acontecimento descrito no texto, ocorrido em meados
 dos anos 1970, atesta a seguinte característica do regime 
 político-institucional vigente:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Incorporação da estética popular para justificar o ideal 
-de integração nacional.` },
-      { id: 'B', type: 'text', value: `Afirmação da estratégia psicossocial para favorecer 
-o objetivo de propaganda cívica.` },
-      { id: 'C', type: 'text', value: `Institucionalização de mecanismos repressivos para 
-eliminar os focos de resistência.` },
-      { id: 'D', type: 'text', value: `Adoção de cerimoniais públicos para controlar as 
-manifestações de grupos opositores.` },
-      { id: 'E', type: 'text', value: `Estatização de meios de comunicação para selecionar 
-a divulgação de atos governamentais.` },
+      { id: 'A', type: 'text', value: `Incorporação da estética popular para justificar o ideal de integração nacional.` },
+      { id: 'B', type: 'text', value: `Afirmação da estratégia psicossocial para favorecer o objetivo de propaganda cívica.` },
+      { id: 'C', type: 'text', value: `Institucionalização de mecanismos repressivos para eliminar os focos de resistência.` },
+      { id: 'D', type: 'text', value: `Adoção de cerimoniais públicos para controlar as manifestações de grupos opositores.` },
+      { id: 'E', type: 'text', value: `Estatização de meios de comunicação para selecionar a divulgação de atos governamentais.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O enterro apressado de Herzog, o medo dos presentes e os discursos contra a violência evidenciam que o regime militar dos anos 1970 recorria à institucionalização de mecanismos repressivos para eliminar focos de resistência, como os órgãos de tortura e os assassinatos políticos. A alternativa A fala em estética popular e integração nacional, ausentes da cena. A letra B trata de estratégia psicossocial e propaganda cívica, que não explicam a repressão descrita. As opções D e E citam cerimoniais públicos e estatização da comunicação, aspectos que não correspondem ao caráter violento e clandestino do episódio.`,
@@ -2836,35 +2657,7 @@ reportada no texto reflete?`,
     exam: 'enem',
     year: 2023,
     day: 1,
-    text: `Taxa de fecundidade no Brasil 
-De 1960 a 2020, 
-número de filhos baixa de 
-6,3 para 1,5 
-7 
-6,3 
-6 
-5,8 
-Filhos por mulher 
-5 
-4,1 
-4 
-3 
-2,8 
-2,4 
-1,8 
-1,5 
-1,5 
-1,5 
-1,5 
-2 
-1 
-0 
-1960 1970 1980 1990 2000 2010 2020 2030 2040 2050 
-Décadas 
-Fonte: IBGE 
-Disponível em: www.insper.edu.br. Acesso em: 27 set. 2021 (adaptado). 
-Qual fator foi determinante para a mudança do indicador 
-apresentado no gráfico?`,
+    text: ``,
     images: ['/enem/2023/images/enem_2023_d1_q76.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Flexibilização legal da prática de aborto.` },
@@ -2905,8 +2698,7 @@ origem iluminista:`,
       { id: 'B', type: 'text', value: `O monarca racional promove a sociedade justa.` },
       { id: 'C', type: 'text', value: `O direito natural justifica a liberdade dos homens.` },
       { id: 'D', type: 'text', value: `A produção da terra garante a riqueza das nações.` },
-      { id: 'E', type: 'text', value: `A responsabilidade dos governantes assegura a saúde 
-dos povos.` },
+      { id: 'E', type: 'text', value: `A responsabilidade dos governantes assegura a saúde dos povos.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Escrito em 1828, o texto critica Portugal por não ter levado a vacina ao Brasil, defendendo que cabia ao governo zelar pela população, ideia de raiz iluminista segundo a qual a responsabilidade dos governantes assegura a saúde dos povos. A alternativa A trata das leis que regem a natureza, dimensão científica distinta da crítica política. A letra B fala em monarca racional e sociedade justa, mas o foco é o dever do Estado com a saúde, não a forma de governo. As opções C e D remetem a direito natural e à riqueza das nações, princípios iluministas que não correspondem ao argumento específico do texto.`,
@@ -3080,16 +2872,11 @@ Conforme o texto, as correspondências trocadas entre
 imigrantes no Brasil com os seus países de procedência 
 constituíam um dispositivo tecnológico que possibilitava o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `disputa ideológica entre a comunidade de estrangeiros 
-e a de nativos.` },
-      { id: 'B', type: 'text', value: `circularidade cultural entre a sociedade de partida e 
-a de acolhimento.` },
-      { id: 'C', type: 'text', value: `controle doutrinário das narrativas do cotidiano de 
-origem e de destino.` },
-      { id: 'D', type: 'text', value: `fiscalização política dos fluxos de populações do Novo 
-e do Velho Mundo.` },
-      { id: 'E', type: 'text', value: `monitoramento social dos grupos de trabalhadores da 
-cidade e do campo.` },
+      { id: 'A', type: 'text', value: `disputa ideológica entre a comunidade de estrangeiros e a de nativos.` },
+      { id: 'B', type: 'text', value: `circularidade cultural entre a sociedade de partida e a de acolhimento.` },
+      { id: 'C', type: 'text', value: `controle doutrinário das narrativas do cotidiano de origem e de destino.` },
+      { id: 'D', type: 'text', value: `fiscalização política dos fluxos de populações do Novo e do Velho Mundo.` },
+      { id: 'E', type: 'text', value: `monitoramento social dos grupos de trabalhadores da cidade e do campo.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. As cartas trocadas por imigrantes entre o Brasil e os países de origem funcionavam como tecnologia de comunicação que transmitia notícias, afetos e tradições, permitindo a circularidade cultural entre a sociedade de partida e a de acolhimento. A alternativa A fala em disputa ideológica entre estrangeiros e nativos, ausente do texto. As letras C e D falam em controle doutrinário e fiscalização política, quando as missivas eram trocas pessoais. A opção E, monitoramento social de trabalhadores, também distorce o sentido do texto, que destaca a manutenção de laços e tradições por meio da correspondência.`,
@@ -3191,16 +2978,11 @@ Disponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021.
 No contexto do acordo citado, os dois grupos econômicos 
 europeus defendem, respectivamente, a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `restrição dos fluxos migratórios e a maior atuação de 
-sindicatos.` },
-      { id: 'B', type: 'text', value: `ampliação das leis trabalhistas e a plena importação 
-de manufaturados.` },
-      { id: 'C', type: 'text', value: `proteção das florestas nacionais e a ampla 
-transferência de tecnologias.` },
-      { id: 'D', type: 'text', value: `manutenção das barreiras fitossanitárias e a livre 
-circulação de mercadorias.` },
-      { id: 'E', type: 'text', value: `remoção dos entraves alfandegários e a melhor 
-remuneração de empregados.` },
+      { id: 'A', type: 'text', value: `restrição dos fluxos migratórios e a maior atuação de sindicatos.` },
+      { id: 'B', type: 'text', value: `ampliação das leis trabalhistas e a plena importação de manufaturados.` },
+      { id: 'C', type: 'text', value: `proteção das florestas nacionais e a ampla transferência de tecnologias.` },
+      { id: 'D', type: 'text', value: `manutenção das barreiras fitossanitárias e a livre circulação de mercadorias.` },
+      { id: 'E', type: 'text', value: `remoção dos entraves alfandegários e a melhor remuneração de empregados.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. No acordo Mercosul-União Europeia, os produtores rurais europeus, temendo a concorrência de produtos como a carne brasileira, defendem a manutenção de barreiras fitossanitárias, enquanto o setor industrial, interessado em exportar, apoia a livre circulação de mercadorias. A alternativa A fala em fluxos migratórios e sindicatos, temas alheios ao interesse econômico descrito. As letras B e C citam leis trabalhistas, proteção de florestas e transferência de tecnologias, que não correspondem às posições dos dois grupos. A opção E inverte a lógica ao atribuir aos ruralistas a remoção de entraves alfandegários, justamente o que eles temem.`,
@@ -3323,44 +3105,7 @@ econômica é considerada moralmente condenável?`,
     exam: 'enem',
     year: 2023,
     day: 1,
-    text: `Simulação de mudança da temperatura média anual em relação ao período pre-industrial em tres cenários de aquecimento global 
-1,5 °C de aquecimento global 
-2 °C de aquecimento global 
-4 °C de aquecimento global 
-Variação (°C) 
-0 
-0,5 
-1 
-1,5 
-2 
-2,5 
-3 
-3,5 
-4 
-4,5 
-5 
-5,5 
-6 
-6,5 
-7 
-Mais quente 
-Simulação de mudança da pluviosidade média anual em relação ao período pre-industrial em tres cenários de aquecimento global 
-1,5 °C de aquecimento global 
-2 °C de aquecimento global 
-Variação (%) 
--40 
--30 
--20 
--10 
-0 
-10 
-20 
-30 
-40 
-Fonte: IPCC 
-Mais seco 
-Mais úmido 
-Qual medida é capaz de minimizar as mudanças apresentadas nas simulações?`,
+    text: ``,
     images: ['/enem/2023/images/enem_2023_d1_q89.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Expandir o transporte marítimo.` },
@@ -3390,10 +3135,7 @@ pelos filósofos gregos da Antiguidade, porque se mostra alinhada à`,
       { id: 'B', type: 'text', value: `utilização persuasiva do discurso.` },
       { id: 'C', type: 'text', value: `narração alegórica dos rapsodos.` },
       { id: 'D', type: 'text', value: `investigação empírica da physis.` },
-      { id: 'E', type: 'text', value: `expressão pictográfica da pólis. 
-4 °C de aquecimento global 
-PIVETTA, M. O clima no Antropoceno. Revista Pesquisa Fapesp , n. 307, set. 2021. 
-ASSIS, M. Memorias póstumas de Brás Cubas . Belo Horizonte: Autêntica, 1999.` },
+      { id: 'E', type: 'text', value: `expressão pictográfica da pólis. 4 °C de aquecimento global PIVETTA, M. O clima no Antropoceno. Revista Pesquisa Fapesp , n. 307, set. 2021. ASSIS, M. Memorias póstumas de Brás Cubas . Belo Horizonte: Autêntica, 1999.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O personagem de Machado de Assis admite ter retido apenas fórmulas, vocabulário e a 'casca' do conhecimento, úteis para brilhar na conversação, aproximando-se dos sofistas, que eram criticados pelos filósofos gregos por valorizar a utilização persuasiva do discurso em detrimento da verdade. A alternativa A fala em elaboração conceitual, prática que o personagem justamente despreza. A letra C associa-o aos rapsodos e à narração alegórica, papel diverso do sofista. As opções D e E citam a investigação empírica da physis e a expressão da pólis, atividades que não correspondem ao uso aparente e retórico do saber que o texto ironiza.`,
@@ -3408,17 +3150,12 @@ ASSIS, M. Memorias póstumas de Brás Cubas . Belo Horizonte: Autêntica, 1999.`
     exam: 'enem',
     subject: ['ing'],
     topics: ['Interpretação de texto', 'Questões aleatórias'],
-    text: `The average american tosses 300 pounds of food
-each year, making food the number one contributor to
-América’s landfills. Eat your leftovers and keep your
-perishables in the fridge – the Earth is counting on it.
-Disponível em: https://mir-s3-cdn-cf.behance.net. Acesso em: 29 out. 2021 (adaptado).
-Esse cartaz de campanha sugere que
-A
-B
-C
-D
-E`,
+    text: `The average american tosses 300 pounds of food each year,
+making food the number one contributor to América’s landfills.
+Eat your leftovers and keep your perishables in the fridge –
+the Earth is counting on it. Disponível em:
+https://mir-s3-cdn-cf.behance.net. Acesso em: 29 out. 2021
+(adaptado). Esse cartaz de campanha sugere que A B C D E`,
     images: ['/enem/2023/images/enem_2023_d1_q91.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `os lixões precisam de ampliação.` },
@@ -3438,19 +3175,11 @@ E`,
     exam: 'enem',
     subject: ['ing'],
     topics: ['Interpretação de texto', 'Questões aleatórias'],
-    text: `No man is an island,
-Entire of itself;
-Every man is a piece of the continent,
-[...]
-Any man’s death diminishes me,
-Because I am involved in mankind.
-DONNE, J. The Works of John Donne. Londres: John W. Parker, 1839 (fragmento).
-Nesse poema, a expressão “No man is an island ” ressalta o(a)
-A
-B
-C
-D
-E`,
+    text: `No man is an island, Entire of itself; Every man is a piece of
+the continent, [...] Any man’s death diminishes me, Because I
+am involved in mankind. DONNE, J. The Works of John Donne.
+Londres: John W. Parker, 1839 (fragmento). Nesse poema, a
+expressão “No man is an island ” ressalta o(a) A B C D E`,
     images: null,
     alternatives: [
       { id: 'A', type: 'text', value: `medo da morte.` },
@@ -3470,41 +3199,26 @@ E`,
     exam: 'enem',
     subject: ['ing'],
     topics: ['Interpretação de texto', 'Questões aleatórias'],
-    text: `Things We Carry on the Sea
-We carry tears in our eyes: good-bye father, good-bye
-[mother
-We carry soil in small bags: may home never fade in our
-[hearts
-We carry carnage of mining, droughts, floods, genocides
-We carry dust of our families and neighbors incinerated
-[in mushroom clouds
-We carry our islands sinking under the sea
-We carry our hands, feet, bonés, hearts and best minds
-[for a new life
-We carry diplomas: medicine, engineer, nurse,
-[education, math, poetry, even if they mean
-[nothing to the other shore
-We carry railroads, plantations, laundromats,
-[bodegas, taco trucks, farms, factories, nursing
-[homes, hospitals, schools, temples... built on
-[our ancestors’ backs
-We carry old homes along the spine, new dreams in our
-[chests
-We carry yesterday, today and tomorrow
-We’re orphans of the wars forced upon us
-We’re refugees of the sea rising from industrial wastes
-And we carry our mother tongues
-[...]
-As we drift... in our rubber boats... from shore... to shore...
-[to shore...
-PING, W. Disponível em: https://poets.org. Acesso em: 1 jun. 2023 (fragmento).
-Ao retratar a trajetória de refugiados, o poema recorre à
-imagem de viagem marítima para destacar o(a)
-A
-B
-C
-D
-E`,
+    text: `Things We Carry on the Sea We carry tears in our eyes:
+good-bye father, good-bye [mother We carry soil in small bags:
+may home never fade in our [hearts We carry carnage of mining,
+droughts, floods, genocides We carry dust of our families and
+neighbors incinerated [in mushroom clouds We carry our islands
+sinking under the sea We carry our hands, feet, bonés, hearts
+and best minds [for a new life We carry diplomas: medicine,
+engineer, nurse, [education, math, poetry, even if they mean
+[nothing to the other shore We carry railroads, plantations,
+laundromats, [bodegas, taco trucks, farms, factories, nursing
+[homes, hospitals, schools, temples... built on [our
+ancestors’ backs We carry old homes along the spine, new
+dreams in our [chests We carry yesterday, today and tomorrow
+We’re orphans of the wars forced upon us We’re refugees of the
+sea rising from industrial wastes And we carry our mother
+tongues [...] As we drift... in our rubber boats... from
+shore... to shore... [to shore... PING, W. Disponível em:
+https://poets.org. Acesso em: 1 jun. 2023 (fragmento). Ao
+retratar a trajetória de refugiados, o poema recorre à imagem
+de viagem marítima para destacar o(a) A B C D E`,
     images: null,
     alternatives: [
       { id: 'A', type: 'text', value: `risco de choques culturais.` },
@@ -3524,34 +3238,18 @@ E`,
     exam: 'enem',
     subject: ['ing'],
     topics: ['Interpretação de texto', 'Questões aleatórias'],
-    text: `Spanglish
-pues estoy creando Spanglish
-bi-cultural systems
-scientific lexicographical
-inter-textual integrations
-two expressions
-existentially wired
-two dominant languages
-continentally abrazándose
-in colloquial combate
-império spanglish emerges
-sobre território bi-lingual
-las novelas mexicanas
-mixing with radiorocknroll
-immigrant/migrant
-nasal mispronouncements
-hip-hop, street salsa, spanish pop
-standard english classroom
-with computer technicalities
-spanglish is literally perfect
-LAVIERA, T. Benedición: The Complete Poetry of Tato Laviera.
-Houston: Arte Público Press, 2014 (fragmento).
-Nesse poema de Tato Laviera, o eu lírico destaca uma
-A
-B
-C
-D
-E`,
+    text: `Spanglish pues estoy creando Spanglish bi-cultural systems
+scientific lexicographical inter-textual integrations two
+expressions existentially wired two dominant languages
+continentally abrazándose in colloquial combate império
+spanglish emerges sobre território bi-lingual las novelas
+mexicanas mixing with radiorocknroll immigrant/migrant nasal
+mispronouncements hip-hop, street salsa, spanish pop standard
+english classroom with computer technicalities spanglish is
+literally perfect LAVIERA, T. Benedición: The Complete Poetry
+of Tato Laviera. Houston: Arte Público Press, 2014
+(fragmento). Nesse poema de Tato Laviera, o eu lírico destaca
+uma A B C D E`,
     images: null,
     alternatives: [
       { id: 'A', type: 'text', value: `convergência linguístico-cultural.` },
@@ -3575,12 +3273,7 @@ E`,
 differently just because of your age, race, or gender.”
 Disponível em: www.cartoonstock.com. Acesso em: 25 out. 2021.
 Ao retratar o ambiente de trabalho em um escritório, esse
-cartum tem por objetivo
-A
-B
-C
-D
-E`,
+cartum tem por objetivo A B C D E`,
     images: ['/enem/2023/images/enem_2023_d1_q95.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `criticar um padrão de vestimenta.` },

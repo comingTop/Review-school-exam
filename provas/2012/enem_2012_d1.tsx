@@ -13,20 +13,11 @@ determinada noção de soberania. Neste sentido, a charge
 apresentada demonstra`,
     images: ['/enem/2012/images/enem_2012_d1_q1.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a humanidade do rei, pois retrata um homem comum, 
-sem os adornos próprios à vestimenta real.` },
-      { id: 'B', type: 'text', value: `a unidade entre o público e o privado, pois a figura do 
-rei com a vestimenta real representa o público e sem 
-a vestimenta real, o privado.` },
-      { id: 'C', type: 'text', value: `o vínculo entre monarquia e povo, pois leva 
-ao conhecimento do público a figura de um rei 
-despretensioso e distante do poder político.` },
-      { id: 'D', type: 'text', value: `o gosto estético refinado do rei, pois evidencia a 
-elegância dos trajes reais em relação aos de outros 
-membros da corte.` },
-      { id: 'E', type: 'text', value: `a importância da vestimenta para a constituição 
-simbólica do rei, pois o corpo político adornado 
-esconde os defeitos do corpo pessoal.` },
+      { id: 'A', type: 'text', value: `a humanidade do rei, pois retrata um homem comum, sem os adornos próprios à vestimenta real.` },
+      { id: 'B', type: 'text', value: `a unidade entre o público e o privado, pois a figura do rei com a vestimenta real representa o público e sem a vestimenta real, o privado.` },
+      { id: 'C', type: 'text', value: `o vínculo entre monarquia e povo, pois leva ao conhecimento do público a figura de um rei despretensioso e distante do poder político.` },
+      { id: 'D', type: 'text', value: `o gosto estético refinado do rei, pois evidencia a elegância dos trajes reais em relação aos de outros membros da corte.` },
+      { id: 'E', type: 'text', value: `a importância da vestimenta para a constituição simbólica do rei, pois o corpo político adornado esconde os defeitos do corpo pessoal.` },
     ],
     correct: 'E',
     explanation: `A charge, analisada por Peter Burke em 'A fabricação do rei', mostra como a imagem de Luís XIV era construída por estratégias que sustentavam a ideia de soberania absoluta. A figura central, um homem comum e sem adornos, contrasta com as vestimentas majestosas que o cercam, evidenciando que o traje e os ornamentos eram essenciais para constituir simbolicamente a autoridade real, por isso a alternativa E está correta. A e C erram ao sugerir que a charge humaniza ou aproxima o rei do povo, quando o efeito é o oposto; B força uma divisão entre público e privado que a imagem não estabelece; e D reduz a cena a mera questão de gosto estético, ignorando a função política da aparência.`,
@@ -57,16 +48,11 @@ fundamental para a compreensão do contexto filosófico
 da Modernidade. Esclarecimento, no sentido empregado 
 por Kant, representa`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a reivindicação de autonomia da capacidade racional 
-como expressão da maioridade.` },
-      { id: 'B', type: 'text', value: `o exercício da racionalidade como pressuposto menor 
-diante das verdades eternas.` },
-      { id: 'C', type: 'text', value: `a imposição de verdades matemáticas, com caráter 
-objetivo, de forma heterônoma.` },
-      { id: 'D', type: 'text', value: `a compreensão de verdades religiosas que libertam o 
-homem da falta de entendimento.` },
-      { id: 'E', type: 'text', value: `a emancipação da subjetividade humana de ideologias 
-produzidas pela própria razão.` },
+      { id: 'A', type: 'text', value: `a reivindicação de autonomia da capacidade racional como expressão da maioridade.` },
+      { id: 'B', type: 'text', value: `o exercício da racionalidade como pressuposto menor diante das verdades eternas.` },
+      { id: 'C', type: 'text', value: `a imposição de verdades matemáticas, com caráter objetivo, de forma heterônoma.` },
+      { id: 'D', type: 'text', value: `a compreensão de verdades religiosas que libertam o homem da falta de entendimento.` },
+      { id: 'E', type: 'text', value: `a emancipação da subjetividade humana de ideologias produzidas pela própria razão.` },
     ],
     correct: 'A',
     explanation: `O texto de Kant define o Esclarecimento como a saída do homem de sua menoridade, isto é, da incapacidade de usar o próprio entendimento sem a tutela de outro. Essa superação depende de coragem e decisão para pensar por si mesmo, o que corresponde à reivindicação da autonomia da capacidade racional como expressão da maioridade, por isso a alternativa A está correta. B rebaixa a razão diante de verdades eternas, e C a torna heterônoma e imposta, contrariando a autonomia defendida; D desloca o Esclarecimento para verdades religiosas; e E inverte o sentido kantiano ao falar em libertar-se das ideologias produzidas pela própria razão, quando é justamente o uso autônomo da razão que emancipa.`,
@@ -104,21 +90,11 @@ como descrito no Texto II, o argumento do Texto I acerca
 da violência e agressividade na sociedade brasileira 
 expressa a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `incompatibilidade entre os modos democráticos 
-de convívio social e a presença de aparatos de 
-controle policial.` },
-      { id: 'B', type: 'text', value: `manutenção de práticas repressivas herdadas 
-dos períodos ditatoriais sob a forma de leis e atos 
-administrativos.` },
-      { id: 'C', type: 'text', value: `inabilidade das forças militares em conter a violência 
-decorrente das ondas migratórias nas grandes 
-cidades brasileiras.` },
-      { id: 'D', type: 'text', value: `dificuldade histórica da sociedade brasileira em 
-institucionalizar formas de controle social compatíveis 
-com valores democráticos.` },
-      { id: 'E', type: 'text', value: `incapacidade das instituições político-legislativas em 
-formular mecanismos de controle social específicos à 
-realidade social brasileira.` },
+      { id: 'A', type: 'text', value: `incompatibilidade entre os modos democráticos de convívio social e a presença de aparatos de controle policial.` },
+      { id: 'B', type: 'text', value: `manutenção de práticas repressivas herdadas dos períodos ditatoriais sob a forma de leis e atos administrativos.` },
+      { id: 'C', type: 'text', value: `inabilidade das forças militares em conter a violência decorrente das ondas migratórias nas grandes cidades brasileiras.` },
+      { id: 'D', type: 'text', value: `dificuldade histórica da sociedade brasileira em institucionalizar formas de controle social compatíveis com valores democráticos.` },
+      { id: 'E', type: 'text', value: `incapacidade das instituições político-legislativas em formular mecanismos de controle social específicos à realidade social brasileira.` },
     ],
     correct: 'D',
     explanation: `O Texto I associa a violência e a criminalidade no Brasil à fragilidade da cidadania e à ausência do Estado em vários territórios, e o Texto II, de Norbert Elias, lembra que toda sociedade precisa canalizar as pulsões por meio de controles. Lida à luz do processo civilizador, a tese do Texto I expressa a dificuldade histórica da sociedade brasileira de institucionalizar formas de controle social compatíveis com valores democráticos, por isso a alternativa D está correta. A opõe equivocadamente democracia e controle policial; B restringe o problema à herança ditatorial; C o reduz às ondas migratórias; e E limita a falha às instituições político-legislativas, quando o texto aponta uma lacuna mais ampla entre Estado e cidadania.`,
@@ -148,8 +124,7 @@ participação dos Estados Unidos na luta contra`,
       { id: 'B', type: 'text', value: `os regimes totalitários, na Segunda Guerra Mundial.` },
       { id: 'C', type: 'text', value: `o poder soviético, durante a Guerra Fria.` },
       { id: 'D', type: 'text', value: `o movimento comunista, na Guerra do Vietnã.` },
-      { id: 'E', type: 'text', value: `o terrorismo internacional, após 11 de setembro 
-de 2001.` },
+      { id: 'E', type: 'text', value: `o terrorismo internacional, após 11 de setembro de 2001.` },
     ],
     correct: 'B',
     explanation: `A capa do primeiro número do Capitão América, de março de 1941, mostra o herói, com uma bandeira estadunidense no peito, desferindo um soco em Adolf Hitler. A cena associa o personagem ao engajamento dos Estados Unidos no combate aos regimes totalitários no contexto da Segunda Guerra Mundial, por isso a alternativa B está correta. A remete à Primeira Guerra e à Tríplice Aliança, anteriores ao gibi; C e D situam o personagem na Guerra Fria e no Vietnã, posteriores à sua criação; e E o vincula ao terrorismo pós-2001, muito distante do período retratado na capa.`,
@@ -177,13 +152,10 @@ de diferentes partes da África, a experiência da escravidão
 no Brasil tornou possível a`,
     alternatives: [
       { id: 'A', type: 'text', value: `formação de uma identidade cultural afro-brasileira.` },
-      { id: 'B', type: 'text', value: `superação de aspectos culturais africanos por antigas 
-tradições europeias.` },
+      { id: 'B', type: 'text', value: `superação de aspectos culturais africanos por antigas tradições europeias.` },
       { id: 'C', type: 'text', value: `reprodução de conflitos entre grupos étnicos africanos.` },
-      { id: 'D', type: 'text', value: `manutenção das características culturais específicas 
-de cada etnia.` },
-      { id: 'E', type: 'text', value: `resistência à incorporação de elementos culturais 
-indígenas.` },
+      { id: 'D', type: 'text', value: `manutenção das características culturais específicas de cada etnia.` },
+      { id: 'E', type: 'text', value: `resistência à incorporação de elementos culturais indígenas.` },
     ],
     correct: 'A',
     explanation: `O texto de Slenes argumenta que os africanos trazidos como escravos ao Brasil perceberam, apesar das diferenças, afinidades culturais profundas entre si. Ao reunir indivíduos de distintas partes da África, a experiência da escravidão favoreceu a formação de uma identidade cultural afro-brasileira, por isso a alternativa A está correta. B inverte o processo ao falar em superação da cultura africana por tradições europeias; C enfatiza conflitos étnicos, e não a aproximação descrita; D supõe a manutenção isolada das características de cada etnia, contrária à mistura apontada; e E desloca o foco para a resistência a elementos indígenas, tema ausente no texto.`,
@@ -210,13 +182,10 @@ como expoente Martin Luther King e objetivavam`,
     images: null,
     alternatives: [
       { id: 'A', type: 'text', value: `a conquista de direitos civis para a população negra.` },
-      { id: 'B', type: 'text', value: `o apoio aos atos violentos patrocinados pelos negros 
-em espaço urbano.` },
-      { id: 'C', type: 'text', value: `a supremacia das instituições religiosas em meio à 
-comunidade negra sulista.` },
+      { id: 'B', type: 'text', value: `o apoio aos atos violentos patrocinados pelos negros em espaço urbano.` },
+      { id: 'C', type: 'text', value: `a supremacia das instituições religiosas em meio à comunidade negra sulista.` },
       { id: 'D', type: 'text', value: `a incorporação dos negros no mercado de trabalho.` },
-      { id: 'E', type: 'text', value: `a aceitação da cultura negra como representante do 
-modo de vida americano.` },
+      { id: 'E', type: 'text', value: `a aceitação da cultura negra como representante do modo de vida americano.` },
     ],
     correct: 'A',
     explanation: `O trecho do discurso 'Eu tenho um sonho', de Martin Luther King, situa-se na mobilização da população negra no sul dos Estados Unidos nos anos 1950 e 1960. Essas reivindicações tinham como objetivo a conquista de direitos civis para a população negra, submetida à segregação racial, por isso a alternativa A está correta. B atribui ao movimento a defesa da violência, quando King pregava a luta pacífica; C e E deslocam o foco para supremacia religiosa ou aceitação cultural; e D reduz a pauta à inserção no mercado de trabalho, aspecto parcial diante da luta por igualdade de direitos civis.`,
@@ -228,32 +197,21 @@ modo de vida americano.` },
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `É verdade que nas democracias o povo parece 
-fazer o que quer; mas a liberdade política não consiste 
-nisso. Deve-se ter sempre presente em mente o que é 
-independência e o que é liberdade. A liberdade é o direito 
-de fazer tudo o que as leis permitem; se um cidadão 
-pudesse fazer tudo o que elas proíbem, não teria mais 
-liberdade, porque os outros também teriam tal poder. 
-MONTESQUIEU. Do Espírito das Leis . São Paulo: Editora Nova Cultural, 1997 (adaptado). 
-A 
-característica 
-de 
-democracia 
-ressaltada 
-por 
-Montesquieu diz respeito`,
+    text: `É verdade que nas democracias o povo parece fazer o que quer;
+mas a liberdade política não consiste nisso. Deve-se ter
+sempre presente em mente o que é independência e o que é
+liberdade. A liberdade é o direito de fazer tudo o que as leis
+permitem; se um cidadão pudesse fazer tudo o que elas proíbem,
+não teria mais liberdade, porque os outros também teriam tal
+poder. MONTESQUIEU. Do Espírito das Leis . São Paulo: Editora
+Nova Cultural, 1997 (adaptado). A característica de democracia
+ressaltada por Montesquieu diz respeito`,
     alternatives: [
-      { id: 'A', type: 'text', value: `ao status de cidadania que o indivíduo adquire ao 
-tomar as decisões por si mesmo.` },
-      { id: 'B', type: 'text', value: `ao condicionamento da liberdade dos cidadãos à 
-conformidade às leis.` },
-      { id: 'C', type: 'text', value: `à possibilidade de o cidadão participar no poder e, 
-nesse caso, livre da submissão às leis.` },
-      { id: 'D', type: 'text', value: `ao livre-arbítrio do cidadão em relação àquilo que é 
-proibido, desde que ciente das consequências.` },
-      { id: 'E', type: 'text', value: `ao direito do cidadão exercer sua vontade de acordo 
-com seus valores pessoais.` },
+      { id: 'A', type: 'text', value: `ao status de cidadania que o indivíduo adquire ao tomar as decisões por si mesmo.` },
+      { id: 'B', type: 'text', value: `ao condicionamento da liberdade dos cidadãos à conformidade às leis.` },
+      { id: 'C', type: 'text', value: `à possibilidade de o cidadão participar no poder e, nesse caso, livre da submissão às leis.` },
+      { id: 'D', type: 'text', value: `ao livre-arbítrio do cidadão em relação àquilo que é proibido, desde que ciente das consequências.` },
+      { id: 'E', type: 'text', value: `ao direito do cidadão exercer sua vontade de acordo com seus valores pessoais.` },
     ],
     correct: 'B',
     explanation: `Montesquieu, em 'Do Espírito das Leis', afirma que a liberdade política não é fazer tudo o que se quer, mas o direito de fazer tudo o que as leis permitem. A característica da democracia por ele ressaltada é, portanto, o condicionamento da liberdade dos cidadãos à conformidade às leis, por isso a alternativa B está correta. A associa a liberdade a decidir por si mesmo, e E a valores pessoais, ignorando o limite legal; C afirma a liberdade como ausência de submissão às leis, o oposto do texto; e D defende o livre-arbítrio sobre o que é proibido, também contrariando a definição do autor.`,
@@ -271,15 +229,11 @@ sociais das constantes prisões de Mahatma Gandhi pelas
 autoridades britânicas, na Índia, demonstrando`,
     images: ['/enem/2012/images/enem_2012_d1_q8.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a ineficiência do sistema judiciário inglês no 
-território indiano.` },
+      { id: 'A', type: 'text', value: `a ineficiência do sistema judiciário inglês no território indiano.` },
       { id: 'B', type: 'text', value: `o apoio da população hindu à prisão de Gandhi.` },
-      { id: 'C', type: 'text', value: `o caráter violento das manifestações hindus frente à 
-ação inglesa.` },
-      { id: 'D', type: 'text', value: `a impossibilidade de deter o movimento liderado 
-por Gandhi.` },
-      { id: 'E', type: 'text', value: `a indiferença das autoridades britânicas frente ao 
-apelo popular hindu.` },
+      { id: 'C', type: 'text', value: `o caráter violento das manifestações hindus frente à ação inglesa.` },
+      { id: 'D', type: 'text', value: `a impossibilidade de deter o movimento liderado por Gandhi.` },
+      { id: 'E', type: 'text', value: `a indiferença das autoridades britânicas frente ao apelo popular hindu.` },
     ],
     correct: 'D',
     explanation: `O cartum 'Lord Willingdon's Dilemma', de 1932, ironiza o impasse das autoridades britânicas diante das sucessivas prisões de Mahatma Gandhi: a multidão que se forma atrás do líder preso mostra que encarcerá-lo não contém o movimento. A charge demonstra, assim, a impossibilidade de deter o movimento liderado por Gandhi, por isso a alternativa D está correta. A desloca o foco para a ineficiência do Judiciário; B inverte o sentido ao supor apoio popular à prisão; C atribui violência às manifestações, quando Gandhi defendia a não violência; e E afirma indiferença britânica, contrariada pelo próprio 'dilema' expresso no título.`,
@@ -314,26 +268,11 @@ como exposto por Habermas, encontra amparo nas
 democracias contemporâneas, na medida em que 
 se alcança`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a secessão, pela qual a minoria discriminada 
-obteria a igualdade de direitos na condição 
-da sua concentração espacial, num tipo de 
-independência nacional.` },
-      { id: 'B', type: 'text', value: `a reunificação da sociedade que se encontra 
-fragmentada em grupos de diferentes comunidades 
-étnicas, confissões religiosas e formas de vida, em 
-torno da coesão de uma cultura política nacional.` },
-      { id: 'C', type: 'text', value: `a coexistência das diferenças, considerando a 
-possibilidade de os discursos de autoentendimento 
-se submeterem ao debate público, cientes de que 
-estarão vinculados à coerção do melhor argumento.` },
-      { id: 'D', type: 'text', value: `a autonomia dos indivíduos que, ao chegarem à 
-vida adulta, tenham condições de se libertar das 
-tradições de suas origens em nome da harmonia da 
-política nacional.` },
-      { id: 'E', type: 'text', value: `o desaparecimento de quaisquer limitações, tais 
-como linguagem política ou distintas convenções 
-de comportamento, para compor a arena política a 
-ser compartilhada.` },
+      { id: 'A', type: 'text', value: `a secessão, pela qual a minoria discriminada obteria a igualdade de direitos na condição da sua concentração espacial, num tipo de independência nacional.` },
+      { id: 'B', type: 'text', value: `a reunificação da sociedade que se encontra fragmentada em grupos de diferentes comunidades étnicas, confissões religiosas e formas de vida, em torno da coesão de uma cultura política nacional.` },
+      { id: 'C', type: 'text', value: `a coexistência das diferenças, considerando a possibilidade de os discursos de autoentendimento se submeterem ao debate público, cientes de que estarão vinculados à coerção do melhor argumento.` },
+      { id: 'D', type: 'text', value: `a autonomia dos indivíduos que, ao chegarem à vida adulta, tenham condições de se libertar das tradições de suas origens em nome da harmonia da política nacional.` },
+      { id: 'E', type: 'text', value: `o desaparecimento de quaisquer limitações, tais como linguagem política ou distintas convenções de comportamento, para compor a arena política a ser compartilhada.` },
     ],
     correct: 'C',
     explanation: `Habermas discute os direitos culturais das minorias e sustenta que, nas democracias contemporâneas, os conflitos devem ser tratados no debate público. O amparo a essas reivindicações alcança-se pela coexistência das diferenças, desde que os discursos de autoentendimento se submetam ao debate e à força do melhor argumento, por isso a alternativa C está correta. A propõe a secessão da minoria, e B a reunificação em torno de uma única cultura, soluções que anulam a pluralidade; D reduz a questão à libertação individual das tradições; e E defende o desaparecimento de toda limitação, incompatível com a mediação argumentativa proposta pelo autor.`,
@@ -362,8 +301,7 @@ americano está indicada na`,
       { id: 'B', type: 'text', value: `promoção das guerras justas para conquistar o território.` },
       { id: 'C', type: 'text', value: `imposição da catequese para explorar o trabalho africano.` },
       { id: 'D', type: 'text', value: `opção pela policultura para garantir o povoamento ibérico.` },
-      { id: 'E', type: 'text', value: `fundação de cidades para controlar a circulação 
-de riquezas.` },
+      { id: 'E', type: 'text', value: `fundação de cidades para controlar a circulação de riquezas.` },
     ],
     correct: 'E',
     explanation: `A carta de Colombo aos reis da Espanha, de 1503, destaca a abundância de ouro nas terras recém-encontradas, revelando o interesse econômico que moveu a colonização espanhola da América. Esse interesse implicou a fundação de cidades para controlar a circulação das riquezas extraídas, por isso a alternativa E está correta. A e C associam a ocupação à catequese e ao fortalecimento do clero, aspectos secundários diante do objetivo econômico; B generaliza as guerras justas como meio de povoamento; e D supõe a opção pela policultura, estranha à lógica extrativa e mercantil evidenciada na carta.`,
@@ -396,8 +334,7 @@ indicados, respectivamente, em:`,
       { id: 'B', type: 'text', value: `Limitação do poder do soberano - Absolutismo.` },
       { id: 'C', type: 'text', value: `Ampliação da dominação da nobreza - República.` },
       { id: 'D', type: 'text', value: `Expansão da força do presidente - Parlamentarismo.` },
-      { id: 'E', type: 'text', value: `Restrição da competência do congresso - 
-Presidencialismo.` },
+      { id: 'E', type: 'text', value: `Restrição da competência do congresso - Presidencialismo.` },
     ],
     correct: 'B',
     explanation: `A Declaração de Direitos inglesa de 1689 (Bill of Rights) proibiu o soberano de suspender leis, cobrar impostos ou manter exército sem o Parlamento, consolidando a limitação do poder real na Inglaterra. Essa peculiaridade contrastava com o Absolutismo que predominava na Europa continental, em que o rei concentrava poderes, por isso a alternativa B está correta. A associa a Inglaterra à redução da influência do papa e à teocracia; C fala em dominação da nobreza e república; e D e E projetam anacronicamente presidencialismo e parlamentarismo modernos, regimes inexistentes na Época Moderna descrita.`,
@@ -409,30 +346,19 @@ Presidencialismo.` },
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `Cartaz da Revolução Constitucionalista. 
-Disponível em: http://veja.abril.com.br. Acesso em: 29 jun. 2012. 
-Elaborado 
-pelos 
-partidários 
-da 
-Revolução 
-Constitucionalista de 1932, o cartaz apresentado 
-pretendia mobilizar a população paulista contra o 
-governo federal. 
-Essa mobilização utilizou-se de uma referência histórica, 
-associando o processo revolucionário`,
+    text: `Cartaz da Revolução Constitucionalista. Disponível em:
+http://veja.abril.com.br. Acesso em: 29 jun. 2012. Elaborado
+pelos partidários da Revolução Constitucionalista de 1932, o
+cartaz apresentado pretendia mobilizar a população paulista
+contra o governo federal. Essa mobilização utilizou-se de uma
+referência histórica, associando o processo revolucionário`,
     images: ['/enem/2012/images/enem_2012_d1_q12.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `à experiência francesa, expressa no chamado à luta 
-contra a ditadura.` },
-      { id: 'B', type: 'text', value: `aos ideais republicanos, indicados no destaque à 
-bandeira paulista.` },
-      { id: 'C', type: 'text', value: `ao protagonismo das Forças Armadas, representadas 
-pelo militar que empunha a bandeira.` },
-      { id: 'D', type: 'text', value: `ao bandeirantismo, símbolo paulista apresentado em 
-primeiro plano.` },
-      { id: 'E', type: 'text', value: `ao papel figurativo de Vargas na política, enfatizado 
-pela pequenez de sua figura no cartaz.` },
+      { id: 'A', type: 'text', value: `à experiência francesa, expressa no chamado à luta contra a ditadura.` },
+      { id: 'B', type: 'text', value: `aos ideais republicanos, indicados no destaque à bandeira paulista.` },
+      { id: 'C', type: 'text', value: `ao protagonismo das Forças Armadas, representadas pelo militar que empunha a bandeira.` },
+      { id: 'D', type: 'text', value: `ao bandeirantismo, símbolo paulista apresentado em primeiro plano.` },
+      { id: 'E', type: 'text', value: `ao papel figurativo de Vargas na política, enfatizado pela pequenez de sua figura no cartaz.` },
     ],
     correct: 'D',
     explanation: `O cartaz da Revolução Constitucionalista de 1932 mostra, em primeiro plano, um bandeirante empunhando a bandeira paulista e pisoteando a palavra 'ditadura', convocando a população de São Paulo contra o governo federal de Vargas. A mobilização recorreu à figura do bandeirante, símbolo da tradição paulista, para associar o movimento a um passado heroico regional, por isso a alternativa D está correta. A remete à experiência francesa, ausente no cartaz; B enfatiza apenas a bandeira, e não a figura central; C atribui o protagonismo às Forças Armadas; e E foca a pequenez de Vargas, que não é o elemento destacado na imagem.`,
@@ -461,21 +387,11 @@ A criação no Brasil do Serviço do Patrimônio Histórico
 Artístico Nacional (SPHAN), em 1937, foi orientada por 
 ideias como as descritas no texto, que visavam`,
     alternatives: [
-      { id: 'A', type: 'text', value: `submeter a memória e o patrimônio nacional ao 
-controle dos órgãos públicos, de acordo com a 
-tendência autoritária do Estado Novo.` },
-      { id: 'B', type: 'text', value: `transferir para a iniciativa privada a responsabilidade 
-de preservação do patrimônio nacional, por meio de 
-leis de incentivo fiscal.` },
-      { id: 'C', type: 'text', value: `definir os fatos e personagens históricos a serem 
-cultuados pela sociedade brasileira, de acordo com o 
-interesse público.` },
-      { id: 'D', type: 'text', value: `resguardar da destruição as obras representativas 
-da cultura nacional, por meio de políticas públicas 
-preservacionistas.` },
-      { id: 'E', type: 'text', value: `determinar as responsabilidades pela destruição 
-do patrimônio nacional, de acordo com a 
-legislação brasileira.` },
+      { id: 'A', type: 'text', value: `submeter a memória e o patrimônio nacional ao controle dos órgãos públicos, de acordo com a tendência autoritária do Estado Novo.` },
+      { id: 'B', type: 'text', value: `transferir para a iniciativa privada a responsabilidade de preservação do patrimônio nacional, por meio de leis de incentivo fiscal.` },
+      { id: 'C', type: 'text', value: `definir os fatos e personagens históricos a serem cultuados pela sociedade brasileira, de acordo com o interesse público.` },
+      { id: 'D', type: 'text', value: `resguardar da destruição as obras representativas da cultura nacional, por meio de políticas públicas preservacionistas.` },
+      { id: 'E', type: 'text', value: `determinar as responsabilidades pela destruição do patrimônio nacional, de acordo com a legislação brasileira.` },
     ],
     correct: 'D',
     explanation: `O texto de Rodrigo Melo Franco de Andrade defende a preservação das obras de arte e das relíquias históricas como patrimônio comum de todos, ameaçado de perecimento e evasão. Essas ideias orientaram a criação do SPHAN, em 1937, com o objetivo de resguardar da destruição as obras representativas da cultura nacional por meio de políticas públicas preservacionistas, por isso a alternativa D está correta. A interpreta o órgão como instrumento autoritário de controle da memória; B transfere a tarefa à iniciativa privada; C restringe sua ação a definir personagens históricos; e E reduz o SPHAN a determinar responsabilidades pela destruição, deturpando seu caráter preservacionista.`,
@@ -499,17 +415,11 @@ para a produção quanto para o transporte. No que se refere
 à territorialização da produção no Brasil contemporâneo, 
 uma dessas consequências é a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `realocação das exportações para o modal aéreo em 
-função da rapidez.` },
-      { id: 'B', type: 'text', value: `dispersão dos serviços financeiros em função da 
-busca de novos pontos de importação.` },
-      { id: 'C', type: 'text', value: `redução da exportação de gêneros agrícolas em 
-função da dificuldade para o escoamento.` },
-      { id: 'D', type: 'text', value: `priorização do comércio com países vizinhos em 
-função da existência de fronteiras terrestres.` },
-      { id: 'E', type: 'text', value: `estagnação da indústria de alta tecnologia em função 
-da concentração de investimentos na infraestrutura 
-de circulação.` },
+      { id: 'A', type: 'text', value: `realocação das exportações para o modal aéreo em função da rapidez.` },
+      { id: 'B', type: 'text', value: `dispersão dos serviços financeiros em função da busca de novos pontos de importação.` },
+      { id: 'C', type: 'text', value: `redução da exportação de gêneros agrícolas em função da dificuldade para o escoamento.` },
+      { id: 'D', type: 'text', value: `priorização do comércio com países vizinhos em função da existência de fronteiras terrestres.` },
+      { id: 'E', type: 'text', value: `estagnação da indústria de alta tecnologia em função da concentração de investimentos na infraestrutura de circulação.` },
     ],
     correct: 'C',
     explanation: `A reportagem relata a enorme perda de tempo dos navios à espera para atracar no porto de Santos, revelando gargalos na infraestrutura de escoamento. No que se refere à territorialização da produção, uma consequência é a redução da exportação de gêneros agrícolas em função da dificuldade de escoamento, por isso a alternativa C está correta. A supõe a transferência das exportações para o modal aéreo, inviável para grandes volumes agrícolas; B e D tratam de serviços financeiros e de comércio com vizinhos, alheios ao problema portuário; e E afirma estagnação da indústria de alta tecnologia, que não decorre diretamente do congestionamento do porto.`,
@@ -622,8 +532,7 @@ uma dimensão`,
       { id: 'B', type: 'text', value: `econômica de uso de recursos do espaço.` },
       { id: 'C', type: 'text', value: `privada de limitação sobre a utilização do espaço.` },
       { id: 'D', type: 'text', value: `natural de composição por elementos físicos do espaço.` },
-      { id: 'E', type: 'text', value: `simbólica de relação subjetiva do indivíduo com o 
-espaço.` },
+      { id: 'E', type: 'text', value: `simbólica de relação subjetiva do indivíduo com o espaço.` },
     ],
     correct: 'E',
     explanation: `Para Paul Claval, a paisagem é portadora de memória e ajuda a construir sentimentos de pertencimento, criando uma atmosfera ligada aos momentos fortes da vida. Além de existir como forma concreta, a paisagem apresenta, portanto, uma dimensão simbólica de relação subjetiva do indivíduo com o espaço, por isso a alternativa E está correta. A, B e C reduzem a paisagem a dimensões de apropriação política, econômica ou privada do espaço; e D a restringe à composição por elementos físicos, ignorando justamente o vínculo afetivo e identitário que o texto enfatiza.`,
@@ -671,20 +580,11 @@ consequente desdobramento que marcou o processo de
 ocupação do espaço rural na África subsaariana foram:`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `Exploração do campesinato pela elite proprietária - 
-Domínio das instituições fundiárias pelo poder público.` },
-      { id: 'B', type: 'text', value: `Adoção de práticas discriminatórias de acesso à 
-terra - Controle do uso especulativo da propriedade 
-fundiária.` },
-      { id: 'C', type: 'text', value: `Desorganização da economia rural de subsistência 
-- Crescimento do consumo interno de alimentos 
-pelas famílias camponesas.` },
-      { id: 'D', type: 'text', value: `Crescimento dos assentamentos rurais com mão de 
-obra familiar - Avanço crescente das áreas rurais 
-sobre as regiões urbanas.` },
-      { id: 'E', type: 'text', value: `Concentração das áreas cultiváveis no setor 
-agroexportador - Aumento da ocupação da população 
-pobre em territórios agrícolas marginais.` },
+      { id: 'A', type: 'text', value: `Exploração do campesinato pela elite proprietária - Domínio das instituições fundiárias pelo poder público.` },
+      { id: 'B', type: 'text', value: `Adoção de práticas discriminatórias de acesso à terra - Controle do uso especulativo da propriedade fundiária.` },
+      { id: 'C', type: 'text', value: `Desorganização da economia rural de subsistência - Crescimento do consumo interno de alimentos pelas famílias camponesas.` },
+      { id: 'D', type: 'text', value: `Crescimento dos assentamentos rurais com mão de obra familiar - Avanço crescente das áreas rurais sobre as regiões urbanas.` },
+      { id: 'E', type: 'text', value: `Concentração das áreas cultiváveis no setor agroexportador - Aumento da ocupação da população pobre em territórios agrícolas marginais.` },
     ],
     correct: 'E',
     explanation: `O texto de Sam Moyo aponta que, na África colonial, a expropriação da terra pelo colonizador e as desigualdades raciais de acesso marcaram o espaço rural, pouco alteradas mesmo após as independências. A característica socioespacial e seu desdobramento foram a concentração das áreas cultiváveis no setor agroexportador e o consequente deslocamento da população pobre para territórios agrícolas marginais, por isso a alternativa E está correta. A atribui o controle fundiário ao poder público; B fala em controle do uso especulativo; C em desorganização da subsistência com crescimento do consumo camponês; e D supõe expansão de assentamentos familiares, cenários que contrariam a concentração de terras descrita.`,
@@ -714,26 +614,11 @@ econômica e do crash de 1929 oculta a principal diferença
 entre essas duas crises, pois`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `o crash da Bolsa em 1929 adveio do envolvimento 
-dos EUA na I Guerra Mundial e a atual crise é o 
-resultado dos gastos militares desse país nas guerras 
-do Afeganistão e Iraque.` },
-      { id: 'B', type: 'text', value: `a crise de 1929 ocorreu devido a um quadro de 
-superprodução industrial nos EUA e a atual crise 
-resultou da especulação financeira e da expansão 
-desmedida do crédito bancário.` },
-      { id: 'C', type: 'text', value: `a crise de 1929 foi o resultado da concorrência dos 
-países europeus reconstruídos após a I Guerra e a 
-atual crise se associa à emergência dos BRICS como 
-novos concorrentes econômicos.` },
-      { id: 'D', type: 'text', value: `o crash da Bolsa em 1929 resultou do excesso de 
-proteções ao setor produtivo estadunidense e a atual 
-crise tem origem na internacionalização das empresas 
-e no avanço da política de livre mercado.` },
-      { id: 'E', type: 'text', value: `a crise de 1929 decorreu da política intervencionista 
-norte-americana sobre o sistema de comércio mundial 
-e a atual crise resultou do excesso de regulação do 
-governo desse país sobre o sistema monetário.` },
+      { id: 'A', type: 'text', value: `o crash da Bolsa em 1929 adveio do envolvimento dos EUA na I Guerra Mundial e a atual crise é o resultado dos gastos militares desse país nas guerras do Afeganistão e Iraque.` },
+      { id: 'B', type: 'text', value: `a crise de 1929 ocorreu devido a um quadro de superprodução industrial nos EUA e a atual crise resultou da especulação financeira e da expansão desmedida do crédito bancário.` },
+      { id: 'C', type: 'text', value: `a crise de 1929 foi o resultado da concorrência dos países europeus reconstruídos após a I Guerra e a atual crise se associa à emergência dos BRICS como novos concorrentes econômicos.` },
+      { id: 'D', type: 'text', value: `o crash da Bolsa em 1929 resultou do excesso de proteções ao setor produtivo estadunidense e a atual crise tem origem na internacionalização das empresas e no avanço da política de livre mercado.` },
+      { id: 'E', type: 'text', value: `a crise de 1929 decorreu da política intervencionista norte-americana sobre o sistema de comércio mundial e a atual crise resultou do excesso de regulação do governo desse país sobre o sistema monetário.` },
     ],
     correct: 'B',
     explanation: `O Texto I associa a atual crise a forças financeiras difusas no ciberespaço, e o Texto II a compara à Grande Depressão de 1929. A principal diferença entre as duas crises é que a de 1929 resultou da superprodução industrial nos Estados Unidos, enquanto a atual decorre da especulação financeira e da expansão desmedida do crédito bancário, por isso a alternativa B está correta. A liga as crises a guerras e gastos militares; C as atribui à concorrência europeia e aos BRICS; e D e E invertem as causas ao falar em excesso de proteções, de internacionalização ou de regulação estatal, explicações que não captam a distinção entre crise de superprodução e crise financeira.`,
@@ -757,19 +642,11 @@ tornaram símbolos da agitação cultural nos anos 1960,
 cuja inovação relacionava-se`,
     images: ['/enem/2012/images/enem_2012_d1_q22.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `à contestação da crise econômica europeia, que fora 
-provocada pela manutenção das guerras coloniais.` },
-      { id: 'B', type: 'text', value: `à organização partidária da juventude comunista, 
-visando o estabelecimento da ditadura do proletariado.` },
-      { id: 'C', type: 'text', value: `à unificação das noções de libertação social e 
-libertação individual, fornecendo um significado 
-político ao uso do corpo.` },
-      { id: 'D', type: 'text', value: `à defesa do amor cristão e monogâmico, com fins à 
-reprodução, que era tomado como solução para os 
-conflitos sociais.` },
-      { id: 'E', type: 'text', value: `ao reconhecimento da cultura das gerações passadas, 
-que conviveram com a emergência do rock e outras 
-mudanças nos costumes.` },
+      { id: 'A', type: 'text', value: `à contestação da crise econômica europeia, que fora provocada pela manutenção das guerras coloniais.` },
+      { id: 'B', type: 'text', value: `à organização partidária da juventude comunista, visando o estabelecimento da ditadura do proletariado.` },
+      { id: 'C', type: 'text', value: `à unificação das noções de libertação social e libertação individual, fornecendo um significado político ao uso do corpo.` },
+      { id: 'D', type: 'text', value: `à defesa do amor cristão e monogâmico, com fins à reprodução, que era tomado como solução para os conflitos sociais.` },
+      { id: 'E', type: 'text', value: `ao reconhecimento da cultura das gerações passadas, que conviveram com a emergência do rock e outras mudanças nos costumes.` },
     ],
     correct: 'C',
     explanation: `A foto de jovens com o cartaz 'Love not war' remete aos movimentos contestatórios dos anos 1960, como o Maio de 1968 e a campanha contra a Guerra do Vietnã. Seus slogans articulavam liberação social e liberação individual, conferindo significado político ao uso do corpo e aos comportamentos pessoais, por isso a alternativa C está correta. A reduz os protestos à contestação da crise econômica das guerras coloniais; B os enquadra na organização partidária comunista pela ditadura do proletariado; D os associa ao amor cristão e monogâmico voltado à reprodução; e E ao resgate da cultura das gerações passadas, leituras que não traduzem a inovação cultural do período.`,
@@ -798,16 +675,11 @@ O texto apresenta um discurso de disciplinarização dos
 corpos, que tem como consequência`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `a ampliação dos tratamentos médicos alternativos, 
-reduzindo os gastos com remédios.` },
-      { id: 'B', type: 'text', value: `a democratização do padrão de beleza, tornando-o 
-acessível pelo esforço individual.` },
-      { id: 'C', type: 'text', value: `o controle do consumo, impulsionando uma crise 
-econômica na indústria de alimentos.` },
-      { id: 'D', type: 'text', value: `a culpabilização individual, associando obesidade à 
-fraqueza de caráter.` },
-      { id: 'E', type: 'text', value: `o aumento da longevidade, resultando no crescimento 
-populacional.` },
+      { id: 'A', type: 'text', value: `a ampliação dos tratamentos médicos alternativos, reduzindo os gastos com remédios.` },
+      { id: 'B', type: 'text', value: `a democratização do padrão de beleza, tornando-o acessível pelo esforço individual.` },
+      { id: 'C', type: 'text', value: `o controle do consumo, impulsionando uma crise econômica na indústria de alimentos.` },
+      { id: 'D', type: 'text', value: `a culpabilização individual, associando obesidade à fraqueza de caráter.` },
+      { id: 'E', type: 'text', value: `o aumento da longevidade, resultando no crescimento populacional.` },
     ],
     correct: 'D',
     explanation: `O texto de D. S. Freire critica a 'cultura lipofóbica', que distorce a imagem corporal e trata o emagrecimento como questão de gula e de vontade individual. Esse discurso de disciplinarização dos corpos tem como consequência a culpabilização individual, associando a obesidade à fraqueza de caráter, por isso a alternativa D está correta. A e E deslocam o foco para tratamentos alternativos ou aumento da longevidade; B apresenta como positiva a 'democratização do padrão de beleza' pelo esforço pessoal, quando o texto denuncia essa lógica; e C reduz o fenômeno a um controle do consumo capaz de gerar crise na indústria de alimentos, aspecto não tratado.`,
@@ -819,19 +691,15 @@ populacional.` },
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `Composição da população residente urbana por sexo, 
+    text: `Composição da população residente urbana por sexo,
 segundo os grupos de idade - Brasil - 1
-Composição da população residente rural por sexo, 
-segundo os grupos de idade - Brasil - 1991/2010 
+Composição da população residente rural por sexo,
+segundo os grupos de idade - Brasil - 1991/2010
 
-Homens 
-Mulheres 
-1991 
-2010 
-Fonte: IBGE, Censo Demográfico 1991/2010 
-BRASIL. IBGE. Censo demográfico 1991-2010. Rio de Janeiro, 2011. 
-A interpretação e a correlação das figuras sobre a 
-dinâmica demográfica brasileira demonstram um(a)`,
+Homens Mulheres 1991 2010 Fonte: IBGE, Censo Demográfico
+1991/2010 BRASIL. IBGE. Censo demográfico 1991-2010. Rio de
+Janeiro, 2011. A interpretação e a correlação das figuras
+sobre a dinâmica demográfica brasileira demonstram um(a)`,
     images: ['/enem/2012/images/enem_2012_d1_q24_1.jpg', '/enem/2012/images/enem_2012_d1_q24_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `menor proporção de fecundidade na área urbana.` },
@@ -865,19 +733,10 @@ um aspecto essencial da Doutrina das Ideias de Platão
 se situa diante dessa relação?`,
     alternatives: [
       { id: 'A', type: 'text', value: `Estabelecendo um abismo intransponível entre as duas.` },
-      { id: 'B', type: 'text', value: `Privilegiando 
-os 
-sentidos 
-e 
-subordinando 
-o 
-conhecimento a eles.` },
-      { id: 'C', type: 'text', value: `Atendo-se à posição de Parmênides de que razão e 
-sensação são inseparáveis.` },
-      { id: 'D', type: 'text', value: `Afirmando que a razão é capaz de gerar conhecimento, 
-mas a sensação não.` },
-      { id: 'E', type: 'text', value: `Rejeitando a posição de Parmênides de que a 
-sensação é superior à razão.` },
+      { id: 'B', type: 'text', value: `Privilegiando os sentidos e subordinando o conhecimento a eles.` },
+      { id: 'C', type: 'text', value: `Atendo-se à posição de Parmênides de que razão e sensação são inseparáveis.` },
+      { id: 'D', type: 'text', value: `Afirmando que a razão é capaz de gerar conhecimento, mas a sensação não.` },
+      { id: 'E', type: 'text', value: `Rejeitando a posição de Parmênides de que a sensação é superior à razão.` },
     ],
     correct: 'D',
     explanation: `Segundo o texto, Platão retomou de Parmênides a distinção entre o objeto da razão e o objeto da sensação e procurou estabelecer uma relação que privilegiasse o primeiro sobre o segundo, base da Doutrina das Ideias. Platão situa-se, assim, afirmando que a razão é capaz de gerar conhecimento, mas a sensação não, por isso a alternativa D está correta. A exagera ao falar em abismo intransponível entre razão e sensação; B inverte a hierarquia ao privilegiar os sentidos; C atribui a Platão a ideia de inseparabilidade das duas; e E diz que ele rejeita Parmênides e vê a sensação como superior, contrariando o texto.`,
@@ -903,16 +762,11 @@ pelo setor de transportes e uma medida para
 promover a redução do seu uso, estão indicados, 
 respectivamente, em:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Aumento da poluição sonora - construção de barreiras 
-acústicas.` },
-      { id: 'B', type: 'text', value: `Incidência da chuva ácida - estatização da indústria 
-automobilística.` },
-      { id: 'C', type: 'text', value: `Derretimento das calotas polares - incentivo aos 
-transportes de massa.` },
-      { id: 'D', type: 'text', value: `Propagação de doenças respiratórias - distribuição 
-de medicamentos gratuitos.` },
-      { id: 'E', type: 'text', value: `Elevação das temperaturas médias - criminalização 
-da emissão de gás carbônico.` },
+      { id: 'A', type: 'text', value: `Aumento da poluição sonora - construção de barreiras acústicas.` },
+      { id: 'B', type: 'text', value: `Incidência da chuva ácida - estatização da indústria automobilística.` },
+      { id: 'C', type: 'text', value: `Derretimento das calotas polares - incentivo aos transportes de massa.` },
+      { id: 'D', type: 'text', value: `Propagação de doenças respiratórias - distribuição de medicamentos gratuitos.` },
+      { id: 'E', type: 'text', value: `Elevação das temperaturas médias - criminalização da emissão de gás carbônico.` },
     ],
     correct: 'C',
     explanation: `O texto de Murta destaca que o setor de transportes é o maior consumidor de petróleo e tende a concentrar ainda mais o uso de seus derivados. O impacto ambiental da tecnologia predominante (motores a combustão) e uma medida para reduzir seu uso são, respectivamente, o derretimento das calotas polares e o incentivo aos transportes de massa, por isso a alternativa C está correta. A associa poluição sonora a barreiras acústicas, que não reduzem o consumo de petróleo; B propõe estatizar a indústria automobilística; D distribui medicamentos sem atacar a causa; e E criminaliza a emissão de gás carbônico, medida que não corresponde à redução do uso de derivados sugerida.`,
@@ -924,49 +778,29 @@ da emissão de gás carbônico.` },
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `As mulheres quebradeiras de coco-babaçu dos 
-Estados do Maranhão, Piauí, Pará e Tocantins, na 
-sua grande maioria, vivem numa situação de exclusão 
-e subalternidade. O termo quebradeira de coco 
-assume o caráter de identidade coletiva na medida 
-em que as mulheres que sobrevivem dessa atividade 
-e reconhecem sua posição e condição desvalorizada 
-pela 
-lógica 
-da 
-dominação, 
-se 
-organizam 
-em 
-movimentos de resistência e de luta pela conquista da 
-terra, pela libertação dos babaçuais, pela autonomia 
-do processo produtivo. Passam a atribuir significados 
-ao seu trabalho e as suas experiências, tendo como 
-principal referência sua condição preexistente de 
-acesso e uso dos recursos naturais. 
-ROCHA, M. R. T. A luta das mulheres quebradeiras de coco-babaçu, pela libertação do 
-coco preso e pela posse da terra. In: Anais do VII Congresso Latino-Americano 
-de Sociologia Rural , Quito, 2006 (adaptado). 
-A organização do movimento das quebradeiras de coco 
-de babaçu é resultante da`,
+    text: `As mulheres quebradeiras de coco-babaçu dos Estados do
+Maranhão, Piauí, Pará e Tocantins, na sua grande maioria,
+vivem numa situação de exclusão e subalternidade. O termo
+quebradeira de coco assume o caráter de identidade coletiva na
+medida em que as mulheres que sobrevivem dessa atividade e
+reconhecem sua posição e condição desvalorizada pela lógica da
+dominação, se organizam em movimentos de resistência e de luta
+pela conquista da terra, pela libertação dos babaçuais, pela
+autonomia do processo produtivo. Passam a atribuir
+significados ao seu trabalho e as suas experiências, tendo
+como principal referência sua condição preexistente de acesso
+e uso dos recursos naturais. ROCHA, M. R. T. A luta das
+mulheres quebradeiras de coco-babaçu, pela libertação do coco
+preso e pela posse da terra. In: Anais do VII Congresso
+Latino-Americano de Sociologia Rural , Quito, 2006 (adaptado).
+A organização do movimento das quebradeiras de coco de babaçu
+é resultante da`,
     alternatives: [
-      { id: 'A', type: 'text', value: `constante violência nos babaçuais na confluência 
-de terras maranhenses, piauienses, paraenses e 
-tocantinenses, região com elevado índice de homicídios.` },
-      { id: 'B', type: 'text', value: `falta de identidade coletiva das trabalhadoras, 
-migrantes das cidades e com pouco vínculo histórico 
-com as áreas rurais do interior do Tocantins, Pará, 
-Maranhão e Piauí.` },
-      { id: 'C', type: 'text', value: `escassez de água nas regiões de veredas, ambientes 
-naturais dos babaçus, causada pela construção 
-de açudes particulares, impedindo o amplo acesso 
-público aos recursos hídricos.` },
-      { id: 'D', type: 'text', value: `progressiva devastação das matas dos cocais, em 
-função do avanço da sojicultura nos chapadões do 
-Meio-Norte brasileiro.` },
-      { id: 'E', type: 'text', value: `dificuldade imposta pelos fazendeiros e posseiros 
-no acesso aos babaçuais localizados no interior de 
-suas propriedades.` },
+      { id: 'A', type: 'text', value: `constante violência nos babaçuais na confluência de terras maranhenses, piauienses, paraenses e tocantinenses, região com elevado índice de homicídios.` },
+      { id: 'B', type: 'text', value: `falta de identidade coletiva das trabalhadoras, migrantes das cidades e com pouco vínculo histórico com as áreas rurais do interior do Tocantins, Pará, Maranhão e Piauí.` },
+      { id: 'C', type: 'text', value: `escassez de água nas regiões de veredas, ambientes naturais dos babaçus, causada pela construção de açudes particulares, impedindo o amplo acesso público aos recursos hídricos.` },
+      { id: 'D', type: 'text', value: `progressiva devastação das matas dos cocais, em função do avanço da sojicultura nos chapadões do Meio-Norte brasileiro.` },
+      { id: 'E', type: 'text', value: `dificuldade imposta pelos fazendeiros e posseiros no acesso aos babaçuais localizados no interior de suas propriedades.` },
     ],
     correct: 'E',
     explanation: `O texto de Rocha descreve como as quebradeiras de coco-babaçu do Meio-Norte, em situação de exclusão, assumem uma identidade coletiva e se organizam em movimentos de resistência pela terra e pelo acesso aos recursos naturais. Essa organização resulta da dificuldade imposta por fazendeiros e posseiros ao acesso aos babaçuais situados no interior de suas propriedades, por isso a alternativa E está correta. A reduz tudo à violência e aos homicídios na região; B nega a identidade coletiva que o texto afirma existir; C atribui a mobilização à escassez de água por açudes; e D à devastação das matas pela sojicultura, fatores que não são apontados como origem do movimento.`,
@@ -978,40 +812,30 @@ suas propriedades.` },
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `Texto I 
-Anaxímenes de Mileto disse que o ar é o elemento 
-originário de tudo o que existe, existiu e existirá, e 
-que outras coisas provêm de sua descendência. 
-Quando o ar se dilata, transforma-se em fogo, ao 
-passo que os ventos são ar condensado. As nuvens 
-formam-se a partir do ar por feltragem e, ainda mais 
-condensadas, transformam-se em água. A água, 
-quando mais condensada, transforma-se em terra, e 
-quando condensada ao máximo possível, transforma- 
-se em pedras. 
-BURNET, J. A aurora da filosofia grega . Rio de Janeiro: PUC-Rio, 2006 (adaptado). 
-Texto II 
-Basílio Magno, filósofo medieval, escreveu: 
-“Deus, como criador de todas as coisas, está no 
-princípio do mundo e dos tempos. Quão parcas 
-de conteúdo se nos apresentam, em face desta 
-concepção, 
-as 
-especulações 
-contraditórias 
-dos 
-filósofos, para os quais o mundo se origina, ou de 
-algum dos quatro elementos, como ensinam os Jônios, 
-ou dos átomos, como julga Demócrito. Na verdade, 
-dão a impressão de quererem ancorar o mundo numa 
-teia de aranha.” 
-GILSON, E.; BOEHNER, P. História da Filosofia Crista . 
-São Paulo: Vozes, 1991 (adaptado). 
-Filósofos dos diversos tempos históricos desenvolveram 
-teses para explicar a origem do universo, a partir de uma 
-explicação racional. As teses de Anaxímenes, filósofo 
-grego antigo, e de Basílio, filósofo medieval, têm em 
-comum na sua fundamentação teorias que`,
+    text: `Texto I Anaxímenes de Mileto disse que o ar é o elemento
+originário de tudo o que existe, existiu e existirá, e que
+outras coisas provêm de sua descendência. Quando o ar se
+dilata, transforma-se em fogo, ao passo que os ventos são ar
+condensado. As nuvens formam-se a partir do ar por feltragem
+e, ainda mais condensadas, transformam-se em água. A água,
+quando mais condensada, transforma-se em terra, e quando
+condensada ao máximo possível, transforma-se em pedras.
+BURNET, J. A aurora da filosofia grega . Rio de Janeiro:
+PUC-Rio, 2006 (adaptado). Texto II Basílio Magno, filósofo
+medieval, escreveu: “Deus, como criador de todas as coisas,
+está no princípio do mundo e dos tempos. Quão parcas de
+conteúdo se nos apresentam, em face desta concepção, as
+especulações contraditórias dos filósofos, para os quais o
+mundo se origina, ou de algum dos quatro elementos, como
+ensinam os Jônios, ou dos átomos, como julga Demócrito. Na
+verdade, dão a impressão de quererem ancorar o mundo numa teia
+de aranha.” GILSON, E.; BOEHNER, P. História da Filosofia
+Crista . São Paulo: Vozes, 1991 (adaptado). Filósofos dos
+diversos tempos históricos desenvolveram teses para explicar a
+origem do universo, a partir de uma explicação racional. As
+teses de Anaxímenes, filósofo grego antigo, e de Basílio,
+filósofo medieval, têm em comum na sua fundamentação teorias
+que`,
     alternatives: [
       { id: 'A', type: 'text', value: `eram baseadas nas` },
       { id: 'B', type: 'text', value: `refutavam as teorias de filósofos da religião.` },
@@ -1074,16 +898,11 @@ Nos textos, ambos os autores se posicionam sobre a
 natureza do conhecimento humano. A comparação dos 
 excertos permite assumir que Descartes e Hume`,
     alternatives: [
-      { id: 'A', type: 'text', value: `defendem os sentidos como critério originário para 
-considerar um conhecimento legítimo.` },
-      { id: 'B', type: 'text', value: `entendem que é desnecessário suspeitar do significado 
-de uma ideia na reflexão filosófica e crítica.` },
-      { id: 'C', type: 'text', value: `são legítimos representantes do criticismo quanto à 
-gênese do conhecimento.` },
-      { id: 'D', type: 'text', value: `concordam que conhecimento humano é impossível 
-em relação às ideias e aos sentidos.` },
-      { id: 'E', type: 'text', value: `atribuem diferentes lugares ao papel dos sentidos no 
-processo de obtenção do conhecimento.` },
+      { id: 'A', type: 'text', value: `defendem os sentidos como critério originário para considerar um conhecimento legítimo.` },
+      { id: 'B', type: 'text', value: `entendem que é desnecessário suspeitar do significado de uma ideia na reflexão filosófica e crítica.` },
+      { id: 'C', type: 'text', value: `são legítimos representantes do criticismo quanto à gênese do conhecimento.` },
+      { id: 'D', type: 'text', value: `concordam que conhecimento humano é impossível em relação às ideias e aos sentidos.` },
+      { id: 'E', type: 'text', value: `atribuem diferentes lugares ao papel dos sentidos no processo de obtenção do conhecimento.` },
     ],
     correct: 'E',
     explanation: `O Texto I, de Descartes, desconfia dos sentidos por já terem enganado, e o Texto II, de Hume, parte das impressões sensoriais para verificar o significado das ideias. A comparação mostra que Descartes e Hume atribuem diferentes lugares ao papel dos sentidos no processo de obtenção do conhecimento, por isso a alternativa E está correta. A afirma que ambos tomam os sentidos como critério originário, o que vale só para Hume; B nega a necessidade de suspeitar das ideias; C qualifica os dois como representantes do criticismo, próprio de Kant; e D diz que ambos consideram o conhecimento impossível, posição cética que nenhum deles sustenta.`,
@@ -1110,15 +929,11 @@ poder em seu tempo. No trecho citado, o autor demonstra
 o vínculo entre o seu pensamento político e o humanismo 
 renascentista ao`,
     alternatives: [
-      { id: 'A', type: 'text', value: `valorizar a interferência divina nos acontecimentos 
-definidores do seu tempo.` },
+      { id: 'A', type: 'text', value: `valorizar a interferência divina nos acontecimentos definidores do seu tempo.` },
       { id: 'B', type: 'text', value: `rejeitar a intervenção do acaso nos processos políticos.` },
-      { id: 'C', type: 'text', value: `afirmar a confiança na razão autônoma como 
-fundamento da ação humana.` },
-      { id: 'D', type: 'text', value: `romper com a tradição que valorizava o passado 
-como fonte de aprendizagem.` },
-      { id: 'E', type: 'text', value: `redefinir a ação política com base na unidade entre 
-fé e razão.` },
+      { id: 'C', type: 'text', value: `afirmar a confiança na razão autônoma como fundamento da ação humana.` },
+      { id: 'D', type: 'text', value: `romper com a tradição que valorizava o passado como fonte de aprendizagem.` },
+      { id: 'E', type: 'text', value: `redefinir a ação política com base na unidade entre fé e razão.` },
     ],
     correct: 'C',
     explanation: `No trecho de 'O Príncipe', Maquiavel admite o peso da fortuna, mas sustenta que o livre-arbítrio permite ao homem controlar metade de seus atos. Esse argumento revela o vínculo com o humanismo renascentista ao afirmar a confiança na razão autônoma como fundamento da ação humana, por isso a alternativa C está correta. A valoriza a interferência divina, e E a unidade entre fé e razão, posições que subordinam a ação a instâncias externas; B nega qualquer papel ao acaso, que o autor não descarta; e D fala em romper com o passado como fonte de aprendizagem, quando Maquiavel justamente se inspira nos exemplos antigos.`,
@@ -1174,10 +989,8 @@ derivada dessas estratégias tem sido`,
       { id: 'A', type: 'text', value: `o crescimento da carga tributária.` },
       { id: 'B', type: 'text', value: `o aumento da mobilidade ocupacional.` },
       { id: 'C', type: 'text', value: `a redução da competitividade entre as empresas.` },
-      { id: 'D', type: 'text', value: `o direcionamento das vendas para os mercados 
-regionais.` },
-      { id: 'E', type: 'text', value: `a ampliação do poder de planejamento dos 
-Estados nacionais.` },
+      { id: 'D', type: 'text', value: `o direcionamento das vendas para os mercados regionais.` },
+      { id: 'E', type: 'text', value: `a ampliação do poder de planejamento dos Estados nacionais.` },
     ],
     correct: 'B',
     explanation: `Sevcenko descreve a estratégia das empresas globalizadas de localizar sede, produção, capitais e executivos em lugares distintos, buscando as melhores vantagens em cada um. Uma consequência social dessa lógica é o aumento da mobilidade ocupacional, pois os trabalhadores precisam se deslocar e se readaptar conforme as empresas reorganizam suas atividades, por isso a alternativa B está correta. A e C afirmam crescimento da carga tributária e redução da competitividade, contrários à busca por menores custos; D fala em direcionar vendas a mercados regionais, oposto da escala global; e E supõe a ampliação do poder de planejamento dos Estados, enfraquecido nesse processo.`,
@@ -1232,21 +1045,11 @@ Goiás foi governada por D. Marcos de Noronha, que
 atendeu às diretrizes da política indigenista pombalina 
 que incentivava a criação de aldeamentos em função`,
     alternatives: [
-      { id: 'A', type: 'text', value: `das constantes rebeliões indígenas contra os brancos 
-colonizadores, que ameaçavam a produção de ouro 
-nas regiões mineradoras.` },
-      { id: 'B', type: 'text', value: `da propagação de doenças originadas do contato 
-com os colonizadores, que dizimaram boa parte da 
-população indígena.` },
-      { id: 'C', type: 'text', value: `do empenho das ordens religiosas em proteger 
-o indígena da exploração, o que garantiu a sua 
-supremacia na administração colonial.` },
-      { id: 'D', type: 'text', value: `da política racista da Coroa Portuguesa, contrária à 
-miscigenação, que organizava a sociedade em uma 
-hierarquia dominada pelos brancos.` },
-      { id: 'E', type: 'text', value: `da necessidade de controle dos brancos sobre a 
-população indígena, objetivando sua adaptação às 
-exigências do trabalho regular.` },
+      { id: 'A', type: 'text', value: `das constantes rebeliões indígenas contra os brancos colonizadores, que ameaçavam a produção de ouro nas regiões mineradoras.` },
+      { id: 'B', type: 'text', value: `da propagação de doenças originadas do contato com os colonizadores, que dizimaram boa parte da população indígena.` },
+      { id: 'C', type: 'text', value: `do empenho das ordens religiosas em proteger o indígena da exploração, o que garantiu a sua supremacia na administração colonial.` },
+      { id: 'D', type: 'text', value: `da política racista da Coroa Portuguesa, contrária à miscigenação, que organizava a sociedade em uma hierarquia dominada pelos brancos.` },
+      { id: 'E', type: 'text', value: `da necessidade de controle dos brancos sobre a população indígena, objetivando sua adaptação às exigências do trabalho regular.` },
     ],
     correct: 'E',
     explanation: `A carta de D. Marcos de Noronha, em 1749, insere-se na política indigenista pombalina, que incentivava a criação de aldeamentos em Goiás. Esses aldeamentos atendiam à necessidade de controle dos brancos sobre a população indígena, visando adaptá-la às exigências do trabalho regular, por isso a alternativa E está correta. A atribui a medida a rebeliões indígenas contra a mineração; B à propagação de doenças; C ao empenho das ordens religiosas em proteger o índio, quando a política pombalina reduziu o poder dos jesuítas; e D a uma política racista contrária à miscigenação, oposta às diretrizes pombalinas de integração do indígena.`,
@@ -1303,16 +1106,11 @@ a ação de empresas nacionais e estrangeiras do
 setor de mineração e destacam-se pela sua história 
 geológica por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `apresentarem áreas de intrusões graníticas, ricas em 
-jazidas minerais (ferro, manganês).` },
-      { id: 'B', type: 'text', value: `corresponderem ao principal evento geológico do 
-Cenozoico no território brasileiro.` },
-      { id: 'C', type: 'text', value: `apresentarem áreas arrasadas pela erosão, que 
-originaram a maior planície do país.` },
-      { id: 'D', type: 'text', value: `possuírem em sua extensão terrenos cristalinos ricos 
-em reservas de petróleo e gás natural.` },
-      { id: 'E', type: 'text', value: `serem esculpidas pela ação do intemperismo físico, 
-decorrente da variação de temperatura.` },
+      { id: 'A', type: 'text', value: `apresentarem áreas de intrusões graníticas, ricas em jazidas minerais (ferro, manganês).` },
+      { id: 'B', type: 'text', value: `corresponderem ao principal evento geológico do Cenozoico no território brasileiro.` },
+      { id: 'C', type: 'text', value: `apresentarem áreas arrasadas pela erosão, que originaram a maior planície do país.` },
+      { id: 'D', type: 'text', value: `possuírem em sua extensão terrenos cristalinos ricos em reservas de petróleo e gás natural.` },
+      { id: 'E', type: 'text', value: `serem esculpidas pela ação do intemperismo físico, decorrente da variação de temperatura.` },
     ],
     correct: 'A',
     explanation: `O texto de Ross caracteriza os crátons das Guianas e Sul-Amazônico como terrenos muito antigos, arrasados pela erosão e formados por rochas do embasamento cristalino. Sua história geológica envolve áreas de intrusões graníticas, ricas em jazidas minerais como ferro e manganês, o que atraiu a mineração, por isso a alternativa A está correta. B situa esses terrenos no Cenozoico, quando são pré-cambrianos; C os relaciona à formação da maior planície do país; D supõe reservas de petróleo e gás, típicas de bacias sedimentares; e E atribui seu modelado ao intemperismo físico por variação térmica, que não explica sua riqueza mineral.`,
@@ -1376,24 +1174,11 @@ quanto no contexto latino-americano do século XXI, as
 alterações tecnológicas vivenciadas no campo interferem 
 na vida das populações locais, pois`,
     alternatives: [
-      { id: 'A', type: 'text', value: `induzem os jovens ao estudo nas grandes cidades, 
-causando o êxodo rural, uma vez que formados, não 
-retornam à sua região de origem.` },
-      { id: 'B', type: 'text', value: `impulsionam as populações locais a buscar linhas 
-de financiamento estatal com o objetivo de ampliar a 
-agricultura familiar, garantindo sua fixação no campo.` },
-      { id: 'C', type: 'text', value: `ampliam o protagonismo do Estado, possibilitando 
-a grupos econômicos ruralistas produzir e impor 
-políticas agrícolas, ampliando o controle que tinham 
-dos mercados.` },
-      { id: 'D', type: 'text', value: `aumentam a produção e a produtividade de 
-determinadas culturas em função da intensificação 
-da mecanização, do uso de agrotóxicos e cultivo de 
-plantas transgênicas.` },
-      { id: 'E', type: 'text', value: `desorganizam o modo tradicional de vida impelindo- 
-as à busca por melhores condições no espaço 
-urbano ou em outros países em situações muitas 
-vezes precárias.` },
+      { id: 'A', type: 'text', value: `induzem os jovens ao estudo nas grandes cidades, causando o êxodo rural, uma vez que formados, não retornam à sua região de origem.` },
+      { id: 'B', type: 'text', value: `impulsionam as populações locais a buscar linhas de financiamento estatal com o objetivo de ampliar a agricultura familiar, garantindo sua fixação no campo.` },
+      { id: 'C', type: 'text', value: `ampliam o protagonismo do Estado, possibilitando a grupos econômicos ruralistas produzir e impor políticas agrícolas, ampliando o controle que tinham dos mercados.` },
+      { id: 'D', type: 'text', value: `aumentam a produção e a produtividade de determinadas culturas em função da intensificação da mecanização, do uso de agrotóxicos e cultivo de plantas transgênicas.` },
+      { id: 'E', type: 'text', value: `desorganizam o modo tradicional de vida impelindo-as à busca por melhores condições no espaço urbano ou em outros países em situações muitas vezes precárias.` },
     ],
     correct: 'E',
     explanation: `O Texto I trata dos camponeses europeus do século XIX, desligados da terra e empurrados ao trabalho volante, e o Texto II, das transformações tecnológicas do agronegócio latino-americano no século XXI. Ambos mostram que as mudanças técnicas no campo desorganizam o modo tradicional de vida, impelindo as populações à busca por melhores condições nas cidades ou em outros países, muitas vezes em situação precária, por isso a alternativa E está correta. A restringe o fenômeno ao estudo nas grandes cidades; B e C supõem financiamento estatal e protagonismo do Estado em favor da agricultura familiar, não descritos; e D destaca apenas o aumento da produtividade, sem tratar do impacto sobre as populações locais.`,
@@ -1425,8 +1210,7 @@ VIEIRA, A. Sermoes . Tomo XI. Porto: Lello & Irmão, 1951 (adaptado).
 O trecho do sermão do Padre Antônio Vieira estabelece 
 uma relação entre a Paixão de Cristo e`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a atividade dos comerciantes de açúcar nos portos 
-brasileiros.` },
+      { id: 'A', type: 'text', value: `a atividade dos comerciantes de açúcar nos portos brasileiros.` },
       { id: 'B', type: 'text', value: `a função dos mestres de açúcar durante a safra de cana.` },
       { id: 'C', type: 'text', value: `o sofrimento dos jesuítas na conversão dos ameríndios.` },
       { id: 'D', type: 'text', value: `o papel dos senhores na administração dos engenhos.` },
@@ -1456,12 +1240,9 @@ sindical que`,
     alternatives: [
       { id: 'A', type: 'text', value: `elimina os conflitos no ambiente das fábricas.` },
       { id: 'B', type: 'text', value: `limita os direitos associativos do segmento patronal.` },
-      { id: 'C', type: 'text', value: `orienta a busca do consenso entre trabalhadores 
-e patrões.` },
-      { id: 'D', type: 'text', value: `proíbe o registro de estrangeiros nas entidades 
-profissionais do país.` },
-      { id: 'E', type: 'text', value: `desobriga o Estado quanto aos direitos e deveres da 
-classe trabalhadora.` },
+      { id: 'C', type: 'text', value: `orienta a busca do consenso entre trabalhadores e patrões.` },
+      { id: 'D', type: 'text', value: `proíbe o registro de estrangeiros nas entidades profissionais do país.` },
+      { id: 'E', type: 'text', value: `desobriga o Estado quanto aos direitos e deveres da classe trabalhadora.` },
     ],
     correct: 'C',
     explanation: `O documento de W. Falcão, da época do Estado Novo (1937-1945), define a organização sindical como instrumento de harmonia e cooperação entre o capital e o trabalho, rejeitando o sindicalismo 'operário' voltado à luta contra o patrão. Trata-se, portanto, de uma concepção que orienta a busca do consenso entre trabalhadores e patrões, própria do corporativismo varguista, por isso a alternativa C está correta. A exagera ao dizer que elimina os conflitos; B afirma que limita direitos patronais; D que proíbe o registro de estrangeiros; e E que desobriga o Estado de direitos e deveres trabalhistas, pontos que não correspondem à ideia de colaboração entre as classes expressa no texto.`,
@@ -1473,27 +1254,19 @@ classe trabalhadora.` },
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `O uso da água aumenta de acordo com as 
-necessidades 
-da 
-população 
-no 
-mundo. 
-Porém, 
-diferentemente do que se possa imaginar, o aumento do 
-consumo de água superou em duas vezes o crescimento 
-populacional durante o século XX. 
-TEIXEIRA, W. et al. Decifrando a Terra . São Paulo: Cia. Editora Nacional, 2009. 
-Uma estratégia socioespacial que pode contribuir para 
+    text: `O uso da água aumenta de acordo com as necessidades da
+população no mundo. Porém, diferentemente do que se possa
+imaginar, o aumento do consumo de água superou em duas vezes o
+crescimento populacional durante o século XX. TEIXEIRA, W. et
+al. Decifrando a Terra . São Paulo: Cia. Editora Nacional,
+2009. Uma estratégia socioespacial que pode contribuir para
 alterar a lógica de uso da água apresentada no texto é a`,
     alternatives: [
       { id: 'A', type: 'text', value: `ampliação de sistemas de reutilização hídrica.` },
       { id: 'B', type: 'text', value: `expansão da irrigação por aspersão das lavouras.` },
-      { id: 'C', type: 'text', value: `intensificação do controle do desmatamento de 
-florestas.` },
+      { id: 'C', type: 'text', value: `intensificação do controle do desmatamento de florestas.` },
       { id: 'D', type: 'text', value: `adoção de técnicas tradicionais de produção.` },
-      { id: 'E', type: 'text', value: `criação de incentivos fiscais para o cultivo de 
-produtos orgânicos.` },
+      { id: 'E', type: 'text', value: `criação de incentivos fiscais para o cultivo de produtos orgânicos.` },
     ],
     correct: 'A',
     explanation: `O texto de Teixeira mostra que o consumo de água cresceu mais que o dobro da população ao longo do século XX, pressionando os recursos hídricos. Uma estratégia socioespacial capaz de alterar essa lógica de uso é a ampliação de sistemas de reutilização hídrica, que reduz a demanda por novas captações, por isso a alternativa A está correta. B e C propõem expandir a irrigação por aspersão e intensificar o controle do desmatamento, medidas que não diminuem diretamente o consumo; D fala em técnicas tradicionais de produção; e E em incentivos fiscais a produtos orgânicos, iniciativas que não enfrentam o problema do uso crescente da água.`,
@@ -1518,18 +1291,11 @@ Acesso em: 20 fev. 2012 (fragmento).
 A letra dessa canção reflete elementos identitários que 
 representam a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `valorização das características naturais do Sertão 
-nordestino.` },
+      { id: 'A', type: 'text', value: `valorização das características naturais do Sertão nordestino.` },
       { id: 'B', type: 'text', value: `denúncia da precariedade social provocada pela seca.` },
       { id: 'C', type: 'text', value: `experiência de deslocamento vivenciada pelo migrante.` },
-      { id: 'D', type: 'text', value: `profunda desigualdade social entre as regiões 
-brasileiras.` },
-      { id: 'E', type: 'text', value: `discriminação 
-dos 
-nordestinos 
-nos 
-grandes 
-centros urbanos.` },
+      { id: 'D', type: 'text', value: `profunda desigualdade social entre as regiões brasileiras.` },
+      { id: 'E', type: 'text', value: `discriminação dos nordestinos nos grandes centros urbanos.` },
     ],
     correct: 'C',
     explanation: `A canção 'A vida de viajante', de Luiz Gonzaga, retrata alguém que percorre o país guardando recordações das terras por onde passa e dos amigos que deixou. Os elementos identitários da letra representam a experiência de deslocamento vivenciada pelo migrante, típica do retirante nordestino, por isso a alternativa C está correta. A reduz a canção à valorização das características naturais do Sertão; B e E a interpretam como denúncia da seca ou da discriminação nos centros urbanos, temas não centrais na letra; e D a vincula à desigualdade entre regiões, quando o foco está na vivência do próprio viajante em movimento.`,
@@ -1541,38 +1307,27 @@ centros urbanos.` },
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `Próximo da Igreja dedicada a São Gonçalo nos 
-deparamos com uma impressionante multidão que 
-dançava ao som de suas violas. Tão logo viram o Vice- 
-Rei, cercaram-no e o obrigaram a dançar e pular, exercício 
-violento e pouco apropriado tanto para sua idade quanto 
-posição. Tivemos nós mesmos que entrar na dança, 
-por bem ou por mal, e não deixou de ser interessante 
-ver numa igreja padres, mulheres, frades, cavalheiros e 
-escravos a dançar e pular misturados, e a gritar a plenos 
-pulmões “Viva São Gonçalo do Amarante”. 
-Barbinais, Le Gentil. Noveau Voyage autour du monde. Apud: TINHORÃO, J. R. 
-As festas no Brasil Colonial. São Paulo: Ed. 34, 2000 (adaptado) . 
-O viajante francês, ao descrever suas impressões sobre 
-uma festa ocorrida em Salvador, em 1717, demonstra 
-dificuldade 
-em 
-entendê-la, 
-porque, 
-como 
-outras 
-manifestações religiosas do período colonial, ela`,
+    text: `Próximo da Igreja dedicada a São Gonçalo nos deparamos com uma
+impressionante multidão que dançava ao som de suas violas. Tão
+logo viram o Vice-Rei, cercaram-no e o obrigaram a dançar e
+pular, exercício violento e pouco apropriado tanto para sua
+idade quanto posição. Tivemos nós mesmos que entrar na dança,
+por bem ou por mal, e não deixou de ser interessante ver numa
+igreja padres, mulheres, frades, cavalheiros e escravos a
+dançar e pular misturados, e a gritar a plenos pulmões “Viva
+São Gonçalo do Amarante”. Barbinais, Le Gentil. Noveau Voyage
+autour du monde. Apud: TINHORÃO, J. R. As festas no Brasil
+Colonial. São Paulo: Ed. 34, 2000 (adaptado) . O viajante
+francês, ao descrever suas impressões sobre uma festa ocorrida
+em Salvador, em 1717, demonstra dificuldade em entendê-la,
+porque, como outras manifestações religiosas do período
+colonial, ela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `seguia os preceitos advindos da hierarquia 
-católica romana.` },
-      { id: 'B', type: 'text', value: `demarcava a submissão do povo à autoridade 
-constituída.` },
-      { id: 'C', type: 'text', value: `definia o pertencimento dos padres às camadas 
-populares.` },
-      { id: 'D', type: 'text', value: `afirmava um sentido comunitário de partilha da 
-devoção.` },
-      { id: 'E', type: 'text', value: `harmonizava as relações sociais entre escravos 
-e senhores.` },
+      { id: 'A', type: 'text', value: `seguia os preceitos advindos da hierarquia católica romana.` },
+      { id: 'B', type: 'text', value: `demarcava a submissão do povo à autoridade constituída.` },
+      { id: 'C', type: 'text', value: `definia o pertencimento dos padres às camadas populares.` },
+      { id: 'D', type: 'text', value: `afirmava um sentido comunitário de partilha da devoção.` },
+      { id: 'E', type: 'text', value: `harmonizava as relações sociais entre escravos e senhores.` },
     ],
     correct: 'D',
     explanation: `O relato do viajante francês descreve, em 1717, uma festa de São Gonçalo em Salvador na qual a multidão dançava e pulava dentro da igreja, misturando padres, mulheres, escravos e cavalheiros. Sua dificuldade de compreensão explica-se porque, como outras manifestações religiosas coloniais, a festa afirmava um sentido comunitário de partilha da devoção, distinto da religiosidade formal europeia, por isso a alternativa D está correta. A associa a festa aos preceitos rígidos da hierarquia católica romana, contrariados pela cena; B e E a leem como submissão à autoridade ou harmonização entre escravos e senhores; e C supõe que os padres pertenciam às camadas populares, aspecto não indicado no texto.`,
@@ -1591,14 +1346,10 @@ espaço rural brasileiro derivada dessa modificação
 produtiva está presente em:`,
     images: ['/enem/2012/images/enem_2012_d1_q45.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Expansão das terras agricultáveis, com manutenção 
-de desigualdades sociais.` },
-      { id: 'B', type: 'text', value: `Modernização técnica do território, com redução do 
-nível de emprego formal.` },
-      { id: 'C', type: 'text', value: `Valorização de atividades de subsistência, com 
-redução da produtividade da terra.` },
-      { id: 'D', type: 'text', value: `Desenvolvimento de núcleos policultores, com 
-ampliação da concentração fundiária.` },
+      { id: 'A', type: 'text', value: `Expansão das terras agricultáveis, com manutenção de desigualdades sociais.` },
+      { id: 'B', type: 'text', value: `Modernização técnica do território, com redução do nível de emprego formal.` },
+      { id: 'C', type: 'text', value: `Valorização de atividades de subsistência, com redução da produtividade da terra.` },
+      { id: 'D', type: 'text', value: `Desenvolvimento de núcleos policultores, com ampliação da concentração fundiária.` },
       { id: 'E', type: 'text', value: `Melhora da qualidade dos produtos, com retração na exportação de produtos primários.` },
     ],
     correct: 'A',
@@ -1618,25 +1369,11 @@ internacional, a política dos três erres: Redução,
 Reutilização e Reciclagem. 
 Um exemplo de reciclagem é a utilização de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `garrafas de vidro retornáveis para cerveja ou 
-refrigerante.` },
-      { id: 'B', type: 'text', value: `latas de alumínio como material para fabricação de 
-lingotes.` },
-      { id: 'C', type: 'text', value: `sacos 
-plásticos 
-de 
-supermercado 
-como 
-acondicionantes de lixo caseiro.` },
-      { id: 'D', type: 'text', value: `embalagens 
-plásticas 
-vazias 
-e 
-limpas 
-para 
-acondicionar outros alimentos.` },
-      { id: 'E', type: 'text', value: `garrafas PET recortadas em tiras para fabricação de 
-cerdas de vassouras.` },
+      { id: 'A', type: 'text', value: `garrafas de vidro retornáveis para cerveja ou refrigerante.` },
+      { id: 'B', type: 'text', value: `latas de alumínio como material para fabricação de lingotes.` },
+      { id: 'C', type: 'text', value: `sacos plásticos de supermercado como acondicionantes de lixo caseiro.` },
+      { id: 'D', type: 'text', value: `embalagens plásticas vazias e limpas para acondicionar outros alimentos.` },
+      { id: 'E', type: 'text', value: `garrafas PET recortadas em tiras para fabricação de cerdas de vassouras.` },
     ],
     correct: 'B',
     explanation: `A reciclagem consiste em transformar um material já usado em matéria-prima para a fabricação de um novo produto, alterando-o física ou quimicamente. Fundir as latas de alumínio para obter lingotes reaproveita o metal como matéria-prima de novos objetos, caracterizando reciclagem. As demais situações (garrafas de vidro retornáveis, sacos plásticos para lixo, embalagens reaproveitadas e garrafas PET viradas cerdas) são exemplos de reutilização, em que o objeto é usado de novo sem ser reprocessado. Por isso, o único exemplo de reciclagem é a transformação das latas de alumínio em lingotes (alternativa B).`,
@@ -1678,16 +1415,11 @@ organismo de espécie diferente.
 A característica de interesse será manifestada em 
 decorrência`,
     alternatives: [
-      { id: 'A', type: 'text', value: `do incremento do DNA a partir da duplicação do gene 
-transferido.` },
-      { id: 'B', type: 'text', value: `da transcrição do RNA transportador a partir do gene 
-transferido.` },
-      { id: 'C', type: 'text', value: `da expressão de proteínas sintetizadas a partir do 
-DNA não hibridizado.` },
-      { id: 'D', type: 'text', value: `da síntese de carboidratos a partir da ativação do 
-DNA do milho original.` },
-      { id: 'E', type: 'text', value: `da tradução do RNA mensageiro sintetizado a partir 
-do DNA recombinante.` },
+      { id: 'A', type: 'text', value: `do incremento do DNA a partir da duplicação do gene transferido.` },
+      { id: 'B', type: 'text', value: `da transcrição do RNA transportador a partir do gene transferido.` },
+      { id: 'C', type: 'text', value: `da expressão de proteínas sintetizadas a partir do DNA não hibridizado.` },
+      { id: 'D', type: 'text', value: `da síntese de carboidratos a partir da ativação do DNA do milho original.` },
+      { id: 'E', type: 'text', value: `da tradução do RNA mensageiro sintetizado a partir do DNA recombinante.` },
     ],
     correct: 'E',
     explanation: `No milho transgênico, um gene de interesse de outra espécie é inserido no DNA da planta, formando um DNA recombinante. Para que a característica desejada se manifeste, esse gene precisa ser expresso: é transcrito em RNA mensageiro, que em seguida é traduzido em proteína. É a proteína sintetizada a partir do gene transferido que confere a nova característica. Portanto, a característica resulta da tradução do RNA mensageiro sintetizado a partir do DNA recombinante (alternativa E).`,
@@ -1699,24 +1431,16 @@ do DNA recombinante.` },
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `A produção mundial de alimentos poderia se 
-reduzir a 40% da atual sem a aplicação de controle 
-sobre as pragas agrícolas. Por outro lado, o uso 
-frequente dos agrotóxicos pode causar contaminação 
-em solos, águas superficiais e subterrâneas, atmosfera 
-e alimentos. Os biopesticidas, tais como a piretrina e 
-a coronopilina, têm sido uma alternativa na diminuição 
-dos prejuízos econômicos, sociais e ambientais 
-gerados pelos agrotóxicos. 
-Piretrina 
-Coronopilina 
-Identifique 
-as 
-funções 
-orgânicas 
-presentes 
-simultaneamente nas estruturas dos dois biopesticidas 
-apresentados:`,
+    text: `A produção mundial de alimentos poderia se reduzir a 40% da
+atual sem a aplicação de controle sobre as pragas agrícolas.
+Por outro lado, o uso frequente dos agrotóxicos pode causar
+contaminação em solos, águas superficiais e subterrâneas,
+atmosfera e alimentos. Os biopesticidas, tais como a piretrina
+e a coronopilina, têm sido uma alternativa na diminuição dos
+prejuízos econômicos, sociais e ambientais gerados pelos
+agrotóxicos. Piretrina Coronopilina Identifique as funções
+orgânicas presentes simultaneamente nas estruturas dos dois
+biopesticidas apresentados:`,
     images: ['/enem/2012/images/enem_2012_d1_q49.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Éter e éster.` },
@@ -1759,29 +1483,21 @@ carrinho descrito também é verificado em`,
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `Pesticidas 
-são 
-contaminantes 
-ambientais 
-altamente tóxicos aos seres vivos e, geralmente, 
-com grande persistência ambiental. A busca por 
-novas formas de eliminação dos pesticidas tem 
-aumentado nos últimos anos, uma vez que as 
-técnicas atuais são economicamente dispendiosas e 
-paliativas. A biorremediação de pesticidas utilizando 
-microrganismos tem se mostrado uma técnica muito 
-promissora para essa finalidade, por apresentar 
-vantagens econômicas e ambientais. 
-Para ser utilizado nesta técnica promissora, um 
-microrganismo deve ser capaz de`,
+    text: `Pesticidas são contaminantes ambientais altamente tóxicos aos
+seres vivos e, geralmente, com grande persistência ambiental.
+A busca por novas formas de eliminação dos pesticidas tem
+aumentado nos últimos anos, uma vez que as técnicas atuais são
+economicamente dispendiosas e paliativas. A biorremediação de
+pesticidas utilizando microrganismos tem se mostrado uma
+técnica muito promissora para essa finalidade, por apresentar
+vantagens econômicas e ambientais. Para ser utilizado nesta
+técnica promissora, um microrganismo deve ser capaz de`,
     alternatives: [
       { id: 'A', type: 'text', value: `transferir o contaminante do solo para a água.` },
       { id: 'B', type: 'text', value: `absorver o contaminante sem alterá-lo quimicamente.` },
       { id: 'C', type: 'text', value: `apresentar alta taxa de mutação ao longo das gerações.` },
-      { id: 'D', type: 'text', value: `estimular o sistema imunológico do homem contra o 
-contaminante.` },
-      { id: 'E', type: 'text', value: `metabolizar o contaminante, liberando subprodutos 
-menos tóxicos ou atóxicos.` },
+      { id: 'D', type: 'text', value: `estimular o sistema imunológico do homem contra o contaminante.` },
+      { id: 'E', type: 'text', value: `metabolizar o contaminante, liberando subprodutos menos tóxicos ou atóxicos.` },
     ],
     correct: 'E',
     explanation: `A biorremediação usa microrganismos para degradar contaminantes, transformando-os quimicamente. Para ser útil nessa técnica, o microrganismo precisa metabolizar o pesticida, ou seja, participar de reações que o decompõem. Esse metabolismo deve gerar subprodutos menos tóxicos ou atóxicos, reduzindo o impacto ambiental. Apenas absorver ou transferir o contaminante não o elimina, e alta taxa de mutação ou estímulo imunológico não têm relação com a degradação. Portanto, o microrganismo deve metabolizar o contaminante, liberando subprodutos menos tóxicos ou atóxicos (alternativa E).`,
@@ -1843,22 +1559,11 @@ prejudicial à vida.
 A finalidade da utilização dos gases isobutano, butano e 
 propano neste aerossol é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `substituir o CFC, pois não reagem com o ozônio, 
-servindo como gases propelentes em aerossóis.` },
-      { id: 'B', type: 'text', value: `servir como propelentes, pois, como são muito 
-reativos, capturam o Freon existente livre na 
-atmosfera, impedindo a destruição do ozônio.` },
-      { id: 'C', type: 'text', value: `reagir com o ar, pois se decompõem espontaneamente 
-em dióxido de carbono (CO₂ ) e água (H₂ O), que não 
-atacam o ozônio.` },
-      { id: 'D', type: 'text', value: `impedir a destruição do ozônio pelo CFC, pois os 
-hidrocarbonetos gasosos reagem com a radiação UV, 
-liberando hidrogênio (H₂ ), que reage com o oxigênio 
-do ar (O₂ ), formando água (H₂ O).` },
-      { id: 'E', type: 'text', value: `destruir o CFC, pois reagem com a radiação UV, 
-liberando carbono (C), que reage com o oxigênio do 
-ar (O₂ ), formando dióxido de carbono (CO₂ ), que é 
-inofensivo para a camada de ozônio.` },
+      { id: 'A', type: 'text', value: `substituir o CFC, pois não reagem com o ozônio, servindo como gases propelentes em aerossóis.` },
+      { id: 'B', type: 'text', value: `servir como propelentes, pois, como são muito reativos, capturam o Freon existente livre na atmosfera, impedindo a destruição do ozônio.` },
+      { id: 'C', type: 'text', value: `reagir com o ar, pois se decompõem espontaneamente em dióxido de carbono (CO₂ ) e água (H₂ O), que não atacam o ozônio.` },
+      { id: 'D', type: 'text', value: `impedir a destruição do ozônio pelo CFC, pois os hidrocarbonetos gasosos reagem com a radiação UV, liberando hidrogênio (H₂ ), que reage com o oxigênio do ar (O₂ ), formando água (H₂ O).` },
+      { id: 'E', type: 'text', value: `destruir o CFC, pois reagem com a radiação UV, liberando carbono (C), que reage com o oxigênio do ar (O₂ ), formando dióxido de carbono (CO₂ ), que é inofensivo para a camada de ozônio.` },
     ],
     correct: 'A',
     explanation: `As reações mostram que o CFC (Freon) libera, sob radiação ultravioleta, radicais cloro que destroem o ozônio. Os gases isobutano, butano e propano são hidrocarbonetos usados como propelentes do aerossol, cuja função é expulsar o conteúdo da embalagem. Diferentemente do CFC, eles não reagem com o ozônio, substituindo o Freon sem prejudicar a camada de O3. Por isso, a finalidade desses gases é substituir o CFC, servindo como propelentes por não reagirem com o ozônio (alternativa A).`,
@@ -1951,19 +1656,13 @@ A função interativa I representa a proporção de`,
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `Muitas 
-espécies 
-de 
-plantas 
-lenhosas 
-são 
-encontradas no cerrado brasileiro. Para a sobrevivência 
-nas condições de longos períodos de seca e queimadas 
-periódicas, próprias desse ecossistema, essas plantas 
-desenvolveram estruturas muito peculiares. 
-As estruturas adaptativas mais apropriadas para a 
-sobrevivência desse grupo de plantas nas condições 
-ambientais do referido ecossistema são:`,
+    text: `Muitas espécies de plantas lenhosas são encontradas no cerrado
+brasileiro. Para a sobrevivência nas condições de longos
+períodos de seca e queimadas periódicas, próprias desse
+ecossistema, essas plantas desenvolveram estruturas muito
+peculiares. As estruturas adaptativas mais apropriadas para a
+sobrevivência desse grupo de plantas nas condições ambientais
+do referido ecossistema são:`,
     alternatives: [
       { id: 'A', type: 'text', value: `Cascas finas e sem sulcos ou fendas.` },
       { id: 'B', type: 'text', value: `Caules estreitos e retilíneos.` },
@@ -1981,17 +1680,13 @@ ambientais do referido ecossistema são:`,
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `A própolis é um produto natural conhecido por suas 
-propriedades anti-inflamatórias e cicatrizantes. Esse 
-material contém mais de 200 compostos identificados até 
-o momento. Dentre eles, alguns são de estrutura simples, 
-como é o caso do C₆H₅CO₂CH₂CH₃, cuja estrutura está
-mostrada a seguir. 
-O 
-C O 
-CH₂ CH₃ 
-O ácido carboxílico e o álcool capazes de produzir o 
-éster em apreço por meio da reação de esterificação são, 
+    text: `A própolis é um produto natural conhecido por suas
+propriedades anti-inflamatórias e cicatrizantes. Esse material
+contém mais de 200 compostos identificados até o momento.
+Dentre eles, alguns são de estrutura simples, como é o caso do
+C₆H₅CO₂CH₂CH₃, cuja estrutura está mostrada a seguir. O C O
+CH₂ CH₃ O ácido carboxílico e o álcool capazes de produzir o
+éster em apreço por meio da reação de esterificação são,
 respectivamente,`,
     images: ['/enem/2012/images/enem_2012_d1_q58.jpg'],
     alternatives: [
@@ -2078,16 +1773,11 @@ emite cerca de 3 000 lm.
 Disponível em: http://tecnologia.terra.com.br. Acesso em: 29 fev. 2012 (adaptado). 
 A eficiência de uma lâmpada incandescente de 40 W é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `maior que a de uma lâmpada fluorescente de 8 W, 
-que produz menor quantidade de luz.` },
-      { id: 'B', type: 'text', value: `maior que a de uma lâmpada fluorescente de 40 W, 
-que produz menor quantidade de luz.` },
-      { id: 'C', type: 'text', value: `menor que a de uma lâmpada fluorescente de 8 W, 
-que produz a mesma quantidade de luz.` },
-      { id: 'D', type: 'text', value: `menor que a de uma lâmpada fluorescente de 40 W, 
-pois consome maior quantidade de energia.` },
-      { id: 'E', type: 'text', value: `igual a de uma lâmpada fluorescente de 40 W, que 
-consome a mesma quantidade de energia.` },
+      { id: 'A', type: 'text', value: `maior que a de uma lâmpada fluorescente de 8 W, que produz menor quantidade de luz.` },
+      { id: 'B', type: 'text', value: `maior que a de uma lâmpada fluorescente de 40 W, que produz menor quantidade de luz.` },
+      { id: 'C', type: 'text', value: `menor que a de uma lâmpada fluorescente de 8 W, que produz a mesma quantidade de luz.` },
+      { id: 'D', type: 'text', value: `menor que a de uma lâmpada fluorescente de 40 W, pois consome maior quantidade de energia.` },
+      { id: 'E', type: 'text', value: `igual a de uma lâmpada fluorescente de 40 W, que consome a mesma quantidade de energia.` },
     ],
     correct: 'C',
     explanation: `A eficiência luminosa é a razão entre o fluxo luminoso (em lúmens) e a potência consumida (em watts). Para a incandescente de 40 W: 600 lm ÷ 40 W = 15 lm/W. Para a fluorescente de 40 W: 3000 lm ÷ 40 W = 75 lm/W; uma fluorescente de 8 W, com essa mesma eficiência, produziria 8 × 75 = 600 lm, igual à luz da incandescente de 40 W. Logo, a eficiência da incandescente de 40 W é menor que a de uma fluorescente de 8 W que produz a mesma quantidade de luz (alternativa C).`,
@@ -2159,16 +1849,11 @@ lago com águas tranquilas o índio deve mirar abaixo da
 posição em que enxerga o peixe. 
 Ele deve proceder dessa forma porque os raios de luz`,
     alternatives: [
-      { id: 'A', type: 'text', value: `refletidos pelo peixe não descrevem uma trajetória 
-retilínea no interior da água.` },
-      { id: 'B', type: 'text', value: `emitidos pelos olhos do índio desviam sua trajetória 
-quando passam do ar para a água.` },
-      { id: 'C', type: 'text', value: `espalhados pelo peixe são refletidos pela superfície 
-da água.` },
-      { id: 'D', type: 'text', value: `emitidos pelos olhos do índio são espalhados pela 
-superfície da água.` },
-      { id: 'E', type: 'text', value: `refletidos pelo peixe desviam sua trajetória quando 
-passam da água para o ar.` },
+      { id: 'A', type: 'text', value: `refletidos pelo peixe não descrevem uma trajetória retilínea no interior da água.` },
+      { id: 'B', type: 'text', value: `emitidos pelos olhos do índio desviam sua trajetória quando passam do ar para a água.` },
+      { id: 'C', type: 'text', value: `espalhados pelo peixe são refletidos pela superfície da água.` },
+      { id: 'D', type: 'text', value: `emitidos pelos olhos do índio são espalhados pela superfície da água.` },
+      { id: 'E', type: 'text', value: `refletidos pelo peixe desviam sua trajetória quando passam da água para o ar.` },
     ],
     correct: 'E',
     explanation: `Enxergamos o peixe graças à luz que parte dele (por ele refletida/espalhada) e chega aos olhos do índio. Ao passar da água para o ar, essa luz sofre refração, ou seja, desvia sua trajetória por mudar de meio. Esse desvio faz o peixe parecer estar em uma posição mais alta do que a real, por isso o índio deve mirar abaixo da imagem que vê. Logo, isso ocorre porque os raios refletidos pelo peixe desviam sua trajetória ao passar da água para o ar (alternativa E).`,
@@ -2180,34 +1865,22 @@ passam da água para o ar.` },
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `Os 
-vegetais 
-biossintetizam 
-determinadas 
-substâncias (por exemplo, alcaloides e flavonoides), cuja 
-estrutura química e concentração variam num mesmo 
-organismo em diferentes épocas do ano e estágios 
-de desenvolvimento. Muitas dessas substâncias são 
-produzidas para a adaptação do organismo às variações 
-ambientais 
-(radiação 
-UV, 
-temperatura, 
-parasitas, 
-herbívoros, estímulo a polinizadores etc.) ou fisiológicas 
-(crescimento, envelhecimento etc.). 
-As variações qualitativa e quantitativa na produção 
-dessas substâncias durante um ano são possíveis porque 
-o material genético do indivíduo`,
+    text: `Os vegetais biossintetizam determinadas substâncias (por
+exemplo, alcaloides e flavonoides), cuja estrutura química e
+concentração variam num mesmo organismo em diferentes épocas
+do ano e estágios de desenvolvimento. Muitas dessas
+substâncias são produzidas para a adaptação do organismo às
+variações ambientais (radiação UV, temperatura, parasitas,
+herbívoros, estímulo a polinizadores etc.) ou fisiológicas
+(crescimento, envelhecimento etc.). As variações qualitativa e
+quantitativa na produção dessas substâncias durante um ano são
+possíveis porque o material genético do indivíduo`,
     alternatives: [
       { id: 'A', type: 'text', value: `sofre constantes recombinações para adaptar-se.` },
       { id: 'B', type: 'text', value: `muda ao longo do ano e em diferentes fases da vida.` },
-      { id: 'C', type: 'text', value: `cria novos genes para biossíntese de substâncias 
-específicas.` },
-      { id: 'D', type: 'text', value: `altera a sequência de bases nitrogenadas para criar 
-novas substâncias.` },
-      { id: 'E', type: 'text', value: `possui genes transcritos diferentemente de acordo 
-com cada necessidade.` },
+      { id: 'C', type: 'text', value: `cria novos genes para biossíntese de substâncias específicas.` },
+      { id: 'D', type: 'text', value: `altera a sequência de bases nitrogenadas para criar novas substâncias.` },
+      { id: 'E', type: 'text', value: `possui genes transcritos diferentemente de acordo com cada necessidade.` },
     ],
     correct: 'E',
     explanation: `Todas as células de um vegetal têm o mesmo material genético, que não muda ao longo da vida nem cria novos genes conforme a necessidade. O que varia é a expressão gênica: diferentes genes são transcritos (ativados) em diferentes épocas, estágios ou condições ambientais. Essa regulação faz com que as substâncias produzidas variem em tipo e quantidade ao longo do ano. Portanto, as variações ocorrem porque o indivíduo possui genes transcritos diferentemente de acordo com cada necessidade (alternativa E).`,
@@ -2219,35 +1892,21 @@ com cada necessidade.` },
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `O benzeno é um hidrocarboneto aromático presente 
-no petróleo, no carvão e em condensados de gás natural. 
-Seus metabólitos são altamente tóxicos e se depositam 
-na medula óssea e nos tecidos gordurosos. O limite de 
-exposição pode causar anemia, câncer (leucemia) e 
-distúrbios do comportamento. Em termos de reatividade 
-química, quando um eletrófilo se liga ao benzeno, ocorre 
-a formação de um intermediário, o carbocátion. Por fim, 
-ocorre a adição ou substituição eletrofílica. 
- Disponível em: www.sindipetro.org.br. Acesso em: 1 mar. 2012 (adaptado). 
-Energia Livre 
-carbocátion (I) 
-produto (II) 
-produto (III) 
-Br₂ 
-catalisador 
-+ 
-+ 
-Progresso da Reação 
-Disponível em: www.qmc.ufsc.br. Acesso em: 1 mar. 2012 (adaptado). 
-Com base no texto e no gráfico do progresso da reação 
-apresentada, as estruturas químicas encontradas em 
-I, II e III são, respectivamente: 
-H 
-Br 
-H 
-+ 
-Br 
-Br`,
+    text: `O benzeno é um hidrocarboneto aromático presente no petróleo,
+no carvão e em condensados de gás natural. Seus metabólitos
+são altamente tóxicos e se depositam na medula óssea e nos
+tecidos gordurosos. O limite de exposição pode causar anemia,
+câncer (leucemia) e distúrbios do comportamento. Em termos de
+reatividade química, quando um eletrófilo se liga ao benzeno,
+ocorre a formação de um intermediário, o carbocátion. Por fim,
+ocorre a adição ou substituição eletrofílica. Disponível em:
+www.sindipetro.org.br. Acesso em: 1 mar. 2012 (adaptado).
+Energia Livre carbocátion (I) produto (II) produto (III) Br₂
+catalisador + + Progresso da Reação Disponível em:
+www.qmc.ufsc.br. Acesso em: 1 mar. 2012 (adaptado). Com base
+no texto e no gráfico do progresso da reação apresentada, as
+estruturas químicas encontradas em I, II e III são,
+respectivamente: H Br H + Br Br`,
     images: ['/enem/2012/images/enem_2012_d1_q66.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `A` },
@@ -2324,23 +1983,16 @@ Essa descrição sobre o tamanduá diz respeito ao seu`,
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `Uma dona de casa acidentalmente deixou cair na 
-geladeira a água proveniente do degelo de um peixe, 
-o que deixou um cheiro forte e desagradável dentro do 
-eletrodoméstico. Sabe-se que o odor característico de 
-peixe se deve às aminas e que esses compostos se 
-comportam como bases. 
-Na 
-tabela 
-são 
-listadas 
-as 
-concentrações 
-hidrogeniônicas de alguns materiais encontrados na 
-cozinha, que a dona de casa pensa em utilizar na limpeza 
-da geladeira. 
- 
-Dentre os materiais listados, quais são apropriados para 
+    text: `Uma dona de casa acidentalmente deixou cair na geladeira a
+água proveniente do degelo de um peixe, o que deixou um cheiro
+forte e desagradável dentro do eletrodoméstico. Sabe-se que o
+odor característico de peixe se deve às aminas e que esses
+compostos se comportam como bases. Na tabela são listadas as
+concentrações hidrogeniônicas de alguns materiais encontrados
+na cozinha, que a dona de casa pensa em utilizar na limpeza da
+geladeira.
+
+Dentre os materiais listados, quais são apropriados para
 amenizar esse odor?`,
     images: ['/enem/2012/images/enem_2012_d1_q69.jpg'],
     alternatives: [
@@ -2360,42 +2012,20 @@ amenizar esse odor?`,
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `Em uma planície, ocorreu um acidente ambiental 
-em 
-decorrência 
-do 
-derramamento 
-de 
-grande 
-quantidade de um hidrocarboneto que se apresenta na 
-forma pastosa à temperatura ambiente. Um químico 
-ambiental utilizou uma quantidade apropriada de 
-uma solução de para-dodecil-benzenossulfonato de 
-sódio, um agente tensoativo sintético, para diminuir os 
-impactos desse acidente. 
-Essa intervenção produz resultados positivos para o 
+    text: `Em uma planície, ocorreu um acidente ambiental em decorrência
+do derramamento de grande quantidade de um hidrocarboneto que
+se apresenta na forma pastosa à temperatura ambiente. Um
+químico ambiental utilizou uma quantidade apropriada de uma
+solução de para-dodecil-benzenossulfonato de sódio, um agente
+tensoativo sintético, para diminuir os impactos desse
+acidente. Essa intervenção produz resultados positivos para o
 ambiente porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `promove 
-uma 
-reação 
-de 
-substituição 
-no 
-hidrocarboneto, tornando-o menos letal ao ambiente.` },
-      { id: 'B', type: 'text', value: `a hidrólise do para-dodecil-benzenossulfonato de 
-sódio produz energia térmica suficiente para vaporizar 
-o hidrocarboneto.` },
-      { id: 'C', type: 'text', value: `a mistura desses reagentes provoca a combustão do 
-hidrocarboneto, o que diminui a quantidade dessa 
-substância na natureza.` },
-      { id: 'D', type: 'text', value: `a 
-solução 
-de 
-para-dodecil-benzenossulfonato 
-possibilita a solubilização do hidrocarboneto.` },
-      { id: 'E', type: 'text', value: `o reagente adicionado provoca uma solidificação do 
-hidrocarboneto, o que facilita sua retirada do ambiente.` },
+      { id: 'A', type: 'text', value: `promove uma reação de substituição no hidrocarboneto, tornando-o menos letal ao ambiente.` },
+      { id: 'B', type: 'text', value: `a hidrólise do para-dodecil-benzenossulfonato de sódio produz energia térmica suficiente para vaporizar o hidrocarboneto.` },
+      { id: 'C', type: 'text', value: `a mistura desses reagentes provoca a combustão do hidrocarboneto, o que diminui a quantidade dessa substância na natureza.` },
+      { id: 'D', type: 'text', value: `a solução de para-dodecil-benzenossulfonato possibilita a solubilização do hidrocarboneto.` },
+      { id: 'E', type: 'text', value: `o reagente adicionado provoca uma solidificação do hidrocarboneto, o que facilita sua retirada do ambiente.` },
     ],
     correct: 'D',
     explanation: `O para-dodecil-benzenossulfonato de sódio é um tensoativo (detergente), cuja molécula tem uma parte apolar (a cadeia), afim do hidrocarboneto, e uma parte polar/iônica, afim da água. Essa dupla afinidade permite que o tensoativo envolva o óleo derramado e o disperse na água, formando uma emulsão. Com isso, o hidrocarboneto é solubilizado/dispersado, reduzindo os impactos do derramamento. Portanto, a intervenção dá certo porque a solução de para-dodecil-benzenossulfonato possibilita a solubilização do hidrocarboneto (alternativa D).`,
@@ -2417,16 +2047,11 @@ De acordo com as características desse país, a matriz
 energética de menor impacto e risco ambientais é a 
 baseada na energia`,
     alternatives: [
-      { id: 'A', type: 'text', value: `dos biocombustíveis, pois tem menor impacto 
-ambiental e maior disponibilidade.` },
-      { id: 'B', type: 'text', value: `solar, pelo seu baixo custo e pelas características do 
-país favoráveis à sua implantação.` },
-      { id: 'C', type: 'text', value: `nuclear, por ter menor risco ambiental e ser adequada 
-a locais com menor extensão territorial.` },
-      { id: 'D', type: 'text', value: `hidráulica, devido ao relevo, à extensão territorial do 
-país e aos recursos naturais disponíveis.` },
-      { id: 'E', type: 'text', value: `eólica, pelas características do país e por não gerar 
-gases do efeito estufa nem resíduos de operação.` },
+      { id: 'A', type: 'text', value: `dos biocombustíveis, pois tem menor impacto ambiental e maior disponibilidade.` },
+      { id: 'B', type: 'text', value: `solar, pelo seu baixo custo e pelas características do país favoráveis à sua implantação.` },
+      { id: 'C', type: 'text', value: `nuclear, por ter menor risco ambiental e ser adequada a locais com menor extensão territorial.` },
+      { id: 'D', type: 'text', value: `hidráulica, devido ao relevo, à extensão territorial do país e aos recursos naturais disponíveis.` },
+      { id: 'E', type: 'text', value: `eólica, pelas características do país e por não gerar gases do efeito estufa nem resíduos de operação.` },
     ],
     correct: 'E',
     explanation: `O país é plano, chuvoso e com ventos constantes, mas tem poucos recursos hídricos e nenhum reservatório de combustíveis fósseis, o que inviabiliza as matrizes hidráulica e fóssil e, pela complexidade e risco, a nuclear. A presença de ventos constantes favorece a energia eólica, adequada ao relevo plano. Além disso, a geração eólica não emite gases do efeito estufa nem deixa resíduos de operação, atendendo ao menor impacto ambiental pedido. Portanto, a matriz mais indicada é a eólica (alternativa E).`,
@@ -2498,40 +2123,22 @@ descrita no texto é:`,
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `A característica que permite identificar um planeta 
-no céu é o seu movimento relativo às estrelas fixas. 
-Se observarmos a posição de um planeta por vários 
-dias, verificaremos que sua posição em relação às 
-estrelas fixas se modifica regularmente. A figura 
-destaca o movimento de Marte observado em 
-intervalos de 10 dias, registrado da Terra. 
-155º 
-150º 
-145º 
-140º 
-135º 
-130º 
-+20 
-MARTE 
-+10 
-Projecto Física . Lisboa: Fundação Calouste Gulbenkian, 1980 (adaptado). 
-Qual a causa da forma da trajetória do planeta Marte 
-registrada na figura?`,
+    text: `A característica que permite identificar um planeta no céu é o
+seu movimento relativo às estrelas fixas. Se observarmos a
+posição de um planeta por vários dias, verificaremos que sua
+posição em relação às estrelas fixas se modifica regularmente.
+A figura destaca o movimento de Marte observado em intervalos
+de 10 dias, registrado da Terra. 155º 150º 145º 140º 135º 130º
++20 MARTE +10 Projecto Física . Lisboa: Fundação Calouste
+Gulbenkian, 1980 (adaptado). Qual a causa da forma da
+trajetória do planeta Marte registrada na figura?`,
     images: ['/enem/2012/images/enem_2012_d1_q74.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A maior velocidade orbital da Terra faz com que, em 
-certas épocas, ela ultrapasse Marte.` },
-      { id: 'B', type: 'text', value: `A presença de outras estrelas faz com que 
-sua trajetória seja desviada por meio da atração 
-gravitacional.` },
-      { id: 'C', type: 'text', value: `A órbita de Marte, em torno do Sol, possui uma forma 
-elíptica mais acentuada que a dos demais planetas.` },
-      { id: 'D', type: 'text', value: `A atração gravitacional entre a Terra e Marte faz com 
-que este planeta apresente uma órbita irregular em 
-torno do Sol.` },
-      { id: 'E', type: 'text', value: `A proximidade de Marte com Júpiter, em algumas 
-épocas do ano, faz com que a atração gravitacional 
-de Júpiter interfira em seu movimento.` },
+      { id: 'A', type: 'text', value: `A maior velocidade orbital da Terra faz com que, em certas épocas, ela ultrapasse Marte.` },
+      { id: 'B', type: 'text', value: `A presença de outras estrelas faz com que sua trajetória seja desviada por meio da atração gravitacional.` },
+      { id: 'C', type: 'text', value: `A órbita de Marte, em torno do Sol, possui uma forma elíptica mais acentuada que a dos demais planetas.` },
+      { id: 'D', type: 'text', value: `A atração gravitacional entre a Terra e Marte faz com que este planeta apresente uma órbita irregular em torno do Sol.` },
+      { id: 'E', type: 'text', value: `A proximidade de Marte com Júpiter, em algumas épocas do ano, faz com que a atração gravitacional de Júpiter interfira em seu movimento.` },
     ],
     correct: 'A',
     explanation: `O movimento em laço (retrógrado aparente) de Marte não é real, mas um efeito de perspectiva observado da Terra. Como a Terra está mais próxima do Sol, sua velocidade orbital é maior que a de Marte; assim, em certas épocas a Terra ultrapassa Marte em suas órbitas. Durante essa ultrapassagem, Marte parece, visto da Terra, mover-se para trás em relação às estrelas fixas, desenhando o laço registrado na figura. Portanto, a causa é a maior velocidade orbital da Terra, que faz com que ela ultrapasse Marte (alternativa A).`,
@@ -2554,17 +2161,9 @@ que mostraram experimentalmente que`,
     alternatives: [
       { id: 'A', type: 'text', value: `seres vivos podem ser criados em laboratório.` },
       { id: 'B', type: 'text', value: `a vida se originou no planeta a partir de microrganismos.` },
-      { id: 'C', type: 'text', value: `o ser vivo é oriundo da reprodução de outro ser vivo 
-pré-existente.` },
-      { id: 'D', type: 'text', value: `seres 
-vermiformes 
-e 
-microrganismos 
-são 
-evolutivamente aparentados.` },
-      { id: 'E', type: 'text', value: `vermes e microrganismos são gerados pela matéria 
-existente nos cadáveres e nos caldos nutritivos, 
-respectivamente.` },
+      { id: 'C', type: 'text', value: `o ser vivo é oriundo da reprodução de outro ser vivo pré-existente.` },
+      { id: 'D', type: 'text', value: `seres vermiformes e microrganismos são evolutivamente aparentados.` },
+      { id: 'E', type: 'text', value: `vermes e microrganismos são gerados pela matéria existente nos cadáveres e nos caldos nutritivos, respectivamente.` },
     ],
     correct: 'C',
     explanation: `A teoria da geração espontânea (abiogênese) afirmava que seres vivos surgiam da matéria bruta. Os experimentos de Redi (com carne e frascos) e de Pasteur (com os frascos "pescoço de cisne") mostraram que, impedindo o acesso de organismos pré-existentes, não surgiam novos seres. Com isso, demonstrou-se a biogênese: todo ser vivo origina-se da reprodução de outro ser vivo pré-existente. Portanto, a alternativa correta é a C.`,
@@ -2638,18 +2237,15 @@ igual a`,
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `Os freios ABS são uma importante medida de 
-segurança no trânsito, os quais funcionam para impedir 
-o travamento das rodas do carro quando o sistema de 
-freios é acionado, liberando as rodas quando estão no 
-limiar do deslizamento. Quando as rodas travam, a força 
-de frenagem é governada pelo atrito cinético. 
-As representações esquemáticas da força de atrito f at 
-entre os pneus e a pista, em função da pressão p aplicada 
-no pedal de freio, para carros sem ABS e com ABS, 
-respectivamente, são: 
-f at 
-f at`,
+    text: `Os freios ABS são uma importante medida de segurança no
+trânsito, os quais funcionam para impedir o travamento das
+rodas do carro quando o sistema de freios é acionado,
+liberando as rodas quando estão no limiar do deslizamento.
+Quando as rodas travam, a força de frenagem é governada pelo
+atrito cinético. As representações esquemáticas da força de
+atrito f at entre os pneus e a pista, em função da pressão p
+aplicada no pedal de freio, para carros sem ABS e com ABS,
+respectivamente, são: f at f at`,
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2012/images/enem_2012_d1_q78_A.jpg` },
       { id: 'B', type: 'image', value: `/enem/2012/images/enem_2012_d1_q78_B.jpg` },
@@ -2667,16 +2263,15 @@ f at`,
     exam: 'enem',
     year: 2012,
     day: 1,
-    text: `O armazenamento de certas vitaminas no organismo apresenta grande dependência de sua solubilidade. 
-Por exemplo, vitaminas hidrossolúveis devem ser incluídas na dieta diária, enquanto vitaminas lipossolúveis são
-armazenadas em quantidades suficientes para evitar doenças causadas pela sua carência. A seguir são apresentadas
-as estruturas químicas de cinco vitaminas necessárias ao organismo.
-I
-II
-III
-IV
-V
-Dentre as vitaminas apresentadas na figura, aquela que necessita de maior suplementação diária é`,
+    text: `O armazenamento de certas vitaminas no organismo apresenta
+grande dependência de sua solubilidade. Por exemplo, vitaminas
+hidrossolúveis devem ser incluídas na dieta diária, enquanto
+vitaminas lipossolúveis são armazenadas em quantidades
+suficientes para evitar doenças causadas pela sua carência. A
+seguir são apresentadas as estruturas químicas de cinco
+vitaminas necessárias ao organismo. I II III IV V Dentre as
+vitaminas apresentadas na figura, aquela que necessita de
+maior suplementação diária é`,
     images: ['/enem/2012/images/enem_2012_d1_q79.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I.` },
@@ -2724,25 +2319,11 @@ nuvem de poeira na atmosfera.
 De acordo com essa teoria, a extinção ocorreu em função 
 de modificações no planeta que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `desestabilizaram o relógio biológico dos animais, 
-causando alterações no código genético.` },
-      { id: 'B', type: 'text', value: `reduziram a penetração da luz solar até a 
-superfície 
-da 
-Terra, 
-interferindo 
-no 
-fluxo 
-energético das teias tróficas.` },
-      { id: 'C', type: 'text', value: `causaram uma série de intoxicações nos animais, 
-provocando a bioacumulação de partículas de poeira 
-nos organismos.` },
-      { id: 'D', type: 'text', value: `resultaram na sedimentação das partículas de poeira 
-levantada com o impacto do meteoro, provocando o 
-desaparecimento de rios e lagos.` },
-      { id: 'E', type: 'text', value: `evitaram a precipitação de água até a superfície da 
-Terra, causando uma grande seca que impediu a 
-retroalimentação do ciclo hidrológico.` },
+      { id: 'A', type: 'text', value: `desestabilizaram o relógio biológico dos animais, causando alterações no código genético.` },
+      { id: 'B', type: 'text', value: `reduziram a penetração da luz solar até a superfície da Terra, interferindo no fluxo energético das teias tróficas.` },
+      { id: 'C', type: 'text', value: `causaram uma série de intoxicações nos animais, provocando a bioacumulação de partículas de poeira nos organismos.` },
+      { id: 'D', type: 'text', value: `resultaram na sedimentação das partículas de poeira levantada com o impacto do meteoro, provocando o desaparecimento de rios e lagos.` },
+      { id: 'E', type: 'text', value: `evitaram a precipitação de água até a superfície da Terra, causando uma grande seca que impediu a retroalimentação do ciclo hidrológico.` },
     ],
     correct: 'B',
     explanation: `Segundo a teoria, o impacto do asteroide levantou uma densa nuvem de poeira na atmosfera. Essa nuvem reduziu a penetração da luz solar até a superfície, prejudicando a fotossíntese dos produtores. Com a base das cadeias alimentares comprometida, houve interrupção do fluxo de energia nas teias tróficas, afetando todos os níveis e levando à extinção. Portanto, as modificações reduziram a penetração da luz solar, interferindo no fluxo energético das teias tróficas (alternativa B).`,
@@ -2775,16 +2356,11 @@ oxidação nos fornos e não deixar diminuir o rendimento
 da sua reciclagem?`,
     images: ['/enem/2012/images/enem_2012_d1_q82.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Somente o lítio, pois ele possui o menor potencial de 
-redução.` },
-      { id: 'B', type: 'text', value: `Somente o cobre, pois ele possui o maior potencial 
-de redução.` },
-      { id: 'C', type: 'text', value: `Somente o potássio, pois ele possui potencial de 
-redução mais próximo do magnésio.` },
-      { id: 'D', type: 'text', value: `Somente o cobre e o zinco, pois eles sofrem oxidação 
-mais facilmente que o alumínio.` },
-      { id: 'E', type: 'text', value: `Somente o lítio e o potássio, pois seus potenciais de 
-redução são menores do que o do alumínio.` },
+      { id: 'A', type: 'text', value: `Somente o lítio, pois ele possui o menor potencial de redução.` },
+      { id: 'B', type: 'text', value: `Somente o cobre, pois ele possui o maior potencial de redução.` },
+      { id: 'C', type: 'text', value: `Somente o potássio, pois ele possui potencial de redução mais próximo do magnésio.` },
+      { id: 'D', type: 'text', value: `Somente o cobre e o zinco, pois eles sofrem oxidação mais facilmente que o alumínio.` },
+      { id: 'E', type: 'text', value: `Somente o lítio e o potássio, pois seus potenciais de redução são menores do que o do alumínio.` },
     ],
     correct: 'E',
     explanation: `O magnésio protege o alumínio por oxidar-se mais facilmente, ou seja, por ter potencial de redução mais negativo (−2,36 V) que o do alumínio (−1,66 V). Para cumprir a mesma função, o metal substituto precisa ter potencial de redução menor (mais negativo) que o do alumínio. Na tabela, apenas o lítio (−3,05 V) e o potássio (−2,93 V) têm potenciais menores que −1,66 V; o zinco (−0,76 V) e o cobre (+0,34 V) não serviriam. Portanto, somente o lítio e o potássio poderiam substituir o magnésio (alternativa E).`,
@@ -2809,21 +2385,11 @@ Disponível em: www.inovacaotecnologica.com.br. Acesso em: 22 jul. 2010 (adaptad
 No entanto, a busca da eficiência referenciada no texto 
 apresenta como fator limitante`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o tipo de combustível, fóssil, que utilizam. Sendo um 
-insumo não renovável, em algum momento estará 
-esgotado.` },
-      { id: 'B', type: 'text', value: `um dos princípios da termodinâmica, segundo o qual 
-o rendimento de uma máquina térmica nunca atinge 
-o ideal.` },
-      { id: 'C', type: 'text', value: `o funcionamento cíclico de todos os motores. A 
-repetição contínua dos movimentos exige que parte 
-da energia seja transferida ao próximo ciclo.` },
-      { id: 'D', type: 'text', value: `as forças de atrito inevitável entre as peças. Tais 
-forças provocam desgastes contínuos que com o 
-tempo levam qualquer material à fadiga e ruptura.` },
-      { id: 'E', type: 'text', value: `a temperatura em que eles trabalham. Para atingir o 
-plasma, é necessária uma temperatura maior que a 
-de fusão do aço com que se fazem os motores.` },
+      { id: 'A', type: 'text', value: `o tipo de combustível, fóssil, que utilizam. Sendo um insumo não renovável, em algum momento estará esgotado.` },
+      { id: 'B', type: 'text', value: `um dos princípios da termodinâmica, segundo o qual o rendimento de uma máquina térmica nunca atinge o ideal.` },
+      { id: 'C', type: 'text', value: `o funcionamento cíclico de todos os motores. A repetição contínua dos movimentos exige que parte da energia seja transferida ao próximo ciclo.` },
+      { id: 'D', type: 'text', value: `as forças de atrito inevitável entre as peças. Tais forças provocam desgastes contínuos que com o tempo levam qualquer material à fadiga e ruptura.` },
+      { id: 'E', type: 'text', value: `a temperatura em que eles trabalham. Para atingir o plasma, é necessária uma temperatura maior que a de fusão do aço com que se fazem os motores.` },
     ],
     correct: 'B',
     explanation: `O texto trata de aumentar a eficiência (rendimento) de motores a combustão, que são máquinas térmicas. Pela segunda lei da termodinâmica, é impossível converter todo o calor em trabalho: parte da energia é sempre dissipada, de modo que o rendimento nunca atinge 100% (o ideal). Esse princípio é o fator que limita fundamentalmente o ganho de eficiência buscado. Portanto, o fator limitante é um dos princípios da termodinâmica, segundo o qual o rendimento de uma máquina térmica nunca atinge o ideal (alternativa B).`,
@@ -2846,17 +2412,11 @@ esterilização por irradiação.”
 Física na Escola , v. 8, n. 2, 2007 (adaptado). 
 A decisão tomada pela companhia é equivocada, pois`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o material é incapaz de acumular radiação, não se 
-tornando radioativo por ter sido irradiado.` },
-      { id: 'B', type: 'text', value: `a utilização de uma embalagem é suficiente para 
-bloquear a radiação emitida pelo material.` },
-      { id: 'C', type: 'text', value: `a contaminação radioativa do material não se 
-prolifera da mesma forma que as infecções por 
-microrganismos.` },
-      { id: 'D', type: 'text', value: `o material irradiado emite radiação de intensidade 
-abaixo daquela que ofereceria risco à saúde.` },
-      { id: 'E', type: 'text', value: `o intervalo de tempo após a esterilização é suficiente 
-para que o material não emita mais radiação.` },
+      { id: 'A', type: 'text', value: `o material é incapaz de acumular radiação, não se tornando radioativo por ter sido irradiado.` },
+      { id: 'B', type: 'text', value: `a utilização de uma embalagem é suficiente para bloquear a radiação emitida pelo material.` },
+      { id: 'C', type: 'text', value: `a contaminação radioativa do material não se prolifera da mesma forma que as infecções por microrganismos.` },
+      { id: 'D', type: 'text', value: `o material irradiado emite radiação de intensidade abaixo daquela que ofereceria risco à saúde.` },
+      { id: 'E', type: 'text', value: `o intervalo de tempo após a esterilização é suficiente para que o material não emita mais radiação.` },
     ],
     correct: 'A',
     explanation: `A esterilização por irradiação usa radiação para matar microrganismos, mas o material irradiado não acumula radiação nem se torna radioativo, não havendo radiação residual sendo emitida por ele depois. Assim, o certificado não indica risco de o material estar "carregado" de radiação. A recusa da companhia é equivocada porque o material é incapaz de acumular radiação, não se tornando radioativo por ter sido irradiado. Portanto, a alternativa correta é a A.`,
@@ -2882,12 +2442,9 @@ para uma maior diversidade genética?`,
     alternatives: [
       { id: 'A', type: 'text', value: `As sementes aladas, que favorecem a dispersão aérea.` },
       { id: 'B', type: 'text', value: `Os arquegônios, que protegem o embrião multicelular.` },
-      { id: 'C', type: 'text', value: `Os grãos de pólen, que garantem a polinização 
-cruzada.` },
-      { id: 'D', type: 'text', value: `Os frutos, que promovem uma maior eficiência 
-reprodutiva.` },
-      { id: 'E', type: 'text', value: `Os vasos condutores, que possibilitam o transporte 
-da seiva bruta.` },
+      { id: 'C', type: 'text', value: `Os grãos de pólen, que garantem a polinização cruzada.` },
+      { id: 'D', type: 'text', value: `Os frutos, que promovem uma maior eficiência reprodutiva.` },
+      { id: 'E', type: 'text', value: `Os vasos condutores, que possibilitam o transporte da seiva bruta.` },
     ],
     correct: 'C',
     explanation: `O que aumenta a diversidade genética é a recombinação de genes de indivíduos diferentes, favorecida pela reprodução cruzada. Entre as estruturas citadas, os grãos de pólen permitem a polinização cruzada, levando gametas masculinos de uma planta a outra e promovendo maior variabilidade genética. Sementes aladas e frutos atuam na dispersão e na eficiência reprodutiva, e os vasos condutores no transporte de seiva, sem aumentar diretamente a diversidade genética. Portanto, a estrutura é o grão de pólen, que garante a polinização cruzada (alternativa C).`,
@@ -2910,11 +2467,9 @@ A imersão de uma célula humana em uma solução
     alternatives: [
       { id: 'A', type: 'text', value: `adsorção de íons Na + sobre a superfície da célula.` },
       { id: 'B', type: 'text', value: `difusão rápida de íons Na + para o interior da célula.` },
-      { id: 'C', type: 'text', value: `diminuição da concentração das soluções presentes 
-na célula.` },
+      { id: 'C', type: 'text', value: `diminuição da concentração das soluções presentes na célula.` },
       { id: 'D', type: 'text', value: `transferência de íons Na + da célula para a solução.` },
-      { id: 'E', type: 'text', value: `transferência de moléculas de água do interior da 
-célula para a solução.` },
+      { id: 'E', type: 'text', value: `transferência de moléculas de água do interior da célula para a solução.` },
     ],
     correct: 'E',
     explanation: `A solução de 0,20 mol/L de NaCl é mais concentrada que o meio interno da célula (equivalente a 0,15 mol/L), sendo, portanto, hipertônica em relação a ele. Na osmose, a água atravessa a membrana do meio menos concentrado para o mais concentrado em soluto. Assim, a água sai do interior da célula em direção à solução externa, e a célula tende a murchar (desidratar). Portanto, a consequência é a transferência de moléculas de água do interior da célula para a solução (alternativa E).`,
@@ -2933,19 +2488,11 @@ por insetos conhecidos como barbeiros ou chupanças.
 Uma ação do homem sobre o meio ambiente que tem 
 contribuído para o aumento dessa doença é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o consumo de carnes de animais silvestres que são 
-hospedeiros do vetor da doença.` },
-      { id: 'B', type: 'text', value: `a utilização de adubos químicos na agricultura que 
-aceleram o ciclo reprodutivo do barbeiro.` },
-      { id: 'C', type: 'text', value: `a ausência de saneamento básico que favorece a 
-proliferação do protozoário em regiões habitadas por 
-humanos.` },
-      { id: 'D', type: 'text', value: `a poluição dos rios e lagos com pesticidas que 
-exterminam o predador das larvas do inseto 
-transmissor da doença.` },
-      { id: 'E', type: 'text', value: `o desmatamento que provoca a migração ou o 
-desaparecimento dos animais silvestres dos quais o 
-barbeiro se alimenta.` },
+      { id: 'A', type: 'text', value: `o consumo de carnes de animais silvestres que são hospedeiros do vetor da doença.` },
+      { id: 'B', type: 'text', value: `a utilização de adubos químicos na agricultura que aceleram o ciclo reprodutivo do barbeiro.` },
+      { id: 'C', type: 'text', value: `a ausência de saneamento básico que favorece a proliferação do protozoário em regiões habitadas por humanos.` },
+      { id: 'D', type: 'text', value: `a poluição dos rios e lagos com pesticidas que exterminam o predador das larvas do inseto transmissor da doença.` },
+      { id: 'E', type: 'text', value: `o desmatamento que provoca a migração ou o desaparecimento dos animais silvestres dos quais o barbeiro se alimenta.` },
     ],
     correct: 'E',
     explanation: `O barbeiro, vetor do Trypanosoma cruzi, normalmente se alimenta do sangue de animais silvestres em seu ambiente natural. O desmatamento provoca a migração ou o desaparecimento desses animais, deixando o inseto sem suas fontes habituais de alimento. Em busca de sangue, o barbeiro passa a invadir as habitações humanas, aumentando o contato com as pessoas e a transmissão da doença de Chagas. Portanto, a ação humana que contribui para o aumento da doença é o desmatamento que faz migrar ou desaparecer os animais silvestres dos quais o barbeiro se alimenta (alternativa E).`,
@@ -2995,12 +2542,9 @@ fosfolipídios apresentarem uma natureza`,
     alternatives: [
       { id: 'A', type: 'text', value: `polar, ou seja, serem inteiramente solúveis em água.` },
       { id: 'B', type: 'text', value: `apolar, ou seja, não serem solúveis em solução aquosa.` },
-      { id: 'C', type: 'text', value: `anfotérica, ou seja, podem comportar-se como ácidos 
-e bases.` },
-      { id: 'D', type: 'text', value: `insaturada, ou seja, possuírem duplas ligações em 
-sua estrutura.` },
-      { id: 'E', type: 'text', value: `anfifílica, ou seja, possuírem uma parte hidrofílica e 
-outra hidrofóbica.` },
+      { id: 'C', type: 'text', value: `anfotérica, ou seja, podem comportar-se como ácidos e bases.` },
+      { id: 'D', type: 'text', value: `insaturada, ou seja, possuírem duplas ligações em sua estrutura.` },
+      { id: 'E', type: 'text', value: `anfifílica, ou seja, possuírem uma parte hidrofílica e outra hidrofóbica.` },
     ],
     correct: 'E',
     explanation: `Os fosfolipídios possuem uma "cabeça" polar (hidrofílica), que interage com a água, e "caudas" apolares (hidrofóbicas), que a repelem; essa dupla característica é chamada de natureza anfifílica. Em meio aquoso, as cabeças voltam-se para a água e as caudas agrupam-se entre si, formando a bicamada do lipossomo, com os meios aquosos interno e externo em contato com as partes polares. Quando rompida, a estrutura se reorganiza espontaneamente para manter esse arranjo. Portanto, o arranjo deve-se ao caráter anfifílico, com uma parte hidrofílica e outra hidrofóbica (alternativa E).`,

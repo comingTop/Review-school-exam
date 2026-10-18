@@ -56,8 +56,7 @@ hispânica, cuja letra problematiza uma questão social, ao`,
       { id: 'B', type: 'text', value: `evidenciar a ausência afetiva da mãe na criação do filho.` },
       { id: 'C', type: 'text', value: `retratar a precariedade das relações de trabalho no campo.` },
       { id: 'D', type: 'text', value: `ressaltar a inserção da mulher no mercado de trabalho rural.` },
-      { id: 'E', type: 'text', value: `exaltar liricamente a voz materna na formação cidadã 
-do filho.` },
+      { id: 'E', type: 'text', value: `exaltar liricamente a voz materna na formação cidadã do filho.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. “Duerme negrito” é uma cantiga de ninar da cultura popular hispânica em que, enquanto a criança dorme, a mãe está trabalhando no campo. Os versos finais revelam que ela trabalha duramente e não recebe pagamento (“trabajando y no le pagan”). Com isso, a letra problematiza uma questão social ao retratar a precariedade das relações de trabalho no campo. As demais alternativas desviam o foco para o orgulho materno, a ausência afetiva ou a inserção da mulher no mercado de trabalho.`,
@@ -92,24 +91,11 @@ FUENTES, C. El espejo enterrado. Ciudad de México: FCE, 1992 (fragmento).
 Malinche, ou Malintzin, foi uma figura chave na história da 
 conquista espanhola na América, ao atuar como`,
     alternatives: [
-      { id: 'A', type: 'text', value: `intérprete 
-do 
-conquistador, 
-possibilitando-lhe 
-conhecer as fragilidades do Império.` },
-      { id: 'B', type: 'text', value: `escrava dos espanhóis, colocando-se a serviço dos 
-objetivos da Coroa.` },
-      { id: 'C', type: 'text', value: `amante 
-do 
-conquistador, 
-dando 
-origem 
-à 
-miscigenação étnica.` },
-      { id: 'D', type: 'text', value: `voz do seu povo, defendendo os interesses políticos 
-do Império asteca.` },
-      { id: 'E', type: 'text', value: `maldição dos astecas, infundindo a corrupção no 
-governo de Montezuma.` },
+      { id: 'A', type: 'text', value: `intérprete do conquistador, possibilitando-lhe conhecer as fragilidades do Império.` },
+      { id: 'B', type: 'text', value: `escrava dos espanhóis, colocando-se a serviço dos objetivos da Coroa.` },
+      { id: 'C', type: 'text', value: `amante do conquistador, dando origem à miscigenação étnica.` },
+      { id: 'D', type: 'text', value: `voz do seu povo, defendendo os interesses políticos do Império asteca.` },
+      { id: 'E', type: 'text', value: `maldição dos astecas, infundindo a corrupção no governo de Montezuma.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O fragmento de Carlos Fuentes narra a trajetória de Malintzin, a Malinche, escrava entregue a Cortés. Ela se tornou sua intérprete (“mi lengua”) e amante, guiando-o pelo Império asteca. Por meio da língua, foi revelando que “algo estaba podrido” no reino de Montezuma, ou seja, as fragilidades do Império. Logo, sua atuação como intérprete do conquistador possibilitou-lhe conhecer as fraquezas asteca, como aponta a alternativa A.`,
@@ -261,8 +247,7 @@ Segundo o texto, o jogo comporta a possibilidade de
 fruição. Do ponto de vista das práticas corporais, essa 
 fruição se estabelece por meio do(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `fixação de táticas, que define a padronização para 
-maior alcance popular.` },
+      { id: 'A', type: 'text', value: `fixação de táticas, que define a padronização para maior alcance popular.` },
       { id: 'B', type: 'text', value: `competitividade, que impulsiona o interesse pelo sucesso.` },
       { id: 'C', type: 'text', value: `refinamento técnico, que gera resultados satisfatórios.` },
       { id: 'D', type: 'text', value: `caráter lúdico, que permite experiências inusitadas.` },
@@ -278,57 +263,38 @@ maior alcance popular.` },
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Novas tecnologias 
-Atualmente, prevalece na mídia um discurso de 
-exaltação das novas tecnologias, principalmente aquelas 
-ligadas às atividades de telecomunicações. Expressões 
-frequentes como “o futuro já chegou”, “maravilhas 
-tecnológicas” e “conexão total com o mundo” “fetichizam” 
-novos produtos, transformando-os em objetos do desejo, 
-de consumo obrigatório. Por esse motivo carregamos 
-hoje nos bolsos, bolsas e mochilas o “futuro” tão festejado. 
-Todavia, não podemos reduzir-nos a meras vítimas 
-de um aparelho midiático perverso, ou de um aparelho 
-capitalista 
-controlador. 
-Há 
-perversão, 
-certamente, 
-e 
-controle, 
-sem 
-sombra 
-de 
-dúvida. 
-Entretanto, 
-desenvolvemos uma relação simbiótica de dependência 
-mútua com os veículos de comunicação, que se estreita 
-a cada imagem compartilhada e a cada  dossiê  pessoal 
-transformado em objeto público de entretenimento. 
-Não mais como aqueles acorrentados na caverna de 
-Platão, somos livres para nos aprisionar, por espontânea 
-vontade, a esta relação sadomasoquista com as 
-estruturas midiáticas, na qual tanto controlamos quanto 
-somos controlados. 
-SAMPAIO, A. S. A microfísica do espetáculo. Disponível em: http://observatoriodaimprensa.com.br. 
-Acesso em: 1 mar. 2013 (adaptado). 
-Ao escrever um artigo de opinião, o produtor precisa criar 
-uma base de orientação linguística que permita alcançar 
-os leitores e convencê-los com relação ao ponto de vista 
-defendido. Diante disso, nesse texto, a escolha das 
+    text: `Novas tecnologias Atualmente, prevalece na mídia um discurso
+de exaltação das novas tecnologias, principalmente aquelas
+ligadas às atividades de telecomunicações. Expressões
+frequentes como “o futuro já chegou”, “maravilhas
+tecnológicas” e “conexão total com o mundo” “fetichizam” novos
+produtos, transformando-os em objetos do desejo, de consumo
+obrigatório. Por esse motivo carregamos hoje nos bolsos,
+bolsas e mochilas o “futuro” tão festejado. Todavia, não
+podemos reduzir-nos a meras vítimas de um aparelho midiático
+perverso, ou de um aparelho capitalista controlador. Há
+perversão, certamente, e controle, sem sombra de dúvida.
+Entretanto, desenvolvemos uma relação simbiótica de
+dependência mútua com os veículos de comunicação, que se
+estreita a cada imagem compartilhada e a cada dossiê pessoal
+transformado em objeto público de entretenimento. Não mais
+como aqueles acorrentados na caverna de Platão, somos livres
+para nos aprisionar, por espontânea vontade, a esta relação
+sadomasoquista com as estruturas midiáticas, na qual tanto
+controlamos quanto somos controlados. SAMPAIO, A. S. A
+microfísica do espetáculo. Disponível em:
+http://observatoriodaimprensa.com.br. Acesso em: 1 mar. 2013
+(adaptado). Ao escrever um artigo de opinião, o produtor
+precisa criar uma base de orientação linguística que permita
+alcançar os leitores e convencê-los com relação ao ponto de
+vista defendido. Diante disso, nesse texto, a escolha das
 formas verbais em destaque objetiva`,
     alternatives: [
-      { id: 'A', type: 'text', value: `criar relação de subordinação entre leitor e autor, já 
-que ambos usam as novas tecnologias.` },
-      { id: 'B', type: 'text', value: `enfatizar a probabilidade de que toda população 
-brasileira esteja aprisionada às novas tecnologias.` },
-      { id: 'C', type: 'text', value: `indicar, de forma clara, o ponto de vista de que hoje 
-as pessoas são controladas pelas novas tecnologias.` },
-      { id: 'D', type: 'text', value: `tornar o leitor copartícipe do ponto de vista de que 
-ele manipula as novas tecnologias e por elas é 
-manipulado.` },
-      { id: 'E', type: 'text', value: `demonstrar ao leitor sua parcela de responsabilidade por 
-deixar que as novas tecnologias controlem as pessoas.` },
+      { id: 'A', type: 'text', value: `criar relação de subordinação entre leitor e autor, já que ambos usam as novas tecnologias.` },
+      { id: 'B', type: 'text', value: `enfatizar a probabilidade de que toda população brasileira esteja aprisionada às novas tecnologias.` },
+      { id: 'C', type: 'text', value: `indicar, de forma clara, o ponto de vista de que hoje as pessoas são controladas pelas novas tecnologias.` },
+      { id: 'D', type: 'text', value: `tornar o leitor copartícipe do ponto de vista de que ele manipula as novas tecnologias e por elas é manipulado.` },
+      { id: 'E', type: 'text', value: `demonstrar ao leitor sua parcela de responsabilidade por deixar que as novas tecnologias controlem as pessoas.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. No artigo de opinião, o autor discute a relação de dependência mútua entre as pessoas e as tecnologias de comunicação. Ao empregar formas verbais na primeira pessoa do plural (“carregamos”, “somos livres”, “controlamos”), inclui a si mesmo e ao leitor no ponto de vista defendido. Com isso, torna o leitor copartícipe da ideia de que ele manipula as novas tecnologias e por elas é manipulado, conforme a alternativa D. As demais opções não captam essa estratégia de inclusão do leitor.`,
@@ -362,16 +328,11 @@ LIMA, J. Obras completas . Rio de Janeiro: Aguilar, 1958 (fragmento).
 O conflito de gerações e de grupos étnicos reproduz, na 
 visão do eu lírico, um contexto social assinalado por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `modernização dos modos de produção e consequente 
-enriquecimento dos brancos.` },
-      { id: 'B', type: 'text', value: `preservação da memória ancestral e resistência 
-negra à apatia cultural dos brancos.` },
-      { id: 'C', type: 'text', value: `superação dos costumes antigos por meio da 
-incorporação de valores dos colonizados.` },
-      { id: 'D', type: 'text', value: `nivelamento social de descendentes de escravos e de 
-senhores pela condição de pobreza.` },
-      { id: 'E', type: 'text', value: `antagonismo entre grupos de trabalhadores e lacunas 
-de hereditariedade.` },
+      { id: 'A', type: 'text', value: `modernização dos modos de produção e consequente enriquecimento dos brancos.` },
+      { id: 'B', type: 'text', value: `preservação da memória ancestral e resistência negra à apatia cultural dos brancos.` },
+      { id: 'C', type: 'text', value: `superação dos costumes antigos por meio da incorporação de valores dos colonizados.` },
+      { id: 'D', type: 'text', value: `nivelamento social de descendentes de escravos e de senhores pela condição de pobreza.` },
+      { id: 'E', type: 'text', value: `antagonismo entre grupos de trabalhadores e lacunas de hereditariedade.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. No poema de Jorge de Lima, o eu lírico dirige-se ao negro e evoca gerações de sofrimento e resistência, afirmando que, ainda que os descendentes tentem apagar a cor, não apagarão a alma negra. O conflito entre gerações e grupos étnicos aponta para a preservação da memória ancestral e a resistência negra diante da apatia cultural dos brancos. Os versos finais (“A raça que te enforca, enforca-se de tédio”) reforçam essa oposição. As demais alternativas não traduzem o teor de afirmação e resistência do poema.`,
@@ -397,8 +358,7 @@ GABRIEL, O PENSADOR. Seja você mesmo (mas não seja sempre o mesmo) .
 As escolhas linguísticas feitas pelo autor conferem ao texto`,
     alternatives: [
       { id: 'A', type: 'text', value: `caráter atual, pelo uso de linguagem própria da internet.` },
-      { id: 'B', type: 'text', value: `cunho apelativo, pela predominância de imagens 
-metafóricas.` },
+      { id: 'B', type: 'text', value: `cunho apelativo, pela predominância de imagens metafóricas.` },
       { id: 'C', type: 'text', value: `tom de diálogo, pela recorrência de gírias.` },
       { id: 'D', type: 'text', value: `espontaneidade, pelo uso da linguagem coloquial.` },
       { id: 'E', type: 'text', value: `originalidade, pela concisão da linguagem.` },
@@ -445,16 +405,11 @@ família, ao verbalizar que “novas e antigas histórias foram
 sendo incorporadas à manta mais valiosa do mundo”. 
 Essa valorização evidencia-se pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `oposição entre os objetos de valor, como joias, 
-palácios e quadros, e a velha manta.` },
-      { id: 'B', type: 'text', value: `descrição detalhada dos aspectos físicos da manta, 
-como cor e tamanho dos retalhos.` },
-      { id: 'C', type: 'text', value: `valorização da manta como objeto de herança familiar 
-disputado por todos.` },
-      { id: 'D', type: 'text', value: `comparação entre a manta que protege do frio e a 
-manta que aquecia os pés das crianças.` },
-      { id: 'E', type: 'text', value: `correlação entre os retalhos da manta e as muitas 
-histórias de tradição oral que os formavam.` },
+      { id: 'A', type: 'text', value: `oposição entre os objetos de valor, como joias, palácios e quadros, e a velha manta.` },
+      { id: 'B', type: 'text', value: `descrição detalhada dos aspectos físicos da manta, como cor e tamanho dos retalhos.` },
+      { id: 'C', type: 'text', value: `valorização da manta como objeto de herança familiar disputado por todos.` },
+      { id: 'D', type: 'text', value: `comparação entre a manta que protege do frio e a manta que aquecia os pés das crianças.` },
+      { id: 'E', type: 'text', value: `correlação entre os retalhos da manta e as muitas histórias de tradição oral que os formavam.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto descreve uma manta de retalhos que, para a família, vale mais do que joias ou palácios, pois cada quadrado guarda uma história contada pela avó. À medida que os retalhos se gastavam, eram substituídos, e novas e antigas histórias se incorporavam à manta. A valorização evidencia-se, assim, pela correlação entre os retalhos e as muitas histórias de tradição oral que os formavam, conforme a alternativa E. As demais opções reduzem o sentido à oposição com bens materiais ou à descrição física da manta.`,
@@ -466,44 +421,34 @@ histórias de tradição oral que os formavam.` },
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `O hipertexto permite - ou, de certo modo, em 
-alguns casos, até mesmo exige - a participação de 
-diversos autores na sua construção, a redefinição 
-dos papéis de autor e leitor e a revisão dos modelos 
-tradicionais de leitura e de escrita. Por seu enorme 
-potencial para se estabelecerem conexões, ele facilita 
-o desenvolvimento de trabalhos coletivamente, o 
-estabelecimento da comunicação e a aquisição de 
-informação de maneira cooperativa. 
-Embora 
-haja 
-quem 
-identifique 
-o 
-hipertexto 
-exclusivamente com os textos eletrônicos, produzidos 
-em determinado tipo de meio ou de tecnologia, ele não 
-deve ser limitado a isso, já que consiste numa forma 
-organizacional que tanto pode ser concebida para o 
-papel como para os ambientes digitais. É claro que o 
-texto virtual permite concretizar certos aspectos que, no 
-papel, são praticamente inviáveis: a conexão imediata, 
-a comparação de trechos de textos na mesma tela, o 
-“mergulho” nos diversos aprofundamentos de um tema, 
-como se o texto tivesse camadas, dimensões ou planos. 
-RAMAL, A. C. Educação na cibercultura : hipertextualidade, leitura, escrita e aprendizagem. 
-Porto Alegre: Artmed, 2002. 
-Considerando-se a linguagem específica de cada sistema 
-de comunicação, como rádio, jornal, TV, internet, segundo 
-o texto, a hipertextualidade configura-se como um(a)`,
+    text: `O hipertexto permite - ou, de certo modo, em alguns casos, até
+mesmo exige - a participação de diversos autores na sua
+construção, a redefinição dos papéis de autor e leitor e a
+revisão dos modelos tradicionais de leitura e de escrita. Por
+seu enorme potencial para se estabelecerem conexões, ele
+facilita o desenvolvimento de trabalhos coletivamente, o
+estabelecimento da comunicação e a aquisição de informação de
+maneira cooperativa. Embora haja quem identifique o hipertexto
+exclusivamente com os textos eletrônicos, produzidos em
+determinado tipo de meio ou de tecnologia, ele não deve ser
+limitado a isso, já que consiste numa forma organizacional que
+tanto pode ser concebida para o papel como para os ambientes
+digitais. É claro que o texto virtual permite concretizar
+certos aspectos que, no papel, são praticamente inviáveis: a
+conexão imediata, a comparação de trechos de textos na mesma
+tela, o “mergulho” nos diversos aprofundamentos de um tema,
+como se o texto tivesse camadas, dimensões ou planos. RAMAL,
+A. C. Educação na cibercultura : hipertextualidade, leitura,
+escrita e aprendizagem. Porto Alegre: Artmed, 2002.
+Considerando-se a linguagem específica de cada sistema de
+comunicação, como rádio, jornal, TV, internet, segundo o
+texto, a hipertextualidade configura-se como um(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `elemento originário dos textos eletrônicos.` },
       { id: 'B', type: 'text', value: `conexão imediata e reduzida ao texto digital.` },
       { id: 'C', type: 'text', value: `novo modo de leitura e de organização da escrita.` },
-      { id: 'D', type: 'text', value: `estratégia de manutenção do papel do leitor com 
-perfil definido.` },
-      { id: 'E', type: 'text', value: `modelo de leitura baseado nas informações da 
-superfície do texto.` },
+      { id: 'D', type: 'text', value: `estratégia de manutenção do papel do leitor com perfil definido.` },
+      { id: 'E', type: 'text', value: `modelo de leitura baseado nas informações da superfície do texto.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto de Andrea Ramal caracteriza o hipertexto como forma de organização que admite vários autores, redefine os papéis de autor e leitor e permite conexões e leitura não linear. Ressalta ainda que ele não se limita ao meio digital, podendo existir também no papel. Dessa forma, a hipertextualidade configura-se como um novo modo de leitura e de organização da escrita. As demais alternativas restringem indevidamente o hipertexto ao texto eletrônico ou ao modelo tradicional de leitura.`,
@@ -521,17 +466,11 @@ A relação entre os recursos verbais e não verbais
 nessa propaganda revela que`,
     images: ['/enem/2013/images/enem_2013_d2_q103.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `o discurso ambientalista propõe formas radicais de 
-resolver os problemas climáticos.` },
-      { id: 'B', type: 'text', value: `a preservação da vida na Terra depende de ações de 
-dessalinização da água marinha.` },
-      { id: 'C', type: 'text', value: `a acomodação da topografia terrestre desencadeia o 
-natural degelo das calotas polares.` },
-      { id: 'D', type: 'text', value: `o descongelamento das calotas polares diminui a 
-quantidade de água doce potável do mundo.` },
-      { id: 'E', type: 'text', value: `a agressão ao planeta é dependente da posição 
-assumida pelo homem frente aos problemas 
-ambientais.` },
+      { id: 'A', type: 'text', value: `o discurso ambientalista propõe formas radicais de resolver os problemas climáticos.` },
+      { id: 'B', type: 'text', value: `a preservação da vida na Terra depende de ações de dessalinização da água marinha.` },
+      { id: 'C', type: 'text', value: `a acomodação da topografia terrestre desencadeia o natural degelo das calotas polares.` },
+      { id: 'D', type: 'text', value: `o descongelamento das calotas polares diminui a quantidade de água doce potável do mundo.` },
+      { id: 'E', type: 'text', value: `a agressão ao planeta é dependente da posição assumida pelo homem frente aos problemas ambientais.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O cartaz sobre aquecimento global combina recursos verbais e não verbais, com perguntas e o uso do pronome “você” para interpelar o leitor. Essa estratégia responsabiliza o ser humano pelas mudanças climáticas. Assim, a relação entre texto e imagem revela que a agressão ao planeta depende da posição assumida pelo homem diante dos problemas ambientais, conforme a alternativa E. As demais opções propõem soluções técnicas ou leituras que o cartaz não sustenta.`,
@@ -570,16 +509,11 @@ JÚDICE, N. Matéria do Poema . Lisboa: D. Quixote, 2008.
 O texto traz em relevo as funções metalinguística e 
 poética. Seu caráter metalinguístico justifica-se pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `discussão da dificuldade de se fazer arte inovadora 
-no mundo contemporâneo.` },
-      { id: 'B', type: 'text', value: `defesa do movimento artístico da pós-modernidade, 
-típico do século XX.` },
-      { id: 'C', type: 'text', value: `abordagem de temas do cotidiano, em que a arte se 
-volta para assuntos rotineiros.` },
-      { id: 'D', type: 'text', value: `tematização do fazer artístico, pela discussão do ato 
-de construção da própria obra.` },
-      { id: 'E', type: 'text', value: `valorização do efeito de estranhamento causado no 
-público, o que faz a obra ser reconhecida.` },
+      { id: 'A', type: 'text', value: `discussão da dificuldade de se fazer arte inovadora no mundo contemporâneo.` },
+      { id: 'B', type: 'text', value: `defesa do movimento artístico da pós-modernidade, típico do século XX.` },
+      { id: 'C', type: 'text', value: `abordagem de temas do cotidiano, em que a arte se volta para assuntos rotineiros.` },
+      { id: 'D', type: 'text', value: `tematização do fazer artístico, pela discussão do ato de construção da própria obra.` },
+      { id: 'E', type: 'text', value: `valorização do efeito de estranhamento causado no público, o que faz a obra ser reconhecida.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O poema “Lusofonia”, de Nuno Júdice, discute as dificuldades de se escrever sobre a “rapariga do café”, já que a palavra tem sentidos diferentes em Portugal, no Brasil e na África. Ao transformar o próprio ato de compor o poema em tema, o texto exibe caráter metalinguístico. Esse caráter justifica-se, portanto, pela tematização do fazer artístico, com a discussão do ato de construção da própria obra. As demais alternativas não correspondem a esse processo de reflexão sobre a escrita.`,
@@ -618,10 +552,8 @@ destaca-se o emprego de`,
       { id: 'A', type: 'text', value: `repetição vocabular para facilitar o entendimento.` },
       { id: 'B', type: 'text', value: `palavras e construções que evitem ambiguidade.` },
       { id: 'C', type: 'text', value: `expressões informais para apresentar os direitos.` },
-      { id: 'D', type: 'text', value: `frases na ordem direta para apresentar as informações 
-mais relevantes.` },
-      { id: 'E', type: 'text', value: `exemplificações que auxiliem a compreensão dos 
-conceitos formulados.` },
+      { id: 'D', type: 'text', value: `frases na ordem direta para apresentar as informações mais relevantes.` },
+      { id: 'E', type: 'text', value: `exemplificações que auxiliem a compreensão dos conceitos formulados.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O fragmento reproduz artigos do Estatuto da Criança e do Adolescente, gênero jurídico cuja função social é regular direitos e deveres. Para cumprir essa função, o texto legal exige clareza e precisão, de modo a evitar mais de uma interpretação. Por isso, destaca-se o emprego de palavras e construções que evitem a ambiguidade, conforme a alternativa B. As demais opções (informalidade, exemplificações, repetição) não condizem com as características do gênero lei.`,
@@ -649,17 +581,11 @@ Em 2011, após uma forte mobilização popular via redes
 sociais, houve a queda do governo de Hosni Mubarak, no 
 Egito. Esse evento ratifica o argumento de que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a internet atribui verdadeiros valores culturais aos 
-seus usuários.` },
-      { id: 'B', type: 'text', value: `a consciência das sociedades foi estabelecida com o 
-advento da internet.` },
-      { id: 'C', type: 'text', value: `a revolução tecnológica tem como principal objetivo a 
-deposição de governantes antidemocráticos.` },
-      { id: 'D', type: 'text', value: `os recursos tecnológicos estão a serviço dos opressores 
-e do fortalecimento de suas práticas políticas.` },
-      { id: 'E', type: 'text', value: `os sistemas de comunicação são mecanismos 
-importantes de adesão e compartilhamento de 
-valores sociais.` },
+      { id: 'A', type: 'text', value: `a internet atribui verdadeiros valores culturais aos seus usuários.` },
+      { id: 'B', type: 'text', value: `a consciência das sociedades foi estabelecida com o advento da internet.` },
+      { id: 'C', type: 'text', value: `a revolução tecnológica tem como principal objetivo a deposição de governantes antidemocráticos.` },
+      { id: 'D', type: 'text', value: `os recursos tecnológicos estão a serviço dos opressores e do fortalecimento de suas práticas políticas.` },
+      { id: 'E', type: 'text', value: `os sistemas de comunicação são mecanismos importantes de adesão e compartilhamento de valores sociais.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Manuel Castells afirma que os movimentos culturais se constroem em torno de sistemas de comunicação, sobretudo a internet, pois é por eles que alcançam pessoas dispostas a partilhar seus valores. A queda do governo de Hosni Mubarak, no Egito, em 2011, após mobilização via redes sociais, confirma esse argumento. Logo, os sistemas de comunicação são mecanismos importantes de adesão e compartilhamento de valores sociais, como indica a alternativa E. As demais opções extrapolam ou distorcem a tese do sociólogo.`,
@@ -690,18 +616,11 @@ concordando com a resolução sintetizada no Edital
 da Secretaria de Cultura. Uma frase adequada para 
 expressar sua concordância é:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Que sábia iniciativa! Os prédios em péssimo estado 
-de conservação devem ser derrubados.` },
-      { id: 'B', type: 'text', value: `Até que enfim! Os edifícios localizados nesse trecho 
-descaracterizam o conjunto arquitetônico da Rua 
-Augusta.` },
-      { id: 'C', type: 'text', value: `Parabéns! O poder público precisa mostrar sua força 
-como guardião das tradições dos moradores locais.` },
-      { id: 'D', type: 'text', value: `Justa decisão! O governo dá mais um passo rumo 
-à eliminação do problema da falta de moradias 
-populares.` },
-      { id: 'E', type: 'text', value: `Congratulações! O patrimônio histórico da cidade 
-merece todo empenho para ser preservado.` },
+      { id: 'A', type: 'text', value: `Que sábia iniciativa! Os prédios em péssimo estado de conservação devem ser derrubados.` },
+      { id: 'B', type: 'text', value: `Até que enfim! Os edifícios localizados nesse trecho descaracterizam o conjunto arquitetônico da Rua Augusta.` },
+      { id: 'C', type: 'text', value: `Parabéns! O poder público precisa mostrar sua força como guardião das tradições dos moradores locais.` },
+      { id: 'D', type: 'text', value: `Justa decisão! O governo dá mais um passo rumo à eliminação do problema da falta de moradias populares.` },
+      { id: 'E', type: 'text', value: `Congratulações! O patrimônio histórico da cidade merece todo empenho para ser preservado.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O edital noticia o tombamento de imóveis pela Secretaria de Cultura, medida que transforma os bens em patrimônio protegido. Um leitor que concorde com a resolução deve defender a preservação desses bens. A frase adequada é a que parabeniza o empenho em preservar o patrimônio histórico da cidade, conforme a alternativa E. As demais opções defendem demolição, descaracterização ou moradia popular, contrariando o sentido do tombamento.`,
@@ -713,65 +632,40 @@ merece todo empenho para ser preservado.` },
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Adolescentes: mais altos, gordos e preguiçosos 
-A oferta de produtos industrializados e a falta de 
-tempo têm sua parcela de responsabilidade no aumento 
-da silhueta dos jovens. “Os nossos hábitos alimentares, 
-de modo geral, mudaram muito”, observa Vivian Ellinger, 
-presidente da Sociedade Brasileira de Endocrinologia 
-e Metabologia (SBEM), no Rio de Janeiro. Pesquisas 
-mostram que, aqui no Brasil, estamos exagerando no sal 
-e no açúcar, além de tomar pouco leite e comer menos 
-frutas e feijão. 
-Outro pecado, velho conhecido de quem exibe 
-excesso de gordura por causa da gula, surge como 
-marca da nova geração: a preguiça. “Cem por cento das 
-meninas que participam do Programa não praticavam 
-nenhum esporte”, revela a psicóloga Cristina Freire, que 
-monitora o desenvolvimento emocional das voluntárias. 
-Você 
-provavelmente 
-já 
-sabe 
-quais 
-são 
-as 
-consequências de uma rotina sedentária e cheia de 
-gordura. “E não é novidade que os obesos têm uma 
-sobrevida menor”, acredita Claudia Cozer, endocrinologista
-da Associação Brasileira para o Estudo da Obesidade e da 
-Síndrome Metabólica. Mas, se há cinco anos os estudos 
-projetavam um futuro sombrio para os jovens, no cenário 
-atual as doenças que viriam na velhice já são parte da 
-rotina deles. “Os adolescentes já estão sofrendo com 
-hipertensão e diabete”, exemplifica Claudia. 
-DESGUALDO, P. Revista Saúde. Disponível em: http://saude.abril.com.br. 
-Acesso em: 28 jul. 2012 (adaptado). 
-Sobre a relação entre os hábitos da população 
-adolescente e as suas condições de saúde, as 
-informações apresentadas no texto indicam que`,
+    text: `Adolescentes: mais altos, gordos e preguiçosos A oferta de
+produtos industrializados e a falta de tempo têm sua parcela
+de responsabilidade no aumento da silhueta dos jovens. “Os
+nossos hábitos alimentares, de modo geral, mudaram muito”,
+observa Vivian Ellinger, presidente da Sociedade Brasileira de
+Endocrinologia e Metabologia (SBEM), no Rio de Janeiro.
+Pesquisas mostram que, aqui no Brasil, estamos exagerando no
+sal e no açúcar, além de tomar pouco leite e comer menos
+frutas e feijão. Outro pecado, velho conhecido de quem exibe
+excesso de gordura por causa da gula, surge como marca da nova
+geração: a preguiça. “Cem por cento das meninas que participam
+do Programa não praticavam nenhum esporte”, revela a psicóloga
+Cristina Freire, que monitora o desenvolvimento emocional das
+voluntárias. Você provavelmente já sabe quais são as
+consequências de uma rotina sedentária e cheia de gordura. “E
+não é novidade que os obesos têm uma sobrevida menor”,
+acredita Claudia Cozer, endocrinologista da Associação
+Brasileira para o Estudo da Obesidade e da Síndrome
+Metabólica. Mas, se há cinco anos os estudos projetavam um
+futuro sombrio para os jovens, no cenário atual as doenças que
+viriam na velhice já são parte da rotina deles. “Os
+adolescentes já estão sofrendo com hipertensão e diabete”,
+exemplifica Claudia. DESGUALDO, P. Revista Saúde. Disponível
+em: http://saude.abril.com.br. Acesso em: 28 jul. 2012
+(adaptado). Sobre a relação entre os hábitos da população
+adolescente e as suas condições de saúde, as informações
+apresentadas no texto indicam que`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `a falta de atividade física somada a uma alimentação 
-nutricionalmente desequilibrada constituem fatores 
-relacionados ao aparecimento de doenças crônicas 
-entre os adolescentes.` },
-      { id: 'B', type: 'text', value: `a diminuição do consumo de alimentos fontes de 
-carboidratos combinada com um maior consumo de 
-alimentos ricos em proteínas contribuíram para o 
-aumento da obesidade entre os adolescentes.` },
-      { id: 'C', type: 'text', value: `a maior participação dos alimentos industrializados e 
-gordurosos na dieta da população adolescente tem 
-tornado escasso o consumo de sais e açúcares, o 
-que prejudica o equilíbrio metabólico.` },
-      { id: 'D', type: 'text', value: `a ocorrência de casos de hipertensão e diabetes 
-entre os adolescentes advém das condições de 
-alimentação, enquanto que na população adulta os 
-fatores hereditários são preponderantes.` },
-      { id: 'E', type: 'text', value: `a prática regular de atividade física é um importante 
-fator de controle da diabetes entre a população 
-adolescente, por provocar um constante aumento da 
-pressão arterial sistólica.` },
+      { id: 'A', type: 'text', value: `a falta de atividade física somada a uma alimentação nutricionalmente desequilibrada constituem fatores relacionados ao aparecimento de doenças crônicas entre os adolescentes.` },
+      { id: 'B', type: 'text', value: `a diminuição do consumo de alimentos fontes de carboidratos combinada com um maior consumo de alimentos ricos em proteínas contribuíram para o aumento da obesidade entre os adolescentes.` },
+      { id: 'C', type: 'text', value: `a maior participação dos alimentos industrializados e gordurosos na dieta da população adolescente tem tornado escasso o consumo de sais e açúcares, o que prejudica o equilíbrio metabólico.` },
+      { id: 'D', type: 'text', value: `a ocorrência de casos de hipertensão e diabetes entre os adolescentes advém das condições de alimentação, enquanto que na população adulta os fatores hereditários são preponderantes.` },
+      { id: 'E', type: 'text', value: `a prática regular de atividade física é um importante fator de controle da diabetes entre a população adolescente, por provocar um constante aumento da pressão arterial sistólica.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A reportagem associa, entre os adolescentes, a alimentação desequilibrada (excesso de sal e açúcar, pouca fruta e leite) e o sedentarismo ao surgimento precoce de doenças como hipertensão e diabetes. O texto mostra que males antes típicos da velhice já fazem parte da rotina dos jovens. Assim, a falta de atividade física somada a uma alimentação nutricionalmente desequilibrada constitui fator relacionado ao aparecimento de doenças crônicas entre adolescentes. As demais alternativas invertem dados ou criam relações não presentes no texto.`,
@@ -795,8 +689,7 @@ usa sua arte para`,
       { id: 'B', type: 'text', value: `estabelecer uma postura proativa da sociedade.` },
       { id: 'C', type: 'text', value: `provocar a reflexão sobre essa realidade.` },
       { id: 'D', type: 'text', value: `propor alternativas para solucionar esse problema.` },
-      { id: 'E', type: 'text', value: `retratar como a questão é enfrentada em vários países 
-do mundo.` },
+      { id: 'E', type: 'text', value: `retratar como a questão é enfrentada em vários países do mundo.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. A ilustração de Pawel Kuczynski aborda o trabalho infantil por meio de uma imagem de forte impacto. Como obra de arte gráfica crítica, ela não propõe soluções nem descreve como a questão é enfrentada em vários países, mas busca sensibilizar quem a observa. Desse modo, o artista usa sua arte para provocar a reflexão sobre essa realidade, conforme a alternativa C. As demais alternativas atribuem à obra funções que ela não desempenha.`,
@@ -853,17 +746,11 @@ As diversas formas de dança são demonstrações da
 diversidade cultural do nosso país. Entre elas, a quadrilha 
 é considerada uma dança folclórica por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `possuir como característica principal os atributos 
-divinos e religiosos e, por isso, identificar uma nação 
-ou região.` },
-      { id: 'B', type: 'text', value: `abordar as tradições e costumes de determinados 
-povos ou regiões distintas de uma mesma nação.` },
-      { id: 'C', type: 'text', value: `apresentar cunho artístico e técnicas apuradas, 
-sendo, também, considerada dança-espetáculo.` },
-      { id: 'D', type: 'text', value: `necessitar de vestuário específico para a sua prática, 
-o qual define seu país de origem.` },
-      { id: 'E', type: 'text', value: `acontecer em salões e festas e ser influenciada por 
-diversos gêneros musicais.` },
+      { id: 'A', type: 'text', value: `possuir como característica principal os atributos divinos e religiosos e, por isso, identificar uma nação ou região.` },
+      { id: 'B', type: 'text', value: `abordar as tradições e costumes de determinados povos ou regiões distintas de uma mesma nação.` },
+      { id: 'C', type: 'text', value: `apresentar cunho artístico e técnicas apuradas, sendo, também, considerada dança-espetáculo.` },
+      { id: 'D', type: 'text', value: `necessitar de vestuário específico para a sua prática, o qual define seu país de origem.` },
+      { id: 'E', type: 'text', value: `acontecer em salões e festas e ser influenciada por diversos gêneros musicais.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto de Câmara Cascudo explica que a quadrilha, originada nos salões franceses, foi apropriada e adaptada pelo gosto popular brasileiro. Ela é considerada dança folclórica justamente por abordar as tradições e os costumes de determinados povos ou regiões distintas de uma mesma nação, conforme a alternativa B. As demais opções associam o folclórico a atributos religiosos, a técnicas de dança-espetáculo, a vestuário específico ou à mera realização em festas, aspectos que não o definem.`,
@@ -899,25 +786,11 @@ empregados na escrita. Trata-se da frase “Não física, dois
 pontos”. Nesse contexto, a escolha por se representar por 
 extenso o sinal de pontuação que deveria ser utilizado`,
     alternatives: [
-      { id: 'A', type: 'text', value: `enfatiza a metáfora de que o autor se vale para 
-desenvolver seu ponto de vista sobre a arte de 
-argumentar.` },
-      { id: 'B', type: 'text', value: `diz respeito a um recurso de metalinguagem, 
-evidenciando as relações e as estruturas presentes 
-no enunciado.` },
-      { id: 'C', type: 'text', value: `é um recurso estilístico que promove satisfatoriamente 
-a sequenciação de ideias, introduzindo apostos 
-exemplificativos.` },
-      { id: 'D', type: 'text', value: `ilustra a flexibilidade na estruturação do gênero textual, a 
-qual se concretiza no emprego da linguagem conotativa.` },
-      { id: 'E', type: 'text', value: `prejudica 
-a 
-sequência 
-do 
-texto, 
-provocando 
-estranheza no leitor ao não desenvolver explicitamente 
-o raciocínio a partir de argumentos.` },
+      { id: 'A', type: 'text', value: `enfatiza a metáfora de que o autor se vale para desenvolver seu ponto de vista sobre a arte de argumentar.` },
+      { id: 'B', type: 'text', value: `diz respeito a um recurso de metalinguagem, evidenciando as relações e as estruturas presentes no enunciado.` },
+      { id: 'C', type: 'text', value: `é um recurso estilístico que promove satisfatoriamente a sequenciação de ideias, introduzindo apostos exemplificativos.` },
+      { id: 'D', type: 'text', value: `ilustra a flexibilidade na estruturação do gênero textual, a qual se concretiza no emprego da linguagem conotativa.` },
+      { id: 'E', type: 'text', value: `prejudica a sequência do texto, provocando estranheza no leitor ao não desenvolver explicitamente o raciocínio a partir de argumentos.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No texto “Jogar limpo”, o autor escreve por extenso “Não física, dois pontos”, representando o sinal de pontuação com palavras. Esse recurso estilístico promove a sequenciação das ideias e introduz um aposto exemplificativo, chamando a atenção para o que vem em seguida. Trata-se, assim, de uma escolha expressiva que organiza o raciocínio, conforme a alternativa C. As demais opções falam em metáfora, metalinguagem ou prejuízo à coerência, interpretações que não explicam o efeito pretendido.`,
@@ -982,24 +855,11 @@ chegada dos portugueses ao Brasil. Da leitura dos textos,
 constata-se que`,
     images: ['/enem/2013/images/enem_2013_d2_q114.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a carta de Pero Vaz de Caminha representa uma das 
-primeiras manifestações artísticas dos portugueses 
-em terras brasileiras e preocupa-se apenas com a 
-estética literária.` },
-      { id: 'B', type: 'text', value: `a tela de Portinari retrata indígenas nus com corpos 
-pintados, cuja grande significação é a afirmação da 
-arte acadêmica brasileira e a contestação de uma 
-linguagem moderna.` },
-      { id: 'C', type: 'text', value: `a carta, como testemunho histórico-político, mostra 
-o olhar do colonizador sobre a gente da terra, e a 
-pintura destaca, em primeiro plano, a inquietação 
-dos nativos.` },
-      { id: 'D', type: 'text', value: `as duas produções, embora usem linguagens 
-diferentes - verbal e não verbal -, cumprem a 
-mesma função social e artística.` },
-      { id: 'E', type: 'text', value: `a pintura e a carta de Caminha são manifestações de 
-grupos étnicos diferentes, produzidas em um mesmo 
-momento histórico, retratando a colonização.` },
+      { id: 'A', type: 'text', value: `a carta de Pero Vaz de Caminha representa uma das primeiras manifestações artísticas dos portugueses em terras brasileiras e preocupa-se apenas com a estética literária.` },
+      { id: 'B', type: 'text', value: `a tela de Portinari retrata indígenas nus com corpos pintados, cuja grande significação é a afirmação da arte acadêmica brasileira e a contestação de uma linguagem moderna.` },
+      { id: 'C', type: 'text', value: `a carta, como testemunho histórico-político, mostra o olhar do colonizador sobre a gente da terra, e a pintura destaca, em primeiro plano, a inquietação dos nativos.` },
+      { id: 'D', type: 'text', value: `as duas produções, embora usem linguagens diferentes - verbal e não verbal -, cumprem a mesma função social e artística.` },
+      { id: 'E', type: 'text', value: `a pintura e a carta de Caminha são manifestações de grupos étnicos diferentes, produzidas em um mesmo momento histórico, retratando a colonização.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O Texto I, trecho da Carta de Pero Vaz de Caminha, registra o olhar do colonizador português sobre os indígenas; o Texto II, a tela de Portinari, retrata a chegada dos portugueses. A comparação mostra que a carta funciona como testemunho histórico-político do olhar europeu, enquanto a pintura destaca, em primeiro plano, a inquietação dos nativos, conforme a alternativa C. Ambas pertencem ao patrimônio cultural e retratam o mesmo episódio sob perspectivas distintas. As demais opções reduzem as obras a preocupações apenas estéticas ou igualam indevidamente suas funções.`,
@@ -1033,12 +893,9 @@ sentido de intensificação, construindo a ideia de`,
     alternatives: [
       { id: 'A', type: 'text', value: `opressão física e moral, que gera rancor nos meninos.` },
       { id: 'B', type: 'text', value: `repressão policial e social, que gera apatia nos meninos.` },
-      { id: 'C', type: 'text', value: `polêmica judicial e midiática, que gera confusão entre 
-os meninos.` },
-      { id: 'D', type: 'text', value: `concepção educacional e carcerária, que gera 
-comoção nos meninos.` },
-      { id: 'E', type: 'text', value: `informação crítica e jornalística, que gera indignação 
-entre os meninos.` },
+      { id: 'C', type: 'text', value: `polêmica judicial e midiática, que gera confusão entre os meninos.` },
+      { id: 'D', type: 'text', value: `concepção educacional e carcerária, que gera comoção nos meninos.` },
+      { id: 'E', type: 'text', value: `informação crítica e jornalística, que gera indignação entre os meninos.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No monólogo do repórter da peça “Querô”, de Plínio Marcos, a repetição de termos como “espremidos”, “empilhados” e “esmagados de corpo e alma” intensifica a descrição dos meninos presos no cubículo do reformatório. Esse recurso constrói a ideia de opressão física e moral, que gera rancor nos meninos, conforme a alternativa A. A insistência vocabular reforça a violência da situação vivida. As demais opções apontam apatia, confusão, comoção ou indignação, efeitos que não correspondem ao sentido intensificado pela repetição.`,
@@ -1072,16 +929,11 @@ Raimundo Correia reflete sobre a forma como as emoções
 do indivíduo são julgadas em sociedade. Na concepção 
 do eu lírico, esse julgamento revela que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a necessidade de ser socialmente aceito leva o 
-indivíduo a agir de forma dissimulada.` },
-      { id: 'B', type: 'text', value: `o sofrimento íntimo torna-se mais ameno quando 
-compartilhado por um grupo social.` },
-      { id: 'C', type: 'text', value: `a capacidade de perdoar e aceitar as diferenças 
-neutraliza o sentimento de inveja.` },
-      { id: 'D', type: 'text', value: `o instinto de solidariedade conduz o indivíduo a 
-apiedar-se do próximo.` },
-      { id: 'E', type: 'text', value: `a transfiguração da angústia em alegria é um artifício 
-nocivo ao convívio social.` },
+      { id: 'A', type: 'text', value: `a necessidade de ser socialmente aceito leva o indivíduo a agir de forma dissimulada.` },
+      { id: 'B', type: 'text', value: `o sofrimento íntimo torna-se mais ameno quando compartilhado por um grupo social.` },
+      { id: 'C', type: 'text', value: `a capacidade de perdoar e aceitar as diferenças neutraliza o sentimento de inveja.` },
+      { id: 'D', type: 'text', value: `o instinto de solidariedade conduz o indivíduo a apiedar-se do próximo.` },
+      { id: 'E', type: 'text', value: `a transfiguração da angústia em alegria é um artifício nocivo ao convívio social.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Coerente com o Parnasianismo, o soneto de Raimundo Correia reflete, com rigor formal, sobre como as emoções são julgadas em sociedade. O eu lírico observa que muitos que riem guardam, por dentro, dor e sofrimento, e que a felicidade de alguns consiste apenas em parecer feliz aos outros. Conclui-se que a necessidade de ser socialmente aceito leva o indivíduo a agir de forma dissimulada, conforme a alternativa A. As demais opções não traduzem essa crítica à aparência social.`,
@@ -1172,16 +1024,11 @@ Nessa charge, o recurso morfossintático que colabora
 para o efeito de humor está indicado pelo(a)`,
     images: ['/enem/2013/images/enem_2013_d2_q119.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `emprego de uma oração adversativa, que orienta a 
-quebra da expectativa ao final.` },
-      { id: 'B', type: 'text', value: `uso de conjunção aditiva, que cria uma relação de 
-causa e efeito entre as ações.` },
-      { id: 'C', type: 'text', value: `retomada do substantivo "mãe", que desfaz a 
-ambiguidade dos sentidos a ele atribuídos.` },
-      { id: 'D', type: 'text', value: `utilização da forma pronominal "la", que reflete um 
-tratamento formal do filho em relação à "mãe".` },
-      { id: 'E', type: 'text', value: `repetição da forma verbal "é", que reforça a relação 
-de adição existente entre as orações.` },
+      { id: 'A', type: 'text', value: `emprego de uma oração adversativa, que orienta a quebra da expectativa ao final.` },
+      { id: 'B', type: 'text', value: `uso de conjunção aditiva, que cria uma relação de causa e efeito entre as ações.` },
+      { id: 'C', type: 'text', value: `retomada do substantivo "mãe", que desfaz a ambiguidade dos sentidos a ele atribuídos.` },
+      { id: 'D', type: 'text', value: `utilização da forma pronominal "la", que reflete um tratamento formal do filho em relação à "mãe".` },
+      { id: 'E', type: 'text', value: `repetição da forma verbal "é", que reforça a relação de adição existente entre as orações.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Na charge da Mafalda, o humor depende de um recurso morfossintático. O emprego de uma oração adversativa introduzida por “mas” orienta a quebra de expectativa no final, ressignificando a ideia inicial de que “a preguiça é a mãe de todos os vícios”. Com a conjunção, a noção de “mãe” passa a ser associada ao respeito, conforme a alternativa A. As demais opções atribuem o efeito a conjunção aditiva, pronome, repetição verbal ou retomada, que não produzem a quebra de expectativa.`,
@@ -1193,28 +1040,17 @@ de adição existente entre as orações.` },
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Disponível em: www.filosofia.com.br. Acesso em: 30 abr. 2010. 
-Pelas características da linguagem visual e pelas 
-escolhas 
-vocabulares, 
-pode-se 
-entender 
-que 
-o 
-texto possibilita a reflexão sobre uma problemática 
-contemporânea ao`,
+    text: `Disponível em: www.filosofia.com.br. Acesso em: 30 abr. 2010.
+Pelas características da linguagem visual e pelas escolhas
+vocabulares, pode-se entender que o texto possibilita a
+reflexão sobre uma problemática contemporânea ao`,
     images: ['/enem/2013/images/enem_2013_d2_q120.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `criticar o transporte rodoviário brasileiro, em razão da 
-grande quantidade de caminhões nas estradas.` },
-      { id: 'B', type: 'text', value: `ironizar a dificuldade de locomoção no trânsito urbano, 
-devida ao grande fluxo de veículos.` },
-      { id: 'C', type: 'text', value: `expor a questão do movimento como um problema 
-existente desde tempos antigos, conforme frase citada.` },
-      { id: 'D', type: 'text', value: `restringir os problemas de tráfego a veículos particulares, 
-defendendo, como solução, o transporte público.` },
-      { id: 'E', type: 'text', value: `propor a ampliação de vias nas estradas, detalhando 
-o espaço exíguo ocupado pelos veículos nas ruas.` },
+      { id: 'A', type: 'text', value: `criticar o transporte rodoviário brasileiro, em razão da grande quantidade de caminhões nas estradas.` },
+      { id: 'B', type: 'text', value: `ironizar a dificuldade de locomoção no trânsito urbano, devida ao grande fluxo de veículos.` },
+      { id: 'C', type: 'text', value: `expor a questão do movimento como um problema existente desde tempos antigos, conforme frase citada.` },
+      { id: 'D', type: 'text', value: `restringir os problemas de tráfego a veículos particulares, defendendo, como solução, o transporte público.` },
+      { id: 'E', type: 'text', value: `propor a ampliação de vias nas estradas, detalhando o espaço exíguo ocupado pelos veículos nas ruas.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A charge associa a imagem de um trânsito congestionado a uma citação filosófica sobre o movimento. Pela linguagem visual e pelas escolhas vocabulares, o texto ironiza a dificuldade de locomoção no trânsito urbano, causada pelo grande fluxo de veículos, conforme a alternativa B. A reflexão proposta recai sobre uma problemática contemporânea da mobilidade. As demais opções restringem a crítica ao transporte rodoviário, a veículos particulares ou à ampliação de vias, desviando do sentido do texto.`,
@@ -1294,16 +1130,11 @@ revive a sensação do beijo trocado com Virgília, casada
 com Lobo Neves. Nesse contexto, a metáfora do relógio 
 desconstrói certos paradigmas românticos, porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o narrador e Virgília não têm percepção do tempo em 
-seus encontros adúlteros.` },
-      { id: 'B', type: 'text', value: `como “defunto autor”, Brás Cubas reconhece a 
-inutilidade de tentar acompanhar o fluxo do tempo.` },
-      { id: 'C', type: 'text', value: `na contagem das horas, o narrador metaforiza o 
-desejo de triunfar e acumular riquezas.` },
-      { id: 'D', type: 'text', value: `o relógio representa a materialização do tempo e 
-redireciona o comportamento idealista de Brás Cubas.` },
-      { id: 'E', type: 'text', value: `o narrador compara a duração do sabor do beijo à 
-perpetuidade do relógio.` },
+      { id: 'A', type: 'text', value: `o narrador e Virgília não têm percepção do tempo em seus encontros adúlteros.` },
+      { id: 'B', type: 'text', value: `como “defunto autor”, Brás Cubas reconhece a inutilidade de tentar acompanhar o fluxo do tempo.` },
+      { id: 'C', type: 'text', value: `na contagem das horas, o narrador metaforiza o desejo de triunfar e acumular riquezas.` },
+      { id: 'D', type: 'text', value: `o relógio representa a materialização do tempo e redireciona o comportamento idealista de Brás Cubas.` },
+      { id: 'E', type: 'text', value: `o narrador compara a duração do sabor do beijo à perpetuidade do relógio.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. No capítulo de “Memórias Póstumas de Brás Cubas”, de Machado de Assis, o narrador revive o beijo trocado com Virgília e associa o bater da pêndula à passagem do tempo e à proximidade da morte. A metáfora do relógio materializa o tempo e desconstrói paradigmas românticos, pois redireciona o comportamento idealista de Brás Cubas para uma visão desencantada, conforme a alternativa D. O relógio aparece como algo “definitivo e perpétuo”, em contraste com as ilusões amorosas. As demais opções não captam essa materialização do tempo.`,
@@ -1339,27 +1170,11 @@ ROXO, E. Folha de S. Paulo , 18 fev. 2012 (adaptado).
 A crítica do jornalista norte-americano que justifica o título 
 do texto é a de que a internet`,
     alternatives: [
-      { id: 'A', type: 'text', value: `mantém os usuários cada vez menos preocupados 
-com a qualidade da informação.` },
-      { id: 'B', type: 'text', value: `torna o raciocínio de quem navega mais raso, além de 
-fragmentar a atenção de seus usuários.` },
-      { id: 'C', type: 'text', value: `desestimula 
-a 
-inteligência, 
-de 
-acordo 
-com 
-descobertas científicas sobre o cérebro.` },
-      { id: 'D', type: 'text', value: `influencia 
-nossa 
-forma 
-de 
-pensar 
-com 
-a 
-superficialidade dos meios eletrônicos.` },
-      { id: 'E', type: 'text', value: `garante a empresas a obtenção de mais lucro com a 
-recente fragilidade de nossa atenção.` },
+      { id: 'A', type: 'text', value: `mantém os usuários cada vez menos preocupados com a qualidade da informação.` },
+      { id: 'B', type: 'text', value: `torna o raciocínio de quem navega mais raso, além de fragmentar a atenção de seus usuários.` },
+      { id: 'C', type: 'text', value: `desestimula a inteligência, de acordo com descobertas científicas sobre o cérebro.` },
+      { id: 'D', type: 'text', value: `influencia nossa forma de pensar com a superficialidade dos meios eletrônicos.` },
+      { id: 'E', type: 'text', value: `garante a empresas a obtenção de mais lucro com a recente fragilidade de nossa atenção.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. A reportagem apresenta as ideias de Nicholas Carr sobre a internet como “comércio da distração”. O título justifica-se pela crítica de que há empresas obtendo lucro com a fragilidade da nossa atenção: quanto mais navegamos e pulamos de uma informação a outra, mais essas empresas ganham. Assim, a alternativa que sustenta o título é a E, que associa a internet ao lucro obtido com a nossa distração. As demais apontam críticas presentes no texto, mas que não explicam especificamente o título.`,
@@ -1401,18 +1216,11 @@ a obra A hora da estrela , de 1977, ano da morte da
 escritora. Nesse fragmento, nota-se essa peculiaridade 
 porque o narrador`,
     alternatives: [
-      { id: 'A', type: 'text', value: `observa os acontecimentos que narra sob uma 
-ótica distante, sendo indiferente aos fatos e às 
-personagens.` },
-      { id: 'B', type: 'text', value: `relata a história sem ter tido a preocupação de 
-investigar os motivos que levaram aos eventos que 
-a compõem.` },
-      { id: 'C', type: 'text', value: `revela-se um sujeito que reflete sobre questões 
-existenciais e sobre a construção do discurso.` },
-      { id: 'D', type: 'text', value: `admite a dificuldade de escrever uma história em razão 
-da complexidade para escolher as palavras exatas.` },
-      { id: 'E', type: 'text', value: `propõe-se a discutir questões de natureza filosófica e 
-metafísica, incomuns na narrativa de ficção.` },
+      { id: 'A', type: 'text', value: `observa os acontecimentos que narra sob uma ótica distante, sendo indiferente aos fatos e às personagens.` },
+      { id: 'B', type: 'text', value: `relata a história sem ter tido a preocupação de investigar os motivos que levaram aos eventos que a compõem.` },
+      { id: 'C', type: 'text', value: `revela-se um sujeito que reflete sobre questões existenciais e sobre a construção do discurso.` },
+      { id: 'D', type: 'text', value: `admite a dificuldade de escrever uma história em razão da complexidade para escolher as palavras exatas.` },
+      { id: 'E', type: 'text', value: `propõe-se a discutir questões de natureza filosófica e metafísica, incomuns na narrativa de ficção.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No fragmento de “A hora da estrela”, de Clarice Lispector, o narrador não se limita a contar os fatos, mas reflete sobre a origem das coisas, sobre o ato de escrever e sobre questões existenciais. Frases como “Enquanto eu tiver perguntas e não houver resposta continuarei a escrever” revelam essa voz narrativa peculiar. O narrador mostra-se, portanto, um sujeito que reflete sobre questões existenciais e sobre a construção do próprio discurso, conforme a alternativa C. As demais opções descrevem posturas de distanciamento ou dificuldade que não correspondem ao texto.`,
@@ -1453,15 +1261,11 @@ científica que apresentam informações divergentes
 sobre um mesmo tema. Comparando os dois textos, 
 constata-se que o Texto II contrapõe-se ao I quando`,
     alternatives: [
-      { id: 'A', type: 'text', value: `comprova cientificamente que a vitamina D não é 
-uma vitamina.` },
-      { id: 'B', type: 'text', value: `demonstra a verdadeira importância da vitamina D 
-para a saúde.` },
+      { id: 'A', type: 'text', value: `comprova cientificamente que a vitamina D não é uma vitamina.` },
+      { id: 'B', type: 'text', value: `demonstra a verdadeira importância da vitamina D para a saúde.` },
       { id: 'C', type: 'text', value: `enfatiza que a vitamina D é mais comumente produzida pelo corpo que absorvida por meio de alimentos.` },
-      { id: 'D', type: 'text', value: `afirma que a vitamina D existe na gordura dos peixes
-e no leite, não em seus derivados.` },
-      { id: 'E', type: 'text', value: `levanta a possibilidade de o corpo humano produzir 
-artificialmente a vitamina D.` },
+      { id: 'D', type: 'text', value: `afirma que a vitamina D existe na gordura dos peixes e no leite, não em seus derivados.` },
+      { id: 'E', type: 'text', value: `levanta a possibilidade de o corpo humano produzir artificialmente a vitamina D.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Os dois textos de divulgação científica tratam da vitamina D de modo divergente. O Texto I informa que ela pode ser produzida pela exposição ao sol, mas também obtida em alguns alimentos; o Texto II contrapõe-se a essa visão ao enfatizar que a vitamina não está nas dietas comuns e que a natureza planejou que o corpo a produzisse na pele. Assim, o Texto II destaca que a vitamina D é mais comumente produzida pelo corpo do que absorvida por meio de alimentos, conforme a alternativa C. As demais opções não expressam corretamente essa contraposição.`,
@@ -1498,16 +1302,11 @@ contemporaneidade e os meios de comunicação do
 passado, esse texto concebe que a escrita contribui para 
 uma evolução das novas tecnologias por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `se desenvolver paralelamente nos meios tradicionais 
-de comunicação e informação.` },
-      { id: 'B', type: 'text', value: `cumprir função essencial na contemporaneidade por 
-meio das impressões em papel.` },
-      { id: 'C', type: 'text', value: `realizar transição relevante da tradição oral para o 
-progresso das sociedades humanas.` },
-      { id: 'D', type: 'text', value: `oferecer melhoria sistemática do padrão de vida e do 
-desenvolvimento social humano.` },
-      { id: 'E', type: 'text', value: `fornecer base essencial para o progresso das 
-tecnologias de comunicação e informação.` },
+      { id: 'A', type: 'text', value: `se desenvolver paralelamente nos meios tradicionais de comunicação e informação.` },
+      { id: 'B', type: 'text', value: `cumprir função essencial na contemporaneidade por meio das impressões em papel.` },
+      { id: 'C', type: 'text', value: `realizar transição relevante da tradição oral para o progresso das sociedades humanas.` },
+      { id: 'D', type: 'text', value: `oferecer melhoria sistemática do padrão de vida e do desenvolvimento social humano.` },
+      { id: 'E', type: 'text', value: `fornecer base essencial para o progresso das tecnologias de comunicação e informação.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto de Neitzel relativiza o entusiasmo com as novas tecnologias, lembrando que a informática tem bases nos modelos informativos anteriores, como a tradição oral e a escrita impressa. Ressalta o parentesco entre o computador e os demais meios de comunicação. Dessa forma, a escrita contribui para a evolução das novas tecnologias por fornecer base essencial ao progresso das tecnologias de comunicação e informação, conforme a alternativa E. As demais opções restringem ou distorcem esse papel da escrita.`,
@@ -1527,22 +1326,11 @@ instalação do artista mineiro Paulo Nazareth reside
 principalmente na forma como ele`,
     images: ['/enem/2013/images/enem_2013_d2_q127.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `resgata conhecidas referências do modernismo 
-mineiro.` },
-      { id: 'B', type: 'text', value: `utiliza técnicas e suportes tradicionais na construção 
-das formas.` },
-      { id: 'C', type: 'text', value: `articula questões de identidade, território e códigos de
-linguagens.` },
-      { id: 'D', type: 'text', value: `imita 
-o 
-papel 
-das 
-celebridades 
-no 
-mundo 
-contemporâneo.` },
-      { id: 'E', type: 'text', value: `camufla o aspecto plástico e a composição visual de 
-sua montagem.` },
+      { id: 'A', type: 'text', value: `resgata conhecidas referências do modernismo mineiro.` },
+      { id: 'B', type: 'text', value: `utiliza técnicas e suportes tradicionais na construção das formas.` },
+      { id: 'C', type: 'text', value: `articula questões de identidade, território e códigos de linguagens.` },
+      { id: 'D', type: 'text', value: `imita o papel das celebridades no mundo contemporâneo.` },
+      { id: 'E', type: 'text', value: `camufla o aspecto plástico e a composição visual de sua montagem.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. A performance/instalação de Paulo Nazareth reúne linguagem verbal (a placa “Não me esqueçam quando eu for um nome importante”) e não verbal, além da referência aos espaços “Mercado de Artes” e “Mercado de Bananas”. A contemporaneidade da obra está no modo como ela articula questões de identidade, território e códigos de linguagens, conforme a alternativa C. Trata-se de uma reflexão socioeconômica e cultural. As demais opções apontam resgate do modernismo, técnicas tradicionais ou camuflagem do aspecto plástico, que não definem a obra.`,
@@ -1563,16 +1351,11 @@ de linguagem. Nesse texto, predomina a função que se
 caracteriza por`,
     images: ['/enem/2013/images/enem_2013_d2_q128.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `tentar persuadir o leitor acerca da necessidade de se 
-tomarem certas medidas para a elaboração de um livro.` },
-      { id: 'B', type: 'text', value: `enfatizar a percepção subjetiva do autor, que projeta 
-para sua obra seus sonhos e histórias.` },
-      { id: 'C', type: 'text', value: `apontar para o estabelecimento de interlocução de 
-modo superficial e automático, entre o leitor e o livro.` },
-      { id: 'D', type: 'text', value: `fazer um exercício de reflexão a respeito dos princípios 
-que estruturam a forma e o conteúdo de um livro.` },
-      { id: 'E', type: 'text', value: `retratar as etapas do processo de produção de um 
-livro, as quais antecedem o contato entre leitor e obra.` },
+      { id: 'A', type: 'text', value: `tentar persuadir o leitor acerca da necessidade de se tomarem certas medidas para a elaboração de um livro.` },
+      { id: 'B', type: 'text', value: `enfatizar a percepção subjetiva do autor, que projeta para sua obra seus sonhos e histórias.` },
+      { id: 'C', type: 'text', value: `apontar para o estabelecimento de interlocução de modo superficial e automático, entre o leitor e o livro.` },
+      { id: 'D', type: 'text', value: `fazer um exercício de reflexão a respeito dos princípios que estruturam a forma e o conteúdo de um livro.` },
+      { id: 'E', type: 'text', value: `retratar as etapas do processo de produção de um livro, as quais antecedem o contato entre leitor e obra.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. No “Quadrinho quadrado”, de Cássio Xavier, o texto discute os próprios princípios que estruturam a forma e o conteúdo de um livro. Predomina, assim, a função metalinguística, pois a linguagem é usada para refletir sobre o próprio objeto livro. O quadrinho propõe um exercício de reflexão a respeito do que compõe um livro, conforme a alternativa D. As demais opções associam o texto às funções conativa, emotiva ou fática, que não predominam.`,
@@ -1592,14 +1375,11 @@ da identidade nacional, as anotações em torno dos versos
 constituem`,
     images: ['/enem/2013/images/enem_2013_d2_q129.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `direcionamentos possíveis para uma leitura crítica de 
-dados histórico-culturais.` },
+      { id: 'A', type: 'text', value: `direcionamentos possíveis para uma leitura crítica de dados histórico-culturais.` },
       { id: 'B', type: 'text', value: `forma clássica da construção poética brasileira.` },
       { id: 'C', type: 'text', value: `rejeição à ideia do Brasil como o país do futebol.` },
-      { id: 'D', type: 'text', value: `intervenções de um leitor estrangeiro no exercício de 
-leitura poética.` },
-      { id: 'E', type: 'text', value: `lembretes de palavras tipicamente brasileiras 
-substitutivas das originais.` },
+      { id: 'D', type: 'text', value: `intervenções de um leitor estrangeiro no exercício de leitura poética.` },
+      { id: 'E', type: 'text', value: `lembretes de palavras tipicamente brasileiras substitutivas das originais.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No poema de Oswald de Andrade exposto no Museu da Língua Portuguesa, as anotações em torno dos versos relacionam a brasilidade ao futebol. Coerentes com a revisão crítica do passado nacional, própria da primeira fase modernista, essas anotações constituem direcionamentos possíveis para uma leitura crítica de dados histórico-culturais, conforme a alternativa A. Elas estimulam a reflexão sobre a identidade nacional. As demais opções tratam as anotações como forma clássica, rejeição ao futebol, intervenção estrangeira ou simples substituição vocabular.`,
@@ -1633,22 +1413,11 @@ Considerando-se as informações abordadas no texto, ao
 iniciá-lo com a expressão “Na verdade”, o autor tem como 
 objetivo principal`,
     alternatives: [
-      { id: 'A', type: 'text', value: `expor as características comuns entre os povos 
-indígenas no Brasil e suas ideias modernas e civilizadas.` },
-      { id: 'B', type: 'text', value: `trazer uma abordagem inédita sobre os povos 
-indígenas no Brasil e, assim, ser reconhecido como 
-especialista no assunto.` },
-      { id: 'C', type: 'text', value: `mostrar os povos indígenas vivendo em comunhão 
-com a natureza, e, por isso, sugerir que se deve 
-respeitar o meio ambiente e esses povos.` },
-      { id: 'D', type: 'text', value: `usar a conhecida oposição entre moderno e antigo 
-como uma forma de respeitar a maneira ultrapassada 
-como vivem os povos indígenas em diferentes regiões 
-do Brasil.` },
-      { id: 'E', type: 'text', value: `apresentar informações pouco divulgadas a respeito 
-dos indígenas no Brasil, para defender o caráter 
-desses povos como civilizações, em contraposição a 
-visões preconcebidas.` },
+      { id: 'A', type: 'text', value: `expor as características comuns entre os povos indígenas no Brasil e suas ideias modernas e civilizadas.` },
+      { id: 'B', type: 'text', value: `trazer uma abordagem inédita sobre os povos indígenas no Brasil e, assim, ser reconhecido como especialista no assunto.` },
+      { id: 'C', type: 'text', value: `mostrar os povos indígenas vivendo em comunhão com a natureza, e, por isso, sugerir que se deve respeitar o meio ambiente e esses povos.` },
+      { id: 'D', type: 'text', value: `usar a conhecida oposição entre moderno e antigo como uma forma de respeitar a maneira ultrapassada como vivem os povos indígenas em diferentes regiões do Brasil.` },
+      { id: 'E', type: 'text', value: `apresentar informações pouco divulgadas a respeito dos indígenas no Brasil, para defender o caráter desses povos como civilizações, em contraposição a visões preconcebidas.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto afirma que os chamados índios reúnem mais de trezentos povos, com línguas e tradições próprias, e valores como a comunhão com o ambiente e o senso coletivo. Ao iniciar com “Na verdade”, o autor introduz uma contraposição às visões preconceituosas, apresentando informações pouco divulgadas para defender esses povos como civilizações, conforme a alternativa E. O objetivo principal é, portanto, contrapor-se a estereótipos sobre os indígenas. As demais opções reduzem esse propósito a exposição neutra, autopromoção ou respeito ao “atraso”.`,
@@ -1701,8 +1470,7 @@ personagens`,
       { id: 'B', type: 'text', value: `tem dúvida sobre a pronúncia do nome do réptil.` },
       { id: 'C', type: 'text', value: `desconsidera o conteúdo linguístico da pergunta.` },
       { id: 'D', type: 'text', value: `constata o fato de um bicho cruzar a frente do carro.` },
-      { id: 'E', type: 'text', value: `apresenta duas possibilidades de sentido para a 
-mesma palavra.` },
+      { id: 'E', type: 'text', value: `apresenta duas possibilidades de sentido para a mesma palavra.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Na piada, um compadre avisa que passou um “largato”; o outro pergunta “Lagarto ou largato?”, e o primeiro responde que não sabe porque o bicho passou rápido. O efeito de humor surge porque esse personagem desconsidera o conteúdo linguístico da pergunta: trata as duas pronúncias como se fossem animais diferentes, em vez de reconhecer uma variação na forma da mesma palavra. A quebra de expectativa está nessa confusão, conforme a alternativa C. As demais opções não explicam a origem do humor.`,
@@ -1725,21 +1493,11 @@ Analisando-se as informações verbais e a imagem associada
 a uma cabeça humana, compreende-se que a venda`,
     images: ['/enem/2013/images/enem_2013_d2_q133.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `representa a amplitude de informações que compõem 
-a internet, às quais temos acesso em redes sociais e 
-sites de busca.` },
-      { id: 'B', type: 'text', value: `faz uma denúncia quanto às informações que são 
-omitidas dos usuários da rede, sendo empregada no 
-sentido conotativo.` },
-      { id: 'C', type: 'text', value: `diz respeito a um buraco negro digital, onde estão 
-escondidas as informações buscadas pelo usuário 
-nos sites que acessa.` },
-      { id: 'D', type: 'text', value: `está associada a um conjunto de restrições sociais 
-presentes na vida daqueles que estão sempre 
-conectados à internet.` },
-      { id: 'E', type: 'text', value: `remete às bases de dados da web , protegidas por 
-senhas ou assinaturas e às quais o navegador não 
-tem acesso.` },
+      { id: 'A', type: 'text', value: `representa a amplitude de informações que compõem a internet, às quais temos acesso em redes sociais e sites de busca.` },
+      { id: 'B', type: 'text', value: `faz uma denúncia quanto às informações que são omitidas dos usuários da rede, sendo empregada no sentido conotativo.` },
+      { id: 'C', type: 'text', value: `diz respeito a um buraco negro digital, onde estão escondidas as informações buscadas pelo usuário nos sites que acessa.` },
+      { id: 'D', type: 'text', value: `está associada a um conjunto de restrições sociais presentes na vida daqueles que estão sempre conectados à internet.` },
+      { id: 'E', type: 'text', value: `remete às bases de dados da web , protegidas por senhas ou assinaturas e às quais o navegador não tem acesso.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A reportagem revela o “lado oculto” da internet, afirmando que sites de busca manipulam resultados e que há muitos sites invisíveis. A imagem de uma venda sobre os olhos de uma cabeça humana, associada ao texto, é empregada em sentido conotativo para denunciar as informações que são omitidas dos usuários da rede, conforme a alternativa B. Assim, a venda simboliza aquilo que a internet esconde. As demais opções interpretam a venda de forma literal ou desviam do sentido crítico do texto.`,
@@ -1775,8 +1533,7 @@ de perversidade e é potencializada pelo fato de`,
       { id: 'B', type: 'text', value: `dificultar a identificação do agressor incógnito.` },
       { id: 'C', type: 'text', value: `impedir a retomada de valores consolidados pela vítima.` },
       { id: 'D', type: 'text', value: `possibilitar a participação de um número maior de autores.` },
-      { id: 'E', type: 'text', value: `proporcionar o uso de uma variedade de ferramentas 
-da internet.` },
+      { id: 'E', type: 'text', value: `proporcionar o uso de uma variedade de ferramentas da internet.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto define o cyberbullying como o bullying praticado em meios eletrônicos, com mensagens difamatórias ou ameaçadoras. Segundo o texto, essa prática ganha novas nuances de perversidade e é potencializada pelo anonimato, que aumenta a crueldade e dificulta a identificação do agressor incógnito, conforme a alternativa B. É esse ocultamento do autor que torna a agressão virtual mais grave. As demais opções citam fatores reais, mas não o que o texto aponta como potencializador central.`,
@@ -1788,43 +1545,27 @@ da internet.` },
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Casados e independentes 
-Um novo levantamento do IBGE mostra que o número de 
-casamentos entre pessoas na faixa dos 60 anos cresce, 
-desde 2003, a um ritmo 60% maior que o observado na 
-população brasileira como um todo... 
-Aumento no número de casamentos (entre 2003 e 2008) 
-Entre pessoas 
-acima dos 60 
-Na população 
-brasileira 
-44% 
-28% 
-...e um fator determinante é que cada vez mais pessoas nessa 
-idade estão no mercado de trabalho, o que lhes garante a 
-independência financeira necessária para o matrimônio. 
-População com mais de 60 anos no mercado de trabalho 
-Em 2003 
-Hoje* 
-31% 
-38% 
-Fontes: IBGE e Organização Internacional do Trabalho (OIT) 
-* Com base no último dado disponível, de 2008 
-Veja , São Paulo, 21 abr. 2010 (adaptado). 
-Os gráficos expõem dados estatísticos por meio de 
+    text: `Casados e independentes Um novo levantamento do IBGE mostra
+que o número de casamentos entre pessoas na faixa dos 60 anos
+cresce, desde 2003, a um ritmo 60% maior que o observado na
+população brasileira como um todo... Aumento no número de
+casamentos (entre 2003 e 2008) Entre pessoas acima dos 60 Na
+população brasileira 44% 28% ...e um fator determinante é que
+cada vez mais pessoas nessa idade estão no mercado de
+trabalho, o que lhes garante a independência financeira
+necessária para o matrimônio. População com mais de 60 anos no
+mercado de trabalho Em 2003 Hoje* 31% 38% Fontes: IBGE e
+Organização Internacional do Trabalho (OIT) * Com base no
+último dado disponível, de 2008 Veja , São Paulo, 21 abr. 2010
+(adaptado). Os gráficos expõem dados estatísticos por meio de
 linguagem verbal e não verbal. No texto, o uso desse recurso`,
     images: ['/enem/2013/images/enem_2013_d2_q135_1.jpg', '/enem/2013/images/enem_2013_d2_q135_2.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `exemplifica o aumento da expectativa de vida da 
-população.` },
-      { id: 'B', type: 'text', value: `explica o crescimento da confiança na instituição do 
-casamento.` },
-      { id: 'C', type: 'text', value: `mostra que a população brasileira aumentou nos 
-últimos cinco anos.` },
-      { id: 'D', type: 'text', value: `indica que as taxas de casamento e emprego 
-cresceram na mesma proporção.` },
-      { id: 'E', type: 'text', value: `sintetiza o crescente número de casamentos e de 
-ocupação no mercado de trabalho.` },
+      { id: 'A', type: 'text', value: `exemplifica o aumento da expectativa de vida da população.` },
+      { id: 'B', type: 'text', value: `explica o crescimento da confiança na instituição do casamento.` },
+      { id: 'C', type: 'text', value: `mostra que a população brasileira aumentou nos últimos cinco anos.` },
+      { id: 'D', type: 'text', value: `indica que as taxas de casamento e emprego cresceram na mesma proporção.` },
+      { id: 'E', type: 'text', value: `sintetiza o crescente número de casamentos e de ocupação no mercado de trabalho.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto combina linguagem verbal e gráficos para mostrar dados do IBGE sobre o crescimento dos casamentos entre pessoas acima dos 60 anos e o aumento de idosos no mercado de trabalho. Esse recurso visual sintetiza o crescente número de casamentos e de ocupação no mercado de trabalho nessa faixa etária, relacionando independência financeira e matrimônio, conforme a alternativa E. Os percentuais reforçam a tendência descrita. As demais opções extrapolam os dados, tratando de expectativa de vida ou de crescimento populacional.`,
@@ -1866,46 +1607,7 @@ na avenida um espaço`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `As notas de um professor que participou de um 
-processo seletivo, em que a banca avaliadora era 
-composta por cinco membros, são apresentadas no 
-gráfico. Sabe-se que cada membro da banca atribuiu 
-duas notas ao professor, uma relativa aos conhecimentos 
-específicos da área de atuação e outra, aos conhecimentos 
-pedagógicos, e que a média final do professor foi dada 
-pela média aritmética de todas as notas atribuídas pela 
-banca avaliadora. 
-Notas (em pontos) 
-20 
-19 
-18 
-18 
-16 
-17 
-16 
-16 
-14 
-13 
-14 
-14 
-12 
-12 
-Conhecimentos 
- específicos 
-10 
-8 
-Conhecimentos
-pedagógicos
-6
-4
-2
-1
-0
-Avaliador
-Utilizando um novo critério, essa banca avaliadora
-resolveu descartar a maior e a menor notas atribuídas
-ao professor.
-A nova média, em relação à média anterior, é`,
+    text: ``,
     images: ['/enem/2013/images/enem_2013_d2_q137.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `0,25 ponto maior.` },
@@ -2070,20 +1772,15 @@ mais eficiente é a`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `A Secretaria de Saúde de um município avalia um 
-programa que disponibiliza, para cada aluno de uma 
-escola municipal, uma bicicleta, que deve ser usada no 
-trajeto de ida e volta, entre sua casa e a escola. Na fase 
-de implantação do programa, o aluno que morava mais 
-distante da escola realizou sempre o mesmo trajeto, 
-representado na figura, na  escala 1 : 25 000, por um 
-período de cinco dias. 
-Escola 
-1 cm 
-Casa 
-1 cm 
-Quantos quilômetros esse aluno percorreu na fase de 
-implantação do programa?`,
+    text: `A Secretaria de Saúde de um município avalia um programa que
+disponibiliza, para cada aluno de uma escola municipal, uma
+bicicleta, que deve ser usada no trajeto de ida e volta, entre
+sua casa e a escola. Na fase de implantação do programa, o
+aluno que morava mais distante da escola realizou sempre o
+mesmo trajeto, representado na figura, na escala 1 : 25 000,
+por um período de cinco dias. Escola 1 cm Casa 1 cm Quantos
+quilômetros esse aluno percorreu na fase de implantação do
+programa?`,
     images: ['/enem/2013/images/enem_2013_d2_q143.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `4` },
@@ -2102,39 +1799,7 @@ implantação do programa?`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `A cidade de Guarulhos (SP) tem o 8º PIB municipal 
-do Brasil, além do maior aeroporto da América do Sul. 
-Em proporção, possui a economia que mais cresce em 
-indústrias, conforme mostra o gráfico. 
-Crescimento - Indústria 
-60% 
-65% 
-55% 
-50% 
-45% 
-40% 
-35% 
-30% 
-25% 
-20% 
-15% 
-60,52% 
-30,95% 
-14,76% 
-3,57% 
-10% 
-5% 
-0% 
-Brasil 
-São Paulo 
-(Estado) 
-São Paulo 
-(Capital) 
-Guarulhos 
-Fonte: IBGE, 2002-2008 (adaptado). 
-Analisando os dados percentuais do gráfico, qual a 
-diferença entre o maior e o menor centro em crescimento 
-no polo das indústrias?`,
+    text: ``,
     images: ['/enem/2013/images/enem_2013_d2_q144.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `75,28` },
@@ -2153,18 +1818,11 @@ no polo das indústrias?`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Em um certo teatro, as poltronas são divididas em 
-setores. A figura apresenta a vista do setor 3 desse teatro, 
-no qual as cadeiras escuras estão reservadas e as claras 
-não foram vendidas. 
-S 
-E 
-T 
-O 
-R 
-3 
-A razão que representa a quantidade de cadeiras 
-reservadas do setor 3 em relação ao total de cadeiras 
+    text: `Em um certo teatro, as poltronas são divididas em setores. A
+figura apresenta a vista do setor 3 desse teatro, no qual as
+cadeiras escuras estão reservadas e as claras não foram
+vendidas. S E T O R 3 A razão que representa a quantidade de
+cadeiras reservadas do setor 3 em relação ao total de cadeiras
 desse mesmo setor é`,
     images: ['/enem/2013/images/enem_2013_d2_q145.jpg'],
     alternatives: [
@@ -2184,35 +1842,7 @@ desse mesmo setor é`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Uma loja acompanhou o número de compradores 
-de dois produtos, A e B, durante os meses de janeiro, 
-fevereiro e março de 2012. Com isso, obteve este gráfico: 
-90 
-80 
-80 
-70 
-Número de compradores 
-60 
-60 
-50 
-A 
-40 
-B 
-30 
-30 
-20 
-20 
-20 
-10 
-10 
-0 
-Janeiro 
-Fevereiro 
-Março 
-A loja sorteará um brinde entre os compradores do 
-produto A e outro brinde entre os compradores do produto B. 
-Qual a probabilidade de que os dois sorteados tenham 
-feito suas compras em fevereiro de 2012?`,
+    text: ``,
     images: ['/enem/2013/images/enem_2013_d2_q146.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1/20` },
@@ -2371,21 +2001,15 @@ y
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `A parte interior de uma taça foi gerada pela rotação 
-de uma parábola em torno de um eixo z , conforme mostra 
-a figura. 
-Eixo de rotação ( z ) 
-y (cm) 
-C 
-x (cm) 
-V 
-A função real que expressa a parábola, no plano
-cartesiano da figura, é dada pela lei f(x) = (3/2)x² − 6x + C,
-onde C é a medida da altura do líquido contido na taça, em
-centímetros. Sabe-se que o ponto V , na figura, representa 
-o vértice da parábola, localizado sobre o eixo x . 
-Nessas condições, a altura do líquido contido na taça, em 
-centímetros, é`,
+    text: `A parte interior de uma taça foi gerada pela rotação de uma
+parábola em torno de um eixo z , conforme mostra a figura.
+Eixo de rotação ( z ) y (cm) C x (cm) V A função real que
+expressa a parábola, no plano cartesiano da figura, é dada
+pela lei f(x) = (3/2)x² − 6x + C, onde C é a medida da altura
+do líquido contido na taça, em centímetros. Sabe-se que o
+ponto V , na figura, representa o vértice da parábola,
+localizado sobre o eixo x . Nessas condições, a altura do
+líquido contido na taça, em centímetros, é`,
     images: ['/enem/2013/images/enem_2013_d2_q152.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1.` },
@@ -2600,22 +2224,16 @@ trazido pela betoneira?`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Cinco 
-empresas 
-de 
-gêneros 
-alimentícios 
-encontram-se à venda. Um empresário, almejando 
-ampliar os seus investimentos, deseja comprar 
-uma dessas empresas. Para escolher qual delas 
-irá comprar, analisa o lucro (em milhões de reais) 
-de cada uma delas, em função de seus tempos (em 
-anos) de existência, decidindo comprar a empresa 
-que apresente o maior lucro médio anual. 
-O quadro apresenta o lucro (em milhões de reais) 
-acumulado ao longo do tempo (em anos) de existência 
-de cada empresa. 
- 
+    text: `Cinco empresas de gêneros alimentícios encontram-se à venda.
+Um empresário, almejando ampliar os seus investimentos, deseja
+comprar uma dessas empresas. Para escolher qual delas irá
+comprar, analisa o lucro (em milhões de reais) de cada uma
+delas, em função de seus tempos (em anos) de existência,
+decidindo comprar a empresa que apresente o maior lucro médio
+anual. O quadro apresenta o lucro (em milhões de reais)
+acumulado ao longo do tempo (em anos) de existência de cada
+empresa.
+
 O empresário decidiu comprar a empresa`,
     images: ['/enem/2013/images/enem_2013_d2_q160.jpg'],
     alternatives: [
@@ -2635,30 +2253,7 @@ O empresário decidiu comprar a empresa`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Deseja-se postar cartas não comerciais, sendo duas 
-de 100 g, três de 200 g e uma de 350 g. O gráfico mostra o 
-custo para enviar uma carta não comercial pelos Correios: 
-Custo (R$) 
-4,45 
-4,00 
-3,55 
-3,10 
-2,65 
-2,15 
-1,70 
-1,25 
-0,80 
-Massa (g) 
-50 
-100 
-150 
-200 
-250 
-300 
-350 
-400 
-Disponível em: www.correios.com.br. Acesso em: 2 ago. 2012 (adaptado). 
-O valor total gasto, em reais, para postar essas cartas é de`,
+    text: ``,
     images: ['/enem/2013/images/enem_2013_d2_q161.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `8,35.` },
@@ -2677,23 +2272,14 @@ O valor total gasto, em reais, para postar essas cartas é de`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Foi realizado um levantamento nos 200 hotéis de uma 
-cidade, no qual foram anotados os valores, em reais, das 
-diárias para um quarto padrão de casal e a quantidade de 
-hotéis para cada valor da diária. Os valores das diárias 
-foram: A = R$ 200,00; B = R$ 300,00; C = R$ 400,00 
-e D = R$ 600,00. No gráfico, as áreas representam as 
-quantidades de hotéis pesquisados, em porcentagem, 
-para cada valor da diária. 
-25% 
-A 
-40% 
-C 
-D 
-10% 
-B 
-25% 
-O valor mediano da diária, em reais, para o quarto padrão 
+    text: `Foi realizado um levantamento nos 200 hotéis de uma cidade, no
+qual foram anotados os valores, em reais, das diárias para um
+quarto padrão de casal e a quantidade de hotéis para cada
+valor da diária. Os valores das diárias foram: A = R$ 200,00;
+B = R$ 300,00; C = R$ 400,00 e D = R$ 600,00. No gráfico, as
+áreas representam as quantidades de hotéis pesquisados, em
+porcentagem, para cada valor da diária. 25% A 40% C D 10% B
+25% O valor mediano da diária, em reais, para o quarto padrão
 de casal nessa cidade, é`,
     images: ['/enem/2013/images/enem_2013_d2_q162.jpg'],
     alternatives: [
@@ -2767,22 +2353,16 @@ A imagem que representa a nova figura é:`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Um artesão de joias tem à sua disposição pedras 
-brasileiras de três cores: vermelhas, azuis e verdes. 
-Ele pretende produzir joias constituídas por uma liga 
-metálica, a partir de um molde no formato de um losango 
-não quadrado com pedras nos seus vértices, de modo 
-que dois vértices consecutivos tenham sempre pedras de 
-cores diferentes. 
-A figura ilustra uma joia, produzida por esse artesão, 
-cujos vértices A, B, C e D correspondem às posições 
-ocupadas pelas pedras.   
-A 
-B 
-D 
-C 
-Com base nas informações fornecidas, quantas joias 
-diferentes, nesse formato, o artesão poderá obter?`,
+    text: `Um artesão de joias tem à sua disposição pedras brasileiras de
+três cores: vermelhas, azuis e verdes. Ele pretende produzir
+joias constituídas por uma liga metálica, a partir de um molde
+no formato de um losango não quadrado com pedras nos seus
+vértices, de modo que dois vértices consecutivos tenham sempre
+pedras de cores diferentes. A figura ilustra uma joia,
+produzida por esse artesão, cujos vértices A, B, C e D
+correspondem às posições ocupadas pelas pedras. A B D C Com
+base nas informações fornecidas, quantas joias diferentes,
+nesse formato, o artesão poderá obter?`,
     images: ['/enem/2013/images/enem_2013_d2_q165.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `6` },
@@ -3059,42 +2639,20 @@ Esse número é`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Nos últimos anos, a televisão tem passado por 
-uma verdadeira revolução, em termos de qualidade de 
-imagem, som e interatividade com o telespectador. Essa 
-transformação se deve à conversão do sinal analógico 
-para o sinal digital. Entretanto, muitas cidades ainda não 
-contam com essa nova tecnologia. Buscando levar esses 
-benefícios a três cidades, uma emissora de televisão 
-pretende construir uma nova torre de transmissão, que 
-envie sinal às antenas A, B e C, já existentes nessas 
-cidades. As localizações das antenas estão representadas 
-no plano cartesiano: 
-y (km) 
-70 
-60 
-C 
-50 
-40 
-30 
-20 
-A 
-B 
-10 
-x (km) 
-10 
-20 
-30 
-40 
-50 
-60 
-70 
-80 
-90 
-A torre deve estar situada em um local equidistante 
-das três antenas. 
-O local adequado para a construção dessa torre 
-corresponde ao ponto de coordenadas`,
+    text: `Nos últimos anos, a televisão tem passado por uma verdadeira
+revolução, em termos de qualidade de imagem, som e
+interatividade com o telespectador. Essa transformação se deve
+à conversão do sinal analógico para o sinal digital.
+Entretanto, muitas cidades ainda não contam com essa nova
+tecnologia. Buscando levar esses benefícios a três cidades,
+uma emissora de televisão pretende construir uma nova torre de
+transmissão, que envie sinal às antenas A, B e C, já
+existentes nessas cidades. As localizações das antenas estão
+representadas no plano cartesiano: y (km) 70 60 C 50 40 30 20
+A B 10 x (km) 10 20 30 40 50 60 70 80 90 A torre deve estar
+situada em um local equidistante das três antenas. O local
+adequado para a construção dessa torre corresponde ao ponto de
+coordenadas`,
     images: ['/enem/2013/images/enem_2013_d2_q175.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `(65 ; 35).` },
@@ -3136,47 +2694,18 @@ Essas figuras são`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Uma falsa relação 
-O cruzamento da quantidade de horas estudadas com 
-o desempenho no Programa Internacional de Avaliação 
-de Estudantes (Pisa) mostra que mais tempo na escola 
-não é garantia de nota acima da média. 
-NOTAS NO PISA E CARGA HORÁRIA (PAÍSES SELECIONADOS)* 
-NOTAS 
-NO PISA 
-600 
-Média 
-Finlândia 
-550 
-Coreia do Sul 
-Holanda 
-HORAS DE ESTUDO 
-(dos 7 aos 14 anos) 
-Austrália 
-Japão 
-4.500 
-5.000 
-5.500 
-6.000 
-6.500 
-7.000 
-7.500 
-8.000 
-8.500 
-9.000 
-Rússia 
-Portugal 
-Itália 
-450 
-Israel 
-México 
-400 
-350 
-* Considerando as médias de cada país no exame de matemática. 
-Nova Escola , São Paulo, dez. 2010 (adaptado). 
-Dos países com notas abaixo da média nesse exame, 
-aquele que apresenta maior quantidade de horas de 
-estudo é`,
+    text: `Uma falsa relação O cruzamento da quantidade de horas
+estudadas com o desempenho no Programa Internacional de
+Avaliação de Estudantes (Pisa) mostra que mais tempo na escola
+não é garantia de nota acima da média. NOTAS NO PISA E CARGA
+HORÁRIA (PAÍSES SELECIONADOS)* NOTAS NO PISA 600 Média
+Finlândia 550 Coreia do Sul Holanda HORAS DE ESTUDO (dos 7 aos
+14 anos) Austrália Japão 4.500 5.000 5.500 6.000 6.500 7.000
+7.500 8.000 8.500 9.000 Rússia Portugal Itália 450 Israel
+México 400 350 * Considerando as médias de cada país no exame
+de matemática. Nova Escola , São Paulo, dez. 2010 (adaptado).
+Dos países com notas abaixo da média nesse exame, aquele que
+apresenta maior quantidade de horas de estudo é`,
     images: ['/enem/2013/images/enem_2013_d2_q177.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Finlândia.` },
@@ -3195,18 +2724,13 @@ estudo é`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Um restaurante utiliza, para servir bebidas, bandejas 
-com bases quadradas. Todos os copos desse restaurante 
-têm o formato representado na figura: 
-A 
-C 
-B 
-D 
-Considere que AC = (7/5)BD e que l é a medida de um
-dos lados da base da bandeja.
-Qual deve ser o menor valor da razão l/BD para que uma
-bandeja tenha capacidade de portar exatamente quatro 
-copos de uma só vez?`,
+    text: `Um restaurante utiliza, para servir bebidas, bandejas com
+bases quadradas. Todos os copos desse restaurante têm o
+formato representado na figura: A C B D Considere que AC =
+(7/5)BD e que l é a medida de um dos lados da base da bandeja.
+Qual deve ser o menor valor da razão l/BD para que uma bandeja
+tenha capacidade de portar exatamente quatro copos de uma só
+vez?`,
     images: ['/enem/2013/images/enem_2013_d2_q178.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `2` },
@@ -3225,22 +2749,13 @@ copos de uma só vez?`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `O dono de um sítio pretende colocar uma haste 
-de sustentação para melhor firmar dois postes de 
-comprimentos iguais a 6 m e 4 m. A figura representa 
-a situação real na qual os postes são descritos pelos 
-segmentos AC e BD e a haste é representada pelo 
-segmento EF , todos perpendiculares ao solo, que é 
-indicado pelo segmento de reta AB. Os segmentos AD e 
-BC representam cabos de aço que serão instalados. 
-D 
-C 
-4 
-E 
-6 
-A 
-F 
-B 
+    text: `O dono de um sítio pretende colocar uma haste de sustentação
+para melhor firmar dois postes de comprimentos iguais a 6 m e
+4 m. A figura representa a situação real na qual os postes são
+descritos pelos segmentos AC e BD e a haste é representada
+pelo segmento EF , todos perpendiculares ao solo, que é
+indicado pelo segmento de reta AB. Os segmentos AD e BC
+representam cabos de aço que serão instalados. D C 4 E 6 A F B
 Qual deve ser o valor do comprimento da haste EF ?`,
     alternatives: [
       { id: 'A', type: 'text', value: `1 m` },
@@ -3259,24 +2774,16 @@ Qual deve ser o valor do comprimento da haste EF ?`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: `Gangorra é um brinquedo que consiste de uma tábua 
-longa e estreita equilibrada e fixada no seu ponto central 
-(pivô). Nesse brinquedo, duas pessoas sentam-se nas 
-extremidades e, alternadamente, impulsionam-se para 
-cima, fazendo descer a extremidade oposta, realizando, 
-assim, o movimento da gangorra. 
-Considere a gangorra representada na figura, em que 
-os pontos A e B são equidistantes do pivô: 
-B 
-Pivô 
-A 
-A projeção ortogonal da trajetória dos pontos A e B , sobre 
-o plano do chão da gangorra, quando esta se encontra 
-em movimento, é: 
-A 
-A 
-B 
-B`,
+    text: `Gangorra é um brinquedo que consiste de uma tábua longa e
+estreita equilibrada e fixada no seu ponto central (pivô).
+Nesse brinquedo, duas pessoas sentam-se nas extremidades e,
+alternadamente, impulsionam-se para cima, fazendo descer a
+extremidade oposta, realizando, assim, o movimento da
+gangorra. Considere a gangorra representada na figura, em que
+os pontos A e B são equidistantes do pivô: B Pivô A A projeção
+ortogonal da trajetória dos pontos A e B , sobre o plano do
+chão da gangorra, quando esta se encontra em movimento, é: A A
+B B`,
     images: ['/enem/2013/images/enem_2013_d2_q180.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `A` },
@@ -3318,16 +2825,11 @@ Os noticiários destacam acontecimentos diários, que são
 veiculados em jornal impresso, rádio, televisão e internet.
 Nesse texto, o acontecimento reportado é a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `ocorrência de um incêndio em um presídio superlotado
-em Honduras.` },
-      { id: 'B', type: 'text', value: `questão da superlotação nos presídios em Honduras
-e na América Latina.` },
-      { id: 'C', type: 'text', value: `investigação da morte de um oficial das Nações
-Unidas em visita a um presídio.` },
-      { id: 'D', type: 'text', value: `conclusão do relatório sobre a morte de mais de
-trezentos detentos em Honduras.` },
-      { id: 'E', type: 'text', value: `causa da morte de doze detentos em um presídio
-superlotado ao norte de Honduras.` },
+      { id: 'A', type: 'text', value: `ocorrência de um incêndio em um presídio superlotado em Honduras.` },
+      { id: 'B', type: 'text', value: `questão da superlotação nos presídios em Honduras e na América Latina.` },
+      { id: 'C', type: 'text', value: `investigação da morte de um oficial das Nações Unidas em visita a um presídio.` },
+      { id: 'D', type: 'text', value: `conclusão do relatório sobre a morte de mais de trezentos detentos em Honduras.` },
+      { id: 'E', type: 'text', value: `causa da morte de doze detentos em um presídio superlotado ao norte de Honduras.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A notícia da ONU relata um incêndio noturno em uma prisão de Honduras que matou centenas de detentos, em meio ao problema da superlotação carcerária. Embora o texto também mencione a superlotação nos presídios da América Latina, o acontecimento reportado é especificamente a ocorrência de um incêndio em um presídio superlotado em Honduras, conforme a alternativa A. A superlotação aparece como possível causa, não como o fato noticiado. As demais opções confundem a causa com o evento ou distorcem os números apresentados.`,
@@ -3359,16 +2861,11 @@ Ao ler a matéria publicada na National Geographic,
 para a realização de um trabalho escolar, um estudante
 descobriu que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `os compostos químicos da morfina, produzidos por
-humanos, são manipulados no Missouri.` },
-      { id: 'B', type: 'text', value: `os ratos e os humanos possuem a mesma via
-metabólica para produção de morfina.` },
-      { id: 'C', type: 'text', value: `a produção de morfina em grande quantidade
-minimiza a dor em ratos e humanos.` },
-      { id: 'D', type: 'text', value: `os seres humanos têm uma predisposição genética
-para inibir a dor.` },
-      { id: 'E', type: 'text', value: `a produção de morfina é um traço incomum entre os
-animais.` },
+      { id: 'A', type: 'text', value: `os compostos químicos da morfina, produzidos por humanos, são manipulados no Missouri.` },
+      { id: 'B', type: 'text', value: `os ratos e os humanos possuem a mesma via metabólica para produção de morfina.` },
+      { id: 'C', type: 'text', value: `a produção de morfina em grande quantidade minimiza a dor em ratos e humanos.` },
+      { id: 'D', type: 'text', value: `os seres humanos têm uma predisposição genética para inibir a dor.` },
+      { id: 'E', type: 'text', value: `a produção de morfina é um traço incomum entre os animais.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A matéria da National Geographic divulga um estudo segundo o qual o corpo produz naturalmente pequenas quantidades de morfina. A pesquisa mostra que os camundongos produzem esse “analgésico incrível” e que humanos e outros mamíferos possuem o mesmo “mapa químico” para fabricá-lo. Assim, o estudante descobre que os ratos e os humanos possuem a mesma via metabólica para a produção de morfina, conforme a alternativa B. As demais opções extrapolam ou contrariam as informações do texto.`,

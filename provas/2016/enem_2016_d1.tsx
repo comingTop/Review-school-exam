@@ -48,16 +48,11 @@ O período descrito apresenta continuidades e rupturas
 em relação à conjuntura histórica anterior. Uma dessas 
 continuidades consistiu na`,
     alternatives: [
-      { id: 'A', type: 'text', value: `representação do legislativo com a fórmula do 
-bipartidarismo.` },
-      { id: 'B', type: 'text', value: `detenção de lideranças populares por crimes de 
-subversão.` },
-      { id: 'C', type: 'text', value: `presença de políticos com trajetórias no regime 
-autoritário.` },
-      { id: 'D', type: 'text', value: `prorrogação das restrições advindas dos atos 
-institucionais.` },
-      { id: 'E', type: 'text', value: `estabilidade da economia com o congelamento anual 
-de preços.` },
+      { id: 'A', type: 'text', value: `representação do legislativo com a fórmula do bipartidarismo.` },
+      { id: 'B', type: 'text', value: `detenção de lideranças populares por crimes de subversão.` },
+      { id: 'C', type: 'text', value: `presença de políticos com trajetórias no regime autoritário.` },
+      { id: 'D', type: 'text', value: `prorrogação das restrições advindas dos atos institucionais.` },
+      { id: 'E', type: 'text', value: `estabilidade da economia com o congelamento anual de preços.` },
     ],
     correct: 'C',
     explanation: `O texto descreve a Nova República como um período de reencontro com os governos civis e a democracia, marcado por rupturas em relação ao regime anterior, mas também por continuidades. Uma dessas continuidades foi a permanência, nos cargos e na vida pública, de políticos cujas trajetórias haviam se formado durante o regime militar autoritário, por isso a alternativa C é a correta. O bipartidarismo (A) e as restrições dos atos institucionais (D) foram justamente superados com a redemocratização, caracterizando rupturas. A detenção de lideranças por subversão (B) pertencia ao período ditatorial, e o congelamento anual de preços (E) não garantiu estabilidade econômica, como o próprio texto indica ao citar inflação e hiperinflação.`,
@@ -149,16 +144,11 @@ Ao comparar os textos, as formas de designação dos
 grupos nativos pelos europeus, durante o período 
 analisado, são reveladoras da`,
     alternatives: [
-      { id: 'A', type: 'text', value: `concepção idealizada do território, entendido como 
-geograficamente indiferenciado.` },
-      { id: 'B', type: 'text', value: `percepção corrente de uma ancestralidade comum às 
-populações ameríndias.` },
-      { id: 'C', type: 'text', value: `compreensão etnocêntrica acerca das populações 
-dos territórios conquistados.` },
-      { id: 'D', type: 'text', value: `transposição direta das categorias originadas no 
-imaginário medieval.` },
-      { id: 'E', type: 'text', value: `visão utópica configurada a partir de fantasias de 
-riqueza.` },
+      { id: 'A', type: 'text', value: `concepção idealizada do território, entendido como geograficamente indiferenciado.` },
+      { id: 'B', type: 'text', value: `percepção corrente de uma ancestralidade comum às populações ameríndias.` },
+      { id: 'C', type: 'text', value: `compreensão etnocêntrica acerca das populações dos territórios conquistados.` },
+      { id: 'D', type: 'text', value: `transposição direta das categorias originadas no imaginário medieval.` },
+      { id: 'E', type: 'text', value: `visão utópica configurada a partir de fantasias de riqueza.` },
     ],
     correct: 'C',
     explanation: `O Texto I mostra que os europeus designavam os indígenas por termos genéricos e econômicos, e o Texto II afirma que o conceito de índio foi construído pelos conquistadores, que, indiferentes à diversidade cultural, chamavam da mesma forma povos tão distintos quanto tupinambás e astecas. A comparação revela uma compreensão etnocêntrica, que julgava e nomeava as populações conquistadas a partir dos próprios referenciais europeus, por isso a alternativa C é a correta. A concepção idealizada do território (A) e a visão utópica de riqueza (E) não explicam a homogeneização dos povos nativos. A ancestralidade comum (B) não era reconhecida pelos europeus, e a transposição de categorias do imaginário medieval (D) não corresponde ao processo de generalização descrito.`,
@@ -247,16 +237,11 @@ A abordagem realizada pelo autor sobre a vida social da
 marcante das cidades no Brasil escravista nos séculos 
 XVIII e XIX, que se observa pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `restrição à realização do comércio ambulante por 
-africanos escravizados e seus descendentes.` },
-      { id: 'B', type: 'text', value: `convivência entre homens e mulheres livres, de 
-diversas origens, no pequeno comércio.` },
-      { id: 'C', type: 'text', value: `presença de mulheres negras no comércio de rua de 
-diversos produtos e alimentos.` },
-      { id: 'D', type: 'text', value: `dissolução dos hábitos culturais trazidos do continente 
-de origem dos escravizados.` },
-      { id: 'E', type: 'text', value: `entrada de imigrantes portugueses nas atividades 
-ligadas ao pequeno comércio urbano.` },
+      { id: 'A', type: 'text', value: `restrição à realização do comércio ambulante por africanos escravizados e seus descendentes.` },
+      { id: 'B', type: 'text', value: `convivência entre homens e mulheres livres, de diversas origens, no pequeno comércio.` },
+      { id: 'C', type: 'text', value: `presença de mulheres negras no comércio de rua de diversos produtos e alimentos.` },
+      { id: 'D', type: 'text', value: `dissolução dos hábitos culturais trazidos do continente de origem dos escravizados.` },
+      { id: 'E', type: 'text', value: `entrada de imigrantes portugueses nas atividades ligadas ao pequeno comércio urbano.` },
     ],
     correct: 'C',
     explanation: `O texto descreve a atuação autônoma das mulheres comerciantes e vendedoras ambulantes na África Ocidental, traço que atravessou o Atlântico com o tráfico. Essa característica pode ser relacionada à presença marcante de mulheres negras no comércio de rua das cidades do Brasil escravista dos séculos XVIII e XIX, as chamadas negras de tabuleiro ou ganhadeiras, por isso a alternativa C é a correta. A restrição ao comércio ambulante por escravizados (A) contraria a realidade histórica desse pequeno comércio urbano. A convivência entre homens e mulheres livres (B) e a entrada de imigrantes portugueses (E) não traduzem a herança africana destacada, e a dissolução dos hábitos culturais de origem (D) opõe-se à continuidade apontada pelo autor.`,
@@ -268,34 +253,26 @@ ligadas ao pequeno comércio urbano.` },
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `Quanto mais complicada se tornou a produção 
-industrial, mais numerosos passaram a ser os elementos 
-da indústria que exigiam garantia de fornecimento. 
-Três deles eram de importância fundamental: o trabalho, 
-a terra e o dinheiro. Numa sociedade comercial, esse 
-fornecimento só poderia ser organizado de uma forma: 
-tornando-os disponíveis à compra. Agora eles tinham que 
-ser organizados para a venda no mercado. Isso estava 
-de acordo com a exigência de um sistema de mercado. 
-Sabemos que em um sistema como esse, os lucros só 
-podem ser assegurados se se garante a autorregulação 
-por meio de mercados competitivos interdependentes. 
-POLANYI, K. A grande transformação : as origens de nossa época. 
- Rio de Janeiro: Campus, 2000 (adaptado). 
-A 
-consequência 
-do 
-processo 
-de 
-transformação 
+    text: `Quanto mais complicada se tornou a produção industrial, mais
+numerosos passaram a ser os elementos da indústria que exigiam
+garantia de fornecimento. Três deles eram de importância
+fundamental: o trabalho, a terra e o dinheiro. Numa sociedade
+comercial, esse fornecimento só poderia ser organizado de uma
+forma: tornando-os disponíveis à compra. Agora eles tinham que
+ser organizados para a venda no mercado. Isso estava de acordo
+com a exigência de um sistema de mercado. Sabemos que em um
+sistema como esse, os lucros só podem ser assegurados se se
+garante a autorregulação por meio de mercados competitivos
+interdependentes. POLANYI, K. A grande transformação : as
+origens de nossa época. Rio de Janeiro: Campus, 2000
+(adaptado). A consequência do processo de transformação
 socioeconômica abordado no texto é a`,
     alternatives: [
       { id: 'A', type: 'text', value: `expansão das terras comunais.` },
       { id: 'B', type: 'text', value: `limitação do mercado como meio de especulação.` },
       { id: 'C', type: 'text', value: `consolidação da força de trabalho como mercadoria.` },
       { id: 'D', type: 'text', value: `diminuição do comércio como efeito da industrialização.` },
-      { id: 'E', type: 'text', value: `adequação do dinheiro como elemento padrão 
-das transações.` },
+      { id: 'E', type: 'text', value: `adequação do dinheiro como elemento padrão das transações.` },
     ],
     correct: 'C',
     explanation: `Polanyi descreve a passagem para a sociedade de mercado, em que trabalho, terra e dinheiro passaram a ser organizados para a venda, tornando-se disponíveis à compra como qualquer outra mercadoria. A consequência central desse processo foi a consolidação da força de trabalho como mercadoria, submetida à lógica da oferta e da procura em um sistema autorregulável, por isso a alternativa C é a correta. A expansão das terras comunais (A) contraria a privatização característica da sociedade de mercado. A limitação do mercado como meio de especulação (B) e a diminuição do comércio (D) opõem-se à ampliação da mercantilização descrita, e a adequação do dinheiro como padrão das transações (E) não capta a transformação essencial, que é a mercantilização do próprio trabalho.`,
@@ -486,16 +463,10 @@ A liberdade de escolha na civilização ocidental, de acordo com a análise do t
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `Parceria Transpacífica 
-Japão 
-Vietnã 
-Cingapura 
-Brunei Darussalam 
-Malásia 
-Austrália 
-Nova Zelândia 
-Dentro das atuais redes produtivas, o referido bloco apresenta composição estratégica por se tratar de um conjunto 
-de países com`,
+    text: `Parceria Transpacífica Japão Vietnã Cingapura Brunei
+Darussalam Malásia Austrália Nova Zelândia Dentro das atuais
+redes produtivas, o referido bloco apresenta composição
+estratégica por se tratar de um conjunto de países com`,
     images: ['/enem/2016/images/enem_2016_d1_q16.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `elevado padrão social.` },
@@ -558,12 +529,7 @@ ela promove`,
       { id: 'B', type: 'text', value: `surgimento de conflitos de caráter diplomático.` },
       { id: 'C', type: 'text', value: `diminuição dos lucros na produção de energia.` },
       { id: 'D', type: 'text', value: `desigualdade na distribuição do impacto ecológico.` },
-      { id: 'E', type: 'text', value: `decréscimo 
-dos 
-índices 
-de 
-desenvolvimento 
-econômico.` },
+      { id: 'E', type: 'text', value: `decréscimo dos índices de desenvolvimento econômico.` },
     ],
     correct: 'D',
     explanation: `O texto expõe o mecanismo de compensação definido no Protocolo de Quioto, pelo qual países ou empresas que reduzem suas emissões abaixo das metas podem vender créditos a quem não consegue cumpri-las. As posições contrárias a essa estratégia apontam que ela promove a desigualdade na distribuição do impacto ecológico, pois permite que os maiores poluidores continuem emitindo ao comprar créditos, por isso a alternativa D é a correta. A retração nos níveis de consumo (A) e o decréscimo do desenvolvimento econômico (E) não são o foco da crítica. O surgimento de conflitos diplomáticos (B) e a diminuição dos lucros na produção de energia (C) não traduzem a objeção central, que recai sobre a transferência desigual da responsabilidade ambiental.`,
@@ -744,8 +710,7 @@ imprescindíveis, respectivamente,`,
       { id: 'B', type: 'text', value: `a organização de eleições e o movimento anarquista.` },
       { id: 'C', type: 'text', value: `a obtenção do consenso e a mobilização das minorias.` },
       { id: 'D', type: 'text', value: `a fragmentação da participação e a desobediência civil.` },
-      { id: 'E', type: 'text', value: `a imposição de resistência e o monitoramento da 
-liberdade.` },
+      { id: 'E', type: 'text', value: `a imposição de resistência e o monitoramento da liberdade.` },
     ],
     correct: 'C',
     explanation: `O texto de Iris Marion Young distingue a democracia deliberativa, que confia no debate racional para chegar a acordos satisfatórios a todos, da democracia ativista, que desconfia desses acordos por entender que as desigualdades favorecem os mais poderosos. As duas concepções tratam como imprescindíveis, respectivamente, a obtenção do consenso e a mobilização das minorias por meio da oposição crítica, por isso a alternativa C é a correta. A decisão da maioria e a uniformização de direitos (A) não expressam o núcleo de cada concepção. A organização de eleições e o anarquismo (B), a fragmentação da participação e a desobediência civil (D) e a imposição de resistência e o monitoramento da liberdade (E) não correspondem à relação entre consenso deliberado e mobilização ativista descrita.`,
@@ -843,14 +808,10 @@ Uma razão para a adoção da política de imigração
 mencionada no texto foi o(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `receio do controle sionista sobre a economia nacional.` },
-      { id: 'B', type: 'text', value: `reserva de postos de trabalho para a mão de obra 
-local.` },
-      { id: 'C', type: 'text', value: `oposição do clero católico à expansão de novas 
-religiões.` },
-      { id: 'D', type: 'text', value: `apoio da diplomacia varguista às opiniões dos 
-líderes árabes.` },
-      { id: 'E', type: 'text', value: `simpatia de membros da burocracia pelo projeto 
-totalitário alemão.` },
+      { id: 'B', type: 'text', value: `reserva de postos de trabalho para a mão de obra local.` },
+      { id: 'C', type: 'text', value: `oposição do clero católico à expansão de novas religiões.` },
+      { id: 'D', type: 'text', value: `apoio da diplomacia varguista às opiniões dos líderes árabes.` },
+      { id: 'E', type: 'text', value: `simpatia de membros da burocracia pelo projeto totalitário alemão.` },
     ],
     correct: 'E',
     explanation: `O texto relata que, a partir de 1935 e durante o Estado Novo, o governo brasileiro dificultou a entrada de judeus, chegando a proibir vistos a pessoas de origem semita por meio de circular secreta. Uma razão para essa política foi a simpatia de membros da burocracia pelo projeto totalitário alemão, cujo antissemitismo influenciava setores do Estado varguista, por isso a alternativa E é a correta. O receio do controle sionista sobre a economia (A) e o apoio da diplomacia a líderes árabes (D) não explicam a medida discriminatória. A reserva de postos de trabalho para a mão de obra local (B) e a oposição do clero católico a novas religiões (C) não correspondem ao motivo apontado, ligado à adesão a ideias nazistas.`,
@@ -873,16 +834,11 @@ precipícios, cães, nada deixando ao arbítrio dos sentidos.
 LAÉRCIO, D. Vidas e sentenças dos filósofos ilustres . Brasília: Editora UnB, 1988. 
 O ceticismo, conforme sugerido no texto, caracteriza-se por:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Desprezar quaisquer convenções e obrigações 
-da sociedade.` },
-      { id: 'B', type: 'text', value: `Atingir o verdadeiro prazer como o princípio e o 
-fim da vida feliz.` },
-      { id: 'C', type: 'text', value: `Defender a indiferença e a impossibilidade de 
-obter alguma certeza.` },
-      { id: 'D', type: 'text', value: `Aceitar o determinismo e ocupar-se com a 
-esperança transcendente.` },
-      { id: 'E', type: 'text', value: `Agir de forma virtuosa e sábia a fim de enaltecer o 
-homem bom e belo.` },
+      { id: 'A', type: 'text', value: `Desprezar quaisquer convenções e obrigações da sociedade.` },
+      { id: 'B', type: 'text', value: `Atingir o verdadeiro prazer como o princípio e o fim da vida feliz.` },
+      { id: 'C', type: 'text', value: `Defender a indiferença e a impossibilidade de obter alguma certeza.` },
+      { id: 'D', type: 'text', value: `Aceitar o determinismo e ocupar-se com a esperança transcendente.` },
+      { id: 'E', type: 'text', value: `Agir de forma virtuosa e sábia a fim de enaltecer o homem bom e belo.` },
     ],
     correct: 'C',
     explanation: `O texto atribui a Pirro a tese de que nada é nobre ou vergonhoso, justo ou injusto em si, pois os homens agem apenas segundo a lei e o costume, sem poder afirmar que algo seja mais isto do que aquilo. O ceticismo caracteriza-se, assim, por defender a indiferença diante das coisas e a impossibilidade de obter alguma certeza, suspendendo o juízo sobre a verdade, por isso a alternativa C é a correta. Desprezar quaisquer convenções sociais (A) contraria a aceitação da lei e do costume como guias práticos. Atingir o verdadeiro prazer (B) corresponde ao epicurismo, aceitar o determinismo e a esperança transcendente (D) a outras correntes, e agir virtuosamente para enaltecer o homem belo e bom (E) a ideais que o cético não assume.`,
@@ -907,21 +863,11 @@ Estudos Avançados (USP) , n. 47, 2003 (adaptado).
 Uma política governamental que contribui para viabilizar a 
 função social da cidade, nos moldes indicados no texto, é a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `qualificação 
-de 
-serviços 
-públicos 
-em 
-bairros 
-periféricos.` },
-      { id: 'B', type: 'text', value: `implantação de centros comerciais em eixos 
-rodoviários.` },
-      { id: 'C', type: 'text', value: `proibição de construções residenciais em regiões 
-íngremes.` },
-      { id: 'D', type: 'text', value: `disseminação de equipamentos culturais em locais 
-turísticos.` },
-      { id: 'E', type: 'text', value: `desregulamentação do setor imobiliário em áreas 
-favelizadas.` },
+      { id: 'A', type: 'text', value: `qualificação de serviços públicos em bairros periféricos.` },
+      { id: 'B', type: 'text', value: `implantação de centros comerciais em eixos rodoviários.` },
+      { id: 'C', type: 'text', value: `proibição de construções residenciais em regiões íngremes.` },
+      { id: 'D', type: 'text', value: `disseminação de equipamentos culturais em locais turísticos.` },
+      { id: 'E', type: 'text', value: `desregulamentação do setor imobiliário em áreas favelizadas.` },
     ],
     correct: 'A',
     explanation: `O texto define a função social da cidade como a organização do espaço que contempla todos os moradores, e não apenas os incluídos no mercado formal, rompendo com a tradição de divisão entre incluídos e excluídos. Uma política que viabiliza essa função é a qualificação de serviços públicos em bairros periféricos, pois leva infraestrutura e direitos às áreas historicamente excluídas, por isso a alternativa A é a correta. A implantação de centros comerciais em eixos rodoviários (B) e a disseminação de equipamentos culturais em locais turísticos (D) privilegiam a lógica do mercado. A proibição de construções em regiões íngremes (C) e a desregulamentação imobiliária em áreas favelizadas (E) não promovem a inclusão social defendida no texto.`,
@@ -1008,34 +954,24 @@ para o(a)`,
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `A sociologia ainda não ultrapassou a era das 
-construções e das sínteses filosóficas. Em vez de 
-assumir a tarefa de lançar luz sobre uma parcela restrita 
-do campo social, ela prefere buscar as brilhantes 
-generalidades em que todas as questões são levantadas 
-sem 
-que 
-nenhuma 
-seja 
-expressamente 
-tratada. 
-Não é com exames sumários e por meio de intuições 
-rápidas que se pode chegar a descobrir as leis de uma 
-realidade tão complexa. Sobretudo, generalizações às 
-vezes tão amplas e tão apressadas não são suscetíveis 
-de nenhum tipo de prova. 
-DURKHEIM, E. O suicídio : estudo de sociologia. São Paulo: Martins Fontes, 2000. 
-O texto expressa o esforço de Émile Durkheim em 
+    text: `A sociologia ainda não ultrapassou a era das construções e das
+sínteses filosóficas. Em vez de assumir a tarefa de lançar luz
+sobre uma parcela restrita do campo social, ela prefere buscar
+as brilhantes generalidades em que todas as questões são
+levantadas sem que nenhuma seja expressamente tratada. Não é
+com exames sumários e por meio de intuições rápidas que se
+pode chegar a descobrir as leis de uma realidade tão complexa.
+Sobretudo, generalizações às vezes tão amplas e tão apressadas
+não são suscetíveis de nenhum tipo de prova. DURKHEIM, E. O
+suicídio : estudo de sociologia. São Paulo: Martins Fontes,
+2000. O texto expressa o esforço de Émile Durkheim em
 construir uma sociologia com base na`,
     alternatives: [
       { id: 'A', type: 'text', value: `vinculação com a filosofia como saber unificado.` },
       { id: 'B', type: 'text', value: `reunião de percepções intuitivas para demonstração.` },
-      { id: 'C', type: 'text', value: `formulação de hipóteses subjetivas sobre a vida 
-social.` },
-      { id: 'D', type: 'text', value: `adesão aos padrões de investigação típicos das
-ciências naturais.` },
-      { id: 'E', type: 'text', value: `incorporação de um conhecimento alimentado pelo 
-engajamento político.` },
+      { id: 'C', type: 'text', value: `formulação de hipóteses subjetivas sobre a vida social.` },
+      { id: 'D', type: 'text', value: `adesão aos padrões de investigação típicos das ciências naturais.` },
+      { id: 'E', type: 'text', value: `incorporação de um conhecimento alimentado pelo engajamento político.` },
     ],
     correct: 'D',
     explanation: `Durkheim critica a sociologia ainda presa a construções e sínteses filosóficas, que se contentam com generalidades e intuições rápidas em vez de tratar de modo rigoroso parcelas restritas da realidade social. Seu esforço é construir uma sociologia baseada na adesão aos padrões de investigação típicos das ciências naturais, com observação metódica e análise objetiva dos fatos sociais, por isso a alternativa D é a correta. A vinculação com a filosofia como saber unificado (A) é justamente o que ele quer superar. A reunião de percepções intuitivas (B) e a formulação de hipóteses subjetivas (C) opõem-se ao rigor pretendido, e a incorporação de conhecimento ligado ao engajamento político (E) contraria a objetividade científica defendida.`,
@@ -1054,17 +990,11 @@ segregacionismo racial. Na imagem, fuzileiros navais
 fazem valer a “lei do passe” que regulamentava o(a)`,
     images: ['/enem/2016/images/enem_2016_d1_q33.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `concentração fundiária, impedindo os negros de 
-tomar posse legítima do uso da terra.` },
-      { id: 'B', type: 'text', value: `boicote econômico, proibindo os negros de consumir 
-produtos ingleses sem resistência armada.` },
-      { id: 'C', type: 'text', value: `sincretismo religioso, vetando os ritos sagrados dos 
-negros nas cerimônias oficiais do Estado.` },
-      { id: 'D', type: 'text', value: `controle sobre a movimentação, desautorizando 
-os negros a transitar em determinadas áreas das 
-cidades.` },
-      { id: 'E', type: 'text', value: `exclusão do mercado de trabalho, negando à 
-população negra o acesso aos bens de consumo.` },
+      { id: 'A', type: 'text', value: `concentração fundiária, impedindo os negros de tomar posse legítima do uso da terra.` },
+      { id: 'B', type: 'text', value: `boicote econômico, proibindo os negros de consumir produtos ingleses sem resistência armada.` },
+      { id: 'C', type: 'text', value: `sincretismo religioso, vetando os ritos sagrados dos negros nas cerimônias oficiais do Estado.` },
+      { id: 'D', type: 'text', value: `controle sobre a movimentação, desautorizando os negros a transitar em determinadas áreas das cidades.` },
+      { id: 'E', type: 'text', value: `exclusão do mercado de trabalho, negando à população negra o acesso aos bens de consumo.` },
     ],
     correct: 'D',
     explanation: `A imagem mostra fuzileiros navais aplicando a lei do passe, instrumento do regime de segregação racial do Apartheid sul-africano, vigente entre 1948 e 1994. Essa lei regulamentava o controle sobre a movimentação da população negra, exigindo documentos que a impediam de transitar livremente por determinadas áreas das cidades, por isso a alternativa D é a correta. A concentração fundiária (A) e a exclusão do mercado de trabalho (E) resultavam de outras medidas do regime, não da lei do passe. O boicote econômico (B) e o sincretismo religioso (C) não correspondem à função de restringir o deslocamento dos negros no espaço urbano, que é o objeto dessa legislação.`,
@@ -1092,8 +1022,7 @@ regra, eles viam o meio natural como`,
       { id: 'B', type: 'text', value: `dádiva divina para o desenvolvimento industrial.` },
       { id: 'C', type: 'text', value: `paisagem privilegiada para a valorização fundiária.` },
       { id: 'D', type: 'text', value: `limitação topográfica para a promoção da urbanização.` },
-      { id: 'E', type: 'text', value: `obstáculo climático para o estabelecimento da 
-civilização.` },
+      { id: 'E', type: 'text', value: `obstáculo climático para o estabelecimento da civilização.` },
     ],
     correct: 'A',
     explanation: `O texto de Pádua mostra que os críticos ambientais brasileiros dos séculos XVIII e XIX não louvavam a beleza da natureza por si mesma, mas a valorizavam por seu potencial econômico, interpretando sua destruição como atraso e ignorância. Eles viam o meio natural, portanto, como ferramenta essencial para o avanço da nação, isto é, um recurso a ser bem aproveitado para o progresso do país, por isso a alternativa A é a correta. A dádiva divina para o desenvolvimento industrial (B) e a paisagem para a valorização fundiária (C) não traduzem esse pragmatismo nacional. Vê-lo como limitação topográfica à urbanização (D) ou obstáculo climático à civilização (E) contraria a valorização do meio natural como potencial a ser explorado.`,
@@ -1215,25 +1144,18 @@ segmentos da população, como a`,
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `Pesca industrial provoca destruição na África 
-O 
-súbito 
-desaparecimento 
-do 
-bacalhau 
-dos 
-grandes cardumes da Terra Nova, no final do século XX 
-- o que ninguém havia previsto -, teve o efeito de 
-um eletrochoque planetário. Lançada pelos bascos 
-no século XV, a pesca e depois a sobrepesca desse 
-grande peixe de água fria levaram ao impensável. 
-Ao Canadá o bacalhau nunca mais voltou. E o que 
-ocorreu no Atlântico Norte está acontecendo em outros 
-mares. Os maiores navios do mundo seguem agora 
-em direção ao sul, até os limites da Antártida, para 
-competir pelos estoques remanescentes. 
-MORA, J. S. Disponível em: www.diplomatique.com.br. Acesso em: 14 jan. 2014. 
-O problema exposto no texto jornalístico relaciona-se à`,
+    text: `Pesca industrial provoca destruição na África O súbito
+desaparecimento do bacalhau dos grandes cardumes da Terra
+Nova, no final do século XX - o que ninguém havia previsto -,
+teve o efeito de um eletrochoque planetário. Lançada pelos
+bascos no século XV, a pesca e depois a sobrepesca desse
+grande peixe de água fria levaram ao impensável. Ao Canadá o
+bacalhau nunca mais voltou. E o que ocorreu no Atlântico Norte
+está acontecendo em outros mares. Os maiores navios do mundo
+seguem agora em direção ao sul, até os limites da Antártida,
+para competir pelos estoques remanescentes. MORA, J. S.
+Disponível em: www.diplomatique.com.br. Acesso em: 14 jan.
+2014. O problema exposto no texto jornalístico relaciona-se à`,
     alternatives: [
       { id: 'A', type: 'text', value: `insustentabilidade do modelo de produção e consumo.` },
       { id: 'B', type: 'text', value: `fragilidade ecológica de ecossistemas costeiros.` },
@@ -1270,14 +1192,10 @@ essas transformações pelo(a)`,
     images: null,
     alternatives: [
       { id: 'A', type: 'text', value: `crise bancária e o fortalecimento do capital industrial.` },
-      { id: 'B', type: 'text', value: `inovação toyotista e a regularização do trabalho 
-formal.` },
-      { id: 'C', type: 'text', value: `impacto da tecnologia e as modificações na 
-estrutura produtiva.` },
-      { id: 'D', type: 'text', value: `emergência da globalização e a expansão do 
-setor secundário.` },
-      { id: 'E', type: 'text', value: `diminuição do tempo de trabalho e a necessidade de 
-diploma superior.` },
+      { id: 'B', type: 'text', value: `inovação toyotista e a regularização do trabalho formal.` },
+      { id: 'C', type: 'text', value: `impacto da tecnologia e as modificações na estrutura produtiva.` },
+      { id: 'D', type: 'text', value: `emergência da globalização e a expansão do setor secundário.` },
+      { id: 'E', type: 'text', value: `diminuição do tempo de trabalho e a necessidade de diploma superior.` },
     ],
     correct: 'C',
     explanation: `Francisco de Oliveira descreve como a mundialização aumentou a produtividade do trabalho a partir da forma técnica molecular-digital, mantendo, porém, a má distribuição de renda e combinando tecnologia avançada com o uso puro da força de trabalho. É possível explicar essas transformações no emprego e na renda pelo impacto da tecnologia e as modificações na estrutura produtiva, que elevam a produtividade sem necessariamente melhorar as condições de trabalho, por isso a alternativa C é a correta. A crise bancária e o fortalecimento do capital industrial (A) não constam do argumento. A inovação toyotista com regularização do trabalho formal (B), a expansão do setor secundário (D) e a diminuição do tempo de trabalho com exigência de diploma (E) contrariam o quadro de precarização descrito.`,
@@ -1343,20 +1261,11 @@ Acesso em: 17 fev. 2013 (adaptado).
 Em relação à internet, a perspectiva defendida pelo autor 
 ressalta um paradoxo que se caracteriza por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `associar uma experiência superficial à abundância 
-de informações.` },
-      { id: 'B', type: 'text', value: `condicionar 
-uma 
-capacidade 
-individual 
-à 
-desorganização da rede.` },
-      { id: 'C', type: 'text', value: `agregar uma tendência contemporânea à aceleração 
-do tempo.` },
-      { id: 'D', type: 'text', value: `aproximar uma mídia inovadora à passividade da 
-recepção.` },
-      { id: 'E', type: 'text', value: `equiparar uma ferramenta digital à tecnologia 
-analógica.` },
+      { id: 'A', type: 'text', value: `associar uma experiência superficial à abundância de informações.` },
+      { id: 'B', type: 'text', value: `condicionar uma capacidade individual à desorganização da rede.` },
+      { id: 'C', type: 'text', value: `agregar uma tendência contemporânea à aceleração do tempo.` },
+      { id: 'D', type: 'text', value: `aproximar uma mídia inovadora à passividade da recepção.` },
+      { id: 'E', type: 'text', value: `equiparar uma ferramenta digital à tecnologia analógica.` },
     ],
     correct: 'A',
     explanation: `Nicholas Carr observa que, apesar de a internet oferecer acesso rápido a uma vasta quantidade de informações, ele próprio perdeu a capacidade de concentração e de leitura prolongada, dispersando-se após poucas páginas. O paradoxo que o autor ressalta consiste em associar uma experiência superficial à abundância de informações, já que o excesso de dados disponíveis vem acompanhado de leitura mais rasa e fragmentada, por isso a alternativa A é a correta. Condicionar a capacidade individual à desorganização da rede (B) não corresponde à crítica, pois a rede é eficiente. Agregar a aceleração do tempo (C), aproximar a mídia inovadora da passividade (D) e equiparar o digital ao analógico (E) não captam a oposição entre abundância e superficialidade.`,
@@ -1466,16 +1375,11 @@ nos olhos ou na pele, a lavagem da região atingida com
 água é ineficaz porque a`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `reação entre etanol e água libera calor, intensificando 
-o ardor.` },
-      { id: 'B', type: 'text', value: `solubilidade do princípio ativo em água é muito baixa, 
-dificultando a sua remoção.` },
-      { id: 'C', type: 'text', value: `permeabilidade da água na pele é muito alta, não 
-permitindo a remoção do princípio ativo.` },
-      { id: 'D', type: 'text', value: `solubilização do óleo em água causa um maior 
-espalhamento além das áreas atingidas.` },
-      { id: 'E', type: 'text', value: `ardência faz evaporar rapidamente a água, não 
-permitindo que haja contato entre o óleo e o solvente.` },
+      { id: 'A', type: 'text', value: `reação entre etanol e água libera calor, intensificando o ardor.` },
+      { id: 'B', type: 'text', value: `solubilidade do princípio ativo em água é muito baixa, dificultando a sua remoção.` },
+      { id: 'C', type: 'text', value: `permeabilidade da água na pele é muito alta, não permitindo a remoção do princípio ativo.` },
+      { id: 'D', type: 'text', value: `solubilização do óleo em água causa um maior espalhamento além das áreas atingidas.` },
+      { id: 'E', type: 'text', value: `ardência faz evaporar rapidamente a água, não permitindo que haja contato entre o óleo e o solvente.` },
     ],
     correct: 'B',
     explanation: `A capsaicina, princípio ativo da pimenta, é uma molécula de baixa polaridade (lipofílica), enquanto a água é um solvente polar. Pelo princípio "semelhante dissolve semelhante", solventes polares dissolvem mal substâncias apolares, de modo que a solubilidade da capsaicina em água é muito baixa. Por isso a lavagem com água não consegue remover eficazmente o princípio ativo da pele ou dos olhos, e o ardor persiste. Portanto, a lavagem é ineficaz porque a solubilidade do princípio ativo em água é muito baixa, dificultando sua remoção (alternativa B).`,
@@ -1626,32 +1530,22 @@ A presença de íons bário solúveis na amostra é indicada pela`,
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `Os feromônios são substâncias utilizadas na comunicação entre indivíduos de uma espécie. O primeiro feromônio 
-isolado de um inseto foi o bombicol, substância produzida pela mariposa do bicho-da-seda. 
-OH 
-Bombicol 
-O uso de feromônios em ações de controle de insetos-praga está de acordo com o modelo preconizado para a 
-agricultura do futuro. São agentes altamente específicos e seus compostos químicos podem ser empregados em 
-determinados cultivos, conforme ilustrado no quadro. 
-Substância 
-Inseto 
-Cultivo 
-Milho 
-Sitophilus spp 
-OH 
-O 
-O 
-NH 
-Morango 
-Anthonomus rubi 
-OH 
-Grapholita molesta 
-OH 
-Frutas 
-OCOCH 3 
-FERREIRA, J. T. B.; ZARBIN, P. H. G. Amor ao primeiro odor: a comunicação química entre os insetos. Química Nova na Escola , n. 7, maio 1998 (adaptado). 
-Considerando essas estruturas químicas, o tipo de estereoisomeria apresentada pelo bombicol e também apresentada 
-pelo feromônio utilizado no controle do inseto`,
+    text: `Os feromônios são substâncias utilizadas na comunicação entre
+indivíduos de uma espécie. O primeiro feromônio isolado de um
+inseto foi o bombicol, substância produzida pela mariposa do
+bicho-da-seda. OH Bombicol O uso de feromônios em ações de
+controle de insetos-praga está de acordo com o modelo
+preconizado para a agricultura do futuro. São agentes
+altamente específicos e seus compostos químicos podem ser
+empregados em determinados cultivos, conforme ilustrado no
+quadro. Substância Inseto Cultivo Milho Sitophilus spp OH O O
+NH Morango Anthonomus rubi OH Grapholita molesta OH Frutas
+OCOCH 3 FERREIRA, J. T. B.; ZARBIN, P. H. G. Amor ao primeiro
+odor: a comunicação química entre os insetos. Química Nova na
+Escola , n. 7, maio 1998 (adaptado). Considerando essas
+estruturas químicas, o tipo de estereoisomeria apresentada
+pelo bombicol e também apresentada pelo feromônio utilizado no
+controle do inseto`,
     images: ['/enem/2016/images/enem_2016_d1_q52_1.jpg', '/enem/2016/images/enem_2016_d1_q52_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Sitophilus spp .` },
@@ -1670,27 +1564,18 @@ pelo feromônio utilizado no controle do inseto`,
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `O esquema representa, de maneira simplificada, o 
-processo de produção de etanol utilizando milho como 
-matéria-prima. 
-Levedura 
-CO 2 
-Milho 
-Etanol 
-Água 
-Hidrólise 
-Fermentação 
-A etapa de hidrólise na produção de etanol a partir do 
-milho é fundamental para que`,
+    text: `O esquema representa, de maneira simplificada, o processo de
+produção de etanol utilizando milho como matéria-prima.
+Levedura CO 2 Milho Etanol Água Hidrólise Fermentação A etapa
+de hidrólise na produção de etanol a partir do milho é
+fundamental para que`,
     images: ['/enem/2016/images/enem_2016_d1_q53.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `a glicose seja convertida em sacarose.` },
       { id: 'B', type: 'text', value: `as enzimas dessa planta sejam ativadas.` },
       { id: 'C', type: 'text', value: `a maceração favoreça a solubilização em água.` },
-      { id: 'D', type: 'text', value: `o amido seja transformado em substratos utilizáveis 
-pela levedura.` },
-      { id: 'E', type: 'text', value: `os grãos com diferentes composições químicas 
-sejam padronizados.` },
+      { id: 'D', type: 'text', value: `o amido seja transformado em substratos utilizáveis pela levedura.` },
+      { id: 'E', type: 'text', value: `os grãos com diferentes composições químicas sejam padronizados.` },
     ],
     correct: 'D',
     explanation: `O milho armazena energia na forma de amido, um polissacarídeo que a levedura não fermenta diretamente. A etapa de hidrólise quebra o amido em moléculas menores, como a glicose, que são os substratos efetivamente aproveitados pela levedura na fermentação. Sem essa transformação, a levedura não teria açúcares disponíveis para converter em etanol e gás carbônico. Portanto, a hidrólise é fundamental para que o amido seja transformado em substratos utilizáveis pela levedura (alternativa D).`,
@@ -1740,61 +1625,23 @@ mais próximo de`,
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `A Figura 1 apresenta o gráfico da intensidade, 
-em decibéis (dB), da onda sonora emitida por um 
-alto-falante, que está em repouso, e medida por um 
-microfone em função da frequência da onda para 
-diferentes distâncias: 3 mm, 25 mm, 51 mm e 60 mm. 
-A Figura 2 apresenta um diagrama com a indicação das 
-diversas faixas do espectro de frequência sonora para o 
-modelo de alto-falante utilizado neste experimento. 
-Figura 1 
-Resposta de Frequência 
-+20 
-3 mm 
-+10 
-25 mm 
-51 mm 
-0 
-dB 
-60 mm 
-− 10 
-− 20 
-2 
-3 4 5 6 7 9 
-8 
-2 
-3 4 5 6 7 9 
-8 
-20 
-50 
-100 
-1 000 
-10 000 
-20 000 
-Hz 
-Disponível em: www.batera.com.br. Acesso em: 8 fev. 2015. 
-Figura 2 
-Faixas do espectro de frequência sonora 
-Subgrave 
-Grave 
-Média 
-baixa 
-Media 
-Media 
-alta 
-Aguda 
-20 Hz 
-63 Hz 
-250 Hz 
-640 Hz 
-2,5 kHz 
-5 kHz 
-20 kHz 
-Disponível em: www.somsc.com.br. Acesso em: 2 abr. 2015. 
-Relacionando as informações presentes nas figuras 1 e 2, 
-como a intensidade sonora percebida é afetada pelo 
-aumento da distância do microfone ao alto-falante?`,
+    text: `A Figura 1 apresenta o gráfico da intensidade, em decibéis
+(dB), da onda sonora emitida por um alto-falante, que está em
+repouso, e medida por um microfone em função da frequência da
+onda para diferentes distâncias: 3 mm, 25 mm, 51 mm e 60 mm. A
+Figura 2 apresenta um diagrama com a indicação das diversas
+faixas do espectro de frequência sonora para o modelo de
+alto-falante utilizado neste experimento. Figura 1 Resposta de
+Frequência +20 3 mm +10 25 mm 51 mm 0 dB 60 mm − 10 − 20 2 3 4
+5 6 7 9 8 2 3 4 5 6 7 9 8 20 50 100 1 000 10 000 20 000 Hz
+Disponível em: www.batera.com.br. Acesso em: 8 fev. 2015.
+Figura 2 Faixas do espectro de frequência sonora Subgrave
+Grave Média baixa Media Media alta Aguda 20 Hz 63 Hz 250 Hz
+640 Hz 2,5 kHz 5 kHz 20 kHz Disponível em: www.somsc.com.br.
+Acesso em: 2 abr. 2015. Relacionando as informações presentes
+nas figuras 1 e 2, como a intensidade sonora percebida é
+afetada pelo aumento da distância do microfone ao
+alto-falante?`,
     images: ['/enem/2016/images/enem_2016_d1_q55.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Aumenta na faixa das frequências médias.` },
@@ -1861,21 +1708,11 @@ A distância e velocidade da mariposa, na situação descrita,
 seriam detectadas pelo sistema de um morcego por quais 
 alterações nas características dos pulsos ultrassônicos?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Intensidade diminuída, o tempo de retorno aumentado 
-e a frequência percebida diminuída.` },
-      { id: 'B', type: 'text', value: `Intensidade aumentada, o tempo de retorno diminuído 
-e a frequência percebida diminuída.` },
-      { id: 'C', type: 'text', value: `Intensidade diminuída, o tempo de retorno diminuído 
-e a frequência percebida aumentada.` },
-      { id: 'D', type: 'text', value: `Intensidade diminuída, o tempo de retorno aumentado 
-e a frequência percebida aumentada.` },
-      { id: 'E', type: 'text', value: `Intensidade 
-aumentada, 
-o 
-tempo 
-de 
-retorno 
-aumentado e a frequência percebida aumentada.` },
+      { id: 'A', type: 'text', value: `Intensidade diminuída, o tempo de retorno aumentado e a frequência percebida diminuída.` },
+      { id: 'B', type: 'text', value: `Intensidade aumentada, o tempo de retorno diminuído e a frequência percebida diminuída.` },
+      { id: 'C', type: 'text', value: `Intensidade diminuída, o tempo de retorno diminuído e a frequência percebida aumentada.` },
+      { id: 'D', type: 'text', value: `Intensidade diminuída, o tempo de retorno aumentado e a frequência percebida aumentada.` },
+      { id: 'E', type: 'text', value: `Intensidade aumentada, o tempo de retorno aumentado e a frequência percebida aumentada.` },
     ],
     correct: 'A',
     explanation: `Como a mariposa se afasta do morcego, cada pulso percorre um caminho de ida e volta cada vez maior, de modo que o tempo de retorno dos ecos aumenta. A energia sonora se espalha por uma área maior ao percorrer distâncias maiores, fazendo a intensidade do eco detectado diminuir. Além disso, pelo efeito Doppler, o afastamento do refletor reduz a frequência percebida nos ecos. Portanto, o morcego detecta intensidade diminuída, tempo de retorno aumentado e frequência percebida diminuída (alternativa A).`,
@@ -1921,40 +1758,25 @@ foram obtidos a partir de 142,5 g de brometo de metila e
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `Por apresentar significativa resistividade elétrica, o 
-grafite pode ser utilizado para simular resistores elétricos 
-em circuitos desenhados no papel, com o uso de lápis e 
-lapiseiras. Dependendo da espessura e do comprimento 
-das linhas desenhadas, é possível determinar a resistência 
-elétrica de cada traçado produzido. No esquema foram 
-utilizados três tipos de lápis diferentes (2H, HB e 6B) para 
-efetuar três traçados distintos. 
-2H 
-HB 
-6B 
-Munido dessas informações, um estudante pegou 
-uma folha de papel e fez o desenho de um sorvete de 
-casquinha utilizando-se desses traçados. Os valores 
-encontrados nesse experimento, para as resistências 
-elétricas (R), medidas com o auxílio de um ohmímetro 
-ligado nas extremidades das resistências, são mostrados 
-na figura. Verificou-se que os resistores obedeciam à 
-Lei de Ohm. 
-5 kΩ 
-A 
-B 
-20 kΩ 
-10 kΩ 
-10 kΩ 
-C 
-Na sequência, conectou o ohmímetro nos terminais 
-A e B do desenho e, em seguida, conectou-o nos terminais 
-B e C, anotando as leituras R AB e R­ BC , respectivamente. 
-R AB 
-R BC 
-, qual resultado o estudante 
-Ao estabelecer a razão 
-obteve?`,
+    text: `Por apresentar significativa resistividade elétrica, o grafite
+pode ser utilizado para simular resistores elétricos em
+circuitos desenhados no papel, com o uso de lápis e
+lapiseiras. Dependendo da espessura e do comprimento das
+linhas desenhadas, é possível determinar a resistência
+elétrica de cada traçado produzido. No esquema foram
+utilizados três tipos de lápis diferentes (2H, HB e 6B) para
+efetuar três traçados distintos. 2H HB 6B Munido dessas
+informações, um estudante pegou uma folha de papel e fez o
+desenho de um sorvete de casquinha utilizando-se desses
+traçados. Os valores encontrados nesse experimento, para as
+resistências elétricas (R), medidas com o auxílio de um
+ohmímetro ligado nas extremidades das resistências, são
+mostrados na figura. Verificou-se que os resistores obedeciam
+à Lei de Ohm. 5 kΩ A B 20 kΩ 10 kΩ 10 kΩ C Na sequência,
+conectou o ohmímetro nos terminais A e B do desenho e, em
+seguida, conectou-o nos terminais B e C, anotando as leituras
+R AB e R­ BC , respectivamente. R AB R BC , qual resultado o
+estudante Ao estabelecer a razão obteve?`,
     images: ['/enem/2016/images/enem_2016_d1_q59_1.jpg', '/enem/2016/images/enem_2016_d1_q59_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1` },
@@ -2016,10 +1838,8 @@ controlam a densidade dos(as)`,
       { id: 'A', type: 'text', value: `algas, estimulando seu crescimento.` },
       { id: 'B', type: 'text', value: `cracas, predando especialmente animais pequenos.` },
       { id: 'C', type: 'text', value: `mexilhões, predando especialmente animais pequenos.` },
-      { id: 'D', type: 'text', value: `quatro espécies testadas, predando indivíduos 
-pequenos.` },
-      { id: 'E', type: 'text', value: `ascídias, apesar de não representarem os menores 
-organismos.` },
+      { id: 'D', type: 'text', value: `quatro espécies testadas, predando indivíduos pequenos.` },
+      { id: 'E', type: 'text', value: `ascídias, apesar de não representarem os menores organismos.` },
     ],
     correct: 'C',
     explanation: `Comparando os dados, a densidade de mexilhões caiu de 380 (área com tela, sem acesso dos peixes) para 200 indivíduos/m² (área sem tela, com peixes), enquanto o tamanho médio subiu de 3 cm para 6 cm. A queda da densidade acompanhada do aumento do tamanho médio indica que os peixes retiraram preferencialmente os indivíduos menores. Assim, os peixes controlam a densidade dos mexilhões predando especialmente os animais pequenos. Portanto, a resposta é a alternativa C.`,
@@ -2090,44 +1910,28 @@ Velocidade (m/s)`,
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `TEXTO I 
-Biocélulas 
-combustíveis 
-são 
-uma 
-alternativa 
-tecnológica para substituição das baterias convencionais. 
-Em uma biocélula microbiológica, bactérias catalisam 
-reações de oxidação de substratos orgânicos. Liberam 
-elétrons produzidos na respiração celular para um 
-eletrodo, onde fluem por um circuito externo até o cátodo 
-do sistema, produzindo corrente elétrica. Uma reação 
-típica que ocorre em biocélulas microbiológicas utiliza o 
-acetato como substrato. 
-AQUINO NETO, S. Preparação e caracterização de bioanodos para biocélula a combustível 
-etanol/O 2 . Disponível em: www.teses.usp.br. Acesso em: 23 jun. 2015 (adaptado). 
-TEXTO II 
-Em 
-sistemas 
-bioeletroquímicos, 
-os 
-potenciais 
-padrão 
-( E ° ’ ) 
-apresentam 
-valores 
-característicos. 
-Para as biocélulas de acetato, considere as seguintes 
-semirreações de redução e seus respectivos potenciais: 
-2 CO 2 + 7 H + + 8 e − → CH 3 COO − + 2 H 2 O 
-E ° ’ = - 0,3 V 
-O 2 + 4 H + + 4 e − → 2 H 2 O 
-E ° ’ = 0,8 V 
-SCOTT, K.; YU, E. H. Microbial electrochemical and fuel cells: fundamentals and 
-applications. Woodhead Publishing Series in Energy , n. 88, 2016 (adaptado). 
-Nessas condições, qual é o número mínimo de biocélulas 
-de acetato, ligadas em série, necessárias para se obter 
-uma diferença de potencial de 4,4 V?`,
+    text: `TEXTO I Biocélulas combustíveis são uma alternativa
+tecnológica para substituição das baterias convencionais. Em
+uma biocélula microbiológica, bactérias catalisam reações de
+oxidação de substratos orgânicos. Liberam elétrons produzidos
+na respiração celular para um eletrodo, onde fluem por um
+circuito externo até o cátodo do sistema, produzindo corrente
+elétrica. Uma reação típica que ocorre em biocélulas
+microbiológicas utiliza o acetato como substrato. AQUINO NETO,
+S. Preparação e caracterização de bioanodos para biocélula a
+combustível etanol/O 2 . Disponível em: www.teses.usp.br.
+Acesso em: 23 jun. 2015 (adaptado). TEXTO II Em sistemas
+bioeletroquímicos, os potenciais padrão ( E ° ’ ) apresentam
+valores característicos. Para as biocélulas de acetato,
+considere as seguintes semirreações de redução e seus
+respectivos potenciais: 2 CO 2 + 7 H + + 8 e − → CH 3 COO − +
+2 H 2 O E ° ’ = - 0,3 V O 2 + 4 H + + 4 e − → 2 H 2 O E ° ’ =
+0,8 V SCOTT, K.; YU, E. H. Microbial electrochemical and fuel
+cells: fundamentals and applications. Woodhead Publishing
+Series in Energy , n. 88, 2016 (adaptado). Nessas condições,
+qual é o número mínimo de biocélulas de acetato, ligadas em
+série, necessárias para se obter uma diferença de potencial de
+4,4 V?`,
     alternatives: [
       { id: 'A', type: 'text', value: `3` },
       { id: 'B', type: 'text', value: `4` },
@@ -2223,16 +2027,11 @@ Excetuando-se a fase de plasma, essas transformações
 sofridas pela matéria, em nível microscópico, estão 
 associadas a uma`,
     alternatives: [
-      { id: 'A', type: 'text', value: `troca de átomos entre as diferentes moléculas do 
-material.` },
-      { id: 'B', type: 'text', value: `transmutação nuclear dos elementos químicos do 
-material.` },
-      { id: 'C', type: 'text', value: `redistribuição de prótons entre os diferentes átomos 
-do material.` },
-      { id: 'D', type: 'text', value: `mudança na estrutura espacial formada pelos 
-diferentes constituintes do material.` },
-      { id: 'E', type: 'text', value: `alteração nas proporções dos diferentes isótopos de 
-cada elemento presente no material.` },
+      { id: 'A', type: 'text', value: `troca de átomos entre as diferentes moléculas do material.` },
+      { id: 'B', type: 'text', value: `transmutação nuclear dos elementos químicos do material.` },
+      { id: 'C', type: 'text', value: `redistribuição de prótons entre os diferentes átomos do material.` },
+      { id: 'D', type: 'text', value: `mudança na estrutura espacial formada pelos diferentes constituintes do material.` },
+      { id: 'E', type: 'text', value: `alteração nas proporções dos diferentes isótopos de cada elemento presente no material.` },
     ],
     correct: 'D',
     explanation: `Os "quatro elementos" de Platão correspondem aos estados sólido, líquido, gasoso e plasma. Excetuando o plasma, as transições entre os demais estados (mudanças de fase) não alteram a identidade dos átomos nem seus núcleos, mas apenas o modo como as partículas estão organizadas e se afastam umas das outras. Microscopicamente, portanto, essas transformações estão associadas à mudança na estrutura espacial formada pelos constituintes do material. Portanto, a resposta é a alternativa D.`,
@@ -2310,16 +2109,11 @@ Acesso em: 13 ago. 2012 (adaptado).
 A técnica de datação apresentada no texto só é possível 
 devido à`,
     alternatives: [
-      { id: 'A', type: 'text', value: `proporção conhecida entre carbono-14 e carbono-12 
-na atmosfera ao longo dos anos.` },
-      { id: 'B', type: 'text', value: `decomposição de todo o carbono-12 presente no 
-organismo após a morte.` },
-      { id: 'C', type: 'text', value: `fixação maior do carbono-14 nos tecidos de 
-organismos após a morte.` },
-      { id: 'D', type: 'text', value: `emissão de carbono-12 pelos tecidos de organismos 
-após a morte.` },
-      { id: 'E', type: 'text', value: `transformação do carbono-12 em carbono-14 ao 
-longo dos anos.` },
+      { id: 'A', type: 'text', value: `proporção conhecida entre carbono-14 e carbono-12 na atmosfera ao longo dos anos.` },
+      { id: 'B', type: 'text', value: `decomposição de todo o carbono-12 presente no organismo após a morte.` },
+      { id: 'C', type: 'text', value: `fixação maior do carbono-14 nos tecidos de organismos após a morte.` },
+      { id: 'D', type: 'text', value: `emissão de carbono-12 pelos tecidos de organismos após a morte.` },
+      { id: 'E', type: 'text', value: `transformação do carbono-12 em carbono-14 ao longo dos anos.` },
     ],
     correct: 'A',
     explanation: `A datação por carbono-14 baseia-se no fato de que a proporção entre ¹⁴C e ¹²C na atmosfera se mantém aproximadamente constante e conhecida ao longo do tempo, sendo incorporada pelos seres vivos enquanto vivem. Após a morte, o organismo deixa de absorver carbono, e o ¹⁴C, radioativo, decai a uma taxa conhecida, enquanto o ¹²C permanece. Comparando quanto ¹⁴C restou em relação ao ¹²C com a proporção atmosférica original, estima-se a idade do material. Portanto, a técnica é possível devido à proporção conhecida entre carbono-14 e carbono-12 na atmosfera ao longo dos anos (alternativa A).`,
@@ -2399,16 +2193,11 @@ Disponível em: saf.cnpgc.embrapa.br. Acesso em: 21 jan. 2012 (adaptado).
 Essa é uma estratégia de conciliação entre recuperação 
 ambiental e produção agrícola, pois`,
     alternatives: [
-      { id: 'A', type: 'text', value: `substitui gradativamente as espécies cultiváveis por 
-espécies arbóreas.` },
-      { id: 'B', type: 'text', value: `intensifica a fertilização do solo com o uso de técnicas 
-apropriadas e biocidas.` },
-      { id: 'C', type: 'text', value: `promove maior diversidade de vida no solo com o 
-aumento da matéria orgânica.` },
-      { id: 'D', type: 'text', value: `favorece a dispersão das sementes cultivadas pela 
-fauna residente nas áreas florestais.` },
-      { id: 'E', type: 'text', value: `cria condições para o estabelecimento de espécies 
-pioneiras com a diminuição da insolação sobre o solo.` },
+      { id: 'A', type: 'text', value: `substitui gradativamente as espécies cultiváveis por espécies arbóreas.` },
+      { id: 'B', type: 'text', value: `intensifica a fertilização do solo com o uso de técnicas apropriadas e biocidas.` },
+      { id: 'C', type: 'text', value: `promove maior diversidade de vida no solo com o aumento da matéria orgânica.` },
+      { id: 'D', type: 'text', value: `favorece a dispersão das sementes cultivadas pela fauna residente nas áreas florestais.` },
+      { id: 'E', type: 'text', value: `cria condições para o estabelecimento de espécies pioneiras com a diminuição da insolação sobre o solo.` },
     ],
     correct: 'C',
     explanation: `Nos sistemas agroflorestais, a introdução de árvores junto às culturas aumenta o aporte de matéria orgânica ao solo (folhas, galhos e raízes), favorecendo a atividade e a diversidade dos organismos que ali vivem. Esse enriquecimento acelera a sucessão ecológica e recupera a fertilidade e a estabilidade do ecossistema degradado, conciliando recuperação ambiental com produção diversificada. Portanto, a estratégia funciona porque promove maior diversidade de vida no solo com o aumento da matéria orgânica (alternativa C).`,
@@ -2493,20 +2282,21 @@ A reação de Sₙ entre metóxido de sódio (Nu⁻ = CH₃O⁻) e brometo de me
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `O trilho de ar é um dispositivo utilizado em laboratórios de física para analisar movimentos em que corpos de prova 
-(carrinhos) podem se mover com atrito desprezível. A figura ilustra um trilho horizontal com dois carrinhos (1 e 2) em 
-que se realiza um experimento para obter a massa do carrinho 2. No instante em que o carrinho 1, de massa 150,0 g, 
-passa a se mover com velocidade escalar constante, o carrinho 2 esta em repouso. No momento em que o carrinho 1 
-se choca com o carrinho 2, ambos passam a se movimentar juntos com velocidade escalar constante. Os sensores 
-eletrônicos distribuídos ao longo do trilho determinam as posições e registram os instantes associados a passagem de 
-cada carrinho, gerando os dados do quadro. 
-sensor 1 
-sensor 2 
-sensor 3 
-sensor 4 
-carrinho 1 
-carrinho 2 
- 
+    text: `O trilho de ar é um dispositivo utilizado em laboratórios de
+física para analisar movimentos em que corpos de prova
+(carrinhos) podem se mover com atrito desprezível. A figura
+ilustra um trilho horizontal com dois carrinhos (1 e 2) em que
+se realiza um experimento para obter a massa do carrinho 2. No
+instante em que o carrinho 1, de massa 150,0 g, passa a se
+mover com velocidade escalar constante, o carrinho 2 esta em
+repouso. No momento em que o carrinho 1 se choca com o
+carrinho 2, ambos passam a se movimentar juntos com velocidade
+escalar constante. Os sensores eletrônicos distribuídos ao
+longo do trilho determinam as posições e registram os
+instantes associados a passagem de cada carrinho, gerando os
+dados do quadro. sensor 1 sensor 2 sensor 3 sensor 4 carrinho
+1 carrinho 2
+
 Com base nos dados experimentais, o valor da massa do carrinho 2 e igual a`,
     images: ['/enem/2016/images/enem_2016_d1_q77_1.jpg', '/enem/2016/images/enem_2016_d1_q77_2.jpg'],
     alternatives: [
@@ -2598,24 +2388,16 @@ Considerando as informações do texto, qual ação representa uma estrategia de
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `A lipofilia é um dos fatores fundamentais para o 
-planejamento de um fármaco. Ela mede o grau de 
-afinidade que a substância tem com ambientes apolares, 
-podendo ser avaliada por seu coeficiente de partição. 
-CH₃ 
-X 
-CH₃ 
-H 
-X = OH (Testosterona) 
-X = H (Composto 1) 
-X = CH₃ (Composto 2) 
-H 
-H 
-O 
-NOGUEIRA, L. J.; MONTANARI, C. A.; DONNICI, C. L. Histórico da evolução da química medicinal 
-e a importância da lipofilia: de Hipócrates e Galeno a Paracelsus e as contribuições de Overton e 
-de Hansch. Revista Virtual de Química , n. 3, 2009 (adaptado). 
-Em relação ao coeficiente de partição da testosterona, as 
+    text: `A lipofilia é um dos fatores fundamentais para o planejamento
+de um fármaco. Ela mede o grau de afinidade que a substância
+tem com ambientes apolares, podendo ser avaliada por seu
+coeficiente de partição. CH₃ X CH₃ H X = OH (Testosterona) X =
+H (Composto 1) X = CH₃ (Composto 2) H H O NOGUEIRA, L. J.;
+MONTANARI, C. A.; DONNICI, C. L. Histórico da evolução da
+química medicinal e a importância da lipofilia: de Hipócrates
+e Galeno a Paracelsus e as contribuições de Overton e de
+Hansch. Revista Virtual de Química , n. 3, 2009 (adaptado). Em
+relação ao coeficiente de partição da testosterona, as
 lipofilias dos compostos 1 e 2 são, respectivamente,`,
     images: ['/enem/2016/images/enem_2016_d1_q81.jpg'],
     alternatives: [
@@ -2691,8 +2473,7 @@ Essa troca de segmentos é determinante na`,
       { id: 'B', type: 'text', value: `transmissão de novas características adquiridas.` },
       { id: 'C', type: 'text', value: `recombinação genética na formação dos gametas.` },
       { id: 'D', type: 'text', value: `ocorrência de mutações somáticas nos descendentes.` },
-      { id: 'E', type: 'text', value: `variação do número de cromossomos característico 
-da espécie.` },
+      { id: 'E', type: 'text', value: `variação do número de cromossomos característico da espécie.` },
     ],
     correct: 'C',
     explanation: `A permuta (crossing-over) é a troca de segmentos entre cromátides não irmãs de cromossomos homólogos, que ocorre durante a prófase I da meiose. Esse processo embaralha os alelos, gerando novas combinações gênicas nos gametas e aumentando a variabilidade genética. Portanto, essa troca de segmentos é determinante na recombinação genética na formação dos gametas (alternativa C).`,
@@ -2718,18 +2499,11 @@ derretimento do gelo será maior.
 O aluno que responder corretamente ao questionamento 
 do professor dirá que o derretimento ocorrerá`,
     alternatives: [
-      { id: 'A', type: 'text', value: `mais rapidamente na bandeja de alumínio, pois 
-ela tem uma maior condutividade térmica que a 
-de plástico.` },
-      { id: 'B', type: 'text', value: `mais rapidamente na bandeja de plástico, pois ela 
-tem inicialmente uma temperatura mais alta que a 
-de alumínio.` },
-      { id: 'C', type: 'text', value: `mais rapidamente na bandeja de plástico, pois ela tem 
-uma maior capacidade térmica que a de alumínio.` },
-      { id: 'D', type: 'text', value: `mais rapidamente na bandeja de alumínio, pois ela 
-tem um calor específico menor que a de plástico.` },
-      { id: 'E', type: 'text', value: `com a mesma rapidez nas duas bandejas, pois 
-apresentarão a mesma variação de temperatura.` },
+      { id: 'A', type: 'text', value: `mais rapidamente na bandeja de alumínio, pois ela tem uma maior condutividade térmica que a de plástico.` },
+      { id: 'B', type: 'text', value: `mais rapidamente na bandeja de plástico, pois ela tem inicialmente uma temperatura mais alta que a de alumínio.` },
+      { id: 'C', type: 'text', value: `mais rapidamente na bandeja de plástico, pois ela tem uma maior capacidade térmica que a de alumínio.` },
+      { id: 'D', type: 'text', value: `mais rapidamente na bandeja de alumínio, pois ela tem um calor específico menor que a de plástico.` },
+      { id: 'E', type: 'text', value: `com a mesma rapidez nas duas bandejas, pois apresentarão a mesma variação de temperatura.` },
     ],
     correct: 'A',
     explanation: `As duas bandejas estão em equilíbrio térmico com o ambiente, ou seja, na mesma temperatura; a sensação de que o alumínio está mais frio ocorre porque ele conduz o calor da mão mais rapidamente. Colocado o gelo, a rapidez do derretimento depende da velocidade com que o calor do ambiente chega ao gelo através da bandeja. Como o alumínio tem condutividade térmica muito maior que a do plástico, ele transfere calor ao gelo mais depressa, derretendo-o mais rápido. Portanto, o derretimento ocorre mais rapidamente na bandeja de alumínio, por sua maior condutividade térmica (alternativa A).`,
@@ -2760,18 +2534,18 @@ apresentarão a mesma variação de temperatura.` },
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `Um experimento para comprovar a natureza ondulatória da radiação de micro-ondas foi realizado da seguinte 
-forma: anotou-se a frequência de operação de um forno de micro-ondas e, em seguida, retirou-se sua plataforma 
-giratória. No seu lugar, colocou-se uma travessa refratária com uma camada grossa de manteiga. Depois disso, o 
-forno foi ligado por alguns segundos. Ao se retirar a travessa refrataria do forno, observou-se que havia tres pontos 
-de manteiga derretida alinhados sobre toda a travessa. Parte da onda estacionaria gerada no interior do forno e 
-ilustrada na figura. 
-I 
-II 
-III 
-IV 
-V 
-De acordo com a figura, que posições correspondem a dois pontos consecutivos da manteiga derretida?`,
+    text: `Um experimento para comprovar a natureza ondulatória da
+radiação de micro-ondas foi realizado da seguinte forma:
+anotou-se a frequência de operação de um forno de micro-ondas
+e, em seguida, retirou-se sua plataforma giratória. No seu
+lugar, colocou-se uma travessa refratária com uma camada
+grossa de manteiga. Depois disso, o forno foi ligado por
+alguns segundos. Ao se retirar a travessa refrataria do forno,
+observou-se que havia tres pontos de manteiga derretida
+alinhados sobre toda a travessa. Parte da onda estacionaria
+gerada no interior do forno e ilustrada na figura. I II III IV
+V De acordo com a figura, que posições correspondem a dois
+pontos consecutivos da manteiga derretida?`,
     images: ['/enem/2016/images/enem_2016_d1_q86.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I e III` },
@@ -2831,17 +2605,11 @@ promover a agitação das nanopartículas e consequente
 aquecimento da célula. 
 A elevação de temperatura descrita ocorre porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o campo magnético gerado pela oscilação das 
-nanopartículas é absorvido pelo tumor.` },
-      { id: 'B', type: 'text', value: `o campo magnético alternado faz as nanopartículas 
-girarem, transferindo calor por atrito.` },
-      { id: 'C', type: 'text', value: `as nanopartículas interagem magneticamente com as 
-células do corpo, transferindo calor.` },
-      { id: 'D', type: 'text', value: `o campo magnético alternado fornece calor para as 
-nanopartículas que o transfere às células do corpo.` },
-      { id: 'E', type: 'text', value: `as nanopartículas são aceleradas em um único sentido 
-em razão da interação com o campo magnético, 
-fazendo-as colidir com as células e transferir calor.` },
+      { id: 'A', type: 'text', value: `o campo magnético gerado pela oscilação das nanopartículas é absorvido pelo tumor.` },
+      { id: 'B', type: 'text', value: `o campo magnético alternado faz as nanopartículas girarem, transferindo calor por atrito.` },
+      { id: 'C', type: 'text', value: `as nanopartículas interagem magneticamente com as células do corpo, transferindo calor.` },
+      { id: 'D', type: 'text', value: `o campo magnético alternado fornece calor para as nanopartículas que o transfere às células do corpo.` },
+      { id: 'E', type: 'text', value: `as nanopartículas são aceleradas em um único sentido em razão da interação com o campo magnético, fazendo-as colidir com as células e transferir calor.` },
     ],
     correct: 'B',
     explanation: `No procedimento, as nanopartículas magnéticas captadas pelas células tumorais são submetidas a um campo magnético externo alternado. Esse campo faz as nanopartículas oscilarem e girarem continuamente, e o atrito desse movimento com o meio celular gera calor. O aquecimento resultante eleva a temperatura das células tumorais, danificando-as. Portanto, a elevação de temperatura ocorre porque o campo magnético alternado faz as nanopartículas girarem, transferindo calor por atrito (alternativa B).`,
@@ -2853,34 +2621,21 @@ fazendo-as colidir com as células e transferir calor.` },
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `O aquecimento de um material por irradiação com 
-micro-ondas ocorre por causa da interação da onda 
-eletromagnética com o dipolo elétrico da molécula. 
-Um importante atributo do aquecimento por micro-ondas 
-é a absorção direta da energia pelo material a ser 
-aquecido. Assim, esse aquecimento é seletivo e 
-dependerá, principalmente, da constante dielétrica e da 
-frequência de relaxação do material. O gráfico mostra a 
-taxa de aquecimento de cinco solventes sob irradiação 
-de micro-ondas. 
-Água 
-Metanol 
-Etanol 
-Propanol 
-n-Hexano 
-100 
-80 
-Temperatura (°C) 
-60 
-40 
-20 
-0 10 20 30 40 50 60 70 80 
-Tempo (s) 
-BARBOZA, A. C. R. N. et al. Aquecimento em forno de micro-ondas. Desenvolvimento de 
-alguns conceitos fundamentais. Química Nova , n. 6, 2001 (adaptado). 
-No gráfico, qual solvente apresenta taxa média de 
-aquecimento mais próxima de zero, no intervalo de 
-0 s a 40 s?`,
+    text: `O aquecimento de um material por irradiação com micro-ondas
+ocorre por causa da interação da onda eletromagnética com o
+dipolo elétrico da molécula. Um importante atributo do
+aquecimento por micro-ondas é a absorção direta da energia
+pelo material a ser aquecido. Assim, esse aquecimento é
+seletivo e dependerá, principalmente, da constante dielétrica
+e da frequência de relaxação do material. O gráfico mostra a
+taxa de aquecimento de cinco solventes sob irradiação de
+micro-ondas. Água Metanol Etanol Propanol n-Hexano 100 80
+Temperatura (°C) 60 40 20 0 10 20 30 40 50 60 70 80 Tempo (s)
+BARBOZA, A. C. R. N. et al. Aquecimento em forno de
+micro-ondas. Desenvolvimento de alguns conceitos fundamentais.
+Química Nova , n. 6, 2001 (adaptado). No gráfico, qual
+solvente apresenta taxa média de aquecimento mais próxima de
+zero, no intervalo de 0 s a 40 s?`,
     images: ['/enem/2016/images/enem_2016_d1_q89.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `H 2 O` },
@@ -2899,18 +2654,11 @@ aquecimento mais próxima de zero, no intervalo de
     exam: 'enem',
     year: 2016,
     day: 1,
-    text: `Apesar 
-da 
-grande 
-diversidade 
-biológica, 
-a 
-hipótese de que a vida na Terra tenha tido uma única 
-origem comum é aceita pela comunidade científica. 
-Uma evidência que apoia essa hipótese é a observação 
-de processos biológicos comuns a todos os seres vivos 
-atualmente existentes. 
-Um exemplo de tal processo é o(a)`,
+    text: `Apesar da grande diversidade biológica, a hipótese de que a
+vida na Terra tenha tido uma única origem comum é aceita pela
+comunidade científica. Uma evidência que apoia essa hipótese é
+a observação de processos biológicos comuns a todos os seres
+vivos atualmente existentes. Um exemplo de tal processo é o(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `desenvolvimento embrionário.` },
       { id: 'B', type: 'text', value: `reprodução sexuada.` },

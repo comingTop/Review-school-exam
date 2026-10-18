@@ -29,20 +29,11 @@ Ambiental da Amazônia, 2000 (adaptado).
 Considerando o texto, uma alternativa viável para 
 combater o efeito estufa é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `reduzir o calor irradiado pela Terra mediante a 
-substituição da produção primária pela industrialização 
-refrigerada.` },
-      { id: 'B', type: 'text', value: `promover a queima da biomassa vegetal, responsável 
-pelo aumento do efeito estufa devido à produção de 
-CH4.` },
-      { id: 'C', type: 'text', value: `reduzir o desmatamento, mantendo-se, assim, o 
-potencial da vegetação em absorver o CO₂ da 
-atmosfera.` },
-      { id: 'D', type: 'text', value: `aumentar a concentração atmosférica de H2O, 
-molécula capaz de absorver grande quantidade de 
-calor.` },
-      { id: 'E', type: 'text', value: `remover moléculas orgânicas polares da atmosfera, 
-diminuindo a capacidade delas de reter calor.` },
+      { id: 'A', type: 'text', value: `reduzir o calor irradiado pela Terra mediante a substituição da produção primária pela industrialização refrigerada.` },
+      { id: 'B', type: 'text', value: `promover a queima da biomassa vegetal, responsável pelo aumento do efeito estufa devido à produção de CH₄.` },
+      { id: 'C', type: 'text', value: `reduzir o desmatamento, mantendo-se, assim, o potencial da vegetação em absorver o CO₂ da atmosfera.` },
+      { id: 'D', type: 'text', value: `aumentar a concentração atmosférica de H₂O, molécula capaz de absorver grande quantidade de calor.` },
+      { id: 'E', type: 'text', value: `remover moléculas orgânicas polares da atmosfera, diminuindo a capacidade delas de reter calor.` },
     ],
     correct: 'C',
     explanation: `Combater o efeito estufa passa por preservar os sumidouros naturais de CO₂. As florestas, por meio da fotossíntese, retiram CO₂ da atmosfera e o fixam na biomassa vegetal; o desmatamento, apontado no texto como novo fator agravante, elimina essa capacidade de absorção. Logo, a alternativa viável é reduzir o desmatamento, mantendo-se o potencial da vegetação de absorver o CO₂ atmosférico (C). Queimar biomassa (B) libera mais CO₂/CH₄, aumentar o vapor d'água (D) intensifica o efeito estufa e as demais não têm fundamento.`,
@@ -61,16 +52,11 @@ figura, a alternativa que melhor traduziria o processo
 representado seria:`,
     images: ['/enem/2009/images/enem_2009_d1_q2.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Concentração média de álcool no sangue ao longo do 
-dia.` },
-      { id: 'B', type: 'text', value: `Variação da frequência da ingestão de álcool ao longo 
-das horas.` },
-      { id: 'C', type: 'text', value: `Concentração mínima de álcool no sangue a partir de 
-diferentes dosagens.` },
-      { id: 'D', type: 'text', value: `Estimativa de tempo necessário para metabolizar 
-diferentes quantidades de álcool.` },
-      { id: 'E', type: 'text', value: `Representação gráfica da distribuição de frequência 
-de álcool em determinada hora do dia.` },
+      { id: 'A', type: 'text', value: `Concentração média de álcool no sangue ao longo do dia.` },
+      { id: 'B', type: 'text', value: `Variação da frequência da ingestão de álcool ao longo das horas.` },
+      { id: 'C', type: 'text', value: `Concentração mínima de álcool no sangue a partir de diferentes dosagens.` },
+      { id: 'D', type: 'text', value: `Estimativa de tempo necessário para metabolizar diferentes quantidades de álcool.` },
+      { id: 'E', type: 'text', value: `Representação gráfica da distribuição de frequência de álcool em determinada hora do dia.` },
     ],
     correct: 'D',
     explanation: `A figura relaciona diferentes quantidades de álcool ingeridas ao tempo necessário para que o organismo as metabolize (elimine) completamente. O fígado degrada o etanol a uma taxa aproximadamente constante, de modo que, quanto maior a dose, maior o tempo para zerar a alcoolemia. Assim, o título que melhor traduz o processo é a estimativa de tempo necessário para metabolizar diferentes quantidades de álcool (D). As demais confundem concentração média/mínima ou frequência de ingestão, que não são o que a figura representa.`,
@@ -95,18 +81,11 @@ TANURI, A.; FERREIRA JÚNIOR, O. C. Vacina contra Aids: desafios e esperanças. 
 Hoje (44) 26, 2009 (adaptado). 
 Uma vacina eficiente contra o HIV deveria`,
     alternatives: [
-      { id: 'A', type: 'text', value: `induzir a imunidade, para proteger o organismo da 
-contaminação viral.` },
-      { id: 'B', type: 'text', value: `ser capaz de alterar o genoma do organismo portador, 
-induzindo a síntese de enzimas protetoras.` },
-      { id: 'C', type: 'text', value: `produzir antígenos capazes de se ligarem ao vírus, 
-impedindo que este entre nas células do organismo 
-humano.` },
-      { id: 'D', type: 'text', value: `ser amplamente aplicada em animais, visto que esses 
-são os principais transmissores do vírus para os seres 
-humanos.` },
-      { id: 'E', type: 'text', value: `estimular a imunidade, minimizando a transmissão do 
-vírus por gotículas de saliva.` },
+      { id: 'A', type: 'text', value: `induzir a imunidade, para proteger o organismo da contaminação viral.` },
+      { id: 'B', type: 'text', value: `ser capaz de alterar o genoma do organismo portador, induzindo a síntese de enzimas protetoras.` },
+      { id: 'C', type: 'text', value: `produzir antígenos capazes de se ligarem ao vírus, impedindo que este entre nas células do organismo humano.` },
+      { id: 'D', type: 'text', value: `ser amplamente aplicada em animais, visto que esses são os principais transmissores do vírus para os seres humanos.` },
+      { id: 'E', type: 'text', value: `estimular a imunidade, minimizando a transmissão do vírus por gotículas de saliva.` },
     ],
     correct: 'A',
     explanation: `Vacinas são preparações de antígenos (atenuados, mortos ou fragmentos) que estimulam o sistema imunológico a produzir anticorpos e células de memória, sem causar a doença. Por isso, uma vacina eficiente contra o HIV deveria induzir a imunidade, preparando o organismo para responder rapidamente em caso de contaminação viral (A). A vacina não altera o genoma (B); produzir e injetar o anticorpo pronto (C) corresponde a soro/imunização passiva, não à vacina; o HIV não é transmitido por animais (D) nem principalmente por saliva (E).`,
@@ -168,25 +147,11 @@ resultado generalizou-se para os demais planetas.
 A respeito dos estudiosos citados no texto, é correto 
 afirmar que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Ptolomeu apresentou as ideias mais valiosas, por 
-serem mais antigas e tradicionais.` },
-      { id: 'B', type: 'text', value: `Copérnico desenvolveu a teoria do heliocentrismo 
-inspirado no contexto político do Rei Sol.` },
-      { id: 'C', type: 'text', value: `Copérnico viveu em uma época em que a pesquisa 
-científica era livre e amplamente incentivada pelas 
-autoridades.` },
-      { id: 'D', type: 'text', value: `Kepler estudou o planeta Marte para atender às 
-necessidades de expansão econômica e científica da 
-Alemanha.` },
-      { id: 'E', type: 'text', value: `Kepler apresentou uma teoria científica que, graças 
-aos 
-métodos 
-aplicados, 
-pôde 
-ser 
-testada 
-e 
-generalizada.` },
+      { id: 'A', type: 'text', value: `Ptolomeu apresentou as ideias mais valiosas, por serem mais antigas e tradicionais.` },
+      { id: 'B', type: 'text', value: `Copérnico desenvolveu a teoria do heliocentrismo inspirado no contexto político do Rei Sol.` },
+      { id: 'C', type: 'text', value: `Copérnico viveu em uma época em que a pesquisa científica era livre e amplamente incentivada pelas autoridades.` },
+      { id: 'D', type: 'text', value: `Kepler estudou o planeta Marte para atender às necessidades de expansão econômica e científica da Alemanha.` },
+      { id: 'E', type: 'text', value: `Kepler apresentou uma teoria científica que, graças aos métodos aplicados, pôde ser testada e generalizada.` },
     ],
     correct: 'E',
     explanation: `O texto mostra a evolução das ideias astronômicas: Ptolomeu (geocentrismo), Copérnico (heliocentrismo com órbitas circulares) e Kepler (órbitas elípticas, após décadas de estudo de Marte, apoiado nos dados observacionais de Tycho Brahe). O que torna a contribuição de Kepler propriamente científica é que sua teoria, graças aos métodos empregados, pôde ser testada e generalizada aos demais planetas (E). As demais fazem afirmações históricas falsas (antiguidade como critério de valor, 'Rei Sol', liberdade de pesquisa, interesse econômico alemão).`,
@@ -211,16 +176,11 @@ fósseis por combustíveis de fontes renováveis.
 A utilização de combustíveis fósseis interfere no ciclo do 
 carbono, pois provoca`,
     alternatives: [
-      { id: 'A', type: 'text', value: `aumento da porcentagem de carbono contido na 
-Terra.` },
-      { id: 'B', type: 'text', value: `redução na taxa de fotossíntese dos vegetais 
-superiores.` },
-      { id: 'C', type: 'text', value: `aumento da produção de carboidratos de origem 
-vegetal.` },
-      { id: 'D', type: 'text', value: `aumento na quantidade de carbono presente na 
-atmosfera.` },
-      { id: 'E', type: 'text', value: `redução da quantidade global de carbono armazenado 
-nos oceanos.` },
+      { id: 'A', type: 'text', value: `aumento da porcentagem de carbono contido na Terra.` },
+      { id: 'B', type: 'text', value: `redução na taxa de fotossíntese dos vegetais superiores.` },
+      { id: 'C', type: 'text', value: `aumento da produção de carboidratos de origem vegetal.` },
+      { id: 'D', type: 'text', value: `aumento na quantidade de carbono presente na atmosfera.` },
+      { id: 'E', type: 'text', value: `redução da quantidade global de carbono armazenado nos oceanos.` },
     ],
     correct: 'D',
     explanation: `A queima de combustíveis fósseis retira carbono de reservatórios geológicos (petróleo, carvão), formados em tempos remotos, e o devolve rapidamente à atmosfera como CO₂, em velocidade muito maior que a de sua reposição natural. Isso desequilibra o ciclo do carbono, provocando aumento na quantidade de carbono presente na atmosfera (D). Não aumenta o carbono total da Terra (A), não reduz diretamente a fotossíntese (B) nem a produção de carboidratos (C), e o efeito descrito não é a redução do carbono oceânico (E).`,
@@ -233,13 +193,7 @@ nos oceanos.` },
     year: 2009,
     day: 1,
     text: `Um novo método para produzir insulina artificial 
-que 
-utiliza 
-tecnologia 
-de 
-DNA 
-recombinante 
-foi 
+que utiliza tecnologia de DNA recombinante foi
 desenvolvido por pesquisadores do Departamento de 
 Biologia Celular da Universidade de Brasília (UnB) em 
 parceria com a iniciativa privada. Os pesquisadores 
@@ -253,17 +207,9 @@ Ciência Hoje, 24 abr. 2001. Disponível em: http://cienciahoje.uol.com.br (adap
 A produção de insulina pela técnica do DNA recombinante 
 tem, como consequência,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o aperfeiçoamento do processo de extração de 
-insulina a partir do pâncreas suíno.` },
-      { id: 'B', type: 'text', value: `a 
-seleção 
-de 
-microrganismos 
-resistentes 
-a 
-antibióticos.` },
-      { id: 'C', type: 'text', value: `o progresso na técnica da síntese química de 
-hormônios.` },
+      { id: 'A', type: 'text', value: `o aperfeiçoamento do processo de extração de insulina a partir do pâncreas suíno.` },
+      { id: 'B', type: 'text', value: `a seleção de microrganismos resistentes a antibióticos.` },
+      { id: 'C', type: 'text', value: `o progresso na técnica da síntese química de hormônios.` },
       { id: 'D', type: 'text', value: `impacto favorável na saúde de indivíduos diabéticos.` },
       { id: 'E', type: 'text', value: `a criação de animais transgênicos.` },
     ],
@@ -298,13 +244,9 @@ uma usina hidrelétrica nessa região, inclui-se`,
     alternatives: [
       { id: 'A', type: 'text', value: `a poluição da água por metais da usina.` },
       { id: 'B', type: 'text', value: `a destruição do habitat de animais terrestres.` },
-      { id: 'C', type: 'text', value: `o aumento expressivo na liberação de CO₂ para a 
-atmosfera.` },
-      { id: 'D', type: 'text', value: `o consumo não renovável de toda água que passa 
-pelas turbinas.` },
-      { id: 'E', type: 'text', value: `o aprofundamento no leito do rio, com a menor 
-deposição de resíduos no trecho de rio anterior à 
-represa.` },
+      { id: 'C', type: 'text', value: `o aumento expressivo na liberação de CO₂ para a atmosfera.` },
+      { id: 'D', type: 'text', value: `o consumo não renovável de toda água que passa pelas turbinas.` },
+      { id: 'E', type: 'text', value: `o aprofundamento no leito do rio, com a menor deposição de resíduos no trecho de rio anterior à represa.` },
     ],
     correct: 'B',
     explanation: `Mesmo sendo mais limpa que a termelétrica, a hidrelétrica exige a formação de um grande reservatório que inunda extensas áreas de mata. Esse alagamento destrói o habitat de animais terrestres (e da vegetação), sendo esse um de seus principais impactos ambientais (B). Não há poluição por metais da própria usina (A), a água que passa pelas turbinas não é consumo não renovável (D) e a usina em operação não libera expressivamente CO₂ (C).`,
@@ -323,33 +265,18 @@ acúmulo de evidências geológicas ou paleoclimatológicas
 que evidenciam essas mudanças ocorridas durante o 
 Quaternário nessa região. Essas mudanças resultaram em 
 restrição da distribuição das florestas pluviais, com 
-expansões 
-concomitantes 
-de 
-habitats 
-não-florestais 
+expansões concomitantes de habitats não-florestais
 durante períodos áridos (glaciais), seguido da expansão 
 das florestas pluviais e restrição das áreas não-florestais 
 durante períodos úmidos (interglaciais). 
 Disponível em: http://zoo.bio.ufpr.br. Acesso em: 1 maio 2009. 
 Durante os períodos glaciais,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `as áreas não-florestais ficam restritas a refúgios 
-ecológicos devido à baixa adaptabilidade de espécies 
-não-florestais a ambientes áridos.` },
-      { id: 'B', type: 'text', value: `grande parte da diversidade de espécies vegetais é 
-reduzida, uma vez que necessitam de condições 
-semelhantes a dos períodos interglaciais.` },
-      { id: 'C', type: 'text', value: `a vegetação comum ao cerrado deve ter se limitado a 
-uma pequena região do centro do Brasil, da qual se 
-expandiu até atingir a atual distribuição.` },
-      { id: 'D', type: 'text', value: `plantas com adaptações ao clima árido, como o 
-desenvolvimento de estruturas que reduzem a perda 
-de água, devem apresentar maior área de distribuição.` },
-      { id: 'E', type: 'text', value: `florestas tropicais como a amazônica apresentam 
-distribuição geográfica mais ampla, uma vez que são 
-densas e diminuem a ação da radiação solar sobre o 
-solo e reduzem os efeitos da aridez.` },
+      { id: 'A', type: 'text', value: `as áreas não-florestais ficam restritas a refúgios ecológicos devido à baixa adaptabilidade de espécies não-florestais a ambientes áridos.` },
+      { id: 'B', type: 'text', value: `grande parte da diversidade de espécies vegetais é reduzida, uma vez que necessitam de condições semelhantes a dos períodos interglaciais.` },
+      { id: 'C', type: 'text', value: `a vegetação comum ao cerrado deve ter se limitado a uma pequena região do centro do Brasil, da qual se expandiu até atingir a atual distribuição.` },
+      { id: 'D', type: 'text', value: `plantas com adaptações ao clima árido, como o desenvolvimento de estruturas que reduzem a perda de água, devem apresentar maior área de distribuição.` },
+      { id: 'E', type: 'text', value: `florestas tropicais como a amazônica apresentam distribuição geográfica mais ampla, uma vez que são densas e diminuem a ação da radiação solar sobre o solo e reduzem os efeitos da aridez.` },
     ],
     correct: 'D',
     explanation: `Durante os períodos glaciais, mais áridos, as florestas pluviais se retraem e expandem-se os ambientes não-florestais. Nesse cenário seco, plantas com adaptações à aridez — como estruturas que reduzem a perda de água (folhas reduzidas, cutículas espessas, caules suculentos) — levam vantagem e passam a apresentar maior área de distribuição (D). As alternativas que preveem restrição das espécies xéricas ou ampliação das florestas úmidas durante os glaciais contrariam o texto.`,
@@ -373,12 +300,7 @@ nos carboidratos para impulsionar os processos celulares,
 liberando CO₂ para a atmosfera e água para a célula por 
 meio da respiração celular. Além disso, grande fração dos 
 recursos energéticos do planeta, produzidos tanto no 
-presente 
-(biomassa) 
-como 
-em 
-tempos 
-remotos 
+presente (biomassa) como em tempos remotos
 (combustível fóssil), é resultante da atividade fotossintética. 
  
 As informações sobre obtenção e transformação dos 
@@ -387,14 +309,10 @@ fotossíntese e respiração, descritas no texto, permitem
 concluir que`,
     alternatives: [
       { id: 'A', type: 'text', value: `o CO₂ e a água são moléculas de alto teor energético.` },
-      { id: 'B', type: 'text', value: `os carboidratos convertem energia solar em energia 
-química.` },
-      { id: 'C', type: 'text', value: `a vida na Terra depende, em última análise, da 
-energia proveniente do Sol.` },
-      { id: 'D', type: 'text', value: `o processo respiratório é responsável pela retirada de 
-carbono da atmosfera.` },
-      { id: 'E', type: 'text', value: `a produção de biomassa e de combustível fóssil, por 
-si, é responsável pelo aumento de CO₂ atmosférico.` },
+      { id: 'B', type: 'text', value: `os carboidratos convertem energia solar em energia química.` },
+      { id: 'C', type: 'text', value: `a vida na Terra depende, em última análise, da energia proveniente do Sol.` },
+      { id: 'D', type: 'text', value: `o processo respiratório é responsável pela retirada de carbono da atmosfera.` },
+      { id: 'E', type: 'text', value: `a produção de biomassa e de combustível fóssil, por si, é responsável pelo aumento de CO₂ atmosférico.` },
     ],
     correct: 'C',
     explanation: `O texto mostra que a fotossíntese converte energia solar em energia química (carboidratos) e que essa energia sustenta tanto os processos celulares de todos os seres vivos quanto os estoques de biomassa e de combustíveis fósseis. Conclui-se, portanto, que a vida na Terra depende, em última análise, da energia proveniente do Sol (C). CO₂ e água não são moléculas de alto teor energético (A); os carboidratos armazenam, e não convertem, a energia solar (B); a respiração libera CO₂ (D); e a fotossíntese, ao fixar carbono, não é por si causa do aumento de CO₂ (E).`,
@@ -413,25 +331,14 @@ Para manter-se dentro dessa faixa, em dias de muito calor
 ou durante intensos exercícios físicos, uma série de 
 mecanismos fisiológicos é acionada. 
  
-Pode-se 
-citar 
-como 
-o 
-principal 
-responsável 
-pela 
+Pode-se citar como o principal responsável pela
 manutenção da temperatura corporal humana o sistema`,
     alternatives: [
-      { id: 'A', type: 'text', value: `digestório, pois produz enzimas que atuam na quebra 
-de alimentos calóricos.` },
-      { id: 'B', type: 'text', value: `imunológico, pois suas células agem no sangue, 
-diminuindo a condução do calor.` },
-      { id: 'C', type: 'text', value: `nervoso, pois promove a sudorese, que permite perda 
-de calor por meio da evaporação da água.` },
-      { id: 'D', type: 'text', value: `reprodutor, pois secreta hormônios que alteram a 
-temperatura, principalmente durante a menopausa.` },
-      { id: 'E', type: 'text', value: `endócrino, pois fabrica anticorpos que, por sua vez, 
-atuam na variação do diâmetro dos vasos periféricos.` },
+      { id: 'A', type: 'text', value: `digestório, pois produz enzimas que atuam na quebra de alimentos calóricos.` },
+      { id: 'B', type: 'text', value: `imunológico, pois suas células agem no sangue, diminuindo a condução do calor.` },
+      { id: 'C', type: 'text', value: `nervoso, pois promove a sudorese, que permite perda de calor por meio da evaporação da água.` },
+      { id: 'D', type: 'text', value: `reprodutor, pois secreta hormônios que alteram a temperatura, principalmente durante a menopausa.` },
+      { id: 'E', type: 'text', value: `endócrino, pois fabrica anticorpos que, por sua vez, atuam na variação do diâmetro dos vasos periféricos.` },
     ],
     correct: 'C',
     explanation: `A manutenção da temperatura corporal na faixa de 36–37 °C (homeostase térmica) é coordenada pelo sistema nervoso, que detecta as variações de temperatura e aciona as respostas adequadas. Em dias quentes ou durante o exercício, ele estimula a sudorese: a evaporação do suor na pele retira calor do corpo, promovendo seu resfriamento (C). Os sistemas digestório, imunológico, reprodutor e endócrino descritos nas demais alternativas não desempenham esse papel central de termorregulação.`,
@@ -505,26 +412,11 @@ Nesse contexto, para conciliar os interesses aparentemente
 contraditórios entre o progresso social e urbano e a 
 conservação do meio ambiente, seria razoável`,
     alternatives: [
-      { id: 'A', type: 'text', value: `impedir a abertura e a pavimentação de rodovias em 
-áreas rurais e em regiões preservadas, pois a qualidade 
-de vida e as tecnologias encontradas nos centros urbanos 
-são prescindíveis às populações rurais.` },
-      { id: 'B', type: 'text', value: `impedir a abertura e a pavimentação de rodovias em 
-áreas rurais e em regiões preservadas, promovendo a 
-migração das populações rurais para os centros urbanos, 
-onde a qualidade de vida é melhor.` },
-      { id: 'C', type: 'text', value: `permitir a abertura e a pavimentação de rodovias apenas 
-em áreas rurais produtivas, haja vista que nas demais 
-áreas o retorno financeiro necessário para produzir uma 
-melhoria na qualidade de vida da região não é garantido.` },
-      { id: 'D', type: 'text', value: `permitir a abertura e a pavimentação de rodovias, desde 
-que comprovada a sua real necessidade e após a 
-realização de estudos que demonstrem ser possível 
-contornar ou compensar seus impactos ambientais.` },
-      { id: 'E', type: 'text', value: `permitir a abertura e a pavimentação de rodovias, haja 
-vista que os impactos ao meio ambiente são temporários e 
-podem ser facilmente revertidos com as tecnologias 
-existentes para recuperação de áreas degradadas.` },
+      { id: 'A', type: 'text', value: `impedir a abertura e a pavimentação de rodovias em áreas rurais e em regiões preservadas, pois a qualidade de vida e as tecnologias encontradas nos centros urbanos são prescindíveis às populações rurais.` },
+      { id: 'B', type: 'text', value: `impedir a abertura e a pavimentação de rodovias em áreas rurais e em regiões preservadas, promovendo a migração das populações rurais para os centros urbanos, onde a qualidade de vida é melhor.` },
+      { id: 'C', type: 'text', value: `permitir a abertura e a pavimentação de rodovias apenas em áreas rurais produtivas, haja vista que nas demais áreas o retorno financeiro necessário para produzir uma melhoria na qualidade de vida da região não é garantido.` },
+      { id: 'D', type: 'text', value: `permitir a abertura e a pavimentação de rodovias, desde que comprovada a sua real necessidade e após a realização de estudos que demonstrem ser possível contornar ou compensar seus impactos ambientais.` },
+      { id: 'E', type: 'text', value: `permitir a abertura e a pavimentação de rodovias, haja vista que os impactos ao meio ambiente são temporários e podem ser facilmente revertidos com as tecnologias existentes para recuperação de áreas degradadas.` },
     ],
     correct: 'D',
     explanation: `O texto expõe o conflito entre o desenvolvimento social (acesso proporcionado pelas rodovias) e os impactos ambientais (fragmentação de habitats, comprometimento do fluxo gênico, entrada de espécies exóticas). A solução razoável e conciliadora é permitir a abertura e a pavimentação apenas quando comprovada sua real necessidade e após estudos que demonstrem ser possível contornar ou compensar os impactos ambientais (D). Proibir totalmente (A e B) ou liberar sem critério alegando reversibilidade fácil (C e E) são posições extremas e incorretas.`,
@@ -555,17 +447,11 @@ seguintes, qual resultará em maior aumento da eficiência geral
 do processo?`,
     images: ['/enem/2009/images/enem_2009_d1_q14.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Aumentar a quantidade de combustível para queima na 
-usina de força.` },
-      { id: 'B', type: 'text', value: `Utilizar lâmpadas incandescentes, que geram pouco calor 
-e muita luminosidade.` },
-      { id: 'C', type: 'text', value: `Manter o menor número possível de aparelhos elétricos 
-em funcionamento nas moradias.` },
-      { id: 'D', type: 'text', value: `Utilizar cabos com menor diâmetro nas linhas de 
-transmissão a fim de economizar o material condutor.` },
-      { id: 'E', type: 'text', value: `Utilizar materiais com melhores propriedades condutoras 
-nas linhas de transmissão e lâmpadas fluorescentes nas 
-moradias.` },
+      { id: 'A', type: 'text', value: `Aumentar a quantidade de combustível para queima na usina de força.` },
+      { id: 'B', type: 'text', value: `Utilizar lâmpadas incandescentes, que geram pouco calor e muita luminosidade.` },
+      { id: 'C', type: 'text', value: `Manter o menor número possível de aparelhos elétricos em funcionamento nas moradias.` },
+      { id: 'D', type: 'text', value: `Utilizar cabos com menor diâmetro nas linhas de transmissão a fim de economizar o material condutor.` },
+      { id: 'E', type: 'text', value: `Utilizar materiais com melhores propriedades condutoras nas linhas de transmissão e lâmpadas fluorescentes nas moradias.` },
     ],
     correct: 'E',
     explanation: `A eficiência global do processo é o produto das eficiências de cada etapa; para aumentá-la, é preciso reduzir as perdas em cada uma. Usar materiais de melhor condutividade nas linhas de transmissão diminui as perdas por efeito Joule, e substituir lâmpadas incandescentes por fluorescentes aumenta a fração de energia convertida em luz. A combinação dessas duas medidas produz o maior aumento da eficiência geral (E). Aumentar o combustível (A) não melhora a eficiência, as incandescentes desperdiçam energia em calor (B) e as demais não atuam sobre o rendimento do processo.`,
@@ -577,16 +463,12 @@ moradias.` },
     exam: 'enem',
     year: 2009,
     day: 1,
-    text: `Para 
-que 
-apresente 
-condutividade 
-elétrica 
+    text: `Para que apresente condutividade elétrica
 adequada a muitas aplicações, o cobre bruto obtido por 
 métodos térmicos é purificado eletroliticamente. Nesse 
 processo, o cobre bruto impuro constitui o ânodo da célula, 
-que está imerso em uma solução de CuSO4. À medida que 
-o cobre impuro é oxidado no ânodo, íons Cu2+ da solução 
+que está imerso em uma solução de CuSO₄. À medida que 
+o cobre impuro é oxidado no ânodo, íons Cu²⁺ da solução 
 são depositados na forma pura no cátodo. Quanto às 
 impurezas metálicas, algumas são oxidadas, passando à 
 solução, enquanto outras simplesmente se desprendem do 
@@ -630,16 +512,11 @@ a, b e c.
 Depreende-se do modelo que`,
     images: ['/enem/2009/images/enem_2009_d1_q16.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a única molécula que participa da produção de 
-proteínas é o DNA.` },
-      { id: 'B', type: 'text', value: `o fluxo de informação genética, nos sistemas 
-biológicos, é unidirecional.` },
-      { id: 'C', type: 'text', value: `as fontes de informação ativas durante o processo de 
-transcrição são as proteínas.` },
-      { id: 'D', type: 'text', value: `é possível obter diferentes variantes proteicas a partir 
-de um mesmo produto de transcrição.` },
-      { id: 'E', type: 'text', value: `a molécula de DNA possui forma circular e as demais 
-moléculas possuem forma de fita simples linearizadas.` },
+      { id: 'A', type: 'text', value: `a única molécula que participa da produção de proteínas é o DNA.` },
+      { id: 'B', type: 'text', value: `o fluxo de informação genética, nos sistemas biológicos, é unidirecional.` },
+      { id: 'C', type: 'text', value: `as fontes de informação ativas durante o processo de transcrição são as proteínas.` },
+      { id: 'D', type: 'text', value: `é possível obter diferentes variantes proteicas a partir de um mesmo produto de transcrição.` },
+      { id: 'E', type: 'text', value: `a molécula de DNA possui forma circular e as demais moléculas possuem forma de fita simples linearizadas.` },
     ],
     correct: 'D',
     explanation: `O modelo mostra a replicação, a transcrição e a tradução gerando, ao final, três formas proteicas distintas (a, b e c). Isso evidencia que, a partir de um mesmo produto de transcrição (um RNA), é possível obter diferentes variantes proteicas — por exemplo, por splicing alternativo ou pelo uso de diferentes sítios de início e de parada da tradução (D). Não é apenas o DNA que participa da produção de proteínas (A), o fluxo de informação não é estritamente unidirecional em todos os sistemas (B), e as fontes de informação na transcrição são ácidos nucleicos, não proteínas (C).`,
@@ -664,15 +541,9 @@ Acesso em: 14 jul. 2009.
 Devido à alta velocidade, um dos problemas a ser 
 enfrentado na escolha do trajeto que será percorrido pelo 
 trem é o dimensionamento das curvas. Considerando-se 
-que 
-uma 
-aceleração 
-lateral 
-confortável 
-para 
-os 
+que uma aceleração lateral confortável para os
 passageiros e segura para o trem seja de 0,1 g, em que g 
-é a aceleração da gravidade (considerada igual a 10 m/s2), 
+é a aceleração da gravidade (considerada igual a 10 m/s²), 
 e que a velocidade do trem se mantenha constante em 
 todo o percurso, seria correto prever que as curvas 
 existentes no trajeto deveriam ter raio de curvatura mínimo 
@@ -699,52 +570,6 @@ de, aproximadamente,`,
 condicionado apresenta a seguinte tabela, com dados 
 técnicos para diversos modelos: 
  
-Capacidade de 
-refrigeração 
-kW/(BTU/h) 
-Potência 
-(W) 
-Corrente 
-elétrica - 
-ciclo frio 
-(A) 
-Eficiência 
-energética 
-COP (W/W) 
-Vazão de 
-ar (m3/h)
-Frequência 
-(Hz) 
-3,52/(12.000) 
-1.193 
-5,8 
-2,95 
-550 
-60 
-5,42/(18.000) 
-1.790 
-8,7 
-2,95 
-800 
-60 
-5,42/(18.000) 
-1.790 
-8,7 
-2,95 
-800 
-60 
-6,45/(22.000) 
-2.188 
-10,2 
-2,95 
-960 
-60 
-6,45/(22.000) 
-2.188 
-10,2 
-2,95 
-960 
-60 
 Disponível em: http://www.institucional.brastemp.com.br. 
 Acesso em: 13 jul. 2009 (adaptado). 
 Considere-se que um auditório possua capacidade para 
@@ -764,8 +589,7 @@ desses aparelhos, são`,
       { id: 'B', type: 'text', value: `vazão de ar e corrente elétrica - ciclo frio.` },
       { id: 'C', type: 'text', value: `eficiência energética e potência.` },
       { id: 'D', type: 'text', value: `capacidade de refrigeração e frequência.` },
-      { id: 'E', type: 'text', value: `capacidade de refrigeração e corrente elétrica - ciclo 
-frio.` },
+      { id: 'E', type: 'text', value: `capacidade de refrigeração e corrente elétrica - ciclo frio.` },
     ],
     correct: 'E',
     explanation: `Para decidir quantos aparelhos são necessários, compara-se o calor gerado pelas 40 pessoas com o que cada aparelho consegue retirar, ou seja, usa-se a capacidade de refrigeração. Para dimensionar a espessura (seção) da fiação, usa-se a corrente elétrica – ciclo frio, pois a seção do condutor deve suportar a corrente total exigida (2ª Lei de Ohm, R = ρL/A, com A proporcional à corrente). Assim, as informações essenciais são capacidade de refrigeração e corrente elétrica – ciclo frio (E). Vazão de ar, potência, eficiência energética e frequência não atendem simultaneamente às duas exigências.`,
@@ -798,7 +622,7 @@ A escolha das lâmpadas é essencial para
 obtenção de uma boa iluminação. A potência da lâmpada 
 deverá estar de acordo com o tamanho do cômodo a ser 
 iluminado. O quadro a seguir mostra a relação entre as 
-áreas dos cômodos (em m2) e as potências das lâmpadas 
+áreas dos cômodos (em m²) e as potências das lâmpadas 
 (em W), e foi utilizado como referência para o primeiro 
 pavimento de uma residência. 
  
@@ -841,16 +665,11 @@ economia de energia, sem afetar a capacidade de geração
 da usina?`,
     images: ['/enem/2009/images/enem_2009_d1_q20.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Reduzir a quantidade de combustível fornecido à usina 
-para ser queimado.` },
-      { id: 'B', type: 'text', value: `Reduzir o volume de água do lago que circula no 
-condensador de vapor.` },
-      { id: 'C', type: 'text', value: `Reduzir o tamanho da bomba usada para devolver a 
-água líquida à caldeira.` },
-      { id: 'D', type: 'text', value: `Melhorar a capacidade dos dutos com vapor 
-conduzirem calor para o ambiente.` },
-      { id: 'E', type: 'text', value: `Usar o calor liberado com os gases pela chaminé para 
-mover um outro gerador.` },
+      { id: 'A', type: 'text', value: `Reduzir a quantidade de combustível fornecido à usina para ser queimado.` },
+      { id: 'B', type: 'text', value: `Reduzir o volume de água do lago que circula no condensador de vapor.` },
+      { id: 'C', type: 'text', value: `Reduzir o tamanho da bomba usada para devolver a água líquida à caldeira.` },
+      { id: 'D', type: 'text', value: `Melhorar a capacidade dos dutos com vapor conduzirem calor para o ambiente.` },
+      { id: 'E', type: 'text', value: `Usar o calor liberado com os gases pela chaminé para mover um outro gerador.` },
     ],
     correct: 'E',
     explanation: `Boa parte da energia da usina é perdida como calor nos gases quentes que escapam pela chaminé. Aproveitar esse calor residual para mover um outro gerador (cogeração) recupera energia que seria desperdiçada, aumentando o rendimento sem afetar a capacidade de geração (E). Reduzir o combustível (A) diminuiria a geração; reduzir a água do condensador (B) ou melhorar a condução de calor dos dutos para o ambiente (D) aumentariam as perdas; e a bomba de retorno (C) tem contribuição desprezível no rendimento.`,
@@ -868,13 +687,7 @@ produzidos e pelos processos reprodutivos que resultam
 na geração de novos indivíduos. 
  
 Considerando-se um modelo simplificado padrão para 
-geração 
-de 
-indivíduos 
-viáveis, 
-a 
-alternativa 
-que 
+geração de indivíduos viáveis, a alternativa que
 corresponde ao observado em seres humanos é:`,
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2009/images/enem_2009_d1_q21_A.jpg` },
@@ -928,18 +741,11 @@ De acordo com as informações contidas no texto e nas
 figuras, o uso da iontoforese`,
     images: ['/enem/2009/images/enem_2009_d1_q22_1.jpg', '/enem/2009/images/enem_2009_d1_q22_2.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `provoca ferimento na pele do paciente ao serem 
-introduzidos os eletrodos, rompendo o epitélio.` },
-      { id: 'B', type: 'text', value: `aumenta o risco de estresse nos pacientes, causado 
-pela aplicação da corrente elétrica.` },
-      { id: 'C', type: 'text', value: `inibe o mecanismo de ação dos medicamentos no 
-tecido-alvo, pois estes passam a entrar por meio da 
-pele.` },
-      { id: 'D', type: 'text', value: `diminui o efeito colateral dos medicamentos, se 
-comparados com aqueles em que a ingestão se faz 
-por via oral.` },
-      { id: 'E', type: 'text', value: `deve ser eficaz para medicamentos constituídos de 
-moléculas polares e ineficaz, se essas forem apolares.` },
+      { id: 'A', type: 'text', value: `provoca ferimento na pele do paciente ao serem introduzidos os eletrodos, rompendo o epitélio.` },
+      { id: 'B', type: 'text', value: `aumenta o risco de estresse nos pacientes, causado pela aplicação da corrente elétrica.` },
+      { id: 'C', type: 'text', value: `inibe o mecanismo de ação dos medicamentos no tecido-alvo, pois estes passam a entrar por meio da pele.` },
+      { id: 'D', type: 'text', value: `diminui o efeito colateral dos medicamentos, se comparados com aqueles em que a ingestão se faz por via oral.` },
+      { id: 'E', type: 'text', value: `deve ser eficaz para medicamentos constituídos de moléculas polares e ineficaz, se essas forem apolares.` },
     ],
     correct: 'D',
     explanation: `A iontoforese entrega o fármaco de forma localizada e dirigida através da pele, por meio de uma corrente elétrica de baixa intensidade (indolor e não invasiva), sem passar pelo trato digestório. Por ser direcionada ao alvo e evitar a distribuição sistêmica inespecífica da via oral, ela diminui os efeitos colaterais dos medicamentos em comparação com a ingestão oral (D). O texto afirma que a técnica não fere a pele (A), não causa estresse relevante (B), não inibe a ação no tecido-alvo (C) e funciona também para moléculas neutras, por eletrosmose (o que contraria E).`,
@@ -970,38 +776,15 @@ permitida desses metais em cada tipo de pilha/bateria,
 porém o problema ainda persiste. 
 Disponível em: http://www.mma.gov.br. 
 Acesso em: 11 jul. 2009 (adaptado). 
-Uma 
-medida 
-que 
-poderia 
-contribuir 
-para 
-acabar 
+Uma medida que poderia contribuir para acabar
 definitivamente com o problema da poluição ambiental por 
 metais pesados relatado no texto seria`,
     alternatives: [
-      { id: 'A', type: 'text', value: `deixar de consumir aparelhos elétricos que utilizem 
-pilha ou bateria como fonte de energia.` },
-      { id: 'B', type: 'text', value: `usar apenas pilhas ou baterias recarregáveis e de vida 
-útil longa e evitar ingerir alimentos contaminados, 
-especialmente peixes.` },
-      { id: 'C', type: 'text', value: `devolver pilhas e baterias, após o esgotamento da 
-energia armazenada, à rede de assistência técnica 
-especializada 
-para 
-repasse 
-a 
-fabricantes 
-e/ou 
-importadores.` },
-      { id: 'D', type: 'text', value: `criar nas cidades, especialmente naquelas com mais 
-de 100 mil habitantes, pontos estratégicos de coleta de 
-baterias e pilhas, para posterior repasse a fabricantes 
-e/ou importadores.` },
-      { id: 'E', type: 'text', value: `exigir que fabricantes invistam em pesquisa para a 
-substituição desses metais tóxicos por substâncias 
-menos nocivas ao homem e ao ambiente, e que não 
-sejam bioacumulativas.` },
+      { id: 'A', type: 'text', value: `deixar de consumir aparelhos elétricos que utilizem pilha ou bateria como fonte de energia.` },
+      { id: 'B', type: 'text', value: `usar apenas pilhas ou baterias recarregáveis e de vida útil longa e evitar ingerir alimentos contaminados, especialmente peixes.` },
+      { id: 'C', type: 'text', value: `devolver pilhas e baterias, após o esgotamento da energia armazenada, à rede de assistência técnica especializada para repasse a fabricantes e/ou importadores.` },
+      { id: 'D', type: 'text', value: `criar nas cidades, especialmente naquelas com mais de 100 mil habitantes, pontos estratégicos de coleta de baterias e pilhas, para posterior repasse a fabricantes e/ou importadores.` },
+      { id: 'E', type: 'text', value: `exigir que fabricantes invistam em pesquisa para a substituição desses metais tóxicos por substâncias menos nocivas ao homem e ao ambiente, e que não sejam bioacumulativas.` },
     ],
     correct: 'E',
     explanation: `Os metais pesados (Cd, Pb, Hg) de pilhas e baterias são tóxicos, bioacumulativos e não biodegradáveis; mesmo com coleta e legislação, continuam a contaminar o ambiente sempre que há descarte inadequado. A medida capaz de acabar definitivamente com o problema é exigir que os fabricantes substituam esses metais por substâncias menos nocivas e não bioacumulativas (E), eliminando a própria fonte da contaminação. Deixar de consumir, usar recarregáveis ou criar pontos de coleta/devolução (A, B, C, D) apenas reduzem o problema, pois dependem do comportamento das pessoas e não eliminam o poluente.`,
@@ -1030,18 +813,11 @@ Considerando-se as informações do texto e do gráfico,
 conclui-se que`,
     images: ['/enem/2009/images/enem_2009_d1_q24.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a insolação é um fator que provoca variação da 
-umidade relativa do ar.` },
-      { id: 'B', type: 'text', value: `o ar vai adquirindo maior quantidade de vapor de água 
-à medida que se aquece.` },
-      { id: 'C', type: 'text', value: `a presença de umidade relativa do ar é diretamente 
-proporcional à temperatura do ar.` },
-      { id: 'D', type: 'text', value: `a umidade relativa do ar indica, em termos absolutos, 
-a quantidade de vapor de água existente na 
-atmosfera.` },
-      { id: 'E', type: 'text', value: `a variação da umidade do ar se verifica no verão, e 
-não no inverno, quando as temperaturas permanecem 
-baixas.` },
+      { id: 'A', type: 'text', value: `a insolação é um fator que provoca variação da umidade relativa do ar.` },
+      { id: 'B', type: 'text', value: `o ar vai adquirindo maior quantidade de vapor de água à medida que se aquece.` },
+      { id: 'C', type: 'text', value: `a presença de umidade relativa do ar é diretamente proporcional à temperatura do ar.` },
+      { id: 'D', type: 'text', value: `a umidade relativa do ar indica, em termos absolutos, a quantidade de vapor de água existente na atmosfera.` },
+      { id: 'E', type: 'text', value: `a variação da umidade do ar se verifica no verão, e não no inverno, quando as temperaturas permanecem baixas.` },
     ],
     correct: 'A',
     explanation: `O gráfico mostra que, nos horários de temperatura mais alta, a umidade relativa é menor, e vice-versa (relação inversa ao longo das 24 horas). Como o aquecimento diurno decorre da insolação, conclui-se que a insolação é um fator que provoca a variação da umidade relativa do ar (A): ao se aquecer, o ar aumenta sua capacidade de reter vapor, e a umidade relativa (razão entre o vapor presente e o de saturação) diminui. A umidade relativa não cresce com a temperatura (contraria B e C) nem indica, em termos absolutos, a quantidade de vapor (D).`,
@@ -1071,17 +847,11 @@ animal não infectado ter resultado negativo, a interpretação
 do quadro permite inferir que`,
     images: ['/enem/2009/images/enem_2009_d1_q25.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a especificidade aponta um número de 5 falsos 
-positivos.` },
-      { id: 'B', type: 'text', value: `o teste, a cada 100 indivíduos infectados, classificaria 
-90 como positivos.` },
-      { id: 'C', type: 'text', value: `o teste classificaria 96 como positivos em cada 100 
-indivíduos não infectados.` },
-      { id: 'D', type: 'text', value: `ações de profilaxia são medidas adotadas para o 
-tratamento de falsos positivos.` },
-      { id: 'E', type: 'text', value: `testes de alta sensibilidade resultam em maior número 
-de animais falsos negativos comparado a um teste de 
-baixa sensibilidade.` },
+      { id: 'A', type: 'text', value: `a especificidade aponta um número de 5 falsos positivos.` },
+      { id: 'B', type: 'text', value: `o teste, a cada 100 indivíduos infectados, classificaria 90 como positivos.` },
+      { id: 'C', type: 'text', value: `o teste classificaria 96 como positivos em cada 100 indivíduos não infectados.` },
+      { id: 'D', type: 'text', value: `ações de profilaxia são medidas adotadas para o tratamento de falsos positivos.` },
+      { id: 'E', type: 'text', value: `testes de alta sensibilidade resultam em maior número de animais falsos negativos comparado a um teste de baixa sensibilidade.` },
     ],
     correct: 'B',
     explanation: `A sensibilidade é a probabilidade de um animal infectado ser classificado como positivo. Pelo quadro, entre os animais infectados, 45 de 50 deram positivo, o que corresponde a uma sensibilidade de 90%. De forma proporcional, a cada 100 indivíduos infectados o teste classificaria 90 como positivos (B). As demais alternativas confundem especificidade e falsos positivos (A e C), o conceito de profilaxia (D) ou invertem a relação entre sensibilidade e número de falsos negativos (E).`,
@@ -1142,24 +912,11 @@ Considerando o texto e as leis de Kepler, pode-se afirmar
 que a frase dita pelo astronauta`,
     images: ['/enem/2009/images/enem_2009_d1_q27.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `se justifica porque o tamanho do telescópio determina 
-a sua massa, enquanto seu pequeno peso decorre da 
-falta de ação da aceleração da gravidade.` },
-      { id: 'B', type: 'text', value: `se justifica ao verificar que a inércia do telescópio é 
-grande comparada à dele próprio, e que o peso do 
-telescópio é pequeno porque a atração gravitacional 
-criada por sua massa era pequena.` },
-      { id: 'C', type: 'text', value: `não se justifica, porque a avaliação da massa e do 
-peso de objetos em órbita tem por base as leis de 
-Kepler, que não se aplicam a satélites artificiais.` },
-      { id: 'D', type: 'text', value: `não se justifica, porque a força-peso é a força exercida 
-pela gravidade terrestre, neste caso, sobre o 
-telescópio e é a responsável por manter o próprio 
-telescópio em órbita.` },
-      { id: 'E', type: 'text', value: `não se justifica, pois a ação da força-peso implica a 
-ação de uma força de reação contrária, que não existe 
-naquele ambiente. A massa do telescópio poderia ser 
-avaliada simplesmente pelo seu volume.` },
+      { id: 'A', type: 'text', value: `se justifica porque o tamanho do telescópio determina a sua massa, enquanto seu pequeno peso decorre da falta de ação da aceleração da gravidade.` },
+      { id: 'B', type: 'text', value: `se justifica ao verificar que a inércia do telescópio é grande comparada à dele próprio, e que o peso do telescópio é pequeno porque a atração gravitacional criada por sua massa era pequena.` },
+      { id: 'C', type: 'text', value: `não se justifica, porque a avaliação da massa e do peso de objetos em órbita tem por base as leis de Kepler, que não se aplicam a satélites artificiais.` },
+      { id: 'D', type: 'text', value: `não se justifica, porque a força-peso é a força exercida pela gravidade terrestre, neste caso, sobre o telescópio e é a responsável por manter o próprio telescópio em órbita.` },
+      { id: 'E', type: 'text', value: `não se justifica, pois a ação da força-peso implica a ação de uma força de reação contrária, que não existe naquele ambiente. A massa do telescópio poderia ser avaliada simplesmente pelo seu volume.` },
     ],
     correct: 'D',
     explanation: `A frase não se justifica. A força-peso é a atração gravitacional da Terra sobre o telescópio; a 560 km de altitude a gravidade ainda é intensa (cerca de 90% da de superfície) e é exatamente essa força-peso que atua como força centrípeta, mantendo o telescópio em órbita (D). O que o astronauta percebe é a imponderabilidade (peso aparente nulo), por estarem ambos em queda livre, mas o peso real continua existindo. Não há ausência de gravidade (A), as leis de Kepler se aplicam a satélites (C) e a análise da alternativa E é fisicamente incorreta.`,
@@ -1196,28 +953,11 @@ específicos. Os resultados obtidos foram os seguintes:
 Para o reflorestamento da região desmatada,`,
     images: ['/enem/2009/images/enem_2009_d1_q28.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a espécie 8 é mais indicada que a 1, uma vez que 
-aquela possui melhor adaptação a regiões com maior 
-incidência de luz.` },
-      { id: 'B', type: 'text', value: `recomenda-se a utilização de espécies pioneiras, isto 
-é, aquelas que suportam alta incidência de luz, como 
-as espécies 2, 3 e 5.` },
-      { id: 'C', type: 'text', value: `sugere-se o uso de espécies exóticas, pois somente 
-essas podem suportar a alta incidência luminosa 
-característica de regiões desmatadas.` },
-      { id: 'D', type: 'text', value: `espécies de comunidade clímax, como as 4 e 7, são 
-as mais indicadas, uma vez que possuem boa 
-capacidade de aclimatação a diferentes ambientes.` },
-      { id: 'E', type: 'text', value: `é recomendado o uso de espécies com melhor 
-desenvolvimento à sombra, como as plantas das 
-espécies 4, 6, 7, 9 e 10, pois essa floresta, mesmo no 
-estágio 
-de 
-degradação 
-referido, 
-possui 
-dossel 
-fechado, o que impede a entrada de luz.` },
+      { id: 'A', type: 'text', value: `a espécie 8 é mais indicada que a 1, uma vez que aquela possui melhor adaptação a regiões com maior incidência de luz.` },
+      { id: 'B', type: 'text', value: `recomenda-se a utilização de espécies pioneiras, isto é, aquelas que suportam alta incidência de luz, como as espécies 2, 3 e 5.` },
+      { id: 'C', type: 'text', value: `sugere-se o uso de espécies exóticas, pois somente essas podem suportar a alta incidência luminosa característica de regiões desmatadas.` },
+      { id: 'D', type: 'text', value: `espécies de comunidade clímax, como as 4 e 7, são as mais indicadas, uma vez que possuem boa capacidade de aclimatação a diferentes ambientes.` },
+      { id: 'E', type: 'text', value: `é recomendado o uso de espécies com melhor desenvolvimento à sombra, como as plantas das espécies 4, 6, 7, 9 e 10, pois essa floresta, mesmo no estágio de degradação referido, possui dossel fechado, o que impede a entrada de luz.` },
     ],
     correct: 'B',
     explanation: `Uma área recém-desmatada tem solo exposto e alta incidência de luz. O reflorestamento deve começar por espécies pioneiras, que toleram e se desenvolvem bem sob forte luminosidade (sol pleno); pelos resultados do experimento, enquadram-se nessa condição as espécies 2, 3 e 5 (B). Essas pioneiras crescem, sombreiam o ambiente e preparam o terreno para a posterior entrada das espécies de estágios mais avançados (clímax, adaptadas à sombra). Iniciar com espécies de clímax ou de sombra (D e E) ou com espécies exóticas (C) é inadequado.`,
@@ -1230,13 +970,7 @@ fechado, o que impede a entrada de luz.` },
     year: 2009,
     day: 1,
     text: `Os núcleos dos átomos são constituídos de 
-prótons 
-e 
-nêutrons, 
-sendo 
-ambos 
-os 
-principais 
+prótons e nêutrons, sendo ambos os principais
 responsáveis pela sua massa. Nota-se que, na maioria dos 
 núcleos, essas partículas não estão presentes na mesma 
 proporção. O gráfico mostra a quantidade de nêutrons (N) 
@@ -1251,14 +985,11 @@ número de nêutrons. De acordo com o gráfico, os isótopos
 estáveis do antimônio possuem`,
     images: ['/enem/2009/images/enem_2009_d1_q29.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `entre 12 e 24 nêutrons a menos que o número de 
-prótons.` },
+      { id: 'A', type: 'text', value: `entre 12 e 24 nêutrons a menos que o número de prótons.` },
       { id: 'B', type: 'text', value: `exatamente o mesmo número de prótons e nêutrons.` },
       { id: 'C', type: 'text', value: `entre 0 e 12 nêutrons a mais que o número de prótons.` },
-      { id: 'D', type: 'text', value: `entre 12 e 24 nêutrons a mais que o número de 
-prótons.` },
-      { id: 'E', type: 'text', value: `entre 0 e 12 nêutrons a menos que o número de 
-prótons.` },
+      { id: 'D', type: 'text', value: `entre 12 e 24 nêutrons a mais que o número de prótons.` },
+      { id: 'E', type: 'text', value: `entre 0 e 12 nêutrons a menos que o número de prótons.` },
     ],
     correct: 'D',
     explanation: `Para núcleos leves vale N ≈ Z, mas, à medida que o número de prótons cresce, os núcleos estáveis passam a ter excesso de nêutrons: a linha de estabilidade afasta-se da reta N = Z. Lendo o gráfico em Z = 50 (antimônio), os isótopos estáveis situam-se em torno de N ≈ 62 a 74 nêutrons. Logo, esses isótopos possuem entre 12 e 24 nêutrons a mais que o número de prótons (D).`,
@@ -1285,16 +1016,11 @@ de gasolina consumida para o aquecimento de água obtido
 pelo gerador, quando comparado ao obtido a partir da 
 combustão?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `A quantidade de gasolina consumida é igual para os 
-dois casos.` },
-      { id: 'B', type: 'text', value: `A quantidade de gasolina consumida pelo gerador é 
-duas vezes maior que a consumida na combustão.` },
-      { id: 'C', type: 'text', value: `A quantidade de gasolina consumida pelo gerador é 
-duas vezes menor que a consumida na combustão.` },
-      { id: 'D', type: 'text', value: `A quantidade de gasolina consumida pelo gerador é 
-sete vezes maior que a consumida na combustão.` },
-      { id: 'E', type: 'text', value: `A quantidade de gasolina consumida pelo gerador é 
-sete vezes menor que a consumida na combustão.` },
+      { id: 'A', type: 'text', value: `A quantidade de gasolina consumida é igual para os dois casos.` },
+      { id: 'B', type: 'text', value: `A quantidade de gasolina consumida pelo gerador é duas vezes maior que a consumida na combustão.` },
+      { id: 'C', type: 'text', value: `A quantidade de gasolina consumida pelo gerador é duas vezes menor que a consumida na combustão.` },
+      { id: 'D', type: 'text', value: `A quantidade de gasolina consumida pelo gerador é sete vezes maior que a consumida na combustão.` },
+      { id: 'E', type: 'text', value: `A quantidade de gasolina consumida pelo gerador é sete vezes menor que a consumida na combustão.` },
     ],
     correct: 'D',
     explanation: `Calor para aquecer a água (calor sensível): Q = m·c·ΔT = 200 000 g × 4,19 × (55 − 20) ≈ 2,93 × 10⁷ J. A potência elétrica do gerador é P = U²/R = 110²/11 = 1 100 W. O tempo necessário é t = Q/P = 2,93 × 10⁷ ÷ 1 100 ≈ 2,67 × 10⁴ s ≈ 7,4 h. Como o gerador consome 1 L de gasolina por hora, ele gasta cerca de 7 L para o mesmo aquecimento que a combustão direta obteve com 1 L; ou seja, o gerador consome aproximadamente sete vezes mais gasolina (D).`,
@@ -1325,18 +1051,11 @@ apenas o número de antenas em uma região, ele deverá
 escolher:`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `a tecnologia GSM, pois é a que opera com ondas de 
-maior comprimento de onda.` },
-      { id: 'B', type: 'text', value: `a tecnologia TDMA/CDMA, pois é a que apresenta 
-Efeito Doppler mais pronunciado.` },
-      { id: 'C', type: 'text', value: `a tecnologia GSM, pois é a que utiliza ondas que se 
-propagam com maior velocidade.` },
-      { id: 'D', type: 'text', value: `qualquer uma das duas, pois as diferenças nas 
-frequências são compensadas pelas diferenças nos 
-comprimentos de onda.` },
-      { id: 'E', type: 'text', value: `qualquer uma das duas, pois nesse caso as 
-intensidades decaem igualmente da mesma forma, 
-independentemente da frequência.` },
+      { id: 'A', type: 'text', value: `a tecnologia GSM, pois é a que opera com ondas de maior comprimento de onda.` },
+      { id: 'B', type: 'text', value: `a tecnologia TDMA/CDMA, pois é a que apresenta Efeito Doppler mais pronunciado.` },
+      { id: 'C', type: 'text', value: `a tecnologia GSM, pois é a que utiliza ondas que se propagam com maior velocidade.` },
+      { id: 'D', type: 'text', value: `qualquer uma das duas, pois as diferenças nas frequências são compensadas pelas diferenças nos comprimentos de onda.` },
+      { id: 'E', type: 'text', value: `qualquer uma das duas, pois nesse caso as intensidades decaem igualmente da mesma forma, independentemente da frequência.` },
     ],
     correct: 'E',
     explanation: `A intensidade de uma onda eletromagnética decai com a distância pelo espalhamento geométrico, segundo I = P/(4πr²), relação que independe da frequência da onda. Como o enunciado fixa a mesma intensidade de transmissão e o mesmo nível de recepção para as duas tecnologias, o alcance — e, portanto, o número de antenas necessárias para cobrir a região — é o mesmo nos dois casos. Logo, o engenheiro pode escolher qualquer uma das duas, pois as intensidades decaem da mesma forma, independentemente da frequência (E).`,
@@ -1366,22 +1085,11 @@ radiação e os átomos do indivíduo que permitem a
 obtenção desta imagem inclui-se a`,
     images: ['/enem/2009/images/enem_2009_d1_q32.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `absorção 
-da 
-radiação 
-eletromagnética 
-e 
-a 
-consequente ionização dos átomos de cálcio, que se 
-transformam em átomos de fósforo.` },
-      { id: 'B', type: 'text', value: `maior absorção da radiação eletromagnética pelos 
-átomos de cálcio que por outros tipos de átomos.` },
-      { id: 'C', type: 'text', value: `maior absorção da radiação eletromagnética pelos 
-átomos de carbono que por átomos de cálcio.` },
-      { id: 'D', type: 'text', value: `maior refração ao atravessar os átomos de carbono 
-que os átomos de cálcio.` },
-      { id: 'E', type: 'text', value: `maior ionização de moléculas de água que de átomos 
-de carbono.` },
+      { id: 'A', type: 'text', value: `absorção da radiação eletromagnética e a consequente ionização dos átomos de cálcio, que se transformam em átomos de fósforo.` },
+      { id: 'B', type: 'text', value: `maior absorção da radiação eletromagnética pelos átomos de cálcio que por outros tipos de átomos.` },
+      { id: 'C', type: 'text', value: `maior absorção da radiação eletromagnética pelos átomos de carbono que por átomos de cálcio.` },
+      { id: 'D', type: 'text', value: `maior refração ao atravessar os átomos de carbono que os átomos de cálcio.` },
+      { id: 'E', type: 'text', value: `maior ionização de moléculas de água que de átomos de carbono.` },
     ],
     correct: 'B',
     explanation: `A radiação de comprimento de onda bem menor que o do ultravioleta é o raio X. A imagem se forma porque os tecidos absorvem a radiação de maneira diferente: os ossos, ricos em cálcio (átomos mais pesados e densos), absorvem muito mais os raios X do que os tecidos moles, constituídos sobretudo por átomos leves (carbono, hidrogênio, oxigênio). Onde há mais absorção (ossos) chega menos radiação ao filme, que fica claro; onde há menos absorção, o filme escurece. Assim, o fenômeno envolvido é a maior absorção da radiação eletromagnética pelos átomos de cálcio que por outros tipos de átomos (B).`,
@@ -1407,12 +1115,9 @@ O mecanismo evolutivo envolvido na associação entre cores de pelagem e de subs
     alternatives: [
       { id: 'A', type: 'text', value: `a alimentação, pois pigmentos de terra são absorvidos e alteram a cor da pelagem dos roedores.` },
       { id: 'B', type: 'text', value: `o fluxo gênico entre as diferentes populações, que mantém constante a grande diversidade interpopulacional.` },
-      { id: 'C', type: 'text', value: `a seleção natural, que, nesse caso, poderia ser entendida como a sobrevivência diferenciada de indivíduos com 
-características distintas.` },
-      { id: 'D', type: 'text', value: `a mutação genética, que, em certos ambientes, como os de solo mais escuro, têm maior ocorrência e capacidade de 
-alterar significativamente a cor da pelagem dos animais.` },
-      { id: 'E', type: 'text', value: `a herança de caracteres adquiridos, capacidade de organismos se adaptarem a diferentes ambientes e transmitirem 
-suas características genéticas aos descendentes.` },
+      { id: 'C', type: 'text', value: `a seleção natural, que, nesse caso, poderia ser entendida como a sobrevivência diferenciada de indivíduos com características distintas.` },
+      { id: 'D', type: 'text', value: `a mutação genética, que, em certos ambientes, como os de solo mais escuro, têm maior ocorrência e capacidade de alterar significativamente a cor da pelagem dos animais.` },
+      { id: 'E', type: 'text', value: `a herança de caracteres adquiridos, capacidade de organismos se adaptarem a diferentes ambientes e transmitirem suas características genéticas aos descendentes.` },
     ],
     correct: 'C',
     explanation: `A coloração da pelagem acompanha a cor do solo ao longo do gradiente geográfico porque os indivíduos com pelagem semelhante ao substrato ficam camuflados e escapam melhor dos predadores, deixando mais descendentes. Esse é o mecanismo da seleção natural: a sobrevivência e a reprodução diferenciadas dos indivíduos cujas características são mais vantajosas em cada ambiente (C). Não se trata de alimentação alterando a cor (A), de fluxo gênico homogeneizador (B), de mutação dirigida pelo ambiente (D) nem de herança de caracteres adquiridos/lamarckismo (E).`,
@@ -1440,8 +1145,7 @@ exceto no que se refere ao umedecimento periódico do composto. Nessa situação
       { id: 'B', type: 'text', value: `o adubo formado seria pobre em matéria orgânica que não foi transformada em composto.` },
       { id: 'C', type: 'text', value: `a falta de água no composto vai impedir que microrganismos decomponham a matéria orgânica.` },
       { id: 'D', type: 'text', value: `a falta de água no composto iria elevar a temperatura da mistura, o que resultaria na perda de nutrientes essenciais.` },
-      { id: 'E', type: 'text', value: `apenas microrganismos que independem de oxigênio poderiam agir sobre a matéria orgânica e transformá-la em 
-adubo.` },
+      { id: 'E', type: 'text', value: `apenas microrganismos que independem de oxigênio poderiam agir sobre a matéria orgânica e transformá-la em adubo.` },
     ],
     correct: 'C',
     explanation: `A compostagem depende da ação de microrganismos decompositores (bactérias e fungos) que degradam a matéria orgânica, e esses organismos precisam de água para sua atividade metabólica e proliferação. Sem o umedecimento periódico, a falta de água impede que os microrganismos decomponham a matéria orgânica, interrompendo a formação do adubo (C). O mau cheiro intenso (A) e a ação exclusiva de microrganismos anaeróbios (E) estão associados ao excesso de água e à falta de aeração, e não à sua falta.`,
@@ -1455,15 +1159,10 @@ adubo.` },
     day: 1,
     text: `O Sol representa uma fonte limpa e inesgotável de 
 energia para o nosso planeta. Essa energia pode ser 
-captada 
-por 
-aquecedores 
-solares, 
-armazenada 
-e 
+captada por aquecedores solares, armazenada e
 convertida posteriormente em trabalho útil. Considere 
 determinada região cuja insolação - potência solar 
-incidente na superfície da Terra - seja de 800 watts/m2. 
+incidente na superfície da Terra - seja de 800 watts/m². 
 Uma usina termossolar utiliza concentradores solares 
 parabólicos que chegam a dezenas de quilômetros de 
 extensão. Nesses coletores solares parabólicos, a luz 
@@ -1478,11 +1177,11 @@ gerador de energia elétrica.
  
 Considerando que a distância entre a borda inferior e a 
 borda superior da superfície refletora tenha 6 m de largura 
-e que focaliza no receptor os 800 watts/m2 de radiação 
+e que focaliza no receptor os 800 watts/m² de radiação 
 provenientes do Sol, e que o calor específico da água é 
-1 cal g-1 ºC-1 = 4.200 J kg-1 ºC-1, então o comprimento linear 
+1 cal g⁻¹ ºC⁻¹ = 4.200 J kg⁻¹ ºC⁻¹, então o comprimento linear 
 do refletor parabólico necessário para elevar a temperatura 
-de 1 m3 (equivalente a 1 t) de água de 20 °C para 100 °C, 
+de 1 m³ (equivalente a 1 t) de água de 20 °C para 100 °C, 
 em uma hora, estará entre`,
     images: ['/enem/2009/images/enem_2009_d1_q35.jpg'],
     alternatives: [
@@ -1539,11 +1238,7 @@ funcionar como molécula ativa de protetores solares?`,
     text: `Sabe-se que o olho humano não consegue diferenciar 
 componentes de cores e vê apenas a cor resultante, 
 diferentemente do ouvido, que consegue distinguir, por 
-exemplo, 
-dois 
-instrumentos 
-diferentes 
-tocados 
+exemplo, dois instrumentos diferentes tocados
 simultaneamente. Os raios luminosos do espectro visível, que 
 têm comprimento de onda entre 380 nm e 780 nm, incidem na 
 córnea, passam pelo cristalino e são projetados na retina. Na 
@@ -1561,22 +1256,11 @@ captar as informações transmitidas pelos cones, perceberá
 um objeto branco, iluminado apenas por luz vermelha, 
 como`,
     alternatives: [
-      { id: 'A', type: 'text', value: `um objeto indefinido, pois as células que captam a luz 
-estão inativas.` },
-      { id: 'B', type: 'text', value: `um objeto rosa, pois haverá mistura da luz vermelha 
-com o branco do objeto.` },
-      { id: 'C', type: 'text', value: `um objeto verde, pois o olho não consegue diferenciar 
-componentes de cores.` },
-      { id: 'D', type: 'text', value: `um 
-objeto 
-cinza, 
-pois 
-os 
-bastonetes 
-captam 
-luminosidade, porém não diferenciam cor.` },
-      { id: 'E', type: 'text', value: `um objeto vermelho, pois a retina capta a luz refletida 
-pelo objeto, transformando-a em vermelho.` },
+      { id: 'A', type: 'text', value: `um objeto indefinido, pois as células que captam a luz estão inativas.` },
+      { id: 'B', type: 'text', value: `um objeto rosa, pois haverá mistura da luz vermelha com o branco do objeto.` },
+      { id: 'C', type: 'text', value: `um objeto verde, pois o olho não consegue diferenciar componentes de cores.` },
+      { id: 'D', type: 'text', value: `um objeto cinza, pois os bastonetes captam luminosidade, porém não diferenciam cor.` },
+      { id: 'E', type: 'text', value: `um objeto vermelho, pois a retina capta a luz refletida pelo objeto, transformando-a em vermelho.` },
     ],
     correct: 'D',
     explanation: `Um objeto branco reflete toda a luz que incide sobre ele; iluminado apenas por luz vermelha, ele reflete luz vermelha. O indivíduo que não capta as informações dos cones (responsáveis pela percepção das cores) dispõe apenas dos bastonetes, que registram a intensidade luminosa mas não diferenciam comprimentos de onda (cor). Por isso ele perceberá o objeto como cinza, enxergando apenas a luminosidade, sem distinguir a cor (D).`,
@@ -1622,35 +1306,16 @@ dono do posto teria obtido devido ao aquecimento do
     exam: 'enem',
     year: 2009,
     day: 1,
-    text: `A 
-invenção 
-da 
-geladeira 
-proporcionou 
-uma 
-revolução 
-no 
-aproveitamento 
-dos 
-alimentos, 
-ao 
+    text: `A invenção da geladeira proporcionou uma revolução no aproveitamento dos alimentos, ao
 permitir que fossem armazenados e 
 transportados por longos períodos. A 
 figura apresentada ilustra o processo 
-cíclico 
-de 
-funcionamento 
-de 
-uma 
+cíclico de funcionamento de uma
 geladeira, em que um gás no interior de 
 uma tubulação é forçado a circular entre 
 o congelador e a parte externa da 
 geladeira. É por meio dos processos de 
-compressão, 
-que 
-ocorre 
-na 
-parte 
+compressão, que ocorre na parte
 externa, e de expansão, que ocorre na parte interna, que o 
 gás proporciona a troca de calor entre o interior e o exterior 
 da geladeira. 
@@ -1660,26 +1325,11 @@ Nos processos de transformação de energia envolvidos no
 funcionamento da geladeira,`,
     images: ['/enem/2009/images/enem_2009_d1_q39.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a expansão do gás é um processo que cede a energia 
-necessária ao resfriamento da parte interna da 
-geladeira.` },
-      { id: 'B', type: 'text', value: `o calor flui de forma não-espontânea da parte mais 
-fria, no interior, para a mais quente, no exterior da 
-geladeira.` },
-      { id: 'C', type: 'text', value: `a quantidade de calor cedida ao meio externo é igual 
-ao calor retirado da geladeira.` },
-      { id: 'D', type: 'text', value: `a eficiência é tanto maior quanto menos isolado 
-termicamente 
-do 
-ambiente 
-externo 
-for 
-o 
-seu 
-compartimento interno.` },
-      { id: 'E', type: 'text', value: `a energia retirada do interior pode ser devolvida à 
-geladeira abrindo-se a sua porta, o que reduz seu 
-consumo de energia.` },
+      { id: 'A', type: 'text', value: `a expansão do gás é um processo que cede a energia necessária ao resfriamento da parte interna da geladeira.` },
+      { id: 'B', type: 'text', value: `o calor flui de forma não-espontânea da parte mais fria, no interior, para a mais quente, no exterior da geladeira.` },
+      { id: 'C', type: 'text', value: `a quantidade de calor cedida ao meio externo é igual ao calor retirado da geladeira.` },
+      { id: 'D', type: 'text', value: `a eficiência é tanto maior quanto menos isolado termicamente do ambiente externo for o seu compartimento interno.` },
+      { id: 'E', type: 'text', value: `a energia retirada do interior pode ser devolvida à geladeira abrindo-se a sua porta, o que reduz seu consumo de energia.` },
     ],
     correct: 'B',
     explanation: `A geladeira é uma máquina térmica de refrigeração: por meio do trabalho realizado pelo compressor (às custas de energia elétrica), ela retira calor de seu interior (fonte fria) e o rejeita para o ambiente externo (fonte quente). Esse fluxo de calor do corpo mais frio para o mais quente não é espontâneo — ocorre justamente porque há trabalho externo, em acordo com a 2ª Lei da Termodinâmica (B). O calor cedido ao exterior é maior que o retirado (inclui o trabalho do compressor), e as demais alternativas violam princípios termodinâmicos.`,
@@ -1692,28 +1342,12 @@ consumo de energia.` },
     year: 2009,
     day: 1,
     text: `Na manipulação em escala nanométrica, os 
-átomos 
-revelam 
-características 
-peculiares, 
-podendo 
+átomos revelam características peculiares, podendo
 apresentar tolerância à temperatura, reatividade química, 
-condutividade 
-elétrica, 
-ou 
-mesmo 
-exibir 
-força 
-de 
+condutividade elétrica, ou mesmo exibir força de
 intensidade extraordinária. Essas características explicam 
 o interesse industrial pelos nanomateriais que estão sendo 
-muito 
-pesquisados 
-em 
-diversas 
-áreas, 
-desde 
-o 
+muito pesquisados em diversas áreas, desde o
 desenvolvimento de cosméticos, tintas e tecidos, até o de 
 terapias contra o câncer. 
 LACAVA, Z. G. M; MORAIS, P. C. Nanobiotecnologia e Saúde. Disponível em: 
@@ -1721,24 +1355,11 @@ http://www.comciencia.br (adaptado).
 A utilização de nanopartículas na indústria e na medicina 
 requer estudos mais detalhados, pois`,
     alternatives: [
-      { id: 'A', type: 'text', value: `as partículas, quanto menores, mais potentes e 
-radiativas se tornam.` },
-      { id: 'B', type: 'text', value: `as partículas podem ser manipuladas, mas não 
-caracterizadas com a atual tecnologia.` },
-      { id: 'C', type: 'text', value: `as propriedades biológicas das partículas somente 
-podem ser testadas em microrganismos.` },
-      { id: 'D', type: 'text', value: `as partículas podem atravessar poros e canais 
-celulares, 
-o 
-que 
-poderia 
-causar 
-impactos 
-desconhecidos aos seres vivos e, até mesmo, aos 
-ecossistemas.` },
-      { id: 'E', type: 'text', value: `o organismo humano apresenta imunidade contra 
-partículas tão pequenas, já que apresentam a mesma 
-dimensão das bactérias (um bilionésimo de metro).` },
+      { id: 'A', type: 'text', value: `as partículas, quanto menores, mais potentes e radiativas se tornam.` },
+      { id: 'B', type: 'text', value: `as partículas podem ser manipuladas, mas não caracterizadas com a atual tecnologia.` },
+      { id: 'C', type: 'text', value: `as propriedades biológicas das partículas somente podem ser testadas em microrganismos.` },
+      { id: 'D', type: 'text', value: `as partículas podem atravessar poros e canais celulares, o que poderia causar impactos desconhecidos aos seres vivos e, até mesmo, aos ecossistemas.` },
+      { id: 'E', type: 'text', value: `o organismo humano apresenta imunidade contra partículas tão pequenas, já que apresentam a mesma dimensão das bactérias (um bilionésimo de metro).` },
     ],
     correct: 'D',
     explanation: `Por terem dimensões nanométricas, as nanopartículas podem atravessar poros e canais das membranas celulares e penetrar nos organismos, interagindo com estruturas biológicas de maneira ainda pouco conhecida. Por isso seu uso na indústria e na medicina exige estudos mais detalhados: elas podem causar impactos imprevisíveis aos seres vivos e, até mesmo, aos ecossistemas (D). Não se tornam radiativas por serem menores (A), podem ser caracterizadas pela tecnologia atual (B), suas propriedades biológicas não se testam só em microrganismos (C) e o organismo não possui imunidade automática contra elas (E).`,
@@ -1755,12 +1376,7 @@ carbonizada devido a uma explosão. Indícios, como certos
 adereços de metal usados pela vítima, sugerem que a 
 mesma seja filha de um determinado casal. Uma equipe 
 policial de perícia teve acesso ao material biológico 
-carbonizado 
-da 
-vítima, 
-reduzido, 
-praticamente, 
-a 
+carbonizado da vítima, reduzido, praticamente, a
 fragmentos de ossos. Sabe-se que é possível obter DNA 
 em condições para análise genética de parte do tecido 
 interno de ossos. Os peritos necessitam escolher, entre 
@@ -1777,28 +1393,11 @@ diferentes padrões de herança de cada fonte de DNA
 citada, a melhor opção para a perícia seria a utilização`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `do DNAmt, transmitido ao longo da linhagem materna, 
-pois, em cada célula humana, há várias cópias dessa 
-molécula.` },
-      { id: 'B', type: 'text', value: `do cromossomo X, pois a vítima herdou duas cópias 
-desse cromossomo, estando assim em número 
-superior aos demais.` },
-      { id: 'C', type: 'text', value: `do cromossomo autossômico, pois esse cromossomo 
-apresenta maior quantidade de material genético 
-quando comparado aos nucleares, como, por exemplo, 
-o DNAmt.` },
-      { id: 'D', type: 'text', value: `do cromossomo Y, pois, em condições normais, este é 
-transmitido integralmente do pai para toda a prole e 
-está presente em duas cópias em células de 
-indivíduos do sexo feminino.` },
-      { id: 'E', type: 'text', value: `de 
-marcadores 
-genéticos 
-em 
-cromossomos 
-autossômicos, pois estes, além de serem transmitidos 
-pelo pai e pela mãe, estão presentes em 44 cópias por 
-célula, e os demais, em apenas uma.` },
+      { id: 'A', type: 'text', value: `do DNAmt, transmitido ao longo da linhagem materna, pois, em cada célula humana, há várias cópias dessa molécula.` },
+      { id: 'B', type: 'text', value: `do cromossomo X, pois a vítima herdou duas cópias desse cromossomo, estando assim em número superior aos demais.` },
+      { id: 'C', type: 'text', value: `do cromossomo autossômico, pois esse cromossomo apresenta maior quantidade de material genético quando comparado aos nucleares, como, por exemplo, o DNAmt.` },
+      { id: 'D', type: 'text', value: `do cromossomo Y, pois, em condições normais, este é transmitido integralmente do pai para toda a prole e está presente em duas cópias em células de indivíduos do sexo feminino.` },
+      { id: 'E', type: 'text', value: `de marcadores genéticos em cromossomos autossômicos, pois estes, além de serem transmitidos pelo pai e pela mãe, estão presentes em 44 cópias por célula, e os demais, em apenas uma.` },
     ],
     correct: 'A',
     explanation: `Dos fragmentos ósseos carbonizados interessa a fonte de DNA com maior número de cópias por célula, para maximizar a chance de obter moléculas não degradadas pelo calor. O DNA mitocondrial (DNAmt) existe em muitas cópias por célula (há várias mitocôndrias, cada uma com vários genomas) e é transmitido pela linhagem materna, o que permite comparar a vítima com a mãe do casal. Logo, a melhor opção para a perícia é o DNAmt (A). O cromossomo Y não existe em mulheres, e os cromossomos autossômicos e o X estão presentes em pouquíssimas cópias por célula.`,
@@ -1828,22 +1427,11 @@ Suponha que tenha sido construída uma fazenda de
 carcinicultura próximo a um manguezal. Entre as perturbações 
 ambientais causadas pela fazenda, espera-se que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a atividade microbiana se torne responsável pela 
-reciclagem do fósforo orgânico excedente no ambiente 
-marinho.` },
-      { id: 'B', type: 'text', value: `a relativa instabilidade das condições marinhas torne as 
-alterações de fatores físico-químicos pouco críticas à vida 
-no mar.` },
-      { id: 'C', type: 'text', value: `a amônia excedente seja convertida em nitrito, por meio do 
-processo de nitrificação, e em nitrato, formado como 
-produto intermediário desse processo.` },
-      { id: 'D', type: 'text', value: `os efluentes promovam o crescimento excessivo de plantas 
-aquáticas devido à alta diversidade de espécies vegetais 
-permanentes no manguezal.` },
-      { id: 'E', type: 'text', value: `o impedimento da penetração da luz pelas partículas em 
-suspensão venha a comprometer a produtividade primária 
-do ambiente marinho, que resulta da atividade metabólica 
-do fitoplâncton.` },
+      { id: 'A', type: 'text', value: `a atividade microbiana se torne responsável pela reciclagem do fósforo orgânico excedente no ambiente marinho.` },
+      { id: 'B', type: 'text', value: `a relativa instabilidade das condições marinhas torne as alterações de fatores físico-químicos pouco críticas à vida no mar.` },
+      { id: 'C', type: 'text', value: `a amônia excedente seja convertida em nitrito, por meio do processo de nitrificação, e em nitrato, formado como produto intermediário desse processo.` },
+      { id: 'D', type: 'text', value: `os efluentes promovam o crescimento excessivo de plantas aquáticas devido à alta diversidade de espécies vegetais permanentes no manguezal.` },
+      { id: 'E', type: 'text', value: `o impedimento da penetração da luz pelas partículas em suspensão venha a comprometer a produtividade primária do ambiente marinho, que resulta da atividade metabólica do fitoplâncton.` },
     ],
     correct: 'E',
     explanation: `Os efluentes dos viveiros de camarão lançam no manguezal grande quantidade de sólidos em suspensão e de nutrientes. As partículas em suspensão aumentam a turbidez e impedem a penetração da luz na água, comprometendo a fotossíntese do fitoplâncton e, portanto, a produtividade primária do ambiente marinho (E). A alternativa C descreve a nitrificação de forma trocada (o nitrito é o produto intermediário e o nitrato o final), e as demais minimizam ou descrevem incorretamente os impactos esperados.`,
@@ -1859,7 +1447,7 @@ do fitoplâncton.` },
 intensificado de maneira preocupante, sendo esse efeito muitas
 vezes atribuído à intensa liberação de CO₂ durante a queima
 de combustíveis fósseis para geração de energia. O quadro
-traz as entalpias-padrão de combustão a 25 ºC do
+traz as entalpias-padrão de combustão a 25 ºC (ΔH°₂₅) do
 metano, do butano e do octano.
  
 À medida que aumenta a consciência sobre os impactos 
@@ -1964,22 +1552,11 @@ construídos ao longo do Nilo.
 O que hoje se transformou em atração turística era, no 
 passado, interpretado de forma muito diferente, pois`,
     alternatives: [
-      { id: 'A', type: 'text', value: `significava, entre outros aspectos, o poder que os 
-faraós tinham para escravizar grandes contingentes 
-populacionais que trabalhavam nesses monumentos.` },
-      { id: 'B', type: 'text', value: `representava para as populações do alto Egito a 
-possibilidade de migrar para o sul e encontrar trabalho 
-nos canteiros faraônicos.` },
-      { id: 'C', type: 'text', value: `significava a solução para os problemas econômicos, 
-uma vez que os faraós sacrificavam aos deuses suas 
-riquezas, construindo templos.` },
-      { id: 'D', type: 'text', value: `representava a possibilidade de o faraó ordenar a 
-sociedade, obrigando os desocupados a trabalharem 
-em obras públicas, que engrandeceram o próprio 
-Egito.` },
-      { id: 'E', type: 'text', value: `significava um peso para a população egípcia, que 
-condenava o luxo faraônico e a religião baseada em 
-crenças e superstições.` },
+      { id: 'A', type: 'text', value: `significava, entre outros aspectos, o poder que os faraós tinham para escravizar grandes contingentes populacionais que trabalhavam nesses monumentos.` },
+      { id: 'B', type: 'text', value: `representava para as populações do alto Egito a possibilidade de migrar para o sul e encontrar trabalho nos canteiros faraônicos.` },
+      { id: 'C', type: 'text', value: `significava a solução para os problemas econômicos, uma vez que os faraós sacrificavam aos deuses suas riquezas, construindo templos.` },
+      { id: 'D', type: 'text', value: `representava a possibilidade de o faraó ordenar a sociedade, obrigando os desocupados a trabalharem em obras públicas, que engrandeceram o próprio Egito.` },
+      { id: 'E', type: 'text', value: `significava um peso para a população egípcia, que condenava o luxo faraônico e a religião baseada em crenças e superstições.` },
     ],
     correct: 'A',
     explanation: `O texto evoca o Egito faraônico, cujas pirâmides e templos eram monumentos erguidos à custa do trabalho compulsório de enormes contingentes da população. A alternativa A é correta porque, no passado, essas construções expressavam o imenso poder dos faraós, capazes de mobilizar e escravizar multidões para as obras. B erra ao supor uma migração em busca de emprego assalariado, inexistente na época. C e D distorcem a lógica do poder teocrático, que não era 'solução econômica' nem mera ocupação de 'desocupados'. E projeta uma condenação ao luxo faraônico que não corresponde à mentalidade do Egito antigo.`,
@@ -2024,33 +1601,17 @@ mortos é uma prática quase íntima, que diz respeito
 apenas à família. A menos, é claro, que se trate de uma 
 personalidade conhecida. Entretanto, isso nem sempre foi 
 assim. Para um historiador, os sepultamentos são uma 
-fonte 
-de 
-informações 
-importantes 
-para 
-que 
-se 
+fonte de informações importantes para que se
 compreenda, por exemplo, a vida política das sociedades. 
  
 No que se refere às práticas sociais ligadas aos 
 sepultamentos,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `na Grécia Antiga, as cerimônias fúnebres eram 
-desvalorizadas, porque o mais importante era a 
-democracia experimentada pelos vivos.` },
-      { id: 'B', type: 'text', value: `na Idade Média, a Igreja tinha pouca influência sobre 
-os rituais fúnebres, preocupando-se mais com a 
-salvação da alma.` },
-      { id: 'C', type: 'text', value: `no Brasil colônia, o sepultamento dos mortos nas 
-igrejas era regido pela observância da hierarquia 
-social.` },
-      { id: 'D', type: 'text', value: `na época da Reforma, o catolicismo condenou os 
-excessos de gastos que a burguesia fazia para 
-sepultar seus mortos.` },
-      { id: 'E', type: 'text', value: `no período posterior à Revolução Francesa, devido as 
-grandes perturbações sociais, abandona-se a prática 
-do luto.` },
+      { id: 'A', type: 'text', value: `na Grécia Antiga, as cerimônias fúnebres eram desvalorizadas, porque o mais importante era a democracia experimentada pelos vivos.` },
+      { id: 'B', type: 'text', value: `na Idade Média, a Igreja tinha pouca influência sobre os rituais fúnebres, preocupando-se mais com a salvação da alma.` },
+      { id: 'C', type: 'text', value: `no Brasil colônia, o sepultamento dos mortos nas igrejas era regido pela observância da hierarquia social.` },
+      { id: 'D', type: 'text', value: `na época da Reforma, o catolicismo condenou os excessos de gastos que a burguesia fazia para sepultar seus mortos.` },
+      { id: 'E', type: 'text', value: `no período posterior à Revolução Francesa, devido as grandes perturbações sociais, abandona-se a prática do luto.` },
     ],
     correct: 'C',
     explanation: `A questão trata das práticas sociais de sepultamento como fonte para a história. A correta é C: no Brasil colonial, os mortos eram enterrados dentro das igrejas conforme a hierarquia social, ficando os mais ricos e poderosos mais próximos do altar. A erra, pois na Grécia Antiga os ritos fúnebres eram valorizados. B inverte o papel central da Igreja medieval diante da morte. D e E atribuem comportamentos (condenação de gastos. Abandono do luto) que não correspondem, respectivamente, à Reforma e ao pós-Revolução Francesa.`,
@@ -2072,21 +1633,11 @@ sobre o Medievo.
  
 Um exemplo acerca do que está exposto no texto acima é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a associação que Hitler estabeleceu entre o III Reich e 
-o Sacro Império Romano Germânico.` },
-      { id: 'B', type: 'text', value: `o retorno dos valores cristãos medievais, presentes 
-nos documentos do Concílio Vaticano II.` },
-      { id: 'C', type: 'text', value: `a luta dos negros sul-africanos contra o apartheid 
-inspirada por valores dos primeiros cristãos.` },
-      { id: 'D', type: 'text', value: `o fortalecimento político de Napoleão Bonaparte, que 
-se justificava na amplitude de poderes que tivera 
-Carlos Magno.` },
-      { id: 'E', type: 'text', value: `a tradição heroica da cavalaria medieval, que foi 
-afetada 
-negativamente 
-pelas 
-produções 
-cinematográficas de Hollywood.` },
+      { id: 'A', type: 'text', value: `a associação que Hitler estabeleceu entre o III Reich e o Sacro Império Romano Germânico.` },
+      { id: 'B', type: 'text', value: `o retorno dos valores cristãos medievais, presentes nos documentos do Concílio Vaticano II.` },
+      { id: 'C', type: 'text', value: `a luta dos negros sul-africanos contra o apartheid inspirada por valores dos primeiros cristãos.` },
+      { id: 'D', type: 'text', value: `o fortalecimento político de Napoleão Bonaparte, que se justificava na amplitude de poderes que tivera Carlos Magno.` },
+      { id: 'E', type: 'text', value: `a tradição heroica da cavalaria medieval, que foi afetada negativamente pelas produções cinematográficas de Hollywood.` },
     ],
     correct: 'A',
     explanation: `O texto afirma que a Idade Média é reinterpretada segundo os interesses de cada época posterior. O melhor exemplo é A: Hitler associou o III Reich ao Sacro Império Romano-Germânico, usando a memória medieval para legitimar seu projeto político. As demais não ilustram essa reapropriação ideológica do Medievo: B trata do Concílio Vaticano II, C da luta anti-apartheid inspirada no cristianismo primitivo, D de poderes napoleônicos genéricos e E de produções cinematográficas, sem o sentido de reconstrução política do período medieval destacado no texto.`,
@@ -2106,16 +1657,11 @@ Entre os principais fatores que estiveram na origem dos
 conflitos ocorridos durante a primeira metade do século XX 
 estão`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a crise do colonialismo, a ascensão do nacionalismo e 
-do totalitarismo.` },
-      { id: 'B', type: 'text', value: `o enfraquecimento do império britânico, a Grande 
-Depressão e a corrida nuclear.` },
-      { id: 'C', type: 'text', value: `o declínio britânico, o fracasso da Liga das Nações e a 
-Revolução Cubana.` },
-      { id: 'D', type: 'text', value: `a corrida armamentista, o terceiro-mundismo e o 
-expansionismo soviético.` },
-      { id: 'E', type: 'text', value: `a Revolução Bolchevique, o imperialismo e a 
-unificação da Alemanha.` },
+      { id: 'A', type: 'text', value: `a crise do colonialismo, a ascensão do nacionalismo e do totalitarismo.` },
+      { id: 'B', type: 'text', value: `o enfraquecimento do império britânico, a Grande Depressão e a corrida nuclear.` },
+      { id: 'C', type: 'text', value: `o declínio britânico, o fracasso da Liga das Nações e a Revolução Cubana.` },
+      { id: 'D', type: 'text', value: `a corrida armamentista, o terceiro-mundismo e o expansionismo soviético.` },
+      { id: 'E', type: 'text', value: `a Revolução Bolchevique, o imperialismo e a unificação da Alemanha.` },
     ],
     correct: 'A',
     explanation: `Os grandes conflitos da primeira metade do século XX têm raízes na crise do colonialismo e na ascensão do nacionalismo e do totalitarismo (nazifascismo), fatores que conduziram às duas guerras mundiais — por isso A. As outras combinam elementos anacrônicos ou posteriores: a corrida nuclear e a Revolução Cubana (B, C) e o expansionismo soviético e o terceiro-mundismo (D) pertencem à Guerra Fria. A unificação da Alemanha (E) ocorreu ainda no século XIX.`,
@@ -2139,16 +1685,11 @@ Espanha e Portugal.
  
 A atuação desses movimentos juvenis caracterizava-se`,
     alternatives: [
-      { id: 'A', type: 'text', value: `pelo sectarismo e pela forma violenta e radical com 
-que enfrentavam os opositores ao regime.` },
-      { id: 'B', type: 'text', value: `pelas propostas de conscientização da população 
-acerca dos seus direitos como cidadãos.` },
-      { id: 'C', type: 'text', value: `pela promoção de um modo de vida saudável, que 
-mostrava os jovens como exemplos a seguir.` },
-      { id: 'D', type: 'text', value: `pelo diálogo, ao organizar debates que opunham 
-jovens idealistas e velhas lideranças conservadoras.` },
-      { id: 'E', type: 'text', value: `pelos métodos políticos populistas e pela organização 
-de comícios multitudinários.` },
+      { id: 'A', type: 'text', value: `pelo sectarismo e pela forma violenta e radical com que enfrentavam os opositores ao regime.` },
+      { id: 'B', type: 'text', value: `pelas propostas de conscientização da população acerca dos seus direitos como cidadãos.` },
+      { id: 'C', type: 'text', value: `pela promoção de um modo de vida saudável, que mostrava os jovens como exemplos a seguir.` },
+      { id: 'D', type: 'text', value: `pelo diálogo, ao organizar debates que opunham jovens idealistas e velhas lideranças conservadoras.` },
+      { id: 'E', type: 'text', value: `pelos métodos políticos populistas e pela organização de comícios multitudinários.` },
     ],
     correct: 'A',
     explanation: `Os movimentos juvenis dos regimes totalitários (como a Juventude Hitlerista) caracterizavam-se pelo sectarismo e pela violência radical contra os opositores, em culto ao líder — daí A. B, C e D descrevem práticas democráticas (conscientização de direitos, promoção de debate e diálogo) incompatíveis com o totalitarismo. E, embora cite comícios, reduz o fenômeno ao populismo e ignora a intolerância e a violência que efetivamente o definiam.`,
@@ -2206,33 +1747,11 @@ Journal de la comune étudiante. Textes et
 documents. Paris: Seuil, 1969 (adaptado). 
 Os movimentos sociais, que marcaram o ano de 1968,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `foram 
-manifestações 
-desprovidas 
-de 
-conotação 
-política, que tinham o objetivo de questionar a rigidez 
-dos padrões de comportamento social fundados em 
-valores tradicionais da moral religiosa.` },
-      { id: 'B', type: 'text', value: `restringiram-se 
-às 
-sociedades 
-de 
-países 
-desenvolvidos, onde a industrialização avançada, a 
-penetração dos meios de comunicação de massa e a 
-alienação cultural que deles resultava eram mais 
-evidentes.` },
-      { id: 'C', type: 'text', value: `resultaram no fortalecimento do conservadorismo 
-político, social e religioso que prevaleceu nos países 
-ocidentais durante as décadas de 70 e 80.` },
-      { id: 'D', type: 'text', value: `tiveram baixa repercussão no plano político, apesar de 
-seus fortes desdobramentos nos planos social e 
-cultural, expressos na mudança de costumes e na 
-contracultura.` },
-      { id: 'E', type: 'text', value: `inspiraram futuras mobilizações, como o pacifismo, o 
-ambientalismo, a promoção da equidade de gêneros e 
-a defesa dos direitos das minorias.` },
+      { id: 'A', type: 'text', value: `foram manifestações desprovidas de conotação política, que tinham o objetivo de questionar a rigidez dos padrões de comportamento social fundados em valores tradicionais da moral religiosa.` },
+      { id: 'B', type: 'text', value: `restringiram-se às sociedades de países desenvolvidos, onde a industrialização avançada, a penetração dos meios de comunicação de massa e a alienação cultural que deles resultava eram mais evidentes.` },
+      { id: 'C', type: 'text', value: `resultaram no fortalecimento do conservadorismo político, social e religioso que prevaleceu nos países ocidentais durante as décadas de 70 e 80.` },
+      { id: 'D', type: 'text', value: `tiveram baixa repercussão no plano político, apesar de seus fortes desdobramentos nos planos social e cultural, expressos na mudança de costumes e na contracultura.` },
+      { id: 'E', type: 'text', value: `inspiraram futuras mobilizações, como o pacifismo, o ambientalismo, a promoção da equidade de gêneros e a defesa dos direitos das minorias.` },
     ],
     correct: 'E',
     explanation: `Os movimentos de 1968 extrapolaram seu tempo e inspiraram mobilizações posteriores, como o pacifismo, o ambientalismo, o feminismo (equidade de gênero) e a defesa das minorias — por isso E. A nega equivocadamente seu caráter político. B restringe-os apenas aos países desenvolvidos. C afirma o oposto do ocorrido (não fortaleceram o conservadorismo). D subestima sua repercussão, que foi ampla inclusive nos planos cultural e comportamental.`,
@@ -2266,10 +1785,8 @@ De acordo com o texto, os Yanomami acreditam que`,
       { id: 'A', type: 'text', value: `a floresta não possui organismos decompositores.` },
       { id: 'B', type: 'text', value: `o potencial econômico da floresta deve ser explorado.` },
       { id: 'C', type: 'text', value: `o homem branco convive harmonicamente com urihi.` },
-      { id: 'D', type: 'text', value: `as folhas e a água são menos importantes para a 
-floresta que seu sopro vital.` },
-      { id: 'E', type: 'text', value: `Wixia é a capacidade que tem a floresta de se 
-sustentar por meio de processos vitais.` },
+      { id: 'D', type: 'text', value: `as folhas e a água são menos importantes para a floresta que seu sopro vital.` },
+      { id: 'E', type: 'text', value: `Wixia é a capacidade que tem a floresta de se sustentar por meio de processos vitais.` },
     ],
     correct: 'E',
     explanation: `O texto apresenta a cosmologia Yanomami, para quem a floresta é viva e possui o wixia, um 'sopro vital' que lhe permite sustentar-se por processos próprios — exatamente o que afirma E. A contradiz o texto, que fala em renovação e não decomposição. B inverte a visão indígena, que recusa a exploração econômica. C é falsa, pois o homem branco é visto como ameaça. D distorce o texto, que valoriza folhas e água como sinais de que a floresta está viva.`,
@@ -2289,26 +1806,11 @@ de conflitos e pela multipolaridade.
 O panorama estratégico do mundo pós-Guerra Fria 
 apresenta`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o aumento de conflitos internos associados ao 
-nacionalismo, às disputas étnicas, ao extremismo 
-religioso e ao fortalecimento de ameaças como o 
-terrorismo, o tráfico de drogas e o crime organizado.` },
-      { id: 'B', type: 'text', value: `o fim da corrida armamentista e a redução dos gastos 
-militares das grandes potências, o que se traduziu em 
-maior estabilidade nos continentes europeu e asiático, 
-que tinham sido palco da Guerra Fria.` },
-      { id: 'C', type: 'text', value: `o desengajamento das grandes potências, pois as 
-intervenções militares em regiões assoladas por 
-conflitos passaram a ser realizadas pela Organização 
-das Nações Unidas (ONU), com maior envolvimento 
-de países emergentes.` },
-      { id: 'D', type: 'text', value: `a plena vigência do Tratado de Não Proliferação, que 
-afastou a possibilidade de um conflito nuclear como 
-ameaça global, devido à crescente consciência política 
-internacional acerca desse perigo.` },
-      { id: 'E', type: 'text', value: `a condição dos EUA como única superpotência, mas 
-que se submetem às decisões da ONU no que 
-concerne às ações militares.` },
+      { id: 'A', type: 'text', value: `o aumento de conflitos internos associados ao nacionalismo, às disputas étnicas, ao extremismo religioso e ao fortalecimento de ameaças como o terrorismo, o tráfico de drogas e o crime organizado.` },
+      { id: 'B', type: 'text', value: `o fim da corrida armamentista e a redução dos gastos militares das grandes potências, o que se traduziu em maior estabilidade nos continentes europeu e asiático, que tinham sido palco da Guerra Fria.` },
+      { id: 'C', type: 'text', value: `o desengajamento das grandes potências, pois as intervenções militares em regiões assoladas por conflitos passaram a ser realizadas pela Organização das Nações Unidas (ONU), com maior envolvimento de países emergentes.` },
+      { id: 'D', type: 'text', value: `a plena vigência do Tratado de Não Proliferação, que afastou a possibilidade de um conflito nuclear como ameaça global, devido à crescente consciência política internacional acerca desse perigo.` },
+      { id: 'E', type: 'text', value: `a condição dos EUA como única superpotência, mas que se submetem às decisões da ONU no que concerne às ações militares.` },
     ],
     correct: 'A',
     explanation: `O panorama pós-Guerra Fria, apesar da expectativa de paz, foi marcado pela multiplicação de conflitos internos ligados a nacionalismos, disputas étnicas e extremismo religioso, além do avanço do terrorismo, do narcotráfico e do crime organizado — daí A. B e D são otimistas demais (não houve estabilidade plena nem fim da ameaça nuclear). C erra ao falar em desengajamento das potências. E é falsa, pois os EUA, como única superpotência, muitas vezes agiram à margem da ONU.`,
@@ -2334,10 +1836,8 @@ socialmente os cidadãos é`,
       { id: 'A', type: 'text', value: `submeter o indivíduo à proteção do governo.` },
       { id: 'B', type: 'text', value: `hierarquizar os indivíduos segundo suas posses.` },
       { id: 'C', type: 'text', value: `estimular a formação de propriedades comunais.` },
-      { id: 'D', type: 'text', value: `vincular democracia e possibilidades econômicas 
-individuais.` },
-      { id: 'E', type: 'text', value: `defender a obrigação de que todos os indivíduos 
-tenham propriedades.` },
+      { id: 'D', type: 'text', value: `vincular democracia e possibilidades econômicas individuais.` },
+      { id: 'E', type: 'text', value: `defender a obrigação de que todos os indivíduos tenham propriedades.` },
     ],
     correct: 'D',
     explanation: `O texto mostra que, na tradição política norte-americana, a inclusão social do cidadão passa pela associação entre democracia e acesso individual à propriedade e às possibilidades econômicas — por isso D. A e E extrapolam (não se trata de submissão ao governo nem de obrigar todos a ter propriedade). B contraria o texto ao hierarquizar os indivíduos por posses. C fala em propriedades comunais, estranhas ao individualismo liberal descrito.`,
@@ -2363,14 +1863,10 @@ Do trecho, infere-se que, para Tocqueville, os norte-
 americanos do seu tempo`,
     alternatives: [
       { id: 'A', type: 'text', value: `buscavam o êxito, descurando as virtudes cívicas.` },
-      { id: 'B', type: 'text', value: `tinham na vida moral uma garantia de enriquecimento 
-rápido.` },
-      { id: 'C', type: 'text', value: `valorizavam um conceito de honra dissociado do 
-comportamento ético.` },
-      { id: 'D', type: 'text', value: `relacionavam a conduta moral dos indivíduos com o 
-progresso econômico.` },
-      { id: 'E', type: 'text', value: `acreditavam que o comportamento casto perturbava a 
-harmonia doméstica.` },
+      { id: 'B', type: 'text', value: `tinham na vida moral uma garantia de enriquecimento rápido.` },
+      { id: 'C', type: 'text', value: `valorizavam um conceito de honra dissociado do comportamento ético.` },
+      { id: 'D', type: 'text', value: `relacionavam a conduta moral dos indivíduos com o progresso econômico.` },
+      { id: 'E', type: 'text', value: `acreditavam que o comportamento casto perturbava a harmonia doméstica.` },
     ],
     correct: 'D',
     explanation: `Pela leitura de Tocqueville, os norte-americanos associavam a conduta moral — como a castidade — ao sucesso econômico e à harmonia doméstica necessária aos negócios. Logo, relacionavam moral e progresso econômico (D). A inverte o sentido (eles não descuidavam das virtudes). B exagera ao falar em 'enriquecimento rápido'. C separa honra de ética, o oposto do texto. E distorce a passagem, que vê a castidade como favorável, e não prejudicial, à harmonia doméstica.`,
@@ -2388,14 +1884,7 @@ absolutamente justos, os cidadãos não devem viver uma
 vida de trabalho trivial ou de negócios - esses tipos de 
 vida são desprezíveis e incompatíveis com as qualidades 
 morais -, tampouco devem ser agricultores os aspirantes 
-à 
-cidadania, 
-pois 
-o 
-lazer 
-é 
-indispensável 
-ao 
+à cidadania, pois o lazer é indispensável ao
 desenvolvimento das qualidades morais e à prática das 
 atividades políticas”. 
 VAN ACKER, T. Grécia. A vida cotidiana na cidade-Estado. 
@@ -2403,22 +1892,11 @@ São Paulo: Atual, 1994.
 O trecho, retirado da obra Política, de Aristóteles, permite 
 compreender que a cidadania`,
     alternatives: [
-      { id: 'A', type: 'text', value: `possui uma dimensão histórica que deve ser criticada, 
-pois é condenável que os políticos de qualquer época 
-fiquem entregues à ociosidade, enquanto o resto dos 
-cidadãos tem de trabalhar.` },
-      { id: 'B', type: 'text', value: `era entendida como uma dignidade própria dos grupos 
-sociais superiores, fruto de uma concepção política 
-profundamente hierarquizada da sociedade.` },
-      { id: 'C', type: 'text', value: `estava vinculada, na Grécia Antiga, a uma percepção 
-política democrática, que levava todos os habitantes 
-da pólis a participarem da vida cívica.` },
-      { id: 'D', type: 'text', value: `tinha profundas conexões com a justiça, razão pela 
-qual o tempo livre dos cidadãos deveria ser dedicado 
-às atividades vinculadas aos tribunais.` },
-      { id: 'E', type: 'text', value: `vivida pelos atenienses era, de fato, restrita àqueles 
-que se dedicavam à política e que tinham tempo para 
-resolver os problemas da cidade.` },
+      { id: 'A', type: 'text', value: `possui uma dimensão histórica que deve ser criticada, pois é condenável que os políticos de qualquer época fiquem entregues à ociosidade, enquanto o resto dos cidadãos tem de trabalhar.` },
+      { id: 'B', type: 'text', value: `era entendida como uma dignidade própria dos grupos sociais superiores, fruto de uma concepção política profundamente hierarquizada da sociedade.` },
+      { id: 'C', type: 'text', value: `estava vinculada, na Grécia Antiga, a uma percepção política democrática, que levava todos os habitantes da pólis a participarem da vida cívica.` },
+      { id: 'D', type: 'text', value: `tinha profundas conexões com a justiça, razão pela qual o tempo livre dos cidadãos deveria ser dedicado às atividades vinculadas aos tribunais.` },
+      { id: 'E', type: 'text', value: `vivida pelos atenienses era, de fato, restrita àqueles que se dedicavam à política e que tinham tempo para resolver os problemas da cidade.` },
     ],
     correct: 'B',
     explanation: `Para Aristóteles, o cidadão pleno não deveria dedicar-se ao trabalho manual nem ao comércio, pois o ócio (lazer) era condição para as virtudes morais e a atividade política. Assim, a cidadania era privilégio dos grupos sociais superiores, numa concepção hierarquizada — por isso B. C e E erram ao atribuir-lhe caráter democrático e universal. A faz uma crítica anacrônica. D reduz indevidamente o tempo livre do cidadão às atividades dos tribunais.`,
@@ -2486,15 +1964,11 @@ na forma da lei.
 Ao se comparar os dois artigos, no que diz respeito ao 
 gênero dos eleitores, depreende-se que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a Constituição de 1934 avançou ao reduzir a idade 
-mínima para votar.` },
-      { id: 'B', type: 'text', value: `a Constituição de 1891, ao se referir a cidadãos, 
-referia-se também às mulheres.` },
-      { id: 'C', type: 'text', value: `os textos de ambas as Cartas permitiam que qualquer 
-cidadão fosse eleitor.` },
+      { id: 'A', type: 'text', value: `a Constituição de 1934 avançou ao reduzir a idade mínima para votar.` },
+      { id: 'B', type: 'text', value: `a Constituição de 1891, ao se referir a cidadãos, referia-se também às mulheres.` },
+      { id: 'C', type: 'text', value: `os textos de ambas as Cartas permitiam que qualquer cidadão fosse eleitor.` },
       { id: 'D', type: 'text', value: `o texto da carta de 1891 já permitia o voto feminino.` },
-      { id: 'E', type: 'text', value: `a Constituição de 1891 considerava eleitores apenas 
-indivíduos do sexo masculino.` },
+      { id: 'E', type: 'text', value: `a Constituição de 1891 considerava eleitores apenas indivíduos do sexo masculino.` },
     ],
     correct: 'E',
     explanation: `Comparando os artigos, a Constituição de 1891 falava em 'cidadãos maiores de 21 anos', expressão que, na prática, excluía as mulheres do voto. Só em 1934 se explicitou 'de um e de outro sexo'. Logo, E está correta: em 1891 eram eleitores apenas os homens. B e D afirmam o contrário (voto feminino em 1891). C generaliza indevidamente. A, embora correta quanto à idade, não responde ao que se pergunta, que é o gênero dos eleitores.`,
@@ -2519,22 +1993,11 @@ CAMPOS, F. O Estado nacional. Rio de Janeiro:
 José Olympio, 1940 (adaptado). 
 Segundo as ideias de Francisco Campos,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `os 
-eleitores, 
-políticos 
-e 
-juízes 
-seriam 
-mal-
-intencionados.` },
-      { id: 'B', type: 'text', value: `o governo Vargas seria um mal necessário, mas 
-transitório.` },
-      { id: 'C', type: 'text', value: `Vargas seria o homem adequado para implantar a 
-democracia de partidos.` },
-      { id: 'D', type: 'text', value: `a Constituição de 1937 seria a preparação para uma 
-futura democracia liberal.` },
-      { id: 'E', type: 'text', value: `Vargas seria o homem capaz de exercer o poder de 
-modo inteligente e correto.` },
+      { id: 'A', type: 'text', value: `os eleitores, políticos e juízes seriam mal-intencionados.` },
+      { id: 'B', type: 'text', value: `o governo Vargas seria um mal necessário, mas transitório.` },
+      { id: 'C', type: 'text', value: `Vargas seria o homem adequado para implantar a democracia de partidos.` },
+      { id: 'D', type: 'text', value: `a Constituição de 1937 seria a preparação para uma futura democracia liberal.` },
+      { id: 'E', type: 'text', value: `Vargas seria o homem capaz de exercer o poder de modo inteligente e correto.` },
     ],
     correct: 'E',
     explanation: `Francisco Campos justificava a Constituição de 1937 afirmando que só o Executivo centralizado em Vargas — dotado de 'intuição do bem' e 'gênio político' — daria racionalidade ao Estado. Logo, Vargas seria o homem capaz de exercer o poder de modo inteligente e correto (E). A generaliza má-fé a todos. B e D sugerem transitoriedade e preparação para a democracia liberal, ausentes no pensamento autoritário de Campos. C contradiz o texto, que desqualifica a democracia de partidos.`,
@@ -2557,17 +2020,11 @@ GOMES, A. C. A invenção do trabalhismo. Rio de Janeiro:
 IUPERJ / Vértice. São Paulo: Revista dos Tribunais, 1988 (adaptado). 
 Os programas “Hora do Brasil” contribuíram para`,
     alternatives: [
-      { id: 'A', type: 'text', value: `conscientizar os trabalhadores de que os direitos 
-sociais foram conquistados por seu esforço, após anos 
-de lutas sindicais.` },
-      { id: 'B', type: 'text', value: `promover a autonomia dos grupos sociais, por meio de 
-uma linguagem simples e de fácil entendimento.` },
-      { id: 'C', type: 'text', value: `estimular os movimentos grevistas, que reivindicavam 
-um aprofundamento dos direitos trabalhistas.` },
-      { id: 'D', type: 'text', value: `consolidar a imagem de Vargas como um governante 
-protetor das massas.` },
-      { id: 'E', type: 'text', value: `aumentar os grupos de discussão política dos 
-trabalhadores, estimulados pelas palavras do ministro.` },
+      { id: 'A', type: 'text', value: `conscientizar os trabalhadores de que os direitos sociais foram conquistados por seu esforço, após anos de lutas sindicais.` },
+      { id: 'B', type: 'text', value: `promover a autonomia dos grupos sociais, por meio de uma linguagem simples e de fácil entendimento.` },
+      { id: 'C', type: 'text', value: `estimular os movimentos grevistas, que reivindicavam um aprofundamento dos direitos trabalhistas.` },
+      { id: 'D', type: 'text', value: `consolidar a imagem de Vargas como um governante protetor das massas.` },
+      { id: 'E', type: 'text', value: `aumentar os grupos de discussão política dos trabalhadores, estimulados pelas palavras do ministro.` },
     ],
     correct: 'D',
     explanation: `O programa 'Hora do Brasil', ao divulgar semanalmente a legislação trabalhista do Estado Novo, serviu à propaganda getulista e consolidou a imagem de Vargas como 'pai dos pobres' e protetor das massas — por isso D. A inverte a lógica, pois os direitos eram apresentados como dádiva do governo, não como conquista sindical. B, C e E atribuem ao programa autonomia popular, estímulo a greves e debate político, objetivos contrários ao controle estadonovista.`,
@@ -2591,27 +2048,11 @@ ARAÚJO, E. O teatro dos vícios. Transgressão e transigência na
 sociedade urbana colonial. Brasília: UnB/José Olympio, 1997. 
 Do ponto de vista da Inquisição,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o problema dos métodos citados no trecho residia na 
-dissimulação, que acabava por enganar o enfeitiçado.` },
-      { id: 'B', type: 'text', value: `o diabo era um concorrente poderoso da autoridade da 
-Igreja e somente a justiça do fogo poderia eliminá-lo.` },
-      { id: 'C', type: 'text', value: `os ingredientes em decomposição das poções 
-mágicas eram condenados porque afetavam a saúde 
-da população.` },
-      { id: 'D', type: 'text', value: `as 
-feiticeiras 
-representavam 
-séria 
-ameaça 
-à 
-sociedade, pois eram perceptíveis suas tendências 
-feministas.` },
-      { id: 'E', type: 'text', value: `os cristãos deviam preservar a instituição do 
-casamento 
-recorrendo 
-exclusivamente 
-aos 
-ensinamentos da Igreja.` },
+      { id: 'A', type: 'text', value: `o problema dos métodos citados no trecho residia na dissimulação, que acabava por enganar o enfeitiçado.` },
+      { id: 'B', type: 'text', value: `o diabo era um concorrente poderoso da autoridade da Igreja e somente a justiça do fogo poderia eliminá-lo.` },
+      { id: 'C', type: 'text', value: `os ingredientes em decomposição das poções mágicas eram condenados porque afetavam a saúde da população.` },
+      { id: 'D', type: 'text', value: `as feiticeiras representavam séria ameaça à sociedade, pois eram perceptíveis suas tendências feministas.` },
+      { id: 'E', type: 'text', value: `os cristãos deviam preservar a instituição do casamento recorrendo exclusivamente aos ensinamentos da Igreja.` },
     ],
     correct: 'E',
     explanation: `Do ponto de vista da Inquisição, o episódio das poções e feitiços revelava a necessidade de os cristãos preservarem a instituição do casamento recorrendo exclusivamente aos ensinamentos da Igreja, e não a práticas tidas como diabólicas — daí E. A e C deslocam o problema para a dissimulação ou para a saúde. B exagera numa 'guerra' contra o diabo. D atribui às 'feiticeiras' um feminismo anacrônico, estranho à mentalidade inquisitorial do período colonial.`,
@@ -2649,26 +2090,11 @@ geográfico por elas evocado, assinale a opção correta
 acerca do processo de formação socioeconômica dos 
 continentes mencionados no texto.`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Devido à falta de recursos naturais a serem 
-explorados no Brasil, conflitos étnicos e culturais como 
-os ocorridos na África estiveram ausentes no período 
-da independência e formação do Estado brasileiro.` },
-      { id: 'B', type: 'text', value: `A maior distinção entre os processos histórico-
-formativos dos continentes citados é a que se 
-estabelece entre colonizador e colonizado, ou seja, 
-entre a Europa e os demais.` },
-      { id: 'C', type: 'text', value: `À época das conquistas, a América Latina, a África e a 
-Ásia tinham sistemas políticos e administrativos muito 
-mais sofisticados que aqueles que lhes foram 
-impostos pelo colonizador.` },
-      { id: 'D', type: 'text', value: `Comparadas ao México e ao Peru, as instituições 
-brasileiras, por terem sido eliminadas à época da 
-conquista, sofreram mais influência dos modelos 
-institucionais europeus.` },
-      { id: 'E', type: 'text', value: `O modelo histórico da formação do Estado asiático 
-equipara-se ao brasileiro, pois em ambos se manteve 
-o espírito das formas de organização anteriores à 
-conquista.` },
+      { id: 'A', type: 'text', value: `Devido à falta de recursos naturais a serem explorados no Brasil, conflitos étnicos e culturais como os ocorridos na África estiveram ausentes no período da independência e formação do Estado brasileiro.` },
+      { id: 'B', type: 'text', value: `A maior distinção entre os processos histórico-formativos dos continentes citados é a que se estabelece entre colonizador e colonizado, ou seja, entre a Europa e os demais.` },
+      { id: 'C', type: 'text', value: `À época das conquistas, a América Latina, a África e a Ásia tinham sistemas políticos e administrativos muito mais sofisticados que aqueles que lhes foram impostos pelo colonizador.` },
+      { id: 'D', type: 'text', value: `Comparadas ao México e ao Peru, as instituições brasileiras, por terem sido eliminadas à época da conquista, sofreram mais influência dos modelos institucionais europeus.` },
+      { id: 'E', type: 'text', value: `O modelo histórico da formação do Estado asiático equipara-se ao brasileiro, pois em ambos se manteve o espírito das formas de organização anteriores à conquista.` },
     ],
     correct: 'B',
     explanation: `O texto compara a formação dos Estados nos vários continentes e conclui que a grande distinção se dá entre colonizador e colonizado — isto é, entre a Europa e os demais continentes, cujas instituições foram moldadas pela colonização — por isso B. A nega equivocadamente a existência de conflitos no Brasil. C generaliza a sofisticação política a toda a América e África. D contraria o texto, que diz serem as instituições brasileiras frágeis, não eliminadas. E iguala indevidamente os casos asiático e brasileiro.`,
@@ -2692,27 +2118,11 @@ Recife: Cultura Acadêmica, 1907.
 O período da independência do Brasil registra conflitos 
 raciais, como se depreende`,
     alternatives: [
-      { id: 'A', type: 'text', value: `dos rumores acerca da revolta escrava do Haiti, que 
-circulavam entre a população escrava e entre os 
-mestiços 
-pobres, 
-alimentando 
-seu 
-desejo 
-por 
-mudanças.` },
-      { id: 'B', type: 'text', value: `da rejeição aos portugueses, brancos, que significava 
-a rejeição à opressão da Metrópole, como ocorreu na 
-Noite das Garrafadas.` },
-      { id: 'C', type: 'text', value: `do apoio que escravos e negros forros deram à 
-monarquia, com a perspectiva de receber sua 
-proteção contra as injustiças do sistema escravista.` },
-      { id: 'D', type: 'text', value: `do repúdio que os escravos trabalhadores dos portos 
-demonstravam contra os marinheiros, porque estes 
-representavam a elite branca opressora.` },
-      { id: 'E', type: 'text', value: `da expulsão de vários líderes negros independentistas, 
-que defendiam a implantação de uma república negra, 
-a exemplo do Haiti.` },
+      { id: 'A', type: 'text', value: `dos rumores acerca da revolta escrava do Haiti, que circulavam entre a população escrava e entre os mestiços pobres, alimentando seu desejo por mudanças.` },
+      { id: 'B', type: 'text', value: `da rejeição aos portugueses, brancos, que significava a rejeição à opressão da Metrópole, como ocorreu na Noite das Garrafadas.` },
+      { id: 'C', type: 'text', value: `do apoio que escravos e negros forros deram à monarquia, com a perspectiva de receber sua proteção contra as injustiças do sistema escravista.` },
+      { id: 'D', type: 'text', value: `do repúdio que os escravos trabalhadores dos portos demonstravam contra os marinheiros, porque estes representavam a elite branca opressora.` },
+      { id: 'E', type: 'text', value: `da expulsão de vários líderes negros independentistas, que defendiam a implantação de uma república negra, a exemplo do Haiti.` },
     ],
     correct: 'A',
     explanation: `A trova popular que circulava no Recife aludia à revolta escrava do Haiti e alimentava, entre escravos e mestiços pobres, o desejo de mudança e de inversão da ordem racial — por isso A evidencia os conflitos raciais do período da Independência. B desloca o foco para a rejeição aos portugueses. C inverte a posição dos escravos diante da monarquia. D restringe a questão aos trabalhadores dos portos. E inventa a expulsão de líderes negros independentistas, não documentada no texto.`,
@@ -2743,28 +2153,11 @@ SARAIVA, J. F. S. O lugar do Brasil e o silêncio do parlamento. Correio Brazili
 Sob o ponto de vista da política externa brasileira no 
 século XX, conclui-se que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o Brasil é um país periférico na ordem mundial, devido 
-às diferentes conjunturas de inserção internacional.` },
-      { id: 'B', type: 'text', value: `as possibilidades de fazer prevalecer ideias e 
-conceitos próprios, no que tange aos temas do 
-comércio 
-internacional 
-e 
-dos 
-países 
-em 
-desenvolvimento, são mínimas.` },
-      { id: 'C', type: 'text', value: `as brechas do sistema internacional não foram bem 
-aproveitadas para avançar posições voltadas para a 
-criação de uma área de cooperação e associação 
-integrada a seu entorno geográfico.` },
-      { id: 'D', type: 'text', value: `os grandes debates nacionais acerca da inserção 
-internacional do Brasil foram embasados pelas elites 
-do Império e da República por meio de consultas aos 
-diversos setores da população.` },
-      { id: 'E', type: 'text', value: `a atuação do Brasil em termos de política externa 
-evidencia que o país tem capacidade decisória própria, 
-mesmo diante dos constrangimentos internacionais.` },
+      { id: 'A', type: 'text', value: `o Brasil é um país periférico na ordem mundial, devido às diferentes conjunturas de inserção internacional.` },
+      { id: 'B', type: 'text', value: `as possibilidades de fazer prevalecer ideias e conceitos próprios, no que tange aos temas do comércio internacional e dos países em desenvolvimento, são mínimas.` },
+      { id: 'C', type: 'text', value: `as brechas do sistema internacional não foram bem aproveitadas para avançar posições voltadas para a criação de uma área de cooperação e associação integrada a seu entorno geográfico.` },
+      { id: 'D', type: 'text', value: `os grandes debates nacionais acerca da inserção internacional do Brasil foram embasados pelas elites do Império e da República por meio de consultas aos diversos setores da população.` },
+      { id: 'E', type: 'text', value: `a atuação do Brasil em termos de política externa evidencia que o país tem capacidade decisória própria, mesmo diante dos constrangimentos internacionais.` },
     ],
     correct: 'E',
     explanation: `O texto valoriza a tradição e a coerência da política externa brasileira ao longo do século XX, concluindo que o país possui capacidade decisória própria mesmo diante dos constrangimentos internacionais — por isso E. A, B e C são pessimistas e contrariam o texto (país 'periférico', ideias 'mínimas', brechas 'não aproveitadas'). D distorce o processo ao afirmar que as elites embasavam os debates em amplas consultas à população.`,
@@ -2783,10 +2176,7 @@ tecelões temporários, passaram a ser denominados, de
 modo genérico, tecelões de teares manuais. Exceto em 
 alguns ramos especializados, os velhos artesãos foram 
 colocados lado a lado com novos imigrantes, enquanto 
-pequenos 
-fazendeiros-tecelões 
-abandonaram 
-suas 
+pequenos fazendeiros-tecelões abandonaram suas
 pequenas propriedades para se concentrar na atividade de 
 tecer. Reduzidos à completa dependência dos teares 
 mecanizados ou dos fornecedores de matéria-prima, os 
@@ -2797,16 +2187,11 @@ Books, 1979 (adaptado).
 Com a mudança tecnológica ocorrida durante a Revolução 
 Industrial, a forma de trabalhar alterou-se porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a invenção do tear propiciou o surgimento de novas 
-relações sociais.` },
-      { id: 'B', type: 'text', value: `os tecelões mais hábeis prevaleceram sobre os 
-inexperientes.` },
-      { id: 'C', type: 'text', value: `os novos teares exigiam treinamento especializado 
-para serem operados.` },
-      { id: 'D', type: 'text', value: `os artesãos, no período anterior, combinavam a 
-tecelagem com o cultivo de subsistência.` },
-      { id: 'E', type: 'text', value: `os trabalhadores não especializados se apropriaram 
-dos lugares dos antigos artesãos nas fábricas.` },
+      { id: 'A', type: 'text', value: `a invenção do tear propiciou o surgimento de novas relações sociais.` },
+      { id: 'B', type: 'text', value: `os tecelões mais hábeis prevaleceram sobre os inexperientes.` },
+      { id: 'C', type: 'text', value: `os novos teares exigiam treinamento especializado para serem operados.` },
+      { id: 'D', type: 'text', value: `os artesãos, no período anterior, combinavam a tecelagem com o cultivo de subsistência.` },
+      { id: 'E', type: 'text', value: `os trabalhadores não especializados se apropriaram dos lugares dos antigos artesãos nas fábricas.` },
     ],
     correct: 'D',
     explanation: `Com a mecanização da Revolução Industrial, a forma de trabalhar mudou porque, antes, os artesãos combinavam a tecelagem com o cultivo de subsistência, autonomia que perderam ao se tornarem dependentes dos teares mecânicos e dos fornecedores de matéria-prima — por isso D. A e C supervalorizam a máquina e um suposto 'treinamento especializado'. B foca na habilidade individual. E fala em apropriação de postos pelos não especializados, o que não explica a mudança central descrita, que é a perda de autonomia do antigo artesão.`,
@@ -2825,23 +2210,14 @@ sobretudo com o advento da revolução tecnológica, houve
 um desenvolvimento contínuo do setor agropecuário. 
  
 São, portanto, observadas consequências econômicas, 
-sociais 
-e 
-ambientais 
-inter-relacionadas 
-no 
-período 
+sociais e ambientais inter-relacionadas no período
 posterior à Revolução Industrial, as quais incluem`,
     alternatives: [
       { id: 'A', type: 'text', value: `a erradicação da fome no mundo.` },
-      { id: 'B', type: 'text', value: `o aumento das áreas rurais e a diminuição das áreas 
-urbanas.` },
-      { id: 'C', type: 'text', value: `a maior demanda por recursos naturais, entre os quais 
-os recursos energéticos.` },
-      { id: 'D', type: 'text', value: `a menor necessidade de utilização de adubos e 
-corretivos na agricultura.` },
-      { id: 'E', type: 'text', value: `o contínuo aumento da oferta de emprego no setor 
-primário da economia, em face da mecanização.` },
+      { id: 'B', type: 'text', value: `o aumento das áreas rurais e a diminuição das áreas urbanas.` },
+      { id: 'C', type: 'text', value: `a maior demanda por recursos naturais, entre os quais os recursos energéticos.` },
+      { id: 'D', type: 'text', value: `a menor necessidade de utilização de adubos e corretivos na agricultura.` },
+      { id: 'E', type: 'text', value: `o contínuo aumento da oferta de emprego no setor primário da economia, em face da mecanização.` },
     ],
     correct: 'C',
     explanation: `O desenvolvimento do setor agropecuário após a Revolução Industrial trouxe, entre suas consequências inter-relacionadas, a maior demanda por recursos naturais, inclusive energéticos — por isso C. A ('erradicação da fome'), B (aumento do rural e queda do urbano) e E (mais emprego no setor primário apesar da mecanização) contrariam a realidade. D está errada, pois a agricultura moderna passou a exigir mais, e não menos, adubos e corretivos.`,
@@ -2859,11 +2235,7 @@ característico de família, com seus pesados móveis de
 vinhático ou de jacarandá, de qualidade antiga, e que 
 denunciavam um passado ilustre, gerações de Meneses 
 talvez mais singelos e mais calmos; agora, uma espécie de 
-desordem, 
-de 
-relaxamento, 
-abastardava 
-aquelas 
+desordem, de relaxamento, abastardava aquelas
 qualidades primaciais. Mesmo assim era fácil perceber o 
 que haviam sido, esses nobres da roça, com seus cristais 
 que brilhavam mansamente na sombra, suas pratas semi-
@@ -2884,28 +2256,11 @@ política, social e econômica do país. O recurso expressivo
 que formula literariamente essa desagregação histórica é o 
 de descrever a casa dos Meneses como`,
     alternatives: [
-      { id: 'A', type: 'text', value: `ambiente de pobreza e privação, que carece de 
-conforto mínimo para a sobrevivência da família.` },
-      { id: 'B', type: 'text', value: `mundo mágico, capaz de recuperar o encantamento 
-perdido 
-durante 
-o 
-período 
-de 
-decadência 
-da 
-aristocracia rural mineira.` },
-      { id: 'C', type: 'text', value: `cena familiar, na qual o calor humano dos habitantes 
-da casa ocupa o primeiro plano, compensando a 
-frieza e austeridade dos objetos antigos.` },
-      { id: 'D', type: 'text', value: `símbolo de um passado ilustre que, apesar de 
-superado, ainda resiste à sua total dissolução graças 
-ao cuidado e asseio que a família dispensa à 
-conservação da casa.` },
-      { id: 'E', type: 'text', value: `espaço arruinado, onde os objetos perderam seu 
-esplendor e sobre os quais a vida repousa como 
-lembrança de um passado que está em vias de 
-desaparecer completamente.` },
+      { id: 'A', type: 'text', value: `ambiente de pobreza e privação, que carece de conforto mínimo para a sobrevivência da família.` },
+      { id: 'B', type: 'text', value: `mundo mágico, capaz de recuperar o encantamento perdido durante o período de decadência da aristocracia rural mineira.` },
+      { id: 'C', type: 'text', value: `cena familiar, na qual o calor humano dos habitantes da casa ocupa o primeiro plano, compensando a frieza e austeridade dos objetos antigos.` },
+      { id: 'D', type: 'text', value: `símbolo de um passado ilustre que, apesar de superado, ainda resiste à sua total dissolução graças ao cuidado e asseio que a família dispensa à conservação da casa.` },
+      { id: 'E', type: 'text', value: `espaço arruinado, onde os objetos perderam seu esplendor e sobre os quais a vida repousa como lembrança de um passado que está em vias de desaparecer completamente.` },
     ],
     correct: 'E',
     explanation: `No trecho de Lúcio Cardoso, a casa dos Meneses é descrita como espaço arruinado, em que os objetos perderam o esplendor e restam apenas como lembrança de um passado em vias de desaparecer — recurso que traduz literariamente a desagregação da aristocracia rural mineira — por isso E. A reduz a cena a mera pobreza material. B e C contrariam o clima de decadência (encantamento, calor humano). D afirma conservação e asseio, opostos à 'desordem' e ao 'relaxamento' descritos no texto.`,
@@ -2939,12 +2294,7 @@ mínimo”.
 Em 1867 foi inaugurada a ferrovia ligando Santos 
 a Jundiaí, o que abreviou o tempo de viagem entre o litoral 
 e o planalto para menos de um dia. Nos anos seguintes, 
-foram 
-construídos 
-outros 
-ramais 
-ferroviários 
-que 
+foram construídos outros ramais ferroviários que
 articularam o interior cafeeiro ao porto de exportação, 
 Santos. 
 DAVATZ, T. Memórias de um colono no Brasil. São Paulo: 
@@ -2953,30 +2303,11 @@ O impacto das ferrovias na promoção de projetos de
 colonização com base em imigrantes europeus foi 
 importante, porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o percurso dos imigrantes até o interior, antes das 
-ferrovias, era feito a pé ou em muares; no entanto, o 
-tempo de viagem era aceitável, uma vez que o café 
-era plantado nas proximidades da capital, São Paulo.` },
-      { id: 'B', type: 'text', value: `a expansão da malha ferroviária pelo interior de São 
-Paulo permitiu que mão-de-obra estrangeira fosse 
-contratada para trabalhar em cafezais de regiões cada 
-vez mais distantes do porto de Santos.` },
-      { id: 'C', type: 'text', value: `o escoamento da produção de café se viu beneficiado 
-pelos aportes de capital, principalmente de colonos 
-italianos, que desejavam melhorar sua situação 
-econômica.` },
-      { id: 'D', type: 'text', value: `os fazendeiros puderam prescindir da mão-de-obra 
-europeia e contrataram trabalhadores brasileiros 
-provenientes de outras regiões para trabalhar em suas 
-plantações.` },
-      { id: 'E', type: 'text', value: `as notícias de terras acessíveis atraíram para São 
-Paulo 
-grande 
-quantidade 
-de 
-imigrantes, 
-que 
-adquiriram vastas propriedades produtivas.` },
+      { id: 'A', type: 'text', value: `o percurso dos imigrantes até o interior, antes das ferrovias, era feito a pé ou em muares; no entanto, o tempo de viagem era aceitável, uma vez que o café era plantado nas proximidades da capital, São Paulo.` },
+      { id: 'B', type: 'text', value: `a expansão da malha ferroviária pelo interior de São Paulo permitiu que mão-de-obra estrangeira fosse contratada para trabalhar em cafezais de regiões cada vez mais distantes do porto de Santos.` },
+      { id: 'C', type: 'text', value: `o escoamento da produção de café se viu beneficiado pelos aportes de capital, principalmente de colonos italianos, que desejavam melhorar sua situação econômica.` },
+      { id: 'D', type: 'text', value: `os fazendeiros puderam prescindir da mão-de-obra europeia e contrataram trabalhadores brasileiros provenientes de outras regiões para trabalhar em suas plantações.` },
+      { id: 'E', type: 'text', value: `as notícias de terras acessíveis atraíram para São Paulo grande quantidade de imigrantes, que adquiriram vastas propriedades produtivas.` },
     ],
     correct: 'B',
     explanation: `A expansão da malha ferroviária a partir de 1867 encurtou drasticamente o trajeto entre Santos e o interior e viabilizou projetos de colonização, permitindo contratar mão de obra imigrante europeia para cafezais cada vez mais distantes do porto — por isso B. A minimiza as dificuldades do antigo percurso e localiza o café perto da capital. C, D e E distorcem o processo, pois não foram o capital dos colonos, a dispensa do imigrante ou a compra de vastas propriedades que marcaram o período.`,
@@ -3006,18 +2337,11 @@ Uma das consequências das inovações tecnológicas das
 uso e ocupação do espaço geográfico, é a instituição das 
 chamadas cidades globais, que se caracterizam por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `possuírem o mesmo nível de influência no cenário 
-mundial.` },
-      { id: 'B', type: 'text', value: `fortalecerem os laços de cidadania e solidariedade 
-entre os membros das diversas comunidades.` },
-      { id: 'C', type: 'text', value: `constituírem um passo importante para a diminuição 
-das desigualdades sociais causadas pela polarização 
-social e pela segregação urbana.` },
-      { id: 'D', type: 'text', value: `terem sido diretamente impactadas pelo processo de 
-internacionalização da economia, desencadeado a 
-partir do final dos anos 1970.` },
-      { id: 'E', type: 'text', value: `terem sua origem diretamente relacionadas ao 
-processo de colonização ocidental do século XIX.` },
+      { id: 'A', type: 'text', value: `possuírem o mesmo nível de influência no cenário mundial.` },
+      { id: 'B', type: 'text', value: `fortalecerem os laços de cidadania e solidariedade entre os membros das diversas comunidades.` },
+      { id: 'C', type: 'text', value: `constituírem um passo importante para a diminuição das desigualdades sociais causadas pela polarização social e pela segregação urbana.` },
+      { id: 'D', type: 'text', value: `terem sido diretamente impactadas pelo processo de internacionalização da economia, desencadeado a partir do final dos anos 1970.` },
+      { id: 'E', type: 'text', value: `terem sua origem diretamente relacionadas ao processo de colonização ocidental do século XIX.` },
     ],
     correct: 'D',
     explanation: `As 'cidades globais' resultam da internacionalização da economia desencadeada a partir do fim dos anos 1970, tornando-se nós de comando dos fluxos financeiros e produtivos mundiais — por isso D. A é falsa, pois tais cidades têm níveis de influência desiguais. B e C contrariam a realidade, já que elas tendem a aprofundar a segregação e a desigualdade social. E remete erroneamente sua origem à colonização do século XIX.`,
@@ -3049,32 +2373,11 @@ Com base no texto e considerando os impactos culturais
 da difusão das tecnologias de informação no marco da 
 globalização, depreende-se que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a ampla difusão das tecnologias de informação nos 
-centros urbanos e no meio rural suscita o contato entre 
-diferentes culturas e, ao mesmo tempo, traz a 
-necessidade de reformular as concepções tradicionais 
-de educação.` },
-      { id: 'B', type: 'text', value: `a apropriação, por parte de um grupo social, de 
-valores e ideias de outras culturas para benefício 
-próprio é fonte de conflitos e ressentimentos.` },
-      { id: 'C', type: 'text', value: `as mudanças sociais e culturais que acompanham o 
-processo de globalização, ao mesmo tempo em que 
-refletem a preponderância da cultura urbana, tornam 
-obsoletas as formas de educação tradicionais próprias 
-do meio rural.` },
-      { id: 'D', type: 'text', value: `as populações nos grandes centros urbanos e no meio 
-rural recorrem aos instrumentos e tecnologias de 
-informação basicamente como meio de comunicação 
-mútua, e não os veem como fontes de educação e 
-cultura.` },
-      { id: 'E', type: 'text', value: `a intensificação do fluxo de comunicação por meios 
-eletrônicos, 
-característica 
-do 
-processo 
-de 
-globalização, está dissociada do desenvolvimento 
-social e cultural que ocorre no meio rural.` },
+      { id: 'A', type: 'text', value: `a ampla difusão das tecnologias de informação nos centros urbanos e no meio rural suscita o contato entre diferentes culturas e, ao mesmo tempo, traz a necessidade de reformular as concepções tradicionais de educação.` },
+      { id: 'B', type: 'text', value: `a apropriação, por parte de um grupo social, de valores e ideias de outras culturas para benefício próprio é fonte de conflitos e ressentimentos.` },
+      { id: 'C', type: 'text', value: `as mudanças sociais e culturais que acompanham o processo de globalização, ao mesmo tempo em que refletem a preponderância da cultura urbana, tornam obsoletas as formas de educação tradicionais próprias do meio rural.` },
+      { id: 'D', type: 'text', value: `as populações nos grandes centros urbanos e no meio rural recorrem aos instrumentos e tecnologias de informação basicamente como meio de comunicação mútua, e não os veem como fontes de educação e cultura.` },
+      { id: 'E', type: 'text', value: `a intensificação do fluxo de comunicação por meios eletrônicos, característica do processo de globalização, está dissociada do desenvolvimento social e cultural que ocorre no meio rural.` },
     ],
     correct: 'A',
     explanation: `O texto conclui que a difusão das tecnologias de informação, no marco da globalização, aproxima culturas diferentes e, ao mesmo tempo, exige reformular as concepções tradicionais de educação, criando estratégias de 'alfabetização eletrônica' — por isso A. B e D reduzem o fenômeno a conflito ou a mera comunicação. C afirma que a educação rural se tornaria obsoleta, o que o texto não defende. E nega a relação entre comunicação eletrônica e desenvolvimento no meio rural, contrariando o texto.`,
@@ -3095,33 +2398,11 @@ atividades econômicas e da população sobre o território
 brasileiro, com reflexos no PIB por habitante. Assim,`,
     images: ['/enem/2009/images/enem_2009_d1_q73.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `as desigualdades econômicas existentes entre 
-regiões brasileiras desapareceram, tendo em vista a 
-modernização tecnológica e o crescimento vivido 
-pelo país.` },
-      { id: 'B', type: 'text', value: `os novos fluxos migratórios instaurados em direção 
-ao Norte e ao Centro-Oeste do país prejudicaram o 
-desenvolvimento socioeconômico dessas regiões, 
-incapazes de atender ao crescimento da demanda 
-por postos de trabalho.` },
-      { id: 'C', type: 'text', value: `o Sudeste brasileiro deixou de ser a região com o 
-maior PIB industrial a partir do processo de 
-desconcentração espacial do setor, em direção a 
-outras regiões do país.` },
-      { id: 'D', type: 'text', value: `o avanço da fronteira econômica sobre os estados 
-da região Norte e do Centro-Oeste resultou no 
-desenvolvimento 
-e 
-na 
-introdução 
-de 
-novas 
-atividades econômicas, tanto nos setores primário e 
-secundário, como no terciário.` },
-      { id: 'E', type: 'text', value: `o Nordeste tem vivido, ao contrário do restante do 
-país, um período de retração econômica, como 
-consequência da falta de investimentos no setor 
-industrial com base na moderna tecnologia.` },
+      { id: 'A', type: 'text', value: `as desigualdades econômicas existentes entre regiões brasileiras desapareceram, tendo em vista a modernização tecnológica e o crescimento vivido pelo país.` },
+      { id: 'B', type: 'text', value: `os novos fluxos migratórios instaurados em direção ao Norte e ao Centro-Oeste do país prejudicaram o desenvolvimento socioeconômico dessas regiões, incapazes de atender ao crescimento da demanda por postos de trabalho.` },
+      { id: 'C', type: 'text', value: `o Sudeste brasileiro deixou de ser a região com o maior PIB industrial a partir do processo de desconcentração espacial do setor, em direção a outras regiões do país.` },
+      { id: 'D', type: 'text', value: `o avanço da fronteira econômica sobre os estados da região Norte e do Centro-Oeste resultou no desenvolvimento e na introdução de novas atividades econômicas, tanto nos setores primário e secundário, como no terciário.` },
+      { id: 'E', type: 'text', value: `o Nordeste tem vivido, ao contrário do restante do país, um período de retração econômica, como consequência da falta de investimentos no setor industrial com base na moderna tecnologia.` },
     ],
     correct: 'D',
     explanation: `A leitura do mapa indica que o avanço da fronteira econômica sobre o Norte e o Centro-Oeste, nas últimas décadas do século XX, introduziu novas atividades nos setores primário, secundário e terciário, alterando a distribuição da população e do PIB por habitante — por isso D. A ('desigualdades desapareceram') e C ('Sudeste deixou de ter o maior PIB industrial') exageram. B afirma falso prejuízo dessas regiões. E generaliza uma retração do Nordeste não sustentada pelos dados.`,
@@ -3154,16 +2435,11 @@ Apesar das diferenças históricas e geográficas existentes
 entre as duas civilizações elas são semelhantes pois`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `as ruínas das cidades mencionadas atestam que 
-grandes epidemias dizimaram suas populações.` },
-      { id: 'B', type: 'text', value: `as cidades do Xingu desenvolveram a democracia, tal 
-como foi concebida em Tebas.` },
-      { id: 'C', type: 'text', value: `as duas civilizações tinham cidades autônomas e 
-independentes entre si.` },
-      { id: 'D', type: 'text', value: `os povos do Xingu falavam uma mesma língua, tal como 
-nas cidades-Estado da Grécia.` },
-      { id: 'E', type: 'text', value: `as cidades do Xingu dedicavam-se à arte e à filosofia tal 
-como na Grécia.` },
+      { id: 'A', type: 'text', value: `as ruínas das cidades mencionadas atestam que grandes epidemias dizimaram suas populações.` },
+      { id: 'B', type: 'text', value: `as cidades do Xingu desenvolveram a democracia, tal como foi concebida em Tebas.` },
+      { id: 'C', type: 'text', value: `as duas civilizações tinham cidades autônomas e independentes entre si.` },
+      { id: 'D', type: 'text', value: `os povos do Xingu falavam uma mesma língua, tal como nas cidades-Estado da Grécia.` },
+      { id: 'E', type: 'text', value: `as cidades do Xingu dedicavam-se à arte e à filosofia tal como na Grécia.` },
     ],
     correct: 'C',
     explanation: `Apesar das diferenças de tempo e lugar, a Grécia antiga e as cidades do Xingu assemelham-se por serem formadas por cidades autônomas e independentes entre si — por isso C. A generaliza a causa (epidemias) que o texto atribui só ao Xingu. B inventa a existência de democracia nas cidades do Xingu. D supõe uma língua comum no Xingu que o texto não afirma. E atribui às cidades amazônicas a arte e a filosofia típicas da Grécia.`,
@@ -3197,17 +2473,11 @@ Disponível em: http://www.ibge.gov.br. Acesso em: 30 jul. 2009 (adaptado).
 Com base nas informações contidas no texto, depreende-se 
 que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o processo migratório foi desencadeado por ações de 
-governo para viabilizar a produção industrial no Sudeste.` },
-      { id: 'B', type: 'text', value: `os governos estaduais do Sudeste priorizaram a 
-qualificação da mão-de-obra migrante.` },
-      { id: 'C', type: 'text', value: `o processo de migração para o Sudeste contribui para o 
-fenômeno conhecido como inchaço urbano.` },
-      { id: 'D', type: 'text', value: `as migrações para o sudeste desencadearam a valorização 
-do trabalho manual, sobretudo na década de 80.` },
-      { id: 'E', type: 'text', value: `a falta de especialização dos migrantes é positiva para 
-os empregadores, pois significa maior versatilidade 
-profissional.` },
+      { id: 'A', type: 'text', value: `o processo migratório foi desencadeado por ações de governo para viabilizar a produção industrial no Sudeste.` },
+      { id: 'B', type: 'text', value: `os governos estaduais do Sudeste priorizaram a qualificação da mão-de-obra migrante.` },
+      { id: 'C', type: 'text', value: `o processo de migração para o Sudeste contribui para o fenômeno conhecido como inchaço urbano.` },
+      { id: 'D', type: 'text', value: `as migrações para o sudeste desencadearam a valorização do trabalho manual, sobretudo na década de 80.` },
+      { id: 'E', type: 'text', value: `a falta de especialização dos migrantes é positiva para os empregadores, pois significa maior versatilidade profissional.` },
     ],
     correct: 'C',
     explanation: `O intenso fluxo migratório do Nordeste para o Sudeste, com mão de obra majoritariamente pouco qualificada, contribui para o 'inchaço urbano' das grandes cidades receptoras — por isso C. A atribui o movimento a uma ação planejada do governo. B afirma falsa prioridade estadual à qualificação da mão de obra. D inventa uma valorização do trabalho manual. E trata como positiva a baixa qualificação, contrariando o sentido social do texto.`,
@@ -3229,16 +2499,11 @@ frequentemente chegam a provocar mortes.
 Um dos fatores que explica a subalimentação na América 
 do Sul é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a baixa inserção de sua agricultura no comércio 
-mundial.` },
-      { id: 'B', type: 'text', value: `a quantidade insuficiente de mão-de-obra para o 
-trabalho agrícola.` },
-      { id: 'C', type: 'text', value: `a presença de estruturas agrárias arcaicas formadas 
-por latifúndios improdutivos.` },
-      { id: 'D', type: 'text', value: `a situação conflituosa vivida no campo, que impede o 
-crescimento da produção agrícola.` },
-      { id: 'E', type: 'text', value: `os sistemas de cultivo mecanizado voltados para o 
-abastecimento do mercado interno.` },
+      { id: 'A', type: 'text', value: `a baixa inserção de sua agricultura no comércio mundial.` },
+      { id: 'B', type: 'text', value: `a quantidade insuficiente de mão-de-obra para o trabalho agrícola.` },
+      { id: 'C', type: 'text', value: `a presença de estruturas agrárias arcaicas formadas por latifúndios improdutivos.` },
+      { id: 'D', type: 'text', value: `a situação conflituosa vivida no campo, que impede o crescimento da produção agrícola.` },
+      { id: 'E', type: 'text', value: `os sistemas de cultivo mecanizado voltados para o abastecimento do mercado interno.` },
     ],
     correct: 'C',
     explanation: `A subalimentação na América do Sul explica-se, sobretudo, pela persistência de estruturas agrárias arcaicas, marcadas por latifúndios improdutivos e por forte concentração fundiária — por isso C. A é falsa, pois a agricultura regional é integrada ao comércio mundial. B inverte a questão, já que não falta mão de obra. D confunde causa e efeito. E não explica a fome, pois a mecanização voltada ao mercado interno não é a origem do problema.`,
@@ -3270,20 +2535,11 @@ Com base nas informações do mapa acerca dos conflitos
 pela posse de terra no Brasil, a região`,
     images: ['/enem/2009/images/enem_2009_d1_q77.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `conhecida 
-historicamente 
-como 
-das 
-Missões 
-Jesuíticas é a de maior violência.` },
-      { id: 'B', type: 'text', value: `do Bico do Papagaio apresenta os números mais 
-expressivos.` },
-      { id: 'C', type: 'text', value: `conhecida como oeste baiano tem o maior número de 
-mortes.` },
-      { id: 'D', type: 'text', value: `do norte do Mato Grosso, área de expansão da 
-agricultura mecanizada, é a mais violenta do país.` },
-      { id: 'E', type: 'text', value: `da Zona da Mata mineira teve o maior registro de 
-mortes.` },
+      { id: 'A', type: 'text', value: `conhecida historicamente como das Missões Jesuíticas é a de maior violência.` },
+      { id: 'B', type: 'text', value: `do Bico do Papagaio apresenta os números mais expressivos.` },
+      { id: 'C', type: 'text', value: `conhecida como oeste baiano tem o maior número de mortes.` },
+      { id: 'D', type: 'text', value: `do norte do Mato Grosso, área de expansão da agricultura mecanizada, é a mais violenta do país.` },
+      { id: 'E', type: 'text', value: `da Zona da Mata mineira teve o maior registro de mortes.` },
     ],
     correct: 'B',
     explanation: `A leitura do mapa dos conflitos agrários mostra que a região do Bico do Papagaio — na divisa de Tocantins, Pará e Maranhão — apresenta os números mais expressivos de conflitos e de mortes, por isso B. Trata-se de uma área de intensa disputa pela posse da terra, ligada à expansão da fronteira agrícola na Amazônia Legal. As demais alternativas localizam equivocadamente o pico da violência: as Missões jesuíticas (A), o oeste baiano (C), o norte do Mato Grosso (D) e a Zona da Mata mineira (E) não correspondem aos maiores registros apontados no mapa.`,
@@ -3307,22 +2563,11 @@ De acordo com o gráfico e com referência à distribuição
 das áreas rurais no Brasil, conclui-se que`,
     images: ['/enem/2009/images/enem_2009_d1_q78.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `imóveis improdutivos são predominantes em relação 
-às demais formas de ocupação da terra no âmbito 
-nacional e na maioria das regiões.` },
-      { id: 'B', type: 'text', value: `o índice de 63,8% de imóveis improdutivos demonstra 
-que grande parte do solo brasileiro é de baixa 
-fertilidade, impróprio para a atividade agrícola.` },
-      { id: 'C', type: 'text', value: `o percentual de imóveis improdutivos iguala-se ao de 
-imóveis produtivos somados aos minifúndios, o que 
-justifica a existência de conflitos por terra.` },
-      { id: 'D', type: 'text', value: `a região Norte apresenta o segundo menor percentual 
-de imóveis produtivos, possivelmente em razão da 
-presença de densa cobertura florestal, protegida por 
-legislação ambiental.` },
-      { id: 'E', type: 'text', value: `a região Centro-Oeste apresenta o menor percentual 
-de área ocupada por minifúndios, o que inviabiliza 
-políticas de reforma agrária nesta região.` },
+      { id: 'A', type: 'text', value: `imóveis improdutivos são predominantes em relação às demais formas de ocupação da terra no âmbito nacional e na maioria das regiões.` },
+      { id: 'B', type: 'text', value: `o índice de 63,8% de imóveis improdutivos demonstra que grande parte do solo brasileiro é de baixa fertilidade, impróprio para a atividade agrícola.` },
+      { id: 'C', type: 'text', value: `o percentual de imóveis improdutivos iguala-se ao de imóveis produtivos somados aos minifúndios, o que justifica a existência de conflitos por terra.` },
+      { id: 'D', type: 'text', value: `a região Norte apresenta o segundo menor percentual de imóveis produtivos, possivelmente em razão da presença de densa cobertura florestal, protegida por legislação ambiental.` },
+      { id: 'E', type: 'text', value: `a região Centro-Oeste apresenta o menor percentual de área ocupada por minifúndios, o que inviabiliza políticas de reforma agrária nesta região.` },
     ],
     correct: 'A',
     explanation: `O gráfico evidencia que os imóveis improdutivos predominam em relação às demais formas de ocupação da terra, tanto no âmbito nacional quanto na maioria das regiões — por isso A. B atribui o dado à baixa fertilidade do solo, o que o gráfico não mostra. C e D fazem comparações numéricas incorretas entre as categorias. E tira conclusão indevida sobre a inviabilidade da reforma agrária no Centro-Oeste.`,
@@ -3354,21 +2599,11 @@ Nos lugares mencionados no texto, o papel dos grupos de
 defesa dos direitos humanos tem sido fundamental, porque 
 eles`,
     alternatives: [
-      { id: 'A', type: 'text', value: `negociam com os fazendeiros o reajuste dos 
-honorários e a redução da carga horária de trabalho.` },
-      { id: 'B', type: 'text', value: `defendem os direitos dos consumidores junto aos 
-armazéns e mercados das fazendas e carvoarias.` },
-      { id: 'C', type: 'text', value: `substituem as autoridades policiais e jurídicas na 
-resolução dos conflitos entre patrões e empregados.` },
-      { id: 'D', type: 'text', value: `encaminham denúncias ao Ministério Público e 
-promovem 
-ações 
-de 
-conscientização 
-dos 
-trabalhadores.` },
-      { id: 'E', type: 'text', value: `fortalecem a administração pública ao ministrarem 
-aulas aos seus servidores.` },
+      { id: 'A', type: 'text', value: `negociam com os fazendeiros o reajuste dos honorários e a redução da carga horária de trabalho.` },
+      { id: 'B', type: 'text', value: `defendem os direitos dos consumidores junto aos armazéns e mercados das fazendas e carvoarias.` },
+      { id: 'C', type: 'text', value: `substituem as autoridades policiais e jurídicas na resolução dos conflitos entre patrões e empregados.` },
+      { id: 'D', type: 'text', value: `encaminham denúncias ao Ministério Público e promovem ações de conscientização dos trabalhadores.` },
+      { id: 'E', type: 'text', value: `fortalecem a administração pública ao ministrarem aulas aos seus servidores.` },
     ],
     correct: 'D',
     explanation: `Nas regiões citadas, os grupos de defesa dos direitos humanos (como a Comissão Pastoral da Terra) atuam encaminhando denúncias ao Ministério Público e promovendo a conscientização dos trabalhadores sobre seus direitos sociais e trabalhistas — por isso D. A e B desvirtuam seu papel (negociar honorários ou defender consumidores). C afirma que substituiriam as autoridades policiais e jurídicas, o que não ocorre. E restringe sua ação a treinar servidores públicos.`,
@@ -3392,21 +2627,11 @@ crescente intensificação da exploração de recursos
 naturais, facilitada pelo desenvolvimento tecnológico ao 
 longo da história, é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a diminuição do comércio entre países e regiões, que 
-se tornaram autossuficientes na produção de bens e 
-serviços.` },
-      { id: 'B', type: 'text', value: `a ocorrência de desastres ambientais de grandes 
-proporções, como no caso de derramamento de óleo 
-por navios petroleiros.` },
-      { id: 'C', type: 'text', value: `a melhora generalizada das condições de vida da 
-população mundial, a partir da eliminação das 
-desigualdades econômicas na atualidade.` },
-      { id: 'D', type: 'text', value: `o desmatamento, que eliminou grandes extensões de 
-diversos biomas improdutivos, cujas áreas passaram a 
-ser ocupadas por centros industriais modernos.` },
-      { id: 'E', type: 'text', value: `o aumento demográfico mundial, sobretudo nos países 
-mais desenvolvidos, que apresentam altas taxas de 
-crescimento vegetativo.` },
+      { id: 'A', type: 'text', value: `a diminuição do comércio entre países e regiões, que se tornaram autossuficientes na produção de bens e serviços.` },
+      { id: 'B', type: 'text', value: `a ocorrência de desastres ambientais de grandes proporções, como no caso de derramamento de óleo por navios petroleiros.` },
+      { id: 'C', type: 'text', value: `a melhora generalizada das condições de vida da população mundial, a partir da eliminação das desigualdades econômicas na atualidade.` },
+      { id: 'D', type: 'text', value: `o desmatamento, que eliminou grandes extensões de diversos biomas improdutivos, cujas áreas passaram a ser ocupadas por centros industriais modernos.` },
+      { id: 'E', type: 'text', value: `o aumento demográfico mundial, sobretudo nos países mais desenvolvidos, que apresentam altas taxas de crescimento vegetativo.` },
     ],
     correct: 'B',
     explanation: `A intensificação da exploração de recursos naturais, facilitada pela tecnologia, tem como consequência a ocorrência de desastres ambientais de grandes proporções, como os derramamentos de óleo por navios petroleiros — por isso B. A ('diminuição do comércio') e C ('fim das desigualdades') são irreais. D trata biomas como 'improdutivos' e vê o desmatamento como benéfico. E erra ao concentrar o crescimento demográfico nos países mais desenvolvidos.`,
@@ -3425,35 +2650,11 @@ nas instâncias nacionais, a referência à sustentabilidade
 como princípio orientador de ações e propostas que deles 
 emanam. A sustentabilidade explica-se pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `incapacidade de se manter uma atividade econômica 
-ao longo do tempo sem causar danos ao meio 
-ambiente.` },
-      { id: 'B', type: 'text', value: `incompatibilidade 
-entre 
-crescimento 
-econômico 
-acelerado e preservação de recursos naturais e de 
-fontes não renováveis de energia.` },
-      { id: 'C', type: 'text', value: `interação de todas as dimensões do bem-estar 
-humano com o crescimento econômico, sem a 
-preocupação com a conservação dos recursos 
-naturais que estivera presente desde a Antiguidade.` },
-      { id: 'D', type: 'text', value: `proteção da biodiversidade em face das ameaças de 
-destruição que sofrem as florestas tropicais devido ao 
-avanço 
-de 
-atividades 
-como 
-a 
-mineração, 
-a 
-monocultura, o tráfico de madeira e de espécies 
-selvagens.` },
-      { id: 'E', type: 'text', value: `necessidade de se satisfazer as demandas atuais 
-colocadas pelo desenvolvimento sem comprometer a 
-capacidade de as gerações futuras atenderem suas 
-próprias necessidades nos campos econômico, social 
-e ambiental.` },
+      { id: 'A', type: 'text', value: `incapacidade de se manter uma atividade econômica ao longo do tempo sem causar danos ao meio ambiente.` },
+      { id: 'B', type: 'text', value: `incompatibilidade entre crescimento econômico acelerado e preservação de recursos naturais e de fontes não renováveis de energia.` },
+      { id: 'C', type: 'text', value: `interação de todas as dimensões do bem-estar humano com o crescimento econômico, sem a preocupação com a conservação dos recursos naturais que estivera presente desde a Antiguidade.` },
+      { id: 'D', type: 'text', value: `proteção da biodiversidade em face das ameaças de destruição que sofrem as florestas tropicais devido ao avanço de atividades como a mineração, a monocultura, o tráfico de madeira e de espécies selvagens.` },
+      { id: 'E', type: 'text', value: `necessidade de se satisfazer as demandas atuais colocadas pelo desenvolvimento sem comprometer a capacidade de as gerações futuras atenderem suas próprias necessidades nos campos econômico, social e ambiental.` },
     ],
     correct: 'E',
     explanation: `A sustentabilidade define-se como a capacidade de satisfazer as necessidades atuais sem comprometer a possibilidade de as gerações futuras atenderem às suas próprias necessidades, nas dimensões econômica, social e ambiental — por isso E, que reproduz o conceito do Relatório Brundtland. A e B afirmam uma incompatibilidade absoluta entre economia e meio ambiente. C nega indevidamente a preocupação com a conservação dos recursos. D reduz o conceito apenas à proteção da biodiversidade florestal.`,
@@ -3476,25 +2677,11 @@ petróleo, bem como de minérios - diamante, ouro, prata,
 cobre, chumbo, zinco - torna-se atraente não só em 
 função de seu formidável potencial, mas também por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `situar-se em uma zona geopolítica mais estável que o 
-Oriente Médio.` },
-      { id: 'B', type: 'text', value: `possibilitar o povoamento de uma região pouco 
-habitada, além de promover seu desenvolvimento 
-econômico.` },
-      { id: 'C', type: 'text', value: `garantir, aos países em desenvolvimento, acesso a 
-matérias-primas 
-e 
-energia, 
-necessárias 
-ao 
-crescimento econômico.` },
-      { id: 'D', type: 'text', value: `contribuir para a redução da poluição em áreas 
-ambientalmente já degradadas devido ao grande 
-volume da produção industrial, como ocorreu na 
-Europa.` },
-      { id: 'E', type: 'text', value: `promover a participação dos combustíveis fósseis na 
-matriz energética mundial, dominada, majoritariamente, 
-pelas fontes renováveis, de maior custo.` },
+      { id: 'A', type: 'text', value: `situar-se em uma zona geopolítica mais estável que o Oriente Médio.` },
+      { id: 'B', type: 'text', value: `possibilitar o povoamento de uma região pouco habitada, além de promover seu desenvolvimento econômico.` },
+      { id: 'C', type: 'text', value: `garantir, aos países em desenvolvimento, acesso a matérias-primas e energia, necessárias ao crescimento econômico.` },
+      { id: 'D', type: 'text', value: `contribuir para a redução da poluição em áreas ambientalmente já degradadas devido ao grande volume da produção industrial, como ocorreu na Europa.` },
+      { id: 'E', type: 'text', value: `promover a participação dos combustíveis fósseis na matriz energética mundial, dominada, majoritariamente, pelas fontes renováveis, de maior custo.` },
     ],
     correct: 'A',
     explanation: `No contexto do degelo do Ártico, a exploração de petróleo e minérios torna-se atraente também por situar-se numa zona geopolítica mais estável do que o Oriente Médio, reduzindo riscos de fornecimento — por isso A. B e C idealizam o povoamento da região e o acesso de países em desenvolvimento. D afirma uma improvável redução da poluição. E inverte a matriz energética mundial, que é dominada por fontes fósseis, e não renováveis.`,
@@ -3533,16 +2720,11 @@ Portugal e Espanha. De acordo com esses tratados,
 identificados no mapa, conclui-se que`,
     images: ['/enem/2009/images/enem_2009_d1_q84.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Portugal, pelo Tratado de Tordesilhas, detinha o controle 
-da foz do rio Amazonas.` },
-      { id: 'B', type: 'text', value: `o Tratado de Tordesilhas utilizava os rios como limite 
-físico da América portuguesa.` },
-      { id: 'C', type: 'text', value: `o Tratado de Madri reconheceu a expansão portuguesa 
-além da linha de Tordesilhas.` },
-      { id: 'D', type: 'text', value: `Portugal, pelo Tratado de San Ildefonso, perdia territórios 
-na América em relação ao de Tordesilhas.` },
-      { id: 'E', type: 'text', value: `o Tratado de Madri criou a divisão administrativa da 
-América Portuguesa em Vice-Reinos Oriental e Ocidental. ` },
+      { id: 'A', type: 'text', value: `Portugal, pelo Tratado de Tordesilhas, detinha o controle da foz do rio Amazonas.` },
+      { id: 'B', type: 'text', value: `o Tratado de Tordesilhas utilizava os rios como limite físico da América portuguesa.` },
+      { id: 'C', type: 'text', value: `o Tratado de Madri reconheceu a expansão portuguesa além da linha de Tordesilhas.` },
+      { id: 'D', type: 'text', value: `Portugal, pelo Tratado de San Ildefonso, perdia territórios na América em relação ao de Tordesilhas.` },
+      { id: 'E', type: 'text', value: `o Tratado de Madri criou a divisão administrativa da América Portuguesa em Vice-Reinos Oriental e Ocidental.` },
     ],
     correct: 'C',
     explanation: `A leitura do mapa dos tratados mostra que o Tratado de Madri (1750) reconheceu a expansão portuguesa para além da linha de Tordesilhas, consagrando o princípio do uti possidetis (posse efetiva da terra) — por isso C. A e B fazem afirmações falsas sobre Tordesilhas (controle da foz do Amazonas e uso de rios como limite). D inverte o resultado do Tratado de Santo Ildefonso. E inventa uma divisão da América portuguesa em vice-reinos.`,
@@ -3587,18 +2769,11 @@ Reunindo-se as informações contidas nas duas charges,
 infere-se que`,
     images: ['/enem/2009/images/enem_2009_d1_q86_1.jpg', '/enem/2009/images/enem_2009_d1_q86_2.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `os regimes climáticos da Terra são desprovidos de 
-padrões que os caracterizem.` },
-      { id: 'B', type: 'text', value: `as intervenções humanas nas regiões polares são 
-mais intensas que em outras partes do globo.` },
-      { id: 'C', type: 'text', value: `o processo de aquecimento global será detido com a 
-eliminação das queimadas.` },
-      { id: 'D', type: 'text', value: `a destruição das florestas tropicais é uma das causas 
-do aumento da temperatura em locais distantes como 
-os polos.` },
-      { id: 'E', type: 'text', value: `os parâmetros climáticos modificados pelo homem 
-afetam todo o planeta, mas os processos naturais têm 
-alcance regional.` },
+      { id: 'A', type: 'text', value: `os regimes climáticos da Terra são desprovidos de padrões que os caracterizem.` },
+      { id: 'B', type: 'text', value: `as intervenções humanas nas regiões polares são mais intensas que em outras partes do globo.` },
+      { id: 'C', type: 'text', value: `o processo de aquecimento global será detido com a eliminação das queimadas.` },
+      { id: 'D', type: 'text', value: `a destruição das florestas tropicais é uma das causas do aumento da temperatura em locais distantes como os polos.` },
+      { id: 'E', type: 'text', value: `os parâmetros climáticos modificados pelo homem afetam todo o planeta, mas os processos naturais têm alcance regional.` },
     ],
     correct: 'D',
     explanation: `Reunindo as informações das duas charges sobre o clima, infere-se que a destruição das florestas tropicais é uma das causas do aumento da temperatura inclusive em locais distantes, como os polos — por isso D. A nega a existência de padrões climáticos. B e C fazem afirmações absolutas e falsas (intervenção humana maior nos polos. Fim do aquecimento apenas com o fim das queimadas). E limita os processos naturais à escala regional, contrariando a ideia de impacto global.`,
@@ -3616,14 +2791,10 @@ alcance regional.` },
 Em relação às regiões marcadas na figura, observa-se que`,
     images: ['/enem/2009/images/enem_2009_d1_q87.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a existência de áreas superáridas, áridas e semiáridas é resultado do processo de desertificação, de intensidade 
-variável, causado pela ação humana.` },
-      { id: 'B', type: 'text', value: `o emprego de modernas técnicas de irrigação possibilitou a expansão da agricultura em determinadas áreas do 
-semiárido, integrando-as ao comércio internacional.` },
-      { id: 'C', type: 'text', value: `o semiárido, por apresentar déficit de precipitação, passou a ser habitado a partir da Idade Moderna, graças ao avanço
-científico e tecnológico.` },
-      { id: 'D', type: 'text', value: `as áreas com escassez hídrica na América do Sul se restringem às regiões tropicais, onde as médias de temperatura 
-anual são mais altas, justificando a falta de desenvolvimento e os piores indicadores sociais.` },
+      { id: 'A', type: 'text', value: `a existência de áreas superáridas, áridas e semiáridas é resultado do processo de desertificação, de intensidade variável, causado pela ação humana.` },
+      { id: 'B', type: 'text', value: `o emprego de modernas técnicas de irrigação possibilitou a expansão da agricultura em determinadas áreas do semiárido, integrando-as ao comércio internacional.` },
+      { id: 'C', type: 'text', value: `o semiárido, por apresentar déficit de precipitação, passou a ser habitado a partir da Idade Moderna, graças ao avanço científico e tecnológico.` },
+      { id: 'D', type: 'text', value: `as áreas com escassez hídrica na América do Sul se restringem às regiões tropicais, onde as médias de temperatura anual são mais altas, justificando a falta de desenvolvimento e os piores indicadores sociais.` },
       { id: 'E', type: 'text', value: `o mesmo tipo de cobertura vegetal é encontrado nas áreas superáridas, áridas e semiáridas, mas essa cobertura, embora adaptada às condições climáticas, é desprovida de valor econômico.` },
     ],
     correct: 'B',
@@ -3644,38 +2815,11 @@ indicam que haverá escassez em muitas regiões do
 planeta. São esperadas mudanças nos padrões de 
 precipitação, pois`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o maior aquecimento implica menor formação de 
-nuvens e, consequentemente, a eliminação de áreas 
-úmidas e subúmidas do globo.` },
-      { id: 'B', type: 'text', value: `as chuvas frontais ficarão restritas ao tempo de 
-permanência 
-da 
-frente 
-em 
-uma 
-determinada 
-localidade, o que limitará a produtividade das 
-atividades agrícolas.` },
-      { id: 'C', type: 'text', value: `as 
-modificações 
-decorrentes 
-do 
-aumento 
-da 
-temperatura do ar diminuirão a umidade e, portanto, 
-aumentarão a aridez em todo o planeta.` },
-      { id: 'D', type: 'text', value: `a elevação do nível dos mares pelo derretimento das 
-geleiras acarretará redução na ocorrência de chuvas 
-nos continentes, o que implicará a escassez de água 
-para abastecimento.` },
-      { id: 'E', type: 'text', value: `a origem da chuva está diretamente relacionada 
-com a temperatura do ar, sendo que atividades 
-antropogênicas 
-são 
-capazes 
-de 
-provocar 
-interferências em escala local e global.` },
+      { id: 'A', type: 'text', value: `o maior aquecimento implica menor formação de nuvens e, consequentemente, a eliminação de áreas úmidas e subúmidas do globo.` },
+      { id: 'B', type: 'text', value: `as chuvas frontais ficarão restritas ao tempo de permanência da frente em uma determinada localidade, o que limitará a produtividade das atividades agrícolas.` },
+      { id: 'C', type: 'text', value: `as modificações decorrentes do aumento da temperatura do ar diminuirão a umidade e, portanto, aumentarão a aridez em todo o planeta.` },
+      { id: 'D', type: 'text', value: `a elevação do nível dos mares pelo derretimento das geleiras acarretará redução na ocorrência de chuvas nos continentes, o que implicará a escassez de água para abastecimento.` },
+      { id: 'E', type: 'text', value: `a origem da chuva está diretamente relacionada com a temperatura do ar, sendo que atividades antropogênicas são capazes de provocar interferências em escala local e global.` },
     ],
     correct: 'E',
     explanation: `As mudanças nos padrões de precipitação ocorrem porque a origem das chuvas está diretamente ligada à temperatura do ar, e as atividades antrópicas, ao alterarem essa temperatura, são capazes de interferir no regime de chuvas em escala local e global — por isso E. A, C e D fazem previsões deterministas e simplistas (eliminação de áreas úmidas, aumento da aridez em 'todo o planeta', redução geral de chuvas pela elevação do mar). B restringe o fenômeno apenas às chuvas frontais.`,
@@ -3699,23 +2843,11 @@ PEDROSA, M. Utopia: obra de arte. Vis - Revista do Programa de
 Pós-graduação em Arte (UnB), Vol. 5, n. 1, 2006 (adaptado). 
 As ideias apontadas no texto estão em oposição, porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a cultura dos povos é reduzida a exemplos 
-esquemáticos que não encontram respaldo na história 
-do Brasil ou da América.` },
-      { id: 'B', type: 'text', value: `as cidades, na primeira afirmação, têm um papel mais 
-fraco na vida social, enquanto a América é mostrada 
-como um exemplo a ser evitado.` },
-      { id: 'C', type: 'text', value: `a objeção inicial, de que as cidades não podem ser 
-inventadas, é negada logo em seguida pelo exemplo 
-utópico da colonização da América.` },
-      { id: 'D', type: 'text', value: `a concepção fundamental da primeira afirmação 
-defende a construção de cidades e a segunda mostra, 
-historicamente, que essa estratégia acarretou sérios 
-problemas.` },
-      { id: 'E', type: 'text', value: `a primeira entende que as cidades devem ser 
-organismos vivos, que nascem de forma espontânea, 
-e a segunda mostra que há exemplos históricos que 
-demonstram o contrário.` },
+      { id: 'A', type: 'text', value: `a cultura dos povos é reduzida a exemplos esquemáticos que não encontram respaldo na história do Brasil ou da América.` },
+      { id: 'B', type: 'text', value: `as cidades, na primeira afirmação, têm um papel mais fraco na vida social, enquanto a América é mostrada como um exemplo a ser evitado.` },
+      { id: 'C', type: 'text', value: `a objeção inicial, de que as cidades não podem ser inventadas, é negada logo em seguida pelo exemplo utópico da colonização da América.` },
+      { id: 'D', type: 'text', value: `a concepção fundamental da primeira afirmação defende a construção de cidades e a segunda mostra, historicamente, que essa estratégia acarretou sérios problemas.` },
+      { id: 'E', type: 'text', value: `a primeira entende que as cidades devem ser organismos vivos, que nascem de forma espontânea, e a segunda mostra que há exemplos históricos que demonstram o contrário.` },
     ],
     correct: 'E',
     explanation: `As ideias se opõem porque a primeira concebe a cidade como organismo vivo, que deveria nascer e crescer de forma espontânea e natural, enquanto a segunda mostra, com o exemplo do Brasil e de toda a América, que cidades e sociedades podem ser deliberadamente criadas pelo homem ocidental — por isso E. A, B e C distorcem a relação entre as duas afirmações. D inverte as posições, atribuindo à primeira a defesa da construção planejada das cidades.`,
@@ -3748,25 +2880,11 @@ sua grande biodiversidade, é a conscientização da
 sociedade e a organização de movimentos sociais que 
 exijam`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a criação de parques ecológicos na área do pantanal 
-mato-grossense.` },
-      { id: 'B', type: 'text', value: `a proibição da pesca e da caça, que tanto ameaçam 
-a biodiversidade.` },
-      { id: 'C', type: 'text', value: `o aumento das pastagens na área da planície, para 
-que a cobertura vegetal, composta de gramíneas, 
-evite a erosão do solo.` },
-      { id: 'D', type: 'text', value: `o 
-controle 
-do 
-desmatamento 
-e 
-da 
-erosão, 
-principalmente nas nascentes dos rios responsáveis 
-pelo nível das águas durante o período de cheias.` },
-      { id: 'E', type: 'text', value: `a construção de barragens, para que o nível das 
-águas dos rios seja mantido, sobretudo na estiagem, 
-sem prejudicar os ecossistemas.` },
+      { id: 'A', type: 'text', value: `a criação de parques ecológicos na área do pantanal mato-grossense.` },
+      { id: 'B', type: 'text', value: `a proibição da pesca e da caça, que tanto ameaçam a biodiversidade.` },
+      { id: 'C', type: 'text', value: `o aumento das pastagens na área da planície, para que a cobertura vegetal, composta de gramíneas, evite a erosão do solo.` },
+      { id: 'D', type: 'text', value: `o controle do desmatamento e da erosão, principalmente nas nascentes dos rios responsáveis pelo nível das águas durante o período de cheias.` },
+      { id: 'E', type: 'text', value: `a construção de barragens, para que o nível das águas dos rios seja mantido, sobretudo na estiagem, sem prejudicar os ecossistemas.` },
     ],
     correct: 'D',
     explanation: `Para conservar a planície pantaneira e sua biodiversidade, a medida mais eficaz é o controle do desmatamento e da erosão, sobretudo nas nascentes (cabeceiras) dos rios do planalto do cerrado que abastecem o Pantanal — por isso D. A (criação de parques), B (proibição de pesca e caça) e E (construção de barragens) são paliativas ou até prejudiciais aos ecossistemas. C propõe aumentar pastagens, o que agravaria a degradação em vez de preservar a planície.`,

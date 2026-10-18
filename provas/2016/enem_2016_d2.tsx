@@ -46,8 +46,7 @@ associação Abuelas de Plaza de Mayo, com relação a
 uma decisão do tribunal argentino. No contexto da fala, 
 a expressão “una de cal y otra de arena” é utilizada para`,
     alternatives: [
-      { id: 'A', type: 'text', value: `referir-se ao fato de a decisão judicial não implicar a 
-sua imediata aplicação.` },
+      { id: 'A', type: 'text', value: `referir-se ao fato de a decisão judicial não implicar a sua imediata aplicação.` },
       { id: 'B', type: 'text', value: `destacar a inevitável execução da sentença.` },
       { id: 'C', type: 'text', value: `ironizar a parcialidade da Justiça nessa ação.` },
       { id: 'D', type: 'text', value: `criticar a coleta compulsória do material genético.` },
@@ -90,14 +89,10 @@ CORTÁZAR, J. Historias de cronopios y de famas . Buenos Aires: Sudamericana, 19
 Nesse texto, Júlio Cortázar transforma pequenas ações 
 cotidianas em criação literária,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `denunciando a má qualidade dos relógios modernos 
-em relação aos antigos.` },
-      { id: 'B', type: 'text', value: `apresentando possibilidades de sermos presenteados 
-com um relógio.` },
-      { id: 'C', type: 'text', value: `convidando o leitor a refletir sobre a coisificação do 
-ser humano.` },
-      { id: 'D', type: 'text', value: `desafiando o leitor a pensar sobre a efemeridade 
-do tempo.` },
+      { id: 'A', type: 'text', value: `denunciando a má qualidade dos relógios modernos em relação aos antigos.` },
+      { id: 'B', type: 'text', value: `apresentando possibilidades de sermos presenteados com um relógio.` },
+      { id: 'C', type: 'text', value: `convidando o leitor a refletir sobre a coisificação do ser humano.` },
+      { id: 'D', type: 'text', value: `desafiando o leitor a pensar sobre a efemeridade do tempo.` },
       { id: 'E', type: 'text', value: `criticando o leitor por ignorar os malefícios do relógio.` },
     ],
     correct: 'C',
@@ -126,12 +121,9 @@ O poema retoma elementos da cultura popular
 mexicana que refletem um dos aspectos que a constitui, 
 caracterizado pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `percepção dos perigos de banhar-se em rios de 
-águas poluídas.` },
-      { id: 'B', type: 'text', value: `crença na relevância dos sonhos como premonições 
-ou conselhos.` },
-      { id: 'C', type: 'text', value: `necessidade de resgate da tradição de carregar água 
-em cântaros.` },
+      { id: 'A', type: 'text', value: `percepção dos perigos de banhar-se em rios de águas poluídas.` },
+      { id: 'B', type: 'text', value: `crença na relevância dos sonhos como premonições ou conselhos.` },
+      { id: 'C', type: 'text', value: `necessidade de resgate da tradição de carregar água em cântaros.` },
       { id: 'D', type: 'text', value: `exaltação da importância da preservação da água.` },
       { id: 'E', type: 'text', value: `cautela no trato com inimigos e pessoas traiçoeiras.` },
     ],
@@ -165,16 +157,11 @@ O título do texto antecipa a opinião do autor pelo uso de
 dois termos contraditórios que expressam o sentido de`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `competitividade e busca do lucro, que caracterizam a 
-sociedade contemporânea.` },
-      { id: 'B', type: 'text', value: `busca de estabilidade financeira e emocional, que 
-marca o mundo atual.` },
-      { id: 'C', type: 'text', value: `negação dos valores defendidos pelas gerações 
-anteriores em relação ao trabalho.` },
-      { id: 'D', type: 'text', value: `necessidade de realização pessoal e profissional no 
-sistema vigente.` },
-      { id: 'E', type: 'text', value: `permanência da inconstância em uma sociedade 
-marcada por contínuas mudanças.` },
+      { id: 'A', type: 'text', value: `competitividade e busca do lucro, que caracterizam a sociedade contemporânea.` },
+      { id: 'B', type: 'text', value: `busca de estabilidade financeira e emocional, que marca o mundo atual.` },
+      { id: 'C', type: 'text', value: `negação dos valores defendidos pelas gerações anteriores em relação ao trabalho.` },
+      { id: 'D', type: 'text', value: `necessidade de realização pessoal e profissional no sistema vigente.` },
+      { id: 'E', type: 'text', value: `permanência da inconstância em uma sociedade marcada por contínuas mudanças.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O título "Inestabilidad estable" reúne dois termos de sentido oposto para antecipar a opinião do autor sobre o mundo contemporâneo. Segundo o texto, as pessoas buscam um pensamento estável e seguro, mas vivem num mundo que se transforma continuamente e as modela conforme critérios de rentabilidade. O oximoro do título expressa, assim, a permanência da inconstância em uma sociedade marcada por contínuas mudanças (alternativa E). As demais opções associam a expressão à competitividade, à busca de estabilidade, à negação de valores anteriores ou à realização pessoal, sentidos que não captam a contradição anunciada no título.`,
@@ -260,8 +247,7 @@ VIMERCATE, N. Disponível em: www.techtudo.com.br. Acesso em: 1 maio 2013 (adapt
 Ao discorrer sobre os hoaxes , o texto sugere ao leitor, 
 como estratégia para evitar essa ameaça,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `recusar convites de jogos e brincadeiras feitos pela 
-internet.` },
+      { id: 'A', type: 'text', value: `recusar convites de jogos e brincadeiras feitos pela internet.` },
       { id: 'B', type: 'text', value: `analisar a linguagem utilizada nas mensagens recebidas.` },
       { id: 'C', type: 'text', value: `classificar os contatos presentes em suas redes sociais.` },
       { id: 'D', type: 'text', value: `utilizar programas que identifiquem falsos vírus.` },
@@ -324,10 +310,8 @@ e “cachorro da molest’a” contribui para`,
       { id: 'A', type: 'text', value: `marcar a classe social das personagens.` },
       { id: 'B', type: 'text', value: `caracterizar usos linguísticos de uma região.` },
       { id: 'C', type: 'text', value: `enfatizar a relação familiar entre as personagens.` },
-      { id: 'D', type: 'text', value: `sinalizar a influência do gênero nas escolhas 
-vocabulares.` },
-      { id: 'E', type: 'text', value: `demonstrar o tom autoritário da fala de uma das 
-personagens.` },
+      { id: 'D', type: 'text', value: `sinalizar a influência do gênero nas escolhas vocabulares.` },
+      { id: 'E', type: 'text', value: `demonstrar o tom autoritário da fala de uma das personagens.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. No trecho de "O santo e a porca", de Ariano Suassuna, as personagens dialogam usando expressões como "o peste" e "cachorro da molest'a", típicas da fala nordestina. Esses termos reproduzem, no texto teatral, a maneira de falar característica de uma região do Brasil. O emprego dessas expressões contribui, portanto, para caracterizar usos linguísticos de uma região (alternativa B). As demais opções falam em marcar a classe social, enfatizar a relação familiar, sinalizar a influência do gênero ou demonstrar tom autoritário, funções que não explicam o uso dos regionalismos.`,
@@ -401,16 +385,11 @@ de o cientista provocar um dano em um local específico
 no cérebro”, verifica-se que ele estabelece com a oração 
 seguinte uma relação de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `finalidade, porque os danos causados ao cérebro têm 
-por finalidade provocar a falta de vocalização dos ratos.` },
-      { id: 'B', type: 'text', value: `oposição, visto que o dano causado em um local 
-específico no cérebro é contrário à vocalização dos ratos.` },
-      { id: 'C', type: 'text', value: `condição, pois é preciso que se tenha lesão específica 
-no cérebro para que não haja vocalização dos ratos.` },
-      { id: 'D', type: 'text', value: `consequência, uma vez que o motivo de não haver mais 
-vocalização dos ratos é o dano causado no cérebro.` },
-      { id: 'E', type: 'text', value: `proporção, já que à medida que se lesiona o cérebro 
-não é mais possível que haja vocalização dos ratos.` },
+      { id: 'A', type: 'text', value: `finalidade, porque os danos causados ao cérebro têm por finalidade provocar a falta de vocalização dos ratos.` },
+      { id: 'B', type: 'text', value: `oposição, visto que o dano causado em um local específico no cérebro é contrário à vocalização dos ratos.` },
+      { id: 'C', type: 'text', value: `condição, pois é preciso que se tenha lesão específica no cérebro para que não haja vocalização dos ratos.` },
+      { id: 'D', type: 'text', value: `consequência, uma vez que o motivo de não haver mais vocalização dos ratos é o dano causado no cérebro.` },
+      { id: 'E', type: 'text', value: `proporção, já que à medida que se lesiona o cérebro não é mais possível que haja vocalização dos ratos.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto discute o riso e o senso de humor e afirma que, ao provocar um dano em local específico do cérebro de ratos, o cientista faz a brincadeira virar briga. A coesão é analisada no trecho "Acontecendo de o cientista provocar um dano em um local específico no cérebro", que se liga à oração seguinte estabelecendo uma relação de condição. É preciso que haja a lesão específica para que a vocalização deixe de ocorrer (alternativa C). As demais opções apontam relações de finalidade, oposição, consequência ou proporção, que não correspondem ao vínculo lógico entre as orações.`,
@@ -450,51 +429,35 @@ palavra mandinga resulta de um(a)`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `TEXTO I 
-Nesta 
-época 
-do 
-ano, 
-em 
-que 
-comprar 
-compulsivamente é a principal preocupação de boa 
-parte da população, é imprescindível refletirmos sobre 
-a importância da mídia na propagação de determinados 
-comportamentos 
-que 
-induzem 
-ao 
-consumismo 
-exacerbado. No clássico livro O capital , Karl Marx 
-aponta que no capitalismo os bens materiais, ao serem 
-fetichizados , passam a assumir qualidades que vão além 
-da mera materialidade. As coisas são personificadas 
-e as pessoas são coisificadas. Em outros termos, um 
-automóvel de luxo, uma mansão em um bairro nobre 
-ou a ostentação de objetos de determinadas marcas 
-famosas são alguns dos fatores que conferem maior 
-valorização e visibilidade social a um indivíduo. 
-LADEIRA, F. F. Reflexões sobre o consumismo . Disponível em: 
-http://observatoriodaimprensa.com.br. Acesso em: 18 jan. 2015. 
-TEXTO II 
-Todos os dias, em algum nível, o consumo atinge nossa 
-vida, modifica nossas relações, gera e rege sentimentos, 
-engendra fantasias, aciona comportamentos, faz sofrer, faz 
-gozar. Às vezes constrangendo-nos em nossas ações no 
-mundo, humilhando e aprisionando, às vezes ampliando 
-nossa imaginação e nossa capacidade de desejar, 
-consumimos e somos consumidos. Numa época toda 
-codificada como a nossa, o código da alma (o código do 
-ser) virou código do consumidor! Fascínio pelo consumo, 
-fascínio do consumo. Felicidade, luxo, bem-estar, boa forma, 
-lazer, elevação espiritual, saúde, turismo, sexo, família e 
-corpo são hoje reféns da engrenagem do consumo. 
- BARCELLOS, G. A alma do consumo . Disponível em: www.diplomatique.org.br. 
-Acesso em: 18 jan. 2015. 
-Esses textos propõem uma reflexão crítica sobre o 
-consumismo. Ambos partem do ponto de vista de que 
-esse hábito`,
+    text: `TEXTO I Nesta época do ano, em que comprar compulsivamente é a
+principal preocupação de boa parte da população, é
+imprescindível refletirmos sobre a importância da mídia na
+propagação de determinados comportamentos que induzem ao
+consumismo exacerbado. No clássico livro O capital , Karl Marx
+aponta que no capitalismo os bens materiais, ao serem
+fetichizados , passam a assumir qualidades que vão além da
+mera materialidade. As coisas são personificadas e as pessoas
+são coisificadas. Em outros termos, um automóvel de luxo, uma
+mansão em um bairro nobre ou a ostentação de objetos de
+determinadas marcas famosas são alguns dos fatores que
+conferem maior valorização e visibilidade social a um
+indivíduo. LADEIRA, F. F. Reflexões sobre o consumismo .
+Disponível em: http://observatoriodaimprensa.com.br. Acesso
+em: 18 jan. 2015. TEXTO II Todos os dias, em algum nível, o
+consumo atinge nossa vida, modifica nossas relações, gera e
+rege sentimentos, engendra fantasias, aciona comportamentos,
+faz sofrer, faz gozar. Às vezes constrangendo-nos em nossas
+ações no mundo, humilhando e aprisionando, às vezes ampliando
+nossa imaginação e nossa capacidade de desejar, consumimos e
+somos consumidos. Numa época toda codificada como a nossa, o
+código da alma (o código do ser) virou código do consumidor!
+Fascínio pelo consumo, fascínio do consumo. Felicidade, luxo,
+bem-estar, boa forma, lazer, elevação espiritual, saúde,
+turismo, sexo, família e corpo são hoje reféns da engrenagem
+do consumo. BARCELLOS, G. A alma do consumo . Disponível em:
+www.diplomatique.org.br. Acesso em: 18 jan. 2015. Esses textos
+propõem uma reflexão crítica sobre o consumismo. Ambos partem
+do ponto de vista de que esse hábito`,
     alternatives: [
       { id: 'A', type: 'text', value: `desperta o desejo de ascensão social.` },
       { id: 'B', type: 'text', value: `provoca mudanças nos valores sociais.` },
@@ -540,98 +503,26 @@ finalidade de`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `A ÁGUA 
-INVISÍVEL 
-Assim como a água corresponde a até 
-70% do nosso peso, ela também 
-compõe muito daquilo que comemos, 
-vestimos 
-e 
-usamos, 
-ainda 
-que 
-indiretamente. 
-Cada quilo de carne 
-bovina, por exemplo, 
-exige em media 
-15 mil litros de água 
-para ser produzido - 
-desde a produção 
-do alimento do gado 
-ate a limpeza de 
-seus dejetos. 
-O Brasil é um grande 
-exportador de água 
-na forma de soja 
-e cereais. 
-c 
-e 
-e 
-r 
-d 
-v 
-e 
-o 
-75 
-litros 
-j 
-p 
-a 
-o 
-= 
-c 
-1 
-e 
-p 
-d 
-a 
-g 
-o 
-k 
-= 
-1.600 
-litros 
-1 
-o 
-v 
-= 
-o 
-1 
-3.340 
-litros 
-e 
-a 
-d 
-l 
-g 
-l 
-o 
-o 
-ç 
-d 
-n 
-ã 
-e 
-10.600 
-litros 
-o 
-l 
-= 
-1 
-ECONOMIZAR BENS DE CONSUMO E EVITAR O DESPERDÍCIO 
-TAMBÉM É POUPAR ÁGUA. 
-National Geographic Brasil , n. 151, out. 2012 (adaptado). 
-Nessa campanha publicitária, para estimular a economia 
-de água, o leitor é incitado a`,
+    text: `A ÁGUA INVISÍVEL Assim como a água corresponde a até 70% do
+nosso peso, ela também compõe muito daquilo que comemos,
+vestimos e usamos, ainda que indiretamente. Cada quilo de
+carne bovina, por exemplo, exige em media 15 mil litros de
+água para ser produzido - desde a produção do alimento do gado
+ate a limpeza de seus dejetos. O Brasil é um grande exportador
+de água na forma de soja e cereais. c e e r d v e o 75 litros
+j p a o = c 1 e p d a g o k = 1.600 litros 1 o v = o 1 3.340
+litros e a d l g l o o ç d n ã e 10.600 litros o l = 1
+ECONOMIZAR BENS DE CONSUMO E EVITAR O DESPERDÍCIO TAMBÉM É
+POUPAR ÁGUA. National Geographic Brasil , n. 151, out. 2012
+(adaptado). Nessa campanha publicitária, para estimular a
+economia de água, o leitor é incitado a`,
     images: ['/enem/2016/images/enem_2016_d2_q105.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `adotar práticas de consumo consciente.` },
       { id: 'B', type: 'text', value: `alterar hábitos de higienização pessoal e residencial.` },
       { id: 'C', type: 'text', value: `contrapor-se a formas indiretas de exportação de água.` },
-      { id: 'D', type: 'text', value: `optar por vestuário produzido com matéria-prima 
-reciclável.` },
-      { id: 'E', type: 'text', value: `conscientizar produtores rurais sobre os custos de 
-produção.` },
+      { id: 'D', type: 'text', value: `optar por vestuário produzido com matéria-prima reciclável.` },
+      { id: 'E', type: 'text', value: `conscientizar produtores rurais sobre os custos de produção.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A campanha "A água invisível" mostra a chamada água virtual, isto é, a enorme quantidade de água usada na produção daquilo que comemos e vestimos, como a carne bovina, o pão e o algodão. Ao revelar esse consumo indireto, a peça busca mudar o comportamento do leitor em relação ao uso dos recursos. O leitor é incitado, assim, a adotar práticas de consumo consciente (alternativa A). As demais opções restringem a mensagem a hábitos de higienização, à oposição à exportação de água, ao uso de vestuário reciclável ou à conscientização de produtores rurais, aspectos que não resumem o apelo da campanha.`,
@@ -748,8 +639,7 @@ autores escreveram esse texto para`,
       { id: 'B', type: 'text', value: `noticiar as descobertas científicas oriundas da pesquisa.` },
       { id: 'C', type: 'text', value: `defender as práticas sustentáveis de manejo da madeira.` },
       { id: 'D', type: 'text', value: `ensinar formas de combate à exploração ilegal de madeira.` },
-      { id: 'E', type: 'text', value: `demonstrar a importância de parcerias para a realização 
-da pesquisa.` },
+      { id: 'E', type: 'text', value: `demonstrar a importância de parcerias para a realização da pesquisa.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto apresenta a obra "Madeira de ponta a ponta", uma reportagem ilustrada que, com olhar jornalístico, crítico e didático, percorre a Amazônia e expõe as fraudes e as boas práticas na cadeia produtiva da madeira. O próprio texto comenta o conteúdo e os objetivos do livro, funcionando como uma apresentação dele. Seus autores o escreveram, portanto, para apresentar informações e comentários sobre o livro (alternativa A). As demais opções restringem o propósito a noticiar descobertas científicas, defender práticas sustentáveis, ensinar o combate à exploração ilegal ou demonstrar a importância de parcerias, finalidades que não abrangem o conjunto do texto.`,
@@ -766,16 +656,11 @@ Nesse texto, a combinação de elementos verbais e não
 verbais configura-se como estratégia argumentativa para`,
     images: ['/enem/2016/images/enem_2016_d2_q109.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `manifestar a preocupação do governo com a 
-segurança dos pedestres.` },
-      { id: 'B', type: 'text', value: `associar a utilização do celular às ocorrências de 
-atropelamento de crianças.` },
-      { id: 'C', type: 'text', value: `orientar pedestres e motoristas quanto à utilização 
-responsável do telefone móvel.` },
-      { id: 'D', type: 'text', value: `influenciar o comportamento de motoristas em relação 
-ao uso de celular no trânsito.` },
-      { id: 'E', type: 'text', value: `alertar a população para os riscos da falta de atenção 
-no trânsito das grandes cidades.` },
+      { id: 'A', type: 'text', value: `manifestar a preocupação do governo com a segurança dos pedestres.` },
+      { id: 'B', type: 'text', value: `associar a utilização do celular às ocorrências de atropelamento de crianças.` },
+      { id: 'C', type: 'text', value: `orientar pedestres e motoristas quanto à utilização responsável do telefone móvel.` },
+      { id: 'D', type: 'text', value: `influenciar o comportamento de motoristas em relação ao uso de celular no trânsito.` },
+      { id: 'E', type: 'text', value: `alertar a população para os riscos da falta de atenção no trânsito das grandes cidades.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A peça publicitária combina a imagem de telas de celular que escondem uma criança atravessando a rua com a frase "Se você não percebeu a criança aqui, imagine no trânsito". A articulação entre o recurso visual e o verbal chama a atenção para os riscos do uso do celular ao volante. Essa estratégia argumentativa busca, assim, influenciar o comportamento de motoristas em relação ao uso de celular no trânsito (alternativa D). As demais opções falam em manifestar preocupação do governo, associar o celular ao atropelamento de crianças, orientar pedestres e motoristas ou alertar sobre a falta de atenção nas grandes cidades, focos que não correspondem ao objetivo central.`,
@@ -816,16 +701,11 @@ Considerando os aspectos estéticos e semânticos
 presentes no texto, a imagem da pérola configura uma 
 percepção que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `reforça o valor do sofrimento e do esquecimento para 
-o processo criativo.` },
-      { id: 'B', type: 'text', value: `ilustra o conflito entre a procura do novo e a rejeição 
-ao elemento exótico.` },
-      { id: 'C', type: 'text', value: `concebe a criação literária como trabalho progressivo 
-e de autoconhecimento.` },
-      { id: 'D', type: 'text', value: `expressa a ideia de atividade poética como experiência 
-anônima e involuntária.` },
-      { id: 'E', type: 'text', value: `destaca o efeito introspectivo gerado pelo contato 
-com o inusitado e com o desconhecido.` },
+      { id: 'A', type: 'text', value: `reforça o valor do sofrimento e do esquecimento para o processo criativo.` },
+      { id: 'B', type: 'text', value: `ilustra o conflito entre a procura do novo e a rejeição ao elemento exótico.` },
+      { id: 'C', type: 'text', value: `concebe a criação literária como trabalho progressivo e de autoconhecimento.` },
+      { id: 'D', type: 'text', value: `expressa a ideia de atividade poética como experiência anônima e involuntária.` },
+      { id: 'E', type: 'text', value: `destaca o efeito introspectivo gerado pelo contato com o inusitado e com o desconhecido.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No texto "Pérolas absolutas", H. Seixas compara a formação da pérola ao fazer artístico: a ostra reage a uma partícula invasora secretando nácar, por anos, até transformar a dor em pérola, assim como a arte transforma a dor em criação. O trecho defende que escrever é continuar esse trabalho paciente de lapidar a própria matéria. A imagem da pérola configura, portanto, uma percepção que concebe a criação literária como trabalho progressivo e de autoconhecimento (alternativa C). As demais opções reduzem o texto ao valor do sofrimento e do esquecimento, ao conflito entre o novo e o exótico, à experiência anônima e involuntária ou ao efeito do contato com o inusitado, sentidos que não traduzem a comparação central.`,
@@ -893,21 +773,11 @@ Ao apresentar uma cena em que um menino atira milho
 explora um recurso que conduz a uma expressividade 
 fundamentada na`,
     alternatives: [
-      { id: 'A', type: 'text', value: `captura de elementos da vida rural, de feições 
-peculiares.` },
-      { id: 'B', type: 'text', value: `caracterização de um quintal de sítio, espaço de 
-descobertas.` },
-      { id: 'C', type: 'text', value: `confusão intencional da marcação do tempo, centrado 
-na infância.` },
-      { id: 'D', type: 'text', value: `apropriação 
-de 
-diferentes 
-pontos 
-de 
-vista, 
-incorporados afetivamente.` },
-      { id: 'E', type: 'text', value: `fragmentação do conflito gerador, distendido como 
-apoio à emotividade.` },
+      { id: 'A', type: 'text', value: `captura de elementos da vida rural, de feições peculiares.` },
+      { id: 'B', type: 'text', value: `caracterização de um quintal de sítio, espaço de descobertas.` },
+      { id: 'C', type: 'text', value: `confusão intencional da marcação do tempo, centrado na infância.` },
+      { id: 'D', type: 'text', value: `apropriação de diferentes pontos de vista, incorporados afetivamente.` },
+      { id: 'E', type: 'text', value: `fragmentação do conflito gerador, distendido como apoio à emotividade.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. No conto "Galinha cega", de J. A. Guimaraens, o narrador descreve a cena em que um menino atira milho a uma galinha e observa, com atenção e afeto, o modo como o animal perde a orientação e principia a cegueira. A narração alterna o olhar do dono, do menino e da própria galinha, aproximando-se emocionalmente de cada ponto de vista. A expressividade fundamenta-se, assim, na apropriação de diferentes pontos de vista, incorporados afetivamente (alternativa D). As demais opções falam em captura de elementos rurais, caracterização do quintal, confusão da marcação do tempo ou fragmentação do conflito, recursos que não explicam o efeito central.`,
@@ -947,18 +817,11 @@ Nesse texto, a reflexão sobre o processo criativo aponta
 para uma concepção de atividade poética que põe em 
 evidência o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `angustiante necessidade de produção, presente em 
-“Escrever só para me livrar/ de escrever”.` },
-      { id: 'B', type: 'text', value: `imprevisível percurso da composição, presente em 
-“no atalho aberto a talhe de foice/ no caminho de rato”.` },
-      { id: 'C', type: 'text', value: `agressivo trabalho de supressão, presente em “corto as 
-palavras rentes/ com tesoura de jardim/ cega e bruta”.` },
-      { id: 'D', type: 'text', value: `inevitável frustração diante do poema, presente 
-em “Mas tudo desafina:/ o pensamento pesa/ tanto 
-quanto o corpo”.` },
-      { id: 'E', type: 'text', value: `conflituosa relação com a inspiração, presente em 
-“sentindo falta dos acompanhamentos/ e figuras sem 
-força de expressão”.` },
+      { id: 'A', type: 'text', value: `angustiante necessidade de produção, presente em “Escrever só para me livrar/ de escrever”.` },
+      { id: 'B', type: 'text', value: `imprevisível percurso da composição, presente em “no atalho aberto a talhe de foice/ no caminho de rato”.` },
+      { id: 'C', type: 'text', value: `agressivo trabalho de supressão, presente em “corto as palavras rentes/ com tesoura de jardim/ cega e bruta”.` },
+      { id: 'D', type: 'text', value: `inevitável frustração diante do poema, presente em “Mas tudo desafina:/ o pensamento pesa/ tanto quanto o corpo”.` },
+      { id: 'E', type: 'text', value: `conflituosa relação com a inspiração, presente em “sentindo falta dos acompanhamentos/ e figuras sem força de expressão”.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No poema "Sem acessórios nem som", de Armando Freitas Filho, o eu lírico reflete sobre o processo criativo comparando o ato de escrever a um corte feito com "tesoura de jardim", "cega e bruta", que elimina o que é dispensável. Essa imagem destaca o trabalho de supressão e enxugamento da linguagem na construção do poema. A concepção de atividade poética evidencia-se, assim, no agressivo trabalho de supressão (alternativa C). As demais opções associam a reflexão à necessidade de produção, ao percurso imprevisível, à frustração diante do poema ou à relação conflituosa com a inspiração, leituras que não captam o recurso destacado.`,
@@ -999,8 +862,7 @@ trabalho de Marilá Dardot porque`,
       { id: 'B', type: 'text', value: `o observador da obra atua como seu criador.` },
       { id: 'C', type: 'text', value: `a obra integra-se ao espaço artístico e botânico.` },
       { id: 'D', type: 'text', value: `as letras-vaso são utilizadas para o plantio de mudas.` },
-      { id: 'E', type: 'text', value: `as mulheres da comunidade participam na confecção 
-das peças.` },
+      { id: 'E', type: 'text', value: `as mulheres da comunidade participam na confecção das peças.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A instalação "A origem da obra de arte", de Marilá Dardot, é composta por letras-vaso de cerâmica e por utensílios de plantio postos à disposição do público, que é convidado a compor palavras e frases e a distribuí-las pelo campo. A obra só se completa com a ação de quem a visita, tornando o espectador participante da criação. Sua função de experimentação e construção constata-se, portanto, no fato de o observador da obra atuar como seu criador (alternativa B). As demais opções restringem essa função ao projeto acontecer ao ar livre, à integração com o espaço botânico, ao uso das letras para o plantio ou à participação das mulheres na confecção das peças, aspectos secundários diante da interação proposta.`,
@@ -1072,16 +934,11 @@ No poema de Ana Cristina César, a relação entre as
 definições apresentadas e o processo de construção do 
 texto indica que o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `caráter descritivo dos versos assinala uma concepção 
-irônica de lirismo.` },
-      { id: 'B', type: 'text', value: `tom explicativo e contido constitui uma forma peculiar 
-de expressão poética.` },
-      { id: 'C', type: 'text', value: `seleção e o recorte do tema revelam uma visão 
-pessimista da criação artística.` },
-      { id: 'D', type: 'text', value: `enumeração de distintas manifestações líricas produz 
-um efeito de impessoalidade.` },
-      { id: 'E', type: 'text', value: `referência a gêneros poéticos clássicos expressa a 
-adesão do eu lírico às tradições literárias.` },
+      { id: 'A', type: 'text', value: `caráter descritivo dos versos assinala uma concepção irônica de lirismo.` },
+      { id: 'B', type: 'text', value: `tom explicativo e contido constitui uma forma peculiar de expressão poética.` },
+      { id: 'C', type: 'text', value: `seleção e o recorte do tema revelam uma visão pessimista da criação artística.` },
+      { id: 'D', type: 'text', value: `enumeração de distintas manifestações líricas produz um efeito de impessoalidade.` },
+      { id: 'E', type: 'text', value: `referência a gêneros poéticos clássicos expressa a adesão do eu lírico às tradições literárias.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. No poema "Primeira lição", Ana Cristina Cesar enumera e define, em tom didático, os gêneros da poesia lírica — elegíaco, bucólico, erótico — e suas variedades, como a elegia, a nênia e o epitáfio. O caráter explicativo e contido desses versos, que imitam uma lição escolar, constitui, ele próprio, uma forma diferente de fazer poesia. A relação entre as definições e a construção do texto indica, assim, que o tom explicativo e contido constitui uma forma peculiar de expressão poética (alternativa B). As demais opções falam em concepção irônica de lirismo, visão pessimista da arte, efeito de impessoalidade ou adesão às tradições literárias, interpretações que o poema não sustenta.`,
@@ -1127,16 +984,11 @@ Nessa crônica, a repetição do trecho “Você pode não
 acreditar: mas houve um tempo em que...” configura-se 
 como uma estratégia argumentativa que visa`,
     alternatives: [
-      { id: 'A', type: 'text', value: `surpreender o leitor com a descrição do que as pessoas 
-faziam durante o seu tempo livre antigamente.` },
-      { id: 'B', type: 'text', value: `sensibilizar o leitor sobre o modo como as pessoas 
-se relacionavam entre si num tempo mais aprazível.` },
-      { id: 'C', type: 'text', value: `advertir o leitor mais jovem sobre o mau uso que se 
-faz do tempo nos dias atuais.` },
-      { id: 'D', type: 'text', value: `incentivar o leitor a organizar melhor o seu tempo sem 
-deixar de ser nostálgico.` },
-      { id: 'E', type: 'text', value: `convencer o leitor sobre a veracidade de fatos 
-relativos à vida no passado.` },
+      { id: 'A', type: 'text', value: `surpreender o leitor com a descrição do que as pessoas faziam durante o seu tempo livre antigamente.` },
+      { id: 'B', type: 'text', value: `sensibilizar o leitor sobre o modo como as pessoas se relacionavam entre si num tempo mais aprazível.` },
+      { id: 'C', type: 'text', value: `advertir o leitor mais jovem sobre o mau uso que se faz do tempo nos dias atuais.` },
+      { id: 'D', type: 'text', value: `incentivar o leitor a organizar melhor o seu tempo sem deixar de ser nostálgico.` },
+      { id: 'E', type: 'text', value: `convencer o leitor sobre a veracidade de fatos relativos à vida no passado.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. Na crônica "Você pode não acreditar", de Affonso Romano de Sant'Anna, o narrador recorda um tempo em que havia confiança entre as pessoas, que deixavam leite e pão à porta, visitavam-se e caminhavam tranquilas pela cidade. A repetição da expressão que inicia os parágrafos encadeia essas lembranças e reforça o contraste com o presente. Essa estratégia argumentativa visa sensibilizar o leitor sobre o modo como as pessoas se relacionavam entre si num tempo mais aprazível (alternativa B). As demais opções falam em surpreender com o tempo livre de antigamente, advertir o leitor mais jovem, incentivá-lo a organizar o tempo ou convencê-lo da veracidade dos fatos, intenções que não traduzem o efeito da repetição.`,
@@ -1173,16 +1025,11 @@ Na construção textual, o autor realiza escolhas para
 cumprir determinados objetivos. Nesse sentido, a função 
 social desse texto é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `interpretar a obra a partir dos acontecimentos da 
-narrativa.` },
-      { id: 'B', type: 'text', value: `apresentar o resumo do conteúdo da obra de modo 
-impessoal.` },
-      { id: 'C', type: 'text', value: `fazer a apreciação de uma obra a partir de uma 
-síntese crítica.` },
-      { id: 'D', type: 'text', value: `informar o leitor sobre a veracidade dos fatos descritos 
-na obra.` },
-      { id: 'E', type: 'text', value: `classificar a obra como uma referência para estudiosos
-da matemática.` },
+      { id: 'A', type: 'text', value: `interpretar a obra a partir dos acontecimentos da narrativa.` },
+      { id: 'B', type: 'text', value: `apresentar o resumo do conteúdo da obra de modo impessoal.` },
+      { id: 'C', type: 'text', value: `fazer a apreciação de uma obra a partir de uma síntese crítica.` },
+      { id: 'D', type: 'text', value: `informar o leitor sobre a veracidade dos fatos descritos na obra.` },
+      { id: 'E', type: 'text', value: `classificar a obra como uma referência para estudiosos da matemática.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto comenta o livro "A fórmula secreta", que narra a disputa entre os matemáticos italianos Tartaglia e Cardano em torno da resolução das equações de terceiro grau, destacando-o como obra de leitura fácil e acessível ao grande público. Mais do que resumir, o texto avalia e recomenda a obra, emitindo um juízo crítico sobre suas qualidades. Sua função social é, portanto, fazer a apreciação de uma obra a partir de uma síntese crítica (alternativa C). As demais opções falam em interpretar a obra pelos acontecimentos da narrativa, resumi-la de modo impessoal, atestar a veracidade dos fatos ou classificá-la como referência para estudiosos, propósitos que não correspondem ao gênero resenha.`,
@@ -1227,16 +1074,11 @@ A descoberta de experiências emocionais com base
 no cotidiano é recorrente na obra de Clarice Lispector. 
 No fragmento, o narrador enfatiza o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `comportamento vaidoso de mulheres de condição 
-social privilegiada.` },
-      { id: 'B', type: 'text', value: `anulação das diferenças sociais no espaço público de 
-uma estação.` },
-      { id: 'C', type: 'text', value: `incompatibilidade psicológica entre mulheres de 
-gerações diferentes.` },
-      { id: 'D', type: 'text', value: `constrangimento da aproximação formal de pessoas 
-desconhecidas.` },
-      { id: 'E', type: 'text', value: `sentimento de solidão alimentado pelo processo de 
-envelhecimento.` },
+      { id: 'A', type: 'text', value: `comportamento vaidoso de mulheres de condição social privilegiada.` },
+      { id: 'B', type: 'text', value: `anulação das diferenças sociais no espaço público de uma estação.` },
+      { id: 'C', type: 'text', value: `incompatibilidade psicológica entre mulheres de gerações diferentes.` },
+      { id: 'D', type: 'text', value: `constrangimento da aproximação formal de pessoas desconhecidas.` },
+      { id: 'E', type: 'text', value: `sentimento de solidão alimentado pelo processo de envelhecimento.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. No fragmento de "A partida de trem", de Clarice Lispector, Dona Maria Rita, uma senhora idosa, é levada por filha e neta ao trem e, ao ver-se sozinha no vagão, sente-se perturbada e deslocada. A narrativa revela, nos pequenos gestos e pensamentos da personagem, a experiência íntima do abandono ligada à velhice. O narrador enfatiza, assim, o sentimento de solidão alimentado pelo processo de envelhecimento (alternativa E). As demais opções falam em vaidade de mulheres privilegiadas, anulação das diferenças sociais, incompatibilidade entre gerações ou constrangimento diante de desconhecidos, aspectos que não constituem o foco do trecho.`,
@@ -1274,21 +1116,11 @@ Ao expressar uma percepção de atitudes e valores
 situados na passagem do tempo, o eu lírico manifesta 
 uma angústia sintetizada na`,
     alternatives: [
-      { id: 'A', type: 'text', value: `compreensão da efemeridade das convicções antes 
-vistas como sólidas.` },
-      { id: 'B', type: 'text', value: `consciência das imperfeições aceitas na construção 
-do senso comum.` },
-      { id: 'C', type: 'text', value: `revolta 
-das 
-novas 
-gerações 
-contra 
-modelos 
-tradicionais de educação.` },
-      { id: 'D', type: 'text', value: `incerteza da expectativa de mudança por parte das 
-futuras gerações.` },
-      { id: 'E', type: 'text', value: `crueldade atribuída à forma de punição praticada 
-pelos mais velhos.` },
+      { id: 'A', type: 'text', value: `compreensão da efemeridade das convicções antes vistas como sólidas.` },
+      { id: 'B', type: 'text', value: `consciência das imperfeições aceitas na construção do senso comum.` },
+      { id: 'C', type: 'text', value: `revolta das novas gerações contra modelos tradicionais de educação.` },
+      { id: 'D', type: 'text', value: `incerteza da expectativa de mudança por parte das futuras gerações.` },
+      { id: 'E', type: 'text', value: `crueldade atribuída à forma de punição praticada pelos mais velhos.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. No poema "Esses chopes dourados", o eu lírico recorda como cada geração reproduziu a prática de bater na seguinte, achando-a normal, até que todas passaram a reconhecê-la como errada. Ele se angustia por pertencer à geração do meio, que apanhou da anterior e repetiu o erro com a posterior, concluindo que, apesar de amaldiçoados, todos eram inocentes. Essa angústia sintetiza-se na consciência das imperfeições aceitas na construção do senso comum (alternativa B). As demais opções falam em efemeridade de convicções sólidas, revolta das novas gerações, incerteza quanto à mudança ou crueldade dos mais velhos, leituras que não resumem a reflexão do eu lírico.`,
@@ -1328,17 +1160,11 @@ Nesse fragmento de João Cabral de Melo Neto, poeta
 da geração de 1945, o sujeito lírico propõe a recriação 
 poética de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `uma palavra, a partir de imagens com as quais 
-ela pode ser comparada, a fim de assumir novos 
-significados.` },
-      { id: 'B', type: 'text', value: `um urinol, em referência às artes visuais ligadas às 
-vanguardas do início do século XX.` },
-      { id: 'C', type: 'text', value: `uma ave, que compõe, com seus movimentos, uma 
-imagem historicamente ligada à palavra poética.` },
-      { id: 'D', type: 'text', value: `uma máquina, levando em consideração a relevância 
-do discurso técnico-científico pós-Revolução Industrial.` },
-      { id: 'E', type: 'text', value: `um tecido, visto que sua composição depende de 
-elementos intrínsecos ao eu lírico.` },
+      { id: 'A', type: 'text', value: `uma palavra, a partir de imagens com as quais ela pode ser comparada, a fim de assumir novos significados.` },
+      { id: 'B', type: 'text', value: `um urinol, em referência às artes visuais ligadas às vanguardas do início do século XX.` },
+      { id: 'C', type: 'text', value: `uma ave, que compõe, com seus movimentos, uma imagem historicamente ligada à palavra poética.` },
+      { id: 'D', type: 'text', value: `uma máquina, levando em consideração a relevância do discurso técnico-científico pós-Revolução Industrial.` },
+      { id: 'E', type: 'text', value: `um tecido, visto que sua composição depende de elementos intrínsecos ao eu lírico.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No poema "Antiode", de João Cabral de Melo Neto, poeta da geração de 1945, o eu lírico propõe recriar poeticamente a palavra "flor", despindo-a de sentidos idealizados e associando-a a imagens como o salto da ave e o funcionamento de uma máquina. Pela comparação com essas imagens, a palavra ganha novos significados dentro do poema. A recriação poética proposta é, assim, a de uma palavra, a partir de imagens com as quais ela pode ser comparada, a fim de assumir novos significados (alternativa A). As demais opções restringem a recriação ao urinol das vanguardas, à ave ligada à tradição poética, à máquina do discurso técnico-científico ou ao tecido dependente do eu lírico, leituras que não correspondem à proposta do poeta.`,
@@ -1380,16 +1206,11 @@ Disponível em: www.prosangue.sp.gov.br. Acesso em: 24 abr. 2015 (adaptado).
 Nessa campanha, as informações apresentadas têm 
 como objetivo principal`,
     alternatives: [
-      { id: 'A', type: 'text', value: `conscientizar o doador de sua corresponsabilidade 
-pela qualidade do sangue.` },
-      { id: 'B', type: 'text', value: `garantir a segurança de pessoas de grupos de risco 
-durante a doação de sangue.` },
-      { id: 'C', type: 'text', value: `esclarecer o público sobre a segurança do processo 
-de captação do sangue.` },
-      { id: 'D', type: 'text', value: `alertar os doadores sobre as dificuldades enfrentadas 
-na coleta de sangue.` },
-      { id: 'E', type: 'text', value: `ampliar o número de doadores para manter o banco 
-de sangue.` },
+      { id: 'A', type: 'text', value: `conscientizar o doador de sua corresponsabilidade pela qualidade do sangue.` },
+      { id: 'B', type: 'text', value: `garantir a segurança de pessoas de grupos de risco durante a doação de sangue.` },
+      { id: 'C', type: 'text', value: `esclarecer o público sobre a segurança do processo de captação do sangue.` },
+      { id: 'D', type: 'text', value: `alertar os doadores sobre as dificuldades enfrentadas na coleta de sangue.` },
+      { id: 'E', type: 'text', value: `ampliar o número de doadores para manter o banco de sangue.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A campanha "Qual é a segurança do sangue?" orienta os doadores sobre a importância de serem saudáveis e de não doarem caso possam colocar em risco quem receberá o sangue, lembrando que há um período de janela imunológica em que o vírus pode não ser detectado. A peça encerra afirmando que da honestidade do doador depende a vida de quem recebe. Seu objetivo principal é, assim, conscientizar o doador de sua corresponsabilidade pela qualidade do sangue (alternativa A). As demais opções falam em garantir a segurança de grupos de risco, esclarecer sobre a captação, alertar sobre dificuldades na coleta ou ampliar o número de doadores, finalidades que não resumem a mensagem.`,
@@ -1473,27 +1294,11 @@ VERÍSSIMO, L. F. Comédias da vida privada . Porto Alegre: L&PM, 1996 (fragment
 No texto, há uma discussão sobre o uso de algumas 
 palavras da língua portuguesa. Esse uso promove o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `marcação temporal, evidenciada pela presença de 
-palavras indicativas dos dias da semana.` },
-      { id: 'B', type: 'text', value: `tom humorístico, ocasionado pela ocorrência de 
-palavras empregadas em contextos formais.` },
-      { id: 'C', type: 'text', value: `caracterização 
-da 
-identidade 
-linguística 
-dos 
-interlocutores, 
-percebida 
-pela 
-recorrência 
-de 
-palavras regionais.` },
-      { id: 'D', type: 'text', value: `distanciamento entre os interlocutores, provocado 
-pelo emprego de palavras com significados pouco 
-conhecidos.` },
-      { id: 'E', type: 'text', value: `inadequação vocabular, demonstrada pela seleção 
-de palavras desconhecidas por parte de um dos 
-interlocutores do diálogo.` },
+      { id: 'A', type: 'text', value: `marcação temporal, evidenciada pela presença de palavras indicativas dos dias da semana.` },
+      { id: 'B', type: 'text', value: `tom humorístico, ocasionado pela ocorrência de palavras empregadas em contextos formais.` },
+      { id: 'C', type: 'text', value: `caracterização da identidade linguística dos interlocutores, percebida pela recorrência de palavras regionais.` },
+      { id: 'D', type: 'text', value: `distanciamento entre os interlocutores, provocado pelo emprego de palavras com significados pouco conhecidos.` },
+      { id: 'E', type: 'text', value: `inadequação vocabular, demonstrada pela seleção de palavras desconhecidas por parte de um dos interlocutores do diálogo.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. No diálogo "De domingo", de Luis Fernando Verissimo, duas personagens discutem o emprego de palavras pouco usuais, como "outrossim", "óbice", "ônus" e "resquício", mais próprias de contextos formais. O humor nasce justamente do uso dessas palavras rebuscadas em uma conversa descontraída e cotidiana. O uso de tais termos promove, assim, um tom humorístico, ocasionado pela ocorrência de palavras empregadas em contextos formais (alternativa B). As demais opções falam em marcação temporal pelos dias da semana, caracterização da identidade regional, distanciamento entre os interlocutores ou inadequação vocabular, interpretações que não explicam o efeito cômico.`,
@@ -1505,30 +1310,18 @@ interlocutores do diálogo.` },
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `Receita 
-Tome-se um poeta não cansado, 
-Uma nuvem de sonho e uma flor, 
-Três gotas de tristeza, um tom dourado, 
-Uma veia sangrando de pavor. 
-Quando a massa já ferve e se retorce 
-Deita-se a luz dum corpo de mulher, 
-Duma pitada de morte se reforce, 
-Que um amor de poeta assim requer. 
-SARAMAGO, J. Os poemas possíveis . Alfragide: Caminho, 1997. 
-Os 
-gêneros 
-textuais 
-caracterizam-se 
-por 
-serem 
-relativamente estáveis e podem reconfigurar-se em 
-função do propósito comunicativo. Esse texto constitui 
-uma mescla de gêneros, pois`,
+    text: `Receita Tome-se um poeta não cansado, Uma nuvem de sonho e uma
+flor, Três gotas de tristeza, um tom dourado, Uma veia
+sangrando de pavor. Quando a massa já ferve e se retorce
+Deita-se a luz dum corpo de mulher, Duma pitada de morte se
+reforce, Que um amor de poeta assim requer. SARAMAGO, J. Os
+poemas possíveis . Alfragide: Caminho, 1997. Os gêneros
+textuais caracterizam-se por serem relativamente estáveis e
+podem reconfigurar-se em função do propósito comunicativo.
+Esse texto constitui uma mescla de gêneros, pois`,
     alternatives: [
-      { id: 'A', type: 'text', value: `introduz procedimentos prescritivos na composição 
-do poema.` },
-      { id: 'B', type: 'text', value: `explicita as etapas essenciais à preparação de uma 
-receita.` },
+      { id: 'A', type: 'text', value: `introduz procedimentos prescritivos na composição do poema.` },
+      { id: 'B', type: 'text', value: `explicita as etapas essenciais à preparação de uma receita.` },
       { id: 'C', type: 'text', value: `explora elementos temáticos presentes em uma receita.` },
       { id: 'D', type: 'text', value: `apresenta organização estrutural típica de um poema.` },
       { id: 'E', type: 'text', value: `utiliza linguagem figurada na construção do poema.` },
@@ -1638,20 +1431,11 @@ A inserção da personagem Maggie na prática corporal
 do boxe indica a possibilidade da construção de uma 
 feminilidade marcada pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `adequação da mulher a uma modalidade esportiva 
-alinhada a seu gênero.` },
-      { id: 'B', type: 'text', value: `valorização 
-de 
-comportamentos 
-e 
-atitudes 
-normalmente associados à mulher.` },
-      { id: 'C', type: 'text', value: `transposição de limites impostos à mulher num 
-espaço de predomínio masculino.` },
-      { id: 'D', type: 'text', value: `aceitação de padrões sociais acerca da participação 
-da mulher nas lutas corporais.` },
-      { id: 'E', type: 'text', value: `naturalização de barreiras socioculturais responsáveis 
-pela exclusão da mulher no boxe.` },
+      { id: 'A', type: 'text', value: `adequação da mulher a uma modalidade esportiva alinhada a seu gênero.` },
+      { id: 'B', type: 'text', value: `valorização de comportamentos e atitudes normalmente associados à mulher.` },
+      { id: 'C', type: 'text', value: `transposição de limites impostos à mulher num espaço de predomínio masculino.` },
+      { id: 'D', type: 'text', value: `aceitação de padrões sociais acerca da participação da mulher nas lutas corporais.` },
+      { id: 'E', type: 'text', value: `naturalização de barreiras socioculturais responsáveis pela exclusão da mulher no boxe.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto analisa o filme "Menina de ouro", em que Maggie, apesar de o boxe ser visto como esporte masculino e de o treinador recusar-se a treiná-la por ser mulher, insiste e se firma na modalidade. Ao ingressar nesse espaço de predomínio masculino, a personagem rompe com a feminilidade tradicionalmente associada à submissão e à fragilidade. A construção dessa feminilidade marca-se, assim, pela transposição de limites impostos à mulher num espaço de predomínio masculino (alternativa C). As demais opções falam em adequação ao gênero, valorização de atitudes associadas à mulher, aceitação de padrões sociais ou naturalização de barreiras que excluem a mulher, leituras contrárias ao sentido do texto.`,
@@ -1663,33 +1447,27 @@ pela exclusão da mulher no boxe.` },
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `Entrevista com Terezinha Guilhermina 
-Terezinha Guilhermina é uma das atletas mais 
-premiadas da história paraolímpica do Brasil e um dos 
-principais nomes do atletismo mundial. Está no Guinness 
-Book de 2013/2014 como a “cega” mais rápida do mundo. 
-Observatório: Quais os desafios você teve que 
-superar para se consagrar como atleta profissional? 
-Terezinha Guilhermina: Considero a ausência de 
-recursos financeiros, nos três primeiros anos da minha 
-carreira, como meu principal desafio. A falta de um atleta- 
-guia, para me auxiliar nos treinamentos, me obrigava 
-a treinar sozinha e, por não enxergar bem, acabava 
-sofrendo alguns acidentes como trombadas e quedas. 
-Observatório: Como está a preparação para os 
-Jogos Paraolímpicos de 2016? 
-Terezinha 
-Guilhermina: 
-Estou 
-trabalhando 
-intensamente, com vistas a chegar lá bem melhor do que 
-estive em Londres. E, por isso, posso me dedicar a treinos 
-diários, trabalhos preventivos de lesões e acompanhamento 
-psicológico e nutricional da melhor qualidade. 
-Revista do Observatório Brasil de Igualdade de Gênero , n. 6, dez. 2014 (adaptado). 
-O texto permite relacionar uma prática corporal com uma 
-visão ampliada de saúde. O fator que possibilita identificar 
-essa perspectiva é o(a)`,
+    text: `Entrevista com Terezinha Guilhermina Terezinha Guilhermina é
+uma das atletas mais premiadas da história paraolímpica do
+Brasil e um dos principais nomes do atletismo mundial. Está no
+Guinness Book de 2013/2014 como a “cega” mais rápida do mundo.
+Observatório: Quais os desafios você teve que superar para se
+consagrar como atleta profissional? Terezinha Guilhermina:
+Considero a ausência de recursos financeiros, nos três
+primeiros anos da minha carreira, como meu principal desafio.
+A falta de um atleta-guia, para me auxiliar nos treinamentos,
+me obrigava a treinar sozinha e, por não enxergar bem, acabava
+sofrendo alguns acidentes como trombadas e quedas.
+Observatório: Como está a preparação para os Jogos
+Paraolímpicos de 2016? Terezinha Guilhermina: Estou
+trabalhando intensamente, com vistas a chegar lá bem melhor do
+que estive em Londres. E, por isso, posso me dedicar a treinos
+diários, trabalhos preventivos de lesões e acompanhamento
+psicológico e nutricional da melhor qualidade. Revista do
+Observatório Brasil de Igualdade de Gênero , n. 6, dez. 2014
+(adaptado). O texto permite relacionar uma prática corporal
+com uma visão ampliada de saúde. O fator que possibilita
+identificar essa perspectiva é o(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `aspecto nutricional.` },
       { id: 'B', type: 'text', value: `condição financeira.` },
@@ -1789,20 +1567,11 @@ e na literatura modernas, o rosto humano deforma-se,
 destrói-se ou fragmenta-se em razão`,
     images: ['/enem/2016/images/enem_2016_d2_q132.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `da adesão à estética do grotesco, herdada do 
-romantismo europeu, que trouxe novas possibilidades 
-de representação.` },
-      { id: 'B', type: 'text', value: `das catástrofes que assolaram o século XX e da 
-descoberta de uma realidade psíquica pela psicanálise.` },
-      { id: 'C', type: 'text', value: `da opção em demonstrarem oposição aos limites 
-estéticos da revolução permanente trazida pela 
-arte moderna.` },
-      { id: 'D', type: 'text', value: `do posicionamento do artista do século XX contra a 
-negação do passado, que se torna prática dominante 
-na sociedade burguesa.` },
-      { id: 'E', type: 'text', value: `da intenção de garantir uma forma de criar obras 
-de arte independentes da matéria presente em sua 
-história pessoal.` },
+      { id: 'A', type: 'text', value: `da adesão à estética do grotesco, herdada do romantismo europeu, que trouxe novas possibilidades de representação.` },
+      { id: 'B', type: 'text', value: `das catástrofes que assolaram o século XX e da descoberta de uma realidade psíquica pela psicanálise.` },
+      { id: 'C', type: 'text', value: `da opção em demonstrarem oposição aos limites estéticos da revolução permanente trazida pela arte moderna.` },
+      { id: 'D', type: 'text', value: `do posicionamento do artista do século XX contra a negação do passado, que se torna prática dominante na sociedade burguesa.` },
+      { id: 'E', type: 'text', value: `da intenção de garantir uma forma de criar obras de arte independentes da matéria presente em sua história pessoal.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O Texto I reproduz os "Três estudos para um autorretrato", de Francis Bacon, em que o rosto aparece deformado, e o Texto II, de Marguerite Duras, descreve um rosto lacerado e destruído. A deformação e a fragmentação do rosto humano na pintura e na literatura modernas associam-se às experiências traumáticas do século XX e à revelação da vida psíquica pela psicanálise. Esse modo de representação deriva, portanto, das catástrofes que assolaram o século XX e da descoberta de uma realidade psíquica pela psicanálise (alternativa B). As demais opções atribuem a deformação à estética grotesca de origem romântica, à oposição aos limites da arte moderna, ao posicionamento contra o passado ou à intenção de criar obras independentes da história pessoal, explicações que o conjunto não sustenta.`,
@@ -1872,10 +1641,8 @@ O texto é um trecho da crítica musical sobre a obra de
 Túlio Piva. Para enfatizar a qualidade do artista, usou-se 
 como recurso argumentativo o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `contraste entre o local de nascimento e a escolha 
-pelo gênero samba.` },
-      { id: 'B', type: 'text', value: `exemplo de temáticas gaúchas abordadas nas letras 
-de sambas.` },
+      { id: 'A', type: 'text', value: `contraste entre o local de nascimento e a escolha pelo gênero samba.` },
+      { id: 'B', type: 'text', value: `exemplo de temáticas gaúchas abordadas nas letras de sambas.` },
       { id: 'C', type: 'text', value: `alusão a gêneros musicais brasileiros e argentinos.` },
       { id: 'D', type: 'text', value: `comparação entre sambistas de diferentes regiões.` },
       { id: 'E', type: 'text', value: `aproximação entre a cultura brasileira e a argentina.` },
@@ -1919,21 +1686,16 @@ as reticências foram utilizadas para indicar`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `Em regiões agrícolas, é comum a presença de silos 
-para armazenamento e secagem da produção de grãos, 
-no formato de um cilindro reto, sobreposto por um cone, 
-e dimensões indicadas na figura. O silo fica cheio e o 
-transporte dos grãos é feito em caminhões de carga cuja 
-capacidade é de 20 m³. Uma região possui um silo cheio 
-e apenas um caminhão para transportar os grãos para a 
-usina de beneficiamento. 
-3 m 
-12 m 
-3 m 
-Utilize 3 como aproximação para π.
-O número mínimo de viagens que o caminhão 
-precisará fazer para transportar todo o volume de grãos 
-armazenados no silo é`,
+    text: `Em regiões agrícolas, é comum a presença de silos para
+armazenamento e secagem da produção de grãos, no formato de um
+cilindro reto, sobreposto por um cone, e dimensões indicadas
+na figura. O silo fica cheio e o transporte dos grãos é feito
+em caminhões de carga cuja capacidade é de 20 m³. Uma região
+possui um silo cheio e apenas um caminhão para transportar os
+grãos para a usina de beneficiamento. 3 m 12 m 3 m Utilize 3
+como aproximação para π. O número mínimo de viagens que o
+caminhão precisará fazer para transportar todo o volume de
+grãos armazenados no silo é`,
     images: ['/enem/2016/images/enem_2016_d2_q136.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `6.` },
@@ -2014,25 +1776,14 @@ Roda do Milênio, em metro?`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `Uma cisterna de 6 000 L foi esvaziada em um período 
-de 3 h. Na primeira hora foi utilizada apenas uma bomba, 
-mas nas duas horas seguintes, a fim de reduzir o tempo 
-de esvaziamento, outra bomba foi ligada junto com a 
-primeira. O gráfico, formado por dois segmentos de reta, 
-mostra o volume de água presente na cisterna, em função 
-do tempo. 
-Volume (L) 
-A 
-6 000 
-B 
-5 000 
-C 
-1 
-0 
-Tempo (h) 
-3 
-Qual é a vazão, em litro por hora, da bomba que foi ligada 
-no início da segunda hora?`,
+    text: `Uma cisterna de 6 000 L foi esvaziada em um período de 3 h. Na
+primeira hora foi utilizada apenas uma bomba, mas nas duas
+horas seguintes, a fim de reduzir o tempo de esvaziamento,
+outra bomba foi ligada junto com a primeira. O gráfico,
+formado por dois segmentos de reta, mostra o volume de água
+presente na cisterna, em função do tempo. Volume (L) A 6 000 B
+5 000 C 1 0 Tempo (h) 3 Qual é a vazão, em litro por hora, da
+bomba que foi ligada no início da segunda hora?`,
     images: ['/enem/2016/images/enem_2016_d2_q139.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1 000` },
@@ -2083,33 +1834,23 @@ A primeira luta foi entre os atletas`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `De forma geral, os pneus radiais trazem em 
-sua lateral uma marcação do tipo abc / deRfg , como 
-185/65R15. Essa marcação identifica as medidas do 
-pneu da seguinte forma: 
-• abc é a medida da largura do pneu, em milímetro; 
-• de é igual ao produto de 100 pela razão entre a 
-medida da altura (em milímetro) e a medida da 
-largura do pneu (em milímetro); 
-• R significa radial; 
-• fg é a medida do diâmetro interno do pneu, em 
-polegada. 
-A figura ilustra as variáveis relacionadas com 
-esses dados. 
-Altura 
-Diâmetro 
-interno 
-Largura 
-O proprietário de um veículo precisa trocar os pneus 
-de seu carro e, ao chegar a uma loja, é informado 
-por um vendedor que há somente pneus com os 
-seguintes códigos: 175/65R15, 175/75R15, 175/80R15, 
-185/60R15 e 205/55R15. Analisando, juntamente com 
-o vendedor, as opções de pneus disponíveis, concluem 
-que o pneu mais adequado para seu veículo é o que 
-tem a menor altura. 
-Desta forma, o proprietário do veículo deverá comprar o 
-pneu com a marcação`,
+    text: `De forma geral, os pneus radiais trazem em sua lateral uma
+marcação do tipo abc / deRfg , como 185/65R15. Essa marcação
+identifica as medidas do pneu da seguinte forma: • abc é a
+medida da largura do pneu, em milímetro; • de é igual ao
+produto de 100 pela razão entre a medida da altura (em
+milímetro) e a medida da largura do pneu (em milímetro); • R
+significa radial; • fg é a medida do diâmetro interno do pneu,
+em polegada. A figura ilustra as variáveis relacionadas com
+esses dados. Altura Diâmetro interno Largura O proprietário de
+um veículo precisa trocar os pneus de seu carro e, ao chegar a
+uma loja, é informado por um vendedor que há somente pneus com
+os seguintes códigos: 175/65R15, 175/75R15, 175/80R15,
+185/60R15 e 205/55R15. Analisando, juntamente com o vendedor,
+as opções de pneus disponíveis, concluem que o pneu mais
+adequado para seu veículo é o que tem a menor altura. Desta
+forma, o proprietário do veículo deverá comprar o pneu com a
+marcação`,
     images: ['/enem/2016/images/enem_2016_d2_q141.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `205/55R15.` },
@@ -2165,28 +1906,18 @@ das ruas`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `Um senhor, pai de dois filhos, deseja comprar dois 
-terrenos, com áreas de mesma medida, um para cada 
-filho. Um dos terrenos visitados já está demarcado e, 
-embora não tenha um formato convencional (como se 
-observa na Figura B), agradou ao filho mais velho e, por 
-isso, foi comprado. O filho mais novo possui um projeto 
-arquitetônico de uma casa que quer construir, mas, para 
-isso, precisa de um terreno na forma retangular (como 
-mostrado na Figura A) cujo comprimento seja 7 m maior 
-do que a largura. 
-21 m 
-15 m 
-x 
-15 m 
-3 m 
-Figura B 
-x + 7 
-Figura A 
-Para satisfazer o filho mais novo, esse senhor precisa 
-encontrar um terreno retangular cujas medidas, em 
-metro, do comprimento e da largura sejam iguais, 
-respectivamente, a`,
+    text: `Um senhor, pai de dois filhos, deseja comprar dois terrenos,
+com áreas de mesma medida, um para cada filho. Um dos terrenos
+visitados já está demarcado e, embora não tenha um formato
+convencional (como se observa na Figura B), agradou ao filho
+mais velho e, por isso, foi comprado. O filho mais novo possui
+um projeto arquitetônico de uma casa que quer construir, mas,
+para isso, precisa de um terreno na forma retangular (como
+mostrado na Figura A) cujo comprimento seja 7 m maior do que a
+largura. 21 m 15 m x 15 m 3 m Figura B x + 7 Figura A Para
+satisfazer o filho mais novo, esse senhor precisa encontrar um
+terreno retangular cujas medidas, em metro, do comprimento e
+da largura sejam iguais, respectivamente, a`,
     images: ['/enem/2016/images/enem_2016_d2_q143.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `7,5 e 14,5.` },
@@ -2332,35 +2063,22 @@ para a partida de exibição?`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `O ábaco é um antigo instrumento de cálculo que usa 
-notação posicional de base dez para representar números 
-naturais. Ele pode ser apresentado em vários modelos, 
-um deles é formado por hastes apoiadas em uma base. 
-Cada haste corresponde a uma posição no sistema 
-decimal e nelas são colocadas argolas; a quantidade de 
-argolas na haste representa o algarismo daquela posição. 
-Em geral, colocam-se adesivos abaixo das hastes com 
-os símbolos U, D, C, M, DM e CM que correspondem, 
-respectivamente, 
-a 
-unidades, 
-dezenas, 
-centenas, 
-unidades de milhar, dezenas de milhar e centenas de 
-milhar, sempre começando com a unidade na haste da 
-direita e as demais ordens do número no sistema decimal 
-nas hastes subsequentes (da direita para esquerda), 
-até a haste que se encontra mais à esquerda. 
-Entretanto, no ábaco da figura, os adesivos não 
-seguiram a disposição usual. 
-U 
-CM 
-D 
-M 
-C 
-DM 
-Nessa disposição, o número que está representado na 
-figura é`,
+    text: `O ábaco é um antigo instrumento de cálculo que usa notação
+posicional de base dez para representar números naturais. Ele
+pode ser apresentado em vários modelos, um deles é formado por
+hastes apoiadas em uma base. Cada haste corresponde a uma
+posição no sistema decimal e nelas são colocadas argolas; a
+quantidade de argolas na haste representa o algarismo daquela
+posição. Em geral, colocam-se adesivos abaixo das hastes com
+os símbolos U, D, C, M, DM e CM que correspondem,
+respectivamente, a unidades, dezenas, centenas, unidades de
+milhar, dezenas de milhar e centenas de milhar, sempre
+começando com a unidade na haste da direita e as demais ordens
+do número no sistema decimal nas hastes subsequentes (da
+direita para esquerda), até a haste que se encontra mais à
+esquerda. Entretanto, no ábaco da figura, os adesivos não
+seguiram a disposição usual. U CM D M C DM Nessa disposição, o
+número que está representado na figura é`,
     images: ['/enem/2016/images/enem_2016_d2_q148.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `46 171.` },
@@ -2379,44 +2097,7 @@ figura é`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `Para uma feira de ciências, dois projéteis de 
-foguetes, A e B, estão sendo construídos para serem 
-lançados. O planejamento é que eles sejam lançados 
-juntos, com o objetivo de o projétil B interceptar o A 
-quando esse alcançar sua altura máxima. Para que isso 
-aconteça, um dos projéteis descreverá uma trajetória 
-parabólica, enquanto o outro irá descrever uma trajetória 
-supostamente retilínea. O gráfico mostra as alturas 
-alcançadas por esses projéteis em função do tempo, nas 
-simulações realizadas. 
-20 
-16 
-12 
-Altura (m) 
-A 
-B 
-8 
-4 
-Tempo (s) 
-0 
-1 
-2 
-3 
-4 
-5 
-6 
-7 
-8 
-9 
-10 
-− 4 
-− 8 
-− 12 
-Com base nessas simulações, observou-se que a 
-trajetória do projétil B deveria ser alterada para que o 
-objetivo fosse alcançado. 
-Para alcançar o objetivo, o coeficiente angular da reta que 
-representa a trajetória de B deverá`,
+    text: ``,
     images: ['/enem/2016/images/enem_2016_d2_q149.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `diminuir em 2 unidades.` },
@@ -2464,63 +2145,24 @@ a D metros da fonte sonora, é`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `A fim de acompanhar o crescimento de crianças, 
-foram criadas pela Organização Mundial da Saúde 
-(OMS) tabelas de altura, também adotadas pelo 
-Ministério da Saúde do Brasil. Além de informar os 
-dados referentes ao índice de crescimento, a tabela 
-traz gráficos com curvas, apresentando padrões de 
-crescimento estipulados pela OMS. 
-O gráfico apresenta o crescimento de meninas, 
-cuja análise se dá pelo ponto de intersecção entre o 
-comprimento, em centímetro, e a idade, em mês completo 
-e ano, da criança. 
-120 
-120 
-p97 
-115 
-115 
-Comprimento/estatura (cm) 
-p85 
-110 
-110 
-p50 
-105 
-105 
-p15 
-100 
-100 
-p3 
-95 
-95 
-90 
-90 
-85 
-85 
-80 
-2 
-4 
-6 
-8 
-10 
-2 
-4 
-6 
-8 
-10 
-80 
-Meses 
-3 anos 
-4 anos 
-5 anos 
-Idade (mês completo e ano) 
-Disponível em: www.aprocura.com.br. Acesso em: 22 out. 2015 (adaptado). 
-Uma menina aos 3 anos de idade tinha altura de 
-85 centímetros e aos 4 anos e 4 meses sua altura chegou 
-a um valor que corresponde a um ponto exatamente 
-sobre a curva p50. 
-Qual foi o aumento percentual da altura dessa menina, 
-descrito com uma casa decimal, no período considerado?`,
+    text: `A fim de acompanhar o crescimento de crianças, foram criadas
+pela Organização Mundial da Saúde (OMS) tabelas de altura,
+também adotadas pelo Ministério da Saúde do Brasil. Além de
+informar os dados referentes ao índice de crescimento, a
+tabela traz gráficos com curvas, apresentando padrões de
+crescimento estipulados pela OMS. O gráfico apresenta o
+crescimento de meninas, cuja análise se dá pelo ponto de
+intersecção entre o comprimento, em centímetro, e a idade, em
+mês completo e ano, da criança. 120 120 p97 115 115
+Comprimento/estatura (cm) p85 110 110 p50 105 105 p15 100 100
+p3 95 95 90 90 85 85 80 2 4 6 8 10 2 4 6 8 10 80 Meses 3 anos
+4 anos 5 anos Idade (mês completo e ano) Disponível em:
+www.aprocura.com.br. Acesso em: 22 out. 2015 (adaptado). Uma
+menina aos 3 anos de idade tinha altura de 85 centímetros e
+aos 4 anos e 4 meses sua altura chegou a um valor que
+corresponde a um ponto exatamente sobre a curva p50. Qual foi
+o aumento percentual da altura dessa menina, descrito com uma
+casa decimal, no período considerado?`,
     images: ['/enem/2016/images/enem_2016_d2_q151.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `23,5%` },
@@ -2539,30 +2181,22 @@ descrito com uma casa decimal, no período considerado?`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `Um adolescente vai a um parque de diversões 
-tendo, prioritariamente, o desejo de ir a um brinquedo 
-que se encontra na área IV, dentre as áreas I, II, III, IV 
-e V existentes. O esquema ilustra o mapa do parque, 
-com a localização da entrada, das cinco áreas com os 
-brinquedos disponíveis e dos possíveis caminhos para se 
-chegar a cada área. O adolescente não tem conhecimento 
-do mapa do parque e decide ir caminhando da entrada 
-até chegar à área IV. 
-I 
-V 
-IV 
-III 
-Entrada 
-II 
-Suponha que relativamente a cada ramificação, 
-as opções existentes de percurso pelos caminhos 
-apresentem iguais probabilidades de escolha, que a 
-caminhada foi feita escolhendo ao acaso os caminhos 
-existentes e que, ao tomar um caminho que chegue a 
-uma área distinta da IV, o adolescente necessariamente 
-passa por ela ou retorna. 
-Nessas condições, a probabilidade de ele chegar à área
-IV sem passar por outras áreas e sem retornar é igual a`,
+    text: `Um adolescente vai a um parque de diversões tendo,
+prioritariamente, o desejo de ir a um brinquedo que se
+encontra na área IV, dentre as áreas I, II, III, IV e V
+existentes. O esquema ilustra o mapa do parque, com a
+localização da entrada, das cinco áreas com os brinquedos
+disponíveis e dos possíveis caminhos para se chegar a cada
+área. O adolescente não tem conhecimento do mapa do parque e
+decide ir caminhando da entrada até chegar à área IV. I V IV
+III Entrada II Suponha que relativamente a cada ramificação,
+as opções existentes de percurso pelos caminhos apresentem
+iguais probabilidades de escolha, que a caminhada foi feita
+escolhendo ao acaso os caminhos existentes e que, ao tomar um
+caminho que chegue a uma área distinta da IV, o adolescente
+necessariamente passa por ela ou retorna. Nessas condições, a
+probabilidade de ele chegar à área IV sem passar por outras
+áreas e sem retornar é igual a`,
     images: ['/enem/2016/images/enem_2016_d2_q152.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1/96` },
@@ -2732,34 +2366,17 @@ cargo no próximo semestre?`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `Um dos grandes desafios do Brasil é o gerenciamento 
-dos seus recursos naturais, sobretudo os recursos 
-hídricos. Existe uma demanda crescente por água e o 
-risco de racionamento não pode ser descartado. O nível 
-de água de um reservatório foi monitorado por um período, 
-sendo o resultado mostrado no gráfico. Suponha que essa 
-tendência linear observada no monitoramento se prolongue 
-pelos próximos meses. 
-Nível do reservatório 
-35% 
-Porcentagem com relação 
-a capacidade máxima 
-30% 
-25% 
-20% 
-15% 
-10% 
-5% 
-1 
-2 
-3 
-4 
-5 
-6 
-Mês 
-Nas condições dadas, qual o tempo mínimo, após o sexto 
-mês, para que o reservatório atinja o nível zero de sua 
-capacidade?`,
+    text: `Um dos grandes desafios do Brasil é o gerenciamento dos seus
+recursos naturais, sobretudo os recursos hídricos. Existe uma
+demanda crescente por água e o risco de racionamento não pode
+ser descartado. O nível de água de um reservatório foi
+monitorado por um período, sendo o resultado mostrado no
+gráfico. Suponha que essa tendência linear observada no
+monitoramento se prolongue pelos próximos meses. Nível do
+reservatório 35% Porcentagem com relação a capacidade máxima
+30% 25% 20% 15% 10% 5% 1 2 3 4 5 6 Mês Nas condições dadas,
+qual o tempo mínimo, após o sexto mês, para que o reservatório
+atinja o nível zero de sua capacidade?`,
     images: ['/enem/2016/images/enem_2016_d2_q158.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `2 meses e meio.` },
@@ -2870,34 +2487,21 @@ terá sido de`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `O cultivo de uma flor rara só é viável se do mês do plantio para o mês subsequente o clima da região possuir as 
-seguintes peculiaridades: 
-• a variação do nível de chuvas (pluviosidade), nesses meses, não for superior a 50 mm; 
-• a temperatura mínima, nesses meses, for superior a 15 °C; 
-• ocorrer, nesse período, um leve aumento não superior a 5 °C na temperatura máxima. 
-Um floricultor, pretendendo investir no plantio dessa flor em sua região, fez uma consulta a um meteorologista que 
-lhe apresentou o gráfico com as condições previstas para os 12 meses seguintes nessa região. 
-2012 
-2013 
-250 
-200 
-Pluviosidade (mm) 
-150 
-100 
-50 
-0 
-Novembro 
-Setembro 
-Outubro 
-Agosto 
-Junho 
-Julho 
-Maio 
- Pluviosidade 
- Temperatura máxima 
- Temperatura mínima 
-Com base nas informações do gráfico, o floricultor verificou que poderia plantar essa flor rara. 
-O mês escolhido para o plantio foi`,
+    text: `O cultivo de uma flor rara só é viável se do mês do plantio
+para o mês subsequente o clima da região possuir as seguintes
+peculiaridades: • a variação do nível de chuvas
+(pluviosidade), nesses meses, não for superior a 50 mm; • a
+temperatura mínima, nesses meses, for superior a 15 °C; •
+ocorrer, nesse período, um leve aumento não superior a 5 °C na
+temperatura máxima. Um floricultor, pretendendo investir no
+plantio dessa flor em sua região, fez uma consulta a um
+meteorologista que lhe apresentou o gráfico com as condições
+previstas para os 12 meses seguintes nessa região. 2012 2013
+250 200 Pluviosidade (mm) 150 100 50 0 Novembro Setembro
+Outubro Agosto Junho Julho Maio Pluviosidade Temperatura
+máxima Temperatura mínima Com base nas informações do gráfico,
+o floricultor verificou que poderia plantar essa flor rara. O
+mês escolhido para o plantio foi`,
     images: ['/enem/2016/images/enem_2016_d2_q162.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `janeiro.` },
@@ -3006,37 +2610,23 @@ Qual é o número de andares desse edifício?`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `Em uma cidade será construída uma galeria 
-subterrânea que receberá uma rede de canos para o 
-transporte de água de uma fonte ( F ) até o reservatório de 
-um novo bairro ( B ). 
-Após avaliações, foram apresentados dois projetos 
-para o trajeto de construção da galeria: um segmento de reta 
-que atravessaria outros bairros ou uma semicircunferência 
-que contornaria esses bairros, conforme ilustrado no 
-sistema de coordenadas xOy da figura, em que a unidade 
-de medida nos eixos é o quilômetro. 
-(km) 
- y 
-F = (-1, 1) 
- 1 
-O 
- − 1 
- 1 
-(km) 
- x 
- − 1 
-B = (1, − 1) 
-Estudos de viabilidade técnica mostraram que, pelas 
-características do solo, a construção de 1 m de galeria 
-via segmento de reta demora 1,0 h, enquanto que 1 m de 
-construção de galeria via semicircunferência demora 0,6 h. 
-Há urgência em disponibilizar água para esse bairro. 
-Use 3 como aproximação para π e 1,4 como
-aproximação para √2.
-O menor tempo possível, em hora, para conclusão da 
-construção da galeria, para atender às necessidades de 
-água do bairro, é de`,
+    text: `Em uma cidade será construída uma galeria subterrânea que
+receberá uma rede de canos para o transporte de água de uma
+fonte ( F ) até o reservatório de um novo bairro ( B ). Após
+avaliações, foram apresentados dois projetos para o trajeto de
+construção da galeria: um segmento de reta que atravessaria
+outros bairros ou uma semicircunferência que contornaria esses
+bairros, conforme ilustrado no sistema de coordenadas xOy da
+figura, em que a unidade de medida nos eixos é o quilômetro.
+(km) y F = (-1, 1) 1 O − 1 1 (km) x − 1 B = (1, − 1) Estudos
+de viabilidade técnica mostraram que, pelas características do
+solo, a construção de 1 m de galeria via segmento de reta
+demora 1,0 h, enquanto que 1 m de construção de galeria via
+semicircunferência demora 0,6 h. Há urgência em disponibilizar
+água para esse bairro. Use 3 como aproximação para π e 1,4
+como aproximação para √2. O menor tempo possível, em hora,
+para conclusão da construção da galeria, para atender às
+necessidades de água do bairro, é de`,
     images: ['/enem/2016/images/enem_2016_d2_q166.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1 260.` },
@@ -3113,44 +2703,27 @@ nesse site é dado por`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `A distribuição de salários pagos em uma empresa 
-pode ser analisada destacando-se a parcela do total da 
-massa salarial que é paga aos 10% que recebem os 
-maiores salários. Isso pode ser representado na forma de 
-um gráfico formado por dois segmentos de reta, unidos 
-em um ponto P , cuja abscissa tem valor igual a 90, como 
-ilustrado na figura. 
-No eixo horizontal do gráfico tem-se o percentual de 
-funcionários, ordenados de forma crescente pelos valores 
-de seus salários, e no eixo vertical tem-se o percentual do 
-total da massa salarial de todos os funcionários. 
-100 
-Massa salarial 
-acumulada (%) 
-A 
-P 
-50 
-B 
-0 
-90 
-50 
-100 
-Quantidade de 
-funcionários (%) 
-O Índice de Gini, que mede o grau de concentração 
-de renda de um determinado grupo, pode ser calculado 
-pela razão 
-A 
-A + B 
-, em que A e B são as medidas das 
-áreas indicadas no gráfico. 
-A empresa tem como meta tornar seu Índice de Gini 
-igual ao do país, que é 0,3. Para tanto, precisa ajustar os 
-salários de modo a alterar o percentual que representa 
-a parcela recebida pelos 10% dos funcionários de maior 
-salário em relação ao total da massa salarial. 
-Disponível em: www.ipea.gov.br. Acesso em: 4 maio 2016 (adaptado). 
-Para atingir a meta desejada, o percentual deve ser`,
+    text: `A distribuição de salários pagos em uma empresa pode ser
+analisada destacando-se a parcela do total da massa salarial
+que é paga aos 10% que recebem os maiores salários. Isso pode
+ser representado na forma de um gráfico formado por dois
+segmentos de reta, unidos em um ponto P , cuja abscissa tem
+valor igual a 90, como ilustrado na figura. No eixo horizontal
+do gráfico tem-se o percentual de funcionários, ordenados de
+forma crescente pelos valores de seus salários, e no eixo
+vertical tem-se o percentual do total da massa salarial de
+todos os funcionários. 100 Massa salarial acumulada (%) A P 50
+B 0 90 50 100 Quantidade de funcionários (%) O Índice de Gini,
+que mede o grau de concentração de renda de um determinado
+grupo, pode ser calculado pela razão A A + B , em que A e B
+são as medidas das áreas indicadas no gráfico. A empresa tem
+como meta tornar seu Índice de Gini igual ao do país, que é
+0,3. Para tanto, precisa ajustar os salários de modo a alterar
+o percentual que representa a parcela recebida pelos 10% dos
+funcionários de maior salário em relação ao total da massa
+salarial. Disponível em: www.ipea.gov.br. Acesso em: 4 maio
+2016 (adaptado). Para atingir a meta desejada, o percentual
+deve ser`,
     images: ['/enem/2016/images/enem_2016_d2_q169.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `40%` },
@@ -3169,17 +2742,10 @@ Para atingir a meta desejada, o percentual deve ser`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `Ao iniciar suas atividades, um ascensorista registra tanto o número de pessoas que entram quanto o número 
-de pessoas que saem do elevador em cada um dos andares do edifício onde ele trabalha. O quadro apresenta os 
-registros do ascensorista durante a primeira subida do térreo, de onde partem ele e mais três pessoas, ao quinto andar 
-do edifício. 
- 
-3 
-1 
-2 
-0 
-6 
-Com base no quadro, qual é a moda do número de pessoas no elevador durante a subida do térreo ao quinto andar?`,
+    text: `Ao iniciar suas atividades, um ascensorista registra tanto o número de pessoas que entram quanto o número
+de pessoas que saem do elevador em cada um dos andares do edifício onde ele trabalha. O quadro apresenta os
+registros do ascensorista durante a primeira subida do térreo, de onde partem ele e mais três pessoas, ao quinto andar
+do edifício.`,
     images: ['/enem/2016/images/enem_2016_d2_q170.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `2` },
@@ -3221,34 +2787,26 @@ O valor mais próximo do percentual que descreve o aumento da população nas ca
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `Um marceneiro está construindo um material didático 
-que corresponde ao encaixe de peças de madeira com 
-10 cm de altura e formas geométricas variadas, num bloco 
-de madeira em que cada peça se posicione na perfuração 
-com seu formato correspondente, conforme ilustra a 
-figura. O bloco de madeira já possui três perfurações 
-prontas de bases distintas: uma quadrada (Q), 
-de lado 4 cm, uma retangular (R), com base 3 cm e altura 
-4 cm, e uma em forma de um triângulo equilátero (T), de 
-lado 6,8 cm. Falta realizar uma perfuração de base 
-circular (C). 
-O marceneiro não quer que as outras peças caibam 
-na perfuração circular e nem que a peça de base circular 
-caiba nas demais perfurações e, para isso, escolherá o 
-diâmetro do círculo que atenda a tais condições. Procurou 
-em suas ferramentas uma serra copo (broca com formato 
-circular) para perfurar a base em madeira, encontrando 
-cinco exemplares, com diferentes medidas de diâmetros, 
-como segue: (I) 3,8 cm; (II) 4,7 cm; (III) 5,6 cm; 
-(IV) 7,2 cm e (V) 9,4 cm. 
-T 
-C 
-R 
-Q 
-Considere 1,4 e 1,7 como aproximações para √ 2 
-e √ 3 , respectivamente. 
-Para que seja atingido o seu objetivo, qual dos exemplares 
-de serra copo o marceneiro deverá escolher?`,
+    text: `Um marceneiro está construindo um material didático que
+corresponde ao encaixe de peças de madeira com 10 cm de altura
+e formas geométricas variadas, num bloco de madeira em que
+cada peça se posicione na perfuração com seu formato
+correspondente, conforme ilustra a figura. O bloco de madeira
+já possui três perfurações prontas de bases distintas: uma
+quadrada (Q), de lado 4 cm, uma retangular (R), com base 3 cm
+e altura 4 cm, e uma em forma de um triângulo equilátero (T),
+de lado 6,8 cm. Falta realizar uma perfuração de base circular
+(C). O marceneiro não quer que as outras peças caibam na
+perfuração circular e nem que a peça de base circular caiba
+nas demais perfurações e, para isso, escolherá o diâmetro do
+círculo que atenda a tais condições. Procurou em suas
+ferramentas uma serra copo (broca com formato circular) para
+perfurar a base em madeira, encontrando cinco exemplares, com
+diferentes medidas de diâmetros, como segue: (I) 3,8 cm; (II)
+4,7 cm; (III) 5,6 cm; (IV) 7,2 cm e (V) 9,4 cm. T C R Q
+Considere 1,4 e 1,7 como aproximações para √ 2 e √ 3 ,
+respectivamente. Para que seja atingido o seu objetivo, qual
+dos exemplares de serra copo o marceneiro deverá escolher?`,
     images: ['/enem/2016/images/enem_2016_d2_q172.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I` },
@@ -3267,28 +2825,20 @@ de serra copo o marceneiro deverá escolher?`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `Em um exame, foi feito o monitoramento dos níveis de 
-duas substâncias presentes (A e B) na corrente sanguínea 
-de uma pessoa, durante um período de 24 h, conforme 
-o resultado apresentado na figura. Um nutricionista, no 
-intuito de prescrever uma dieta para essa pessoa, analisou 
-os níveis dessas substâncias, determinando que, para 
-uma dieta semanal eficaz, deverá ser estabelecido um 
-parâmetro cujo valor será dado pelo número de vezes em 
-que os níveis de A e de B forem iguais, porém, maiores 
-que o nível mínimo da substância A durante o período de 
-duração da dieta. 
-Nível 
-Substância A 
-Substância B 
-Tempo (h) 
-24 
-0 
-Considere que o padrão apresentado no resultado 
-do exame, no período analisado, se repita para os dias 
-subsequentes. 
-O valor do parâmetro estabelecido pelo nutricionista, para 
-uma dieta semanal, será igual a`,
+    text: `Em um exame, foi feito o monitoramento dos níveis de duas
+substâncias presentes (A e B) na corrente sanguínea de uma
+pessoa, durante um período de 24 h, conforme o resultado
+apresentado na figura. Um nutricionista, no intuito de
+prescrever uma dieta para essa pessoa, analisou os níveis
+dessas substâncias, determinando que, para uma dieta semanal
+eficaz, deverá ser estabelecido um parâmetro cujo valor será
+dado pelo número de vezes em que os níveis de A e de B forem
+iguais, porém, maiores que o nível mínimo da substância A
+durante o período de duração da dieta. Nível Substância A
+Substância B Tempo (h) 24 0 Considere que o padrão apresentado
+no resultado do exame, no período analisado, se repita para os
+dias subsequentes. O valor do parâmetro estabelecido pelo
+nutricionista, para uma dieta semanal, será igual a`,
     images: ['/enem/2016/images/enem_2016_d2_q173.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `28.` },
@@ -3344,10 +2894,8 @@ possíveis de serem obtidos pelo artista plástico?`,
       { id: 'A', type: 'text', value: `Quadrados, apenas.` },
       { id: 'B', type: 'text', value: `Triângulos e quadrados, apenas.` },
       { id: 'C', type: 'text', value: `Triângulos, quadrados e trapézios, apenas.` },
-      { id: 'D', type: 'text', value: `Triângulos, quadrados, trapézios e quadriláteros 
-irregulares, apenas.` },
-      { id: 'E', type: 'text', value: `Triângulos, quadrados, trapézios, quadriláteros 
-irregulares e pentágonos, apenas.` },
+      { id: 'D', type: 'text', value: `Triângulos, quadrados, trapézios e quadriláteros irregulares, apenas.` },
+      { id: 'E', type: 'text', value: `Triângulos, quadrados, trapézios, quadriláteros irregulares e pentágonos, apenas.` },
     ],
     correct: 'E',
     explanation: `Um plano que corta uma pirâmide de base quadrada (que tem 5 faces) pode interceptar de 3 a 5 faces, gerando triângulos, quadriláteros (quadrados, trapézios e quadriláteros irregulares) e pentágonos. Logo são possíveis triângulos, quadrados, trapézios, quadriláteros irregulares e pentágonos. Resposta: E.`,
@@ -3359,36 +2907,7 @@ irregulares e pentágonos, apenas.` },
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: `Um reservatório é abastecido com água por uma 
-torneira e um ralo faz a drenagem da água desse 
-reservatório. Os gráficos representam as vazões Q, 
-em litro por minuto, do volume de água que entra no 
-reservatório pela torneira e do volume que sai pelo ralo, 
-em função do tempo t, em minuto. 
-Q (L/min) 
-Q (L/min) 
-Torneira 
-Ralo 
-20 
-20 
-5 
-5 
-t (min) 
-t (min) 
-0 
-5 
-10 
-15 
-20 
-25 
-0 
-5 
-10 
-15 
-20 
-25 
-Em qual intervalo de tempo, em minuto, o reservatório 
-tem uma vazão constante de enchimento?`,
+    text: ``,
     images: ['/enem/2016/images/enem_2016_d2_q176.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `De 0 a 10.` },
@@ -3572,16 +3091,11 @@ O texto relata perspectivas no campo da tecnologia
 para cirurgias em geral, e a mais promissora para este
 momento enfoca o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `uso de um produto natural com milhares de células
-para reparar tecidos humanos.` },
-      { id: 'B', type: 'text', value: `criação de uma impressora especial para traçar
-mapas cirúrgicos detalhados.` },
-      { id: 'C', type: 'text', value: `desenvolvimento de uma tinta para produzir pele e
-tecidos humanos finos.` },
-      { id: 'D', type: 'text', value: `reprodução de células em 3D para ajudar nas cirurgias
-de recuperação dos rins.` },
-      { id: 'E', type: 'text', value: `extração de glóbulos do fígado para serem
-reproduzidos em laboratório.` },
+      { id: 'A', type: 'text', value: `uso de um produto natural com milhares de células para reparar tecidos humanos.` },
+      { id: 'B', type: 'text', value: `criação de uma impressora especial para traçar mapas cirúrgicos detalhados.` },
+      { id: 'C', type: 'text', value: `desenvolvimento de uma tinta para produzir pele e tecidos humanos finos.` },
+      { id: 'D', type: 'text', value: `reprodução de células em 3D para ajudar nas cirurgias de recuperação dos rins.` },
+      { id: 'E', type: 'text', value: `extração de glóbulos do fígado para serem reproduzidos em laboratório.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto "Frankentissue: printable cell technology" apresenta uma bio-tinta, criada por pesquisadores australianos, capaz de imprimir tecidos vivos em uma impressora a jato de tinta. Embora estruturas complexas, como fígado e rim, ainda exijam impressão 3D, o texto afirma que, no momento, a pele e outros tecidos planos são os mais promissores para esse processo. A perspectiva mais viável enfoca, assim, o desenvolvimento de uma tinta para produzir pele e tecidos humanos finos (alternativa C). As demais opções falam em produto natural, impressora para traçar mapas cirúrgicos, reprodução de células em 3D para os rins ou extração de glóbulos do fígado, que não traduzem o foco do texto.`,
@@ -3640,16 +3154,11 @@ pessoas de diferentes culturas. Diante do movimento de
 internacionalização no ensino superior, a universidade
 Politecnico di Milano decidiu`,
     alternatives: [
-      { id: 'A', type: 'text', value: `elaborar exames em língua inglesa para o ingresso
-na universidade.` },
-      { id: 'B', type: 'text', value: `ampliar a oferta de vagas na graduação para alunos
-estrangeiros.` },
-      { id: 'C', type: 'text', value: `investir na divulgação da universidade no mercado
-internacional.` },
-      { id: 'D', type: 'text', value: `substituir a língua nacional para se inserir no contexto
-da globalização.` },
-      { id: 'E', type: 'text', value: `estabelecer metas para melhorar a qualidade do
-ensino de italiano.` },
+      { id: 'A', type: 'text', value: `elaborar exames em língua inglesa para o ingresso na universidade.` },
+      { id: 'B', type: 'text', value: `ampliar a oferta de vagas na graduação para alunos estrangeiros.` },
+      { id: 'C', type: 'text', value: `investir na divulgação da universidade no mercado internacional.` },
+      { id: 'D', type: 'text', value: `substituir a língua nacional para se inserir no contexto da globalização.` },
+      { id: 'E', type: 'text', value: `estabelecer metas para melhorar a qualidade do ensino de italiano.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A reportagem "Italian university switches to English" informa que o Politecnico di Milano passará a oferecer e avaliar a maioria de seus cursos de pós-graduação em inglês, e não mais em italiano. A universidade acredita que, mantendo-se apenas de língua italiana, correria o risco de isolamento e não conseguiria competir internacionalmente. Diante da internacionalização do ensino superior, ela decidiu substituir a língua nacional para se inserir no contexto da globalização (alternativa D). As demais opções falam em elaborar exames de ingresso, ampliar vagas para estrangeiros, divulgar a instituição ou melhorar o ensino de italiano, decisões que o texto não menciona.`,

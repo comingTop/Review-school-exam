@@ -42,8 +42,7 @@ periféricas pelo(a)`,
       { id: 'B', type: 'text', value: `direcionamento maior do fluxo de pessoas, devido à existência de um grande número de serviços.` },
       { id: 'C', type: 'text', value: `delimitação de áreas para uma ocupação organizada do espaço físico, melhorando a qualidade de vida.` },
       { id: 'D', type: 'text', value: `implantação de políticas públicas que promovem a moradia e o direito à cidade aos seus moradores.` },
-      { id: 'E', type: 'text', value: `reurbanização de moradias nas áreas centrais, mantendo o trabalhador próximo ao seu emprego, diminuindo os
-deslocamentos para a periferia.` },
+      { id: 'E', type: 'text', value: `reurbanização de moradias nas áreas centrais, mantendo o trabalhador próximo ao seu emprego, diminuindo os deslocamentos para a periferia.` },
 
     ],
     correct: 'A',
@@ -113,16 +112,11 @@ A exposição e a análise do projeto cartesiano indicam que,
 para viabilizar a reconstrução radical do conhecimento, 
 deve-se`,
     alternatives: [
-      { id: 'A', type: 'text', value: `retomar o método da tradição para edificar a ciência 
-com legitimidade.` },
-      { id: 'B', type: 'text', value: `questionar de forma ampla e profunda as antigas 
-ideias e concepções.` },
-      { id: 'C', type: 'text', value: `investigar os conteúdos da consciência dos homens 
-menos esclarecidos.` },
-      { id: 'D', type: 'text', value: `buscar uma via para eliminar da memória saberes 
-antigos e ultrapassados.` },
-      { id: 'E', type: 'text', value: `encontrar ideias e pensamentos evidentes que 
-dispensam ser questionados.` },
+      { id: 'A', type: 'text', value: `retomar o método da tradição para edificar a ciência com legitimidade.` },
+      { id: 'B', type: 'text', value: `questionar de forma ampla e profunda as antigas ideias e concepções.` },
+      { id: 'C', type: 'text', value: `investigar os conteúdos da consciência dos homens menos esclarecidos.` },
+      { id: 'D', type: 'text', value: `buscar uma via para eliminar da memória saberes antigos e ultrapassados.` },
+      { id: 'E', type: 'text', value: `encontrar ideias e pensamentos evidentes que dispensam ser questionados.` },
     ],
     correct: 'B',
     explanation: `Os textos de Descartes e de seu comentador indicam que o projeto cartesiano busca um saber firme recomeçando do zero, livre das falsas opiniões aceitas desde a infância. Para reconstruir radicalmente o conhecimento, é preciso questionar de forma ampla e profunda as antigas ideias e concepções, submetendo-as à dúvida metódica, por isso a alternativa B está correta. A propõe retomar o método da tradição, justamente o que Descartes rejeita, e C restringe a dúvida à consciência dos menos esclarecidos. D a confunde com a simples eliminação da memória de saberes antigos, e E parte de ideias evidentes que dispensariam o questionamento, contrariando o caráter radical da busca.`,
@@ -149,22 +143,11 @@ A carta de Pero Vaz de Caminha permite entender o
 projeto colonizador para a nova terra. Nesse trecho, o 
 relato enfatiza o seguinte objetivo:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Valorizar a catequese a ser realizada sobre os 
-povos nativos.` },
-      { id: 'B', type: 'text', value: `Descrever 
-a 
-cultura 
-local 
-para 
-enaltecer 
-a 
-prosperidade portuguesa.` },
-      { id: 'C', type: 'text', value: `Transmitir o conhecimento dos indígenas sobre o 
-potencial econômico existente.` },
-      { id: 'D', type: 'text', value: `Realçar a pobreza dos habitantes nativos para 
-demarcar a superioridade europeia.` },
-      { id: 'E', type: 'text', value: `Criticar o modo de vida dos povos autóctones para 
-evidenciar a ausência de trabalho.` },
+      { id: 'A', type: 'text', value: `Valorizar a catequese a ser realizada sobre os povos nativos.` },
+      { id: 'B', type: 'text', value: `Descrever a cultura local para enaltecer a prosperidade portuguesa.` },
+      { id: 'C', type: 'text', value: `Transmitir o conhecimento dos indígenas sobre o potencial econômico existente.` },
+      { id: 'D', type: 'text', value: `Realçar a pobreza dos habitantes nativos para demarcar a superioridade europeia.` },
+      { id: 'E', type: 'text', value: `Criticar o modo de vida dos povos autóctones para evidenciar a ausência de trabalho.` },
     ],
     correct: 'A',
     explanation: `Na Carta de Pero Vaz de Caminha, o escrivão observa que a nova terra não revelava, de imediato, ouro, prata ou metais, mas conclui que o melhor fruto a tirar dela seria salvar aquela gente. Esse trecho enfatiza o objetivo de valorizar a catequese a ser realizada sobre os povos nativos, central ao projeto colonizador português, por isso a alternativa A está correta. B e C falam em enaltecer a prosperidade portuguesa e em aproveitar o conhecimento econômico dos indígenas, ausentes no trecho. D realça a pobreza para afirmar a superioridade europeia, leitura que o texto não faz, e E critica o modo de vida dos nativos por falta de trabalho, o que não corresponde ao sentido religioso destacado.`,
@@ -190,20 +173,11 @@ São Paulo: Contexto, 2007 (fragmento).   
 O texto é um registro asteca, cujo sentido está 
 relacionado ao(à)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `tragédia causada pela destruição da cultura 
-desse povo.` },
-      { id: 'B', type: 'text', value: `tentativa frustrada de resistência a um poder 
-considerado superior.` },
-      { id: 'C', type: 'text', value: `extermínio 
-das 
-populações 
-indígenas 
-pelo 
-Exército espanhol.` },
-      { id: 'D', type: 'text', value: `dissolução da memória sobre os feitos de seus 
-antepassados.` },
-      { id: 'E', type: 'text', value: `profetização das consequências da colonização 
-da América.` },
+      { id: 'A', type: 'text', value: `tragédia causada pela destruição da cultura desse povo.` },
+      { id: 'B', type: 'text', value: `tentativa frustrada de resistência a um poder considerado superior.` },
+      { id: 'C', type: 'text', value: `extermínio das populações indígenas pelo Exército espanhol.` },
+      { id: 'D', type: 'text', value: `dissolução da memória sobre os feitos de seus antepassados.` },
+      { id: 'E', type: 'text', value: `profetização das consequências da colonização da América.` },
     ],
     correct: 'B',
     explanation: `O poema asteca descreve dardos quebrados, casas destelhadas, águas tingidas de vermelho e escudos que não detêm a desolação, retratando a derrota diante dos conquistadores espanhóis em Tenochtitlán. O sentido do texto está relacionado à tentativa frustrada de resistência a um poder considerado superior, pois os guerreiros astecas não conseguiram conter a invasão, por isso a alternativa B está correta. A enfatiza a tragédia da destruição cultural, que é consequência, mas não o foco da cena de combate, e C atribui o extermínio ao Exército espanhol de modo genérico. D fala em perda de memória dos antepassados e E em profecia da colonização, elementos que não traduzem o relato da resistência militar derrotada.`,
@@ -215,40 +189,18 @@ da América.` },
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Taxa de fecundidade total - Brasil - 1940-2010 
-6,16 
-6,21 
-6,28 
-5,76 
-4,35 
-2,85 
-2,38 
-1,90 
-1930 
-1940 
-1950 
-1960 
-1970 
-1980 
-1990 
-2000 
-2010 
-2020 
-IBGE. Censo demográfico 2010 : resultados gerais da amostra. 
-Disponível em: ftp://ftp.ibge.gov.br. Acesso em: 12 mar. 2013. 
-O processo registrado no gráfico gerou a seguinte 
-consequência demográfica:`,
+    text: `Taxa de fecundidade total - Brasil - 1940-2010 6,16 6,21 6,28
+5,76 4,35 2,85 2,38 1,90 1930 1940 1950 1960 1970 1980 1990
+2000 2010 2020 IBGE. Censo demográfico 2010 : resultados
+gerais da amostra. Disponível em: ftp://ftp.ibge.gov.br.
+Acesso em: 12 mar. 2013. O processo registrado no gráfico
+gerou a seguinte consequência demográfica:`,
     alternatives: [
       { id: 'A', type: 'text', value: `Decréscimo da população absoluta.` },
       { id: 'B', type: 'text', value: `Redução do crescimento vegetativo.` },
       { id: 'C', type: 'text', value: `Diminuição da proporção de adultos.` },
       { id: 'D', type: 'text', value: `Expansão de políticas de controle da natalidade.` },
-      { id: 'E', type: 'text', value: `Aumento 
-da 
-renovação 
-da 
-população 
-economicamente ativa.` },
+      { id: 'E', type: 'text', value: `Aumento da renovação da população economicamente ativa.` },
     ],
     correct: 'B',
     explanation: `O gráfico mostra a queda contínua da taxa de fecundidade total no Brasil, de cerca de 6,16 filhos por mulher em 1940 para 1,90 em 2010. A consequência demográfica direta desse processo é a redução do crescimento vegetativo, pois menos nascimentos diminuem a diferença entre natalidade e mortalidade, por isso a alternativa B está correta. A, o decréscimo da população absoluta, não ocorre, já que a população ainda cresce, e C e E (diminuição da proporção de adultos e aumento da população economicamente ativa) contrariam o envelhecimento gerado pela baixa fecundidade. D inverte a relação, pois a queda da fecundidade é resultado, e não causa posterior, de políticas de controle da natalidade.`,
@@ -260,24 +212,18 @@ economicamente ativa.` },
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `As Brigadas Internacionais foram unidades de 
-combatentes formadas por voluntários de 53 nacionalidades 
-dispostos a lutar em defesa da República espanhola. 
-Estima-se que cerca de 60 mil cidadãos de várias 
-partes do mundo - incluindo 40 brasileiros - tenham se 
-incorporado a essas unidades. Apesar de coordenadas 
-pelos 
-comunistas, 
-as 
-Brigadas 
-contaram 
-com 
-membros socialistas, liberais e de outras correntes 
-político-ideológicas. 
-SOUZA, I. I. A Guerra Civil Europeia. História Viva , n. 70, 2009 (fragmento). 
-A Guerra Civil Espanhola expressou as disputas em curso 
-na Europa na década de 1930. A perspectiva política 
-comum que promoveu a mobilização descrita foi o(a)`,
+    text: `As Brigadas Internacionais foram unidades de combatentes
+formadas por voluntários de 53 nacionalidades dispostos a
+lutar em defesa da República espanhola. Estima-se que cerca de
+60 mil cidadãos de várias partes do mundo - incluindo 40
+brasileiros - tenham se incorporado a essas unidades. Apesar
+de coordenadas pelos comunistas, as Brigadas contaram com
+membros socialistas, liberais e de outras correntes
+político-ideológicas. SOUZA, I. I. A Guerra Civil Europeia.
+História Viva , n. 70, 2009 (fragmento). A Guerra Civil
+Espanhola expressou as disputas em curso na Europa na década
+de 1930. A perspectiva política comum que promoveu a
+mobilização descrita foi o(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `crítica ao stalinismo.` },
       { id: 'B', type: 'text', value: `combate ao fascismo.` },
@@ -306,16 +252,11 @@ Revista Transporte y Territorio , Universidade de Buenos Aires, n. 3, 2010 (adap
 A necessidade de modais de transporte interligados, no 
 território brasileiro, justifica-se pela(s)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `variações climáticas no território, associadas à 
-interiorização da produção.` },
-      { id: 'B', type: 'text', value: `grandes distâncias e a busca da redução dos custos 
-de transporte.` },
-      { id: 'C', type: 'text', value: `formação geológica do país, que impede o uso de um 
-único modal.` },
-      { id: 'D', type: 'text', value: `proximidade entre a área de produção agrícola 
-intensiva e os portos.` },
-      { id: 'E', type: 'text', value: `diminuição dos fluxos materiais em detrimento de 
-fluxos imateriais.` },
+      { id: 'A', type: 'text', value: `variações climáticas no território, associadas à interiorização da produção.` },
+      { id: 'B', type: 'text', value: `grandes distâncias e a busca da redução dos custos de transporte.` },
+      { id: 'C', type: 'text', value: `formação geológica do país, que impede o uso de um único modal.` },
+      { id: 'D', type: 'text', value: `proximidade entre a área de produção agrícola intensiva e os portos.` },
+      { id: 'E', type: 'text', value: `diminuição dos fluxos materiais em detrimento de fluxos imateriais.` },
     ],
     correct: 'B',
     explanation: `O texto de Huertas destaca a importância da intermodalidade para dotar o Brasil de um sistema de transportes compatível com sua escala continental. A necessidade de modais interligados justifica-se pelas grandes distâncias do território e pela busca da redução dos custos de transporte, já que combinar diferentes modais barateia o deslocamento de cargas, por isso a alternativa B está correta. A e D atribuem a demanda a variações climáticas e à proximidade entre produção e portos, que não exigem intermodalidade. C fala em formação geológica que impediria um único modal, argumento não sustentado, e E opõe fluxos materiais e imateriais, alheio ao problema logístico tratado.`,
@@ -343,20 +284,11 @@ A partir da análise histórica do comportamento humano
 em suas relações sociais e políticas, Maquiavel define o 
 homem como um ser`,
     alternatives: [
-      { id: 'A', type: 'text', value: `munido de virtude, com disposição nata a praticar 
-o bem a si e aos outros.` },
-      { id: 'B', type: 'text', value: `possuidor de fortuna, valendo-se de riquezas 
-para alcançar êxito na política.` },
-      { id: 'C', type: 'text', value: `guiado por interesses, de modo que suas ações 
-são imprevisíveis e inconstantes.` },
-      { id: 'D', type: 'text', value: `naturalmente racional, vivendo em um estado 
-pré-social e portando seus direitos naturais.` },
-      { id: 'E', type: 'text', value: `sociável 
-por 
-natureza, 
-mantendo 
-relações 
-pacíficas com seus pares.` },
+      { id: 'A', type: 'text', value: `munido de virtude, com disposição nata a praticar o bem a si e aos outros.` },
+      { id: 'B', type: 'text', value: `possuidor de fortuna, valendo-se de riquezas para alcançar êxito na política.` },
+      { id: 'C', type: 'text', value: `guiado por interesses, de modo que suas ações são imprevisíveis e inconstantes.` },
+      { id: 'D', type: 'text', value: `naturalmente racional, vivendo em um estado pré-social e portando seus direitos naturais.` },
+      { id: 'E', type: 'text', value: `sociável por natureza, mantendo relações pacíficas com seus pares.` },
     ],
     correct: 'C',
     explanation: `No trecho de O Príncipe, Maquiavel afirma que os homens são, de maneira geral, ingratos, volúveis, simuladores e ávidos de lucro, apoiando o governante enquanto o perigo está longe e voltando-se contra ele quando este se aproxima. A partir dessa leitura, Maquiavel define o homem como um ser guiado por interesses, cujas ações são imprevisíveis e inconstantes, por isso a alternativa C está correta. A e E o descrevem como naturalmente virtuoso ou sociável e pacífico, o oposto do texto. B o reduz ao possuidor de fortuna em busca de êxito político, e D o concebe como racional em estado pré-social, concepção contratualista que não corresponde ao realismo maquiavélico.`,
@@ -379,13 +311,10 @@ fundamentou o regime republicano brasileiro durante as
 três primeiras décadas do século XX e fortaleceu o(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `poder militar, enquanto fiador da ordem econômica.` },
-      { id: 'B', type: 'text', value: `presidencialismo, com o objetivo de limitar o poder 
-dos coronéis.` },
+      { id: 'B', type: 'text', value: `presidencialismo, com o objetivo de limitar o poder dos coronéis.` },
       { id: 'C', type: 'text', value: `domínio de grupos regionais sobre a ordem federativa.` },
-      { id: 'D', type: 'text', value: `intervenção nos estados, autorizada pelas normas 
-constitucionais.` },
-      { id: 'E', type: 'text', value: `isonomia do governo federal no tratamento das 
-disputas locais.` },
+      { id: 'D', type: 'text', value: `intervenção nos estados, autorizada pelas normas constitucionais.` },
+      { id: 'E', type: 'text', value: `isonomia do governo federal no tratamento das disputas locais.` },
     ],
     correct: 'C',
     explanation: `O texto de Paulo Prado critica a política dos governadores, acordo que sustentou a República Velha ao articular os interesses das oligarquias estaduais com o poder central. Esse pacto fortaleceu o domínio de grupos regionais sobre a ordem federativa, consolidando o mando das elites de alguns estados, por isso a alternativa C está correta. A atribui o arranjo ao poder militar e B ao presidencialismo voltado a limitar os coronéis. D fala em intervenção constitucional nos estados e E na isonomia do governo federal, interpretações que contrariam o caráter oligárquico e concentrador denunciado no texto.`,
@@ -420,16 +349,11 @@ ao longo do tempo. A atuação das Grandes Sociedades,
 descrita no texto, mostra que o carnaval representava um 
 momento em que as`,
     alternatives: [
-      { id: 'A', type: 'text', value: `distinções sociais eram deixadas de lado em nome 
-da celebração.` },
-      { id: 'B', type: 'text', value: `aspirações cosmopolitas da elite impediam a 
-realização da festa fora dos clubes.` },
-      { id: 'C', type: 'text', value: `liberdades individuais eram extintas pelas regras das 
-autoridades públicas.` },
-      { id: 'D', type: 'text', value: `tradições populares se transformavam em matéria de 
-disputas sociais.` },
-      { id: 'E', type: 'text', value: `perseguições policiais tinham caráter xenófobo por 
-repudiarem tradições estrangeiras.` },
+      { id: 'A', type: 'text', value: `distinções sociais eram deixadas de lado em nome da celebração.` },
+      { id: 'B', type: 'text', value: `aspirações cosmopolitas da elite impediam a realização da festa fora dos clubes.` },
+      { id: 'C', type: 'text', value: `liberdades individuais eram extintas pelas regras das autoridades públicas.` },
+      { id: 'D', type: 'text', value: `tradições populares se transformavam em matéria de disputas sociais.` },
+      { id: 'E', type: 'text', value: `perseguições policiais tinham caráter xenófobo por repudiarem tradições estrangeiras.` },
     ],
     correct: 'D',
     explanation: `O texto sobre as Grandes Sociedades carnavalescas mostra que, no fim do século XIX, a elite buscava civilizar o carnaval, substituindo o entrudo e outras práticas populares por desfiles inspirados em Veneza, sem que os foliões abrissem mão de suas diversões. Isso revela que o carnaval era um momento em que as tradições populares se transformavam em matéria de disputas sociais, opondo projetos culturais distintos, por isso a alternativa D está correta. A afirma que as distinções sociais eram deixadas de lado, o oposto da tensão descrita, e B e C supõem que a festa não saía dos clubes ou que as liberdades eram extintas. E atribui às práticas um caráter xenófobo, não indicado no texto.`,
@@ -464,28 +388,21 @@ de um direito pelas mulheres, relacionado com a`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Então, a travessia das veredas sertanejas é mais 
-exaustiva que a de uma estepe nua. Nesta, ao menos, 
-o viajante tem o desafogo de um horizonte largo e a 
-perspectiva das planuras francas. Ao passo que a outra 
-o afoga; abrevia-lhe o olhar; agride-o e estonteia-o; 
-enlaça-o na trama espinescente e não o atrai; repulsa-o 
-com as folhas urticantes, com o espinho, com os gravetos 
-estalados em lanças, e desdobra-se-lhe na frente léguas e 
-léguas, imutável no aspecto desolado; árvore sem folhas, 
-de galhos estorcidos e secos, revoltos, entrecruzados, 
-apontando rijamente no espaço ou estirando-se flexuosos 
-pelo solo, lembrando um bracejar imenso, de tortura, da 
-flora agonizante... 
-CUNHA, E. Os sertões . Disponível em: http://pt.scribd.com. Acesso em: 2 jun. 2012. 
-Os 
-elementos 
-da 
-paisagem 
-descritos 
-no 
-texto 
-correspondem a aspectos biogeográficos presentes na`,
+    text: `Então, a travessia das veredas sertanejas é mais exaustiva que
+a de uma estepe nua. Nesta, ao menos, o viajante tem o
+desafogo de um horizonte largo e a perspectiva das planuras
+francas. Ao passo que a outra o afoga; abrevia-lhe o olhar;
+agride-o e estonteia-o; enlaça-o na trama espinescente e não o
+atrai; repulsa-o com as folhas urticantes, com o espinho, com
+os gravetos estalados em lanças, e desdobra-se-lhe na frente
+léguas e léguas, imutável no aspecto desolado; árvore sem
+folhas, de galhos estorcidos e secos, revoltos, entrecruzados,
+apontando rijamente no espaço ou estirando-se flexuosos pelo
+solo, lembrando um bracejar imenso, de tortura, da flora
+agonizante... CUNHA, E. Os sertões . Disponível em:
+http://pt.scribd.com. Acesso em: 2 jun. 2012. Os elementos da
+paisagem descritos no texto correspondem a aspectos
+biogeográficos presentes na`,
     alternatives: [
       { id: 'A', type: 'text', value: `composição de vegetação xerófila.` },
       { id: 'B', type: 'text', value: `formação de florestas latifoliadas.` },
@@ -517,16 +434,11 @@ Textos 3 . São Paulo: Edições Sociais, 1977 (adaptado).
 Para o autor, a relação entre economia e política 
 estabelecida no sistema capitalista faz com que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o proletariado seja contemplado pelo processo de 
-mais-valia.` },
-      { id: 'B', type: 'text', value: `o trabalho se constitua como o fundamento real da 
-produção material.` },
-      { id: 'C', type: 'text', value: `a consolidação das forças produtivas seja compatível 
-com o progresso humano.` },
-      { id: 'D', type: 'text', value: `a autonomia da sociedade civil seja proporcional ao 
-desenvolvimento econômico.` },
-      { id: 'E', type: 'text', value: `a burguesia revolucione o processo social de 
-formação da consciência de classe.` },
+      { id: 'A', type: 'text', value: `o proletariado seja contemplado pelo processo de mais-valia.` },
+      { id: 'B', type: 'text', value: `o trabalho se constitua como o fundamento real da produção material.` },
+      { id: 'C', type: 'text', value: `a consolidação das forças produtivas seja compatível com o progresso humano.` },
+      { id: 'D', type: 'text', value: `a autonomia da sociedade civil seja proporcional ao desenvolvimento econômico.` },
+      { id: 'E', type: 'text', value: `a burguesia revolucione o processo social de formação da consciência de classe.` },
     ],
     correct: 'B',
     explanation: `No prefácio à Crítica da economia política, Marx afirma que as relações de produção formam a estrutura econômica, base real sobre a qual se erguem as superestruturas política e jurídica. Para o autor, na relação entre economia e política do capitalismo, é o trabalho que se constitui como o fundamento real da produção material e de toda a vida social, por isso a alternativa B está correta. A reduz a questão à mais-valia do proletariado, e C e D supõem compatibilidade com o progresso humano e autonomia da sociedade civil. E atribui à burguesia a formação da consciência de classe, deslocamentos que não traduzem a tese marxista da determinação econômica.`,
@@ -551,16 +463,11 @@ Comparada à organização do trabalho característica do
 taylorismo e do fordismo, a concepção de tempo analisada 
 no texto pressupõe que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `as tecnologias de informação sejam usadas para 
-democratizar as relações laborais.` },
-      { id: 'B', type: 'text', value: `as estruturas burocráticas sejam transferidas da 
-empresa para o espaço doméstico.` },
-      { id: 'C', type: 'text', value: `os procedimentos de terceirização sejam aprimorados 
-pela qualificação profissional.` },
-      { id: 'D', type: 'text', value: `as organizações sindicais sejam fortalecidas com a 
-valorização da especialização funcional.` },
-      { id: 'E', type: 'text', value: `os mecanismos de controle sejam deslocados dos 
-processos para os resultados do trabalho.` },
+      { id: 'A', type: 'text', value: `as tecnologias de informação sejam usadas para democratizar as relações laborais.` },
+      { id: 'B', type: 'text', value: `as estruturas burocráticas sejam transferidas da empresa para o espaço doméstico.` },
+      { id: 'C', type: 'text', value: `os procedimentos de terceirização sejam aprimorados pela qualificação profissional.` },
+      { id: 'D', type: 'text', value: `as organizações sindicais sejam fortalecidas com a valorização da especialização funcional.` },
+      { id: 'E', type: 'text', value: `os mecanismos de controle sejam deslocados dos processos para os resultados do trabalho.` },
     ],
     correct: 'E',
     explanation: `Sennett observa que o trabalhador em tempo flexível controla o local, mas não o processo do trabalho, e que a supervisão sobre os ausentes do escritório é, muitas vezes, maior que sobre os presentes. Comparada ao taylorismo e ao fordismo, essa concepção pressupõe que os mecanismos de controle sejam deslocados dos processos para os resultados do trabalho, já que se cobra o desempenho, e não a vigilância direta da execução, por isso a alternativa E está correta. A e C falam em democratizar relações e aprimorar a terceirização, e B em transferir a burocracia para o espaço doméstico. D menciona o fortalecimento dos sindicatos, aspectos que não decorrem da ideia de controle descentralizado e orientado por metas.`,
@@ -572,25 +479,13 @@ processos para os resultados do trabalho.` },
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Modelo 1 
-Fornecedor 
-Estoque 
-Produção 
-Estoque 
-Cliente 
-Modelo 2 
-Requisição 
-Requisição 
-Entrega 
-Entrega 
-Cliente 
-Produção 
-Fornecedor 
-Disponível em: http://ensino.univates.br. Acesso em: 11 maio 2013 (adaptado). 
-Na imagem, estão representados dois modelos 
-de produção. A possibilidade de uma crise de 
-superprodução é distinta entre eles em função do 
-seguinte fator:`,
+    text: `Modelo 1 Fornecedor Estoque Produção Estoque Cliente Modelo 2
+Requisição Requisição Entrega Entrega Cliente Produção
+Fornecedor Disponível em: http://ensino.univates.br. Acesso
+em: 11 maio 2013 (adaptado). Na imagem, estão representados
+dois modelos de produção. A possibilidade de uma crise de
+superprodução é distinta entre eles em função do seguinte
+fator:`,
     images: ['/enem/2013/images/enem_2013_d1_q17.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Origem da matéria-prima.` },
@@ -609,26 +504,19 @@ seguinte fator:`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `A África também já serviu como ponto de partida
-para comédias bem vulgares, mas de muito sucesso,
-como Um príncipe em Nova York e Ace Ventura: um
-maluco na África ; em ambas, a África parece um
-lugar cheio de tribos doidas e rituais de desenho
+    text: `A África também já serviu como ponto de partida para comédias
+bem vulgares, mas de muito sucesso, como Um príncipe em Nova
+York e Ace Ventura: um maluco na África ; em ambas, a África
+parece um lugar cheio de tribos doidas e rituais de desenho
 animado. A animação O rei Leão , da Disney, o mais
-bem-sucedido filme americano ambientado na África,
-não chegava a contar com elenco de seres humanos. 
-LEIBOWITZ, E. Filmes de Hollywood sobre África ficam no clichê . 
-Disponível em: http://notícias.uol.com.br. Acesso em: 17 abr. 2010. 
-A 
-produção 
-cinematográfica 
-referida 
-no 
-texto 
-contribui para a constituição de uma memória sobre 
-a África e seus habitantes. Essa memória enfatiza e 
-negligencia, respectivamente, os seguintes aspectos 
-do continente africano:`,
+bem-sucedido filme americano ambientado na África, não chegava
+a contar com elenco de seres humanos. LEIBOWITZ, E. Filmes de
+Hollywood sobre África ficam no clichê . Disponível em:
+http://notícias.uol.com.br. Acesso em: 17 abr. 2010. A
+produção cinematográfica referida no texto contribui para a
+constituição de uma memória sobre a África e seus habitantes.
+Essa memória enfatiza e negligencia, respectivamente, os
+seguintes aspectos do continente africano:`,
     alternatives: [
       { id: 'A', type: 'text', value: `A história e a natureza.` },
       { id: 'B', type: 'text', value: `O exotismo e as culturas.` },
@@ -646,41 +534,22 @@ do continente africano:`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Disneylândia 
-Multinacionais japonesas instalam empresas em 
-Hong-Kong 
-E produzem com matéria-prima brasileira 
-Para competir no mercado americano 
-[...] 
-Pilhas 
-americanas 
-alimentam 
-eletrodomésticos 
-ingleses na Nova Guiné 
-Gasolina árabe alimenta automóveis americanos na 
-África do Sul 
-[...] 
-Crianças iraquianas fugidas da guerra 
-Não obtêm visto no consulado americano do Egito 
-Para entrarem na Disneylândia 
-ANTUNES, A. Disponível em: www.radio.uol.com.br. Acesso em: 3 fev. 2013 (fragmento). 
-Na canção, ressalta-se a coexistência, no contexto 
-internacional atual, das seguintes situações:`,
+    text: `Disneylândia Multinacionais japonesas instalam empresas em
+Hong-Kong E produzem com matéria-prima brasileira Para
+competir no mercado americano [...] Pilhas americanas
+alimentam eletrodomésticos ingleses na Nova Guiné Gasolina
+árabe alimenta automóveis americanos na África do Sul [...]
+Crianças iraquianas fugidas da guerra Não obtêm visto no
+consulado americano do Egito Para entrarem na Disneylândia
+ANTUNES, A. Disponível em: www.radio.uol.com.br. Acesso em: 3
+fev. 2013 (fragmento). Na canção, ressalta-se a coexistência,
+no contexto internacional atual, das seguintes situações:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Acirramento do controle alfandegário e estímulo ao 
-capital especulativo.` },
-      { id: 'B', type: 'text', value: `Ampliação das trocas econômicas e seletividade dos 
-fluxos populacionais.` },
-      { id: 'C', type: 'text', value: `Intensificação do controle informacional e adoção de 
-barreiras fitossanitárias.` },
-      { id: 'D', type: 'text', value: `Aumento da circulação mercantil e desregulamentação 
-do sistema financeiro.` },
-      { id: 'E', type: 'text', value: `Expansão 
-do 
-protecionismo 
-comercial 
-e 
-descaracterização de identidades nacionais.` },
+      { id: 'A', type: 'text', value: `Acirramento do controle alfandegário e estímulo ao capital especulativo.` },
+      { id: 'B', type: 'text', value: `Ampliação das trocas econômicas e seletividade dos fluxos populacionais.` },
+      { id: 'C', type: 'text', value: `Intensificação do controle informacional e adoção de barreiras fitossanitárias.` },
+      { id: 'D', type: 'text', value: `Aumento da circulação mercantil e desregulamentação do sistema financeiro.` },
+      { id: 'E', type: 'text', value: `Expansão do protecionismo comercial e descaracterização de identidades nacionais.` },
     ],
     correct: 'B',
     explanation: `A canção Disneylândia descreve mercadorias e matérias-primas que circulam entre continentes, como pilhas americanas em eletrodomésticos ingleses e gasolina árabe em carros americanos, ao lado de pessoas, como as crianças iraquianas impedidas de entrar nos Estados Unidos. O texto ressalta a ampliação das trocas econômicas globais combinada à seletividade dos fluxos populacionais, que restringe a circulação de certas pessoas, por isso a alternativa B está correta. A fala em acirrar o controle alfandegário, C em barreiras fitossanitárias e D em desregulamentação financeira. E trata de protecionismo e perda de identidades nacionais, aspectos que não captam o contraste entre o livre fluxo de bens e o controle de pessoas.`,
@@ -692,21 +561,11 @@ descaracterização de identidades nacionais.` },
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `PSD - 
-PTB - 
-UDN 
-PSP - 
-PDC - 
-MTR 
-PTN - 
-PST - 
-PSB 
-PRP - PR - PL - PRT 
-Finados 
-FORTUNA. Correio da Manhã , ano 65, n. 22 264, 2 nov. 1965. 
-A imagem foi publicada no jornal Correio da Manhã , no dia 
-de Finados de 1965. Sua relação com os direitos políticos 
-existentes no período revela a`,
+    text: `PSD - PTB - UDN PSP - PDC - MTR PTN - PST - PSB PRP - PR - PL
+- PRT Finados FORTUNA. Correio da Manhã , ano 65, n. 22 264, 2
+nov. 1965. A imagem foi publicada no jornal Correio da Manhã ,
+no dia de Finados de 1965. Sua relação com os direitos
+políticos existentes no período revela a`,
     alternatives: [
       { id: 'A', type: 'text', value: `extinção dos partidos nanicos.` },
       { id: 'B', type: 'text', value: `retomada dos partidos estaduais.` },
@@ -768,16 +627,11 @@ condições necessárias para que possa haver liberdade
 em um Estado. Isso pode ocorrer apenas sob um modelo 
 político em que haja`,
     alternatives: [
-      { id: 'A', type: 'text', value: `exercício de tutela sobre atividades jurídicas e 
-políticas.` },
-      { id: 'B', type: 'text', value: `consagração do poder político pela autoridade 
-religiosa.` },
-      { id: 'C', type: 'text', value: `concentração do poder nas mãos de elites 
-técnico-cientifícas.` },
-      { id: 'D', type: 'text', value: `estabelecimento de limites aos atores públicos e às 
-instituições do governo.` },
-      { id: 'E', type: 'text', value: `reunião das funções de legislar, julgar e executar nas 
-mãos de um governante eleito.` },
+      { id: 'A', type: 'text', value: `exercício de tutela sobre atividades jurídicas e políticas.` },
+      { id: 'B', type: 'text', value: `consagração do poder político pela autoridade religiosa.` },
+      { id: 'C', type: 'text', value: `concentração do poder nas mãos de elites técnico-cientifícas.` },
+      { id: 'D', type: 'text', value: `estabelecimento de limites aos atores públicos e às instituições do governo.` },
+      { id: 'E', type: 'text', value: `reunião das funções de legislar, julgar e executar nas mãos de um governante eleito.` },
     ],
     correct: 'D',
     explanation: `Montesquieu sustenta que, para evitar o abuso, é preciso que o poder contenha o poder, separando as funções de legislar, executar e julgar em órgãos independentes. A liberdade política só é possível em um modelo em que haja o estabelecimento de limites aos atores públicos e às instituições do governo, impedindo a concentração em uma mesma pessoa ou grupo, por isso a alternativa D está correta. A e C (tutela sobre atividades jurídicas e concentração em elites técnicas) e E (reunião das funções nas mãos de um governante) contrariam a separação proposta. B vincula o poder à autoridade religiosa, estranha ao argumento sobre divisão dos poderes.`,
@@ -806,14 +660,8 @@ processo de`,
       { id: 'A', type: 'text', value: `mercantilização das crenças religiosas.` },
       { id: 'B', type: 'text', value: `transformação das representações sociais.` },
       { id: 'C', type: 'text', value: `disseminação do ateísmo nos países de maioria cristã.` },
-      { id: 'D', type: 'text', value: `diminuição da distância entre saber científico e 
-eclesiástico.` },
-      { id: 'E', type: 'text', value: `amadurecimento 
-da 
-consciência 
-ligada 
-à 
-civilização moderna.` },
+      { id: 'D', type: 'text', value: `diminuição da distância entre saber científico e eclesiástico.` },
+      { id: 'E', type: 'text', value: `amadurecimento da consciência ligada à civilização moderna.` },
     ],
     correct: 'B',
     explanation: `Georges Duby observa que, enquanto o homem medieval encarava a morte como passagem celebrada entre parentes, à espera da ressurreição, a perda contemporânea do sentimento religioso tornou a morte uma provação aterrorizante. Comparando essas atitudes, o autor identifica um processo de transformação das representações sociais sobre a morte ao longo do tempo, por isso a alternativa B está correta. A reduz a mudança à mercantilização das crenças, e C e D falam em disseminação do ateísmo e em aproximação entre ciência e religião. E menciona o amadurecimento da consciência moderna, interpretações que não traduzem a alteração cultural do modo de lidar com a morte descrita por Duby.`,
@@ -841,17 +689,11 @@ panóptico, um modelo que mostra o poder da disciplina nas
 sociedades contemporâneas, exercido preferencialmente 
 por mecanismos`,
     alternatives: [
-      { id: 'A', type: 'text', value: `religiosos, que se constituem como um olho divino 
-controlador que tudo vê.` },
-      { id: 'B', type: 'text', value: `ideológicos, que estabelecem limites pela alienação, 
-impedindo a visão da dominação sofrida.` },
-      { id: 'C', type: 'text', value: `repressivos, que perpetuam as relações de dominação 
-entre os homens por meio da tortura física.` },
-      { id: 'D', type: 'text', value: `sutis, que adestram os corpos no espaço-tempo por 
-meio do olhar como instrumento de controle.` },
-      { id: 'E', type: 'text', value: `consensuais, que pactuam acordos com base na 
-compreensão dos benefícios gerais de se ter as 
-próprias ações controladas.` },
+      { id: 'A', type: 'text', value: `religiosos, que se constituem como um olho divino controlador que tudo vê.` },
+      { id: 'B', type: 'text', value: `ideológicos, que estabelecem limites pela alienação, impedindo a visão da dominação sofrida.` },
+      { id: 'C', type: 'text', value: `repressivos, que perpetuam as relações de dominação entre os homens por meio da tortura física.` },
+      { id: 'D', type: 'text', value: `sutis, que adestram os corpos no espaço-tempo por meio do olhar como instrumento de controle.` },
+      { id: 'E', type: 'text', value: `consensuais, que pactuam acordos com base na compreensão dos benefícios gerais de se ter as próprias ações controladas.` },
     ],
     correct: 'D',
     explanation: `O texto de Bentham descreve o panóptico como um edifício circular em que o inspetor, no centro, pode vigiar continuamente os prisioneiros, reformando a moral e disciplinando pela arquitetura. Esse modelo mostra que o poder disciplinar das sociedades contemporâneas é exercido por mecanismos sutis, que adestram os corpos no espaço-tempo por meio do olhar como instrumento de controle, por isso a alternativa D está correta. A e B atribuem o controle a um olho divino ou à alienação ideológica, e C o reduz à tortura física. E fala em consenso baseado nos benefícios do autocontrole, formas que não correspondem à vigilância discreta e permanente própria do panóptico.`,
@@ -863,43 +705,20 @@ próprias ações controladas.` },
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Vida social sem internet? 
-E NO MSN, 
-NO MYSPACE 
-E FACEBOOK? 
-EM 
-TODOS! 
-VOCE 
-ESTA NO 
-ORKUT? 
-ESTOU ! 
-VOCÊ ESTÁ EM 
-TANTOS LUGARES, POR 
-ISSO RARAMENTE TE VEJO 
-NO MUNDO REAL ! 
-ATE NO 
-TWITTER? 
-CLARO! 
-Disponível em: http://tv-video-edc.blogspot.com. Acesso em: 30 maio 2010. 
-A charge revela uma crítica aos meios de comunicação, 
-em especial à internet, porque`,
+    text: `Vida social sem internet? E NO MSN, NO MYSPACE E FACEBOOK? EM
+TODOS! VOCE ESTA NO ORKUT? ESTOU ! VOCÊ ESTÁ EM TANTOS
+LUGARES, POR ISSO RARAMENTE TE VEJO NO MUNDO REAL ! ATE NO
+TWITTER? CLARO! Disponível em:
+http://tv-video-edc.blogspot.com. Acesso em: 30 maio 2010. A
+charge revela uma crítica aos meios de comunicação, em
+especial à internet, porque`,
     images: ['/enem/2013/images/enem_2013_d1_q25.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `questiona a integração das pessoas nas redes virtuais 
-de relacionamento.` },
-      { id: 'B', type: 'text', value: `considera 
-as 
-relações 
-sociais 
-como 
-menos 
-importantes que as virtuais.` },
-      { id: 'C', type: 'text', value: `enaltece a pretensão do homem de estar em todos os 
-lugares ao mesmo tempo.` },
-      { id: 'D', type: 'text', value: `descreve com precisão as sociedades humanas no 
-mundo globalizado.` },
-      { id: 'E', type: 'text', value: `concebe a rede de computadores como o espaço 
-mais eficaz para a construção de relações sociais.` },
+      { id: 'A', type: 'text', value: `questiona a integração das pessoas nas redes virtuais de relacionamento.` },
+      { id: 'B', type: 'text', value: `considera as relações sociais como menos importantes que as virtuais.` },
+      { id: 'C', type: 'text', value: `enaltece a pretensão do homem de estar em todos os lugares ao mesmo tempo.` },
+      { id: 'D', type: 'text', value: `descreve com precisão as sociedades humanas no mundo globalizado.` },
+      { id: 'E', type: 'text', value: `concebe a rede de computadores como o espaço mais eficaz para a construção de relações sociais.` },
     ],
     correct: 'A',
     explanation: `Na charge, um blogueiro profissional só se relaciona com o outro por meio de redes como Orkut, MSN, Facebook e Twitter, a ponto de dizer que raramente o vê no mundo real. A crítica aos meios de comunicação se dá porque a imagem questiona a integração das pessoas nas redes virtuais de relacionamento, que substituiria o contato presencial, por isso a alternativa A está correta. B e E supõem que a charge valoriza as relações virtuais como mais importantes ou mais eficazes, o oposto de sua ironia. C enaltece a pretensão de estar em todos os lugares, e D afirma descrever com precisão as sociedades globalizadas, quando o tom é de crítica, e não de constatação neutra.`,
@@ -955,8 +774,7 @@ atributos, Aristóteles a identifica como`,
       { id: 'B', type: 'text', value: `plenitude espiritual e ascese pessoal.` },
       { id: 'C', type: 'text', value: `finalidade das ações e condutas humanas.` },
       { id: 'D', type: 'text', value: `conhecimento de verdades imutáveis e perfeitas.` },
-      { id: 'E', type: 'text', value: `expressão do sucesso individual e reconhecimento 
-público.` },
+      { id: 'E', type: 'text', value: `expressão do sucesso individual e reconhecimento público.` },
     ],
     correct: 'C',
     explanation: `No trecho de A Política, Aristóteles afirma que a felicidade reúne os atributos mais excelentes, o mais nobre, o mais justo e o mais aprazível, presentes nas melhores atividades humanas. Ao reconhecer na felicidade essa reunião, Aristóteles a identifica como finalidade das ações e condutas humanas, isto é, o bem supremo a que tudo se dirige, por isso a alternativa C está correta. A reduz a felicidade à busca de bens materiais e títulos, e B à ascese e à plenitude espiritual. D a associa ao conhecimento de verdades imutáveis, e E ao sucesso individual e ao reconhecimento público, concepções que não correspondem ao sentido de fim último da vida ética defendido por Aristóteles.`,
@@ -1042,16 +860,11 @@ Nos fragmentos dos textos, os posicionamentos em
 relação à reforma agrária se opõem. Isso acontece porque 
 os autores associam a reforma agrária, respectivamente, à`,
     alternatives: [
-      { id: 'A', type: 'text', value: `redução do inchaço urbano e à crítica ao 
-minifúndio camponês.` },
-      { id: 'B', type: 'text', value: `ampliação da renda nacional e à prioridade ao 
-mercado externo.` },
-      { id: 'C', type: 'text', value: `contenção da mecanização agrícola e ao combate 
-ao êxodo rural.` },
-      { id: 'D', type: 'text', value: `privatização de empresas estatais e ao estímulo 
-ao crescimento econômico.` },
-      { id: 'E', type: 'text', value: `correção de distorções históricas e ao prejuízo 
-ao agronegócio.` },
+      { id: 'A', type: 'text', value: `redução do inchaço urbano e à crítica ao minifúndio camponês.` },
+      { id: 'B', type: 'text', value: `ampliação da renda nacional e à prioridade ao mercado externo.` },
+      { id: 'C', type: 'text', value: `contenção da mecanização agrícola e ao combate ao êxodo rural.` },
+      { id: 'D', type: 'text', value: `privatização de empresas estatais e ao estímulo ao crescimento econômico.` },
+      { id: 'E', type: 'text', value: `correção de distorções históricas e ao prejuízo ao agronegócio.` },
     ],
     correct: 'E',
     explanation: `O Texto I, do MST, defende a reforma agrária como forma de corrigir a concentração histórica da terra, em que cerca de 1% controla 46% das propriedades, ocupando latifúndios improdutivos, enquanto o Texto II a critica, alegando que apoiar empresas produtivas gera mais empregos. Os posicionamentos se opõem porque associam a reforma agrária, respectivamente, à correção de distorções históricas e ao prejuízo ao agronegócio, por isso a alternativa E está correta. As demais alternativas (redução do inchaço urbano e crítica ao minifúndio, ampliação da renda e prioridade ao mercado externo, contenção da mecanização, e privatização de estatais) não traduzem o par exato de visões contrapostas apresentado nos textos.`,
@@ -1077,19 +890,10 @@ http://td.camara.leg.br. Acesso em: 17 dez. 2012 (adaptado).
 No texto, relaciona-se a consolidação da democracia na 
 África do Sul à superação de um legado`,
     alternatives: [
-      { id: 'A', type: 'text', value: `populista, 
-que 
-favorecia 
-a 
-cooptação 
-de 
-dissidentes políticos.` },
-      { id: 'B', type: 'text', value: `totalitarista, que bloqueava o diálogo com os 
-movimentos sociais.` },
-      { id: 'C', type: 'text', value: `segregacionista, que impedia a universalização 
-da cidadania.` },
-      { id: 'D', type: 'text', value: `estagnacionista, que disseminava a pauperização 
-social.` },
+      { id: 'A', type: 'text', value: `populista, que favorecia a cooptação de dissidentes políticos.` },
+      { id: 'B', type: 'text', value: `totalitarista, que bloqueava o diálogo com os movimentos sociais.` },
+      { id: 'C', type: 'text', value: `segregacionista, que impedia a universalização da cidadania.` },
+      { id: 'D', type: 'text', value: `estagnacionista, que disseminava a pauperização social.` },
       { id: 'E', type: 'text', value: `fundamentalista, que engendrava conflitos religiosos.` },
     ],
     correct: 'C',
@@ -1121,16 +925,11 @@ brasileiro, que confrontaram o Estado e a elite agrária em
 torno do objetivo de`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `fomentar ações públicas para ocupação das terras 
-do interior.` },
-      { id: 'B', type: 'text', value: `adotar o regime assalariado para proteção da mão de 
-obra estrangeira.` },
-      { id: 'C', type: 'text', value: `definir uma política de subsídio governamental para o 
-fomento da imigração.` },
-      { id: 'D', type: 'text', value: `regulamentar o tráfico interprovincial de cativos para 
-sobrevivência das fazendas.` },
-      { id: 'E', type: 'text', value: `financiar a fixação de famílias camponesas para 
-estímulo da agricultura de subsistência.` },
+      { id: 'A', type: 'text', value: `fomentar ações públicas para ocupação das terras do interior.` },
+      { id: 'B', type: 'text', value: `adotar o regime assalariado para proteção da mão de obra estrangeira.` },
+      { id: 'C', type: 'text', value: `definir uma política de subsídio governamental para o fomento da imigração.` },
+      { id: 'D', type: 'text', value: `regulamentar o tráfico interprovincial de cativos para sobrevivência das fazendas.` },
+      { id: 'E', type: 'text', value: `financiar a fixação de famílias camponesas para estímulo da agricultura de subsistência.` },
     ],
     correct: 'C',
     explanation: `O discurso de Manuel Felizardo, dirigido ao Senador Vergueiro, trata da necessidade de ampliar os braços nas fazendas, antes supridos pela escravidão com auxílio pecuniário do governo. O fragmento revela o objetivo de definir uma política de subsídio governamental para o fomento da imigração, substituindo a mão de obra escrava por trabalhadores livres estrangeiros, por isso a alternativa C está correta. A fala em ocupar terras do interior, e B em adotar o assalariamento como proteção da mão de obra estrangeira. D menciona a regulamentação do tráfico interprovincial, e E a fixação de famílias camponesas na subsistência, propostas que não correspondem ao subsídio à imigração defendido.`,
@@ -1181,19 +980,11 @@ nos diferentes contextos socioespaciais. Comparando
 a organização socioeconômica das regiões citadas, a 
 unidade desse fenômeno é perceptível no aspecto`,
     alternatives: [
-      { id: 'A', type: 'text', value: `espacial, em função do sistema integrado que envolve 
-as cidades locais e globais.` },
-      { id: 'B', type: 'text', value: `cultural, em função da semelhança histórica e da 
-condição de modernização econômica e política.` },
-      { id: 'C', type: 'text', value: `demográfico, em função da localização das maiores 
-aglomerações urbanas e continuidade do fluxo 
-campo-cidade.` },
-      { id: 'D', type: 'text', value: `territorial, em função da estrutura de organização 
-e planejamento das cidades que atravessam as 
-fronteiras nacionais.` },
-      { id: 'E', type: 'text', value: `econômico, em função da revolução agrícola que 
-transformou o campo e a cidade e contribuiu para 
-fixação do homem ao lugar.` },
+      { id: 'A', type: 'text', value: `espacial, em função do sistema integrado que envolve as cidades locais e globais.` },
+      { id: 'B', type: 'text', value: `cultural, em função da semelhança histórica e da condição de modernização econômica e política.` },
+      { id: 'C', type: 'text', value: `demográfico, em função da localização das maiores aglomerações urbanas e continuidade do fluxo campo-cidade.` },
+      { id: 'D', type: 'text', value: `territorial, em função da estrutura de organização e planejamento das cidades que atravessam as fronteiras nacionais.` },
+      { id: 'E', type: 'text', value: `econômico, em função da revolução agrícola que transformou o campo e a cidade e contribuiu para fixação do homem ao lugar.` },
     ],
     correct: 'C',
     explanation: `O texto de Elias ressalta que a urbanização ocorre em ritmos e contextos distintos na África, na Ásia e na América Latina, mas mantém traços comuns. A unidade do fenômeno é perceptível no aspecto demográfico, em função da concentração das maiores aglomerações urbanas nesses continentes e da continuidade do fluxo campo-cidade, por isso a alternativa C está correta. As demais alternativas (espacial pelas cidades globais, cultural pela modernização, territorial pelo planejamento e econômico pela revolução agrícola) destacam dimensões que não expressam o elemento comum enfatizado pelo autor, ligado ao peso populacional e à migração.`,
@@ -1205,24 +996,18 @@ fixação do homem ao lugar.` },
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Rua Preciados, seis da tarde. Ao longe, a massa 
-humana que abarrota a Praça Puerta Del Sol, em Madri, 
-se levanta. Um grupo de garotas, ao ver a cena, corre em 
-direção à multidão. Milhares de pessoas fazem ressoar o 
-slogan : “Que não, que não, que não nos representem”. 
-Um garoto fala pelo megafone: “Demandamos submeter 
-a referendo o resgate bancário”. 
-RODRÍGUEZ, O. Puerta Del Sol, o grande alto-falante. Brasil de Fato , 
-São Paulo, 26 maio-1 jun. 2011(adaptado). 
-Em 2011, o acampamento dos Indignados espanhóis 
-expressou 
-todo 
-o 
-descontentamento 
-político 
-da 
-juventude europeia. Que proposta sintetiza o conjunto de 
-reivindicações políticas destes jovens?`,
+    text: `Rua Preciados, seis da tarde. Ao longe, a massa humana que
+abarrota a Praça Puerta Del Sol, em Madri, se levanta. Um
+grupo de garotas, ao ver a cena, corre em direção à multidão.
+Milhares de pessoas fazem ressoar o slogan : “Que não, que
+não, que não nos representem”. Um garoto fala pelo megafone:
+“Demandamos submeter a referendo o resgate bancário”.
+RODRÍGUEZ, O. Puerta Del Sol, o grande alto-falante. Brasil de
+Fato , São Paulo, 26 maio-1 jun. 2011(adaptado). Em 2011, o
+acampamento dos Indignados espanhóis expressou todo o
+descontentamento político da juventude europeia. Que proposta
+sintetiza o conjunto de reivindicações políticas destes
+jovens?`,
     alternatives: [
       { id: 'A', type: 'text', value: `Voto universal.` },
       { id: 'B', type: 'text', value: `Democracia direta.` },
@@ -1252,16 +1037,11 @@ O trecho em questão é uma referência ao que ficou
 conhecido como revolução copernicana na filosofia. Nele, 
 confrontam-se duas posições filosóficas que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `assumem pontos de vista opostos acerca da natureza 
-do conhecimento.` },
-      { id: 'B', type: 'text', value: `defendem que o conhecimento é impossível, 
-restando-nos somente o ceticismo.` },
-      { id: 'C', type: 'text', value: `revelam a relação de interdependência entre os dados 
-da experiência e a reflexão filosófica.` },
-      { id: 'D', type: 'text', value: `apostam, no que diz respeito às tarefas da filosofia, 
-na primazia das ideias em relação aos objetos.` },
-      { id: 'E', type: 'text', value: `refutam-se mutuamente quanto à natureza do nosso 
-conhecimento e são ambas recusadas por Kant.` },
+      { id: 'A', type: 'text', value: `assumem pontos de vista opostos acerca da natureza do conhecimento.` },
+      { id: 'B', type: 'text', value: `defendem que o conhecimento é impossível, restando-nos somente o ceticismo.` },
+      { id: 'C', type: 'text', value: `revelam a relação de interdependência entre os dados da experiência e a reflexão filosófica.` },
+      { id: 'D', type: 'text', value: `apostam, no que diz respeito às tarefas da filosofia, na primazia das ideias em relação aos objetos.` },
+      { id: 'E', type: 'text', value: `refutam-se mutuamente quanto à natureza do nosso conhecimento e são ambas recusadas por Kant.` },
     ],
     correct: 'A',
     explanation: `Kant propõe inverter a relação tradicional entre sujeito e objeto: em vez de o conhecimento se regular pelos objetos, são os objetos que devem se conformar ao nosso conhecimento, no que ficou conhecido como revolução copernicana da filosofia. Nesse confronto, as duas posições assumem pontos de vista opostos acerca da natureza do conhecimento, por isso a alternativa A está correta. B reduz a questão ao ceticismo, e C afirma a interdependência entre dados da experiência e reflexão. D situa a primazia das ideias sobre os objetos como tese kantiana, e E diz que as posições se refutam e são ambas recusadas por Kant, o que não corresponde à oposição descrita.`,
@@ -1286,16 +1066,11 @@ ocasionando impactos sociais, culturais e econômicos
 sobre comunidades locais, e com maior intensidade, na 
 Amazônia Legal, com a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `reforma e ampliação de aeroportos nas capitais 
-dos estados.` },
-      { id: 'B', type: 'text', value: `ampliação de estádios de futebol para a realização de 
-eventos esportivos.` },
-      { id: 'C', type: 'text', value: `construção de usinas hidrelétricas sobre os rios 
-Tocantins, Xingu e Madeira.` },
-      { id: 'D', type: 'text', value: `instalação de cabos para a formação de uma rede 
-informatizada de comunicação.` },
-      { id: 'E', type: 'text', value: `formação de uma infraestrutura de torres que 
-permitem a comunicação móvel na região.` },
+      { id: 'A', type: 'text', value: `reforma e ampliação de aeroportos nas capitais dos estados.` },
+      { id: 'B', type: 'text', value: `ampliação de estádios de futebol para a realização de eventos esportivos.` },
+      { id: 'C', type: 'text', value: `construção de usinas hidrelétricas sobre os rios Tocantins, Xingu e Madeira.` },
+      { id: 'D', type: 'text', value: `instalação de cabos para a formação de uma rede informatizada de comunicação.` },
+      { id: 'E', type: 'text', value: `formação de uma infraestrutura de torres que permitem a comunicação móvel na região.` },
     ],
     correct: 'C',
     explanation: `O texto de Santos e Silveira trata das grandes mudanças recentes no território em função de acréscimos técnicos e de processos econômicos e sociais. Na Amazônia Legal, essas alterações, com maior intensidade, relacionam-se à construção de usinas hidrelétricas sobre os rios Tocantins, Xingu e Madeira, que provocam impactos sociais e ambientais sobre comunidades locais, por isso a alternativa C está correta. As demais alternativas (ampliação de aeroportos, construção de estádios de futebol, instalação de redes informatizadas e de torres de telefonia móvel) descrevem intervenções que não correspondem às transformações de maior impacto citadas para a região amazônica.`,
@@ -1320,15 +1095,11 @@ Com base no texto, a análise de manifestações culturais
 de origem africana, como a capoeira ou o candomblé, 
 deve considerar que elas`,
     alternatives: [
-      { id: 'A', type: 'text', value: `permanecem como reprodução dos valores e 
-costumes africanos.` },
+      { id: 'A', type: 'text', value: `permanecem como reprodução dos valores e costumes africanos.` },
       { id: 'B', type: 'text', value: `perderam a relação com o seu passado histórico.` },
-      { id: 'C', type: 'text', value: `derivam da interação entre valores africanos e a 
-experiência histórica brasileira.` },
-      { id: 'D', type: 'text', value: `contribuem para o distanciamento cultural entre 
-negros e brancos no Brasil atual.` },
-      { id: 'E', type: 'text', value: `demonstram a maior complexidade cultural dos 
-africanos em relação aos europeus.` },
+      { id: 'C', type: 'text', value: `derivam da interação entre valores africanos e a experiência histórica brasileira.` },
+      { id: 'D', type: 'text', value: `contribuem para o distanciamento cultural entre negros e brancos no Brasil atual.` },
+      { id: 'E', type: 'text', value: `demonstram a maior complexidade cultural dos africanos em relação aos europeus.` },
     ],
     correct: 'C',
     explanation: `O texto de Minas Gerais afirma que a herança cultural africana não deve ser vista como resgate ingênuo do passado nem como cultivo nostálgico, mas em seu movimento, pluralidade e complexidade. Por isso, manifestações como a capoeira e o candomblé devem ser compreendidas como práticas que derivam da interação entre valores africanos e a experiência histórica brasileira, por isso a alternativa C está correta. A as congela como simples reprodução de costumes africanos, e B afirma que perderam o vínculo com o passado. D e E as reduzem a instrumento de distanciamento entre negros e brancos ou a prova de maior complexidade africana, leituras que negam o caráter dinâmico e mestiço dessas expressões.`,
@@ -1351,16 +1122,11 @@ A charge ironiza a política desenvolvimentista do governo
 Juscelino Kubitschek, ao`,
     images: ['/enem/2013/images/enem_2013_d1_q39.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `evidenciar que o incremento da malha viária diminuiu 
-as desigualdades regionais do país.` },
-      { id: 'B', type: 'text', value: `destacar que a modernização das indústrias dinamizou 
-a produção de alimentos para o mercado interno.` },
-      { id: 'C', type: 'text', value: `enfatizar que o crescimento econômico implicou 
-aumento das contradições socioespaciais.` },
-      { id: 'D', type: 'text', value: `ressaltar que o investimento no setor de bens duráveis 
-incrementou os salários de trabalhadores.` },
-      { id: 'E', type: 'text', value: `mostrar que a ocupação de regiões interioranas abriu 
-frentes de trabalho para a população local.` },
+      { id: 'A', type: 'text', value: `evidenciar que o incremento da malha viária diminuiu as desigualdades regionais do país.` },
+      { id: 'B', type: 'text', value: `destacar que a modernização das indústrias dinamizou a produção de alimentos para o mercado interno.` },
+      { id: 'C', type: 'text', value: `enfatizar que o crescimento econômico implicou aumento das contradições socioespaciais.` },
+      { id: 'D', type: 'text', value: `ressaltar que o investimento no setor de bens duráveis incrementou os salários de trabalhadores.` },
+      { id: 'E', type: 'text', value: `mostrar que a ocupação de regiões interioranas abriu frentes de trabalho para a população local.` },
     ],
     correct: 'C',
     explanation: `A charge Meta de Faminto ironiza o lema desenvolvimentista de JK ao contrapor o automóvel brasileiro e as estradas pavimentadas ao pedido simples de um prato de feijão feito por Jeca. A crítica enfatiza que o crescimento econômico do período implicou aumento das contradições socioespaciais, concentrando benefícios enquanto persistia a pobreza, por isso a alternativa C está correta. A, B, D e E (diminuição das desigualdades regionais, dinamização da produção de alimentos, aumento dos salários e abertura de frentes de trabalho) apresentam efeitos positivos do desenvolvimentismo que a charge justamente nega ao expor a fome.`,
@@ -1392,16 +1158,11 @@ Acesso em: 20 maio 2013 (adaptado).
 A representação social do feminino comum aos dois 
 textos é o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `submissão de gênero, apoiada pela concepção 
-patriarcal de família.` },
-      { id: 'B', type: 'text', value: `acesso aos produtos de beleza, decorrência da 
-abertura dos portos.` },
-      { id: 'C', type: 'text', value: `ampliação do espaço de entretenimento, voltado às 
-distintas classes sociais.` },
-      { id: 'D', type: 'text', value: `proteção da honra, mediada pela disputa masculina 
-em relação às damas da corte.` },
-      { id: 'E', type: 'text', value: `valorização do casamento cristão, respaldado pelos 
-interesses vinculados à herança.` },
+      { id: 'A', type: 'text', value: `submissão de gênero, apoiada pela concepção patriarcal de família.` },
+      { id: 'B', type: 'text', value: `acesso aos produtos de beleza, decorrência da abertura dos portos.` },
+      { id: 'C', type: 'text', value: `ampliação do espaço de entretenimento, voltado às distintas classes sociais.` },
+      { id: 'D', type: 'text', value: `proteção da honra, mediada pela disputa masculina em relação às damas da corte.` },
+      { id: 'E', type: 'text', value: `valorização do casamento cristão, respaldado pelos interesses vinculados à herança.` },
     ],
     correct: 'A',
     explanation: `Os dois textos descrevem a mulher do século XIX confinada ao espaço doméstico, ocupada com toucador, piano e aulas, ou enclausurada atrás de grades e treliças, sonegada à sociedade por pais e maridos. A representação social comum aos textos é a submissão de gênero, apoiada pela concepção patriarcal de família, que subordinava a mulher à autoridade masculina, por isso a alternativa A está correta. B, C, D e E (acesso a produtos de beleza, ampliação do entretenimento, proteção da honra pela disputa masculina e valorização do casamento cristão) tratam de aspectos pontuais que não resumem a condição de subordinação retratada.`,
@@ -1432,16 +1193,11 @@ intempéries da natureza. Nesse contexto, a investigação
 científica consiste em`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `expor a essência da verdade e resolver definitivamente 
-as disputas teóricas ainda existentes.` },
-      { id: 'B', type: 'text', value: `oferecer a última palavra acerca das coisas que 
-existem e ocupar o lugar que outrora foi da filosofia.` },
-      { id: 'C', type: 'text', value: `ser a expressão da razão e servir de modelo para 
-outras áreas do saber que almejam o progresso.` },
-      { id: 'D', type: 'text', value: `explicitar as leis gerais que permitem interpretar a 
-natureza e eliminar os discursos éticos e religiosos.` },
-      { id: 'E', type: 'text', value: `explicar a dinâmica presente entre os fenômenos 
-naturais e impor limites aos debates acadêmicos.` },
+      { id: 'A', type: 'text', value: `expor a essência da verdade e resolver definitivamente as disputas teóricas ainda existentes.` },
+      { id: 'B', type: 'text', value: `oferecer a última palavra acerca das coisas que existem e ocupar o lugar que outrora foi da filosofia.` },
+      { id: 'C', type: 'text', value: `ser a expressão da razão e servir de modelo para outras áreas do saber que almejam o progresso.` },
+      { id: 'D', type: 'text', value: `explicitar as leis gerais que permitem interpretar a natureza e eliminar os discursos éticos e religiosos.` },
+      { id: 'E', type: 'text', value: `explicar a dinâmica presente entre os fenômenos naturais e impor limites aos debates acadêmicos.` },
     ],
     correct: 'C',
     explanation: `O texto de Cupani afirma que a ciência moderna, impulsionada por Descartes e Bacon, concebeu o conhecimento como forma de dominar e libertar o homem das intempéries da natureza, convertendo-se em programa de poder e de enriquecimento da vida. Nesse projeto iluminista, a investigação científica consiste em ser a expressão da razão e servir de modelo para outras áreas do saber que almejam o progresso, por isso a alternativa C está correta. A e B a reduzem a resolver disputas teóricas ou a ocupar o lugar da filosofia. D e E a limitam a interpretar leis eliminando discursos éticos e religiosos ou a impor limites aos debates acadêmicos, restrições que contrariam o ideal de razão progressista descrito.`,
@@ -1518,11 +1274,9 @@ sobre como deveria ocorrer o fim da escravidão no Brasil,
 no qual`,
     alternatives: [
       { id: 'A', type: 'text', value: `copiava o modelo haitiano de emancipação negra.` },
-      { id: 'B', type: 'text', value: `incentivava a conquista de alforrias por meio de 
-ações judiciais.` },
+      { id: 'B', type: 'text', value: `incentivava a conquista de alforrias por meio de ações judiciais.` },
       { id: 'C', type: 'text', value: `optava pela via legalista de libertação.` },
-      { id: 'D', type: 'text', value: `priorizava a negociação em torno das indenizações 
-aos senhores.` },
+      { id: 'D', type: 'text', value: `priorizava a negociação em torno das indenizações aos senhores.` },
       { id: 'E', type: 'text', value: `antecipava a libertação paternalista dos cativos.` },
     ],
     correct: 'C',
@@ -1564,57 +1318,31 @@ teve como condição necessária a`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Músculos artificiais são dispositivos feitos com 
-plásticos inteligentes que respondem a uma corrente 
-elétrica com um movimento mecânico. A oxidação e 
-redução de um polímero condutor criam cargas positivas 
-e/ou negativas no material, que são compensadas com a 
-inserção ou expulsão de cátions ou ânions. Por exemplo, 
-na figura os filmes escuros são de polipirrol e o filme branco 
-é de um eletrólito polimérico contendo um sal inorgânico. 
-Quando o polipirrol sofre oxidação, há a inserção de 
-ânions para compensar a carga positiva no polímero e o 
-filme se expande. Na outra face do dispositivo o filme de 
-polipirrol sofre redução, expulsando ânions, e o filme se 
-contrai. Pela montagem, em sanduíche, o sistema todo 
-se movimenta de forma harmônica, conforme mostrado 
-na figura. 
-- 
-Corrente 
-elétrica 
-+ 
-polipirrol 
-Ar 
-Eletrólito 
-polimérico 
-Sem corrente 
-elétrica 
-polipirrol 
-Ar 
-+ 
-Corrente 
-elétrica 
-- 
-DE PAOLI, M. A. Cadernos Temáticos de Química Nova na Escola , 
-São Paulo, maio 2001 (adaptado). 
-A camada central de eletrólito polimérico é importante 
-porque`,
+    text: `Músculos artificiais são dispositivos feitos com plásticos
+inteligentes que respondem a uma corrente elétrica com um
+movimento mecânico. A oxidação e redução de um polímero
+condutor criam cargas positivas e/ou negativas no material,
+que são compensadas com a inserção ou expulsão de cátions ou
+ânions. Por exemplo, na figura os filmes escuros são de
+polipirrol e o filme branco é de um eletrólito polimérico
+contendo um sal inorgânico. Quando o polipirrol sofre
+oxidação, há a inserção de ânions para compensar a carga
+positiva no polímero e o filme se expande. Na outra face do
+dispositivo o filme de polipirrol sofre redução, expulsando
+ânions, e o filme se contrai. Pela montagem, em sanduíche, o
+sistema todo se movimenta de forma harmônica, conforme
+mostrado na figura. - Corrente elétrica + polipirrol Ar
+Eletrólito polimérico Sem corrente elétrica polipirrol Ar +
+Corrente elétrica - DE PAOLI, M. A. Cadernos Temáticos de
+Química Nova na Escola , São Paulo, maio 2001 (adaptado). A
+camada central de eletrólito polimérico é importante porque`,
     images: ['/enem/2013/images/enem_2013_d1_q46.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `absorve a irradiação de partículas carregadas, 
-emitidas pelo aquecimento elétrico dos filmes de 
-polipirrol.` },
-      { id: 'B', type: 'text', value: `permite a difusão dos íons promovida pela aplicação 
-de diferença de potencial, fechando o circuito elétrico.` },
-      { id: 'C', type: 'text', value: `mantém um gradiente térmico no material para 
-promover a dilatação/contração térmica de cada filme 
-de polipirrol.` },
-      { id: 'D', type: 'text', value: `permite a condução de elétrons livres, promovida 
-pela aplicação de diferença de potencial, gerando 
-corrente elétrica.` },
-      { id: 'E', type: 'text', value: `promove a polarização das moléculas poliméricas, o 
-que resulta no movimento gerado pela aplicação de 
-diferença de potencial.` },
+      { id: 'A', type: 'text', value: `absorve a irradiação de partículas carregadas, emitidas pelo aquecimento elétrico dos filmes de polipirrol.` },
+      { id: 'B', type: 'text', value: `permite a difusão dos íons promovida pela aplicação de diferença de potencial, fechando o circuito elétrico.` },
+      { id: 'C', type: 'text', value: `mantém um gradiente térmico no material para promover a dilatação/contração térmica de cada filme de polipirrol.` },
+      { id: 'D', type: 'text', value: `permite a condução de elétrons livres, promovida pela aplicação de diferença de potencial, gerando corrente elétrica.` },
+      { id: 'E', type: 'text', value: `promove a polarização das moléculas poliméricas, o que resulta no movimento gerado pela aplicação de diferença de potencial.` },
     ],
     correct: 'B',
     explanation: `Na camada central de eletrólito polimérico ocorre a condução iônica: ao se aplicar uma diferença de potencial, os íons do sal inorgânico migram através do eletrólito, permitindo que um filme de polipirrol sofra oxidação e o outro, redução. Esse fluxo de íons fecha o circuito elétrico entre os dois filmes, completando o processo eletroquímico que faz o material expandir de um lado e contrair do outro. O eletrólito não conduz elétrons livres nem promove gradiente térmico; sua função é justamente permitir a difusão dos íons. Sem essa difusão iônica não haveria transferência interna de carga e o dispositivo não funcionaria. Portanto, a camada é importante porque permite a difusão dos íons promovida pela diferença de potencial, fechando o circuito elétrico (alternativa B).`,
@@ -1685,27 +1413,17 @@ comparação à da branca, durante todo experimento, foi`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Glicose marcada com nuclídeos de carbono-11 
-é utilizada na medicina para se obter imagens 
-tridimensionais do cérebro, por meio de tomografia de 
-emissão de pósitrons. A desintegração do carbono-11 
-gera um pósitron, com tempo de meia-vida de 20,4 min, 
-de acordo com a equação da reação nuclear: 
-C 
-B + e 
-11 
-11 
-0 
-6 
-5 
-1 
-(pósitron) 
-A partir da injeção de glicose marcada com esse 
-nuclídeo, o tempo de aquisição de uma imagem de 
-tomografia é de cinco meias-vidas. 
-Considerando que o medicamento contém 1,00 g do 
-carbono-11, a massa, em miligramas, do nuclídeo 
-restante, após a aquisição da imagem, é mais próxima de`,
+    text: `Glicose marcada com nuclídeos de carbono-11 é utilizada na
+medicina para se obter imagens tridimensionais do cérebro, por
+meio de tomografia de emissão de pósitrons. A desintegração do
+carbono-11 gera um pósitron, com tempo de meia-vida de 20,4
+min, de acordo com a equação da reação nuclear: C B + e 11 11
+0 6 5 1 (pósitron) A partir da injeção de glicose marcada com
+esse nuclídeo, o tempo de aquisição de uma imagem de
+tomografia é de cinco meias-vidas. Considerando que o
+medicamento contém 1,00 g do carbono-11, a massa, em
+miligramas, do nuclídeo restante, após a aquisição da imagem,
+é mais próxima de`,
     alternatives: [
       { id: 'A', type: 'text', value: `0,200.` },
       { id: 'B', type: 'text', value: `0,969.` },
@@ -1738,21 +1456,11 @@ Considerando o resultado do experimento, qual a
 contribuição desse médico para a saúde humana?`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `A prevenção de diversas doenças infectocontagiosas 
-em todo o mundo.` },
-      { id: 'B', type: 'text', value: `A compreensão de que vírus podem se multiplicar em 
-matéria orgânica.` },
-      { id: 'C', type: 'text', value: `O 
-tratamento 
-para 
-muitas 
-enfermidades 
-que 
-acometem milhões de pessoas.` },
-      { id: 'D', type: 'text', value: `O estabelecimento da ética na utilização de crianças 
-em modelos experimentais.` },
-      { id: 'E', type: 'text', value: `A explicação de que alguns vírus de animais podem 
-ser transmitidos para os humanos.` },
+      { id: 'A', type: 'text', value: `A prevenção de diversas doenças infectocontagiosas em todo o mundo.` },
+      { id: 'B', type: 'text', value: `A compreensão de que vírus podem se multiplicar em matéria orgânica.` },
+      { id: 'C', type: 'text', value: `O tratamento para muitas enfermidades que acometem milhões de pessoas.` },
+      { id: 'D', type: 'text', value: `O estabelecimento da ética na utilização de crianças em modelos experimentais.` },
+      { id: 'E', type: 'text', value: `A explicação de que alguns vírus de animais podem ser transmitidos para os humanos.` },
     ],
     correct: 'A',
     explanation: `Jenner observou que o contato com o pus da varíola bovina, doença branda, protegia o menino contra a varíola humana, grave e mortal, sem que ele adoecesse. Esse procedimento é a base da vacinação: expor o organismo a um agente semelhante ou atenuado induz imunidade contra a doença grave. A grande contribuição foi, portanto, a possibilidade de prevenir doenças infectocontagiosas por meio da imunização, aplicável a diversas enfermidades no mundo todo. As demais opções não traduzem a contribuição central do experimento. Logo, a resposta é a prevenção de diversas doenças infectocontagiosas em todo o mundo (alternativa A).`,
@@ -1793,21 +1501,13 @@ causada especialmente pelas`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Em viagens de avião, é solicitado aos passageiros 
-o 
-desligamento 
-de 
-todos 
-os 
-aparelhos 
-cujo 
-funcionamento envolva a emissão ou a recepção de 
-ondas eletromagnéticas. O procedimento é utilizado 
-para eliminar fontes de radiação que possam interferir 
-nas comunicações via rádio dos pilotos com a torre 
-de controle. 
-A propriedade das ondas emitidas que justifica o 
-procedimento adotado é o fato de`,
+    text: `Em viagens de avião, é solicitado aos passageiros o
+desligamento de todos os aparelhos cujo funcionamento envolva
+a emissão ou a recepção de ondas eletromagnéticas. O
+procedimento é utilizado para eliminar fontes de radiação que
+possam interferir nas comunicações via rádio dos pilotos com a
+torre de controle. A propriedade das ondas emitidas que
+justifica o procedimento adotado é o fato de`,
     alternatives: [
       { id: 'A', type: 'text', value: `terem fases opostas.` },
       { id: 'B', type: 'text', value: `serem ambas audíveis.` },
@@ -1825,33 +1525,22 @@ procedimento adotado é o fato de`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `As serpentes que habitam regiões de seca podem 
-ficar em jejum por um longo período de tempo devido à 
-escassez de alimento. Assim, a sobrevivência desses 
-predadores 
-está 
-relacionada 
-ao 
-aproveitamento 
-máximo dos nutrientes obtidos com a presa capturada. 
-De acordo com essa situação, essas serpentes 
-apresentam alterações morfológicas e fisiológicas, 
-como o aumento das vilosidades intestinais e a 
-intensificação da irrigação sanguínea na porção interna 
-dessas estruturas. 
-A função do aumento das vilosidades intestinais para 
-essas serpentes é maximizar o(a)`,
+    text: `As serpentes que habitam regiões de seca podem ficar em jejum
+por um longo período de tempo devido à escassez de alimento.
+Assim, a sobrevivência desses predadores está relacionada ao
+aproveitamento máximo dos nutrientes obtidos com a presa
+capturada. De acordo com essa situação, essas serpentes
+apresentam alterações morfológicas e fisiológicas, como o
+aumento das vilosidades intestinais e a intensificação da
+irrigação sanguínea na porção interna dessas estruturas. A
+função do aumento das vilosidades intestinais para essas
+serpentes é maximizar o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `comprimento do trato gastrointestinal para caber 
-mais alimento.` },
-      { id: 'B', type: 'text', value: `área de contato com o conteúdo intestinal para 
-absorção dos nutrientes.` },
-      { id: 'C', type: 'text', value: `liberação de calor via irrigação sanguínea para 
-controle térmico do sistema digestório.` },
-      { id: 'D', type: 'text', value: `secreção de enzimas digestivas para aumentar a 
-degradação proteica no estômago.` },
-      { id: 'E', type: 'text', value: `processo de digestão para diminuir o tempo de 
-permanência do alimento no intestino.` },
+      { id: 'A', type: 'text', value: `comprimento do trato gastrointestinal para caber mais alimento.` },
+      { id: 'B', type: 'text', value: `área de contato com o conteúdo intestinal para absorção dos nutrientes.` },
+      { id: 'C', type: 'text', value: `liberação de calor via irrigação sanguínea para controle térmico do sistema digestório.` },
+      { id: 'D', type: 'text', value: `secreção de enzimas digestivas para aumentar a degradação proteica no estômago.` },
+      { id: 'E', type: 'text', value: `processo de digestão para diminuir o tempo de permanência do alimento no intestino.` },
     ],
     correct: 'B',
     explanation: `O aumento das vilosidades intestinais amplia a superfície interna do intestino. Uma superfície maior significa maior área de contato entre a parede intestinal e o alimento digerido, favorecendo a absorção dos nutrientes. Como essas serpentes passam longos períodos em jejum, aproveitar ao máximo os nutrientes de cada presa é vantajoso para a sobrevivência. As vilosidades não aumentam o comprimento do trato nem servem para controle térmico ou secreção de enzimas no estômago. Portanto, a função é maximizar a área de contato com o conteúdo intestinal para absorção dos nutrientes (alternativa B).`,
@@ -1863,26 +1552,18 @@ permanência do alimento no intestino.` },
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `O uso de embalagens plásticas descartáveis 
-vem crescendo em todo o mundo, juntamente com 
-o problema ambiental gerado por seu descarte 
-inapropriado. O politereftalato de etileno (PET), 
-cuja estrutura é mostrada, tem sido muito utilizado 
-na indústria de refrigerantes e pode ser reciclado 
-e reutilizado. Uma das opções possíveis envolve a 
-produção de matérias-primas, como o etilenoglicol 
-(1,2-etanodiol), a partir de objetos compostos de PET 
-pós-consumo. 
-O
-O
-HO
-C
-C O CH₂CH₂ O
-H
-n
-Disponível em: www.abipet.org.br. Acesso em: 27 fev. 2012 (adaptado).
-Com base nas informações do texto, uma alternativa para 
-a obtenção de etilenoglicol a partir do PET é a`,
+    text: `O uso de embalagens plásticas descartáveis vem crescendo em
+todo o mundo, juntamente com o problema ambiental gerado por
+seu descarte inapropriado. O politereftalato de etileno (PET),
+cuja estrutura é mostrada, tem sido muito utilizado na
+indústria de refrigerantes e pode ser reciclado e reutilizado.
+Uma das opções possíveis envolve a produção de
+matérias-primas, como o etilenoglicol (1,2-etanodiol), a
+partir de objetos compostos de PET pós-consumo. O O HO C C O
+CH₂CH₂ O H n Disponível em: www.abipet.org.br. Acesso em: 27
+fev. 2012 (adaptado). Com base nas informações do texto, uma
+alternativa para a obtenção de etilenoglicol a partir do PET é
+a`,
     images: ['/enem/2013/images/enem_2013_d1_q54.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `solubilização dos objetos.` },
@@ -1972,21 +1653,11 @@ da água, nas situações com a garrafa tampada e
 destampada, respectivamente?`,
     images: ['/enem/2013/images/enem_2013_d1_q57.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Impede a saída de água, por ser maior que a pressão 
-interna; não muda a velocidade de escoamento, que 
-só depende da pressão da coluna de água.` },
-      { id: 'B', type: 'text', value: `Impede a saída de água, por ser maior que a pressão 
-interna; altera a velocidade de escoamento, que é 
-proporcional à pressão atmosférica na altura do furo.` },
-      { id: 'C', type: 'text', value: `Impede a entrada de ar, por ser menor que a pressão 
-interna; altera a velocidade de escoamento, que é 
-proporcional à pressão atmosférica na altura do furo.` },
-      { id: 'D', type: 'text', value: `Impede a saída de água, por ser maior que a pressão 
-interna; regula a velocidade de escoamento, que só 
-depende da pressão atmosférica.` },
-      { id: 'E', type: 'text', value: `Impede a entrada de ar, por ser menor que a pressão 
-interna; não muda a velocidade de escoamento, que 
-só depende da pressão da coluna de água.` },
+      { id: 'A', type: 'text', value: `Impede a saída de água, por ser maior que a pressão interna; não muda a velocidade de escoamento, que só depende da pressão da coluna de água.` },
+      { id: 'B', type: 'text', value: `Impede a saída de água, por ser maior que a pressão interna; altera a velocidade de escoamento, que é proporcional à pressão atmosférica na altura do furo.` },
+      { id: 'C', type: 'text', value: `Impede a entrada de ar, por ser menor que a pressão interna; altera a velocidade de escoamento, que é proporcional à pressão atmosférica na altura do furo.` },
+      { id: 'D', type: 'text', value: `Impede a saída de água, por ser maior que a pressão interna; regula a velocidade de escoamento, que só depende da pressão atmosférica.` },
+      { id: 'E', type: 'text', value: `Impede a entrada de ar, por ser menor que a pressão interna; não muda a velocidade de escoamento, que só depende da pressão da coluna de água.` },
     ],
     correct: 'A',
     explanation: `Com a garrafa tampada, o ar acima da água não se renova e a pressão atmosférica externa, maior que a pressão interna reduzida, impede a saída de água pelos furos. Com a garrafa destampada, a superfície livre fica submetida à pressão atmosférica e a água escoa, sendo a velocidade de saída dependente apenas da altura da coluna de água acima de cada furo (quanto mais fundo o furo, maior a pressão e a velocidade). Assim, na garrafa tampada a pressão atmosférica impede a saída de água por ser maior que a pressão interna; na destampada, ela não altera a velocidade de escoamento, que só depende da coluna de água. Logo, a resposta é a alternativa A.`,
@@ -2043,16 +1714,11 @@ solo onde elas caíram.
 A concentração de O₂ próximo ao solo, no local da 
 queda, será`,
     alternatives: [
-      { id: 'A', type: 'text', value: `menor, pois haverá consumo de O₂ durante a 
-decomposição dessas árvores.` },
-      { id: 'B', type: 'text', value: `maior, pois haverá economia de O₂ pela ausência das 
-árvores mortas.` },
-      { id: 'C', type: 'text', value: `maior, pois haverá liberação de O₂ durante a 
-fotossíntese das árvores jovens.` },
-      { id: 'D', type: 'text', value: `igual, pois haverá consumo e produção de O₂ pelas 
-árvores maduras restantes.` },
-      { id: 'E', type: 'text', value: `menor, pois haverá redução de O₂ pela falta da 
-fotossíntese realizada pelas árvores mortas.` },
+      { id: 'A', type: 'text', value: `menor, pois haverá consumo de O₂ durante a decomposição dessas árvores.` },
+      { id: 'B', type: 'text', value: `maior, pois haverá economia de O₂ pela ausência das árvores mortas.` },
+      { id: 'C', type: 'text', value: `maior, pois haverá liberação de O₂ durante a fotossíntese das árvores jovens.` },
+      { id: 'D', type: 'text', value: `igual, pois haverá consumo e produção de O₂ pelas árvores maduras restantes.` },
+      { id: 'E', type: 'text', value: `menor, pois haverá redução de O₂ pela falta da fotossíntese realizada pelas árvores mortas.` },
     ],
     correct: 'A',
     explanation: `Em florestas maduras, o consumo de O₂ pela respiração se iguala à produção pela fotossíntese, mantendo o equilíbrio gasoso. Quando árvores morrem e caem, seus restos são decompostos por microrganismos, processo que consome oxigênio na respiração aeróbia dos decompositores. Próximo ao solo, onde se acumula essa matéria morta, o consumo de O₂ pela decomposição faz sua concentração diminuir. Portanto, a concentração de O₂ no local da queda será menor, pois haverá consumo de O₂ durante a decomposição dessas árvores (alternativa A).`,
@@ -2080,12 +1746,9 @@ Apesar de ser um comportamento aparentemente
 desvantajoso para os machos, o canibalismo sexual 
 evoluiu nesses táxons animais porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `promove a maior ocupação de diferentes nichos 
-ecológicos pela espécie.` },
-      { id: 'B', type: 'text', value: `favorece o sucesso reprodutivo individual de ambos 
-os parentais.` },
-      { id: 'C', type: 'text', value: `impossibilita a transmissão de genes do macho para 
-a prole.` },
+      { id: 'A', type: 'text', value: `promove a maior ocupação de diferentes nichos ecológicos pela espécie.` },
+      { id: 'B', type: 'text', value: `favorece o sucesso reprodutivo individual de ambos os parentais.` },
+      { id: 'C', type: 'text', value: `impossibilita a transmissão de genes do macho para a prole.` },
       { id: 'D', type: 'text', value: `impede a sobrevivência e reprodução futura do macho.` },
       { id: 'E', type: 'text', value: `reduz a variabilidade genética da população.` },
     ],
@@ -2257,46 +1920,21 @@ um valor mais próximo de`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Para serrar ossos e carnes congeladas, um 
-açougueiro utiliza uma serra de fita que possui três polias 
-e um motor. O equipamento pode ser montado de duas 
-formas diferentes, P e Q. Por questão de segurança, é 
-necessário que a serra possua menor velocidade linear. 
-Serra 
-de fita 
-Serra 
-de fita 
-Polia 3 
-Polia 3 
-Polia 2 
-Polia 2 
-Motor 
-Motor 
-Polia 1 
-Polia 1 
-Correia 
-Correia 
-Montagem P 
-Montagem Q 
-Por qual montagem o açougueiro deve optar e qual a 
-justificativa desta opção?`,
+    text: `Para serrar ossos e carnes congeladas, um açougueiro utiliza
+uma serra de fita que possui três polias e um motor. O
+equipamento pode ser montado de duas formas diferentes, P e Q.
+Por questão de segurança, é necessário que a serra possua
+menor velocidade linear. Serra de fita Serra de fita Polia 3
+Polia 3 Polia 2 Polia 2 Motor Motor Polia 1 Polia 1 Correia
+Correia Montagem P Montagem Q Por qual montagem o açougueiro
+deve optar e qual a justificativa desta opção?`,
     images: ['/enem/2013/images/enem_2013_d1_q66.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Q, pois as polias 1 e 3 giram com velocidades lineares 
-iguais em pontos periféricos e a que tiver maior raio 
-terá menor frequência.` },
-      { id: 'B', type: 'text', value: `Q, pois as polias 1 e 3 giram com frequências iguais e 
-a que tiver maior raio terá menor velocidade linear em 
-um ponto periférico.` },
-      { id: 'C', type: 'text', value: `P, pois as polias 2 e 3 giram com frequências diferentes 
-e a que tiver maior raio terá menor velocidade linear 
-em um ponto periférico.` },
-      { id: 'D', type: 'text', value: `P, pois as polias 1 e 2 giram com diferentes velocidades 
-lineares em pontos periféricos e a que tiver menor 
-raio terá maior frequência.` },
-      { id: 'E', type: 'text', value: `Q, pois as polias 2 e 3 giram com diferentes 
-velocidades lineares em pontos periféricos e a que 
-tiver maior raio terá menor frequência.` },
+      { id: 'A', type: 'text', value: `Q, pois as polias 1 e 3 giram com velocidades lineares iguais em pontos periféricos e a que tiver maior raio terá menor frequência.` },
+      { id: 'B', type: 'text', value: `Q, pois as polias 1 e 3 giram com frequências iguais e a que tiver maior raio terá menor velocidade linear em um ponto periférico.` },
+      { id: 'C', type: 'text', value: `P, pois as polias 2 e 3 giram com frequências diferentes e a que tiver maior raio terá menor velocidade linear em um ponto periférico.` },
+      { id: 'D', type: 'text', value: `P, pois as polias 1 e 2 giram com diferentes velocidades lineares em pontos periféricos e a que tiver menor raio terá maior frequência.` },
+      { id: 'E', type: 'text', value: `Q, pois as polias 2 e 3 giram com diferentes velocidades lineares em pontos periféricos e a que tiver maior raio terá menor frequência.` },
     ],
     correct: 'A',
     explanation: `As polias 1 e 3 são ligadas pela correia, de modo que pontos em suas periferias têm a mesma velocidade linear (igual à da correia). Para cada polia vale v = ω·R = 2π·f·R; assim, com a mesma velocidade periférica, a polia de maior raio gira com menor frequência de rotação. Como a serra de fita deve ter a menor velocidade linear, por segurança, ela fica acoplada à polia de maior raio. Essas condições correspondem à montagem Q, em que as polias 1 e 3 têm velocidades lineares iguais nos pontos periféricos e a de maior raio tem menor frequência. Portanto, a resposta é a alternativa A.`,
@@ -2335,35 +1973,18 @@ minimizar o agravamento do efeito estufa?`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `O glifosato (C₃H₈NO₅P) é um herbicida pertencente
-ao grupo químico das glicinas, classificado como não 
-seletivo. Esse composto possui os grupos funcionais 
-carboxilato, amino e fosfonato. A degradação do glifosato 
-no solo é muito rápida e realizada por grande variedade 
-de microrganismos, que usam o produto como fonte 
-de energia e fósforo. Os produtos da degradação são 
-o ácido aminometilfosfônico (AMPA) e o N-metilglicina 
-(sarcosina): 
-Glifosato 
-H₂N 
-O 
-O 
-P 
-H₃C 
-NH 
-OH 
-OH 
-OH 
-Sarcosina 
-AMPA 
-AMARANTE JR., O. P. et al. Química Nova , São Paulo, v. 25, n. 3, 2002 (adaptado). 
-A partir do texto e dos produtos de degradação 
-apresentados, a estrutura química que representa o 
-glifosato é: 
-O 
-O 
-P 
-H₂N`,
+    text: `O glifosato (C₃H₈NO₅P) é um herbicida pertencente ao grupo
+químico das glicinas, classificado como não seletivo. Esse
+composto possui os grupos funcionais carboxilato, amino e
+fosfonato. A degradação do glifosato no solo é muito rápida e
+realizada por grande variedade de microrganismos, que usam o
+produto como fonte de energia e fósforo. Os produtos da
+degradação são o ácido aminometilfosfônico (AMPA) e o
+N-metilglicina (sarcosina): Glifosato H₂N O O P H₃C NH OH OH
+OH Sarcosina AMPA AMARANTE JR., O. P. et al. Química Nova ,
+São Paulo, v. 25, n. 3, 2002 (adaptado). A partir do texto e
+dos produtos de degradação apresentados, a estrutura química
+que representa o glifosato é: O O P H₂N`,
     images: ['/enem/2013/images/enem_2013_d1_q68.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `A` },
@@ -2412,25 +2033,13 @@ adicionada ao meio é o`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Cinco casais alegavam ser os pais de um bebê. 
-A confirmação da paternidade foi obtida pelo exame 
-de DNA. O resultado do teste está esquematizado na 
-figura, em que cada casal apresenta um padrão com 
-duas bandas de DNA (faixas, uma para o suposto pai e 
-outra para a suposta mãe), comparadas à do bebê. 
-1 
-2 
-3 
-4 
-5 
-Bebê 
-Pai Mãe 
-Pai Mãe 
-Pai Mãe 
-Pai Mãe 
-Pai Mãe 
-Que casal pode ser considerado como pais biológicos 
-do bebê?`,
+    text: `Cinco casais alegavam ser os pais de um bebê. A confirmação da
+paternidade foi obtida pelo exame de DNA. O resultado do teste
+está esquematizado na figura, em que cada casal apresenta um
+padrão com duas bandas de DNA (faixas, uma para o suposto pai
+e outra para a suposta mãe), comparadas à do bebê. 1 2 3 4 5
+Bebê Pai Mãe Pai Mãe Pai Mãe Pai Mãe Pai Mãe Que casal pode
+ser considerado como pais biológicos do bebê?`,
     images: ['/enem/2013/images/enem_2013_d1_q70.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1` },
@@ -2449,33 +2058,21 @@ do bebê?`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `A varfarina é um fármaco que diminui a agregação 
-plaquetária, e por isso é utilizada como anticoagulante, 
-desde que esteja presente no plasma, com uma 
-concentração 
-superior 
-a 
-1,0 
-mg/L. 
-Entretanto, 
-concentrações plasmáticas superiores a 4,0 mg/L 
-podem 
-desencadear 
-hemorragias. 
-As 
-moléculas 
-desse fármaco ficam retidas no espaço intravascular e 
-dissolvidas exclusivamente no plasma, que representa 
-aproximadamente 60% do sangue em volume. 
-Em um medicamento, a varfarina é administrada por 
-via intravenosa na forma de solução aquosa, com 
-concentração de 3,0 mg/mL. Um indivíduo adulto, com 
-volume sanguíneo total de 5,0 L, será submetido a um 
-tratamento com solução injetável desse medicamento. 
-Qual é o máximo volume da solução do medicamento 
-que pode ser administrado a esse indivíduo, pela via 
-intravenosa, de maneira que não ocorram hemorragias 
-causadas pelo anticoagulante?`,
+    text: `A varfarina é um fármaco que diminui a agregação plaquetária,
+e por isso é utilizada como anticoagulante, desde que esteja
+presente no plasma, com uma concentração superior a 1,0 mg/L.
+Entretanto, concentrações plasmáticas superiores a 4,0 mg/L
+podem desencadear hemorragias. As moléculas desse fármaco
+ficam retidas no espaço intravascular e dissolvidas
+exclusivamente no plasma, que representa aproximadamente 60%
+do sangue em volume. Em um medicamento, a varfarina é
+administrada por via intravenosa na forma de solução aquosa,
+com concentração de 3,0 mg/mL. Um indivíduo adulto, com volume
+sanguíneo total de 5,0 L, será submetido a um tratamento com
+solução injetável desse medicamento. Qual é o máximo volume da
+solução do medicamento que pode ser administrado a esse
+indivíduo, pela via intravenosa, de maneira que não ocorram
+hemorragias causadas pelo anticoagulante?`,
     alternatives: [
       { id: 'A', type: 'text', value: `1,0 mL` },
       { id: 'B', type: 'text', value: `1,7 mL` },
@@ -2493,27 +2090,16 @@ causadas pelo anticoagulante?`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Um eletricista analisa o diagrama de uma instalação elétrica residencial para planejar medições de tensão e 
-corrente em uma cozinha. Nesse ambiente existem uma geladeira (G), uma tomada (T) e uma lâmpada (L), conforme 
-a figura. O eletricista deseja medir a tensão elétrica aplicada à geladeira, a corrente total e a corrente na lâmpada. 
-Para isso, ele dispõe de um voltímetro (V) e dois amperímetros (A). 
-Fase 
-G 
-T 
-L 
-Neutro 
-Para realizar essas medidas, o esquema da ligação desses instrumentos está representado em: 
-A 
-Fase 
-V 
-A 
-A 
-T 
-G 
-L 
-Neutro 
-Fase 
-V`,
+    text: `Um eletricista analisa o diagrama de uma instalação elétrica
+residencial para planejar medições de tensão e corrente em uma
+cozinha. Nesse ambiente existem uma geladeira (G), uma tomada
+(T) e uma lâmpada (L), conforme a figura. O eletricista deseja
+medir a tensão elétrica aplicada à geladeira, a corrente total
+e a corrente na lâmpada. Para isso, ele dispõe de um
+voltímetro (V) e dois amperímetros (A). Fase G T L Neutro Para
+realizar essas medidas, o esquema da ligação desses
+instrumentos está representado em: A Fase V A A T G L Neutro
+Fase V`,
     images: ['/enem/2013/images/enem_2013_d1_q72.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `A` },
@@ -2532,40 +2118,7 @@ V`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Uma indústria está escolhendo uma linhagem de microalgas que otimize a secreção de polímeros comestíveis, 
-os quais são obtidos do meio de cultura de crescimento. Na figura podem ser observadas as proporções de algumas 
-organelas presentes no citoplasma de cada linhagem. 
-Perfil celular das linhagens de microalgas 
-100% 
-90% 
-80% 
-70% 
-60% 
-50% 
-40% 
-30% 
-20% 
-10% 
-0% 
-Quantidade de organelas 
-Linhagem I 
-Linhagem II 
-Linhagem III 
-Linhagem IV 
-Linhagem V 
-20 
-20 
-50 
-10 
-20 
-35 
-40 
-5 
-Núcleo 
-Retículo endoplasmático
-Complexo golgiense 
-Mitocôndrias 
-Qual é a melhor linhagem para se conseguir maior rendimento de polímeros secretados no meio de cultura?`,
+    text: ``,
     images: ['/enem/2013/images/enem_2013_d1_q73.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I` },
@@ -2649,8 +2202,7 @@ força de atrito exercida pelo chão em seus pés.
 Em relação ao movimento dessa pessoa, quais são a 
 direção e o sentido da força de atrito mencionada no texto?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Perpendicular ao plano e no mesmo sentido do 
-movimento.` },
+      { id: 'A', type: 'text', value: `Perpendicular ao plano e no mesmo sentido do movimento.` },
       { id: 'B', type: 'text', value: `Paralelo ao plano e no sentido contrário ao movimento.` },
       { id: 'C', type: 'text', value: `Paralelo ao plano e no mesmo sentido do movimento.` },
       { id: 'D', type: 'text', value: `Horizontal e no mesmo sentido do movimento.` },
@@ -2744,12 +2296,9 @@ rapidez com que`,
     alternatives: [
       { id: 'A', type: 'text', value: `o fluido elétrico se desloca no circuito.` },
       { id: 'B', type: 'text', value: `as cargas negativas móveis atravessam o circuito.` },
-      { id: 'C', type: 'text', value: `a bateria libera cargas móveis para o filamento da 
-lâmpada.` },
-      { id: 'D', type: 'text', value: `o campo elétrico se estabelece em todos os pontos 
-do circuito.` },
-      { id: 'E', type: 'text', value: `as cargas positivas e negativas se chocam no 
-filamento da lâmpada.` },
+      { id: 'C', type: 'text', value: `a bateria libera cargas móveis para o filamento da lâmpada.` },
+      { id: 'D', type: 'text', value: `o campo elétrico se estabelece em todos os pontos do circuito.` },
+      { id: 'E', type: 'text', value: `as cargas positivas e negativas se chocam no filamento da lâmpada.` },
     ],
     correct: 'D',
     explanation: `No modelo clássico, a corrente seria o deslocamento das próprias cargas ao longo do fio, que levariam certo tempo para chegar até o filamento, o que não explicaria o acendimento quase instantâneo. Na realidade, ao fechar a chave, o campo elétrico se propaga quase à velocidade da luz e se estabelece praticamente ao mesmo tempo em todos os pontos do circuito, colocando os elétrons em movimento simultaneamente. Por isso a lâmpada acende quase de imediato, em desacordo com o modelo clássico. Portanto, o acendimento está relacionado ao fato de o campo elétrico se estabelecer em todos os pontos do circuito (alternativa D).`,
@@ -2811,26 +2360,19 @@ sulfato de alumínio com as impurezas aderidas é a`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Em um piano, o Dó central e a próxima nota Dó (Dó 
-maior) apresentam sons parecidos, mas não idênticos. 
-É possível utilizar programas computacionais para 
-expressar o formato dessas ondas sonoras em cada 
-uma das situações como apresentado nas figuras, em 
-que estão indicados intervalos de tempo idênticos (T). 
-T 
-T 
-Dó central 
-Dó maior 
-A razão entre as frequências do Dó central e do Dó 
-maior é de:`,
+    text: `Em um piano, o Dó central e a próxima nota Dó (Dó maior)
+apresentam sons parecidos, mas não idênticos. É possível
+utilizar programas computacionais para expressar o formato
+dessas ondas sonoras em cada uma das situações como
+apresentado nas figuras, em que estão indicados intervalos de
+tempo idênticos (T). T T Dó central Dó maior A razão entre as
+frequências do Dó central e do Dó maior é de:`,
     images: ['/enem/2013/images/enem_2013_d1_q82.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `1 
-2` },
+      { id: 'A', type: 'text', value: `1 2` },
       { id: 'B', type: 'text', value: `2` },
       { id: 'C', type: 'text', value: `1` },
-      { id: 'D', type: 'text', value: `1 
-4` },
+      { id: 'D', type: 'text', value: `1 4` },
       { id: 'E', type: 'text', value: `4` },
     ],
     correct: 'A',
@@ -2843,23 +2385,16 @@ maior é de:`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Medir temperatura é fundamental em muitas aplicações, 
-e apresentar a leitura em mostradores digitais é bastante 
-prático. O seu funcionamento é baseado na correspondência 
-entre valores de temperatura e de diferença de potencial 
-elétrico. Por exemplo, podemos usar o circuito elétrico 
-apresentado, no qual o elemento sensor de temperatura 
-ocupa um dos braços do circuito (R s ) e a dependência da 
-resistência com a temperatura é conhecida. 
-470 Ω 
-470 Ω 
-+ 
-10 V 
-Voltímetro 
-R S = 100 Ω 
-120 Ω 
-Para um valor de temperatura em que R S = 100 Ω , a 
-leitura apresentada pelo voltímetro será de`,
+    text: `Medir temperatura é fundamental em muitas aplicações, e
+apresentar a leitura em mostradores digitais é bastante
+prático. O seu funcionamento é baseado na correspondência
+entre valores de temperatura e de diferença de potencial
+elétrico. Por exemplo, podemos usar o circuito elétrico
+apresentado, no qual o elemento sensor de temperatura ocupa um
+dos braços do circuito (R s ) e a dependência da resistência
+com a temperatura é conhecida. 470 Ω 470 Ω + 10 V Voltímetro R
+S = 100 Ω 120 Ω Para um valor de temperatura em que R S = 100
+Ω , a leitura apresentada pelo voltímetro será de`,
     images: ['/enem/2013/images/enem_2013_d1_q83.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `+ 6,2 V.` },
@@ -2896,23 +2431,10 @@ As populações de espécies invasoras crescem bastante
 por terem a vantagem de`,
     alternatives: [
       { id: 'A', type: 'text', value: `não apresentarem genes deletérios no seu pool gênico.` },
-      { id: 'B', type: 'text', value: `não possuírem parasitas e predadores naturais 
-presentes no ambiente exótico.` },
-      { id: 'C', type: 'text', value: `apresentarem características genéticas para se 
-adaptarem a qualquer clima ou condição ambiental.` },
-      { id: 'D', type: 'text', value: `apresentarem 
-capacidade 
-de 
-consumir 
-toda 
-a variedade de alimentos disponibilizados no 
-ambiente exótico.` },
-      { id: 'E', type: 'text', value: `apresentarem 
-características 
-fisiológicas 
-que 
-lhes conferem maior tamanho corporal que o das 
-espécies nativas.` },
+      { id: 'B', type: 'text', value: `não possuírem parasitas e predadores naturais presentes no ambiente exótico.` },
+      { id: 'C', type: 'text', value: `apresentarem características genéticas para se adaptarem a qualquer clima ou condição ambiental.` },
+      { id: 'D', type: 'text', value: `apresentarem capacidade de consumir toda a variedade de alimentos disponibilizados no ambiente exótico.` },
+      { id: 'E', type: 'text', value: `apresentarem características fisiológicas que lhes conferem maior tamanho corporal que o das espécies nativas.` },
     ],
     correct: 'B',
     explanation: `Ao serem levadas a um novo ambiente, as espécies invasoras deixam para trás os parasitas e predadores naturais que, na região de origem, controlavam suas populações. Sem esses inimigos naturais no ambiente exótico, elas se reproduzem e crescem sem controle, ocupando o espaço das espécies nativas. Essa é a principal vantagem que explica o crescimento acelerado dessas populações invasoras. Portanto, as populações de espécies invasoras crescem por não possuírem parasitas e predadores naturais presentes no ambiente exótico (alternativa B).`,
@@ -2924,28 +2446,18 @@ espécies nativas.` },
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Desenvolve-se um dispositivo para abrir automaticamente uma porta no qual um botão, quando acionado, faz com 
-que uma corrente elétrica i = 6 A percorra uma barra condutora de comprimento L = 5 cm, cujo ponto médio está preso
-a uma mola de constante elástica k = 5 × 10⁻² N/cm. O sistema mola-condutor está imerso em um campo magnético
-uniforme perpendicular ao plano. Quando acionado o botão, a barra sairá da posição de equilíbrio a uma velocidade 
-média de 5 m/s e atingirá a catraca em 6 milisegundos, abrindo a porta. 
-fio 
-catraca 
-i 
-i 
-L 
-k 
-x 
-x 
-v 
-x 
-x 
-x 
-x 
-x (cm) 
-C 
-0 
-A intensidade do campo magnético, para que o dispositivo funcione corretamente, é de`,
+    text: `Desenvolve-se um dispositivo para abrir automaticamente uma
+porta no qual um botão, quando acionado, faz com que uma
+corrente elétrica i = 6 A percorra uma barra condutora de
+comprimento L = 5 cm, cujo ponto médio está preso a uma mola
+de constante elástica k = 5 × 10⁻² N/cm. O sistema
+mola-condutor está imerso em um campo magnético uniforme
+perpendicular ao plano. Quando acionado o botão, a barra sairá
+da posição de equilíbrio a uma velocidade média de 5 m/s e
+atingirá a catraca em 6 milisegundos, abrindo a porta. fio
+catraca i i L k x x v x x x x x (cm) C 0 A intensidade do
+campo magnético, para que o dispositivo funcione corretamente,
+é de`,
     images: ['/enem/2013/images/enem_2013_d1_q85.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `5 × 10⁻¹ T.` },
@@ -2964,30 +2476,18 @@ A intensidade do campo magnético, para que o dispositivo funcione corretamente,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `As fraldas descartáveis que contêm o polímero poliacrilato de sódio (1) são mais eficientes na retenção de água 
-que as fraldas de pano convencionais, constituídas de fibras de celulose (2). 
-n 
-O 
-- 
-+ 
-n 
-O Na 
-O 
-(1) 
-(2) 
-A maior eficiência dessas fraldas descartáveis, em relação às de pano, deve-se às`,
+    text: `As fraldas descartáveis que contêm o polímero poliacrilato de
+sódio (1) são mais eficientes na retenção de água que as
+fraldas de pano convencionais, constituídas de fibras de
+celulose (2). n O - + n O Na O (1) (2) A maior eficiência
+dessas fraldas descartáveis, em relação às de pano, deve-se às`,
     images: ['/enem/2013/images/enem_2013_d1_q86.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `interações dipolo-dipolo mais fortes entre o poliacrilato e a água, em relação às ligações de hidrogênio entre a 
-celulose e as moléculas de água.` },
-      { id: 'B', type: 'text', value: `interações íon-íon mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio 
-entre a celulose e as moléculas de água.` },
-      { id: 'C', type: 'text', value: `ligações de hidrogênio mais fortes entre o poliacrilato e a água, em relação às interações íon-dipolo entre a 
-celulose e as moléculas de água.` },
-      { id: 'D', type: 'text', value: `ligações de hidrogênio mais fortes entre o poliacrilato e as moléculas de água, em relação às interações dipolo 
-induzido-dipolo induzido entre a celulose e as moléculas de água.` },
-      { id: 'E', type: 'text', value: `interações íon-dipolo mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio 
-entre a celulose e as moléculas de água.` },
+      { id: 'A', type: 'text', value: `interações dipolo-dipolo mais fortes entre o poliacrilato e a água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.` },
+      { id: 'B', type: 'text', value: `interações íon-íon mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.` },
+      { id: 'C', type: 'text', value: `ligações de hidrogênio mais fortes entre o poliacrilato e a água, em relação às interações íon-dipolo entre a celulose e as moléculas de água.` },
+      { id: 'D', type: 'text', value: `ligações de hidrogênio mais fortes entre o poliacrilato e as moléculas de água, em relação às interações dipolo induzido-dipolo induzido entre a celulose e as moléculas de água.` },
+      { id: 'E', type: 'text', value: `interações íon-dipolo mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.` },
     ],
     correct: 'E',
     explanation: `O poliacrilato de sódio possui grupos iônicos (–COO⁻ Na⁺), que interagem com a água por forças íon-dipolo, relativamente intensas. Já a celulose interage com a água apenas por ligações de hidrogênio, por meio de suas hidroxilas, interações mais fracas que as íon-dipolo. Como as interações íon-dipolo do poliacrilato com a água são mais fortes, ele retém muito mais água que a celulose. Portanto, a maior eficiência das fraldas descartáveis deve-se às interações íon-dipolo mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e a água (alternativa E).`,
@@ -2999,16 +2499,14 @@ entre a celulose e as moléculas de água.` },
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: `Em um dia sem vento, ao saltar de um avião, um paraquedista cai verticalmente até atingir a velocidade limite. No instante 
-em que o paraquedas é aberto (instante T A ), ocorre a diminuição de sua velocidade de queda. Algum tempo após a abertura 
-do paraquedas, ele passa a ter velocidade de queda constante, que possibilita sua aterrissagem em segurança.  
-Que gráfico representa a força resultante sobre o paraquedista, durante o seu movimento de queda? 
-Força 
-resultante 
-A 
-Tempo 
-0 
-T`,
+    text: `Em um dia sem vento, ao saltar de um avião, um paraquedista
+cai verticalmente até atingir a velocidade limite. No instante
+em que o paraquedas é aberto (instante T A ), ocorre a
+diminuição de sua velocidade de queda. Algum tempo após a
+abertura do paraquedas, ele passa a ter velocidade de queda
+constante, que possibilita sua aterrissagem em segurança. Que
+gráfico representa a força resultante sobre o paraquedista,
+durante o seu movimento de queda? Força resultante A Tempo 0 T`,
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2013/images/enem_2013_d1_q87_A.jpg` },
       { id: 'B', type: 'image', value: `/enem/2013/images/enem_2013_d1_q87_B.jpg` },

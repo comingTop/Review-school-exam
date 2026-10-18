@@ -52,16 +52,11 @@ Na representação escrita da conversa telefônica entre a
 gerente do banco e o cliente, observa-se que a maneira de 
 falar da gerente foi alterada de repente devido`,
     alternatives: [
-      { id: 'A', type: 'text', value: `à adequação de sua fala à conversa com um amigo, 
-caracterizada pela informalidade.` },
-      { id: 'B', type: 'text', value: `à iniciativa do cliente em se apresentar como 
-funcionário do banco.` },
-      { id: 'C', type: 'text', value: `ao fato de ambos terem nascido em Uberlândia (Minas 
-Gerais).` },
-      { id: 'D', type: 'text', value: `à intimidade forçada pelo cliente ao fornecer seu nome 
-completo.` },
-      { id: 'E', type: 'text', value: `ao seu interesse profissional em financiar o veículo de 
-Júlio.` },
+      { id: 'A', type: 'text', value: `à adequação de sua fala à conversa com um amigo, caracterizada pela informalidade.` },
+      { id: 'B', type: 'text', value: `à iniciativa do cliente em se apresentar como funcionário do banco.` },
+      { id: 'C', type: 'text', value: `ao fato de ambos terem nascido em Uberlândia (Minas Gerais).` },
+      { id: 'D', type: 'text', value: `à intimidade forçada pelo cliente ao fornecer seu nome completo.` },
+      { id: 'E', type: 'text', value: `ao seu interesse profissional em financiar o veículo de Júlio.` },
     ],
     correct: 'A',
     explanation: `Gabarito: A. O texto reproduz uma conversa telefônica que começa em registro formal (tratamento por "o senhor") e muda bruscamente quando a gerente reconhece o cliente como um conhecido ("Julinho, é você, cara?"). Essa mudança ocorre porque a identificação de um amigo leva a gerente a adequar sua fala a uma situação de intimidade, adotando um registro informal e espontâneo, o que corresponde à alternativa A. As demais falham: a mudança não decorre de o cliente ser funcionário do banco (B) nem de ambos terem nascido em Uberlândia (C); não há intimidade "forçada" pelo cliente (D), e o interesse profissional (E) marcaria justamente a formalidade, não a quebra dela.`,
@@ -86,26 +81,10 @@ propõe mudanças de comportamento direcionadas`,
     images: ['/enem/2009/images/enem_2009_d2_q93.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `ao adolescente que acessa sites de entretenimento.` },
-      { id: 'B', type: 'text', value: `ao 
-profissional 
-interessado 
-em 
-aperfeiçoamento 
-tecnológico.` },
-      { id: 'C', type: 'text', value: `à pessoa que usa os sites de relacionamento para 
-complementar seu círculo de amizades.` },
-      { id: 'D', type: 'text', value: `ao usuário que reserva mais tempo aos sites de 
-relacionamento do que ao convívio pessoal com os 
-amigos.` },
-      { id: 'E', type: 'text', value: `ao leitor que se interessa em aprender sobre o 
-funcionamento 
-de 
-diversos 
-tipos 
-de 
-sites 
-de 
-relacionamento.` },
+      { id: 'B', type: 'text', value: `ao profissional interessado em aperfeiçoamento tecnológico.` },
+      { id: 'C', type: 'text', value: `à pessoa que usa os sites de relacionamento para complementar seu círculo de amizades.` },
+      { id: 'D', type: 'text', value: `ao usuário que reserva mais tempo aos sites de relacionamento do que ao convívio pessoal com os amigos.` },
+      { id: 'E', type: 'text', value: `ao leitor que se interessa em aprender sobre o funcionamento de diversos tipos de sites de relacionamento.` },
     ],
     correct: 'D',
     explanation: `Gabarito: D. O teste descrito classifica o usuário de redes sociais em perfis (pragmático, fanático, aprendiz) e, ao comentar o perfil "fanático", recomenda ao internauta sair mais de casa e reencontrar os amigos pessoalmente. Logo, a preocupação e a proposta de mudança de comportamento dirigem-se ao usuário que dedica mais tempo aos sites de relacionamento do que ao convívio pessoal, como afirma a alternativa D. As demais falham por desviarem o foco: não se trata de sites de entretenimento (A), de aperfeiçoamento tecnológico (B), de quem usa as redes apenas como complemento das amizades (C) nem de ensinar o funcionamento dos sites (E).`,
@@ -127,21 +106,11 @@ foram compostas.
  `,
     images: ['/enem/2009/images/enem_2009_d2_q94.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `1 executa um gênero característico da música 
-brasileira, conhecido como chorinho.` },
-      { id: 'B', type: 'text', value: `2 executa um gênero característico da música 
-clássica, cujo compositor mais conhecido é Tom 
-Jobim.` },
-      { id: 'C', type: 'text', value: `3 executa um gênero característico da música 
-europeia, que tem como representantes Beethoven e 
-Mozart.` },
-      { id: 'D', type: 'text', value: `4 executa um tipo de música caracterizada pelos 
-instrumentos acústicos, cuja intensidade e nível de 
-ruído permanecem na faixa dos 30 aos 40 decibéis.` },
-      { id: 'E', type: 'text', value: `1 a 4 apresentam um produto final bastante 
-semelhante, uma vez que as possibilidades de 
-combinações sonoras ao longo do tempo são 
-limitadas.` },
+      { id: 'A', type: 'text', value: `1 executa um gênero característico da música brasileira, conhecido como chorinho.` },
+      { id: 'B', type: 'text', value: `2 executa um gênero característico da música clássica, cujo compositor mais conhecido é Tom Jobim.` },
+      { id: 'C', type: 'text', value: `3 executa um gênero característico da música europeia, que tem como representantes Beethoven e Mozart.` },
+      { id: 'D', type: 'text', value: `4 executa um tipo de música caracterizada pelos instrumentos acústicos, cuja intensidade e nível de ruído permanecem na faixa dos 30 aos 40 decibéis.` },
+      { id: 'E', type: 'text', value: `1 a 4 apresentam um produto final bastante semelhante, uma vez que as possibilidades de combinações sonoras ao longo do tempo são limitadas.` },
     ],
     correct: 'A',
     explanation: `Gabarito: A. O texto afirma que a música resulta de combinações de sons que variam conforme instrumentos, estilo e época, e a questão pede a conclusão correta sobre os grupos das figuras. A alternativa A é adequada porque a figura 1 mostra um conjunto com instrumentos típicos (violão, cavaquinho, flauta) de um gênero genuinamente brasileiro, o chorinho. As demais erram nas associações: a figura 2 não executa música clássica de Tom Jobim (B); a figura 3 não representa o repertório europeu de Beethoven e Mozart (C); a figura 4, de uma banda de rock, não se caracteriza por intensidade baixa de 30 a 40 decibéis (D); e as possibilidades sonoras não são limitadas, tampouco os produtos finais são semelhantes (E).`,
@@ -178,14 +147,10 @@ descrição acima do balé Parade, o qual reflete`,
     images: null,
     alternatives: [
       { id: 'A', type: 'text', value: `a falta de diversidade cultural na sua proposta estética.` },
-      { id: 'B', type: 'text', value: `a alienação dos artistas em relação às tensões da 
-Segunda Guerra Mundial.` },
-      { id: 'C', type: 'text', value: `uma disputa cênica entre as linguagens das artes 
-visuais, do figurino e da música.` },
-      { id: 'D', type: 'text', value: `as inovações tecnológicas nas partes cênicas, 
-musicais, coreográficas e de figurino.` },
-      { id: 'E', type: 'text', value: `uma narrativa com encadeamentos claramente lógicos 
-e lineares.` },
+      { id: 'B', type: 'text', value: `a alienação dos artistas em relação às tensões da Segunda Guerra Mundial.` },
+      { id: 'C', type: 'text', value: `uma disputa cênica entre as linguagens das artes visuais, do figurino e da música.` },
+      { id: 'D', type: 'text', value: `as inovações tecnológicas nas partes cênicas, musicais, coreográficas e de figurino.` },
+      { id: 'E', type: 'text', value: `uma narrativa com encadeamentos claramente lógicos e lineares.` },
     ],
     correct: 'D',
     explanation: `Gabarito: D. O texto descreve o balé Parade (1917) como espetáculo de vanguarda em que se combinam cenário e figurino de Picasso, música de Satie mesclada a ruídos (máquina de escrever, sirene, dínamo, aeroplano) e gestualidade teatral justaposta. Essa descrição revela a reunião e a inovação integrada das diferentes linguagens da cena — partes cênicas, musicais, coreográficas e de figurino —, o que corresponde à alternativa D. As demais falham: o balé exibe grande diversidade cultural, não falta dela (A); a obra é engajada e provocativa, não alienada (B); há convergência e não disputa entre as linguagens (C); e a estrutura é de justaposição e colagem, não uma narrativa lógica e linear (E).`,
@@ -201,16 +166,11 @@ e lineares.` },
 adesão do leitor à campanha institucional incluem`,
     images: ['/enem/2009/images/enem_2009_d2_q96.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `o emprego de enumeração de itens e apresentação de 
-títulos expressivos.` },
-      { id: 'B', type: 'text', value: `o uso de orações subordinadas condicionais e 
-temporais.` },
-      { id: 'C', type: 'text', value: `o emprego de pronomes como “você” e “sua” e o uso 
-do imperativo.` },
-      { id: 'D', type: 'text', value: `a construção de figuras metafóricas e o uso de 
-repetição.` },
-      { id: 'E', type: 'text', value: `o fornecimento de número de telefone gratuito para 
-contato.` },
+      { id: 'A', type: 'text', value: `o emprego de enumeração de itens e apresentação de títulos expressivos.` },
+      { id: 'B', type: 'text', value: `o uso de orações subordinadas condicionais e temporais.` },
+      { id: 'C', type: 'text', value: `o emprego de pronomes como “você” e “sua” e o uso do imperativo.` },
+      { id: 'D', type: 'text', value: `a construção de figuras metafóricas e o uso de repetição.` },
+      { id: 'E', type: 'text', value: `o fornecimento de número de telefone gratuito para contato.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. A campanha institucional sobre a Influenza A busca envolver o leitor e levá-lo à ação, e a questão pede os recursos linguísticos que produzem esse engajamento. A alternativa C é correta porque o texto se dirige diretamente ao interlocutor com pronomes de segunda pessoa ("você", "sua") e emprega verbos no imperativo ("evite", "entre em contato", "lave"), recursos típicos da função apelativa que convocam o leitor a agir. As demais falham: a simples enumeração de itens (A), as orações condicionais e temporais (B), as figuras metafóricas (D) e o número de telefone (E) não são os principais responsáveis pela adesão e pelo envolvimento do destinatário.`,
@@ -225,16 +185,11 @@ contato.` },
     text: `O texto tem o objetivo de solucionar um problema social,`,
     images: ['/enem/2009/images/enem_2009_d2_q97.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `descrevendo a situação do país em relação à gripe 
-suína.` },
-      { id: 'B', type: 'text', value: `alertando a população para o risco de morte pela 
-Influenza A.` },
-      { id: 'C', type: 'text', value: `informando a população sobre a iminência de uma 
-pandemia de Influenza A.` },
-      { id: 'D', type: 'text', value: `orientando a população sobre os sintomas da gripe 
-suína e procedimentos para evitar a contaminação.` },
-      { id: 'E', type: 'text', value: `convocando toda a população para se submeter a 
-exames de detecção da gripe suína.` },
+      { id: 'A', type: 'text', value: `descrevendo a situação do país em relação à gripe suína.` },
+      { id: 'B', type: 'text', value: `alertando a população para o risco de morte pela Influenza A.` },
+      { id: 'C', type: 'text', value: `informando a população sobre a iminência de uma pandemia de Influenza A.` },
+      { id: 'D', type: 'text', value: `orientando a população sobre os sintomas da gripe suína e procedimentos para evitar a contaminação.` },
+      { id: 'E', type: 'text', value: `convocando toda a população para se submeter a exames de detecção da gripe suína.` },
     ],
     correct: 'D',
     explanation: `Gabarito: D. O cartaz do Ministério da Saúde apresenta os sintomas da gripe suína e lista medidas para evitar a contaminação, caracterizando um texto de função instrucional e preventiva. Seu objetivo, portanto, é orientar a população sobre os sintomas da doença e os procedimentos para evitar o contágio, como afirma a alternativa D. As demais falham por reduzir ou distorcer essa finalidade: o texto não descreve a situação do país (A), não tem como foco alertar sobre risco de morte (B), não informa sobre a iminência de uma pandemia (C) nem convoca todos a se submeterem a exames (E).`,
@@ -320,17 +275,11 @@ contexto cultural do Simbolismo encontrados no poema
 Cárcere das almas, de Cruz e Sousa, são`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `a opção pela abordagem, em linguagem simples e 
-direta, de temas filosóficos.` },
-      { id: 'B', type: 'text', value: `a prevalência do lirismo amoroso e intimista em 
-relação à temática nacionalista.` },
-      { id: 'C', type: 'text', value: `o refinamento estético da forma poética e o tratamento 
-metafísico de temas universais.` },
-      { id: 'D', type: 'text', value: `a evidente preocupação do eu lírico com a realidade 
-social expressa em imagens poéticas inovadoras.` },
-      { id: 'E', type: 'text', value: `a liberdade formal da estrutura poética que dispensa a 
-rima e a métrica tradicionais em favor de temas do 
-cotidiano.` },
+      { id: 'A', type: 'text', value: `a opção pela abordagem, em linguagem simples e direta, de temas filosóficos.` },
+      { id: 'B', type: 'text', value: `a prevalência do lirismo amoroso e intimista em relação à temática nacionalista.` },
+      { id: 'C', type: 'text', value: `o refinamento estético da forma poética e o tratamento metafísico de temas universais.` },
+      { id: 'D', type: 'text', value: `a evidente preocupação do eu lírico com a realidade social expressa em imagens poéticas inovadoras.` },
+      { id: 'E', type: 'text', value: `a liberdade formal da estrutura poética que dispensa a rima e a métrica tradicionais em favor de temas do cotidiano.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. O poema "Cárcere das almas", de Cruz e Sousa, é representativo do Simbolismo, e a questão pede os elementos formais e temáticos ligados a essa escola. A alternativa C é correta porque o poema revela o apuro estético da forma (soneto, musicalidade, vocabulário sugestivo e maiúsculas alegóricas como "Espaço da Pureza" e "Mistério") associado ao tratamento metafísico e espiritualista de temas universais, como a prisão da alma e a transcendência. As demais falham por contrariarem o Simbolismo: não há linguagem simples e direta nem temas meramente filosóficos (A), nem lirismo amoroso intimista (B); a preocupação social realista (D) e o abandono da rima e da métrica em favor do cotidiano (E) são alheios à estética simbolista.`,
@@ -346,17 +295,11 @@ cotidiano.` },
 entrevistado, constata-se que`,
     images: ['/enem/2009/images/enem_2009_d2_q100.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `o entrevistado deseja convencer o jornalista a não 
-publicar um livro.` },
-      { id: 'B', type: 'text', value: `o principal objetivo do entrevistado é explicar o 
-significado da palavra motivação.` },
-      { id: 'C', type: 'text', value: `são utilizados diversos recursos da linguagem literária, 
-tais como a metáfora e a metonímia.` },
-      { id: 'D', type: 'text', value: `o entrevistado deseja informar de modo objetivo o 
-jornalista sobre as etapas de produção de um livro.` },
-      { id: 'E', type: 'text', value: `o principal objetivo do entrevistado é evidenciar seu 
-sentimento com relação ao processo de produção de 
-um livro.` },
+      { id: 'A', type: 'text', value: `o entrevistado deseja convencer o jornalista a não publicar um livro.` },
+      { id: 'B', type: 'text', value: `o principal objetivo do entrevistado é explicar o significado da palavra motivação.` },
+      { id: 'C', type: 'text', value: `são utilizados diversos recursos da linguagem literária, tais como a metáfora e a metonímia.` },
+      { id: 'D', type: 'text', value: `o entrevistado deseja informar de modo objetivo o jornalista sobre as etapas de produção de um livro.` },
+      { id: 'E', type: 'text', value: `o principal objetivo do entrevistado é evidenciar seu sentimento com relação ao processo de produção de um livro.` },
     ],
     correct: 'E',
     explanation: `Gabarito: E. A segunda fala do escritor entrevistado responde à pergunta sobre a motivação para publicar o livro declarando, de modo hiperbólico, que publicou "para parar de escrevê-lo", pois não aguentava mais revisar e reescrever. Essa resposta não transmite informação objetiva, mas exprime o cansaço e a angústia do autor diante do processo de criação, de modo que o objetivo da fala é evidenciar seu sentimento em relação à produção do livro, como diz a alternativa E. As demais falham: ele não quer convencer o jornalista a não publicar (A), não busca explicar o significado de "motivação" (B), não emprega metáfora e metonímia como foco (C) nem informa objetivamente as etapas de produção (D).`,
@@ -374,17 +317,11 @@ norma padrão da língua portuguesa é rigorosamente
 obedecida por meio`,
     images: ['/enem/2009/images/enem_2009_d2_q101.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `do emprego do pronome demonstrativo “esse” em “Por 
-que o senhor publicou esse livro?”.` },
-      { id: 'B', type: 'text', value: `do emprego do pronome pessoal oblíquo em “Meu 
-filho, um escritor publica um livro para parar de 
-escrevê-lo!”.` },
-      { id: 'C', type: 'text', value: `do emprego do pronome possessivo “sua” em “Qual foi 
-sua maior motivação?”.` },
-      { id: 'D', type: 'text', value: `do emprego do vocativo “Meu filho”, que confere à fala 
-distanciamento do interlocutor.` },
-      { id: 'E', type: 'text', value: `da necessária repetição do conectivo no último 
-quadrinho.` },
+      { id: 'A', type: 'text', value: `do emprego do pronome demonstrativo “esse” em “Por que o senhor publicou esse livro?”.` },
+      { id: 'B', type: 'text', value: `do emprego do pronome pessoal oblíquo em “Meu filho, um escritor publica um livro para parar de escrevê-lo!”.` },
+      { id: 'C', type: 'text', value: `do emprego do pronome possessivo “sua” em “Qual foi sua maior motivação?”.` },
+      { id: 'D', type: 'text', value: `do emprego do vocativo “Meu filho”, que confere à fala distanciamento do interlocutor.` },
+      { id: 'E', type: 'text', value: `da necessária repetição do conectivo no último quadrinho.` },
     ],
     correct: 'A',
     explanation: `Questão anulada pelo INEP.`,
@@ -419,26 +356,11 @@ Civilização Brasileira, 1973 (adaptado).
 Considerando o texto e analisando os elementos que 
 constituem um espetáculo teatral, conclui-se que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a criação do espetáculo teatral apresenta-se como um 
-fenômeno de ordem individual, pois não é possível sua 
-concepção de forma coletiva.` },
-      { id: 'B', type: 'text', value: `o cenário onde se desenrola a ação cênica é 
-concebido e construído pelo cenógrafo de modo 
-autônomo e independente do tema da peça e do 
-trabalho interpretativo dos atores.` },
-      { id: 'C', type: 'text', value: `o texto cênico pode originar-se dos mais variados 
-gêneros textuais, como contos, lendas, romances, 
-poesias, crônicas, notícias, imagens e fragmentos 
-textuais, entre outros.` },
-      { id: 'D', type: 'text', value: `o corpo do ator na cena tem pouca importância na 
-comunicação teatral, visto que o mais importante é a 
-expressão verbal, base da comunicação cênica em 
-toda a trajetória do teatro até os dias atuais.` },
-      { id: 'E', type: 'text', value: `a iluminação e o som de um espetáculo cênico 
-independem do processo de produção/recepção do 
-espetáculo teatral, já que se trata de linguagens 
-artísticas diferentes, agregadas posteriormente à cena 
-teatral.` },
+      { id: 'A', type: 'text', value: `a criação do espetáculo teatral apresenta-se como um fenômeno de ordem individual, pois não é possível sua concepção de forma coletiva.` },
+      { id: 'B', type: 'text', value: `o cenário onde se desenrola a ação cênica é concebido e construído pelo cenógrafo de modo autônomo e independente do tema da peça e do trabalho interpretativo dos atores.` },
+      { id: 'C', type: 'text', value: `o texto cênico pode originar-se dos mais variados gêneros textuais, como contos, lendas, romances, poesias, crônicas, notícias, imagens e fragmentos textuais, entre outros.` },
+      { id: 'D', type: 'text', value: `o corpo do ator na cena tem pouca importância na comunicação teatral, visto que o mais importante é a expressão verbal, base da comunicação cênica em toda a trajetória do teatro até os dias atuais.` },
+      { id: 'E', type: 'text', value: `a iluminação e o som de um espetáculo cênico independem do processo de produção/recepção do espetáculo teatral, já que se trata de linguagens artísticas diferentes, agregadas posteriormente à cena teatral.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. O texto define o gênero dramático e descreve a estrutura do texto teatral, e a questão pede a conclusão correta sobre o espetáculo. A alternativa C é adequada porque, na montagem cênica, o texto que origina a encenação pode provir dos mais variados gêneros textuais — contos, lendas, romances, poesias, crônicas, notícias, imagens e fragmentos —, e não apenas do texto dramático tradicional. As demais falham: o espetáculo é criação coletiva, não individual (A); o cenário é concebido em função do tema e do trabalho dos atores, não de forma autônoma (B); o corpo do ator é essencial à comunicação cênica, não secundário (D); e a iluminação e o som integram o processo de produção do espetáculo (E).`,
@@ -465,13 +387,9 @@ boa aptidão física quando`,
     alternatives: [
       { id: 'A', type: 'text', value: `apresenta uma postura regular.` },
       { id: 'B', type: 'text', value: `pode se exercitar por períodos curtos de tempo.` },
-      { id: 'C', type: 'text', value: `pode desenvolver as atividades físicas do dia-a-dia, 
-independentemente de sua idade.` },
-      { id: 'D', type: 'text', value: `pode executar suas atividades do dia a dia com vigor, 
-atenção e uma fadiga de moderada a intensa.` },
-      { id: 'E', type: 'text', value: `pode exercer atividades físicas no final do dia, mas 
-suas reservas de energia são insuficientes para 
-atividades intelectuais.` },
+      { id: 'C', type: 'text', value: `pode desenvolver as atividades físicas do dia-a-dia, independentemente de sua idade.` },
+      { id: 'D', type: 'text', value: `pode executar suas atividades do dia a dia com vigor, atenção e uma fadiga de moderada a intensa.` },
+      { id: 'E', type: 'text', value: `pode exercer atividades físicas no final do dia, mas suas reservas de energia são insuficientes para atividades intelectuais.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. O texto define aptidão física como a capacidade de a pessoa utilizar o corpo de forma eficiente nas atividades cotidianas, afirmando que ela deve ser considerada na avaliação da saúde. Assim, uma pessoa tem boa aptidão física quando consegue desenvolver as atividades físicas do dia a dia com eficiência, independentemente de sua idade, o que corresponde à alternativa C. As demais falham por não traduzir essa capacidade funcional cotidiana: a postura regular (A) e o exercício por períodos curtos (B) não a definem; executar as atividades com fadiga de moderada a intensa (D) contraria a ideia de eficiência; e ter reservas insuficientes para atividades intelectuais (E) não decorre do texto.`,
@@ -506,10 +424,8 @@ porque`,
       { id: 'A', type: 'text', value: `é o leitor que constrói a versão final do texto.` },
       { id: 'B', type: 'text', value: `o autor detém o controle absoluto do que escreve.` },
       { id: 'C', type: 'text', value: `aclara os limites entre o leitor e o autor.` },
-      { id: 'D', type: 'text', value: `propicia um evento textual-interativo em que apenas o 
-autor é ativo.` },
-      { id: 'E', type: 'text', value: `só o autor conhece o que eletronicamente se dispõe 
-para o leitor.` },
+      { id: 'D', type: 'text', value: `propicia um evento textual-interativo em que apenas o autor é ativo.` },
+      { id: 'E', type: 'text', value: `só o autor conhece o que eletronicamente se dispõe para o leitor.` },
     ],
     correct: 'A',
     explanation: `Gabarito: A. O texto de Marcuschi contrasta a leitura linear do texto impresso com a navegação não sequencial do hipertexto, em que o leitor escolhe caminhos, insere informações e incorpora suas decisões ao próprio texto. Por isso, o hipertexto altera a noção tradicional de autoria: é o leitor-navegador que, ao construir seu percurso, constrói a versão final do texto, como afirma a alternativa A. As demais falham por contrariar o texto: o autor não detém controle absoluto (B); o hipertexto borra, mas não esclarece, os limites entre leitor e autor (C); o leitor é ativo, não apenas o autor (D); e o que se dispõe ao leitor não é conhecido só pelo autor (E).`,
@@ -534,23 +450,11 @@ Os quadrinhos exemplificam que as Histórias em
 Quadrinhos constituem um gênero textual`,
     images: ['/enem/2009/images/enem_2009_d2_q105.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `em que a imagem pouco contribui para facilitar a 
-interpretação da mensagem contida no texto, como 
-pode ser constatado no primeiro quadrinho.` },
-      { id: 'B', type: 'text', value: `cuja linguagem se caracteriza por ser rápida e clara, 
-que facilita a compreensão, como se percebe na fala 
-do segundo quadrinho: “</DIV> </SPAN> <BR CLEAR 
-= ALL> < BR> <BR> <SCRIPT>”.` },
-      { id: 'C', type: 'text', value: `em que o uso de letras com espessuras diversas está 
-ligado a sentimentos expressos pelos personagens, 
-como pode ser percebido no último quadrinho.` },
-      { id: 'D', type: 'text', value: `que possui em seu texto escrito características 
-próximas a uma conversação face a face, como pode 
-ser percebido no segundo quadrinho.` },
-      { id: 'E', type: 'text', value: `que a localização casual dos balões nos quadrinhos 
-expressa com clareza a sucessão cronológica da 
-história, como pode ser percebido no segundo 
-quadrinho.` },
+      { id: 'A', type: 'text', value: `em que a imagem pouco contribui para facilitar a interpretação da mensagem contida no texto, como pode ser constatado no primeiro quadrinho.` },
+      { id: 'B', type: 'text', value: `cuja linguagem se caracteriza por ser rápida e clara, que facilita a compreensão, como se percebe na fala do segundo quadrinho: “</DIV> </SPAN> <BR CLEAR = ALL> < BR> <BR> <SCRIPT>”.` },
+      { id: 'C', type: 'text', value: `em que o uso de letras com espessuras diversas está ligado a sentimentos expressos pelos personagens, como pode ser percebido no último quadrinho.` },
+      { id: 'D', type: 'text', value: `que possui em seu texto escrito características próximas a uma conversação face a face, como pode ser percebido no segundo quadrinho.` },
+      { id: 'E', type: 'text', value: `que a localização casual dos balões nos quadrinhos expressa com clareza a sucessão cronológica da história, como pode ser percebido no segundo quadrinho.` },
     ],
     correct: 'D',
     explanation: `Gabarito: D. Os quadrinhos de "La Vie en Rose" personificam a linguagem HTML em um diálogo informal, e a questão pede o que eles exemplificam sobre a HQ como gênero textual. A alternativa D é correta porque a fala do segundo quadrinho reproduz a estrutura de uma conversa face a face (saudação, pergunta "como vão as coisas?" e resposta), mostrando que o texto escrito das histórias em quadrinhos incorpora características da interação oral espontânea. As demais falham: a imagem contribui, e muito, para a interpretação (A); a linguagem com código HTML não é clara nem facilita a compreensão (B); a espessura das letras não é o recurso em foco (C); e a sucessão dos balões não é casual, pois segue a ordem de leitura (E).`,
@@ -562,55 +466,34 @@ quadrinho.` },
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `A partir da metade do século XX, ocorreu um 
-conjunto de transformações econômicas e sociais cuja 
-dimensão é difícil de ser mensurada: a chamada explosão 
-da informação. Embora essa expressão tenha surgido no 
-contexto da informação científica e tecnológica, seu 
-significado, hoje, em um contexto mais geral, atinge 
-proporções gigantescas. 
- 
-Por estabelecerem novas formas de pensamento 
-e mesmo de lógica, a informática e a Internet vêm gerando 
-impactos sociais e culturais importantes. A disseminação 
-do microcomputador e a expansão da Internet vêm 
-acelerando o processo de globalização tanto no sentido do 
-mercado quanto no sentido das trocas simbólicas possíveis 
-entre sociedades e culturas diferentes, o que tem 
-provocado e acelerado o fenômeno de hibridização 
-amplamente 
-caracterizado 
-como 
-próprio 
-da 
-pós-
-modernidade. 
-FERNANDES, M. F.; PARÁ, T. A contribuição das novas tecnologias da informação na 
-geração de conhecimento. Disponível em: http://www.coep.ufrj.br. 
-Acesso em: 11 ago. 2009 (adaptado). 
-Considerando-se o novo contexto social e econômico 
-aludido no texto apresentado, as novas tecnologias de 
-informação e comunicação`,
+    text: `A partir da metade do século XX, ocorreu um
+conjunto de transformações econômicas e sociais cuja
+dimensão é difícil de ser mensurada: a chamada explosão
+da informação. Embora essa expressão tenha surgido no
+contexto da informação científica e tecnológica, seu
+significado, hoje, em um contexto mais geral, atinge
+proporções gigantescas.
+
+Por estabelecerem novas formas de pensamento e mesmo de
+lógica, a informática e a Internet vêm gerando impactos
+sociais e culturais importantes. A disseminação do
+microcomputador e a expansão da Internet vêm acelerando o
+processo de globalização tanto no sentido do mercado quanto no
+sentido das trocas simbólicas possíveis entre sociedades e
+culturas diferentes, o que tem provocado e acelerado o
+fenômeno de hibridização amplamente caracterizado como próprio
+da pós-modernidade. FERNANDES, M. F.; PARÁ, T. A contribuição
+das novas tecnologias da informação na geração de
+conhecimento. Disponível em: http://www.coep.ufrj.br. Acesso
+em: 11 ago. 2009 (adaptado). Considerando-se o novo contexto
+social e econômico aludido no texto apresentado, as novas
+tecnologias de informação e comunicação`,
     alternatives: [
-      { id: 'A', type: 'text', value: `desempenham importante papel, porque sem elas não 
-seria possível registrar os acontecimentos históricos.` },
-      { id: 'B', type: 'text', value: `facilitam os processos educacionais para ensino de 
-tecnologia, mas não exercem influência nas ciências 
-humanas.` },
-      { id: 'C', type: 'text', value: `limitam-se a dar suporte aos meios de comunicação, 
-facilitando sobretudo os trabalhos jornalísticos.` },
-      { id: 'D', type: 'text', value: `contribuem para o desenvolvimento social, pois 
-permitem 
-o 
-registro 
-e 
-a 
-disseminação 
-do 
-conhecimento de forma mais democrática e interativa.` },
-      { id: 'E', type: 'text', value: `estão em estágio experimental, particularmente na 
-educação, área em que ainda não demonstraram 
-potencial produtivo.` },
+      { id: 'A', type: 'text', value: `desempenham importante papel, porque sem elas não seria possível registrar os acontecimentos históricos.` },
+      { id: 'B', type: 'text', value: `facilitam os processos educacionais para ensino de tecnologia, mas não exercem influência nas ciências humanas.` },
+      { id: 'C', type: 'text', value: `limitam-se a dar suporte aos meios de comunicação, facilitando sobretudo os trabalhos jornalísticos.` },
+      { id: 'D', type: 'text', value: `contribuem para o desenvolvimento social, pois permitem o registro e a disseminação do conhecimento de forma mais democrática e interativa.` },
+      { id: 'E', type: 'text', value: `estão em estágio experimental, particularmente na educação, área em que ainda não demonstraram potencial produtivo.` },
     ],
     correct: 'D',
     explanation: `Gabarito: D. O texto trata da "explosão da informação" e dos impactos sociais e culturais da informática e da internet, que aceleram a globalização e as trocas simbólicas entre sociedades. A conclusão correta é que as novas tecnologias de informação e comunicação contribuem para o desenvolvimento social, pois permitem o registro e a disseminação do conhecimento de forma mais democrática e interativa, como diz a alternativa D. As demais falham: o registro dos acontecimentos históricos não depende exclusivamente delas (A); elas também influenciam as ciências humanas (B); não se limitam a dar suporte aos meios de comunicação (C); e não estão restritas a um estágio experimental sem potencial produtivo (E).`,
@@ -652,15 +535,10 @@ Em contraste com o texto I, no texto II são empregadas,
 predominantemente, estratégias argumentativas que`,
     alternatives: [
       { id: 'A', type: 'text', value: `atraem o leitor por meio de previsões para o futuro.` },
-      { id: 'B', type: 'text', value: `apelam à emoção do leitor, mencionando a morte de 
-animais.` },
-      { id: 'C', type: 'text', value: `orientam o leitor a respeito dos modos de usar 
-conscientemente as sacolas plásticas.` },
-      { id: 'D', type: 'text', value: `intimidam o leitor com as nocivas consequências do 
-uso indiscriminado de sacolas plásticas.` },
-      { id: 'E', type: 'text', value: `recorrem à informação, por meio de constatações, 
-para convencer o leitor a evitar o uso de sacolas 
-plásticas.` },
+      { id: 'B', type: 'text', value: `apelam à emoção do leitor, mencionando a morte de animais.` },
+      { id: 'C', type: 'text', value: `orientam o leitor a respeito dos modos de usar conscientemente as sacolas plásticas.` },
+      { id: 'D', type: 'text', value: `intimidam o leitor com as nocivas consequências do uso indiscriminado de sacolas plásticas.` },
+      { id: 'E', type: 'text', value: `recorrem à informação, por meio de constatações, para convencer o leitor a evitar o uso de sacolas plásticas.` },
     ],
     correct: 'E',
     explanation: `Gabarito: E. A questão compara as estratégias argumentativas dos dois textos sobre o plástico. No texto II predomina o recurso à informação por meio de constatações — as sacolas são leves e voam ao vento, entopem esgotos e bueiros causando enchentes, são encontradas no estômago de animais marinhos e têm custo incalculável para o meio ambiente —, dados apresentados como fatos para convencer o leitor a evitar o uso das sacolas plásticas, o que corresponde à alternativa E. As demais falham: o texto II não se vale de previsões para o futuro (A); embora cite a morte de animais, o apelo emocional não é a estratégia predominante nem o eixo argumentativo central (B); não orienta sobre o uso consciente das sacolas (C); e não se limita a intimidar o leitor (D), mas o convence pela exposição de constatações.`,
@@ -700,32 +578,11 @@ Veja, 8 jul. 2009. Fragmentos de texto publicitário do
 Instituto Akatu pelo Consumo Consciente.
 Na comparação dos textos, observa-se que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o texto I apresenta um alerta a respeito do efeito da 
-reciclagem de materiais plásticos; o texto II justifica o 
-uso desse material reciclado.` },
-      { id: 'B', type: 'text', value: `o texto I tem como objetivo precípuo apresentar a 
-versatilidade e as vantagens do uso do plástico na 
-contemporaneidade; o texto II objetiva alertar os 
-consumidores 
-sobre 
-os 
-problemas 
-ambientais 
-decorrentes de embalagens plásticas não recicladas.` },
-      { id: 'C', type: 'text', value: `o texto I expõe vantagens, sem qualquer ressalva, do 
-uso do plástico; o texto II busca convencer o leitor a 
-evitar o uso de embalagens plásticas.` },
-      { id: 'D', type: 'text', value: `o texto I ilustra o posicionamento de fabricantes de 
-embalagens plásticas, mostrando por que elas devem 
-ser usadas; o texto II ilustra o posicionamento de 
-consumidores comuns, que buscam praticidade e 
-conforto.` },
-      { id: 'E', type: 'text', value: `o texto I apresenta um alerta a respeito da 
-possibilidade de contaminação de produtos orgânicos 
-e industrializados decorrente do uso de plástico em 
-suas embalagens; o texto II apresenta vantagens do 
-consumo de sacolas plásticas: leves, descartáveis e 
-gratuitas.` },
+      { id: 'A', type: 'text', value: `o texto I apresenta um alerta a respeito do efeito da reciclagem de materiais plásticos; o texto II justifica o uso desse material reciclado.` },
+      { id: 'B', type: 'text', value: `o texto I tem como objetivo precípuo apresentar a versatilidade e as vantagens do uso do plástico na contemporaneidade; o texto II objetiva alertar os consumidores sobre os problemas ambientais decorrentes de embalagens plásticas não recicladas.` },
+      { id: 'C', type: 'text', value: `o texto I expõe vantagens, sem qualquer ressalva, do uso do plástico; o texto II busca convencer o leitor a evitar o uso de embalagens plásticas.` },
+      { id: 'D', type: 'text', value: `o texto I ilustra o posicionamento de fabricantes de embalagens plásticas, mostrando por que elas devem ser usadas; o texto II ilustra o posicionamento de consumidores comuns, que buscam praticidade e conforto.` },
+      { id: 'E', type: 'text', value: `o texto I apresenta um alerta a respeito da possibilidade de contaminação de produtos orgânicos e industrializados decorrente do uso de plástico em suas embalagens; o texto II apresenta vantagens do consumo de sacolas plásticas: leves, descartáveis e gratuitas.` },
     ],
     correct: 'B',
     explanation: `Gabarito: B. A questão pede a comparação correta entre os dois textos sobre o plástico. A alternativa B é adequada porque o texto I tem como objetivo principal apresentar a versatilidade e as vantagens do plástico na vida contemporânea, enquanto o texto II objetiva alertar os consumidores sobre os problemas ambientais causados pelas embalagens plásticas não recicladas. As demais falham por inverter ou confundir os propósitos: o texto I não alerta sobre a reciclagem para que o texto II a justifique (A); o texto I não expõe vantagens "sem qualquer ressalva", pois menciona a baixa reciclagem (C); os textos não ilustram posicionamentos de fabricantes e consumidores (D); e o texto II não apresenta o consumo de sacolas como vantagem (E).`,
@@ -742,16 +599,11 @@ Segundo Caderno. 20 fev. 2009.
 A linguagem da tirinha revela`,
     images: ['/enem/2009/images/enem_2009_d2_q109.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `o uso de expressões linguísticas e vocabulário 
-próprios de épocas antigas.` },
-      { id: 'B', type: 'text', value: `o uso de expressões linguísticas inseridas no registro 
-mais formal da língua.` },
-      { id: 'C', type: 'text', value: `o caráter coloquial expresso pelo uso do tempo verbal 
-no segundo quadrinho.` },
-      { id: 'D', type: 'text', value: `o uso de um vocabulário específico para situações 
-comunicativas de emergência.` },
-      { id: 'E', type: 'text', value: `a intenção comunicativa dos personagens: a de 
-estabelecer a hierarquia entre eles.` },
+      { id: 'A', type: 'text', value: `o uso de expressões linguísticas e vocabulário próprios de épocas antigas.` },
+      { id: 'B', type: 'text', value: `o uso de expressões linguísticas inseridas no registro mais formal da língua.` },
+      { id: 'C', type: 'text', value: `o caráter coloquial expresso pelo uso do tempo verbal no segundo quadrinho.` },
+      { id: 'D', type: 'text', value: `o uso de um vocabulário específico para situações comunicativas de emergência.` },
+      { id: 'E', type: 'text', value: `a intenção comunicativa dos personagens: a de estabelecer a hierarquia entre eles.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. A tirinha do Hagar encena um diálogo cotidiano, e a questão pede o que a linguagem revela. A alternativa C é correta porque o caráter coloquial do texto se manifesta no uso do tempo verbal no segundo quadrinho ("Pensei que você tinha consertado!"), construção típica da fala espontânea do dia a dia. As demais falham: não há expressões próprias de épocas antigas (A); a linguagem não está em registro mais formal (B); não se trata de vocabulário específico de situações de emergência (D); e a intenção comunicativa não é estabelecer hierarquia entre os personagens (E).`,
@@ -783,18 +635,11 @@ Considerando a função social das informações geradas
 nos sistemas de comunicação e informação, o ambiente 
 virtual descrito no texto exemplifica`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a dependência das escolas públicas quanto ao uso de 
-sistemas de informação.` },
-      { id: 'B', type: 'text', value: `a ampliação do grau de interação entre as pessoas, a 
-partir de tecnologia convencional.` },
-      { id: 'C', type: 'text', value: `a democratização da informação, por meio da 
-disponibilização de conteúdo cultural e científico à 
-sociedade.` },
-      { id: 'D', type: 'text', value: `a comercialização do acesso a diversas produções 
-culturais nacionais e estrangeiras via tecnologia da 
-informação e da comunicação.` },
-      { id: 'E', type: 'text', value: `a produção de repertório cultural direcionado a 
-acadêmicos e educadores.` },
+      { id: 'A', type: 'text', value: `a dependência das escolas públicas quanto ao uso de sistemas de informação.` },
+      { id: 'B', type: 'text', value: `a ampliação do grau de interação entre as pessoas, a partir de tecnologia convencional.` },
+      { id: 'C', type: 'text', value: `a democratização da informação, por meio da disponibilização de conteúdo cultural e científico à sociedade.` },
+      { id: 'D', type: 'text', value: `a comercialização do acesso a diversas produções culturais nacionais e estrangeiras via tecnologia da informação e da comunicação.` },
+      { id: 'E', type: 'text', value: `a produção de repertório cultural direcionado a acadêmicos e educadores.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. O texto descreve o Portal Domínio Público como biblioteca virtual gratuita que reúne e compartilha obras literárias, artísticas e científicas com todos os usuários da internet. Considerando a função social dos sistemas de informação, esse ambiente exemplifica a democratização da informação, pela disponibilização de conteúdo cultural e científico à sociedade, como afirma a alternativa C. As demais falham: o portal não evidencia a dependência das escolas públicas em relação a sistemas de informação (A); seu foco não é a interação entre pessoas por tecnologia convencional (B); o acesso é gratuito, não comercializado (D); e o repertório é dirigido à população em geral, não apenas a acadêmicos e educadores (E).`,
@@ -839,12 +684,9 @@ produções como a canção Cuitelinho evidenciam a`,
     alternatives: [
       { id: 'A', type: 'text', value: `recriação da realidade brasileira de forma ficcional.` },
       { id: 'B', type: 'text', value: `criação neológica na língua portuguesa.` },
-      { id: 'C', type: 'text', value: `formação da identidade nacional por meio da tradição 
-oral.` },
-      { id: 'D', type: 'text', value: `incorreção da língua portuguesa que é falada por 
-pessoas do interior do Brasil.` },
-      { id: 'E', type: 'text', value: `padronização de palavras que variam regionalmente, 
-mas possuem mesmo significado.` },
+      { id: 'C', type: 'text', value: `formação da identidade nacional por meio da tradição oral.` },
+      { id: 'D', type: 'text', value: `incorreção da língua portuguesa que é falada por pessoas do interior do Brasil.` },
+      { id: 'E', type: 'text', value: `padronização de palavras que variam regionalmente, mas possuem mesmo significado.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. A canção folclórica "Cuitelinho", transmitida oralmente por gerações, registra a fala popular ("bera", "oio", "navaia") e evoca um momento histórico, e a questão conclui sobre o valor de preservar essa produção cultural. A alternativa C é correta porque canções como essa evidenciam a formação da identidade nacional por meio da tradição oral, que preserva a memória e a cultura de um povo. As demais falham: a canção recria a realidade, mas não se trata de criação ficcional individual (A); não há criação de neologismos como foco (B); as formas regionais não configuram "incorreção" da língua (D); e o traço relevante é a tradição oral identitária, não a padronização de palavras (E).`,
@@ -856,41 +698,24 @@ mas possuem mesmo significado.` },
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `ECKHOUT, A. “Índio Tapuia” (1610-1666). Disponível em: http://www.diaadia.pr.gov.br. 
-Acesso em: 9 jul. 2009. 
- 
-A 
-feição 
-deles 
-é 
-serem 
-pardos, 
-maneira 
-d’avermelhados, de bons rostos e bons narizes, bem feitos. 
-Andam nus, sem nenhuma cobertura, nem estimam 
-nenhuma cousa cobrir, nem mostrar suas vergonhas. E 
-estão acerca disso com tanta inocência como têm em 
-mostrar o rosto. 
-CAMINHA, P. V. A carta. Disponível em: www.dominiopublico.gov.br. 
-Acesso em: 12 ago. 2009. 
-Ao se estabelecer uma relação entre a obra de Eckhout e o 
-trecho do texto de Caminha, conclui-se que`,
+    text: `ECKHOUT, A. “Índio Tapuia” (1610-1666). Disponível em: http://www.diaadia.pr.gov.br.
+Acesso em: 9 jul. 2009.
+
+A feição deles é serem pardos, maneira d’avermelhados, de bons
+rostos e bons narizes, bem feitos. Andam nus, sem nenhuma
+cobertura, nem estimam nenhuma cousa cobrir, nem mostrar suas
+vergonhas. E estão acerca disso com tanta inocência como têm
+em mostrar o rosto. CAMINHA, P. V. A carta. Disponível em:
+www.dominiopublico.gov.br. Acesso em: 12 ago. 2009. Ao se
+estabelecer uma relação entre a obra de Eckhout e o trecho do
+texto de Caminha, conclui-se que`,
     images: ['/enem/2009/images/enem_2009_d2_q112.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `ambos se identificam pelas características estéticas 
-marcantes, como tristeza e melancolia, do movimento 
-romântico das artes plásticas.` },
-      { id: 'B', type: 'text', value: `o artista, na pintura, foi fiel ao seu objeto, 
-representando-o de maneira realista, ao passo que o 
-texto é apenas fantasioso.` },
-      { id: 'C', type: 'text', value: `a pintura e o texto têm uma característica em comum, 
-que é representar o habitante das terras que sofreriam 
-processo colonizador.` },
-      { id: 'D', type: 'text', value: `o texto e a pintura são baseados no contraste entre a 
-cultura europeia e a cultura indígena.` },
-      { id: 'E', type: 'text', value: `há forte direcionamento religioso no texto e na pintura, 
-uma vez que o índio representado é objeto da 
-catequização jesuítica.` },
+      { id: 'A', type: 'text', value: `ambos se identificam pelas características estéticas marcantes, como tristeza e melancolia, do movimento romântico das artes plásticas.` },
+      { id: 'B', type: 'text', value: `o artista, na pintura, foi fiel ao seu objeto, representando-o de maneira realista, ao passo que o texto é apenas fantasioso.` },
+      { id: 'C', type: 'text', value: `a pintura e o texto têm uma característica em comum, que é representar o habitante das terras que sofreriam processo colonizador.` },
+      { id: 'D', type: 'text', value: `o texto e a pintura são baseados no contraste entre a cultura europeia e a cultura indígena.` },
+      { id: 'E', type: 'text', value: `há forte direcionamento religioso no texto e na pintura, uma vez que o índio representado é objeto da catequização jesuítica.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. A questão relaciona a pintura "Índio Tapuia", de Eckhout, ao trecho da Carta de Caminha, ambos voltados à representação do indígena brasileiro. A alternativa C é correta porque pintura e texto têm em comum o fato de representarem o habitante das terras que viriam a sofrer o processo de colonização, registrando a imagem do índio no período do contato. As demais falham: não há identificação com a estética romântica de tristeza e melancolia (A); não cabe dizer que a pintura é realista e o texto, fantasioso (B); a oposição entre as culturas não é o eixo comum apontado (D); e não há forte direcionamento religioso de catequese nem no texto nem na pintura (E).`,
@@ -916,38 +741,11 @@ Exclusão Digital, sendo, às vezes, também usados os
 termos Brecha Digital ou Abismo Digital. Nesse contexto, a 
 expressão Divisão Digital refere-se a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `uma classificação que caracteriza cada uma das áreas 
-nas quais as novas TIC podem ser aplicadas, 
-relacionando 
-os 
-padrões 
-de 
-utilização 
-e 
-exemplificando o uso dessas TIC no mundo moderno.` },
-      { id: 'B', type: 'text', value: `uma relação das áreas ou subáreas de conhecimento 
-que ainda não foram contempladas com o uso das 
-novas tecnologias digitais, o que caracteriza uma 
-brecha tecnológica que precisa ser minimizada.` },
-      { id: 'C', type: 'text', value: `uma enorme diferença de desempenho entre os 
-empreendimentos que utilizam as tecnologias digitais 
-e aqueles que permaneceram usando métodos e 
-técnicas analógicas.` },
-      { id: 'D', type: 'text', value: `um 
-aprofundamento 
-das 
-diferenças 
-sociais 
-já 
-existentes, uma vez que se torna difícil a aquisição de 
-conhecimentos e habilidades fundamentais pelas 
-populações menos favorecidas nos novos meios 
-produtivos.` },
-      { id: 'E', type: 'text', value: `uma proposta de educação para o uso de novas 
-pedagogias com a finalidade de acompanhar a 
-evolução das mídias e orientar a produção de material 
-pedagógico com apoio de computadores e outras 
-técnicas digitais.` },
+      { id: 'A', type: 'text', value: `uma classificação que caracteriza cada uma das áreas nas quais as novas TIC podem ser aplicadas, relacionando os padrões de utilização e exemplificando o uso dessas TIC no mundo moderno.` },
+      { id: 'B', type: 'text', value: `uma relação das áreas ou subáreas de conhecimento que ainda não foram contempladas com o uso das novas tecnologias digitais, o que caracteriza uma brecha tecnológica que precisa ser minimizada.` },
+      { id: 'C', type: 'text', value: `uma enorme diferença de desempenho entre os empreendimentos que utilizam as tecnologias digitais e aqueles que permaneceram usando métodos e técnicas analógicas.` },
+      { id: 'D', type: 'text', value: `um aprofundamento das diferenças sociais já existentes, uma vez que se torna difícil a aquisição de conhecimentos e habilidades fundamentais pelas populações menos favorecidas nos novos meios produtivos.` },
+      { id: 'E', type: 'text', value: `uma proposta de educação para o uso de novas pedagogias com a finalidade de acompanhar a evolução das mídias e orientar a produção de material pedagógico com apoio de computadores e outras técnicas digitais.` },
     ],
     correct: 'D',
     explanation: `Gabarito: D. O texto apresenta as sinônimas "Divisão Digital", "Exclusão Digital" e "Brecha Digital" e pede o sentido da expressão. A alternativa D é correta porque a Divisão Digital designa o aprofundamento das diferenças sociais já existentes, uma vez que as populações menos favorecidas têm dificuldade de adquirir os conhecimentos e habilidades exigidos pelos novos meios produtivos, ficando à margem das tecnologias. As demais falham: a expressão não nomeia uma classificação das áreas de aplicação das TIC (A), nem uma lista de áreas ainda não contempladas (B); não se reduz a diferença de desempenho entre empreendimentos (C), e não designa uma proposta de educação para novas pedagogias (E).`,
@@ -977,12 +775,9 @@ uma mudança de comportamento a partir do(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `consumo de produtos naturais provindos da Amazônia.` },
       { id: 'B', type: 'text', value: `cuidado na hora de comprar produtos alimentícios.` },
-      { id: 'C', type: 'text', value: `verificação da existência do selo de padronização de 
-produtos industriais.` },
-      { id: 'D', type: 'text', value: `certificação de que o produto foi fabricado de acordo 
-com os princípios éticos.` },
-      { id: 'E', type: 'text', value: `verificação da garantia de tratamento dos recursos 
-naturais utilizados em cada produto.` },
+      { id: 'C', type: 'text', value: `verificação da existência do selo de padronização de produtos industriais.` },
+      { id: 'D', type: 'text', value: `certificação de que o produto foi fabricado de acordo com os princípios éticos.` },
+      { id: 'E', type: 'text', value: `verificação da garantia de tratamento dos recursos naturais utilizados em cada produto.` },
     ],
     correct: 'D',
     explanation: `Gabarito: D. O texto e a imagem, com os selos de certificação, buscam induzir o consumidor a mudar de comportamento na hora da compra. A alternativa D é correta porque a mudança proposta se dá a partir da certificação de que o produto foi fabricado de acordo com princípios éticos — respeito à legislação ambiental e aos direitos das populações indígenas e das matas nativas —, atestada pelos selos. As demais falham: não se incentiva simplesmente o consumo de produtos da Amazônia (A), nem o cuidado restrito a alimentos (B); não se trata de selo de padronização industrial (C), e a finalidade não é a garantia isolada do tratamento dos recursos naturais em cada produto (E), mas o conjunto de princípios éticos certificados.`,
@@ -994,41 +789,32 @@ naturais utilizados em cada produto.` },
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `A dança é importante para o índio preparar o 
-corpo e a garganta e significa energia para o corpo, que 
-fica robusto. Na aldeia, para preparo físico, dançamos 
-desde cinco horas da manhã até seis horas da tarde, 
-passa-se o dia inteiro dançando quando os padrinhos 
-planejam a dança dos adolescentes. O padrinho é como 
-um professor, um preparador físico dos adolescentes. Por 
-exemplo, o padrinho sonha com um determinado canto e 
-planeja para todos entoarem. Todos os tipos de dança 
-vêm dos primeiros xavantes: Wamarĩdzadadzeiwawẽ, 
-Butséwawẽ, 
-Tseretomodzatsewawẽ, 
-que 
-foram 
-descobrindo através da sabedoria como iria ser a cultura 
-Xavante. Até hoje existe essa cultura, essa celebração. 
-Quando o adolescente fura a orelha é obrigatório ele 
-dançar toda a noite, tem de acordar meia-noite para dançar 
-e cantar, é obrigatório, eles vão chamando um ao outro 
-com um grito especial. 
-WÉRÉ' É TSI'RÓBÓ, E. A dança e o canto-celebração da existência xavante. VIS-Revista do 
-Programa de Pós-Graduação em Arte da UnB. V. 5, n. 2, dez. 2006. 
-A partir das informações sobre a dança Xavante, conclui-
-se que o valor da diversidade artística e da tradição cultural 
-apresentados originam-se da`,
+    text: `A dança é importante para o índio preparar o corpo e a
+garganta e significa energia para o corpo, que fica robusto.
+Na aldeia, para preparo físico, dançamos desde cinco horas da
+manhã até seis horas da tarde, passa-se o dia inteiro dançando
+quando os padrinhos planejam a dança dos adolescentes. O
+padrinho é como um professor, um preparador físico dos
+adolescentes. Por exemplo, o padrinho sonha com um determinado
+canto e planeja para todos entoarem. Todos os tipos de dança
+vêm dos primeiros xavantes: Wamarĩdzadadzeiwawẽ, Butséwawẽ,
+Tseretomodzatsewawẽ, que foram descobrindo através da
+sabedoria como iria ser a cultura Xavante. Até hoje existe
+essa cultura, essa celebração. Quando o adolescente fura a
+orelha é obrigatório ele dançar toda a noite, tem de acordar
+meia-noite para dançar e cantar, é obrigatório, eles vão
+chamando um ao outro com um grito especial. WÉRÉ' É TSI'RÓBÓ,
+E. A dança e o canto-celebração da existência xavante.
+VIS-Revista do Programa de Pós-Graduação em Arte da UnB. V. 5,
+n. 2, dez. 2006. A partir das informações sobre a dança
+Xavante, conclui-se que o valor da diversidade artística e da
+tradição cultural apresentados originam-se da`,
     alternatives: [
-      { id: 'A', type: 'text', value: `iniciativa individual do indígena para a prática da 
-dança e do canto.` },
+      { id: 'A', type: 'text', value: `iniciativa individual do indígena para a prática da dança e do canto.` },
       { id: 'B', type: 'text', value: `excelente forma física apresentada pelo povo Xavante.` },
-      { id: 'C', type: 'text', value: `multiculturalidade presente na sua manifestação 
-cênica.` },
-      { id: 'D', type: 'text', value: `inexistência de um planejamento da estética da dança, 
-caracterizada pelo ineditismo.` },
-      { id: 'E', type: 'text', value: `preservação de uma identidade entre a gestualidade 
-ancestral e a novidade dos cantos a serem entoados.` },
+      { id: 'C', type: 'text', value: `multiculturalidade presente na sua manifestação cênica.` },
+      { id: 'D', type: 'text', value: `inexistência de um planejamento da estética da dança, caracterizada pelo ineditismo.` },
+      { id: 'E', type: 'text', value: `preservação de uma identidade entre a gestualidade ancestral e a novidade dos cantos a serem entoados.` },
     ],
     correct: 'E',
     explanation: `Gabarito: E. O texto descreve a dança Xavante como preparação do corpo, prática ritual coletiva e transmissão cultural ligada aos cantos sonhados pelos padrinhos, e a questão conclui sobre o valor da diversidade artística e da tradição cultural. A alternativa E é correta porque esse valor se origina da preservação de uma identidade que une a gestualidade ancestral à novidade dos cantos a serem entoados, conjugando tradição e renovação. As demais falham: a dança é prática coletiva, não iniciativa individual (A); o foco não é a boa forma física do povo (B); não se trata apenas de multiculturalidade cênica genérica (C); e há planejamento ritual, de modo que não se caracteriza por ineditismo sem estética (D).`,
@@ -1063,16 +849,11 @@ De tudo.
 BANDEIRA, M. Poesia completa e prosa. Rio de Janeiro: José Aguilar, 1967.
 Predomina no texto a função da linguagem`,
     alternatives: [
-      { id: 'A', type: 'text', value: `fática, porque o autor procura testar o canal de 
-comunicação.` },
-      { id: 'B', type: 'text', value: `metalinguística, porque há explicação do significado 
-das expressões.` },
-      { id: 'C', type: 'text', value: `conativa, uma vez que o leitor é provocado a participar 
-de uma ação.` },
-      { id: 'D', type: 'text', value: `referencial, já que são apresentadas informações 
-sobre acontecimentos e fatos reais.` },
-      { id: 'E', type: 'text', value: `poética, pois chama-se a atenção para a elaboração 
-especial e artística da estrutura do texto.` },
+      { id: 'A', type: 'text', value: `fática, porque o autor procura testar o canal de comunicação.` },
+      { id: 'B', type: 'text', value: `metalinguística, porque há explicação do significado das expressões.` },
+      { id: 'C', type: 'text', value: `conativa, uma vez que o leitor é provocado a participar de uma ação.` },
+      { id: 'D', type: 'text', value: `referencial, já que são apresentadas informações sobre acontecimentos e fatos reais.` },
+      { id: 'E', type: 'text', value: `poética, pois chama-se a atenção para a elaboração especial e artística da estrutura do texto.` },
     ],
     correct: 'E',
     explanation: `Gabarito: E. A questão pede a função da linguagem predominante no poema "Canção do vento e da minha vida", de Manuel Bandeira. A alternativa E é correta porque o texto se organiza com apuro estético — repetições, paralelismos, ritmo e seleção vocabular —, chamando a atenção para a própria elaboração artística da mensagem, o que caracteriza a função poética da linguagem. As demais falham: não há teste do canal de comunicação, próprio da função fática (A); não se explica o significado dos termos, função metalinguística (B); o leitor não é convocado a agir, função conativa (C); e o texto não se limita a informar fatos reais, função referencial (D).`,
@@ -1109,10 +890,8 @@ Na estruturação do texto, destaca-se`,
     alternatives: [
       { id: 'A', type: 'text', value: `a construção de oposições semânticas.` },
       { id: 'B', type: 'text', value: `a apresentação de ideias de forma objetiva.` },
-      { id: 'C', type: 'text', value: `o emprego recorrente de figuras de linguagem, como o 
-eufemismo.` },
-      { id: 'D', type: 'text', value: `a repetição de sons e de construções sintáticas 
-semelhantes.` },
+      { id: 'C', type: 'text', value: `o emprego recorrente de figuras de linguagem, como o eufemismo.` },
+      { id: 'D', type: 'text', value: `a repetição de sons e de construções sintáticas semelhantes.` },
       { id: 'E', type: 'text', value: `a inversão da ordem sintática das palavras.` },
     ],
     correct: 'D',
@@ -1145,25 +924,11 @@ Acesso em: 1 jul. 2009 (adaptado).
 Considerando-se as características do Teatro do Oprimido 
 apresentadas, conclui-se que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `esse modelo teatral é um método tradicional de fazer 
-teatro que usa, nas suas ações cênicas, a linguagem 
-rebuscada e hermética falada normalmente pelo 
-cidadão comum.` },
-      { id: 'B', type: 'text', value: `a forma de recepção desse modelo teatral se destaca 
-pela separação entre atores e público, na qual os 
-atores representam seus personagens e a plateia 
-assiste passivamente ao espetáculo.` },
-      { id: 'C', type: 'text', value: `sua linguagem teatral pode ser democratizada e 
-apropriada pelo cidadão comum, no sentido de 
-proporcionar-lhe autonomia crítica para compreensão 
-e interpretação do mundo em que vive.` },
-      { id: 'D', type: 'text', value: `o convite ao espectador para substituir o protagonista 
-e mudar o fim da história evidencia que a proposta de 
-Boal se aproxima das regras do teatro tradicional para 
-a preparação de atores.` },
-      { id: 'E', type: 'text', value: `a metodologia teatral do Teatro do Oprimido segue a 
-concepção do teatro clássico aristotélico, que visa à 
-desautomação física e intelectual de seus praticantes.` },
+      { id: 'A', type: 'text', value: `esse modelo teatral é um método tradicional de fazer teatro que usa, nas suas ações cênicas, a linguagem rebuscada e hermética falada normalmente pelo cidadão comum.` },
+      { id: 'B', type: 'text', value: `a forma de recepção desse modelo teatral se destaca pela separação entre atores e público, na qual os atores representam seus personagens e a plateia assiste passivamente ao espetáculo.` },
+      { id: 'C', type: 'text', value: `sua linguagem teatral pode ser democratizada e apropriada pelo cidadão comum, no sentido de proporcionar-lhe autonomia crítica para compreensão e interpretação do mundo em que vive.` },
+      { id: 'D', type: 'text', value: `o convite ao espectador para substituir o protagonista e mudar o fim da história evidencia que a proposta de Boal se aproxima das regras do teatro tradicional para a preparação de atores.` },
+      { id: 'E', type: 'text', value: `a metodologia teatral do Teatro do Oprimido segue a concepção do teatro clássico aristotélico, que visa à desautomação física e intelectual de seus praticantes.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. O texto descreve o Teatro do Oprimido, de Augusto Boal, como método que aproxima a linguagem teatral da linguagem cotidiana e convida o espectador a intervir na cena. A conclusão correta é a da alternativa C: sua linguagem teatral pode ser democratizada e apropriada pelo cidadão comum, no sentido de lhe proporcionar autonomia crítica para compreender e interpretar o mundo em que vive. As demais falham: o método não usa linguagem rebuscada e hermética (A); ele rompe a separação entre atores e público, não a reforça (B); o convite ao espectador afasta-se do teatro tradicional, não o aproxima (D); e a metodologia não segue a concepção do teatro clássico aristotélico (E).`,
@@ -1201,20 +966,11 @@ do português. São Paulo: Ática, 1996.
 Confrontando-se as opiniões defendidas nos dois textos, 
 conclui-se que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `ambos os textos tratam da questão do uso da língua 
-com o objetivo de criticar a linguagem do brasileiro.` },
-      { id: 'B', type: 'text', value: `os dois textos defendem a ideia de que o estudo da 
-gramática deve ter o objetivo de ensinar as regras 
-prescritivas da língua.` },
-      { id: 'C', type: 'text', value: `a questão do português falado no Brasil é abordada 
-nos dois textos, que procuram justificar como é correto 
-e aceitável o uso coloquial do idioma.` },
-      { id: 'D', type: 'text', value: `o primeiro texto enaltece o padrão estrito da língua, ao 
-passo que o segundo defende que a linguagem 
-jornalística deve criar suas próprias regras gramaticais.` },
-      { id: 'E', type: 'text', value: `o primeiro texto prega a rigidez gramatical no uso da 
-língua, enquanto o segundo defende uma adequação 
-da língua escrita ao padrão atual brasileiro.` },
+      { id: 'A', type: 'text', value: `ambos os textos tratam da questão do uso da língua com o objetivo de criticar a linguagem do brasileiro.` },
+      { id: 'B', type: 'text', value: `os dois textos defendem a ideia de que o estudo da gramática deve ter o objetivo de ensinar as regras prescritivas da língua.` },
+      { id: 'C', type: 'text', value: `a questão do português falado no Brasil é abordada nos dois textos, que procuram justificar como é correto e aceitável o uso coloquial do idioma.` },
+      { id: 'D', type: 'text', value: `o primeiro texto enaltece o padrão estrito da língua, ao passo que o segundo defende que a linguagem jornalística deve criar suas próprias regras gramaticais.` },
+      { id: 'E', type: 'text', value: `o primeiro texto prega a rigidez gramatical no uso da língua, enquanto o segundo defende uma adequação da língua escrita ao padrão atual brasileiro.` },
     ],
     correct: 'E',
     explanation: `Gabarito: E. A questão confronta dois textos sobre o uso da língua: o texto I condena a "língua brasileira" e defende o padrão estrito do idioma pátrio, enquanto o texto II justifica aproximar a linguagem da gramática do padrão atual brasileiro presente nos textos técnicos e jornalísticos. A alternativa E é correta porque o primeiro texto prega a rigidez gramatical, ao passo que o segundo defende a adequação da língua escrita ao padrão atual do Brasil. As demais falham: os textos não convergem em criticar o brasileiro (A), nem ambos defendem o ensino prescritivo (B); não justificam o uso coloquial como correto (C); e o texto II não prega regras próprias para a linguagem jornalística em oposição ao padrão (D).`,
@@ -1226,51 +982,26 @@ da língua escrita ao padrão atual brasileiro.` },
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `No decênio de 1870, Franklin Távora defendeu a 
-tese de que no Brasil havia duas literaturas independentes 
-dentro da mesma língua: uma do Norte e outra do Sul, 
-regiões segundo ele muito diferentes por formação 
-histórica, 
-composição 
-étnica, 
-costumes, 
-modismos 
-linguísticos etc. Por isso, deu aos romances regionais que 
-publicou o título geral de Literatura do Norte. Em nossos 
-dias, um escritor gaúcho, Viana Moog, procurou mostrar 
-com bastante engenho que no Brasil há, em verdade, 
-literaturas setoriais diversas, refletindo as características 
-locais. 
-CÂNDIDO, A. A nova narrativa. A educação pela noite e 
-outros ensaios. São Paulo: Ática, 2003. 
-Com relação à valorização, no romance regionalista 
-brasileiro, do homem e da paisagem de determinadas 
-regiões nacionais, sabe-se que`,
+    text: `No decênio de 1870, Franklin Távora defendeu a tese de que no
+Brasil havia duas literaturas independentes dentro da mesma
+língua: uma do Norte e outra do Sul, regiões segundo ele muito
+diferentes por formação histórica, composição étnica,
+costumes, modismos linguísticos etc. Por isso, deu aos
+romances regionais que publicou o título geral de Literatura
+do Norte. Em nossos dias, um escritor gaúcho, Viana Moog,
+procurou mostrar com bastante engenho que no Brasil há, em
+verdade, literaturas setoriais diversas, refletindo as
+características locais. CÂNDIDO, A. A nova narrativa. A
+educação pela noite e outros ensaios. São Paulo: Ática, 2003.
+Com relação à valorização, no romance regionalista brasileiro,
+do homem e da paisagem de determinadas regiões nacionais,
+sabe-se que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o romance do Sul do Brasil se caracteriza pela 
-temática essencialmente urbana, colocando em relevo 
-a formação do homem por meio da mescla de 
-características locais e dos aspectos culturais trazidos 
-de fora pela imigração europeia.` },
-      { id: 'B', type: 'text', value: `José de Alencar, representante, sobretudo, do 
-romance urbano, retrata a temática da urbanização 
-das cidades brasileiras e das relações conflituosas 
-entre as raças.` },
-      { id: 'C', type: 'text', value: `o romance do Nordeste caracteriza-se pelo acentuado 
-realismo no uso do vocabulário, pelo temário local, 
-expressando a vida do homem em face da natureza 
-agreste, e assume frequentemente o ponto de vista 
-dos menos favorecidos.` },
-      { id: 'D', type: 'text', value: `a literatura urbana brasileira, da qual um dos 
-expoentes é Machado de Assis, põe em relevo a 
-formação do homem brasileiro, o sincretismo religioso, 
-as raízes africanas e indígenas que caracterizam o 
-nosso povo.` },
-      { id: 'E', type: 'text', value: `Érico Veríssimo, Rachel de Queiroz, Simões Lopes 
-Neto e Jorge Amado são romancistas das décadas de 
-30 e 40 do século XX, cuja obra retrata a problemática 
-do homem urbano em confronto com a modernização 
-do país promovida pelo Estado Novo.` },
+      { id: 'A', type: 'text', value: `o romance do Sul do Brasil se caracteriza pela temática essencialmente urbana, colocando em relevo a formação do homem por meio da mescla de características locais e dos aspectos culturais trazidos de fora pela imigração europeia.` },
+      { id: 'B', type: 'text', value: `José de Alencar, representante, sobretudo, do romance urbano, retrata a temática da urbanização das cidades brasileiras e das relações conflituosas entre as raças.` },
+      { id: 'C', type: 'text', value: `o romance do Nordeste caracteriza-se pelo acentuado realismo no uso do vocabulário, pelo temário local, expressando a vida do homem em face da natureza agreste, e assume frequentemente o ponto de vista dos menos favorecidos.` },
+      { id: 'D', type: 'text', value: `a literatura urbana brasileira, da qual um dos expoentes é Machado de Assis, põe em relevo a formação do homem brasileiro, o sincretismo religioso, as raízes africanas e indígenas que caracterizam o nosso povo.` },
+      { id: 'E', type: 'text', value: `Érico Veríssimo, Rachel de Queiroz, Simões Lopes Neto e Jorge Amado são romancistas das décadas de 30 e 40 do século XX, cuja obra retrata a problemática do homem urbano em confronto com a modernização do país promovida pelo Estado Novo.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. A questão trata da valorização do homem e da paisagem regionais no romance brasileiro. A alternativa C é correta porque o romance do Nordeste caracteriza-se pelo acentuado realismo no uso do vocabulário e pelo temário local, expressando a vida do homem diante da natureza agreste e assumindo, com frequência, o ponto de vista dos menos favorecidos — traços do regionalismo nordestino. As demais falham: o romance do Sul não tem temática essencialmente urbana (A); José de Alencar é representante do romance romântico, não do urbano sobre conflitos raciais (B); Machado de Assis não tem por foco o sincretismo e as raízes africanas e indígenas (D); e Érico Veríssimo, Rachel de Queiroz, Simões Lopes Neto e Jorge Amado não retratam predominantemente a problemática do homem urbano (E).`,
@@ -1305,14 +1036,10 @@ permitem inferir que o ouvinte/leitor, no qual o emissor foca
 o seu discurso, pertence`,
     alternatives: [
       { id: 'A', type: 'text', value: `ao mesmo grupo social do falante/autor.` },
-      { id: 'B', type: 'text', value: `a um grupo de brasileiros considerados como não 
-índios.` },
-      { id: 'C', type: 'text', value: `a um grupo étnico que representa a maioria europeia 
-que vive no país.` },
-      { id: 'D', type: 'text', value: `a um grupo formado por estrangeiros que falam 
-português.` },
-      { id: 'E', type: 'text', value: `a um grupo sociocultural formado por brasileiros 
-naturalizados e imigrantes.` },
+      { id: 'B', type: 'text', value: `a um grupo de brasileiros considerados como não índios.` },
+      { id: 'C', type: 'text', value: `a um grupo étnico que representa a maioria europeia que vive no país.` },
+      { id: 'D', type: 'text', value: `a um grupo formado por estrangeiros que falam português.` },
+      { id: 'E', type: 'text', value: `a um grupo sociocultural formado por brasileiros naturalizados e imigrantes.` },
     ],
     correct: 'B',
     explanation: `Gabarito: B. No texto, Marcos Terena dirige-se a um interlocutor distinto de seu próprio grupo, usando "vocês" em oposição a "nós" e perguntando que "pedaço de índio" cada um carrega. Os procedimentos argumentativos permitem inferir que esse ouvinte/leitor pertence a um grupo de brasileiros considerados não índios, a quem o emissor indígena se dirige, como afirma a alternativa B. As demais falham: o interlocutor não pertence ao mesmo grupo social do falante (A); não é definido como grupo étnico de maioria europeia (C), nem como estrangeiros que falam português (D); e não se trata de brasileiros naturalizados e imigrantes (E).`,
@@ -1346,16 +1073,11 @@ Na situação de comunicação da qual o texto foi retirado, a
 norma padrão da língua portuguesa é empregada com a
 finalidade de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `demonstrar a clareza e a complexidade da nossa 
-língua materna.` },
-      { id: 'B', type: 'text', value: `situar os dois lados da interlocução em posições 
-simétricas.` },
-      { id: 'C', type: 'text', value: `comprovar a importância da correção gramatical nos 
-diálogos cotidianos.` },
-      { id: 'D', type: 'text', value: `mostrar como as línguas indígenas foram incorporadas 
-à língua portuguesa.` },
-      { id: 'E', type: 'text', value: `ressaltar a importância do código linguístico que 
-adotamos como língua nacional.` },
+      { id: 'A', type: 'text', value: `demonstrar a clareza e a complexidade da nossa língua materna.` },
+      { id: 'B', type: 'text', value: `situar os dois lados da interlocução em posições simétricas.` },
+      { id: 'C', type: 'text', value: `comprovar a importância da correção gramatical nos diálogos cotidianos.` },
+      { id: 'D', type: 'text', value: `mostrar como as línguas indígenas foram incorporadas à língua portuguesa.` },
+      { id: 'E', type: 'text', value: `ressaltar a importância do código linguístico que adotamos como língua nacional.` },
     ],
     correct: 'B',
     explanation: `Gabarito: B. A questão pede a finalidade do emprego da norma padrão na situação comunicativa do texto de Terena. A alternativa B é correta porque, ao recorrer à norma padrão num debate, o emissor indígena coloca-se em pé de igualdade com o interlocutor não índio, situando os dois lados da interlocução em posições simétricas e afirmando-se como sujeito do mesmo nível. As demais falham: o objetivo não é demonstrar a clareza e a complexidade da língua materna (A), nem comprovar a importância da correção gramatical nos diálogos cotidianos (C); o texto não trata da incorporação de línguas indígenas ao português (D), nem tem por fim ressaltar o código linguístico nacional (E).`,
@@ -1367,75 +1089,47 @@ adotamos como língua nacional.` },
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `Se os tubarões fossem homens 
- 
- 
-Se os tubarões fossem homens, eles seriam mais 
-gentis com os peixes pequenos? 
- 
-Certamente, se os tubarões fossem homens, 
-fariam construir resistentes gaiolas no mar para os peixes 
-pequenos, com todo o tipo de alimento, tanto animal como 
-vegetal. Cuidariam para que as gaiolas tivessem sempre 
-água fresca e adotariam todas as providências sanitárias. 
- 
-Naturalmente 
-haveria 
-também 
-escolas 
-nas 
-gaiolas. Nas aulas, os peixinhos aprenderiam como nadar 
-para a goela dos tubarões. Eles aprenderiam, por exemplo, 
-a usar a geografia para localizar os grandes tubarões 
-deitados preguiçosamente por aí. A aula principal seria, 
-naturalmente, a formação moral dos peixinhos. A eles seria 
-ensinado que o ato mais grandioso e mais sublime é o 
-sacrifício alegre de um peixinho e que todos deveriam 
-acreditar nos tubarões, sobretudo quando estes dissessem 
-que cuidavam de sua felicidade futura. Os peixinhos 
-saberiam que este futuro só estaria garantido se 
-aprendessem a obediência. 
- 
-Cada peixinho que na guerra matasse alguns 
-peixinhos inimigos seria condecorado com uma pequena 
-Ordem das Algas e receberia o título de herói. 
-BRECHT, B. Histórias do Sr. Keuner. São Paulo: Ed. 34, 2006 (adaptado). 
-Como produção humana, a literatura veicula valores que 
-nem sempre estão representados diretamente no texto, 
-mas são transfigurados pela linguagem literária e podem 
-até entrar em contradição com as convenções sociais e 
-revelar o quanto a sociedade perverteu os valores 
-humanos que ela própria criou. É o que ocorre na narrativa 
-do dramaturgo alemão Bertolt Brecht mostrada. Por meio 
+    text: `Se os tubarões fossem homens
+
+Se os tubarões fossem homens, eles seriam mais
+gentis com os peixes pequenos?
+
+Certamente, se os tubarões fossem homens,
+fariam construir resistentes gaiolas no mar para os peixes
+pequenos, com todo o tipo de alimento, tanto animal como
+vegetal. Cuidariam para que as gaiolas tivessem sempre
+água fresca e adotariam todas as providências sanitárias.
+
+Naturalmente haveria também escolas nas gaiolas. Nas aulas, os
+peixinhos aprenderiam como nadar para a goela dos tubarões.
+Eles aprenderiam, por exemplo, a usar a geografia para
+localizar os grandes tubarões deitados preguiçosamente por aí.
+A aula principal seria, naturalmente, a formação moral dos
+peixinhos. A eles seria ensinado que o ato mais grandioso e
+mais sublime é o sacrifício alegre de um peixinho e que todos
+deveriam acreditar nos tubarões, sobretudo quando estes
+dissessem que cuidavam de sua felicidade futura. Os peixinhos
+saberiam que este futuro só estaria garantido se aprendessem a
+obediência.
+
+Cada peixinho que na guerra matasse alguns
+peixinhos inimigos seria condecorado com uma pequena
+Ordem das Algas e receberia o título de herói.
+BRECHT, B. Histórias do Sr. Keuner. São Paulo: Ed. 34, 2006 (adaptado).
+Como produção humana, a literatura veicula valores que
+nem sempre estão representados diretamente no texto,
+mas são transfigurados pela linguagem literária e podem
+até entrar em contradição com as convenções sociais e
+revelar o quanto a sociedade perverteu os valores
+humanos que ela própria criou. É o que ocorre na narrativa
+do dramaturgo alemão Bertolt Brecht mostrada. Por meio
 da hipótese apresentada, o autor`,
     alternatives: [
-      { id: 'A', type: 'text', value: `demonstra o quanto a literatura pode ser alienadora ao 
-retratar, de modo positivo, as relações de opressão 
-existentes na sociedade.` },
-      { id: 'B', type: 'text', value: `revela a ação predatória do homem no mar, 
-questionando a utilização dos recursos naturais pelo 
-homem ocidental.` },
-      { id: 'C', type: 'text', value: `defende que a força colonizadora e civilizatória do 
-homem 
-ocidental 
-valorizou 
-a 
-organização 
-das 
-sociedades africanas e asiáticas, elevando-as ao 
-modo de organização cultural e social da sociedade 
-moderna.` },
-      { id: 'D', type: 'text', value: `questiona o modo de organização das sociedades 
-ocidentais 
-capitalistas, 
-que 
-se 
-desenvolveram 
-fundamentadas nas relações de opressão em que os 
-mais fortes exploram os mais fracos.` },
-      { id: 'E', type: 'text', value: `evidencia a dinâmica social do trabalho coletivo em 
-que os mais fortes colaboram com os mais fracos, de 
-modo a guiá-los na realização de tarefas.` },
+      { id: 'A', type: 'text', value: `demonstra o quanto a literatura pode ser alienadora ao retratar, de modo positivo, as relações de opressão existentes na sociedade.` },
+      { id: 'B', type: 'text', value: `revela a ação predatória do homem no mar, questionando a utilização dos recursos naturais pelo homem ocidental.` },
+      { id: 'C', type: 'text', value: `defende que a força colonizadora e civilizatória do homem ocidental valorizou a organização das sociedades africanas e asiáticas, elevando-as ao modo de organização cultural e social da sociedade moderna.` },
+      { id: 'D', type: 'text', value: `questiona o modo de organização das sociedades ocidentais capitalistas, que se desenvolveram fundamentadas nas relações de opressão em que os mais fortes exploram os mais fracos.` },
+      { id: 'E', type: 'text', value: `evidencia a dinâmica social do trabalho coletivo em que os mais fortes colaboram com os mais fracos, de modo a guiá-los na realização de tarefas.` },
     ],
     correct: 'D',
     explanation: `Gabarito: D. Na parábola de Brecht "Se os tubarões fossem homens", a hipótese de que os tubarões, se fossem homens, organizariam os peixes pequenos com escolas, moral da obediência e condecorações funciona como alegoria crítica. Por meio dela, o autor questiona o modo de organização das sociedades ocidentais capitalistas, que se desenvolveram fundamentadas em relações de opressão nas quais os mais fortes exploram os mais fracos, como afirma a alternativa D. As demais falham: o texto não retrata de modo positivo as relações de opressão (A); não questiona a exploração dos recursos naturais do mar (B); não defende a força colonizadora ocidental (C); e não evidencia um trabalho coletivo solidário entre fortes e fracos (E).`,
@@ -1457,22 +1151,11 @@ poético da obra Cantares, de Hilda Hilst, publicada em
 2004, em que pode ser encontrada a referida figura de 
 retórica é:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `“Dos dois contemplo 
-rigor e fixidez. 
-Passado e sentimento 
-me contemplam” (p. 91).` },
-      { id: 'B', type: 'text', value: `“De sol e lua 
-De fogo e vento 
-Te enlaço” (p. 101).` },
-      { id: 'C', type: 'text', value: `“Areia, vou sorvendo 
-A água do teu rio” (p. 93).` },
-      { id: 'D', type: 'text', value: `“Ritualiza a matança 
-de quem só te deu vida.` },
-      { id: 'E', type: 'text', value: `me deixa viver 
-nessa que morre” (p. 62). 
-E “O bisturi e o verso. 
-Dois instrumentos 
-entre as minhas mãos” (p. 95).` },
+      { id: 'A', type: 'text', value: `“Dos dois contemplo rigor e fixidez. Passado e sentimento me contemplam” (p. 91).` },
+      { id: 'B', type: 'text', value: `“De sol e lua De fogo e vento Te enlaço” (p. 101).` },
+      { id: 'C', type: 'text', value: `“Areia, vou sorvendo A água do teu rio” (p. 93).` },
+      { id: 'D', type: 'text', value: `“Ritualiza a matança de quem só te deu vida.` },
+      { id: 'E', type: 'text', value: `me deixa viver nessa que morre” (p. 62). E “O bisturi e o verso. Dois instrumentos entre as minhas mãos” (p. 95).` },
     ],
     correct: 'D',
     explanation: `Gabarito: D. A questão define o oximoro (paradoxismo) como a combinação de palavras de sentido oposto e pede o fragmento de Hilda Hilst em que a figura aparece. A alternativa D é correta porque os versos reúnem termos contraditórios — "Ritualiza a matança / de quem só te deu vida" e "E me deixa viver / nessa que morre" —, conciliando morte e vida, o que configura o oximoro. As demais falham por não apresentarem essa contradição interna de sentidos opostos: os fragmentos A, B, C e E exploram imagens, antíteses brandas ou metáforas, mas não a fusão paradoxal de termos que se excluem mutuamente.`,
@@ -1493,25 +1176,11 @@ a usos que se fazem da linguagem, enfatizando ser
 necessário`,
     images: ['/enem/2009/images/enem_2009_d2_q125.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `implementar a fala, tendo em vista maior desenvoltura, 
-naturalidade e segurança no uso da língua .` },
-      { id: 'B', type: 'text', value: `conhecer gêneros mais formais da modalidade oral 
-para a obtenção de clareza na comunicação oral e 
-escrita.` },
-      { id: 'C', type: 'text', value: `dominar as diferentes variedades do registro oral da 
-língua portuguesa para escrever com adequação, 
-eficiência e correção.` },
-      { id: 'D', type: 'text', value: `empregar vocabulário adequado e usar regras da 
-norma padrão da língua em se tratando da modalidade 
-escrita.` },
-      { id: 'E', type: 'text', value: `utilizar 
-recursos 
-mais 
-expressivos 
-e 
-menos 
-desgastados da variedade padrão da língua para se 
-expressar com alguma segurança e sucesso.` },
+      { id: 'A', type: 'text', value: `implementar a fala, tendo em vista maior desenvoltura, naturalidade e segurança no uso da língua .` },
+      { id: 'B', type: 'text', value: `conhecer gêneros mais formais da modalidade oral para a obtenção de clareza na comunicação oral e escrita.` },
+      { id: 'C', type: 'text', value: `dominar as diferentes variedades do registro oral da língua portuguesa para escrever com adequação, eficiência e correção.` },
+      { id: 'D', type: 'text', value: `empregar vocabulário adequado e usar regras da norma padrão da língua em se tratando da modalidade escrita.` },
+      { id: 'E', type: 'text', value: `utilizar recursos mais expressivos e menos desgastados da variedade padrão da língua para se expressar com alguma segurança e sucesso.` },
     ],
     correct: 'D',
     explanation: `Gabarito: D. O anúncio traz um comentário manuscrito que critica, de modo informal, o fato de alguém "escrever como fala", sugerindo que isso compromete o texto. Esse comentário deixa evidente a posição de que, na modalidade escrita, é necessário empregar vocabulário adequado e seguir as regras da norma padrão da língua, como afirma a alternativa D. As demais falham: a crítica não visa desenvolver a fala com mais desenvoltura (A), nem defende conhecer gêneros formais da modalidade oral (B); não propõe dominar as variedades do registro oral para escrever (C); e não trata de usar recursos mais expressivos da variedade padrão (E), mas sim da adequação da escrita à norma.`,
@@ -1531,27 +1200,11 @@ comunicação e informação presentes no texto, infere-se
 que`,
     images: ['/enem/2009/images/enem_2009_d2_q126.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a utilização do termo download indica restrição de 
-leitura de informações a respeito de formas de 
-combate à dengue.` },
-      { id: 'B', type: 'text', value: `a 
-diversidade 
-dos 
-sistemas 
-de 
-comunicação 
-empregados e mencionados reduz a possibilidade de 
-acesso às informações a respeito do combate à 
-dengue.` },
-      { id: 'C', type: 'text', value: `a utilização do material disponibilizado para download
-no site www.combatadengue.com.br restringe-se ao
-receptor da publicidade.` },
-      { id: 'D', type: 'text', value: `a necessidade de atingir públicos distintos se revela 
-por meio da estratégia de disponibilização de 
-informações empregada pelo emissor.` },
-      { id: 'E', type: 'text', value: `a utilização desse gênero textual compreende, no 
-próprio texto, o detalhamento de informações a 
-respeito de formas de combate à dengue.` },
+      { id: 'A', type: 'text', value: `a utilização do termo download indica restrição de leitura de informações a respeito de formas de combate à dengue.` },
+      { id: 'B', type: 'text', value: `a diversidade dos sistemas de comunicação empregados e mencionados reduz a possibilidade de acesso às informações a respeito do combate à dengue.` },
+      { id: 'C', type: 'text', value: `a utilização do material disponibilizado para download no site www.combatadengue.com.br restringe-se ao receptor da publicidade.` },
+      { id: 'D', type: 'text', value: `a necessidade de atingir públicos distintos se revela por meio da estratégia de disponibilização de informações empregada pelo emissor.` },
+      { id: 'E', type: 'text', value: `a utilização desse gênero textual compreende, no próprio texto, o detalhamento de informações a respeito de formas de combate à dengue.` },
     ],
     correct: 'D',
     explanation: `Gabarito: D. O texto da campanha contra a dengue é um gênero híbrido entre carta e publicidade oficial, que remete a gêneros digitais ao indicar um site com materiais para download. A alternativa D é correta porque a necessidade de atingir públicos distintos se revela na estratégia do emissor de disponibilizar informações por diferentes meios (o próprio texto impresso e o conteúdo on-line). As demais falham: o termo "download" não indica restrição de leitura das informações (A); a diversidade de sistemas amplia, não reduz, o acesso (B); o material on-line não se restringe ao receptor da publicidade (C); e o gênero não compreende, no próprio texto, o detalhamento completo das formas de combate à dengue (E), que remete ao site.`,
@@ -1567,23 +1220,11 @@ respeito de formas de combate à dengue.` },
 se que o texto apresentado`,
     images: ['/enem/2009/images/enem_2009_d2_q127.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `se dirige aos líderes comunitários para tomarem a 
-iniciativa de combater a dengue.` },
-      { id: 'B', type: 'text', value: `conclama 
-toda 
-a 
-população 
-a 
-participar 
-das 
-estratégias de combate ao mosquito da dengue.` },
-      { id: 'C', type: 'text', value: `se dirige aos prefeitos, conclamando-os a organizarem 
-iniciativas de combate à dengue.` },
-      { id: 'D', type: 'text', value: `tem como objetivo ensinar os procedimentos técnicos 
-necessários para o combate ao mosquito da dengue.` },
-      { id: 'E', type: 'text', value: `apela ao governo federal, para que dê apoio aos 
-governos estaduais e municipais no combate ao 
-mosquito da dengue.` },
+      { id: 'A', type: 'text', value: `se dirige aos líderes comunitários para tomarem a iniciativa de combater a dengue.` },
+      { id: 'B', type: 'text', value: `conclama toda a população a participar das estratégias de combate ao mosquito da dengue.` },
+      { id: 'C', type: 'text', value: `se dirige aos prefeitos, conclamando-os a organizarem iniciativas de combate à dengue.` },
+      { id: 'D', type: 'text', value: `tem como objetivo ensinar os procedimentos técnicos necessários para o combate ao mosquito da dengue.` },
+      { id: 'E', type: 'text', value: `apela ao governo federal, para que dê apoio aos governos estaduais e municipais no combate ao mosquito da dengue.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. O texto da campanha é encabeçado pelo apelo "Sr. Prefeito, junte-se a nós na luta contra a dengue" e conclama a autoridade municipal a organizar mutirões e envolver líderes comunitários. Pelos recursos argumentativos empregados, depreende-se que o texto se dirige aos prefeitos, conclamando-os a organizar iniciativas de combate à dengue, como afirma a alternativa C. As demais falham: o destinatário não são os líderes comunitários (A), nem a população em geral (B); o objetivo não é ensinar procedimentos técnicos de combate ao mosquito (D); e o apelo não se volta ao governo federal (E), mas ao gestor municipal.`,
@@ -1638,16 +1279,11 @@ sentimento contraditório fica claramente expresso no
 trecho:`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `“A princípio com tranquilidade, e logo com obstinação, 
-quis novamente dormir” (ℓ. 1-3).` },
-      { id: 'B', type: 'text', value: `“Restava-me, portanto, menos de duas horas, pois o 
-trem chegaria às cinco” (ℓ. 4-6).` },
-      { id: 'C', type: 'text', value: `“Calcei os sapatos, sentei-me um instante à beira da 
-cama” (ℓ. 12-13).` },
-      { id: 'D', type: 'text', value: `“Partir, sem dizer nada, deixar quanto antes minhas 
-cadeias de disciplina e amor” (ℓ. 7-9).` },
-      { id: 'E', type: 'text', value: `“Deveria fugir ou falar com ela? Ora, algumas 
-palavras...” (ℓ. 14-15).` },
+      { id: 'A', type: 'text', value: `“A princípio com tranquilidade, e logo com obstinação, quis novamente dormir” (ℓ. 1-3).` },
+      { id: 'B', type: 'text', value: `“Restava-me, portanto, menos de duas horas, pois o trem chegaria às cinco” (ℓ. 4-6).` },
+      { id: 'C', type: 'text', value: `“Calcei os sapatos, sentei-me um instante à beira da cama” (ℓ. 12-13).` },
+      { id: 'D', type: 'text', value: `“Partir, sem dizer nada, deixar quanto antes minhas cadeias de disciplina e amor” (ℓ. 7-9).` },
+      { id: 'E', type: 'text', value: `“Deveria fugir ou falar com ela? Ora, algumas palavras...” (ℓ. 14-15).` },
     ],
     correct: 'E',
     explanation: `Gabarito: E. No conto "A partida", de Osman Lins, o narrador descreve sua hesitação diante da avó adormecida na iminência de ir embora, e a questão pede o trecho em que esse sentimento contraditório fica expresso. A alternativa E é correta porque em "Deveria fugir ou falar com ela? Ora, algumas palavras..." o narrador oscila entre partir em silêncio e despedir-se, revelando com clareza a dúvida e o conflito interno. As demais falham: os trechos A, B, C e D relatam ações, cálculos de tempo ou a disposição de partir, mas não expressam diretamente a hesitação afetiva entre ficar e ir que marca o sentimento contraditório.`,
@@ -1686,25 +1322,11 @@ De acordo com as informações presentes no texto, os
 pontos de vista de Serafim da Silva Neto e de Paul 
 Teyssier convergem em relação`,
     alternatives: [
-      { id: 'A', type: 'text', value: `à influência dos aspectos socioculturais nas diferenças 
-dos falares entre indivíduos, pois ambos consideram 
-que pessoas de mesmo nível sociocultural falam de 
-forma semelhante.` },
-      { id: 'B', type: 'text', value: `à delimitação dialetal no Brasil assemelhar-se ao que 
-ocorria na România Antiga, pois ambos consideram a 
-variação linguística no Brasil como decorrente de 
-aspectos geográficos.` },
-      { id: 'C', type: 'text', value: `à variação sociocultural entre brasileiros de diferentes 
-regiões, pois ambos consideram o fator sociocultural 
-de bastante peso na constituição das variedades 
-linguísticas no Brasil.` },
-      { id: 'D', type: 'text', value: `à diversidade da língua portuguesa na România 
-Antiga, que até hoje continua a existir, manifestando-
-se nas variantes linguísticas do português atual no 
-Brasil.` },
-      { id: 'E', type: 'text', value: `à existência de delimitações dialetais geográficas 
-pouco marcadas no Brasil, embora cada um enfatize 
-aspectos diferentes da questão.` },
+      { id: 'A', type: 'text', value: `à influência dos aspectos socioculturais nas diferenças dos falares entre indivíduos, pois ambos consideram que pessoas de mesmo nível sociocultural falam de forma semelhante.` },
+      { id: 'B', type: 'text', value: `à delimitação dialetal no Brasil assemelhar-se ao que ocorria na România Antiga, pois ambos consideram a variação linguística no Brasil como decorrente de aspectos geográficos.` },
+      { id: 'C', type: 'text', value: `à variação sociocultural entre brasileiros de diferentes regiões, pois ambos consideram o fator sociocultural de bastante peso na constituição das variedades linguísticas no Brasil.` },
+      { id: 'D', type: 'text', value: `à diversidade da língua portuguesa na România Antiga, que até hoje continua a existir, manifestando-se nas variantes linguísticas do português atual no Brasil.` },
+      { id: 'E', type: 'text', value: `à existência de delimitações dialetais geográficas pouco marcadas no Brasil, embora cada um enfatize aspectos diferentes da questão.` },
     ],
     correct: 'E',
     explanation: `Gabarito: E. O texto opõe a tese de Serafim da Silva Neto, favorável à unidade da língua portuguesa no Brasil, à de Paul Teyssier, que vê essa unidade desfeita na diversidade socioletal, afirmando que as diferenças de fala são maiores entre um homem culto e um analfabeto vizinhos do que entre brasileiros de regiões distantes. A alternativa E é correta porque os dois pontos de vista convergem ao reconhecer a variação sociocultural como fator de grande peso na constituição das variedades linguísticas do Brasil. As demais falham: eles não concordam que pessoas de mesmo nível sociocultural falem sempre de forma semelhante (A); não equiparam a situação brasileira à da Romênia Antiga por fatores geográficos (B); não enfatizam a diversidade da Romênia Antiga (D); e não convergem apenas em torno de delimitações dialetais geográficas pouco marcadas (C).`,
@@ -1716,72 +1338,45 @@ aspectos diferentes da questão.` },
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `Nestes últimos anos, a situação mudou bastante e 
-o Brasil, normalizado, já não nos parece tão mítico, no bem 
-e no mal. Houve um mútuo reconhecimento entre os dois 
-países de expressão portuguesa de um lado e do outro do 
-Atlântico: o Brasil descobriu Portugal e Portugal, em um 
-retorno das caravelas, voltou a descobrir o Brasil e a ser, 
-por seu lado, colonizado por expressões linguísticas, as 
-telenovelas, os romances, a poesia, a comida e as formas 
-de tratamento brasileiros. O mesmo, embora em nível 
-superficial, dele excluído o plano da língua, aconteceu com 
-a Europa, que, depois da diáspora dos anos 70, depois da 
-inserção na cultura da bossa-nova e da música popular 
-brasileira, 
-da 
-problemática 
-ecológica 
-centrada 
-na 
-Amazônia, ou da problemática social emergente do 
-fenômeno dos meninos de rua, e até do álibi ocultista dos 
-romances de Paulo Coelho, continua todos os dias a 
-descobrir, no bem e no mal, o novo Brasil. Se, no fim do 
-século XIX, Sílvio Romero definia a literatura brasileira 
-como manifestação de um país mestiço, será fácil para nós 
-defini-la como expressão de um país polifônico: em que já 
-não é determinante o eixo Rio-São Paulo, mas que, em 
-cada região, desenvolve originalmente a sua unitária e 
-particular tradição cultural. É esse, para nós, no início do 
-século XXI, o novo estilo brasileiro. 
-STEGAGNO-PICCHIO, L. História da literatura brasileira. 
-Rio de Janeiro: Nova Aguilar, 2004 (adaptado). 
-No texto, a autora mostra como o Brasil, ao longo de sua 
-história, foi, aos poucos, construindo uma identidade 
-cultural e literária relativamente autônoma frente à 
-identidade europeia, em geral, e à portuguesa em 
-particular. Sua análise pressupõe, de modo especial, o 
-papel do patrimônio literário e linguístico, que favoreceu o 
-surgimento daquilo que ela chama de “estilo brasileiro”. 
-Diante desse pressuposto, e levando em consideração o 
-texto e as diferentes etapas de consolidação da cultura 
-brasileira, constata-se que`,
+    text: `Nestes últimos anos, a situação mudou bastante e o Brasil,
+normalizado, já não nos parece tão mítico, no bem e no mal.
+Houve um mútuo reconhecimento entre os dois países de
+expressão portuguesa de um lado e do outro do Atlântico: o
+Brasil descobriu Portugal e Portugal, em um retorno das
+caravelas, voltou a descobrir o Brasil e a ser, por seu lado,
+colonizado por expressões linguísticas, as telenovelas, os
+romances, a poesia, a comida e as formas de tratamento
+brasileiros. O mesmo, embora em nível superficial, dele
+excluído o plano da língua, aconteceu com a Europa, que,
+depois da diáspora dos anos 70, depois da inserção na cultura
+da bossa-nova e da música popular brasileira, da problemática
+ecológica centrada na Amazônia, ou da problemática social
+emergente do fenômeno dos meninos de rua, e até do álibi
+ocultista dos romances de Paulo Coelho, continua todos os dias
+a descobrir, no bem e no mal, o novo Brasil. Se, no fim do
+século XIX, Sílvio Romero definia a literatura brasileira como
+manifestação de um país mestiço, será fácil para nós defini-la
+como expressão de um país polifônico: em que já não é
+determinante o eixo Rio-São Paulo, mas que, em cada região,
+desenvolve originalmente a sua unitária e particular tradição
+cultural. É esse, para nós, no início do século XXI, o novo
+estilo brasileiro. STEGAGNO-PICCHIO, L. História da literatura
+brasileira. Rio de Janeiro: Nova Aguilar, 2004 (adaptado). No
+texto, a autora mostra como o Brasil, ao longo de sua
+história, foi, aos poucos, construindo uma identidade cultural
+e literária relativamente autônoma frente à identidade
+europeia, em geral, e à portuguesa em particular. Sua análise
+pressupõe, de modo especial, o papel do patrimônio literário e
+linguístico, que favoreceu o surgimento daquilo que ela chama
+de “estilo brasileiro”. Diante desse pressuposto, e levando em
+consideração o texto e as diferentes etapas de consolidação da
+cultura brasileira, constata-se que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o Brasil redescobriu a cultura portuguesa no século 
-XIX, o que o fez assimilar novos gêneros artísticos e 
-culturais, assim como usos originais do idioma, 
-conforme ilustra o caso do escritor Machado de Assis.` },
-      { id: 'B', type: 'text', value: `a Europa reconheceu a importância da língua 
-portuguesa no mundo, a partir da projeção que poetas 
-brasileiros ganharam naqueles países, a partir do 
-século XX.` },
-      { id: 'C', type: 'text', value: `ocorre, no início do século XXI, promovido pela 
-solidificação 
-da 
-cultura 
-nacional, 
-maior 
-reconhecimento do Brasil por ele mesmo, tanto nos 
-aspectos positivos quanto nos negativos.` },
-      { id: 'D', type: 'text', value: `o Brasil continua sendo, como no século XIX, uma 
-nação culturalmente mestiça, embora a expressão 
-dominante seja aquela produzida no eixo Rio-São 
-Paulo, em especial aquela ligada às telenovelas.` },
-      { id: 'E', type: 'text', value: `o novo estilo cultural brasileiro se caracteriza por uma 
-união bastante significativa entre as diversas matrizes 
-culturais advindas das várias regiões do país, como se 
-pode comprovar na obra de Paulo Coelho.` },
+      { id: 'A', type: 'text', value: `o Brasil redescobriu a cultura portuguesa no século XIX, o que o fez assimilar novos gêneros artísticos e culturais, assim como usos originais do idioma, conforme ilustra o caso do escritor Machado de Assis.` },
+      { id: 'B', type: 'text', value: `a Europa reconheceu a importância da língua portuguesa no mundo, a partir da projeção que poetas brasileiros ganharam naqueles países, a partir do século XX.` },
+      { id: 'C', type: 'text', value: `ocorre, no início do século XXI, promovido pela solidificação da cultura nacional, maior reconhecimento do Brasil por ele mesmo, tanto nos aspectos positivos quanto nos negativos.` },
+      { id: 'D', type: 'text', value: `o Brasil continua sendo, como no século XIX, uma nação culturalmente mestiça, embora a expressão dominante seja aquela produzida no eixo Rio-São Paulo, em especial aquela ligada às telenovelas.` },
+      { id: 'E', type: 'text', value: `o novo estilo cultural brasileiro se caracteriza por uma união bastante significativa entre as diversas matrizes culturais advindas das várias regiões do país, como se pode comprovar na obra de Paulo Coelho.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. O texto de Stegagno-Picchio descreve como o Brasil, ao longo de sua história, construiu uma identidade cultural e literária autônoma frente à europeia, culminando num "estilo brasileiro" polifônico no início do século XXI. A alternativa C é correta porque, segundo o texto, ocorre, nesse período, promovido pela solidificação da cultura nacional, um maior reconhecimento do Brasil por ele mesmo, tanto em seus aspectos positivos quanto negativos. As demais falham: a redescoberta da cultura portuguesa não se dá no século XIX pelo caso de Machado (A); a Europa não reconhece a língua a partir da projeção de poetas brasileiros no século XX (B); o texto não reduz o Brasil a nação mestiça dominada pelo eixo Rio-São Paulo (D); e não exemplifica a união das matrizes culturais pela obra de Paulo Coelho (E).`,
@@ -1834,23 +1429,10 @@ decorridos desse contato. Da comparação entre os textos,
 conclui-se que a posição de João de Barros (Texto II), em 
 relação aos usos sociais da linguagem, revela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `atitude crítica do autor quanto à gramática que as 
-nações a serviço de Portugal possuíam e, ao mesmo 
-tempo, de benevolência quanto ao conhecimento que 
-os povos tinham de suas línguas.` },
-      { id: 'B', type: 'text', value: `atitude preconceituosa relativa a vícios culturais das 
-nações sob domínio português, dado o interesse dos 
-falantes dessa línguas em copiar a língua do império, 
-o que implicou a falência do idioma falado em 
-Portugal.` },
-      { id: 'C', type: 'text', value: `o desejo de conservar, em Portugal, as estruturas da 
-variante padrão da língua grega - em oposição às 
-consideradas bárbaras -, em vista da necessidade de 
-preservação do padrão de correção dessa língua à 
-época.` },
-      { id: 'D', type: 'text', value: `adesão à concepção de língua como entidade 
-homogênea e invariável, e negação da ideia de que a 
-língua portuguesa pertence a outros povos.` },
+      { id: 'A', type: 'text', value: `atitude crítica do autor quanto à gramática que as nações a serviço de Portugal possuíam e, ao mesmo tempo, de benevolência quanto ao conhecimento que os povos tinham de suas línguas.` },
+      { id: 'B', type: 'text', value: `atitude preconceituosa relativa a vícios culturais das nações sob domínio português, dado o interesse dos falantes dessa línguas em copiar a língua do império, o que implicou a falência do idioma falado em Portugal.` },
+      { id: 'C', type: 'text', value: `o desejo de conservar, em Portugal, as estruturas da variante padrão da língua grega - em oposição às consideradas bárbaras -, em vista da necessidade de preservação do padrão de correção dessa língua à época.` },
+      { id: 'D', type: 'text', value: `adesão à concepção de língua como entidade homogênea e invariável, e negação da ideia de que a língua portuguesa pertence a outros povos.` },
       { id: 'E', type: 'text', value: `atitude crítica, que se estende à própria língua portuguesa, por se tratar de sistema que não disporia de elementos necessários para a plena inserção sociocultural de falantes não nativos do português.` },
     ],
     correct: 'D',
@@ -1905,33 +1487,11 @@ que, nas palavras do crítico Antônio Cândido, aliam
 temática abordada e à concepção narrativa da novela, o
 texto I`,
     alternatives: [
-      { id: 'A', type: 'text', value: `é escrito em terceira pessoa, com narrador onisciente, 
-apresentando a disputa entre um homem e uma 
-mulher em linguagem sóbria, condizente com a 
-seriedade da temática político-social do período da 
-ditadura militar.` },
-      { id: 'B', type: 'text', value: `articula o discurso dos interlocutores em torno de uma 
-luta verbal, veiculada por meio de linguagem simples e 
-objetiva, que busca traduzir a situação de exclusão 
-social do narrador.` },
-      { id: 'C', type: 'text', value: `representa a literatura dos anos 70 do século XX e 
-aborda, por meio de expressão clara e objetiva e de 
-ponto 
-de 
-vista 
-distanciado, 
-os 
-problemas 
-da 
-urbanização das grandes metrópoles brasileiras.` },
-      { id: 'D', type: 'text', value: `evidencia uma crítica à sociedade em que vivem os 
-personagens, por meio de fluxo verbal contínuo de tom 
-agressivo.` },
-      { id: 'E', type: 'text', value: `traduz, em linguagem subjetiva e intimista, a partir do 
-ponto de vista interno, os dramas psicológicos da 
-mulher moderna, às voltas com a questão da 
-priorização do trabalho em detrimento da vida familiar 
-e amorosa.` },
+      { id: 'A', type: 'text', value: `é escrito em terceira pessoa, com narrador onisciente, apresentando a disputa entre um homem e uma mulher em linguagem sóbria, condizente com a seriedade da temática político-social do período da ditadura militar.` },
+      { id: 'B', type: 'text', value: `articula o discurso dos interlocutores em torno de uma luta verbal, veiculada por meio de linguagem simples e objetiva, que busca traduzir a situação de exclusão social do narrador.` },
+      { id: 'C', type: 'text', value: `representa a literatura dos anos 70 do século XX e aborda, por meio de expressão clara e objetiva e de ponto de vista distanciado, os problemas da urbanização das grandes metrópoles brasileiras.` },
+      { id: 'D', type: 'text', value: `evidencia uma crítica à sociedade em que vivem os personagens, por meio de fluxo verbal contínuo de tom agressivo.` },
+      { id: 'E', type: 'text', value: `traduz, em linguagem subjetiva e intimista, a partir do ponto de vista interno, os dramas psicológicos da mulher moderna, às voltas com a questão da priorização do trabalho em detrimento da vida familiar e amorosa.` },
     ],
     correct: 'D',
     explanation: `Gabarito: D. A novela "Um Copo de Cólera", de Raduan Nassar, emprega recursos estilísticos típicos da literatura brasileira dos anos 1970, aliando, nas palavras de Antonio Candido, "vanguarda estética e amargura política". A alternativa D é correta porque o texto evidencia uma crítica à sociedade em que vivem os personagens, construída por meio de um fluxo verbal contínuo e de tom agressivo, característico do embate entre os amantes. As demais falham: a narrativa é em primeira pessoa e de linguagem torrencial, não sóbria e em terceira pessoa (A); a linguagem não é simples e objetiva voltada à exclusão social do narrador (B); não há ponto de vista distanciado sobre a urbanização (C); e o foco não é o drama psicológico da mulher moderna dividida entre trabalho e vida afetiva (E).`,
@@ -1982,32 +1542,11 @@ político e social no qual foi produzida a obra Um Copo de
 Cólera, verifica-se que o narrador, ao dirigir-se à sua
 parceira, nessa novela, tece um discurso`,
     alternatives: [
-      { id: 'A', type: 'text', value: `conformista, que procura defender as instituições nas 
-quais repousava a autoridade do regime militar no 
-Brasil, a saber: a Igreja, a família e o Estado.` },
-      { id: 'B', type: 'text', value: `pacifista, que procura defender os ideais libertários 
-representativos da intelectualidade brasileira opositora 
-à ditadura militar na década de 70 do século passado.` },
-      { id: 'C', type: 'text', value: `desmistificador, escrito em um discurso ágil e 
-contundente, 
-que 
-critica 
-os 
-grandes 
-princípios 
-humanitários 
-supostamente 
-defendidos 
-por 
-sua 
-interlocutora.` },
-      { id: 'D', type: 'text', value: `politizado, pois apela para o engajamento nas causas 
-sociais e para a defesa dos direitos humanos como 
-uma única forma de salvamento para a humanidade.` },
-      { id: 'E', type: 'text', value: `contraditório, ao acusar a sua interlocutora de 
-compactuar com o regime repressor da ditadura 
-militar, por meio da defesa de instituições como a 
-família e a Igreja.` },
+      { id: 'A', type: 'text', value: `conformista, que procura defender as instituições nas quais repousava a autoridade do regime militar no Brasil, a saber: a Igreja, a família e o Estado.` },
+      { id: 'B', type: 'text', value: `pacifista, que procura defender os ideais libertários representativos da intelectualidade brasileira opositora à ditadura militar na década de 70 do século passado.` },
+      { id: 'C', type: 'text', value: `desmistificador, escrito em um discurso ágil e contundente, que critica os grandes princípios humanitários supostamente defendidos por sua interlocutora.` },
+      { id: 'D', type: 'text', value: `politizado, pois apela para o engajamento nas causas sociais e para a defesa dos direitos humanos como uma única forma de salvamento para a humanidade.` },
+      { id: 'E', type: 'text', value: `contraditório, ao acusar a sua interlocutora de compactuar com o regime repressor da ditadura militar, por meio da defesa de instituições como a família e a Igreja.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. Considerando o contexto político da ditadura militar em que foi produzida "Um Copo de Cólera", a questão analisa o discurso do narrador ao dirigir-se à sua parceira. A alternativa C é correta porque esse discurso é desmistificador, ágil e contundente, criticando os grandes princípios humanitários supostamente defendidos pela interlocutora e desnudando as contradições do embate. As demais falham: o narrador não é conformista a ponto de defender as instituições do regime militar (A); não é pacifista ligado à intelectualidade opositora (B); não é um discurso politizado que apela ao engajamento como única salvação da humanidade (D); e não acusa a interlocutora de compactuar com o regime repressor por defender a família e a Igreja (E).`,
@@ -2035,37 +1574,11 @@ Sobre esse fenômeno do homem contemporâneo presente
 nas classes sociais brasileiras, principalmente, na classe 
 média, a corpolatria`,
     alternatives: [
-      { id: 'A', type: 'text', value: `é uma religião pelo avesso, por isso outra religião; 
-inverteram-se os sinais, a busca da felicidade eterna 
-antes carregava em si a destruição do prazer, hoje 
-implica o seu culto.` },
-      { id: 'B', type: 'text', value: `criou outro ópio do povo, levando as pessoas a 
-buscarem cada vez mais grupos igualitários de 
-integração social.` },
-      { id: 'C', type: 'text', value: `é 
-uma 
-tradução 
-dos 
-valores 
-das 
-sociedades 
-subdesenvolvidas, mas em países considerados do 
-primeiro mundo ela não consegue se manifestar 
-porque a população tem melhor educação e senso 
-crítico.` },
-      { id: 'D', type: 'text', value: `tem como um de seus dogmas o narcisismo, 
-significando o “amar o próximo como se ama a si 
-mesmo”.` },
-      { id: 'E', type: 'text', value: `existe 
-desde 
-a 
-Idade 
-Média, 
-entretanto 
-esse 
-acontecimento se intensificou a partir da Revolução 
-Industrial no século XIX e se estendeu até os nossos 
-dias.` },
+      { id: 'A', type: 'text', value: `é uma religião pelo avesso, por isso outra religião; inverteram-se os sinais, a busca da felicidade eterna antes carregava em si a destruição do prazer, hoje implica o seu culto.` },
+      { id: 'B', type: 'text', value: `criou outro ópio do povo, levando as pessoas a buscarem cada vez mais grupos igualitários de integração social.` },
+      { id: 'C', type: 'text', value: `é uma tradução dos valores das sociedades subdesenvolvidas, mas em países considerados do primeiro mundo ela não consegue se manifestar porque a população tem melhor educação e senso crítico.` },
+      { id: 'D', type: 'text', value: `tem como um de seus dogmas o narcisismo, significando o “amar o próximo como se ama a si mesmo”.` },
+      { id: 'E', type: 'text', value: `existe desde a Idade Média, entretanto esse acontecimento se intensificou a partir da Revolução Industrial no século XIX e se estendeu até os nossos dias.` },
     ],
     correct: 'A',
     explanation: `Gabarito: A. O texto apresenta a "corpolatria" como culto contemporâneo ao corpo, estruturado em analogia a uma religião, fruto da redescoberta individualizante do prazer. A alternativa A é correta porque a corpolatria é descrita como uma religião pelo avesso, uma outra religião em que se inverteram os sinais: enquanto a busca tradicional da felicidade eterna implicava a renúncia ao prazer, agora a felicidade passa justamente pelo culto ao prazer e ao corpo. As demais falham: a corpolatria não cria grupos igualitários de integração social (B); não é tradução dos valores de sociedades subdesenvolvidas (C); seu dogma não é o amor ao próximo (D); e o texto a situa como fenômeno dos últimos anos, não desde a Idade Média (E).`,
@@ -2077,79 +1590,46 @@ dias.` },
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `Confidência do Itabirano 
- 
-Alguns anos vivi em Itabira. 
-Principalmente nasci em Itabira. 
-Por isso sou triste, orgulhoso: de ferro. 
-Noventa por cento de ferro nas calçadas. 
-Oitenta por cento de ferro nas almas. 
-E esse alheamento do que na vida é porosidade e 
-[comunicação. 
- 
-A vontade de amar, que me paralisa o trabalho, 
-vem de Itabira, de suas noites brancas, sem mulheres e 
-[sem horizontes. 
-E o hábito de sofrer, que tanto me diverte, 
-é doce herança itabirana. 
- 
-De Itabira trouxe prendas diversas que ora te ofereço: 
-esta pedra de ferro, futuro aço do Brasil, 
-este São Benedito do velho santeiro Alfredo Duval; 
-este couro de anta, estendido no sofá da sala de visitas; 
-este orgulho, esta cabeça baixa... 
- 
-Tive ouro, tive gado, tive fazendas. 
-Hoje sou funcionário público. 
-Itabira é apenas uma fotografia na parede. 
-Mas como dói! 
-ANDRADE, C. D. Poesia completa. 
-Rio de Janeiro: Nova Aguilar, 2003. 
-Carlos Drummond de Andrade é um dos expoentes do 
-movimento modernista brasileiro. Com seus poemas, 
-penetrou fundo na alma do Brasil e trabalhou poeticamente 
-as inquietudes e os dilemas humanos. Sua poesia é feita 
-de uma relação tensa entre o universal e o particular, como 
-se 
-percebe 
-claramente 
-na 
-construção 
-do 
-poema 
-Confidência 
-do 
-Itabirano. 
-Tendo 
-em 
-vista 
-os 
-procedimentos de construção do texto literário e as 
-concepções artísticas modernistas, conclui-se que o 
-poema acima`,
+    text: `Confidência do Itabirano
+
+Alguns anos vivi em Itabira.
+Principalmente nasci em Itabira.
+Por isso sou triste, orgulhoso: de ferro.
+Noventa por cento de ferro nas calçadas.
+Oitenta por cento de ferro nas almas.
+E esse alheamento do que na vida é porosidade e
+[comunicação.
+
+A vontade de amar, que me paralisa o trabalho,
+vem de Itabira, de suas noites brancas, sem mulheres e
+[sem horizontes.
+E o hábito de sofrer, que tanto me diverte,
+é doce herança itabirana.
+
+De Itabira trouxe prendas diversas que ora te ofereço:
+esta pedra de ferro, futuro aço do Brasil,
+este São Benedito do velho santeiro Alfredo Duval;
+este couro de anta, estendido no sofá da sala de visitas;
+este orgulho, esta cabeça baixa...
+
+Tive ouro, tive gado, tive fazendas. Hoje sou funcionário
+público. Itabira é apenas uma fotografia na parede. Mas como
+dói! ANDRADE, C. D. Poesia completa. Rio de Janeiro: Nova
+Aguilar, 2003. Carlos Drummond de Andrade é um dos expoentes
+do movimento modernista brasileiro. Com seus poemas, penetrou
+fundo na alma do Brasil e trabalhou poeticamente as
+inquietudes e os dilemas humanos. Sua poesia é feita de uma
+relação tensa entre o universal e o particular, como se
+percebe claramente na construção do poema Confidência do
+Itabirano. Tendo em vista os procedimentos de construção do
+texto literário e as concepções artísticas modernistas,
+conclui-se que o poema acima`,
     alternatives: [
-      { id: 'A', type: 'text', value: `representa a fase heroica do modernismo, devido ao 
-tom contestatório e à utilização de expressões e usos 
-linguísticos típicos da oralidade.` },
-      { id: 'B', type: 'text', value: `apresenta uma característica importante do gênero 
-lírico, que é a apresentação objetiva de fatos e dados 
-históricos.` },
-      { id: 'C', type: 'text', value: `evidencia uma tensão histórica entre o “eu” e a sua 
-comunidade, 
-por 
-intermédio 
-de 
-imagens 
-que 
-representam a forma como a sociedade e o mundo 
-colaboram para a constituição do indivíduo.` },
-      { id: 'D', type: 'text', value: `critica, por meio de um discurso irônico, a posição de 
-inutilidade do poeta e da poesia em comparação com 
-as prendas resgatadas de Itabira.` },
-      { id: 'E', type: 'text', value: `apresenta influências românticas, uma vez que trata 
-da individualidade, da saudade da infância e do amor 
-pela terra natal, por meio de recursos retóricos 
-pomposos.` },
+      { id: 'A', type: 'text', value: `representa a fase heroica do modernismo, devido ao tom contestatório e à utilização de expressões e usos linguísticos típicos da oralidade.` },
+      { id: 'B', type: 'text', value: `apresenta uma característica importante do gênero lírico, que é a apresentação objetiva de fatos e dados históricos.` },
+      { id: 'C', type: 'text', value: `evidencia uma tensão histórica entre o “eu” e a sua comunidade, por intermédio de imagens que representam a forma como a sociedade e o mundo colaboram para a constituição do indivíduo.` },
+      { id: 'D', type: 'text', value: `critica, por meio de um discurso irônico, a posição de inutilidade do poeta e da poesia em comparação com as prendas resgatadas de Itabira.` },
+      { id: 'E', type: 'text', value: `apresenta influências românticas, uma vez que trata da individualidade, da saudade da infância e do amor pela terra natal, por meio de recursos retóricos pomposos.` },
     ],
     correct: 'C',
     explanation: `Gabarito: C. No poema "Confidência do Itabirano", de Carlos Drummond de Andrade, o eu lírico relaciona sua formação pessoal à cidade natal, Itabira, feita de ferro, orgulho e dor. A alternativa C é correta porque o poema evidencia uma tensão histórica entre o "eu" e sua comunidade, por meio de imagens (o ferro, as prendas trazidas de Itabira) que representam o modo como a sociedade e o lugar de origem colaboram para a constituição do indivíduo. As demais falham: o poema não representa a fase heroica do modernismo com tom contestatório e oralidade (A); o lírico não se define pela apresentação objetiva de fatos históricos (B); não há ironia que critique a inutilidade do poeta (D); e, embora trate da terra natal, não se filia a influências românticas por meio de recursos retóricos pomposos (E).`,
@@ -2265,16 +1745,11 @@ dos países desenvolvidos, será um número mais próximo
 de`,
     images: ['/enem/2009/images/enem_2009_d2_q139.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `2
-1 .` },
-      { id: 'B', type: 'text', value: `20
-7 .` },
-      { id: 'C', type: 'text', value: `25
-8 .` },
-      { id: 'D', type: 'text', value: `5
-1 .` },
-      { id: 'E', type: 'text', value: `25
-3 .` },
+      { id: 'A', type: 'text', value: `2 1 .` },
+      { id: 'B', type: 'text', value: `20 7 .` },
+      { id: 'C', type: 'text', value: `25 8 .` },
+      { id: 'D', type: 'text', value: `5 1 .` },
+      { id: 'E', type: 'text', value: `25 3 .` },
     ],
     correct: 'C',
     explanation: `Em 2050, nos países desenvolvidos há 461 milhões de pessoas com 60 anos ou mais, correspondendo, pela escala à direita do gráfico, a cerca de 32% da população total desse grupo. A probabilidade de escolher ao acaso uma pessoa com 60+ é, então, ≈ 0,32 = 8/25. Resposta: C.`,
@@ -2286,26 +1761,15 @@ de`,
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `O governo cedeu terrenos para que famílias 
-construíssem suas residências com a condição de que no 
-mínimo 94% da área do terreno fosse mantida como área 
-de preservação ambiental. Ao receber o terreno retangular 
-ABCD, em que 
-2
-BC
-AB =
-, Antônio demarcou uma área 
-quadrada no vértice A, para a construção de sua 
-residência, de acordo com o desenho, no qual 
-5
-AB
-AE =
- é 
-lado do quadrado. 
- 
- 
- 
-Nesse caso, a área definida por Antônio atingiria 
+    text: `O governo cedeu terrenos para que famílias construíssem suas
+residências com a condição de que no mínimo 94% da área do
+terreno fosse mantida como área de preservação ambiental. Ao
+receber o terreno retangular ABCD, em que 2 BC AB = , Antônio
+demarcou uma área quadrada no vértice A, para a construção de
+sua residência, de acordo com o desenho, no qual 5 AB AE = é
+lado do quadrado.
+
+Nesse caso, a área definida por Antônio atingiria
 exatamente o limite determinado pela condição se ele`,
     images: ['/enem/2009/images/enem_2009_d2_q140.jpg'],
     alternatives: [
@@ -2373,31 +1837,11 @@ Summer Course - 1992 (adaptado).
 De acordo com as informações do gráfico,`,
     images: ['/enem/2009/images/enem_2009_d2_q142.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `o consumo diário de cigarros e o número de casos de 
-câncer de pulmão são grandezas inversamente 
-proporcionais.` },
-      { id: 'B', type: 'text', value: `o consumo diário de cigarros e o número de casos de 
-câncer de pulmão são grandezas que não se 
-relacionam.` },
-      { id: 'C', type: 'text', value: `o consumo diário de cigarros e o número de casos de 
-câncer 
-de 
-pulmão 
-são 
-grandezas 
-diretamente 
-proporcionais.` },
-      { id: 'D', type: 'text', value: `uma pessoa não fumante certamente nunca será 
-diagnosticada com câncer de pulmão.` },
-      { id: 'E', type: 'text', value: `o consumo diário de cigarros e o número de casos de 
-câncer 
-de 
-pulmão 
-são 
-grandezas 
-que 
-estão 
-relacionadas, mas sem proporcionalidade.` },
+      { id: 'A', type: 'text', value: `o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas inversamente proporcionais.` },
+      { id: 'B', type: 'text', value: `o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que não se relacionam.` },
+      { id: 'C', type: 'text', value: `o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas diretamente proporcionais.` },
+      { id: 'D', type: 'text', value: `uma pessoa não fumante certamente nunca será diagnosticada com câncer de pulmão.` },
+      { id: 'E', type: 'text', value: `o consumo diário de cigarros e o número de casos de câncer de pulmão são grandezas que estão relacionadas, mas sem proporcionalidade.` },
     ],
     correct: 'E',
     explanation: `O gráfico mostra os casos de câncer praticamente constantes (≈20) de 1 a 14 cigarros e um salto para ≈50, mantendo-se constante, de 15 a 25 cigarros. Como o número de casos cresce com o consumo (não é independente), mas não o faz de forma proporcional (não há razão constante nem reta pela origem), as grandezas estão relacionadas, porém sem proporcionalidade. Resposta: E.`,
@@ -2470,18 +1914,11 @@ poderia ser preenchido com`,
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `O controle de qualidade de uma empresa 
-fabricante 
-de 
-telefones 
-celulares 
-aponta 
-que 
-a 
-probabilidade de um aparelho de determinado modelo 
-apresentar defeito de fabricação é de 0,2%. Se uma loja 
-acaba de vender 4 aparelhos desse modelo para um 
-cliente, qual é a probabilidade de esse cliente sair da loja 
+    text: `O controle de qualidade de uma empresa fabricante de telefones
+celulares aponta que a probabilidade de um aparelho de
+determinado modelo apresentar defeito de fabricação é de 0,2%.
+Se uma loja acaba de vender 4 aparelhos desse modelo para um
+cliente, qual é a probabilidade de esse cliente sair da loja
 com exatamente dois aparelhos defeituosos?`,
     images: null,
     alternatives: [
@@ -2600,22 +2037,14 @@ produção (em toneladas) é`,
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `Em Florença, Itália, na Igreja de Santa Croce, é 
-possível encontrar um portão em que aparecem os anéis 
-de Borromeo. Alguns historiadores acreditavam que os 
-círculos representavam as três artes: escultura, pintura e 
-arquitetura, 
-pois 
-elas 
-eram 
-tão 
-próximas 
-quanto 
-inseparáveis. 
- 
- 
-Scientific American, ago. 2008. 
-Qual dos esboços a seguir melhor representa os anéis de 
+    text: `Em Florença, Itália, na Igreja de Santa Croce, é possível
+encontrar um portão em que aparecem os anéis de Borromeo.
+Alguns historiadores acreditavam que os círculos representavam
+as três artes: escultura, pintura e arquitetura, pois elas
+eram tão próximas quanto inseparáveis.
+
+Scientific American, ago. 2008.
+Qual dos esboços a seguir melhor representa os anéis de
 Borromeo?`,
     images: ['/enem/2009/images/enem_2009_d2_q149.jpg'],
     alternatives: [
@@ -2635,35 +2064,17 @@ Borromeo?`,
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `Brasil e França têm relações comerciais há mais 
-de 200 anos. Enquanto a França é a 5.ª nação mais rica do 
-planeta, o Brasil é a 10.ª, e ambas se destacam na 
-economia mundial. No entanto, devido a uma série de 
-restrições, o comércio entre esses dois países ainda não é 
-adequadamente 
-explorado, 
-como 
-mostra 
-a 
-tabela 
-seguinte, referente ao período 2003-2007. 
- 
- 
-Disponível em: www.cartacapital.com.br. Acesso em: 7 jul. 2009. 
- 
-Os dados da tabela mostram que, no período considerado, 
-os valores médios dos investimentos da França no Brasil 
-foram maiores que os investimentos do Brasil na França 
-em um valor`,
+    text: `Brasil e França têm relações comerciais há mais de 200 anos. Enquanto a França é a 5.ª nação mais rica do planeta, o Brasil é a 10.ª, e ambas se destacam na economia mundial. No entanto, devido a uma série de restrições, o comércio entre esses dois países ainda não é adequadamente explorado, como mostra a tabela seguinte, referente ao período 2003-2007.
+
+Disponível em: www.cartacapital.com.br. Acesso em: 7 jul. 2009.
+
+Os dados da tabela mostram que, no período considerado, os valores médios dos investimentos da França no Brasil foram maiores que os investimentos do Brasil na França em um valor`,
     images: ['/enem/2009/images/enem_2009_d2_q150.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `inferior a 300 milhões de dólares.` },
-      { id: 'B', type: 'text', value: `superior a 300 milhões de dólares, mas inferior a 
-400 milhões de dólares.` },
-      { id: 'C', type: 'text', value: `superior a 400 milhões de dólares, mas inferior a 
-500 milhões de dólares.` },
-      { id: 'D', type: 'text', value: `superior a 500 milhões de dólares, mas inferior a 
-600 milhões de dólares.` },
+      { id: 'B', type: 'text', value: `superior a 300 milhões de dólares, mas inferior a 400 milhões de dólares.` },
+      { id: 'C', type: 'text', value: `superior a 400 milhões de dólares, mas inferior a 500 milhões de dólares.` },
+      { id: 'D', type: 'text', value: `superior a 500 milhões de dólares, mas inferior a 600 milhões de dólares.` },
       { id: 'E', type: 'text', value: `superior a 600 milhões de dólares.` },
     ],
     correct: 'D',
@@ -2760,37 +2171,11 @@ indicado na figura. A interseção desse plano imaginário
 com a escultura contém`,
     images: ['/enem/2009/images/enem_2009_d2_q153.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `dois 
-triângulos 
-congruentes 
-com 
-lados 
-correspondentes paralelos.` },
-      { id: 'B', type: 'text', value: `dois 
-retângulos 
-congruentes 
-e 
-com 
-lados 
-correspondentes paralelos.` },
-      { id: 'C', type: 'text', value: `dois 
-trapézios 
-congruentes 
-com 
-lados 
-correspondentes perpendiculares.` },
-      { id: 'D', type: 'text', value: `dois 
-paralelogramos 
-congruentes 
-com 
-lados 
-correspondentes paralelos.` },
-      { id: 'E', type: 'text', value: `dois 
-quadriláteros 
-congruentes 
-com 
-lados 
-correspondentes perpendiculares.` },
+      { id: 'A', type: 'text', value: `dois triângulos congruentes com lados correspondentes paralelos.` },
+      { id: 'B', type: 'text', value: `dois retângulos congruentes e com lados correspondentes paralelos.` },
+      { id: 'C', type: 'text', value: `dois trapézios congruentes com lados correspondentes perpendiculares.` },
+      { id: 'D', type: 'text', value: `dois paralelogramos congruentes com lados correspondentes paralelos.` },
+      { id: 'E', type: 'text', value: `dois quadriláteros congruentes com lados correspondentes perpendiculares.` },
     ],
     correct: 'A',
     explanation: `O plano é paralelo à face α do prisma I e passa por P. Como os prismas são retos de bases triangulares e o plano corta duas partes congruentes da escultura mantendo o paralelismo das faces, a interseção contém dois triângulos congruentes com lados correspondentes paralelos. Resposta: A.`,
@@ -2848,33 +2233,28 @@ relaciona V e x é`,
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `Para cada indivíduo, a sua inscrição no Cadastro 
-de Pessoas Físicas (CPF) é composto por um número de 9 
-algarismos e outro número de 2 algarismos, na forma d1d2, 
-em que os dígitos d1 e d2 são denominados dígitos 
-verificadores. Os dígitos verificadores são calculados, a 
-partir da esquerda, da seguinte maneira: os 9 primeiros 
-algarismos 
-são 
-multiplicados 
-pela 
-sequência 
-10, 9, 8, 7, 6, 5, 4, 3, 2 (o primeiro por 10, o segundo por 9, 
-e assim sucessivamente); em seguida, calcula-se o resto r 
-da divisão da soma dos resultados das multiplicações por 
-11, e se esse resto r for 0 ou 1, d1 é zero, caso contrário 
-d1 = (11 - r). O dígito d2 é calculado pela mesma regra, na 
-qual os números a serem multiplicados pela sequência 
-dada são contados a partir do segundo algarismo, sendo 
-d1 o último algarismo, isto é, d2 é zero se o resto s da 
-divisão por 11 das somas das multiplicações for 0 ou 1, 
-caso contrário, d2 = (11 - s). 
- 
-Suponha que João tenha perdido seus documentos, 
-inclusive o cartão de CPF e, ao dar queixa da perda na 
-delegacia, não conseguisse lembrar quais eram os dígitos 
-verificadores, recordando-se apenas que os nove primeiros 
-algarismos eram 123.456.789. Neste caso, os dígitos 
+    text: `Para cada indivíduo, a sua inscrição no Cadastro de Pessoas
+Físicas (CPF) é composto por um número de 9 algarismos e outro
+número de 2 algarismos, na forma d1d2, em que os dígitos d1 e
+d2 são denominados dígitos verificadores. Os dígitos
+verificadores são calculados, a partir da esquerda, da
+seguinte maneira: os 9 primeiros algarismos são multiplicados
+pela sequência 10, 9, 8, 7, 6, 5, 4, 3, 2 (o primeiro por 10,
+o segundo por 9, e assim sucessivamente); em seguida,
+calcula-se o resto r da divisão da soma dos resultados das
+multiplicações por 11, e se esse resto r for 0 ou 1, d1 é
+zero, caso contrário d1 = (11 - r). O dígito d2 é calculado
+pela mesma regra, na qual os números a serem multiplicados
+pela sequência dada são contados a partir do segundo
+algarismo, sendo d1 o último algarismo, isto é, d2 é zero se o
+resto s da divisão por 11 das somas das multiplicações for 0
+ou 1, caso contrário, d2 = (11 - s).
+
+Suponha que João tenha perdido seus documentos,
+inclusive o cartão de CPF e, ao dar queixa da perda na
+delegacia, não conseguisse lembrar quais eram os dígitos
+verificadores, recordando-se apenas que os nove primeiros
+algarismos eram 123.456.789. Neste caso, os dígitos
 verificadores d1 e d2 esquecidos são, respectivamente,`,
     images: null,
     alternatives: [
@@ -2918,22 +2298,14 @@ transportadas em uma caixa é igual a`,
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `A figura a seguir mostra as medidas reais de uma 
-aeronave 
-que 
-será 
-fabricada 
-para 
-utilização 
-por 
-companhias de transporte aéreo. Um engenheiro precisa 
-fazer o desenho desse avião em escala de 1:150. 
- 
- 
- 
-Para o engenheiro fazer esse desenho em uma folha de 
-papel, deixando uma margem de 1 cm em relação às 
-bordas da folha, quais as dimensões mínimas, em 
+    text: `A figura a seguir mostra as medidas reais de uma aeronave que
+será fabricada para utilização por companhias de transporte
+aéreo. Um engenheiro precisa fazer o desenho desse avião em
+escala de 1:150.
+
+Para o engenheiro fazer esse desenho em uma folha de
+papel, deixando uma margem de 1 cm em relação às
+bordas da folha, quais as dimensões mínimas, em
 centímetros, que essa folha deverá ter?`,
     images: ['/enem/2009/images/enem_2009_d2_q158.jpg'],
     alternatives: [
@@ -2953,29 +2325,11 @@ centímetros, que essa folha deverá ter?`,
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `Um experimento consiste em colocar certa 
-quantidade de bolas de vidro idênticas em um copo com 
-água até certo nível e medir o nível da água, conforme 
-ilustrado 
-na 
-figura 
-a 
-seguir. 
-Como 
-resultado 
-do 
-experimento, concluiu-se que o nível da água é função do 
-número de bolas de vidro que são colocadas dentro do 
-copo. 
- 
-O quadro a seguir mostra alguns resultados do 
-experimento realizado. 
- 
- 
-Disponível em: www.penta.ufrgs.br. 
-Acesso em: 13 jan. 2009 (adaptado). 
-Qual a expressão algébrica que permite calcular o nível da 
-água (y) em função do número de bolas (x)?`,
+    text: `Um experimento consiste em colocar certa quantidade de bolas de vidro idênticas em um copo com água até certo nível e medir o nível da água, conforme ilustrado na figura a seguir. Como resultado do experimento, concluiu-se que o nível da água é função do número de bolas de vidro que são colocadas dentro do copo.
+
+O quadro a seguir mostra alguns resultados do experimento realizado.
+
+Disponível em: www.penta.ufrgs.br. Acesso em: 13 jan. 2009 (adaptado). Qual a expressão algébrica que permite calcular o nível da água (y) em função do número de bolas (x)?`,
     images: ['/enem/2009/images/enem_2009_d2_q159_1.jpg', '/enem/2009/images/enem_2009_d2_q159_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `y = 30x.` },
@@ -3013,8 +2367,7 @@ cooperativa deveria`,
       { id: 'B', type: 'text', value: `oferecer 4 máquinas a mais.` },
       { id: 'C', type: 'text', value: `oferecer 6 trabalhadores a mais.` },
       { id: 'D', type: 'text', value: `aumentar a jornada de trabalho para 9 horas diárias.` },
-      { id: 'E', type: 'text', value: `reduzir em R$ 400,00 o valor do aluguel diário de uma 
-máquina.` },
+      { id: 'E', type: 'text', value: `reduzir em R$ 400,00 o valor do aluguel diário de uma máquina.` },
     ],
     correct: 'D',
     explanation: `Ritmo de colheita é proporcional a (trabalhadores × horas). Atual: 12 × 6 h → 20 ha/dia; em 6 dias colhe 120 ha, mas são exigidos 180 ha (30 ha/dia, 1,5 vez mais). Aumentando a jornada de 6 h para 9 h (fator 1,5), passa-se a 30 ha/dia → 180 ha em 6 dias. O custo (R$ 10 por trabalhador·dia e R$ 1 000 por máquina·dia) permanece: 12·10·6 + 4·1000·6 = 720 + 24 000 = R$ 24 720 < R$ 25 000. Resposta: D.`,
@@ -3045,10 +2398,8 @@ comparecido, essa equipe`,
       { id: 'A', type: 'text', value: `teria a pontuação igual a 6,5 se ele obtivesse nota 0.` },
       { id: 'B', type: 'text', value: `seria a vencedora se ele obtivesse nota 10.` },
       { id: 'C', type: 'text', value: `seria a segunda colocada se ele obtivesse nota 8.` },
-      { id: 'D', type: 'text', value: `permaneceria na terceira posição, independentemente 
-da nota obtida pelo aluno.` },
-      { id: 'E', type: 'text', value: `empataria com a equipe Ômega na primeira colocação 
-se o aluno obtivesse nota 9.` },
+      { id: 'D', type: 'text', value: `permaneceria na terceira posição, independentemente da nota obtida pelo aluno.` },
+      { id: 'E', type: 'text', value: `empataria com a equipe Ômega na primeira colocação se o aluno obtivesse nota 9.` },
     ],
     correct: 'D',
     explanation: `As notas da equipe Gama (com o faltoso = 0) ordenadas: 0; 6; 6,5; 6,5; 7; 7; 8; 8; 10; 10 → mediana = (7+7)/2 = 7. Se o faltoso comparecesse, substituiríamos o 0 por uma nota x (0 a 10). A mediana (média do 5º e 6º valores) varia de 7 (x baixo) a no máximo 7,5 (x = 10). Em qualquer caso fica abaixo de 7,6 (Delta) e 7,8 (Ômega), então Gama permaneceria em 3º lugar, independentemente da nota. Resposta: D.`,
@@ -3122,23 +2473,18 @@ deverá pesar, no mínimo,`,
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `Ao morrer, o pai de João, Pedro e José deixou como 
-herança um terreno retangular de 3 km x 2 km que contém 
-uma área de extração de ouro delimitada por um quarto de 
-círculo de raio 1 km a partir do canto inferior esquerdo da 
-propriedade. Dado o maior valor da área de extração de 
-ouro, os irmãos acordaram em repartir a propriedade de 
-modo que cada um ficasse com a terça parte da área de 
-extração, conforme mostra a figura. 
- 
-Em relação à partilha proposta, constata-se que a 
-porcentagem da área do terreno que coube a João 
-corresponde, aproximadamente, a 
-(considere 
-0,58
-3
-3 =
-)`,
+    text: `Ao morrer, o pai de João, Pedro e José deixou como
+herança um terreno retangular de 3 km x 2 km que contém
+uma área de extração de ouro delimitada por um quarto de
+círculo de raio 1 km a partir do canto inferior esquerdo da
+propriedade. Dado o maior valor da área de extração de
+ouro, os irmãos acordaram em repartir a propriedade de
+modo que cada um ficasse com a terça parte da área de
+extração, conforme mostra a figura.
+
+Em relação à partilha proposta, constata-se que a porcentagem
+da área do terreno que coube a João corresponde,
+aproximadamente, a (considere 0,58 3 3 = )`,
     images: ['/enem/2009/images/enem_2009_d2_q164.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `50%.` },
@@ -3210,11 +2556,9 @@ fez uma conexão em`,
     images: ['/enem/2009/images/enem_2009_d2_q166.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Belo Horizonte, e em seguida embarcou para Curitiba.` },
-      { id: 'B', type: 'text', value: `Belo Horizonte, e em seguida embarcou para 
-Salvador.` },
+      { id: 'B', type: 'text', value: `Belo Horizonte, e em seguida embarcou para Salvador.` },
       { id: 'C', type: 'text', value: `Boa Vista, e em seguida embarcou para Porto Velho.` },
-      { id: 'D', type: 'text', value: `Goiânia, e em seguida embarcou para o Rio de 
-Janeiro.` },
+      { id: 'D', type: 'text', value: `Goiânia, e em seguida embarcou para o Rio de Janeiro.` },
       { id: 'E', type: 'text', value: `Goiânia, e em seguida embarcou para Manaus.` },
     ],
     correct: 'B',
@@ -3227,23 +2571,11 @@ Janeiro.` },
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `O 
-quadro 
-apresenta 
-informações 
-da 
-área 
-aproximada de cada bioma brasileiro. 
- 
- 
- 
-Disponível em: www.ibge.gov.br. Acesso em: 10 jul. 2009 (adaptado). 
-É comum em conversas informais, ou mesmo em 
-noticiários, o uso de múltiplos da área de um campo de 
-futebol (com as medidas de 120 m x 90 m) para auxiliar a 
-visualização de áreas consideradas extensas. Nesse caso, 
-qual é o número de campos de futebol correspondente à 
-área aproximada do bioma Pantanal?`,
+    text: `O quadro apresenta informações da área aproximada de cada bioma brasileiro.
+
+
+
+Disponível em: www.ibge.gov.br. Acesso em: 10 jul. 2009 (adaptado). É comum em conversas informais, ou mesmo em noticiários, o uso de múltiplos da área de um campo de futebol (com as medidas de 120 m x 90 m) para auxiliar a visualização de áreas consideradas extensas. Nesse caso, qual é o número de campos de futebol correspondente à área aproximada do bioma Pantanal?`,
     images: ['/enem/2009/images/enem_2009_d2_q167.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1.400` },
@@ -3292,11 +2624,11 @@ igual a`,
     text: `A vazão do rio Tietê, em São Paulo, constitui preocupação constante nos períodos chuvosos. Em alguns trechos, são construídas canaletas para controlar o fluxo de água. Uma dessas canaletas, cujo corte vertical determina a forma de um trapézio isósceles, tem as medidas especificadas na figura I. Neste caso, a vazão da 3 3 água é de 1.050 m /s. O cálculo da vazão, Q em m /s, envolve o produto da área A do setor transversal (por onde 2 passa a água), em m , pela velocidade da água no local, v, em m/s, ou seja, Q = Av. Planeja-se uma reforma na canaleta, com as dimensões especificadas na figura II, para evitar a ocorrência de enchentes. Disponível em: www2.uel.br. Na suposição de que a velocidade da água não se alterará, qual a vazão esperada para depois da reforma na canaleta?`,
     images: ['/enem/2009/images/enem_2009_d2_q169.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `90 m3/s.` },
-      { id: 'B', type: 'text', value: `750 m3/s.` },
-      { id: 'C', type: 'text', value: `1.050 m3/s.` },
-      { id: 'D', type: 'text', value: `1.512 m3/s.` },
-      { id: 'E', type: 'text', value: `2.009 m3/s.` },
+      { id: 'A', type: 'text', value: `90 m³/s.` },
+      { id: 'B', type: 'text', value: `750 m³/s.` },
+      { id: 'C', type: 'text', value: `1.050 m³/s.` },
+      { id: 'D', type: 'text', value: `1.512 m³/s.` },
+      { id: 'E', type: 'text', value: `2.009 m³/s.` },
     ],
     correct: 'D',
     explanation: `A vazão é Q = A·v. Na figura I (trapézio de bases 30 m e 20 m, altura 2,5 m): A₁ = (30+20)/2 · 2,5 = 62,5 m²; com Q = 1 050 m³/s, v = 1 050/62,5 = 16,8 m/s. Na figura II (bases 49 m e 41 m, altura 2,0 m): A₂ = (49+41)/2 · 2,0 = 90 m². Mantendo v, Q₂ = 90 × 16,8 = 1 512 m³/s. Resposta: D.`,
@@ -3340,38 +2672,24 @@ espaço possível, ele deve utilizar`,
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `A 
-população 
-brasileira 
-sabe, 
-pelo 
-menos 
-intuitivamente, que a probabilidade de acertar as 
-seis dezenas da mega sena não é zero, mas é quase. 
-Mesmo assim, milhões de pessoas são atraídas por essa 
-loteria, especialmente quando o prêmio se acumula em 
-valores altos. Até junho de 2009, cada aposta de 
-seis dezenas, pertencentes ao conjunto {01, 02, 03, ..., 59, 
-60}, custava R$ 1,50. 
-Disponível em: www.caixa.gov.br. Acesso em: 7 jul. 2009. 
-Considere que uma pessoa decida apostar exatamente 
-R$ 126,00 e que esteja mais interessada em acertar 
-apenas cinco das seis dezenas da mega sena, justamente 
-pela dificuldade desta última. Nesse caso, é melhor que 
-essa pessoa faça 84 apostas de seis dezenas diferentes, 
-que não tenham cinco números em comum, do que uma 
-única aposta com nove dezenas, porque a probabilidade 
-de acertar a quina no segundo caso em relação ao 
-primeiro é, aproximadamente,`,
+    text: `A população brasileira sabe, pelo menos intuitivamente, que a
+probabilidade de acertar as seis dezenas da mega sena não é
+zero, mas é quase. Mesmo assim, milhões de pessoas são
+atraídas por essa loteria, especialmente quando o prêmio se
+acumula em valores altos. Até junho de 2009, cada aposta de
+seis dezenas, pertencentes ao conjunto {01, 02, 03, ..., 59,
+60}, custava R$ 1,50. Disponível em: www.caixa.gov.br. Acesso
+em: 7 jul. 2009. Considere que uma pessoa decida apostar
+exatamente R$ 126,00 e que esteja mais interessada em acertar
+apenas cinco das seis dezenas da mega sena, justamente pela
+dificuldade desta última. Nesse caso, é melhor que essa pessoa
+faça 84 apostas de seis dezenas diferentes, que não tenham
+cinco números em comum, do que uma única aposta com nove
+dezenas, porque a probabilidade de acertar a quina no segundo
+caso em relação ao primeiro é, aproximadamente,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `2
-1
-1
-vez menor.` },
-      { id: 'B', type: 'text', value: `2
-1
-2
- vezes menor.` },
+      { id: 'A', type: 'text', value: `2 1 1 vez menor.` },
+      { id: 'B', type: 'text', value: `2 1 2 vezes menor.` },
       { id: 'C', type: 'text', value: `4 vezes menor.` },
       { id: 'D', type: 'text', value: `9 vezes menor.` },
       { id: 'E', type: 'text', value: `14 vezes menor.` },
@@ -3386,45 +2704,13 @@ vez menor.` },
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `Nos últimos anos, o volume de petróleo exportado 
-pelo Brasil tem mostrado expressiva tendência de 
-crescimento, ultrapassando as importações em 2008. 
-Entretanto, apesar de as importações terem se mantido 
-praticamente no mesmo patamar desde 2001, os recursos 
-gerados com as exportações ainda são inferiores àqueles 
-despendidos com as importações, uma vez que o preço 
-médio por metro cúbico do petróleo importado é superior 
-ao do petróleo nacional. Nos primeiros cinco meses de 
-2009, foram gastos 2,84 bilhões de dólares com 
-importações e gerada uma receita de 2,24 bilhões de 
-dólares com as exportações. O preço médio por metro 
-cúbico em maio de 2009 foi de 340 dólares para o petróleo 
-importado e de 230 dólares para o petróleo exportado. 
-O quadro a seguir mostra os dados consolidados de 2001 
-a 2008 e dos primeiros cinco meses de 2009. 
- 
-Comércio exterior de petróleo 
-(milhões de metros cúbicos) 
- 
-*Valores apurados de janeiro a maio de 2009. 
-Disponível em: http://www.anp.gov.br. 
-Acesso em: 15 jul. 2009 (adaptado). 
- 
-Considere que as importações e exportações de petróleo 
-de junho a dezembro de 2009 sejam iguais a 7/5 das
-importações e exportações, respectivamente, ocorridas de
-janeiro a maio de 2009. Nesse caso, supondo que os 
-preços para importação e exportação não sofram 
-alterações, qual seria o valor mais aproximado da 
-diferença 
-entre 
-os 
-recursos 
-despendidos 
-com 
-as 
-importações e os recursos gerados com as exportações 
-em 2009?`,
+    text: `Nos últimos anos, o volume de petróleo exportado pelo Brasil tem mostrado expressiva tendência de crescimento, ultrapassando as importações em 2008. Entretanto, apesar de as importações terem se mantido praticamente no mesmo patamar desde 2001, os recursos gerados com as exportações ainda são inferiores àqueles despendidos com as importações, uma vez que o preço médio por metro cúbico do petróleo importado é superior ao do petróleo nacional. Nos primeiros cinco meses de 2009, foram gastos 2,84 bilhões de dólares com importações e gerada uma receita de 2,24 bilhões de dólares com as exportações. O preço médio por metro cúbico em maio de 2009 foi de 340 dólares para o petróleo importado e de 230 dólares para o petróleo exportado. O quadro a seguir mostra os dados consolidados de 2001 a 2008 e dos primeiros cinco meses de 2009.
+
+Comércio exterior de petróleo (milhões de metros cúbicos)
+
+*Valores apurados de janeiro a maio de 2009. Disponível em: http://www.anp.gov.br. Acesso em: 15 jul. 2009 (adaptado).
+
+Considere que as importações e exportações de petróleo de junho a dezembro de 2009 sejam iguais a 7/5 das importações e exportações, respectivamente, ocorridas de janeiro a maio de 2009. Nesse caso, supondo que os preços para importação e exportação não sofram alterações, qual seria o valor mais aproximado da diferença entre os recursos despendidos com as importações e os recursos gerados com as exportações em 2009?`,
     images: ['/enem/2009/images/enem_2009_d2_q172.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `600 milhões de dólares.` },
@@ -3443,34 +2729,26 @@ em 2009?`,
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `Uma fábrica produz velas de 
-parafina 
-em 
-forma 
-de 
-pirâmide 
-quadrangular regular com 19 cm de 
-altura e 6 cm de aresta da base. Essas 
-velas são formadas por 4 blocos de 
-mesma altura - 3 troncos de pirâmide 
-de bases paralelas e 1 pirâmide na 
-parte superior -, espaçados de 1 cm 
-entre eles, sendo que a base superior 
-de cada bloco é igual à base inferior do 
-bloco sobreposto, com uma haste de ferro passando pelo 
-centro de cada bloco, unindo-os, conforme a figura. 
- 
-Se o dono da fábrica resolver diversificar o modelo, 
-retirando a pirâmide da parte superior, que tem 1,5 cm de 
-aresta na base, mas mantendo o mesmo molde, quanto ele 
+    text: `Uma fábrica produz velas de parafina em forma de pirâmide
+quadrangular regular com 19 cm de altura e 6 cm de aresta da
+base. Essas velas são formadas por 4 blocos de mesma altura -
+3 troncos de pirâmide de bases paralelas e 1 pirâmide na parte
+superior -, espaçados de 1 cm entre eles, sendo que a base
+superior de cada bloco é igual à base inferior do bloco
+sobreposto, com uma haste de ferro passando pelo centro de
+cada bloco, unindo-os, conforme a figura.
+
+Se o dono da fábrica resolver diversificar o modelo,
+retirando a pirâmide da parte superior, que tem 1,5 cm de
+aresta na base, mas mantendo o mesmo molde, quanto ele
 passará a gastar com parafina para fabricar uma vela?`,
     images: ['/enem/2009/images/enem_2009_d2_q173.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `156 cm3.` },
-      { id: 'B', type: 'text', value: `189 cm3.` },
-      { id: 'C', type: 'text', value: `192 cm3.` },
-      { id: 'D', type: 'text', value: `216 cm3.` },
-      { id: 'E', type: 'text', value: `540 cm3.` },
+      { id: 'A', type: 'text', value: `156 cm³.` },
+      { id: 'B', type: 'text', value: `189 cm³.` },
+      { id: 'C', type: 'text', value: `192 cm³.` },
+      { id: 'D', type: 'text', value: `216 cm³.` },
+      { id: 'E', type: 'text', value: `540 cm³.` },
     ],
     correct: 'B',
     explanation: `A vela é uma pirâmide de altura 19 cm e aresta 6 cm, formada por 4 blocos de mesma altura separados por 3 espaços de 1 cm: altura útil = 19 − 3 = 16 cm, cada bloco 4 cm. A aresta diminui 6/16 = 0,375 por cm, logo as arestas das seções são 6; 4,5; 3; 1,5. Volumes (base quadrada): tronco inferior V₁ = (4/3)(36+20,25+27) = 111; V₂ = (4/3)(20,25+9+13,5) = 57; V₃ = (4/3)(9+2,25+4,5) = 21; pirâmide do topo V₄ = (1/3)·2,25·4 = 3. Retirando a pirâmide (aresta 1,5 cm) sobram os 3 troncos: 111 + 57 + 21 = 189 cm³. Resposta: B.`,
@@ -3508,31 +2786,18 @@ por`,
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `O Indicador do CadÚnico (ICadÚnico), que 
-compõe o cálculo do Índice de Gestão Descentralizada do 
-Programa Bolsa Família (IGD), é obtido por meio da média 
-aritmética entre a taxa de cobertura qualificada de 
-cadastros (TC) e a taxa de atualização de cadastros (TA), 
-em que 
-,
-,
-NV
-NA
-TA
-NF
-NV
-TC
-=
-=
- NV é o número de 
-cadastros domiciliares válidos no perfil do CadÚnico, NF é 
-o número de famílias estimadas como público alvo do 
-CadÚnico e NA é o número de cadastros domiciliares 
-atualizados no perfil do CadÚnico. 
-Portaria n° 148 de 27 de abril de 2006 (adaptado). 
-Suponha que o IcadÚnico de um município específico é 
-0,6. Porém, dobrando NF o IcadÚnico cairá para 0,5. Se 
-NA + NV = 3.600, então NF é igual a`,
+    text: `O Indicador do CadÚnico (ICadÚnico), que compõe o cálculo do
+Índice de Gestão Descentralizada do Programa Bolsa Família
+(IGD), é obtido por meio da média aritmética entre a taxa de
+cobertura qualificada de cadastros (TC) e a taxa de
+atualização de cadastros (TA), em que , , NV NA TA NF NV TC =
+= NV é o número de cadastros domiciliares válidos no perfil do
+CadÚnico, NF é o número de famílias estimadas como público
+alvo do CadÚnico e NA é o número de cadastros domiciliares
+atualizados no perfil do CadÚnico. Portaria n° 148 de 27 de
+abril de 2006 (adaptado). Suponha que o IcadÚnico de um
+município específico é 0,6. Porém, dobrando NF o IcadÚnico
+cairá para 0,5. Se NA + NV = 3.600, então NF é igual a`,
     alternatives: [
       { id: 'A', type: 'text', value: `10.000.` },
       { id: 'B', type: 'text', value: `7.500.` },
@@ -3564,22 +2829,11 @@ Suponha que, em determinado dia, Joana tenha iniciado
 seus exercícios às 10h30min e finalizado às 11h7min. 
 Nesse dia e nesse tempo, Joana`,
     alternatives: [
-      { id: 'A', type: 'text', value: `não poderia fazer sequer a metade dos exercícios e 
-dispor dos períodos de descanso especificados em 
-seu programa.` },
-      { id: 'B', type: 'text', value: `poderia ter feito todos os exercícios e cumprido 
-rigorosamente os períodos de descanso especificados 
-em seu programa.` },
-      { id: 'C', type: 'text', value: `poderia ter feito todos os exercícios, mas teria de ter 
-deixado de cumprir um dos períodos de descanso 
-especificados em seu programa.` },
-      { id: 'D', type: 'text', value: `conseguiria fazer todos os exercícios e cumpriria todos 
-os períodos de descanso especificados em seu 
-programa, e ainda se permitiria uma pausa de 7 min.` },
-      { id: 'E', type: 'text', value: `não poderia fazer todas as 3 séries dos exercícios 
-especificados em seu programa; em alguma dessas 
-séries deveria ter feito uma série a menos e não 
-deveria ter cumprido um dos períodos de descanso.` },
+      { id: 'A', type: 'text', value: `não poderia fazer sequer a metade dos exercícios e dispor dos períodos de descanso especificados em seu programa.` },
+      { id: 'B', type: 'text', value: `poderia ter feito todos os exercícios e cumprido rigorosamente os períodos de descanso especificados em seu programa.` },
+      { id: 'C', type: 'text', value: `poderia ter feito todos os exercícios, mas teria de ter deixado de cumprir um dos períodos de descanso especificados em seu programa.` },
+      { id: 'D', type: 'text', value: `conseguiria fazer todos os exercícios e cumpriria todos os períodos de descanso especificados em seu programa, e ainda se permitiria uma pausa de 7 min.` },
+      { id: 'E', type: 'text', value: `não poderia fazer todas as 3 séries dos exercícios especificados em seu programa; em alguma dessas séries deveria ter feito uma série a menos e não deveria ter cumprido um dos períodos de descanso.` },
     ],
     correct: 'B',
     explanation: `Tempo necessário: aquecimento 10 min; descanso inicial de 60 s = 1 min; 3 séries × 6 aparelhos = 18 séries de 30 s = 9 min; entre as 18 séries há 17 descansos de 60 s = 17 min. Total = 10 + 1 + 9 + 17 = 37 min. O intervalo das 10h30 às 11h07 também é de 37 min. Logo ela poderia fazer todos os exercícios e cumprir rigorosamente todos os descansos previstos. Resposta: B.`,
@@ -3600,27 +2854,11 @@ das faces pentagonal.
 Qual dos argumentos a seguir justifica a conclusão do 
 artesão?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Uma pirâmide de base quadrada tem 4 arestas laterais 
-e a interseção de um plano com a pirâmide intercepta 
-suas arestas laterais. Assim, esses pontos formam um 
-polígono de 4 lados.` },
-      { id: 'B', type: 'text', value: `Uma pirâmide de base quadrada tem 4 faces 
-triangulares e, quando um plano intercepta essa 
-pirâmide, divide cada face em um triângulo e um 
-trapézio. Logo, um dos polígonos tem 4 lados.` },
-      { id: 'C', type: 'text', value: `Uma pirâmide de base quadrada tem 5 faces e a 
-interseção de uma face com um plano é um segmento 
-de reta. Assim, se o plano interceptar todas as faces, o 
-polígono obtido nessa interseção tem 5 lados.` },
-      { id: 'D', type: 'text', value: `O número de lados de qualquer polígono obtido como 
-interseção de uma pirâmide com um plano é igual ao 
-número de faces da pirâmide. Como a pirâmide tem 5 
-faces, o polígono tem 5 lados.` },
-      { id: 'E', type: 'text', value: `O número de lados de qualquer polígono obtido 
-interceptando-se uma pirâmide por um plano é igual 
-ao número de arestas laterais da pirâmide. Como a 
-pirâmide tem 4 arestas laterais, o polígono tem 4 
-lados.` },
+      { id: 'A', type: 'text', value: `Uma pirâmide de base quadrada tem 4 arestas laterais e a interseção de um plano com a pirâmide intercepta suas arestas laterais. Assim, esses pontos formam um polígono de 4 lados.` },
+      { id: 'B', type: 'text', value: `Uma pirâmide de base quadrada tem 4 faces triangulares e, quando um plano intercepta essa pirâmide, divide cada face em um triângulo e um trapézio. Logo, um dos polígonos tem 4 lados.` },
+      { id: 'C', type: 'text', value: `Uma pirâmide de base quadrada tem 5 faces e a interseção de uma face com um plano é um segmento de reta. Assim, se o plano interceptar todas as faces, o polígono obtido nessa interseção tem 5 lados.` },
+      { id: 'D', type: 'text', value: `O número de lados de qualquer polígono obtido como interseção de uma pirâmide com um plano é igual ao número de faces da pirâmide. Como a pirâmide tem 5 faces, o polígono tem 5 lados.` },
+      { id: 'E', type: 'text', value: `O número de lados de qualquer polígono obtido interceptando-se uma pirâmide por um plano é igual ao número de arestas laterais da pirâmide. Como a pirâmide tem 4 arestas laterais, o polígono tem 4 lados.` },
     ],
     correct: 'C',
     explanation: `Numa pirâmide de base quadrada há 5 faces (4 triangulares + a base). A interseção de cada face com um plano é um segmento de reta. Se o plano cortar todas as 5 faces, obtêm-se 5 segmentos, formando um polígono de 5 lados (pentágono). Esse é o argumento que justifica a face pentagonal. Resposta: C.`,
@@ -3648,16 +2886,10 @@ emprestado.
 A opção que dá a João o menor gasto seria`,
     alternatives: [
       { id: 'A', type: 'text', value: `renegociar suas dívidas com o banco.` },
-      { id: 'B', type: 'text', value: `pegar emprestado de José o dinheiro referente à 
-quitação das duas dívidas.` },
-      { id: 'C', type: 'text', value: `recusar o empréstimo de José e pagar todas as 
-parcelas pendentes nos devidos prazos.` },
-      { id: 'D', type: 'text', value: `pegar emprestado de José o dinheiro referente à 
-quitação do cheque especial e pagar as parcelas do 
-cartão de crédito.` },
-      { id: 'E', type: 'text', value: `pegar emprestado de José o dinheiro referente à 
-quitação do cartão de crédito e pagar as parcelas do 
-cheque especial.` },
+      { id: 'B', type: 'text', value: `pegar emprestado de José o dinheiro referente à quitação das duas dívidas.` },
+      { id: 'C', type: 'text', value: `recusar o empréstimo de José e pagar todas as parcelas pendentes nos devidos prazos.` },
+      { id: 'D', type: 'text', value: `pegar emprestado de José o dinheiro referente à quitação do cheque especial e pagar as parcelas do cartão de crédito.` },
+      { id: 'E', type: 'text', value: `pegar emprestado de José o dinheiro referente à quitação do cartão de crédito e pagar as parcelas do cheque especial.` },
     ],
     correct: 'E',
     explanation: `Com quitação imediata, a dívida do cheque especial cai 2 parcelas: 10×150 = R$ 1 500; a do cartão tem 25% de desconto: 0,75×(5×80) = R$ 300. Opções: (A) renegociar = 18×125 = 2 250; (B) emprestar de José as duas quitações = (1 500+300)×1,25 = 2 250; (C) pagar tudo nos prazos = 1 800 + 400 = 2 200; (D) emprestar p/ cheque (1 500×1,25=1 875) + cartão em parcelas (400) = 2 275; (E) emprestar p/ cartão (300×1,25=375) + cheque em parcelas (1 800) = 2 175. O menor gasto é R$ 2 175 (opção E). Resposta: E.`,
@@ -3669,60 +2901,19 @@ cheque especial.` },
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `A 
-cisterna 
-é 
-um 
-recipiente 
-utilizado 
-para 
-armazenar água da chuva. Os principais critérios a serem 
-observados para captação e armazenagem de água da 
-chuva são: a demanda diária de água na propriedade; o 
-índice médio de precipitação (chuva), por região, em cada 
-período do ano; o tempo necessário para armazenagem; e 
-a área de telhado necessária ou disponível para captação. 
-Para fazer o cálculo do volume de uma cisterna, deve-se 
-acrescentar um adicional relativo ao coeficiente de 
-evaporação. Na dificuldade em se estabelecer um 
-coeficiente confiável, a Empresa Brasileira de Pesquisa 
-Agropecuária (EMBRAPA) sugere que sejam adicionados 
-10% ao volume calculado de água. 
- 
-Desse modo, o volume, em m³, de uma cisterna é 
-calculado por V c = V d × N dia , em que V d = volume de 
-demanda da água diária (m³), N dia = número de dias de 
-armazenagem, e este resultado deve ser acrescido de 
-10%. 
- 
-Para melhorar a qualidade da água, recomenda-se 
-que a captação seja feita somente nos telhados das 
-edificações. 
- 
-Considerando que a precipitação de chuva de 
-1 mm sobre uma área de 1 m2 produz 1 litro de água, 
-pode-se calcular a área de um telhado a fim de atender a 
-necessidade de armazenagem da seguinte maneira: área 
-do 
-telhado 
-(em 
-m2) = volume da cisterna (em 
-litros)/precipitação.  
-Para atender a uma demanda diária de 2.000 litros de 
-água, com período de armazenagem de 15 dias e 
-precipitação média de 110 mm, o telhado, retangular, 
-deverá ter as dimensões mínimas de`,
+    text: `A cisterna é um recipiente utilizado para armazenar água da chuva. Os principais critérios a serem observados para captação e armazenagem de água da chuva são: a demanda diária de água na propriedade; o índice médio de precipitação (chuva), por região, em cada período do ano; o tempo necessário para armazenagem; e a área de telhado necessária ou disponível para captação. Para fazer o cálculo do volume de uma cisterna, deve-se acrescentar um adicional relativo ao coeficiente de evaporação. Na dificuldade em se estabelecer um coeficiente confiável, a Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA) sugere que sejam adicionados 10% ao volume calculado de água.
+
+Desse modo, o volume, em m³, de uma cisterna é calculado por V_c = V_d × N_dia , em que V_d = volume de demanda da água diária (m³), N_dia = número de dias de armazenagem, e este resultado deve ser acrescido de 10%.
+
+Para melhorar a qualidade da água, recomenda-se que a captação seja feita somente nos telhados das edificações.
+
+Considerando que a precipitação de chuva de 1 mm sobre uma área de 1 m² produz 1 litro de água, pode-se calcular a área de um telhado a fim de atender a necessidade de armazenagem da seguinte maneira: área do telhado (em m²) = volume da cisterna (em litros)/precipitação. Para atender a uma demanda diária de 2.000 litros de água, com período de armazenagem de 15 dias e precipitação média de 110 mm, o telhado, retangular, deverá ter as dimensões mínimas de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `6 metros por 5 metros, pois assim teria uma área de 
-30 m2.` },
-      { id: 'B', type: 'text', value: `15 metros por 20 metros, pois assim teria uma área de 
-300 m2.` },
-      { id: 'C', type: 'text', value: `50 metros por 60 metros, pois assim teria uma área de 
-3.000 m2.` },
-      { id: 'D', type: 'text', value: `91 metros por 30 metros, pois assim teria uma área de 
-2.730 m2.` },
-      { id: 'E', type: 'text', value: `110 metros por 30 metros, pois assim teria uma área 
-de 3.300 m2.` },
+      { id: 'A', type: 'text', value: `6 metros por 5 metros, pois assim teria uma área de 30 m².` },
+      { id: 'B', type: 'text', value: `15 metros por 20 metros, pois assim teria uma área de 300 m².` },
+      { id: 'C', type: 'text', value: `50 metros por 60 metros, pois assim teria uma área de 3.000 m².` },
+      { id: 'D', type: 'text', value: `91 metros por 30 metros, pois assim teria uma área de 2.730 m².` },
+      { id: 'E', type: 'text', value: `110 metros por 30 metros, pois assim teria uma área de 3.300 m².` },
     ],
     correct: 'B',
     explanation: `O volume da cisterna é Vc = Vd × N_dia = 2 000 × 15 = 30 000 L, acrescido de 10%: 30 000 × 1,1 = 33 000 L. A área do telhado = volume (L)/precipitação (mm) = 33 000/110 = 300 m². Entre as opções, 15 m × 20 m fornece exatamente 300 m². Resposta: B.`,

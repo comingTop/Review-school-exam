@@ -150,32 +150,17 @@ do início da reação de hidrólise?`,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Grandes reservatórios de óleo leve de melhor 
-qualidade e que produz petróleo mais fino foram 
-descobertos 
-no 
-litoral 
-brasileiro 
-numa 
-camada 
-denominada pré-sal, formada há 150 milhões de anos. 
-A utilização desse recurso energético acarreta para o 
-ambiente um desequilíbrio no ciclo do`,
+    text: `Grandes reservatórios de óleo leve de melhor qualidade e que
+produz petróleo mais fino foram descobertos no litoral
+brasileiro numa camada denominada pré-sal, formada há 150
+milhões de anos. A utilização desse recurso energético
+acarreta para o ambiente um desequilíbrio no ciclo do`,
     alternatives: [
-      { id: 'A', type: 'text', value: `nitrogênio, 
-devido 
-à 
-nitrificação 
-ambiental 
-transformando amônia em nitrito.` },
-      { id: 'B', type: 'text', value: `nitrogênio, devido ao aumento dos compostos 
-nitrogenados no ambiente terrestre.` },
-      { id: 'C', type: 'text', value: `carbono, devido ao aumento dos carbonatos 
-dissolvidos no ambiente marinho.` },
-      { id: 'D', type: 'text', value: `carbono, devido à liberação das cadeias carbônicas 
-aprisionadas abaixo dos sedimentos.` },
-      { id: 'E', type: 'text', value: `fósforo, devido à liberação dos fosfatos acumulados 
-no ambiente marinho.` },
+      { id: 'A', type: 'text', value: `nitrogênio, devido à nitrificação ambiental transformando amônia em nitrito.` },
+      { id: 'B', type: 'text', value: `nitrogênio, devido ao aumento dos compostos nitrogenados no ambiente terrestre.` },
+      { id: 'C', type: 'text', value: `carbono, devido ao aumento dos carbonatos dissolvidos no ambiente marinho.` },
+      { id: 'D', type: 'text', value: `carbono, devido à liberação das cadeias carbônicas aprisionadas abaixo dos sedimentos.` },
+      { id: 'E', type: 'text', value: `fósforo, devido à liberação dos fosfatos acumulados no ambiente marinho.` },
     ],
     correct: 'D',
     explanation: `O petróleo do pré-sal é constituído por cadeias carbônicas (hidrocarbonetos) que permaneceram aprisionadas abaixo dos sedimentos por cerca de 150 milhões de anos, retiradas, portanto, do ciclo do carbono. Ao se extrair e queimar esse combustível fóssil, esse carbono é devolvido à atmosfera na forma de CO₂, aumentando sua concentração e desequilibrando o ciclo do carbono. Portanto, o desequilíbrio ocorre no ciclo do carbono, devido à liberação das cadeias carbônicas aprisionadas abaixo dos sedimentos (alternativa D).`,
@@ -201,20 +186,11 @@ Nessa situação, o aumento do módulo da diferença de
 potencial obtida nos terminais das bobinas resulta do 
 aumento do(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `intervalo de tempo em que as bobinas ficam imersas no 
-campo magnético externo, por meio de uma diminuição 
-de velocidade no eixo de rotação do gerador.` },
-      { id: 'B', type: 'text', value: `fluxo magnético através das bobinas, por meio de 
-um aumento em sua área interna exposta ao campo 
-magnético aplicado.` },
-      { id: 'C', type: 'text', value: `intensidade do campo magnético no qual as bobinas 
-estão imersas, por meio de aplicação de campos 
-magnéticos mais intensos.` },
-      { id: 'D', type: 'text', value: `rapidez com que o fluxo magnético varia através das 
-bobinas, por meio de um aumento em sua velocidade 
-angular.` },
-      { id: 'E', type: 'text', value: `resistência interna do condutor que constitui as bobinas, 
-por meio de um aumento na espessura dos terminais.` },
+      { id: 'A', type: 'text', value: `intervalo de tempo em que as bobinas ficam imersas no campo magnético externo, por meio de uma diminuição de velocidade no eixo de rotação do gerador.` },
+      { id: 'B', type: 'text', value: `fluxo magnético através das bobinas, por meio de um aumento em sua área interna exposta ao campo magnético aplicado.` },
+      { id: 'C', type: 'text', value: `intensidade do campo magnético no qual as bobinas estão imersas, por meio de aplicação de campos magnéticos mais intensos.` },
+      { id: 'D', type: 'text', value: `rapidez com que o fluxo magnético varia através das bobinas, por meio de um aumento em sua velocidade angular.` },
+      { id: 'E', type: 'text', value: `resistência interna do condutor que constitui as bobinas, por meio de um aumento na espessura dos terminais.` },
     ],
     correct: 'D',
     explanation: `Pela Lei de Faraday, a força eletromotriz induzida é proporcional à rapidez da variação do fluxo magnético através das bobinas (ε = −N·ΔΦ/Δt). Para aumentar a diferença de potencial nos terminais sem alterar o campo nem a área, deve-se fazer o fluxo variar mais rapidamente, o que se obtém aumentando a velocidade angular (rotação) do gerador. Quanto maior a velocidade angular, menor o intervalo de tempo em que o fluxo varia e maior a tensão induzida. Portanto, o aumento resulta da maior rapidez com que o fluxo magnético varia, por meio do aumento da velocidade angular (alternativa D).`,
@@ -226,26 +202,19 @@ por meio de um aumento na espessura dos terminais.` },
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Você foi contratado para sincronizar os quatro
-semáforos de uma avenida, indicados pelas letras O, A,
-B e C, conforme a figura.
-Os semáforos estão separados por uma distância
-de 500 m. Segundo os dados estatísticos da companhia 
-controladora de trânsito, um veículo, que está 
-inicialmente parado no semáforo O, tipicamente parte 
-com aceleração constante de 1 m s −2 até atingir a 
-velocidade de 72 km h −1 e, a partir daí, prossegue com 
-velocidade constante. Você deve ajustar os semáforos 
-A, B e C de modo que eles mudem para a cor verde 
-quando o veículo estiver a 100 m de cruzá-los, para 
-que ele não tenha que reduzir a velocidade em nenhum 
-momento. 
-Considerando 
-essas 
-condições, 
-aproximadamente 
-quanto tempo depois da abertura do semáforo O os 
-semáforos A, B e C devem abrir, respectivamente?`,
+    text: `Você foi contratado para sincronizar os quatro semáforos de
+uma avenida, indicados pelas letras O, A, B e C, conforme a
+figura. Os semáforos estão separados por uma distância de 500
+m. Segundo os dados estatísticos da companhia controladora de
+trânsito, um veículo, que está inicialmente parado no semáforo
+O, tipicamente parte com aceleração constante de 1 m s −2 até
+atingir a velocidade de 72 km h −1 e, a partir daí, prossegue
+com velocidade constante. Você deve ajustar os semáforos A, B
+e C de modo que eles mudem para a cor verde quando o veículo
+estiver a 100 m de cruzá-los, para que ele não tenha que
+reduzir a velocidade em nenhum momento. Considerando essas
+condições, aproximadamente quanto tempo depois da abertura do
+semáforo O os semáforos A, B e C devem abrir, respectivamente?`,
     images: ['/enem/2020/images/enem_2020_d2_q99.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `20 s, 45 s e 70 s.` },
@@ -303,34 +272,22 @@ térmica desse tipo de plástico?`,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Uma população (momento A) sofre isolamento 
-em duas subpopulações (momento B) por um fator de 
-isolamento (I). Passado um tempo, essas subpopulações 
-apresentam características fenotípicas e genotípicas que 
-as distinguem (momento C), representadas na figura 
-pelas tonalidades de cor. O posterior desaparecimento 
-do fator de isolamento I pode levar, no momento D, às 
-situações D1 e D2. 
-B 
-C 
-D 
-A 
-D1 
-D2 
-Tempo 
- 
+    text: `Uma população (momento A) sofre isolamento em duas
+subpopulações (momento B) por um fator de isolamento (I).
+Passado um tempo, essas subpopulações apresentam
+características fenotípicas e genotípicas que as distinguem
+(momento C), representadas na figura pelas tonalidades de cor.
+O posterior desaparecimento do fator de isolamento I pode
+levar, no momento D, às situações D1 e D2. B C D A D1 D2 Tempo
+
 A representação indica que, no momento D, na situação`,
     images: ['/enem/2020/images/enem_2020_d2_q101.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `D1 ocorre um novo fator de isolamento geográfico.` },
-      { id: 'B', type: 'text', value: `D1 existe uma única população distribuída em 
-gradiente.` },
-      { id: 'C', type: 'text', value: `D1 ocorrem duas populações separadas por 
-isolamento reprodutivo.` },
-      { id: 'D', type: 'text', value: `D2 coexistem duas populações com características 
-fenotípicas distintas.` },
-      { id: 'E', type: 'text', value: `D2 foram preservadas as mesmas características 
-fenotípicas da população original A.` },
+      { id: 'B', type: 'text', value: `D1 existe uma única população distribuída em gradiente.` },
+      { id: 'C', type: 'text', value: `D1 ocorrem duas populações separadas por isolamento reprodutivo.` },
+      { id: 'D', type: 'text', value: `D2 coexistem duas populações com características fenotípicas distintas.` },
+      { id: 'E', type: 'text', value: `D2 foram preservadas as mesmas características fenotípicas da população original A.` },
     ],
     correct: 'C',
     explanation: `O fator de isolamento separou a população em duas subpopulações que, ao longo do tempo, acumularam diferenças genotípicas e fenotípicas. Quando o fator I desaparece há dois desfechos possíveis: se as diferenças ainda permitirem cruzamentos férteis, volta a existir uma única população (gradiente); se já houver isolamento reprodutivo, formam-se duas espécies distintas. A situação D1, em que as populações permanecem separadas apesar do novo contato, indica que se estabeleceu isolamento reprodutivo (especiação). Portanto, em D1 ocorrem duas populações separadas por isolamento reprodutivo (alternativa C).`,
@@ -411,41 +368,19 @@ Para flutuar, essas aves precisam`,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Os 
-manuais 
-de 
-refrigerador 
-apresentam 
-a 
-recomendação de que o equipamento não deve ser 
-instalado próximo a fontes de calor, como fogão e 
-aquecedores, ou em local onde incida diretamente a 
-luz do sol. A instalação em local inadequado prejudica 
-o funcionamento do refrigerador e aumenta o consumo 
-de energia. 
-O não atendimento dessa recomendação resulta em 
-aumento do consumo de energia porque`,
+    text: `Os manuais de refrigerador apresentam a recomendação de que o
+equipamento não deve ser instalado próximo a fontes de calor,
+como fogão e aquecedores, ou em local onde incida diretamente
+a luz do sol. A instalação em local inadequado prejudica o
+funcionamento do refrigerador e aumenta o consumo de energia.
+O não atendimento dessa recomendação resulta em aumento do
+consumo de energia porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o fl uxo de calor por condução no condensador sofre 
-considerável redução.` },
-      { id: 'B', type: 'text', value: `a 
-temperatura 
-da 
-substância 
-refrigerante 
-no 
-condensador diminui mais rapidamente.` },
-      { id: 'C', type: 'text', value: `o fl uxo de calor promove significativa elevação da 
-temperatura no interior do refrigerador.` },
-      { id: 'D', type: 'text', value: `a 
-liquefação 
-da 
-substância 
-refrigerante 
-no 
-condensador exige mais trabalho do compressor.` },
-      { id: 'E', type: 'text', value: `as correntes de convecção nas proximidades do 
-condensador ocorrem com maior dificuldade.` },
+      { id: 'A', type: 'text', value: `o fl uxo de calor por condução no condensador sofre considerável redução.` },
+      { id: 'B', type: 'text', value: `a temperatura da substância refrigerante no condensador diminui mais rapidamente.` },
+      { id: 'C', type: 'text', value: `o fl uxo de calor promove significativa elevação da temperatura no interior do refrigerador.` },
+      { id: 'D', type: 'text', value: `a liquefação da substância refrigerante no condensador exige mais trabalho do compressor.` },
+      { id: 'E', type: 'text', value: `as correntes de convecção nas proximidades do condensador ocorrem com maior dificuldade.` },
     ],
     correct: 'D',
     explanation: `O refrigerador funciona retirando calor do interior e liberando-o no condensador, onde o fluido refrigerante se liquefaz. Se o aparelho estiver próximo de uma fonte de calor, a temperatura no condensador aumenta, dificultando a liquefação do fluido. Para condensar o gás nessas condições, o compressor precisa realizar mais trabalho, consumindo mais energia elétrica. Portanto, o maior consumo resulta porque a liquefação da substância refrigerante no condensador exige mais trabalho do compressor (alternativa D).`,
@@ -457,37 +392,20 @@ condensador ocorrem com maior dificuldade.` },
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Um mergulhador fica preso ao explorar uma caverna 
-no oceano. Dentro da caverna formou-se um bolsão de 
-ar, como mostrado na figura, onde o mergulhador se 
-abrigou. 
-Durante o resgate, para evitar danos a seu 
-organismo, foi necessário que o mergulhador passasse 
-por um processo de descompressão antes de retornar 
-à superfície para que seu corpo ficasse novamente sob 
-pressão atmosférica. O gráfico mostra a relação entre 
-os tempos de descompressão recomendados para 
-indivíduos nessa situação e a variação de pressão. 
-Tempo de 
-descompressão (min) 
-100 
-80 
-60 
-40 
-20 
-100 
-200 
-300 
-400 
-500 
-600 
-700 
-Variação de pressão (kPa) 
-Considere que a aceleração da gravidade seja 
-igual a 10 m s −2 e que a densidade da água seja de 
-ρ = 1 000 kg m −3 . 
-Em minutos, qual é o tempo de descompressão a que o 
-mergulhador deverá ser submetido?`,
+    text: `Um mergulhador fica preso ao explorar uma caverna no oceano.
+Dentro da caverna formou-se um bolsão de ar, como mostrado na
+figura, onde o mergulhador se abrigou. Durante o resgate, para
+evitar danos a seu organismo, foi necessário que o mergulhador
+passasse por um processo de descompressão antes de retornar à
+superfície para que seu corpo ficasse novamente sob pressão
+atmosférica. O gráfico mostra a relação entre os tempos de
+descompressão recomendados para indivíduos nessa situação e a
+variação de pressão. Tempo de descompressão (min) 100 80 60 40
+20 100 200 300 400 500 600 700 Variação de pressão (kPa)
+Considere que a aceleração da gravidade seja igual a 10 m s −2
+e que a densidade da água seja de ρ = 1 000 kg m −3 . Em
+minutos, qual é o tempo de descompressão a que o mergulhador
+deverá ser submetido?`,
     images: ['/enem/2020/images/enem_2020_d2_q106_1.jpg', '/enem/2020/images/enem_2020_d2_q106_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `100` },
@@ -554,12 +472,9 @@ celulose?`,
     alternatives: [
       { id: 'A', type: 'text', value: `Diminuir a absorção do princípio ativo no intestino.` },
       { id: 'B', type: 'text', value: `Impedir que o fármaco seja solubilizado no intestino.` },
-      { id: 'C', type: 'text', value: `Garantir que o fármaco não seja afetado pelas 
-secreções gástricas.` },
-      { id: 'D', type: 'text', value: `Permitir a liberação do princípio ativo pela ação das 
-amilases salivares.` },
-      { id: 'E', type: 'text', value: `Facilitar a liberação do fármaco pela ação dos sais 
-biliares sobre o revestimento.` },
+      { id: 'C', type: 'text', value: `Garantir que o fármaco não seja afetado pelas secreções gástricas.` },
+      { id: 'D', type: 'text', value: `Permitir a liberação do princípio ativo pela ação das amilases salivares.` },
+      { id: 'E', type: 'text', value: `Facilitar a liberação do fármaco pela ação dos sais biliares sobre o revestimento.` },
     ],
     correct: 'C',
     explanation: `O revestimento à base de celulose é insolúvel em meio ácido e só se dissolve em pH próximo da neutralidade. Assim, ao ser ingerido, o comprimido atravessa o estômago (meio fortemente ácido, pelo suco gástrico) com o revestimento intacto, protegendo o princípio ativo da ação das secreções gástricas. Somente ao chegar ao intestino, onde o pH é próximo do neutro, o revestimento se dissolve e libera o fármaco. Portanto, a finalidade é garantir que o fármaco não seja afetado pelas secreções gástricas (alternativa C).`,
@@ -845,16 +760,11 @@ representantes do filo Arthropoda a habitar a terra seca.
 A característica que justifica o sucesso adaptativo desse 
 grupo na ocupação do ambiente terrestre é a presença de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `quelíceras e pedipalpos que coordenam o movimento 
-corporal.` },
-      { id: 'B', type: 'text', value: `excreção de ácido úrico que confere estabilidade ao 
-pH corporal.` },
-      { id: 'C', type: 'text', value: `exoesqueleto constituído de quitina que auxilia no 
-controle hídrico corporal.` },
-      { id: 'D', type: 'text', value: `circulação sanguínea aberta que impede a desidratação 
-dos tecidos corporais.` },
-      { id: 'E', type: 'text', value: `sistema nervoso ganglionar que promove a coordenação 
-central do movimento corporal.` },
+      { id: 'A', type: 'text', value: `quelíceras e pedipalpos que coordenam o movimento corporal.` },
+      { id: 'B', type: 'text', value: `excreção de ácido úrico que confere estabilidade ao pH corporal.` },
+      { id: 'C', type: 'text', value: `exoesqueleto constituído de quitina que auxilia no controle hídrico corporal.` },
+      { id: 'D', type: 'text', value: `circulação sanguínea aberta que impede a desidratação dos tecidos corporais.` },
+      { id: 'E', type: 'text', value: `sistema nervoso ganglionar que promove a coordenação central do movimento corporal.` },
     ],
     correct: 'C',
     explanation: `A conquista do ambiente terrestre exigiu adaptações contra a perda de água. Nos aracnídeos, o exoesqueleto é formado por quitina, um revestimento resistente e impermeável que reduz a desidratação dos tecidos, auxiliando no controle hídrico corporal. Essa proteção contra a perda de água foi determinante para o sucesso do grupo em ambientes secos como desertos e montanhas. Portanto, a característica é o exoesqueleto constituído de quitina que auxilia no controle hídrico corporal (alternativa C).`,
@@ -866,58 +776,27 @@ central do movimento corporal.` },
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Pesquisadores coletaram amostras de água de um 
-rio em pontos diferentes, distantes alguns quilômetros 
-um do outro. Ao longo do rio, há locais de águas limpas, 
-como também locais que recebem descarga de esgoto 
-de área urbana, e locais onde há decomposição ativa 
-com ausência de peixes. Os pesquisadores analisaram 
-dois parâmetros: oxigênio dissolvido (OD) e demanda 
-bioquímica de oxigênio (DBO) em cada ponto de coleta 
-de água, obtendo o gráfico: 
-14 
-+ 
-12 
-10 
-OD e DBO (mg L − 1 ) 
-Legenda: 
-∗ 
-+ 
-OD 
-8 
-+ 
-DBO 
-∗ 
-6 
-+ 
-+ 
-∗ 
-∗ 
-∗ 
-4 
-∗ 
-2 
-+ 
-1 
-2 
-3 
-4 
-5 
-Pontos de amostragem 
-Valores limites permitidos para águas doces destinadas ao abastecimento 
-para o consumo humano após tratamento convencional, segundo Resolução 
-Conama n. 357/2005: 
-OD ≥ 5 mg L − 1 e DBO ≤ 5 mg L − 1 . 
-O OD é proveniente da atmosfera e da fotossíntese 
-que ocorre no curso-d’água e sua concentração é 
-função das variáveis físicas, químicas e bioquímicas 
-locais. A DBO é a quantidade de oxigênio consumido 
-por microrganismos em condições aeróbicas para 
-degradar uma determinada quantidade de matéria 
-orgânica, durante um período de tempo, numa 
-temperatura de incubação específica. 
-Disponível em: www.programaaguaazul.rn.gov.br. Acesso em: 16 ago. 2014 (adaptado). 
-Qual ponto de amostragem da água do rio está mais 
+    text: `Pesquisadores coletaram amostras de água de um rio em pontos
+diferentes, distantes alguns quilômetros um do outro. Ao longo
+do rio, há locais de águas limpas, como também locais que
+recebem descarga de esgoto de área urbana, e locais onde há
+decomposição ativa com ausência de peixes. Os pesquisadores
+analisaram dois parâmetros: oxigênio dissolvido (OD) e demanda
+bioquímica de oxigênio (DBO) em cada ponto de coleta de água,
+obtendo o gráfico: 14 + 12 10 OD e DBO (mg L − 1 ) Legenda: ∗
++ OD 8 + DBO ∗ 6 + + ∗ ∗ ∗ 4 ∗ 2 + 1 2 3 4 5 Pontos de
+amostragem Valores limites permitidos para águas doces
+destinadas ao abastecimento para o consumo humano após
+tratamento convencional, segundo Resolução Conama n. 357/2005:
+OD ≥ 5 mg L − 1 e DBO ≤ 5 mg L − 1 . O OD é proveniente da
+atmosfera e da fotossíntese que ocorre no curso-d’água e sua
+concentração é função das variáveis físicas, químicas e
+bioquímicas locais. A DBO é a quantidade de oxigênio consumido
+por microrganismos em condições aeróbicas para degradar uma
+determinada quantidade de matéria orgânica, durante um período
+de tempo, numa temperatura de incubação específica. Disponível
+em: www.programaaguaazul.rn.gov.br. Acesso em: 16 ago. 2014
+(adaptado). Qual ponto de amostragem da água do rio está mais
 próximo ao local em que o rio recebe despejo de esgoto?`,
     images: ['/enem/2020/images/enem_2020_d2_q119.jpg'],
     alternatives: [
@@ -979,25 +858,16 @@ quilograma, com o uso do veículo elétrico nesse trajeto,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Em uma aula sobre metabolismo energético, 
-foi apresentado um experimento clássico realizado 
-por Engelmann. Um recipiente contendo bactérias 
-aeróbias e uma alga verde filamentosa foi submetido 
-à iluminação de uma fonte de luz, representada 
-pelo microespectro. Após a explicação, um aluno 
-esquematizou na lousa o resultado do referido 
-experimento. 
-Bactérias aeróbias 
-Filamento de alga verde 
-Vermelho 
-Amarelo 
-Violeta 
-Verde 
-Azul 
-Anil 
-Microespectro 
-Considerando a figura, a faixa do microespectro em que a 
-alga possui maior taxa de realização fotossintética é a do:`,
+    text: `Em uma aula sobre metabolismo energético, foi apresentado um
+experimento clássico realizado por Engelmann. Um recipiente
+contendo bactérias aeróbias e uma alga verde filamentosa foi
+submetido à iluminação de uma fonte de luz, representada pelo
+microespectro. Após a explicação, um aluno esquematizou na
+lousa o resultado do referido experimento. Bactérias aeróbias
+Filamento de alga verde Vermelho Amarelo Violeta Verde Azul
+Anil Microespectro Considerando a figura, a faixa do
+microespectro em que a alga possui maior taxa de realização
+fotossintética é a do:`,
     images: ['/enem/2020/images/enem_2020_d2_q121.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Anil.` },
@@ -1016,24 +886,19 @@ alga possui maior taxa de realização fotossintética é a do:`,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `O exame parasitológico de fezes é utilizado para 
-detectar ovos de parasitos. Um dos métodos utilizados, 
-denominado 
-de 
-centrífugo-flutuação, 
-considera 
-a 
-densidade dos ovos em relação a uma solução de 
-densidade 1,15 g mL −1 . Assim, ovos que flutuam na 
-superfície dessa solução são detectados. Os dados 
-de densidade dos ovos de alguns parasitos estão 
-apresentados na tabela. 
- 
-ZERBINI, A. M. Identificação e análise de viabilidade de ovos de helmintos em um 
-sistema de tratamento de esgotos domésticos constituídos de reatores anaeróbios e 
-rampas de escoamento superficial . Belo Horizonte: Prosab, 2001 (adaptado). 
-Considerando-se a densidade dos ovos e da solução, ovos 
-de quais parasitos podem ser detectados por esse método? 
+    text: `O exame parasitológico de fezes é utilizado para detectar ovos
+de parasitos. Um dos métodos utilizados, denominado de
+centrífugo-flutuação, considera a densidade dos ovos em
+relação a uma solução de densidade 1,15 g mL −1 . Assim, ovos
+que flutuam na superfície dessa solução são detectados. Os
+dados de densidade dos ovos de alguns parasitos estão
+apresentados na tabela.
+
+ZERBINI, A. M. Identificação e análise de viabilidade de ovos de helmintos em um
+sistema de tratamento de esgotos domésticos constituídos de reatores anaeróbios e
+rampas de escoamento superficial . Belo Horizonte: Prosab, 2001 (adaptado).
+Considerando-se a densidade dos ovos e da solução, ovos
+de quais parasitos podem ser detectados por esse método?
 A A. lumbricoides,`,
     images: ['/enem/2020/images/enem_2020_d2_q122.jpg'],
     alternatives: [
@@ -1066,16 +931,11 @@ Considere os dados do acetato de etila:
 A fim de tratar o resíduo, recuperando o acetato de etila, 
 o técnico deve`,
     alternatives: [
-      { id: 'A', type: 'text', value: `evaporar o acetato de etila sem alterar o conteúdo de 
-água.` },
-      { id: 'B', type: 'text', value: `filtrar a mistura utilizando um funil comum e um papel 
-de filtro.` },
-      { id: 'C', type: 'text', value: `realizar uma destilação simples para separar a água do 
-acetato de etila.` },
-      { id: 'D', type: 'text', value: `proceder a uma centrifugação da mistura para remover 
-o acetato de etila.` },
-      { id: 'E', type: 'text', value: `decantar a mistura separando os dois componentes em 
-um funil adequado.` },
+      { id: 'A', type: 'text', value: `evaporar o acetato de etila sem alterar o conteúdo de água.` },
+      { id: 'B', type: 'text', value: `filtrar a mistura utilizando um funil comum e um papel de filtro.` },
+      { id: 'C', type: 'text', value: `realizar uma destilação simples para separar a água do acetato de etila.` },
+      { id: 'D', type: 'text', value: `proceder a uma centrifugação da mistura para remover o acetato de etila.` },
+      { id: 'E', type: 'text', value: `decantar a mistura separando os dois componentes em um funil adequado.` },
     ],
     correct: 'E',
     explanation: `O acetato de etila tem baixa solubilidade em água e densidade (0,9 g/cm³) menor que a da água, formando uma mistura heterogênea com duas fases líquidas imiscíveis (o acetato sobrenadante). A técnica adequada para separar líquidos imiscíveis é a decantação, feita em um funil de separação, recolhendo-se cada componente separadamente. A destilação e a filtração não são apropriadas para esse caso. Portanto, o técnico deve decantar a mistura em um funil adequado (alternativa E).`,
@@ -1094,22 +954,11 @@ Campos, no Rio de Janeiro.
 Os impactos decorrentes desse derramamento ocorrem 
 porque os componentes do petróleo`,
     alternatives: [
-      { id: 'A', type: 'text', value: `reagem com a água do mar e sofrem degradação, 
-gerando compostos com elevada toxicidade.` },
-      { id: 'B', type: 'text', value: `acidificam o meio, promovendo o desgaste das 
-conchas calcárias de moluscos e a morte de corais.` },
-      { id: 'C', type: 'text', value: `dissolvem-se na água, causando a mortandade dos 
-seres marinhos por ingestão da água contaminada.` },
-      { id: 'D', type: 'text', value: `têm caráter hidrofóbico e baixa densidade, impedindo 
-as trocas gasosas entre o meio aquático e a atmosfera.` },
-      { id: 'E', type: 'text', value: `têm 
-cadeia 
-pequena 
-e 
-elevada 
-volatilidade, 
-contaminando a atmosfera local e regional em função 
-dos ventos nas orlas marítimas.` },
+      { id: 'A', type: 'text', value: `reagem com a água do mar e sofrem degradação, gerando compostos com elevada toxicidade.` },
+      { id: 'B', type: 'text', value: `acidificam o meio, promovendo o desgaste das conchas calcárias de moluscos e a morte de corais.` },
+      { id: 'C', type: 'text', value: `dissolvem-se na água, causando a mortandade dos seres marinhos por ingestão da água contaminada.` },
+      { id: 'D', type: 'text', value: `têm caráter hidrofóbico e baixa densidade, impedindo as trocas gasosas entre o meio aquático e a atmosfera.` },
+      { id: 'E', type: 'text', value: `têm cadeia pequena e elevada volatilidade, contaminando a atmosfera local e regional em função dos ventos nas orlas marítimas.` },
     ],
     correct: 'D',
     explanation: `Os componentes do petróleo são apolares (hidrofóbicos) e têm densidade menor que a da água, por isso não se misturam com ela e se espalham formando uma camada sobre a superfície do mar. Essa película impede o contato entre a água e a atmosfera, bloqueando as trocas gasosas (como a entrada de O₂ e a saída de CO₂) e prejudicando os organismos aquáticos. Portanto, os impactos ocorrem porque os componentes do petróleo têm caráter hidrofóbico e baixa densidade, impedindo as trocas gasosas entre o meio aquático e a atmosfera (alternativa D).`,
@@ -1121,28 +970,14 @@ dos ventos nas orlas marítimas.` },
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Uma população encontra-se em equilíbrio genético 
-quanto ao sistema ABO, em que 25% dos indivíduos 
-pertencem ao grupo O e 16%, ao grupo A homozigotos. 
-Considerando que: p = frequência de I A ; q = frequência 
-de I B ; e r = frequência de i, espera-se encontrar: 
-Grupo 
-Genótipos 
-Frequências 
-A 
-I A I A e I A i 
-p 2 + 2pr 
-B 
-I B I B e I B i 
-q 2 + 2qr 
-AB 
-I A I B 
-2pq 
-O 
-ii 
-r 2 
-A porcentagem de doadores compatíveis para alguém do 
-grupo B nessa população deve ser de`,
+    text: `Uma população encontra-se em equilíbrio genético quanto ao
+sistema ABO, em que 25% dos indivíduos pertencem ao grupo O e
+16%, ao grupo A homozigotos. Considerando que: p = frequência
+de I A ; q = frequência de I B ; e r = frequência de i,
+espera-se encontrar: Grupo Genótipos Frequências A I A I A e I
+A i p 2 + 2pr B I B I B e I B i q 2 + 2qr AB I A I B 2pq O ii
+r 2 A porcentagem de doadores compatíveis para alguém do grupo
+B nessa população deve ser de`,
     images: ['/enem/2020/images/enem_2020_d2_q125.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `11%.` },
@@ -1173,14 +1008,10 @@ ser detonada.
 Qual é o processo envolvido na detonação dessa bomba?`,
     alternatives: [
       { id: 'A', type: 'text', value: `Fissão nuclear do urânio, provocada por nêutrons.` },
-      { id: 'B', type: 'text', value: `Fusão nuclear do hidrogênio, provocada por 
-prótons.` },
-      { id: 'C', type: 'text', value: `Desintegração nuclear do plutônio, provocada por 
-elétrons.` },
-      { id: 'D', type: 'text', value: `Associação em cadeia de chumbo, provocada por 
-pósitrons.` },
-      { id: 'E', type: 'text', value: `Decaimento radioativo do carbono, provocado por 
-partículas beta.` },
+      { id: 'B', type: 'text', value: `Fusão nuclear do hidrogênio, provocada por prótons.` },
+      { id: 'C', type: 'text', value: `Desintegração nuclear do plutônio, provocada por elétrons.` },
+      { id: 'D', type: 'text', value: `Associação em cadeia de chumbo, provocada por pósitrons.` },
+      { id: 'E', type: 'text', value: `Decaimento radioativo do carbono, provocado por partículas beta.` },
     ],
     correct: 'A',
     explanation: `A bomba atômica libera energia por meio da fissão nuclear, em que núcleos pesados como os de urânio (ou plutônio) são bombardeados por nêutrons e se partem em núcleos menores, liberando mais nêutrons e energia. Esses nêutrons provocam novas fissões, estabelecendo uma reação em cadeia, e os fragmentos radioativos gerados constituem a poeira radioativa. Entre as opções, o processo correto é a fissão nuclear do urânio provocada por nêutrons (alternativa A).`,
@@ -1252,42 +1083,21 @@ o valor mais próximo para a redução da temperatura da
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Em uma pesquisa estão sendo testados 
-cinco quimioterápicos quanto à sua capacidade 
-antitumoral. No entanto, para o tratamento de 
-pacientes, sabe-se que é necessário verificar também 
-o quanto cada composto agride células normais. Para o 
-experimento, partiu-se de cultivos de células tumorais 
-(colunas escuras na figura) e células normais (colunas 
-claras) com o mesmo número de células iniciais. 
-Dois grupos-controle não receberam quimioterápicos: 
-controle de células tumorais (CT) e de células normais 
-(CN). As colunas I, II, III, IV e V correspondem aos 
-grupos tratados com os cinco compostos. O número de 
-células viáveis após os tratamentos está representado 
-pelas colunas. 
-60
-Número de células (milhão)
-50 
-40 
-30 
-20 
-10 
-0 
-CT 
-I 
-II 
-III 
-IV 
-V 
-CN 
-I 
-II 
-III 
-IV 
-V 
-Qual quimioterápico deve ser escolhido para tratamento 
-desse tipo de tumor?`,
+    text: `Em uma pesquisa estão sendo testados cinco quimioterápicos
+quanto à sua capacidade antitumoral. No entanto, para o
+tratamento de pacientes, sabe-se que é necessário verificar
+também o quanto cada composto agride células normais. Para o
+experimento, partiu-se de cultivos de células tumorais
+(colunas escuras na figura) e células normais (colunas claras)
+com o mesmo número de células iniciais. Dois grupos-controle
+não receberam quimioterápicos: controle de células tumorais
+(CT) e de células normais (CN). As colunas I, II, III, IV e V
+correspondem aos grupos tratados com os cinco compostos. O
+número de células viáveis após os tratamentos está
+representado pelas colunas. 60 Número de células (milhão) 50
+40 30 20 10 0 CT I II III IV V CN I II III IV V Qual
+quimioterápico deve ser escolhido para tratamento desse tipo
+de tumor?`,
     images: ['/enem/2020/images/enem_2020_d2_q129.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I` },
@@ -1371,17 +1181,11 @@ BRUNNING, A. The Chemistry of Firework Pollution . Disponível em:
 www.compoundchem.com. Acesso em: 1 dez. 2017 (adaptado). 
 Esses espetáculos promovem riscos ambientais, porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `as substâncias resultantes da queima de fogos de 
-artifício são inflamáveis.` },
-      { id: 'B', type: 'text', value: `os resíduos produzidos na queima de fogos de 
-artifício ainda são explosivos.` },
-      { id: 'C', type: 'text', value: `o sódio e o potássio são os principais responsáveis 
-pela toxicidade do produto da queima.` },
-      { id: 'D', type: 'text', value: `os produtos da queima contêm metais pesados e 
-gases tóxicos que resultam em poluição atmosférica.` },
-      { id: 'E', type: 'text', value: `o material particulado gerado se deposita na superfície 
-das folhas das plantas impedindo os processos de 
-respiração celular.` },
+      { id: 'A', type: 'text', value: `as substâncias resultantes da queima de fogos de artifício são inflamáveis.` },
+      { id: 'B', type: 'text', value: `os resíduos produzidos na queima de fogos de artifício ainda são explosivos.` },
+      { id: 'C', type: 'text', value: `o sódio e o potássio são os principais responsáveis pela toxicidade do produto da queima.` },
+      { id: 'D', type: 'text', value: `os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica.` },
+      { id: 'E', type: 'text', value: `o material particulado gerado se deposita na superfície das folhas das plantas impedindo os processos de respiração celular.` },
     ],
     correct: 'D',
     explanation: `Entre os resíduos liberados na queima de fogos de artifício estão metais pesados (como bário, chumbo, antimônio e cromo) e gases tóxicos (como os dióxidos de nitrogênio e de enxofre). Esse material particulado e esses gases permanecem suspensos no ar, causando poluição atmosférica e riscos à saúde e ao ambiente. Portanto, o risco ambiental ocorre porque os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica (alternativa D).`,
@@ -1468,16 +1272,11 @@ ambas as origens.
 A alteração cromossômica que poderia explicar o 
 surgimento do café da espécie C . arábica é:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Duplicação em uma das plantas parentais antes do 
-cruzamento.` },
-      { id: 'B', type: 'text', value: `Inversão durante a meiose gamética em ambas as 
-plantas parentais.` },
-      { id: 'C', type: 'text', value: `Separação desigual na meiose gamética de uma das 
-plantas parentais.` },
-      { id: 'D', type: 'text', value: `Falha na separação durante a meiose gamética em 
-ambas as plantas parentais.` },
-      { id: 'E', type: 'text', value: `Deleções durante as primeiras mitoses zigóticas na 
-planta descendente C . arábica .` },
+      { id: 'A', type: 'text', value: `Duplicação em uma das plantas parentais antes do cruzamento.` },
+      { id: 'B', type: 'text', value: `Inversão durante a meiose gamética em ambas as plantas parentais.` },
+      { id: 'C', type: 'text', value: `Separação desigual na meiose gamética de uma das plantas parentais.` },
+      { id: 'D', type: 'text', value: `Falha na separação durante a meiose gamética em ambas as plantas parentais.` },
+      { id: 'E', type: 'text', value: `Deleções durante as primeiras mitoses zigóticas na planta descendente C . arábica .` },
     ],
     correct: 'A',
     annulled: true,
@@ -1554,16 +1353,11 @@ de assentos desse ônibus, no instante considerado na
 imagem, é`,
     images: ['/enem/2020/images/enem_2020_d2_q137.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `16 
-42` },
-      { id: 'B', type: 'text', value: `16 
-26` },
-      { id: 'C', type: 'text', value: `26 
-42` },
-      { id: 'D', type: 'text', value: `42 
-26` },
-      { id: 'E', type: 'text', value: `42 
-16` },
+      { id: 'A', type: 'text', value: `16 42` },
+      { id: 'B', type: 'text', value: `16 26` },
+      { id: 'C', type: 'text', value: `26 42` },
+      { id: 'D', type: 'text', value: `42 26` },
+      { id: 'E', type: 'text', value: `42 16` },
     ],
     correct: 'A',
     explanation: `Pela imagem há 16 assentos vendidos (mais escuros) e o ônibus tem 42 assentos no total (numerados de 01 a 42). A razão vendidos/total é 16/42. Resposta: A.`,
@@ -1699,16 +1493,11 @@ Nessas condições, a probabilidade de João ser a sétima
 pessoa do grupo a receber sua restituição é igual a`,
     images: ['/enem/2020/images/enem_2020_d2_q142.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `1 
-12` },
-      { id: 'B', type: 'text', value: `7 
-12` },
-      { id: 'C', type: 'text', value: `1 
-8` },
-      { id: 'D', type: 'text', value: `5 
-6` },
-      { id: 'E', type: 'text', value: `1 
-4` },
+      { id: 'A', type: 'text', value: `1 12` },
+      { id: 'B', type: 'text', value: `7 12` },
+      { id: 'C', type: 'text', value: `1 8` },
+      { id: 'D', type: 'text', value: `5 6` },
+      { id: 'E', type: 'text', value: `1 4` },
     ],
     correct: 'E',
     explanation: `João tem 75 anos; com 75 anos há 4 pessoas (Heloisa, Marisa, Pedro e João). As 6 pessoas mais velhas ocupam as posições 1 a 6, e os quatro de 75 anos ocupam, por sorteio, as posições 7, 8, 9 e 10. João é o 7º se for o primeiro sorteado entre os quatro: P = 1/4. Resposta: E.`,
@@ -1781,32 +1570,23 @@ completamente o balde, partindo do instante atual?`,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Um clube deseja produzir miniaturas em escala do 
-troféu que ganhou no último campeonato. O troféu está 
-representado na Figura 1 e é composto por uma base 
-em formato de um paralelepípedo reto-retângulo de 
-madeira, sobre a qual estão fixadas três hastes verticais 
-que sustentam uma esfera de 30 cm de diâmetro, que fica 
-centralizada sobre a base de madeira. O troféu tem 100 cm 
-de altura, incluída sua base. 
-? 
-8 cm 
-50 cm 
-50 cm 
-10 cm 
-Figura 1 
-Figura 2 
-A miniatura desse troféu deverá ser instalada 
-no interior de uma caixa de vidro, em formato de 
-paralelepípedo reto-retângulo, cujas dimensões internas 
-de sua base estão indicadas na Figura 2, de modo que 
-a base do troféu seja colada na base da caixa e distante 
-das paredes laterais da caixa de vidro em pelo menos 1 cm. 
-Deve ainda haver uma distância de exatos 2 cm entre o 
-topo da esfera e a tampa dessa caixa de vidro. Nessas 
-condições deseja-se fazer a maior miniatura possível. 
-A medida da altura, em centímetro, dessa caixa de vidro 
-deverá ser igual a`,
+    text: `Um clube deseja produzir miniaturas em escala do troféu que
+ganhou no último campeonato. O troféu está representado na
+Figura 1 e é composto por uma base em formato de um
+paralelepípedo reto-retângulo de madeira, sobre a qual estão
+fixadas três hastes verticais que sustentam uma esfera de 30
+cm de diâmetro, que fica centralizada sobre a base de madeira.
+O troféu tem 100 cm de altura, incluída sua base. ? 8 cm 50 cm
+50 cm 10 cm Figura 1 Figura 2 A miniatura desse troféu deverá
+ser instalada no interior de uma caixa de vidro, em formato de
+paralelepípedo reto-retângulo, cujas dimensões internas de sua
+base estão indicadas na Figura 2, de modo que a base do troféu
+seja colada na base da caixa e distante das paredes laterais
+da caixa de vidro em pelo menos 1 cm. Deve ainda haver uma
+distância de exatos 2 cm entre o topo da esfera e a tampa
+dessa caixa de vidro. Nessas condições deseja-se fazer a maior
+miniatura possível. A medida da altura, em centímetro, dessa
+caixa de vidro deverá ser igual a`,
     images: ['/enem/2020/images/enem_2020_d2_q145.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `12.` },
@@ -1874,12 +1654,9 @@ Caso o seu veículo utilizasse o computador do Tipo B, o
 valor informado na tela seria obtido pela operação`,
     alternatives: [
       { id: 'A', type: 'text', value: `X ∙ 100` },
-      { id: 'B', type: 'text', value: `X 
-100` },
-      { id: 'C', type: 'text', value: `100 
-X` },
-      { id: 'D', type: 'text', value: `1 
-X` },
+      { id: 'B', type: 'text', value: `X 100` },
+      { id: 'C', type: 'text', value: `100 X` },
+      { id: 'D', type: 'text', value: `1 X` },
       { id: 'E', type: 'text', value: `1 ∙ X` },
     ],
     correct: 'C',
@@ -1892,26 +1669,17 @@ X` },
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `A Pesquisa Nacional por Amostra de Domicílios 
-(Pnad) é uma pesquisa feita anualmente pelo IBGE, 
-exceto nos anos em que há Censo. Em um ano, foram 
-entrevistados 363 mil jovens para fazer um levantamento 
-sobre suas atividades profissionais e/ou acadêmicas. Os 
-resultados da pesquisa estão indicados no gráfico. 
-Jovens em atividade entre 15 e 29 anos (%) 
-45,2 
-21,6 
-19,6 
-13,6 
-Somente estuda 
-Trabalha e estuda 
-Somente 
-Não trabalha 
-trabalha 
-nem estuda 
-Disponível em: http://noticias.uol.com.br. Acesso em: 20 ago. 2014. 
-De acordo com as informações dadas, o número de 
-jovens entrevistados que trabalha é`,
+    text: `A Pesquisa Nacional por Amostra de Domicílios (Pnad) é uma
+pesquisa feita anualmente pelo IBGE, exceto nos anos em que há
+Censo. Em um ano, foram entrevistados 363 mil jovens para
+fazer um levantamento sobre suas atividades profissionais e/ou
+acadêmicas. Os resultados da pesquisa estão indicados no
+gráfico. Jovens em atividade entre 15 e 29 anos (%) 45,2 21,6
+19,6 13,6 Somente estuda Trabalha e estuda Somente Não
+trabalha trabalha nem estuda Disponível em:
+http://noticias.uol.com.br. Acesso em: 20 ago. 2014. De acordo
+com as informações dadas, o número de jovens entrevistados que
+trabalha é`,
     images: ['/enem/2020/images/enem_2020_d2_q148.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `114 708.` },
@@ -2022,36 +1790,21 @@ esse tronco de pirâmide são`,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Um processo de aeração, que consiste na introdução 
-de ar num líquido, acontece do seguinte modo: uma 
-bomba B retira o líquido de um tanque T1 e o faz passar 
-pelo aerador A1, que aumenta o volume do líquido em 
-15%, e em seguida pelo aerador A2, ganhando novo 
-aumento de volume de 10%. Ao final, ele fica armazenado 
-num tanque T2, de acordo com a figura. 
-A1 
-A2 
-T1 
-B 
-T2 
-Os tanques T1 e T2 são prismas retos de bases 
-retangulares, sendo que a base de T1 tem comprimento c e 
-largura L, e a base de T2 tem comprimento c 
-2 e largura 2L. 
-Para 
-finalizar 
-o 
-processo 
-de 
-aeração 
-sem 
-derramamento do líquido em T2, o responsável deve 
-saber a relação entre a altura da coluna de líquido que já 
-saiu de T1, denotada por X , e a altura da coluna de líquido 
-que chegou a T2, denotada por y . 
-Disponível em: www.dec.ufcg.edu.br. Acesso em: 21 abr. 2015. 
-A equação que relaciona as medidas das alturas y e x é 
-dada por`,
+    text: `Um processo de aeração, que consiste na introdução de ar num
+líquido, acontece do seguinte modo: uma bomba B retira o
+líquido de um tanque T1 e o faz passar pelo aerador A1, que
+aumenta o volume do líquido em 15%, e em seguida pelo aerador
+A2, ganhando novo aumento de volume de 10%. Ao final, ele fica
+armazenado num tanque T2, de acordo com a figura. A1 A2 T1 B
+T2 Os tanques T1 e T2 são prismas retos de bases retangulares,
+sendo que a base de T1 tem comprimento c e largura L, e a base
+de T2 tem comprimento c 2 e largura 2L. Para finalizar o
+processo de aeração sem derramamento do líquido em T2, o
+responsável deve saber a relação entre a altura da coluna de
+líquido que já saiu de T1, denotada por X , e a altura da
+coluna de líquido que chegou a T2, denotada por y . Disponível
+em: www.dec.ufcg.edu.br. Acesso em: 21 abr. 2015. A equação
+que relaciona as medidas das alturas y e x é dada por`,
     images: ['/enem/2020/images/enem_2020_d2_q152.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `y = 1,265 x` },
@@ -2153,42 +1906,21 @@ Qual é a medida do lado do centésimo quadrado construído de acordo com esse p
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `O gerente de uma loja de cosméticos colocou à venda 
-cinco diferentes tipos de perfume, tendo em estoque na 
-loja as mesmas quantidades de cada um deles. O setor 
-de controle de estoque encaminhou ao gerente registros 
-gráficos descrevendo os preços unitários de cada 
-perfume, em real, e a quantidade vendida de cada um 
-deles, em percentual, ocorrida no mês de novembro. 
-Preço do perfume por unidade (R$) 
-200 
-170 
-150 
-100 
-80 
-Perfume I 
-Perfume II 
-Perfume III 
-Perfume IV 
-Perfume V 
-Porcentagem da quantidade vendida de 
-cada perfume 
-Perfume I 
-13% 
-Perfume II 
-10% 
-Perfume V 
-32% 
-Perfume III 
-16% 
-Perfume IV 
-29% 
-Dados a chegada do final de ano e o aumento das 
-vendas, a gerência pretende aumentar a quantidade 
-estocada do perfume do tipo que gerou a maior 
-arrecadação em espécie, em real, no mês de novembro. 
-Nessas condições, qual o tipo de perfume que deverá ter 
-maior reposição no estoque?`,
+    text: `O gerente de uma loja de cosméticos colocou à venda cinco
+diferentes tipos de perfume, tendo em estoque na loja as
+mesmas quantidades de cada um deles. O setor de controle de
+estoque encaminhou ao gerente registros gráficos descrevendo
+os preços unitários de cada perfume, em real, e a quantidade
+vendida de cada um deles, em percentual, ocorrida no mês de
+novembro. Preço do perfume por unidade (R$) 200 170 150 100 80
+Perfume I Perfume II Perfume III Perfume IV Perfume V
+Porcentagem da quantidade vendida de cada perfume Perfume I
+13% Perfume II 10% Perfume V 32% Perfume III 16% Perfume IV
+29% Dados a chegada do final de ano e o aumento das vendas, a
+gerência pretende aumentar a quantidade estocada do perfume do
+tipo que gerou a maior arrecadação em espécie, em real, no mês
+de novembro. Nessas condições, qual o tipo de perfume que
+deverá ter maior reposição no estoque?`,
     images: ['/enem/2020/images/enem_2020_d2_q156.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I` },
@@ -2221,16 +1953,11 @@ Qual é a probabilidade de que a primeira pessoa a revelar
 o seu amigo secreto e a última presenteada sejam as duas
 pessoas do casal?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `1 
-5` },
-      { id: 'B', type: 'text', value: `1 
-45` },
-      { id: 'C', type: 'text', value: `1 
-50` },
-      { id: 'D', type: 'text', value: `1 
-90` },
-      { id: 'E', type: 'text', value: `1 
-100` },
+      { id: 'A', type: 'text', value: `1 5` },
+      { id: 'B', type: 'text', value: `1 45` },
+      { id: 'C', type: 'text', value: `1 50` },
+      { id: 'D', type: 'text', value: `1 90` },
+      { id: 'E', type: 'text', value: `1 100` },
 
     ],
     correct: 'A',
@@ -2244,23 +1971,17 @@ pessoas do casal?`,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Três amigos, André, Bernardo e Carlos, moram em 
-um condomínio fechado de uma cidade. O quadriculado 
-representa a localização das ruas paralelas e 
-perpendiculares, delimitando quadras de mesmo 
-tamanho nesse condomínio, em que nos pontos A , B e C 
-estão localizadas as casas de André, Bernardo e Carlos, 
-respectivamente. 
-B 
-C 
-A 
-André deseja deslocar-se da sua casa até a casa 
-de Bernardo, sem passar pela casa de Carlos, seguindo 
-ao longo das ruas do condomínio, fazendo sempre 
-deslocamentos para a direita ( → ) ou para cima ( ↑ ), 
-segundo o esquema da figura. 
-O número de diferentes caminhos que André poderá 
-utilizar para realizar o deslocamento nas condições 
+    text: `Três amigos, André, Bernardo e Carlos, moram em um condomínio
+fechado de uma cidade. O quadriculado representa a localização
+das ruas paralelas e perpendiculares, delimitando quadras de
+mesmo tamanho nesse condomínio, em que nos pontos A , B e C
+estão localizadas as casas de André, Bernardo e Carlos,
+respectivamente. B C A André deseja deslocar-se da sua casa
+até a casa de Bernardo, sem passar pela casa de Carlos,
+seguindo ao longo das ruas do condomínio, fazendo sempre
+deslocamentos para a direita ( → ) ou para cima ( ↑ ), segundo
+o esquema da figura. O número de diferentes caminhos que André
+poderá utilizar para realizar o deslocamento nas condições
 propostas é`,
     images: ['/enem/2020/images/enem_2020_d2_q158.jpg'],
     alternatives: [
@@ -2358,8 +2079,7 @@ tipo B é igual a 25% da altura da caixa-d’água do tipo A.
 Se R denota o raio da caixa-d’água do tipo A, então o raio 
 da caixa-d’água do tipo B é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `R 
-2` },
+      { id: 'A', type: 'text', value: `R 2` },
       { id: 'B', type: 'text', value: `2 R` },
       { id: 'C', type: 'text', value: `4 R` },
       { id: 'D', type: 'text', value: `5 R` },
@@ -2424,10 +2144,8 @@ Nessas condições, o número de anagramas formados
       { id: 'A', type: 'text', value: `9!` },
       { id: 'B', type: 'text', value: `4! 5!` },
       { id: 'C', type: 'text', value: `2 × 4! 5!` },
-      { id: 'D', type: 'text', value: `9! 
-2` },
-      { id: 'E', type: 'text', value: `4! 5! 
-2` },
+      { id: 'D', type: 'text', value: `9! 2` },
+      { id: 'E', type: 'text', value: `4! 5! 2` },
     ],
     correct: 'E',
     explanation: `A frase IAMPOTTER tem 9 letras: 4 vogais (I, A, O, E) e 5 consoantes (M, P, T, T, R), com T repetido. Para vogais e consoantes intercaladas, o padrão é C V C V C V C V C (consoantes nas 5 posições ímpares). Consoantes: 5!/2! = 60; vogais: 4! = 24. Total = 60 × 24 = (4! · 5!)/2. Resposta: E.`,
@@ -2439,24 +2157,19 @@ Nessas condições, o número de anagramas formados
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `A exposição a barulhos excessivos, como os que 
-percebemos em geral em trânsitos intensos, casas 
-noturnas e espetáculos musicais, podem provocar 
-insônia, estresse, infarto, perda de audição, entre outras 
-enfermidades. De acordo com a Organização Mundial 
-da Saúde, todo e qualquer som que ultrapasse os 55 
-decibéis (unidade de intensidade do som) já pode ser 
-considerado nocivo para a saúde. O gráfico foi elaborado 
-a partir da medição do ruído produzido, durante um dia, 
-em um canteiro de obras. 
-Decibel 
-55 
-0 
-Hora 
-0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
-Disponível em: www.revistaencontro.com.br. Acesso em: 12 ago. 2020 (adaptado). 
-Nesse dia, durante quantas horas o ruído esteve acima 
-de 55 decibéis?`,
+    text: `A exposição a barulhos excessivos, como os que percebemos em
+geral em trânsitos intensos, casas noturnas e espetáculos
+musicais, podem provocar insônia, estresse, infarto, perda de
+audição, entre outras enfermidades. De acordo com a
+Organização Mundial da Saúde, todo e qualquer som que
+ultrapasse os 55 decibéis (unidade de intensidade do som) já
+pode ser considerado nocivo para a saúde. O gráfico foi
+elaborado a partir da medição do ruído produzido, durante um
+dia, em um canteiro de obras. Decibel 55 0 Hora 0 1 2 3 4 5 6
+7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 Disponível
+em: www.revistaencontro.com.br. Acesso em: 12 ago. 2020
+(adaptado). Nesse dia, durante quantas horas o ruído esteve
+acima de 55 decibéis?`,
     images: ['/enem/2020/images/enem_2020_d2_q164.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `5` },
@@ -2537,20 +2250,14 @@ altura`,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `O quadro representa os gastos mensais, em real, 
-de uma família com internet, mensalidade escolar e 
-mesada do filho. 
-Internet 
-Mensalidade escolar 
-Mesada do filho 
-120 
-700 
-400 
-No início do ano, a internet e a mensalidade escolar 
-tiveram acréscimos, respectivamente, de 20% e 10%. 
-Necessitando manter o valor da despesa mensal total 
-com os itens citados, a família reduzirá a mesada do filho. 
-Qual será a porcentagem da redução da mesada?`,
+    text: `O quadro representa os gastos mensais, em real, de uma família
+com internet, mensalidade escolar e mesada do filho. Internet
+Mensalidade escolar Mesada do filho 120 700 400 No início do
+ano, a internet e a mensalidade escolar tiveram acréscimos,
+respectivamente, de 20% e 10%. Necessitando manter o valor da
+despesa mensal total com os itens citados, a família reduzirá
+a mesada do filho. Qual será a porcentagem da redução da
+mesada?`,
     alternatives: [
       { id: 'A', type: 'text', value: `15,0` },
       { id: 'B', type: 'text', value: `23,5` },
@@ -2568,21 +2275,16 @@ Qual será a porcentagem da redução da mesada?`,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Num recipiente com a forma de paralelepípedo 
-reto-retângulo, colocou-se água até a altura de 8 cm e 
-um objeto, que ficou flutuando na superfície da água. 
-Para retirar o objeto de dentro do recipiente, a altura 
-da coluna de água deve ser de, pelo menos, 15 cm. Para 
-a coluna de água chegar até essa altura, é necessário 
-colocar dentro do recipiente bolinhas de volume igual a 
-6 cm³ cada, que ficarão totalmente submersas. 
-17 cm 
-8 cm 
-3 cm 
-4 cm 
-O número mínimo de bolinhas necessárias para que se 
-possa retirar o objeto que flutua na água, seguindo as 
-instruções dadas, é de`,
+    text: `Num recipiente com a forma de paralelepípedo reto-retângulo,
+colocou-se água até a altura de 8 cm e um objeto, que ficou
+flutuando na superfície da água. Para retirar o objeto de
+dentro do recipiente, a altura da coluna de água deve ser de,
+pelo menos, 15 cm. Para a coluna de água chegar até essa
+altura, é necessário colocar dentro do recipiente bolinhas de
+volume igual a 6 cm³ cada, que ficarão totalmente submersas.
+17 cm 8 cm 3 cm 4 cm O número mínimo de bolinhas necessárias
+para que se possa retirar o objeto que flutua na água,
+seguindo as instruções dadas, é de`,
     images: ['/enem/2020/images/enem_2020_d2_q168.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `14.` },
@@ -2697,29 +2399,22 @@ das áreas em branco desse painel são os de formato`,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `No período de fim de ano, o síndico de um condomínio 
-resolveu colocar, em um poste, uma iluminação natalina 
-em formato de cone, lembrando uma árvore de Natal, 
-conforme as figuras 1 e 2. 
-Poste 
-h = 3 m 
-c 
-Figura 2 
-Figura 1 
-A árvore deverá ser feita colocando-se mangueiras 
-de iluminação, consideradas segmentos de reta de 
-mesmo comprimento, a partir de um ponto situado a 3 m 
-de altura no poste até um ponto de uma circunferência de 
-fixação, no chão, de tal forma que esta fique dividida em 
-20 arcos iguais. O poste está fixado no ponto C (centro 
-da circunferência) perpendicularmente ao plano do chão. 
-Para economizar, ele utilizará mangueiras de 
-iluminação aproveitadas de anos anteriores, que juntas 
-totalizaram pouco mais de 100 m de comprimento, dos 
-quais ele decide usar exatamente 100 m e deixar o 
-restante como reserva. 
-Para que ele atinja seu objetivo, o raio, em metro, da 
-circunferência deverá ser de`,
+    text: `No período de fim de ano, o síndico de um condomínio resolveu
+colocar, em um poste, uma iluminação natalina em formato de
+cone, lembrando uma árvore de Natal, conforme as figuras 1 e
+2. Poste h = 3 m c Figura 2 Figura 1 A árvore deverá ser feita
+colocando-se mangueiras de iluminação, consideradas segmentos
+de reta de mesmo comprimento, a partir de um ponto situado a 3
+m de altura no poste até um ponto de uma circunferência de
+fixação, no chão, de tal forma que esta fique dividida em 20
+arcos iguais. O poste está fixado no ponto C (centro da
+circunferência) perpendicularmente ao plano do chão. Para
+economizar, ele utilizará mangueiras de iluminação
+aproveitadas de anos anteriores, que juntas totalizaram pouco
+mais de 100 m de comprimento, dos quais ele decide usar
+exatamente 100 m e deixar o restante como reserva. Para que
+ele atinja seu objetivo, o raio, em metro, da circunferência
+deverá ser de`,
     images: ['/enem/2020/images/enem_2020_d2_q172.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `4,00.` },
@@ -2738,26 +2433,21 @@ circunferência deverá ser de`,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Pergolado é o nome que se dá a um tipo de cobertura 
-projetada por arquitetos, comumente em praças e jardins, 
-para criar um ambiente para pessoas ou plantas, no qual 
-há uma quebra da quantidade de luz, dependendo da 
-posição do sol. É feito como um estrado de vigas iguais, 
-postas paralelas e perfeitamente em fila, como ilustra a 
-figura. 
-30 cm 
-30 cm 
-Um arquiteto projeta um pergolado com vãos de 
-30 cm de distância entre suas vigas, de modo que, no 
-solstício de verão, a trajetória do sol durante o dia seja 
-realizada num plano perpendicular à direção das vigas, 
-e que o sol da tarde, no momento em que seus raios 
-fizerem 30° com a posição a pino, gere a metade da luz 
-que passa no pergolado ao meio-dia. 
-Para atender à proposta do projeto elaborado pelo 
-arquiteto, as vigas do pergolado devem ser construídas 
-de maneira que a altura, em centímetro, seja a mais 
-próxima possível de`,
+    text: `Pergolado é o nome que se dá a um tipo de cobertura projetada
+por arquitetos, comumente em praças e jardins, para criar um
+ambiente para pessoas ou plantas, no qual há uma quebra da
+quantidade de luz, dependendo da posição do sol. É feito como
+um estrado de vigas iguais, postas paralelas e perfeitamente
+em fila, como ilustra a figura. 30 cm 30 cm Um arquiteto
+projeta um pergolado com vãos de 30 cm de distância entre suas
+vigas, de modo que, no solstício de verão, a trajetória do sol
+durante o dia seja realizada num plano perpendicular à direção
+das vigas, e que o sol da tarde, no momento em que seus raios
+fizerem 30° com a posição a pino, gere a metade da luz que
+passa no pergolado ao meio-dia. Para atender à proposta do
+projeto elaborado pelo arquiteto, as vigas do pergolado devem
+ser construídas de maneira que a altura, em centímetro, seja a
+mais próxima possível de`,
     images: ['/enem/2020/images/enem_2020_d2_q173.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `9.` },
@@ -2811,36 +2501,7 @@ Segundo a metodologia descrita, o número estimado de pessoas presentes a essa m
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de
-produção de seus itens, em real, em função da quantidade de itens produzidos. 
-R$ 
-55 
-50 
-45 
-40 
-35 
-30 
-25 
-20 
-15 
-10 
-5 
-5 
-10 
-15 
-20 
-25 
-30 
-0 
-O lucro é determinado pela diferença: Receita - Custo. 
-O gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, e 
-R$ 
-40 
-35 
-30 
-25 
-20 
-15`,
+    text: ``,
     images: ['/enem/2020/images/enem_2020_d2_q175.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2020/images/enem_2020_d2_q175_A.jpg` },

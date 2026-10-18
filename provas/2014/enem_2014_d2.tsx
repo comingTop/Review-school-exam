@@ -12,14 +12,11 @@ As marcas de primeira pessoa do plural no texto da
 campanha de amamentação têm como finalidade`,
     images: ['/enem/2014/images/enem_2014_d2_q91.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `incluir o enunciador no discurso para expressar 
-formalidade.` },
+      { id: 'A', type: 'text', value: `incluir o enunciador no discurso para expressar formalidade.` },
       { id: 'B', type: 'text', value: `agregar diversas vozes para impor valores às lactantes.` },
       { id: 'C', type: 'text', value: `forjar uma voz coletiva para garantir adesão à campanha.` },
-      { id: 'D', type: 'text', value: `promover uma identificação entre o enunciador e o 
-leitor para aproximá-los.` },
-      { id: 'E', type: 'text', value: `remeter à voz institucional promotora da campanha 
-para conferir-lhe credibilidade.` },
+      { id: 'D', type: 'text', value: `promover uma identificação entre o enunciador e o leitor para aproximá-los.` },
+      { id: 'E', type: 'text', value: `remeter à voz institucional promotora da campanha para conferir-lhe credibilidade.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A campanha “Lactancia durante el embarazo y en tándem” apresenta o aleitamento na gestação e em tándem como prática natural e respeitosa. Ao empregar a primeira pessoa do plural (“podemos”, “nuestros hijos”), o enunciador se inclui no grupo das mães a quem se dirige. Essa escolha cria proximidade e identificação entre quem fala e o público leitor, aproximando-os. Por isso, a finalidade é promover uma identificação entre o enunciador e o leitor (alternativa D). As demais opções falam em formalidade, pluralidade de vozes, voz coletiva ou credibilidade institucional, que não correspondem ao efeito buscado.`,
@@ -201,17 +198,11 @@ A notícia e o cartaz abordam a questão da doação de
 cartaz é`,
     images: ['/enem/2014/images/enem_2014_d2_q96.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `contraditório, pois a notícia informa que o país superou 
-a necessidade de doação de órgãos.` },
-      { id: 'B', type: 'text', value: `complementar, pois a notícia diz que a doação de 
-órgãos cresceu e o cartaz solicita doações.` },
-      { id: 'C', type: 'text', value: `redundante, pois a notícia e o cartaz têm a intenção 
-de influenciar as pessoas a doarem seus órgãos.` },
-      { id: 'D', type: 'text', value: `indispensável, pois a notícia fica incompleta sem o 
-cartaz, que apela para a sensibilidade das pessoas.` },
-      { id: 'E', type: 'text', value: `discordante, pois ambos os textos apresentam 
-posições distintas sobre a necessidade de doação 
-de órgãos.` },
+      { id: 'A', type: 'text', value: `contraditório, pois a notícia informa que o país superou a necessidade de doação de órgãos.` },
+      { id: 'B', type: 'text', value: `complementar, pois a notícia diz que a doação de órgãos cresceu e o cartaz solicita doações.` },
+      { id: 'C', type: 'text', value: `redundante, pois a notícia e o cartaz têm a intenção de influenciar as pessoas a doarem seus órgãos.` },
+      { id: 'D', type: 'text', value: `indispensável, pois a notícia fica incompleta sem o cartaz, que apela para a sensibilidade das pessoas.` },
+      { id: 'E', type: 'text', value: `discordante, pois ambos os textos apresentam posições distintas sobre a necessidade de doação de órgãos.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O Texto I é uma notícia que informa que seis estados brasileiros zeraram a fila de espera por transplante de córnea, graças ao aumento de doadores. O Texto II é um cartaz que convoca o leitor a ser doador de órgãos e a avisar a família. Ao relacionar os dois, percebe-se que o cartaz complementa a notícia: enquanto ela mostra o crescimento das doações, ele reforça e solicita novas doações (alternativa B). As demais opções tratam os textos como contraditórios, redundantes, indispensáveis ou discordantes, relações que não se sustentam.`,
@@ -242,24 +233,11 @@ corporais, visando enquadrá-las em um determinado
 formato. Qual o sentido atribuído a essas transformações 
 incorporadas historicamente ao MMA?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `A modificação das regras busca associar valores 
-lúdicos ao MMA, possibilitando a participação de 
-diferentes populações como atividade de lazer.` },
-      { id: 'B', type: 'text', value: `As transformações do MMA aumentam o grau de 
-violência das lutas, favorecendo a busca de emoções 
-mais fortes tanto aos competidores como ao público.` },
-      { id: 'C', type: 'text', value: `As mudanças de regras do MMA atendem à 
-necessidade de tornar a modalidade menos violenta, 
-visando sua introdução nas academias de ginástica 
-na dimensão da saúde.` },
-      { id: 'D', type: 'text', value: `As modificações incorporadas ao MMA têm por 
-finalidade aprimorar as técnicas das diferentes 
-artes marciais, favorecendo o desenvolvimento da 
-modalidade enquanto defesa pessoal.` },
-      { id: 'E', type: 'text', value: `As transformações do MMA visam delimitar a violência 
-das lutas, preservando a integridade dos atletas e 
-enquadrando a modalidade no formato do esporte de 
-espetáculo.` },
+      { id: 'A', type: 'text', value: `A modificação das regras busca associar valores lúdicos ao MMA, possibilitando a participação de diferentes populações como atividade de lazer.` },
+      { id: 'B', type: 'text', value: `As transformações do MMA aumentam o grau de violência das lutas, favorecendo a busca de emoções mais fortes tanto aos competidores como ao público.` },
+      { id: 'C', type: 'text', value: `As mudanças de regras do MMA atendem à necessidade de tornar a modalidade menos violenta, visando sua introdução nas academias de ginástica na dimensão da saúde.` },
+      { id: 'D', type: 'text', value: `As modificações incorporadas ao MMA têm por finalidade aprimorar as técnicas das diferentes artes marciais, favorecendo o desenvolvimento da modalidade enquanto defesa pessoal.` },
+      { id: 'E', type: 'text', value: `As transformações do MMA visam delimitar a violência das lutas, preservando a integridade dos atletas e enquadrando a modalidade no formato do esporte de espetáculo.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto descreve como o MMA deixou de ser visto como luta violenta e sem regras para se tornar uma modalidade com normas e acompanhamento médico obrigatório. Essas mudanças históricas buscam apagar o estigma negativo do esporte. O sentido atribuído a elas é, portanto, delimitar a violência das lutas, preservando a integridade dos atletas e enquadrando a modalidade no formato do esporte de espetáculo (alternativa E). As demais opções associam as transformações a valores lúdicos, ao aumento da violência, a fins de saúde ou à defesa pessoal, aspectos não enfatizados.`,
@@ -297,16 +275,11 @@ Sobre a associação entre a prática de atividades físicas e
 o uso de suplementos alimentares, o texto informa que a 
 ingestão desses suplementos`,
     alternatives: [
-      { id: 'A', type: 'text', value: `é indispensável para as pessoas que fazem atividades 
-físicas regularmente.` },
-      { id: 'B', type: 'text', value: `é estimulada pela indústria voltada para adolescentes 
-que buscam um corpo ideal.` },
-      { id: 'C', type: 'text', value: `é indicada para atividades físicas como a musculação 
-com fins de promoção da saúde.` },
-      { id: 'D', type: 'text', value: `direciona-se para adolescentes com distúrbios 
-metabólicos e que praticam atividades físicas.` },
-      { id: 'E', type: 'text', value: `melhora a saúde do indivíduo que não tem uma dieta 
-balanceada e nem pratica atividades físicas.` },
+      { id: 'A', type: 'text', value: `é indispensável para as pessoas que fazem atividades físicas regularmente.` },
+      { id: 'B', type: 'text', value: `é estimulada pela indústria voltada para adolescentes que buscam um corpo ideal.` },
+      { id: 'C', type: 'text', value: `é indicada para atividades físicas como a musculação com fins de promoção da saúde.` },
+      { id: 'D', type: 'text', value: `direciona-se para adolescentes com distúrbios metabólicos e que praticam atividades físicas.` },
+      { id: 'E', type: 'text', value: `melhora a saúde do indivíduo que não tem uma dieta balanceada e nem pratica atividades físicas.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto sobre suplementos alimentares informa que adolescentes envolvidos em atividade física vêm usando cada vez mais esses produtos, muitas vezes em doses excessivas. Aponta a mídia como um dos principais estímulos, ao veicular o mito do corpo ideal e levar os jovens à autoafirmação. Conclui-se que a ingestão desses suplementos é estimulada pela indústria voltada para adolescentes que buscam um corpo ideal (alternativa B). As demais opções apresentam a suplementação como indispensável, indicada para a saúde ou restrita a casos clínicos, o que o texto não defende.`,
@@ -345,16 +318,11 @@ dois autores contemporâneos, esse embate incorpora um
 elemento novo: a questão da violência e do desemprego. 
 As narrativas apresentam confluência, pois nelas o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `criminalidade é algo inerente ao ser humano, que 
-sucumbe a suas manifestações.` },
-      { id: 'B', type: 'text', value: `meio urbano, especialmente o das grandes cidades, 
-estimula uma vida mais violenta.` },
-      { id: 'C', type: 'text', value: `falta de oportunidades na cidade dialoga com a 
-pobreza do campo rumo à criminalidade.` },
-      { id: 'D', type: 'text', value: `êxodo rural e a falta de escolaridade são causas da 
-violência nas grandes cidades.` },
-      { id: 'E', type: 'text', value: `complacência das leis e a inércia das personagens 
-são estímulos à prática criminosa.` },
+      { id: 'A', type: 'text', value: `criminalidade é algo inerente ao ser humano, que sucumbe a suas manifestações.` },
+      { id: 'B', type: 'text', value: `meio urbano, especialmente o das grandes cidades, estimula uma vida mais violenta.` },
+      { id: 'C', type: 'text', value: `falta de oportunidades na cidade dialoga com a pobreza do campo rumo à criminalidade.` },
+      { id: 'D', type: 'text', value: `êxodo rural e a falta de escolaridade são causas da violência nas grandes cidades.` },
+      { id: 'E', type: 'text', value: `complacência das leis e a inércia das personagens são estímulos à prática criminosa.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O Texto I, de Cyro Martins, e o Texto II, de Rubem Fonseca, retratam, respectivamente, a miséria do campo e a busca frustrada por emprego na cidade. Embora a oposição entre campo e cidade seja temática tradicional da literatura brasileira, aqui ela incorpora um elemento novo: a violência ligada ao desemprego. As narrativas convergem ao mostrar que a falta de oportunidades na cidade dialoga com a pobreza do campo rumo à criminalidade (alternativa C). As demais opções naturalizam a violência ou a atribuem isoladamente ao meio urbano ou ao êxodo rural.`,
@@ -420,13 +388,10 @@ Os textos fazem uso constante de recursos que permitem
 a articulação entre suas partes. Quanto à construção do 
 fragmento, o elemento`,
     alternatives: [
-      { id: 'A', type: 'text', value: `“nisso” introduz o fragmento “botar a cara na janela 
-em crônica de jornal”.` },
-      { id: 'B', type: 'text', value: `“assim” é uma paráfrase de “é como me botarem no 
-colo”.` },
+      { id: 'A', type: 'text', value: `“nisso” introduz o fragmento “botar a cara na janela em crônica de jornal”.` },
+      { id: 'B', type: 'text', value: `“assim” é uma paráfrase de “é como me botarem no colo”.` },
       { id: 'C', type: 'text', value: `“isso” remete a “escondia em poesia e ficção”.` },
-      { id: 'D', type: 'text', value: `“alguns” antecipa a informação “É isso que digo para 
-meus pais”.` },
+      { id: 'D', type: 'text', value: `“alguns” antecipa a informação “É isso que digo para meus pais”.` },
       { id: 'E', type: 'text', value: `“essa” recupera a informação anterior “janela do jornal”.` },
     ],
     correct: 'A',
@@ -460,16 +425,11 @@ concerto e encoraja os ruídos da rua a atravessar suas
 composições”, na proposta de Schafer de formular uma 
 nova conceituação de música, representa a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `acessibilidade à sala de concerto como metáfora, 
-num momento em que a arte deixou de ser elitizada.` },
-      { id: 'B', type: 'text', value: `abertura da sala de concerto, que permitiu que a 
-música fosse ouvida do lado de fora do teatro.` },
-      { id: 'C', type: 'text', value: `postura inversa à música moderna, que desejava se 
-enquadrar em uma concepção conformista.` },
-      { id: 'D', type: 'text', value: `intenção do compositor de que os sons extramusicais 
-sejam parte integrante da música.` },
-      { id: 'E', type: 'text', value: `necessidade do artista contemporâneo de atrair maior 
-público para o teatro.` },
+      { id: 'A', type: 'text', value: `acessibilidade à sala de concerto como metáfora, num momento em que a arte deixou de ser elitizada.` },
+      { id: 'B', type: 'text', value: `abertura da sala de concerto, que permitiu que a música fosse ouvida do lado de fora do teatro.` },
+      { id: 'C', type: 'text', value: `postura inversa à música moderna, que desejava se enquadrar em uma concepção conformista.` },
+      { id: 'D', type: 'text', value: `intenção do compositor de que os sons extramusicais sejam parte integrante da música.` },
+      { id: 'E', type: 'text', value: `necessidade do artista contemporâneo de atrair maior público para o teatro.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto de Schafer discute a proposta de John Cage de renovar o conceito de música ao abrir a sala de concerto e incorporar os ruídos da rua às composições. Com isso, Cage rompe com a ideia de música como forma fechada e passa a considerar qualquer som como material musical. A frase citada representa, portanto, a intenção do compositor de que os sons extramusicais sejam parte integrante da música (alternativa D). As demais opções falam em acessibilidade, audição externa, postura conformista ou atração de público, desviando-se dessa proposta estética.`,
@@ -499,16 +459,11 @@ Os falantes, nos textos que produzem, sejam orais ou
 escritos, posicionam-se frente a assuntos que geram 
 consenso ou despertam polêmica. No texto, a autora`,
     alternatives: [
-      { id: 'A', type: 'text', value: `ressalta a importância de os professores incentivarem 
-os jovens às práticas de leitura.` },
-      { id: 'B', type: 'text', value: `critica pesquisas tradicionais que atribuem a falta de 
-leitura à precariedade de bibliotecas.` },
-      { id: 'C', type: 'text', value: `rebate a ideia de que as políticas educacionais são 
-eficazes no combate à crise de leitura.` },
-      { id: 'D', type: 'text', value: `questiona a existência de uma crise de leitura com 
-base nos dados de pesquisas acadêmicas.` },
-      { id: 'E', type: 'text', value: `atribui a crise da leitura à falta de incentivos e ao 
-desinteresse dos jovens por livros de qualidade.` },
+      { id: 'A', type: 'text', value: `ressalta a importância de os professores incentivarem os jovens às práticas de leitura.` },
+      { id: 'B', type: 'text', value: `critica pesquisas tradicionais que atribuem a falta de leitura à precariedade de bibliotecas.` },
+      { id: 'C', type: 'text', value: `rebate a ideia de que as políticas educacionais são eficazes no combate à crise de leitura.` },
+      { id: 'D', type: 'text', value: `questiona a existência de uma crise de leitura com base nos dados de pesquisas acadêmicas.` },
+      { id: 'E', type: 'text', value: `atribui a crise da leitura à falta de incentivos e ao desinteresse dos jovens por livros de qualidade.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. No texto “Censura moralista”, Marisa Lajolo retoma o discurso corrente sobre a “crise de leitura” no Brasil, marcado por lamentos sobre a falta de familiaridade dos jovens com os livros. Em seguida, contrapõe a esse senso comum pesquisas acadêmicas que indicam que os brasileiros leem, embora obras diferentes das tradicionalmente valorizadas. Dessa forma, a autora questiona a existência de uma crise de leitura com base nos dados dessas pesquisas (alternativa D). As demais opções atribuem-lhe posições que ela não assume, como defender bibliotecas ou culpar os jovens.`,
@@ -539,14 +494,10 @@ Sírio Possenti defende a tese de que não existe um único
 portuguesa implica, entre outras coisas, saber`,
     alternatives: [
       { id: 'A', type: 'text', value: `descartar as marcas de informalidade do texto.` },
-      { id: 'B', type: 'text', value: `reservar o emprego da norma padrão aos textos de 
-circulação ampla.` },
-      { id: 'C', type: 'text', value: `moldar a norma padrão do português pela linguagem 
-do discurso jornalístico.` },
-      { id: 'D', type: 'text', value: `adequar as formas da língua a diferentes tipos de 
-texto e contexto.` },
-      { id: 'E', type: 'text', value: `desprezar as formas da língua previstas pelas 
-gramáticas e manuais divulgados pela escola.` },
+      { id: 'B', type: 'text', value: `reservar o emprego da norma padrão aos textos de circulação ampla.` },
+      { id: 'C', type: 'text', value: `moldar a norma padrão do português pela linguagem do discurso jornalístico.` },
+      { id: 'D', type: 'text', value: `adequar as formas da língua a diferentes tipos de texto e contexto.` },
+      { id: 'E', type: 'text', value: `desprezar as formas da língua previstas pelas gramáticas e manuais divulgados pela escola.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. Sírio Possenti defende que não existe um único “português correto”, válido para todas as situações, pois o estilo dos contratos difere do dos manuais, dos juízes, dos cordelistas ou dos editoriais. Aceitar a mudança da língua não significa abandonar a correção, mas reconhecer usos adequados a cada situação. Dominar a língua implica, assim, adequar as formas da língua a diferentes tipos de texto e contexto (alternativa D). As demais opções defendem descartar a informalidade, restringir a norma padrão, moldá-la pelo jornalismo ou desprezar as formas ensinadas na escola.`,
@@ -565,19 +516,11 @@ violência sexual infantil. Nesse sentido, a propaganda usa
 a metáfora do pesadelo para`,
     images: ['/enem/2014/images/enem_2014_d2_q105.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `informar crianças vítimas de abuso sexual sobre os 
-perigos dessa prática, contribuindo para erradicá-la.` },
-      { id: 'B', type: 'text', value: `denunciar ocorrências de abuso sexual contra 
-meninas, com o objetivo de colocar criminosos na 
-cadeia.` },
-      { id: 'C', type: 'text', value: `dar a devida dimensão do que é o abuso sexual para 
-uma criança, enfatizando a importância da denúncia.` },
-      { id: 'D', type: 'text', value: `destacar que a violência sexual infantil predomina 
-durante a noite, o que requer maior cuidado dos 
-responsáveis nesse período.` },
-      { id: 'E', type: 'text', value: `chamar a atenção para o fato de o abuso infantil 
-ocorrer durante o sono, sendo confundido por 
-algumas crianças com um pesadelo.` },
+      { id: 'A', type: 'text', value: `informar crianças vítimas de abuso sexual sobre os perigos dessa prática, contribuindo para erradicá-la.` },
+      { id: 'B', type: 'text', value: `denunciar ocorrências de abuso sexual contra meninas, com o objetivo de colocar criminosos na cadeia.` },
+      { id: 'C', type: 'text', value: `dar a devida dimensão do que é o abuso sexual para uma criança, enfatizando a importância da denúncia.` },
+      { id: 'D', type: 'text', value: `destacar que a violência sexual infantil predomina durante a noite, o que requer maior cuidado dos responsáveis nesse período.` },
+      { id: 'E', type: 'text', value: `chamar a atenção para o fato de o abuso infantil ocorrer durante o sono, sendo confundido por algumas crianças com um pesadelo.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O cartaz de campanha contra a violência sexual infantil traz a frase “Para algumas crianças o pesadelo chega antes do sono” e convoca o leitor à denúncia. A metáfora do pesadelo associa o abuso ao terror vivido pela criança, mesmo acordada, dando dimensão à gravidade do problema. A finalidade é dar a devida dimensão do que é o abuso sexual para uma criança, enfatizando a importância da denúncia (alternativa C). As demais opções restringem o sentido a alertar vítimas, prender criminosos, associar o abuso à noite ou confundi-lo com um simples sonho.`,
@@ -621,8 +564,7 @@ Essa repetição é um(a)`,
       { id: 'B', type: 'text', value: `estratégia típica de manutenção da interação oral.` },
       { id: 'C', type: 'text', value: `marca de conexão lógica entre conteúdos na fala.` },
       { id: 'D', type: 'text', value: `manifestação característica da fala regional nordestina.` },
-      { id: 'E', type: 'text', value: `recurso enfatizador da informação mais relevante da 
-narrativa.` },
+      { id: 'E', type: 'text', value: `recurso enfatizador da informação mais relevante da narrativa.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto é a transcrição de um relato oral de experiência pessoal, no qual o falante repete com frequência a expressão “né”. Na modalidade falada, esse tipo de marcador serve para manter o contato com o interlocutor e assegurar a continuidade da interação. A repetição é, portanto, uma estratégia típica de manutenção da interação oral (alternativa B). As demais opções associam o “né” à baixa escolaridade, à conexão lógica, à fala regional nordestina ou à ênfase da informação, interpretações que não explicam a função do recurso.`,
@@ -657,14 +599,10 @@ De acordo com o texto, o blog ultrapassou sua função
 inicial e vem se destacando como`,
     alternatives: [
       { id: 'A', type: 'text', value: `estratégia para estimular relações de amizade.` },
-      { id: 'B', type: 'text', value: `espaço para exposição de opiniões e circulação de 
-ideias.` },
-      { id: 'C', type: 'text', value: `gênero discursivo substituto dos tradicionais diários 
-pessoais.` },
-      { id: 'D', type: 'text', value: `ferramenta para aperfeiçoamento da comunicação 
-virtual escrita.` },
-      { id: 'E', type: 'text', value: `recurso para incentivar a ajuda mútua e a divulgação 
-da rotina diária.` },
+      { id: 'B', type: 'text', value: `espaço para exposição de opiniões e circulação de ideias.` },
+      { id: 'C', type: 'text', value: `gênero discursivo substituto dos tradicionais diários pessoais.` },
+      { id: 'D', type: 'text', value: `ferramenta para aperfeiçoamento da comunicação virtual escrita.` },
+      { id: 'E', type: 'text', value: `recurso para incentivar a ajuda mútua e a divulgação da rotina diária.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto de Bárbara Lopes explica que o blog surgiu como uma espécie de diário pessoal on-line, mas ultrapassou essa função inicial. Hoje, qualquer pessoa pode publicar ideias e opiniões e receber comentários, criando um amplo debate aberto a todos. Assim, o blog vem se destacando como espaço para exposição de opiniões e circulação de ideias (alternativa B). As demais opções reduzem-no a estratégia de amizade, gênero substituto dos diários, ferramenta de aperfeiçoamento da escrita ou recurso de ajuda mútua.`,
@@ -706,26 +644,11 @@ elementos do cotidiano como matéria de inspiração
 poética. O poema de Manuel Bandeira exemplifica essa 
 tendência e alcança expressividade porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `realiza 
-um 
-inventário 
-dos 
-elementos 
-lúdicos 
-tradicionais da criança brasileira.` },
-      { id: 'B', type: 'text', value: `promove uma reflexão sobre a realidade de pobreza 
-dos centros urbanos.` },
-      { id: 'C', type: 'text', value: `traduz em linguagem lírica o mosaico de elementos 
-de significação corriqueira.` },
-      { id: 'D', type: 'text', value: `introduz 
-a 
-interlocução 
-como 
-mecanismo 
-de 
-construção de uma poética nova.` },
-      { id: 'E', type: 'text', value: `constata a condição melancólica dos homens 
-distantes da simplicidade infantil.` },
+      { id: 'A', type: 'text', value: `realiza um inventário dos elementos lúdicos tradicionais da criança brasileira.` },
+      { id: 'B', type: 'text', value: `promove uma reflexão sobre a realidade de pobreza dos centros urbanos.` },
+      { id: 'C', type: 'text', value: `traduz em linguagem lírica o mosaico de elementos de significação corriqueira.` },
+      { id: 'D', type: 'text', value: `introduz a interlocução como mecanismo de construção de uma poética nova.` },
+      { id: 'E', type: 'text', value: `constata a condição melancólica dos homens distantes da simplicidade infantil.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O poema “Camelôs”, de Manuel Bandeira, exalta os vendedores ambulantes e seus brinquedos simples, encontrando poesia nos elementos triviais das ruas. Essa valorização do cotidiano é coerente com uma das diretrizes do Modernismo, que tomou o dia a dia como matéria de inspiração poética. O poema alcança expressividade porque traduz em linguagem lírica o mosaico de elementos de significação corriqueira (alternativa C). As demais opções falam em inventário lúdico da infância, pobreza urbana, interlocução ou melancolia, que não resumem a proposta do texto.`,
@@ -770,16 +693,11 @@ a ironia. Descrevendo a moral de seu cunhado, Cotrim,
 o narrador-personagem Brás Cubas refina a percepção 
 irônica ao`,
     alternatives: [
-      { id: 'A', type: 'text', value: `acusar o cunhado de ser avarento para confessar-se 
-injustiçado na divisão da herança paterna.` },
-      { id: 'B', type: 'text', value: `atribuir a “efeito de relações sociais” a naturalidade 
-com que Cotrim prendia e torturava os escravos.` },
-      { id: 'C', type: 'text', value: `considerar os “sentimentos pios” demonstrados pelo 
-personagem quando da perda da filha Sara.` },
-      { id: 'D', type: 'text', value: `menosprezar Cotrim por ser tesoureiro de uma 
-confraria e membro remido de várias irmandades.` },
-      { id: 'E', type: 'text', value: `insinuar que o cunhado era um homem vaidoso e 
-egocêntrico, contemplado com um retrato a óleo.` },
+      { id: 'A', type: 'text', value: `acusar o cunhado de ser avarento para confessar-se injustiçado na divisão da herança paterna.` },
+      { id: 'B', type: 'text', value: `atribuir a “efeito de relações sociais” a naturalidade com que Cotrim prendia e torturava os escravos.` },
+      { id: 'C', type: 'text', value: `considerar os “sentimentos pios” demonstrados pelo personagem quando da perda da filha Sara.` },
+      { id: 'D', type: 'text', value: `menosprezar Cotrim por ser tesoureiro de uma confraria e membro remido de várias irmandades.` },
+      { id: 'E', type: 'text', value: `insinuar que o cunhado era um homem vaidoso e egocêntrico, contemplado com um retrato a óleo.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. Em “Memórias Póstumas de Brás Cubas”, obra que inaugura o Realismo no Brasil, o narrador Brás Cubas analisa com ironia a avareza de seu cunhado Cotrim. Ao justificar a crueldade de Cotrim com os escravos como mero “efeito de relações sociais”, o narrador relativiza e desmascara, com fino sarcasmo, a índole do personagem. A percepção irônica refina-se, portanto, ao atribuir a “efeito de relações sociais” a naturalidade com que Cotrim prendia e torturava os escravos (alternativa B). As demais opções não captam o alvo preciso da ironia machadiana.`,
@@ -814,10 +732,8 @@ Predomina nesse texto a função da linguagem que se constitui`,
       { id: 'A', type: 'text', value: `nas diferenças entre o cronista e o ficcionista.` },
       { id: 'B', type: 'text', value: `nos elementos que servem de inspiração ao cronista.` },
       { id: 'C', type: 'text', value: `nos assuntos que podem ser tratados em uma crônica.` },
-      { id: 'D', type: 'text', value: `no papel da vida do cronista no processo de escrita 
-da crônica.` },
-      { id: 'E', type: 'text', value: `nas dificuldades de se escrever uma crônica por meio 
-de uma crônica.` },
+      { id: 'D', type: 'text', value: `no papel da vida do cronista no processo de escrita da crônica.` },
+      { id: 'E', type: 'text', value: `nas dificuldades de se escrever uma crônica por meio de uma crônica.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Na crônica “O exercício da crônica”, Vinicius de Moraes reflete sobre a própria dificuldade de escrever crônicas, descrevendo o cronista diante da máquina em busca de um assunto. O texto usa a linguagem para falar de si mesmo, isto é, emprega a função metalinguística. Predomina, assim, a função da linguagem que se constitui nas dificuldades de se escrever uma crônica por meio de uma crônica (alternativa E). As demais opções localizam o foco nas diferenças entre cronista e ficcionista, na inspiração ou nos assuntos, sem reconhecer a metalinguagem.`,
@@ -850,16 +766,11 @@ indicar a atitude do falante em relação ao conteúdo de seu
 enunciado. No início do texto, o verbo “dever” contribui 
 para expressar`,
     alternatives: [
-      { id: 'A', type: 'text', value: `uma constatação sobre como as pessoas administram 
-os recursos hídricos.` },
-      { id: 'B', type: 'text', value: `a habilidade das comunidades em lidar com problemas 
-ambientais contemporâneos.` },
-      { id: 'C', type: 'text', value: `a capacidade humana de substituir recursos naturais 
-renováveis.` },
-      { id: 'D', type: 'text', value: `uma previsão trágica a respeito das fontes de água 
-potável.` },
-      { id: 'E', type: 'text', value: `uma situação ficcional com base na realidade 
-ambiental brasileira.` },
+      { id: 'A', type: 'text', value: `uma constatação sobre como as pessoas administram os recursos hídricos.` },
+      { id: 'B', type: 'text', value: `a habilidade das comunidades em lidar com problemas ambientais contemporâneos.` },
+      { id: 'C', type: 'text', value: `a capacidade humana de substituir recursos naturais renováveis.` },
+      { id: 'D', type: 'text', value: `uma previsão trágica a respeito das fontes de água potável.` },
+      { id: 'E', type: 'text', value: `uma situação ficcional com base na realidade ambiental brasileira.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto sobre o possível fim da água potável apresenta previsões alarmantes sobre o esgotamento desse recurso até 2050. Logo no início, o verbo “dever” (“deve acabar”) expressa uma projeção, a expectativa de que o fato ocorrerá. Esse emprego modaliza o enunciado e contribui para indicar uma previsão trágica a respeito das fontes de água potável (alternativa D). As demais opções associam o verbo a uma simples constatação, a habilidades das comunidades, à substituição de recursos ou a uma situação ficcional, sentidos que não correspondem ao contexto.`,
@@ -878,14 +789,10 @@ incorporadas serão responsáveis por`,
     images: ['/enem/2014/images/enem_2014_d2_q112.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `estimular a substituição dos antigos aparelhos de TV.` },
-      { id: 'B', type: 'text', value: `contemplar os desejos individuais com recursos de 
-ponta.` },
-      { id: 'C', type: 'text', value: `transformar a televisão no principal meio de acesso 
-às redes sociais.` },
-      { id: 'D', type: 'text', value: `renovar técnicas de apresentação de programas e de 
-captação de imagens.` },
-      { id: 'E', type: 'text', value: `minimizar a importância dessa ferramenta como meio 
-de comunicação de massa.` },
+      { id: 'B', type: 'text', value: `contemplar os desejos individuais com recursos de ponta.` },
+      { id: 'C', type: 'text', value: `transformar a televisão no principal meio de acesso às redes sociais.` },
+      { id: 'D', type: 'text', value: `renovar técnicas de apresentação de programas e de captação de imagens.` },
+      { id: 'E', type: 'text', value: `minimizar a importância dessa ferramenta como meio de comunicação de massa.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto publicitário “Viva a nova TV!” anuncia a televisão do futuro, que permite assistir ao que se quer, quando se quer, integrando a segunda tela e as redes sociais. As tecnologias destacadas atendem às preferências de cada espectador, com recursos avançados. Elas serão responsáveis, portanto, por contemplar os desejos individuais com recursos de ponta (alternativa B). As demais opções falam em substituir aparelhos antigos, transformar a TV em meio de acesso às redes, renovar técnicas de captação ou minimizar a importância da televisão, ideias que não são centrais.`,
@@ -967,23 +874,11 @@ da preferência musical dos brasileiros não é mais a
 mesma da dos anos 1970. A estratégia de argumentação 
 para comprovar essa posição baseia-se no(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `apresentação dos resultados de uma pesquisa que 
-retrata o quadro atual da preferência popular relativa 
-à música brasileira.` },
-      { id: 'B', type: 'text', value: `caracterização das opiniões relativas a determinados 
-gêneros, considerados os mais representativos da 
-brasilidade, como meros estereótipos.` },
-      { id: 'C', type: 'text', value: `uso de estrangeirismos, como rock , funk e gospel , 
-para compor um estilo próximo ao leitor, em sintonia 
-com o ataque aos nacionalistas.` },
-      { id: 'D', type: 'text', value: `ironia com relação ao apego a opiniões superadas, 
-tomadas como expressão de conservadorismo e 
-anacronismo, com o uso das designações “império” 
-e “baluarte”.` },
-      { id: 'E', type: 'text', value: `contraposição a impressões fundadas em elitismo e 
-preconceito, com a alusão a artistas de renome para 
-melhor demonstrar a consolidação da mudança do 
-gosto musical popular.` },
+      { id: 'A', type: 'text', value: `apresentação dos resultados de uma pesquisa que retrata o quadro atual da preferência popular relativa à música brasileira.` },
+      { id: 'B', type: 'text', value: `caracterização das opiniões relativas a determinados gêneros, considerados os mais representativos da brasilidade, como meros estereótipos.` },
+      { id: 'C', type: 'text', value: `uso de estrangeirismos, como rock , funk e gospel , para compor um estilo próximo ao leitor, em sintonia com o ataque aos nacionalistas.` },
+      { id: 'D', type: 'text', value: `ironia com relação ao apego a opiniões superadas, tomadas como expressão de conservadorismo e anacronismo, com o uso das designações “império” e “baluarte”.` },
+      { id: 'E', type: 'text', value: `contraposição a impressões fundadas em elitismo e preconceito, com a alusão a artistas de renome para melhor demonstrar a consolidação da mudança do gosto musical popular.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No texto “O Brasil é sertanejo”, Luís Antônio Giron sustenta que a preferência musical dos brasileiros não é mais a dos anos 1970. Para comprovar essa tese, recorre a uma pesquisa do Ibope que retrata o atual gosto popular, apontando o sertanejo como o gênero mais ouvido. A estratégia de argumentação baseia-se, portanto, na apresentação dos resultados de uma pesquisa que retrata o quadro atual da preferência popular relativa à música brasileira (alternativa A). As demais opções falam em estereótipos, estrangeirismos, ironia ou alusão a artistas de renome, que não sustentam a tese.`,
@@ -1000,19 +895,11 @@ Para atingir o objetivo de recrutar talentos, esse texto
 publicitário`,
     images: ['/enem/2014/images/enem_2014_d2_q115.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `afirma, com a frase “Queremos seu talento exatamente 
-como ele é”, que qualquer pessoa com talento pode 
-fazer parte da equipe.` },
-      { id: 'B', type: 'text', value: `apresenta como estratégia a formação de um perfil 
-por meio de perguntas direcionadas, o que dinamiza 
-a interação texto-leitor.` },
-      { id: 'C', type: 'text', value: `utiliza a descrição da empresa como argumento 
-principal, pois atinge diretamente os interessados em 
-informática.` },
-      { id: 'D', type: 'text', value: `usa estereótipo negativo de uma figura conhecida, o 
-nerd , pessoa introspectiva e que gosta de informática.` },
-      { id: 'E', type: 'text', value: `recorre a imagens tecnológicas ligadas em rede, para 
-simbolizar como a tecnologia é interligada.` },
+      { id: 'A', type: 'text', value: `afirma, com a frase “Queremos seu talento exatamente como ele é”, que qualquer pessoa com talento pode fazer parte da equipe.` },
+      { id: 'B', type: 'text', value: `apresenta como estratégia a formação de um perfil por meio de perguntas direcionadas, o que dinamiza a interação texto-leitor.` },
+      { id: 'C', type: 'text', value: `utiliza a descrição da empresa como argumento principal, pois atinge diretamente os interessados em informática.` },
+      { id: 'D', type: 'text', value: `usa estereótipo negativo de uma figura conhecida, o nerd , pessoa introspectiva e que gosta de informática.` },
+      { id: 'E', type: 'text', value: `recorre a imagens tecnológicas ligadas em rede, para simbolizar como a tecnologia é interligada.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto publicitário “Queremos seu talento, exatamente como ele é” busca recrutar profissionais identificados com a tecnologia. Para isso, dirige ao leitor uma sequência de perguntas (“Já foi chamado de nerd?”, “É louco por novas tecnologias?”) que traçam o perfil desejado e o aproximam do anúncio. A estratégia é, assim, apresentar a formação de um perfil por meio de perguntas direcionadas, o que dinamiza a interação texto-leitor (alternativa B). As demais opções apontam afirmação sobre qualquer pessoa, descrição da empresa, estereótipo negativo do nerd ou imagens tecnológicas, que não são a estratégia central.`,
@@ -1100,10 +987,8 @@ produção de folhetos de cordel`,
       { id: 'A', type: 'text', value: `realça a importância da xilogravura sobre o clichê.` },
       { id: 'B', type: 'text', value: `oportuniza a renovação dessa arte na modernidade.` },
       { id: 'C', type: 'text', value: `demonstra a utilidade desses textos para a catequese.` },
-      { id: 'D', type: 'text', value: `revela a necessidade da busca das origens dessa 
-literatura.` },
-      { id: 'E', type: 'text', value: `auxilia na manutenção da essência identitária dessa 
-tradição popular.` },
+      { id: 'D', type: 'text', value: `revela a necessidade da busca das origens dessa literatura.` },
+      { id: 'E', type: 'text', value: `auxilia na manutenção da essência identitária dessa tradição popular.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto “Cordel resiste à tecnologia gráfica” descreve como, no Cariri, a produção de folhetos mantém a impressão artesanal e a confecção da xilogravura para a capa. Essa união de técnicas manuais preserva o modo tradicional de fazer o cordel diante do avanço da indústria gráfica. Assim, a estratégia gráfica auxilia na manutenção da essência identitária dessa tradição popular (alternativa E). As demais opções valorizam a xilogravura sobre o clichê, a renovação na modernidade, a catequese ou a busca de origens, que não correspondem ao foco do texto.`,
@@ -1140,16 +1025,11 @@ A língua varia no tempo, no espaço e em diferentes classes
 socioculturais. O texto exemplifica essa característica da 
 língua, evidenciando que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o uso de palavras novas deve ser incentivado em 
-detrimento das antigas.` },
-      { id: 'B', type: 'text', value: `a utilização de inovações no léxico é percebida na 
-comparação de gerações.` },
-      { id: 'C', type: 'text', value: `o emprego de palavras com sentidos diferentes 
-caracteriza diversidade geográfica.` },
-      { id: 'D', type: 'text', value: `a pronúncia e o vocabulário são aspectos identificadores 
-da classe social a que pertence o falante.` },
-      { id: 'E', type: 'text', value: `o modo de falar específico de pessoas de diferentes 
-faixas etárias é frequente em todas as regiões.` },
+      { id: 'A', type: 'text', value: `o uso de palavras novas deve ser incentivado em detrimento das antigas.` },
+      { id: 'B', type: 'text', value: `a utilização de inovações no léxico é percebida na comparação de gerações.` },
+      { id: 'C', type: 'text', value: `o emprego de palavras com sentidos diferentes caracteriza diversidade geográfica.` },
+      { id: 'D', type: 'text', value: `a pronúncia e o vocabulário são aspectos identificadores da classe social a que pertence o falante.` },
+      { id: 'E', type: 'text', value: `o modo de falar específico de pessoas de diferentes faixas etárias é frequente em todas as regiões.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A crônica “Em bom português”, de Fernando Sabino, observa que as palavras envelhecem e caem em desuso, como mostram termos tidos como antigos (“fita de cinema”, “artista”, “biquíni”, “trem de ferro”), próprios de outra geração. O texto exemplifica a variação da língua no tempo ao contrastar o vocabulário de ontem com o de hoje. Evidencia, assim, que a utilização de inovações no léxico é percebida na comparação de gerações (alternativa B). As demais opções tratam a variação como questão geográfica, de classe social ou de incentivo ao novo em detrimento do antigo.`,
@@ -1183,26 +1063,11 @@ Com relação à poética e à abordagem temática presentes
 no soneto, identificam-se marcas dessa literatura de 
 transição, como`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a forma do soneto, os versos metrificados, a 
-presença de rimas e o vocabulário requintado, além 
-do ceticismo, que antecipam conceitos estéticos 
-vigentes no Modernismo.` },
-      { id: 'B', type: 'text', value: `o empenho do eu lírico pelo resgate da poesia 
-simbolista, manifesta em metáforas como “Monstro 
-de escuridão e rutilância” e “influência má dos signos 
-do zodíaco”.` },
-      { id: 'C', type: 'text', value: `a seleção lexical emprestada ao cientificismo, como 
-se lê em “carbono e amoníaco”, “epigênesis da 
-infância” e “frialdade inorgânica”, que restitui a visão 
-naturalista do homem.` },
-      { id: 'D', type: 'text', value: `a manutenção de elementos formais vinculados 
-à estética do Parnasianismo e do Simbolismo, 
-dimensionada pela inovação na expressividade 
-poética, e o desconcerto existencial.` },
-      { id: 'E', type: 'text', value: `a ênfase no processo de construção de uma poesia 
-descritiva e ao mesmo tempo filosófica, que incorpora 
-valores morais e científicos mais tarde renovados 
-pelos modernistas.` },
+      { id: 'A', type: 'text', value: `a forma do soneto, os versos metrificados, a presença de rimas e o vocabulário requintado, além do ceticismo, que antecipam conceitos estéticos vigentes no Modernismo.` },
+      { id: 'B', type: 'text', value: `o empenho do eu lírico pelo resgate da poesia simbolista, manifesta em metáforas como “Monstro de escuridão e rutilância” e “influência má dos signos do zodíaco”.` },
+      { id: 'C', type: 'text', value: `a seleção lexical emprestada ao cientificismo, como se lê em “carbono e amoníaco”, “epigênesis da infância” e “frialdade inorgânica”, que restitui a visão naturalista do homem.` },
+      { id: 'D', type: 'text', value: `a manutenção de elementos formais vinculados à estética do Parnasianismo e do Simbolismo, dimensionada pela inovação na expressividade poética, e o desconcerto existencial.` },
+      { id: 'E', type: 'text', value: `a ênfase no processo de construção de uma poesia descritiva e ao mesmo tempo filosófica, que incorpora valores morais e científicos mais tarde renovados pelos modernistas.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. No soneto “Psicologia de um vencido”, Augusto dos Anjos revela traços da literatura de transição pré-modernista. Mantém a forma fixa do soneto, com versos metrificados e rimas herdadas do Parnasianismo e do Simbolismo, mas inova na expressividade ao empregar vocabulário científico (“carbono”, “amoníaco”) e ao manifestar profundo desconcerto existencial. Identificam-se, assim, a manutenção de elementos formais vinculados à estética parnasiano-simbolista, dimensionada pela inovação na expressividade poética, e o desconcerto existencial (alternativa D). As demais opções descrevem incorretamente essas marcas de transição.`,
@@ -1243,16 +1108,11 @@ TREVISAN, D. Mistérios de Curitiba . Rio de Janeiro: Record, 1979 (fragmento).
 Quanto à abordagem do tema e aos recursos expressivos, 
 essa crônica tem um caráter`,
     alternatives: [
-      { id: 'A', type: 'text', value: `filosófico, pois reflete sobre as mazelas sofridas pelos 
-vizinhos.` },
-      { id: 'B', type: 'text', value: `lírico, pois relata com nostalgia o relacionamento da 
-vizinhança.` },
-      { id: 'C', type: 'text', value: `irônico, pois apresenta com malícia a convivência 
-entre vizinhos.` },
-      { id: 'D', type: 'text', value: `crítico, pois deprecia o que acontece nas relações de 
-vizinhança.` },
-      { id: 'E', type: 'text', value: `didático, pois expõe uma conduta a ser evitada na 
-relação entre vizinhos.` },
+      { id: 'A', type: 'text', value: `filosófico, pois reflete sobre as mazelas sofridas pelos vizinhos.` },
+      { id: 'B', type: 'text', value: `lírico, pois relata com nostalgia o relacionamento da vizinhança.` },
+      { id: 'C', type: 'text', value: `irônico, pois apresenta com malícia a convivência entre vizinhos.` },
+      { id: 'D', type: 'text', value: `crítico, pois deprecia o que acontece nas relações de vizinhança.` },
+      { id: 'E', type: 'text', value: `didático, pois expõe uma conduta a ser evitada na relação entre vizinhos.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Na crônica “O negócio”, de Dalton Trevisan, um vizinho tenta imitar o “negócio” de Abílio, que vende pão e banana às donas de casa, mas acaba fazendo uma proposta de duplo sentido à moça. O desfecho revela, com malícia, a convivência interesseira entre vizinhos. A crônica tem, portanto, caráter irônico, pois apresenta com malícia a convivência entre vizinhos (alternativa C). As demais opções a classificam como filosófica, lírica, crítica ou didática, qualificações que não correspondem ao tom do texto.`,
@@ -1287,20 +1147,11 @@ Esse editorial faz uma leitura diferenciada de uma notícia
 veiculada no jornal. Tal diferença traz à tona uma das 
 funções sociais desse gênero textual, que é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `apresentar fatos que tenham sido noticiados pelo 
-próprio veículo.` },
-      { id: 'B', type: 'text', value: `chamar a atenção do leitor para temas raramente 
-abordados no jornal.` },
-      { id: 'C', type: 'text', value: `provocar a indignação dos cidadãos por força dos 
-argumentos apresentados.` },
-      { id: 'D', type: 'text', value: `interpretar 
-criticamente 
-fatos 
-noticiados 
-e 
-considerados relevantes para a opinião pública.` },
-      { id: 'E', type: 'text', value: `trabalhar uma informação previamente apresentada 
-com base no ponto de vista do autor da notícia.` },
+      { id: 'A', type: 'text', value: `apresentar fatos que tenham sido noticiados pelo próprio veículo.` },
+      { id: 'B', type: 'text', value: `chamar a atenção do leitor para temas raramente abordados no jornal.` },
+      { id: 'C', type: 'text', value: `provocar a indignação dos cidadãos por força dos argumentos apresentados.` },
+      { id: 'D', type: 'text', value: `interpretar criticamente fatos noticiados e considerados relevantes para a opinião pública.` },
+      { id: 'E', type: 'text', value: `trabalhar uma informação previamente apresentada com base no ponto de vista do autor da notícia.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O editorial trata do lixo doméstico jogado de forma irregular na estrada vicinal de um município, repreendendo quem leva o lixo a outras regiões em vez de descartá-lo corretamente. Mais do que informar, o texto interpreta criticamente o fato noticiado e defende uma posição diante da opinião pública. Essa é uma das funções sociais do gênero editorial: interpretar criticamente fatos noticiados e considerados relevantes para a opinião pública (alternativa D). As demais opções descrevem funções que não definem o editorial.`,
@@ -1320,19 +1171,11 @@ amplia as funções da arte. Tendo como referência a obra
 Bicho de bolso , identifica-se essa vertente pelo(a)`,
     images: ['/enem/2014/images/enem_2014_d2_q122.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `participação efetiva do espectador na obra, o que 
-determina a proximidade entre arte e vida.` },
-      { id: 'B', type: 'text', value: `percepção do uso de objetos cotidianos para a 
-confecção da obra de arte, aproximando arte e 
-realidade.` },
-      { id: 'C', type: 'text', value: `reconhecimento do uso de técnicas artesanais na arte, 
-o que determina a consolidação de valores culturais.` },
-      { id: 'D', type: 'text', value: `reflexão sobre a captação artística de imagens com 
-meios óticos, revelando o desenvolvimento de uma 
-linguagem própria.` },
-      { id: 'E', type: 'text', value: `entendimento sobre o uso de métodos de produção
-em série para a confecção da obra de arte, o que
-atualiza as linguagens artísticas.` },
+      { id: 'A', type: 'text', value: `participação efetiva do espectador na obra, o que determina a proximidade entre arte e vida.` },
+      { id: 'B', type: 'text', value: `percepção do uso de objetos cotidianos para a confecção da obra de arte, aproximando arte e realidade.` },
+      { id: 'C', type: 'text', value: `reconhecimento do uso de técnicas artesanais na arte, o que determina a consolidação de valores culturais.` },
+      { id: 'D', type: 'text', value: `reflexão sobre a captação artística de imagens com meios óticos, revelando o desenvolvimento de uma linguagem própria.` },
+      { id: 'E', type: 'text', value: `entendimento sobre o uso de métodos de produção em série para a confecção da obra de arte, o que atualiza as linguagens artísticas.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O “Bicho de bolso”, de Lygia Clark, representante do Neoconcretismo, é um objeto articulável feito de placas de metal que o espectador pode manipular e transformar. Essa proposta inaugura uma vertente da arte contemporânea que amplia as funções da arte ao incluir a ação de quem a observa. Identifica-se essa vertente pela participação efetiva do espectador na obra, o que determina a proximidade entre arte e vida (alternativa A). As demais opções falam em objetos cotidianos, técnicas artesanais, imagens óticas ou produção em série, que não caracterizam a obra.`,
@@ -1400,16 +1243,11 @@ brasileiro, Cruz e Sousa transpôs para seu lirismo uma
 sensibilidade em conflito com a realidade vivenciada. No 
 soneto, essa percepção traduz-se em`,
     alternatives: [
-      { id: 'A', type: 'text', value: `sofrimento tácito diante dos limites impostos pela 
-discriminação.` },
-      { id: 'B', type: 'text', value: `tendência latente ao vício como resposta ao 
-isolamento social.` },
-      { id: 'C', type: 'text', value: `extenuação condicionada a uma rotina de tarefas 
-degradantes.` },
-      { id: 'D', type: 'text', value: `frustração amorosa canalizada para as atividades 
-intelectuais.` },
-      { id: 'E', type: 'text', value: `vocação religiosa manifesta na aproximação com a 
-fé cristã.` },
+      { id: 'A', type: 'text', value: `sofrimento tácito diante dos limites impostos pela discriminação.` },
+      { id: 'B', type: 'text', value: `tendência latente ao vício como resposta ao isolamento social.` },
+      { id: 'C', type: 'text', value: `extenuação condicionada a uma rotina de tarefas degradantes.` },
+      { id: 'D', type: 'text', value: `frustração amorosa canalizada para as atividades intelectuais.` },
+      { id: 'E', type: 'text', value: `vocação religiosa manifesta na aproximação com a fé cristã.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No soneto “Vida obscura”, de Cruz e Sousa, expoente do Simbolismo brasileiro, o eu lírico dirige-se a um ser humilde e sofrido, que viveu “no silêncio escuro” e carregou um sentimento inquieto e secreto. Negro e marginalizado, o poeta transpõe para o lirismo a dor de quem enfrenta a discriminação. Essa percepção traduz-se em sofrimento tácito diante dos limites impostos pela discriminação (alternativa A). As demais opções associam o soneto ao vício, à rotina degradante, à frustração amorosa ou à vocação religiosa, sentidos que não correspondem ao texto.`,
@@ -1446,20 +1284,11 @@ Na crônica de Veríssimo, a estratégia para gerar o efeito
 de humor decorre do(a)`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `linguagem rebuscada utilizada pelo narrador no 
-tratamento do assunto.` },
-      { id: 'B', type: 'text', value: `inserção de perguntas diretas acerca do acontecimento 
-narrado.` },
+      { id: 'A', type: 'text', value: `linguagem rebuscada utilizada pelo narrador no tratamento do assunto.` },
+      { id: 'B', type: 'text', value: `inserção de perguntas diretas acerca do acontecimento narrado.` },
       { id: 'C', type: 'text', value: `caracterização dos lugares onde se passa a história.` },
-      { id: 'D', type: 'text', value: `emprego 
-de 
-termos 
-bíblicos 
-de 
-forma 
-descontextualizada.` },
-      { id: 'E', type: 'text', value: `contraste entre o tema abordado e a linguagem 
-utilizada.` },
+      { id: 'D', type: 'text', value: `emprego de termos bíblicos de forma descontextualizada.` },
+      { id: 'E', type: 'text', value: `contraste entre o tema abordado e a linguagem utilizada.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Na crônica “A História, mais ou menos”, Luis Fernando Verissimo recria a história dos reis magos e de Herodes usando gírias e expressões coloquiais atuais (“pegou mal”, “em que canal?”, “quem é o empresário?”). O humor nasce do descompasso entre um tema solene, de origem bíblica, e a linguagem informal e anacrônica empregada. A estratégia para gerar humor decorre, portanto, do contraste entre o tema abordado e a linguagem utilizada (alternativa E). As demais opções apontam linguagem rebuscada, perguntas diretas, caracterização de lugares ou termos bíblicos descontextualizados.`,
@@ -1481,14 +1310,10 @@ PENA, M. Quem casa quer casa . www.dominiopublico.gov.br. Acesso em: 7 dez. 2012
 As rubricas em itálico, como as trazidas no trecho de 
 Martins Pena, em uma atuação teatral, constituem`,
     alternatives: [
-      { id: 'A', type: 'text', value: `necessidade, porque as encenações precisam ser 
-fiéis às diretrizes do autor.` },
-      { id: 'B', type: 'text', value: `possibilidade, porque o texto pode ser mudado, assim 
-como outros elementos.` },
-      { id: 'C', type: 'text', value: `preciosismo, porque são irrelevantes para o texto ou 
-para a encenação.` },
-      { id: 'D', type: 'text', value: `exigência, porque elas determinam as características 
-do texto teatral.` },
+      { id: 'A', type: 'text', value: `necessidade, porque as encenações precisam ser fiéis às diretrizes do autor.` },
+      { id: 'B', type: 'text', value: `possibilidade, porque o texto pode ser mudado, assim como outros elementos.` },
+      { id: 'C', type: 'text', value: `preciosismo, porque são irrelevantes para o texto ou para a encenação.` },
+      { id: 'D', type: 'text', value: `exigência, porque elas determinam as características do texto teatral.` },
       { id: 'E', type: 'text', value: `imposição, porque elas anulam a autonomia do diretor.` },
     ],
     correct: 'B',
@@ -1513,22 +1338,11 @@ linguagem verbal contribui para estabelecer um diálogo
 entre a obra de Picasso e a charge, ao explorar`,
     images: ['/enem/2014/images/enem_2014_d2_q127.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `uma referência ao contexto, “trânsito no feriadão”, 
-esclarecendo-se o referente tanto do texto de Iotti 
-quanto da obra de Picasso.` },
-      { id: 'B', type: 'text', value: `uma referência ao tempo presente, com o emprego 
-da forma verbal “é”, evidenciando-se a atualidade do 
-tema abordado tanto pelo pintor espanhol quanto pelo 
-chargista brasileiro.` },
-      { id: 'C', type: 'text', value: `um termo pejorativo, “trânsito”, reforçando-se a 
-imagem negativa de mundo caótico presente tanto 
-em Guernica quanto na charge.` },
-      { id: 'D', type: 'text', value: `uma referência temporal, “sempre”, referindo-se 
-à permanência de tragédias retratadas tanto em 
-Guernica quanto na charge.` },
-      { id: 'E', type: 'text', value: `uma expressão polissêmica, “quadro dramático”, 
-remetendo-se tanto à obra pictórica quanto ao 
-contexto do trânsito brasileiro.` },
+      { id: 'A', type: 'text', value: `uma referência ao contexto, “trânsito no feriadão”, esclarecendo-se o referente tanto do texto de Iotti quanto da obra de Picasso.` },
+      { id: 'B', type: 'text', value: `uma referência ao tempo presente, com o emprego da forma verbal “é”, evidenciando-se a atualidade do tema abordado tanto pelo pintor espanhol quanto pelo chargista brasileiro.` },
+      { id: 'C', type: 'text', value: `um termo pejorativo, “trânsito”, reforçando-se a imagem negativa de mundo caótico presente tanto em Guernica quanto na charge.` },
+      { id: 'D', type: 'text', value: `uma referência temporal, “sempre”, referindo-se à permanência de tragédias retratadas tanto em Guernica quanto na charge.` },
+      { id: 'E', type: 'text', value: `uma expressão polissêmica, “quadro dramático”, remetendo-se tanto à obra pictórica quanto ao contexto do trânsito brasileiro.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. A charge de Iotti reconstrói, em seus traços, a cena de “Guernica”, painel de Picasso sobre os horrores da guerra, mas introduz o carro para tratar do trânsito no feriadão. O diálogo entre as duas obras estabelece-se também pela linguagem verbal: a expressão “quadro dramático” é polissêmica, remetendo tanto à obra pictórica quanto ao caos do trânsito brasileiro. Por isso, a charge explora uma expressão polissêmica que remete tanto à obra pictórica quanto ao contexto do trânsito brasileiro (alternativa E). As demais opções interpretam mal as referências de contexto, de tempo ou o valor dos termos empregados.`,
@@ -1559,12 +1373,9 @@ Na organização do poema, os empregos da conjunção
     alternatives: [
       { id: 'A', type: 'text', value: `a ligação entre verbos semanticamente semelhantes.` },
       { id: 'B', type: 'text', value: `a oposição entre ações aparentemente inconciliáveis.` },
-      { id: 'C', type: 'text', value: `a introdução do argumento mais forte de uma 
-sequência.` },
-      { id: 'D', type: 'text', value: `o reforço da causa apresentada no enunciado 
-introdutório.` },
-      { id: 'E', type: 'text', value: `a intensidade dos problemas sociais presentes no 
-mundo.` },
+      { id: 'C', type: 'text', value: `a introdução do argumento mais forte de uma sequência.` },
+      { id: 'D', type: 'text', value: `o reforço da causa apresentada no enunciado introdutório.` },
+      { id: 'E', type: 'text', value: `a intensidade dos problemas sociais presentes no mundo.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No poema “Tarefa”, de Geir Campos, cada estrofe opõe uma ação difícil (“morder o fruto amargo”, “cumprir o trato injusto”) ao dever de “avisar aos outros”. A conjunção “mas”, repetida, não apenas liga as orações, mas introduz, em cada caso, a atitude considerada mais importante, o posicionamento crítico diante das injustiças. Assim, além da função sintática, o “mas” articula a introdução do argumento mais forte de uma sequência (alternativa C). As demais opções reduzem seu papel a ligar verbos semelhantes, opor ações, reforçar a causa ou intensificar problemas sociais.`,
@@ -1740,12 +1551,9 @@ Belo Horizonte: UFMG, 2005.
 A presença da cultura hip-hop no Brasil caracteriza-se 
 como uma forma de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `lazer gerada pela diversidade de práticas artísticas 
-nas periferias urbanas.` },
-      { id: 'B', type: 'text', value: `entretenimento inventada pela indústria fonográfica 
-nacional.` },
-      { id: 'C', type: 'text', value: `subversão de sua proposta original já nos primeiros 
-bailes.` },
+      { id: 'A', type: 'text', value: `lazer gerada pela diversidade de práticas artísticas nas periferias urbanas.` },
+      { id: 'B', type: 'text', value: `entretenimento inventada pela indústria fonográfica nacional.` },
+      { id: 'C', type: 'text', value: `subversão de sua proposta original já nos primeiros bailes.` },
       { id: 'D', type: 'text', value: `afirmação de identidade dos jovens que a praticam.` },
       { id: 'E', type: 'text', value: `reprodução da cultura musical norte-americana.` },
     ],
@@ -1777,19 +1585,11 @@ Os empréstimos linguísticos, recebidos de diversas
 línguas, são importantes na constituição do português do 
 Brasil porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `deixaram marcas da história vivida pela nação, como 
-a colonização e a imigração.` },
-      { id: 'B', type: 'text', value: `transformaram em um só idioma línguas diferentes, 
-como as africanas, as indígenas e as europeias.` },
-      { id: 'C', type: 'text', value: `promoveram uma língua acessível a falantes de 
-origens distintas, como o africano, o indígena e o 
-europeu.` },
-      { id: 'D', type: 'text', value: `guardaram uma relação de identidade entre os 
-falantes do português do Brasil e os do português de 
-Portugal.` },
-      { id: 'E', type: 'text', value: `tornaram a língua do Brasil mais complexa do que 
-as línguas de outros países que também tiveram 
-colonização portuguesa.` },
+      { id: 'A', type: 'text', value: `deixaram marcas da história vivida pela nação, como a colonização e a imigração.` },
+      { id: 'B', type: 'text', value: `transformaram em um só idioma línguas diferentes, como as africanas, as indígenas e as europeias.` },
+      { id: 'C', type: 'text', value: `promoveram uma língua acessível a falantes de origens distintas, como o africano, o indígena e o europeu.` },
+      { id: 'D', type: 'text', value: `guardaram uma relação de identidade entre os falantes do português do Brasil e os do português de Portugal.` },
+      { id: 'E', type: 'text', value: `tornaram a língua do Brasil mais complexa do que as línguas de outros países que também tiveram colonização portuguesa.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto de Ilari e Basso explica que o português do Brasil incorporou palavras indígenas, africanas e trazidas por imigrantes, o que o distingue do português de Portugal. Esses empréstimos registram os contatos e os processos históricos vividos pelo país. Por isso, são importantes na constituição do português do Brasil porque deixaram marcas da história vivida pela nação, como a colonização e a imigração (alternativa A). As demais opções afirmam que os empréstimos fundiram línguas, igualaram falantes ou tornaram o idioma mais complexo, ideias que o texto não sustenta.`,
@@ -1807,8 +1607,7 @@ a diminuição da violência por meio da palavra. Isso se
 evidencia pela`,
     images: ['/enem/2014/images/enem_2014_d2_q135.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `predominância de tons claros na composição da peça 
-publicitária.` },
+      { id: 'A', type: 'text', value: `predominância de tons claros na composição da peça publicitária.` },
       { id: 'B', type: 'text', value: `associação entre uma arma de fogo e um megafone.` },
       { id: 'C', type: 'text', value: `grafia com inicial maiúscula da palavra “voz” no slogan .` },
       { id: 'D', type: 'text', value: `imagem de uma mão segurando um megafone.` },
@@ -1824,39 +1623,20 @@ publicitária.` },
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: `O gráfico apresenta as taxas de desemprego durante 
-o ano de 2011 e o primeiro semestre de 2012 na região 
-metropolitana de São Paulo. A taxa de desemprego total é 
-a soma das taxas de desemprego aberto e oculto. 
-10,5 10,6 11,3 11,2 10,7 11,0 11,1 11,2 10,6 9,9 
-9,5 
-9,0 
-Em % 
-2,0 
-2,0 
-2,1 
-2,1 
-2,2 
-2,0 
-Aberto/2012 
-8,4 
-9,1 
-9,1 
-8,8 
-9,0 
-Oculto/2012 
-7,6 
-Total/2011 
-Jan. Fev. Mar. Abr. Maio Jun. 
-Jul. Ago. Set. Out. Nov. Dez. 
-Suponha que a taxa de desemprego oculto do mês de 
-dezembro de 2012 tenha sido a metade da mesma taxa 
-em junho de 2012 e que a taxa de desemprego total em 
-dezembro de 2012 seja igual a essa taxa em dezembro 
-de 2011. 
-Disponível em: www.dieese.org.br. Acesso em: 1 ago. 2012 (fragmento). 
-Nesse caso, a taxa de desemprego aberto de dezembro 
-de 2012 teria sido, em termos percentuais, de`,
+    text: `O gráfico apresenta as taxas de desemprego durante o ano de
+2011 e o primeiro semestre de 2012 na região metropolitana de
+São Paulo. A taxa de desemprego total é a soma das taxas de
+desemprego aberto e oculto. 10,5 10,6 11,3 11,2 10,7 11,0 11,1
+11,2 10,6 9,9 9,5 9,0 Em % 2,0 2,0 2,1 2,1 2,2 2,0 Aberto/2012
+8,4 9,1 9,1 8,8 9,0 Oculto/2012 7,6 Total/2011 Jan. Fev. Mar.
+Abr. Maio Jun. Jul. Ago. Set. Out. Nov. Dez. Suponha que a
+taxa de desemprego oculto do mês de dezembro de 2012 tenha
+sido a metade da mesma taxa em junho de 2012 e que a taxa de
+desemprego total em dezembro de 2012 seja igual a essa taxa em
+dezembro de 2011. Disponível em: www.dieese.org.br. Acesso em:
+1 ago. 2012 (fragmento). Nesse caso, a taxa de desemprego
+aberto de dezembro de 2012 teria sido, em termos percentuais,
+de`,
     images: ['/enem/2014/images/enem_2014_d2_q136.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1,1.` },
@@ -2034,33 +1814,20 @@ O candidato aprovado será`,
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: `Na alimentação de gado de corte, o processo de cortar 
-a forragem, colocá-la no solo, compactá-la e protegê-la 
-com uma vedação denomina-se silagem. Os silos mais 
-comuns são os horizontais, cuja forma é a de um prisma 
-reto trapezoidal, conforme mostrado na figura. 
-h 
-Legenda: 
-B 
-- 
-- 
-- 
-- 
-b largura do fundo 
-B largura do topo 
-C comprimento do silo 
-h altura do silo 
-C 
-b 
-Considere um silo de 2 m de altura, 6 m de largura 
-de topo e 20 m de comprimento. Para cada metro de 
-altura do silo, a largura do topo tem 0,5 m a mais do que a 
-largura do fundo. Após a silagem, 1 tonelada de forragem 
-ocupa 2 m³ desse tipo de silo. 
-EMBRAPA. Gado de corte . Disponível em: www.cnpgc.embrapa.br. 
-Acesso em: 1 ago. 2012 (adaptado). 
-Após a silagem, a quantidade máxima de forragem que 
-cabe no silo, em toneladas, é`,
+    text: `Na alimentação de gado de corte, o processo de cortar a
+forragem, colocá-la no solo, compactá-la e protegê-la com uma
+vedação denomina-se silagem. Os silos mais comuns são os
+horizontais, cuja forma é a de um prisma reto trapezoidal,
+conforme mostrado na figura. h Legenda: B - - - - b largura do
+fundo B largura do topo C comprimento do silo h altura do silo
+C b Considere um silo de 2 m de altura, 6 m de largura de topo
+e 20 m de comprimento. Para cada metro de altura do silo, a
+largura do topo tem 0,5 m a mais do que a largura do fundo.
+Após a silagem, 1 tonelada de forragem ocupa 2 m³ desse tipo
+de silo. EMBRAPA. Gado de corte . Disponível em:
+www.cnpgc.embrapa.br. Acesso em: 1 ago. 2012 (adaptado). Após
+a silagem, a quantidade máxima de forragem que cabe no silo,
+em toneladas, é`,
     images: ['/enem/2014/images/enem_2014_d2_q142.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `110.` },
@@ -2214,22 +1981,17 @@ a dois que podem ser construídos é`,
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: `A figura mostra uma criança brincando em um balanço 
-no parque. A corda que prende o assento do balanço ao 
-topo do suporte mede 2 metros. A criança toma cuidado 
-para não sofrer um acidente, então se balança de modo 
-que a corda não chegue a alcançar a posição horizontal.   
-Topo do 
-suporte 
-2 metros 
-Chão do parque 
-Na figura, considere o plano cartesiano que contém 
-a trajetória do assento do balanço, no qual a origem está 
-localizada no topo do suporte do balanço, o eixo X é 
-paralelo ao chão do parque, e o eixo Y tem orientação 
-positiva para cima. 
-A curva determinada pela trajetória do assento do balanço 
-é parte do gráfico da função`,
+    text: `A figura mostra uma criança brincando em um balanço no parque.
+A corda que prende o assento do balanço ao topo do suporte
+mede 2 metros. A criança toma cuidado para não sofrer um
+acidente, então se balança de modo que a corda não chegue a
+alcançar a posição horizontal. Topo do suporte 2 metros Chão
+do parque Na figura, considere o plano cartesiano que contém a
+trajetória do assento do balanço, no qual a origem está
+localizada no topo do suporte do balanço, o eixo X é paralelo
+ao chão do parque, e o eixo Y tem orientação positiva para
+cima. A curva determinada pela trajetória do assento do
+balanço é parte do gráfico da função`,
     images: ['/enem/2014/images/enem_2014_d2_q148.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `f(x) = −√(2 − x²)` },
@@ -2277,19 +2039,14 @@ catracas?`,
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: `Conforme regulamento da Agência Nacional de 
-Aviação Civil (Anac), o passageiro que embarcar em voo 
-doméstico poderá transportar bagagem de mão, contudo 
-a soma das dimensões da bagagem (altura + comprimento 
-+ largura) não pode ser superior a 115 cm. 
-A figura mostra a planificação de uma caixa que tem a 
-forma de um paralelepípedo retângulo. 
-24 cm 
-90 cm 
-x 
-O maior valor possível para x , em centímetros, para que 
-a caixa permaneça dentro dos padrões permitidos pela 
-Anac é`,
+    text: `Conforme regulamento da Agência Nacional de Aviação Civil
+(Anac), o passageiro que embarcar em voo doméstico poderá
+transportar bagagem de mão, contudo a soma das dimensões da
+bagagem (altura + comprimento + largura) não pode ser superior
+a 115 cm. A figura mostra a planificação de uma caixa que tem
+a forma de um paralelepípedo retângulo. 24 cm 90 cm x O maior
+valor possível para x , em centímetros, para que a caixa
+permaneça dentro dos padrões permitidos pela Anac é`,
     images: ['/enem/2014/images/enem_2014_d2_q150.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `25.` },
@@ -2308,17 +2065,12 @@ Anac é`,
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: `Uma lata de tinta, com a forma de um paralelepípedo 
-retangular reto, tem as dimensões, em centímetros, 
-mostradas na figura. 
-40 
-24 
-24 
-Será produzida uma nova lata, com os mesmos 
-formato e volume, de tal modo que as dimensões de sua 
-base sejam 25% maiores que as da lata atual. 
-Para obter a altura da nova lata, a altura da lata atual deve 
-ser reduzida em`,
+    text: `Uma lata de tinta, com a forma de um paralelepípedo retangular
+reto, tem as dimensões, em centímetros, mostradas na figura.
+40 24 24 Será produzida uma nova lata, com os mesmos formato e
+volume, de tal modo que as dimensões de sua base sejam 25%
+maiores que as da lata atual. Para obter a altura da nova
+lata, a altura da lata atual deve ser reduzida em`,
     images: ['/enem/2014/images/enem_2014_d2_q151.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `14,4%` },
@@ -2368,55 +2120,7 @@ esgoto tratado passará a ser`,
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: `Uma empresa de alimentos oferece três valores 
-diferentes de remuneração a seus funcionários, de 
-acordo com o grau de instrução necessário para cada 
-cargo. No ano de 2013, a empresa teve uma receita 
-de 10 milhões de reais por mês e um gasto mensal 
-com a folha salarial de R$ 400 000,00, distribuídos de 
-acordo com o Gráfico 1. No ano seguinte, a empresa 
-ampliará o número de funcionários, mantendo o mesmo 
-valor salarial para cada categoria. Os demais custos da 
-empresa permanecerão constantes de 2013 para 2014. 
-O número de funcionários em 2013 e 2014, por grau de 
-instrução, está no Gráfico 2. 
-Distribuição da folha salarial 
-12,5% 
-12,5% 
-75% 
-Ensino fundamental 
-Ensino médio 
-Ensino superior 
-Gráfico 1 
-Número de funcionários por grau de instrução 
-190 
-180 
-170 
-160 
-150 
-140 
-130 
-120 
-110 
-2013 
-100 
-2014 
-90 
-80 
-70 
-60 
-50 
-40 
-30 
-20 
-10 
-0 
-Ensino fundamental 
-Ensino médio 
-Ensino superior 
-Gráfico 2 
-Qual deve ser o aumento na receita da empresa para que 
-o lucro mensal em 2014 seja o mesmo de 2013?`,
+    text: ``,
     images: ['/enem/2014/images/enem_2014_d2_q153.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `R$ 114 285,00` },
@@ -2567,33 +2271,23 @@ sapatos de cor`,
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: `Para analisar o desempenho de um método 
-diagnóstico, 
-realizam-se 
-estudos 
-em 
-populações 
-contendo pacientes sadios e doentes. Quatro situações 
-distintas podem acontecer nesse contexto de teste: 
-1) Paciente TEM a doença e o resultado do teste é 
-POSITIVO. 
-2) Paciente TEM a doença e o resultado do teste é 
-NEGATIVO. 
-3) Paciente NÃO TEM a doença e o resultado do 
-teste é POSITIVO. 
-4) Paciente NÃO TEM a doença e o resultado do 
-teste é NEGATIVO. 
-Um índice de desempenho para avaliação de um 
-teste diagnóstico é a sensibilidade, definida como a 
-probabilidade de o resultado do teste ser POSITIVO se o 
-paciente estiver com a doença. 
-O quadro refere-se a um teste diagnóstico para 
-a doença A, aplicado em uma amostra composta por 
-duzentos indivíduos. 
- 
-BENSEÑOR, I. M.; LOTUFO, P. A. Epidemiologia : abordagem prática. 
-São Paulo: Sarvier, 2011 (adaptado). 
-Conforme o quadro do teste proposto, a sensibilidade 
+    text: `Para analisar o desempenho de um método diagnóstico,
+realizam-se estudos em populações contendo pacientes sadios e
+doentes. Quatro situações distintas podem acontecer nesse
+contexto de teste: 1) Paciente TEM a doença e o resultado do
+teste é POSITIVO. 2) Paciente TEM a doença e o resultado do
+teste é NEGATIVO. 3) Paciente NÃO TEM a doença e o resultado
+do teste é POSITIVO. 4) Paciente NÃO TEM a doença e o
+resultado do teste é NEGATIVO. Um índice de desempenho para
+avaliação de um teste diagnóstico é a sensibilidade, definida
+como a probabilidade de o resultado do teste ser POSITIVO se o
+paciente estiver com a doença. O quadro refere-se a um teste
+diagnóstico para a doença A, aplicado em uma amostra composta
+por duzentos indivíduos.
+
+BENSEÑOR, I. M.; LOTUFO, P. A. Epidemiologia : abordagem prática.
+São Paulo: Sarvier, 2011 (adaptado).
+Conforme o quadro do teste proposto, a sensibilidade
 dele é de`,
     images: ['/enem/2014/images/enem_2014_d2_q158.jpg'],
     alternatives: [
@@ -2670,24 +2364,17 @@ mão dessa pessoa é:`,
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: `Um pesquisador está realizando várias séries de 
-experimentos com alguns reagentes para verificar 
-qual o mais adequado para a produção de um 
-determinado produto. Cada série consiste em avaliar 
-um dado reagente em cinco experimentos diferentes. 
-O 
-pesquisador 
-está 
-especialmente 
-interessado 
-naquele reagente que apresentar a maior quantidade 
-dos resultados de seus experimentos acima da média 
-encontrada para aquele reagente. Após a realização de 
-cinco séries de experimentos, o pesquisador encontrou 
-os seguintes resultados: 
-  
- 
-Levando-se em consideração os experimentos feitos, o 
+    text: `Um pesquisador está realizando várias séries de experimentos
+com alguns reagentes para verificar qual o mais adequado para
+a produção de um determinado produto. Cada série consiste em
+avaliar um dado reagente em cinco experimentos diferentes. O
+pesquisador está especialmente interessado naquele reagente
+que apresentar a maior quantidade dos resultados de seus
+experimentos acima da média encontrada para aquele reagente.
+Após a realização de cinco séries de experimentos, o
+pesquisador encontrou os seguintes resultados:
+
+Levando-se em consideração os experimentos feitos, o
 reagente que atende às expectativas do pesquisador é o`,
     images: ['/enem/2014/images/enem_2014_d2_q161.jpg'],
     alternatives: [
@@ -2845,39 +2532,15 @@ atende a essas condições é`,
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: `No Brasil há várias operadoras e planos de telefonia 
-celular. 
-Uma pessoa recebeu 5 propostas (A, B, C, D e E) de 
-planos telefônicos. O valor mensal de cada plano está 
-em função do tempo mensal das chamadas, conforme 
-o gráfico. 
-E 
-Valor mensal (em reais) 
-70 
-D 
-60 
-C 
-B 
-50 
-A 
-40 
-30 
-20 
-10 
-0 
-0 
-10 
-20 
-30 
-40 
-50 
-60 
-Tempo mensal (em minutos) 
-Essa pessoa pretende gastar exatamente R$ 30,00 
-por mês com telefone. 
-Dos planos telefônicos apresentados, qual é o mais 
-vantajoso, em tempo de chamada, para o gasto previsto 
-para essa pessoa?`,
+    text: `No Brasil há várias operadoras e planos de telefonia celular.
+Uma pessoa recebeu 5 propostas (A, B, C, D e E) de planos
+telefônicos. O valor mensal de cada plano está em função do
+tempo mensal das chamadas, conforme o gráfico. E Valor mensal
+(em reais) 70 D 60 C B 50 A 40 30 20 10 0 0 10 20 30 40 50 60
+Tempo mensal (em minutos) Essa pessoa pretende gastar
+exatamente R$ 30,00 por mês com telefone. Dos planos
+telefônicos apresentados, qual é o mais vantajoso, em tempo de
+chamada, para o gasto previsto para essa pessoa?`,
     images: ['/enem/2014/images/enem_2014_d2_q166.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `A` },
@@ -2961,33 +2624,18 @@ relação à área do território brasileiro é mais próximo de`,
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: `A Figura 1 representa uma gravura retangular com 
-8 m de comprimento e 6 m de altura. 
-6 metros 
-8 metros 
-Figura 1 
-Deseja-se reproduzi-la numa folha de papel retangular 
-com 42 cm de comprimento e 30 cm de altura, deixando 
-livres 3 cm em cada margem, conforme a Figura 2. 
-Folha de papel 
-3 cm 
-3 cm 
-3 cm 
-3 cm 
-30 cm 
-3 cm 
-3 cm 
-3 cm 
-3 cm 
-42 cm 
-Região disponível para reproduzir a gravura 
-Região proibida para reproduzir a gravura 
-Figura 2 
-A reprodução da gravura deve ocupar o máximo 
-possível da região disponível, mantendo-se as proporções 
-da Figura 1. 
-PRADO, A. C. Superinteressante , ed. 301, fev. 2012 (adaptado). 
-A escala da gravura reproduzida na folha de papel é`,
+    text: `A Figura 1 representa uma gravura retangular com 8 m de
+comprimento e 6 m de altura. 6 metros 8 metros Figura 1
+Deseja-se reproduzi-la numa folha de papel retangular com 42
+cm de comprimento e 30 cm de altura, deixando livres 3 cm em
+cada margem, conforme a Figura 2. Folha de papel 3 cm 3 cm 3
+cm 3 cm 30 cm 3 cm 3 cm 3 cm 3 cm 42 cm Região disponível para
+reproduzir a gravura Região proibida para reproduzir a gravura
+Figura 2 A reprodução da gravura deve ocupar o máximo possível
+da região disponível, mantendo-se as proporções da Figura 1.
+PRADO, A. C. Superinteressante , ed. 301, fev. 2012
+(adaptado). A escala da gravura reproduzida na folha de papel
+é`,
     images: ['/enem/2014/images/enem_2014_d2_q169_1.jpg', '/enem/2014/images/enem_2014_d2_q169_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1 : 3.` },
@@ -3063,30 +2711,20 @@ pontos de sustentação serão, respectivamente,`,
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: `Os incas desenvolveram uma maneira de registrar 
-quantidades e representar números utilizando um sistema 
-de numeração decimal posicional: um conjunto de cordas 
-com nós denominado quipus . O quipus era feito de uma 
-corda matriz, ou principal (mais grossa que as demais), 
-na qual eram penduradas outras cordas, mais finas, de 
-diferentes tamanhos e cores (cordas pendentes). De acordo 
-com a sua posição, os nós significavam unidades, dezenas, 
-centenas e milhares. Na Figura 1, o quipus representa o 
-número decimal 2 453. Para representar o “zero” em qualquer 
-posição, não se coloca nenhum nó. 
-Quipus 
-Corda principal 
-Corda 
-pendente 
-Milhares 
-Centenas 
-Dezenas 
-Unidades 
-Figura 1 
-Figura 2 
-Disponível em: www.culturaperuana.com.br. Acesso em: 13 dez. 2012. 
-O número da representação do quipus da Figura 2, em 
-base decimal, é`,
+    text: `Os incas desenvolveram uma maneira de registrar quantidades e
+representar números utilizando um sistema de numeração decimal
+posicional: um conjunto de cordas com nós denominado quipus .
+O quipus era feito de uma corda matriz, ou principal (mais
+grossa que as demais), na qual eram penduradas outras cordas,
+mais finas, de diferentes tamanhos e cores (cordas pendentes).
+De acordo com a sua posição, os nós significavam unidades,
+dezenas, centenas e milhares. Na Figura 1, o quipus representa
+o número decimal 2 453. Para representar o “zero” em qualquer
+posição, não se coloca nenhum nó. Quipus Corda principal Corda
+pendente Milhares Centenas Dezenas Unidades Figura 1 Figura 2
+Disponível em: www.culturaperuana.com.br. Acesso em: 13 dez.
+2012. O número da representação do quipus da Figura 2, em base
+decimal, é`,
     images: ['/enem/2014/images/enem_2014_d2_q172.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `364.` },
@@ -3198,49 +2836,7 @@ de P é`,
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: `Um cientista trabalha com as espécies I e II de 
-bactérias em um ambiente de cultura. Inicialmente, 
-existem 350 bactérias da espécie I e 1 250 bactérias 
-da espécie II. O gráfico representa as quantidades de 
-bactérias de cada espécie, em função do dia, durante 
-uma semana. 
-Bactérias das espécies I e II 
-1 600 
-1 450 
-1 400 
-1 350 
-1 400 
-1 250 
-1 200 
-Quantidade de bactérias 
-1 100 
-1 000 
-1 000 
-850 
-Bactérias I 
-800 
-800 
-Bactérias II 
-650 
-600 
-400 
-290 
-350 
-300 
-300 
-200 
-0 
-0 
-Em dias 
-Seg. 
-Ter. 
-Qua. 
-Qui. 
-Sex. 
-Sáb. 
-Dom. 
-Em que dia dessa semana a quantidade total de bactérias 
-nesse ambiente de cultura foi máxima?`,
+    text: ``,
     images: ['/enem/2014/images/enem_2014_d2_q176.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Terça-feira.` },
@@ -3407,16 +3003,11 @@ No título e no subtítulo desse texto, as expressões A Tall
 Order e The sky isn’t the limit são usadas para apresentar
 uma matéria cujo tema é:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Inovações tecnológicas usadas para a construção de
-um novo arranha-céu em Seul.` },
-      { id: 'B', type: 'text', value: `Confissões de um arquiteto que busca se destacar na
-construção de arranha-céus.` },
-      { id: 'C', type: 'text', value: `Técnicas a serem estabelecidas para a construção de
-edifícios altos na Califórnia.` },
-      { id: 'D', type: 'text', value: `Competição entre arquitetos para a construção do
-edifício mais alto do mundo.` },
-      { id: 'E', type: 'text', value: `Construção de altas torres de apartamentos nas
-grandes metrópoles da Ásia.` },
+      { id: 'A', type: 'text', value: `Inovações tecnológicas usadas para a construção de um novo arranha-céu em Seul.` },
+      { id: 'B', type: 'text', value: `Confissões de um arquiteto que busca se destacar na construção de arranha-céus.` },
+      { id: 'C', type: 'text', value: `Técnicas a serem estabelecidas para a construção de edifícios altos na Califórnia.` },
+      { id: 'D', type: 'text', value: `Competição entre arquitetos para a construção do edifício mais alto do mundo.` },
+      { id: 'E', type: 'text', value: `Construção de altas torres de apartamentos nas grandes metrópoles da Ásia.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto “A Tall Order” apresenta o arquiteto Charles Wee e seu projeto de construir o primeiro arranha-céu “invisível”, a Infinity Tower, em Seul. O título e o subtítulo (“The sky isn't the limit”) anunciam, de forma criativa, uma matéria sobre essa inovação arquitetônica, uma torre que funcionaria como uma enorme tela capaz de projetar o cenário atrás de si. Logo, o tema é a inovação tecnológica usada na construção de um novo arranha-céu em Seul (alternativa A). As demais opções deslocam o foco para confissões do arquiteto, técnicas da Califórnia, competição ou torres de apartamentos na Ásia.`,
@@ -3458,16 +3049,11 @@ BOB DYLAN. The Freewheelin’ Bob Dylan. Nova York: Columbia Records, 1963 (frag
 Na letra da canção Masters of War, há questionamentos e
 reflexões que aparecem na forma de protesto contra`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o envio de jovens à guerra para promover a expansão
-territorial dos Estados Unidos.` },
-      { id: 'B', type: 'text', value: `o comportamento dos soldados norte-americanos nas
-guerras de que participaram.` },
-      { id: 'C', type: 'text', value: `o sistema que recruta soldados para guerras
-motivadas por interesses econômicos.` },
-      { id: 'D', type: 'text', value: `o desinteresse do governo pelas famílias dos soldados
-mortos em campos de batalha.` },
-      { id: 'E', type: 'text', value: `as Forças Armadas norte-americanas, que enviavam
-homens despreparados para as guerras.` },
+      { id: 'A', type: 'text', value: `o envio de jovens à guerra para promover a expansão territorial dos Estados Unidos.` },
+      { id: 'B', type: 'text', value: `o comportamento dos soldados norte-americanos nas guerras de que participaram.` },
+      { id: 'C', type: 'text', value: `o sistema que recruta soldados para guerras motivadas por interesses econômicos.` },
+      { id: 'D', type: 'text', value: `o desinteresse do governo pelas famílias dos soldados mortos em campos de batalha.` },
+      { id: 'E', type: 'text', value: `as Forças Armadas norte-americanas, que enviavam homens despreparados para as guerras.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Na canção “Masters of War”, Bob Dylan dirige-se aos “senhores da guerra” que fabricam armas e planos de morte enquanto se escondem atrás de mesas e paredes. O eu lírico denuncia aqueles que lucram e promovem conflitos sem assumir seus riscos. O protesto recai, portanto, sobre o sistema que recruta soldados para guerras motivadas por interesses econômicos (alternativa C). As demais opções restringem a crítica à expansão territorial, ao comportamento dos soldados, ao desinteresse do governo ou ao despreparo das tropas.`,
@@ -3490,16 +3076,11 @@ Not Taken, do poeta americano Robert Frost. Levando-se
 em consideração que a vida é comumente metaforizada
 como uma viagem, esses versos indicam que o autor`,
     alternatives: [
-      { id: 'A', type: 'text', value: `festeja o fato de ter sido ousado na escolha que fez
-em sua vida.` },
-      { id: 'B', type: 'text', value: `lamenta por ter sido um viajante que encontrou muitas
-bifurcações.` },
-      { id: 'C', type: 'text', value: `viaja muito pouco e que essa escolha fez toda a
-diferença em sua vida.` },
-      { id: 'D', type: 'text', value: `reconhece que as dificuldades em sua vida foram
-todas superadas.` },
-      { id: 'E', type: 'text', value: `percorre várias estradas durante as diferentes fases
-de sua vida.` },
+      { id: 'A', type: 'text', value: `festeja o fato de ter sido ousado na escolha que fez em sua vida.` },
+      { id: 'B', type: 'text', value: `lamenta por ter sido um viajante que encontrou muitas bifurcações.` },
+      { id: 'C', type: 'text', value: `viaja muito pouco e que essa escolha fez toda a diferença em sua vida.` },
+      { id: 'D', type: 'text', value: `reconhece que as dificuldades em sua vida foram todas superadas.` },
+      { id: 'E', type: 'text', value: `percorre várias estradas durante as diferentes fases de sua vida.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Os versos finais de “The Road Not Taken”, de Robert Frost, afirmam que o eu lírico tomou a estrada menos percorrida e que isso fez toda a diferença. Tomando a vida como uma viagem, a escolha do caminho menos comum representa uma decisão ousada e singular. O autor, assim, festeja o fato de ter sido ousado na escolha que fez em sua vida (alternativa A). As demais opções sugerem lamento, pouca mudança, superação de dificuldades ou a travessia de várias estradas, sentidos que não correspondem ao tom afirmativo dos versos.`,

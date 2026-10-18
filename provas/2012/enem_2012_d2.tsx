@@ -80,15 +80,11 @@ O texto apresenta informações sobre um futuro trabalho
 de escavação de um sítio arqueológico peruano. Sua 
 leitura permite inferir que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a pirâmide huaca de la Luna foi construída durante o 
-período colonial peruano.` },
-      { id: 'B', type: 'text', value: `o sítio arqueológico contém um altar semicircular 
-bastante deteriorado.` },
+      { id: 'A', type: 'text', value: `a pirâmide huaca de la Luna foi construída durante o período colonial peruano.` },
+      { id: 'B', type: 'text', value: `o sítio arqueológico contém um altar semicircular bastante deteriorado.` },
       { id: 'C', type: 'text', value: `a pirâmide huaca de la Luna foi construída com cerâmica.` },
-      { id: 'D', type: 'text', value: `o sítio arqueológico possui um pátio que foi palco 
-de rituais.` },
-      { id: 'E', type: 'text', value: `o sítio arqueológico mantém escombros deixados 
-pela civilização moche.` },
+      { id: 'D', type: 'text', value: `o sítio arqueológico possui um pátio que foi palco de rituais.` },
+      { id: 'E', type: 'text', value: `o sítio arqueológico mantém escombros deixados pela civilização moche.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A notícia informa que, após limpar os escombros do saque colonial e das escavações, será intervinda a plaza ceremonial do frontis norte da huaca de la Luna. O material retirado permitiu apreciar melhor a extensão e a forma do pátio que, segundo as investigações, serviu há cerca de 1 500 anos como cenário de estranhos rituais. Depreende-se, portanto, que o sítio possui um pátio que foi palco de rituais, como traz a alternativa D. As alternativas A e C erram ao datar ou descrever a construção da pirâmide, a B deteriora indevidamente o altar semicircular recém-descoberto e a E generaliza os escombros atribuindo-os à civilização moche.`,
@@ -128,16 +124,11 @@ A partir da leitura do texto, infere-se que, ao longo da
 história da América Latina,`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `suas relações com as nações exploradoras sempre 
-se caracterizaram por uma rede de dependências.` },
-      { id: 'B', type: 'text', value: `seus países sempre foram explorados pelas mesmas 
-nações desde o início do processo de colonização.` },
-      { id: 'C', type: 'text', value: `sua sociedade sempre resistiu à aceitação do 
-capitalismo imposto pelo capital estrangeiro.` },
-      { id: 'D', type: 'text', value: `suas riquezas sempre foram acumuladas longe dos 
-centros de poder.` },
-      { id: 'E', type: 'text', value: `suas riquezas nunca serviram ao enriquecimento das 
-elites locais.` },
+      { id: 'A', type: 'text', value: `suas relações com as nações exploradoras sempre se caracterizaram por uma rede de dependências.` },
+      { id: 'B', type: 'text', value: `seus países sempre foram explorados pelas mesmas nações desde o início do processo de colonização.` },
+      { id: 'C', type: 'text', value: `sua sociedade sempre resistiu à aceitação do capitalismo imposto pelo capital estrangeiro.` },
+      { id: 'D', type: 'text', value: `suas riquezas sempre foram acumuladas longe dos centros de poder.` },
+      { id: 'E', type: 'text', value: `suas riquezas nunca serviram ao enriquecimento das elites locais.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto de Eduardo Galeano, de 'Las venas abiertas de América Latina', afirma que, desde o descobrimento, a terra, os frutos, os minerais e a capacidade de trabalho da região sempre se transmutaram em capital europeu ou norte-americano, acumulado nos distantes centros de poder, com o modo de produção determinado de fora pela incorporação ao capitalismo universal. Infere-se, assim, que as relações da América Latina com as nações exploradoras sempre se caracterizaram por uma rede de dependências, conforme a alternativa A. A B restringe a exploração às mesmas nações desde o início; a C supõe resistência ao capitalismo; a D inverte o texto, pois as riquezas se acumulam nos centros de poder; e a E nega qualquer enriquecimento das elites locais.`,
@@ -150,25 +141,15 @@ elites locais.` },
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `ME REVIENTAN LOS TIPOS 
-QUE PIENSAN QUE LA 
-MUJER ES INFERIOR 
- Y BUENO, ES QUE PARA 
-ESO ESTAMOS LAS MUJERES! 
- AL FIN DE CUENTAS UNA MU- 
-JER QUE NO COCINA, QUE 
-NO PLANCHA, QUE NO LAVA, 
-NI LIMPIA, NI NADA DE ESO, 
-ES MENOS MUJER, QUÉ 
- DIABLOS! 
-! 
-! 
-SERA QUE, MAS 
-QUE NADA, LA VEN 
-EN TAREAS DOMES- 
-TICAS 
-A personagem Susanita, no último quadro, inventa o vocábulo mujerez , utilizando-se de um recurso de formação de 
-palavra existente na língua espanhola. Na concepção da personagem, o sentido do vocábulo mujerez remete à`,
+    text: `ME REVIENTAN LOS TIPOS QUE PIENSAN QUE LA MUJER ES INFERIOR Y
+BUENO, ES QUE PARA ESO ESTAMOS LAS MUJERES! AL FIN DE CUENTAS
+UNA MU-JER QUE NO COCINA, QUE NO PLANCHA, QUE NO LAVA, NI
+LIMPIA, NI NADA DE ESO, ES MENOS MUJER, QUÉ DIABLOS! ! ! SERA
+QUE, MAS QUE NADA, LA VEN EN TAREAS DOMES-TICAS A personagem
+Susanita, no último quadro, inventa o vocábulo mujerez ,
+utilizando-se de um recurso de formação de palavra existente
+na língua espanhola. Na concepção da personagem, o sentido do
+vocábulo mujerez remete à`,
     images: ['/enem/2012/images/enem_2012_d2_q94.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `falta de feminilidade das mulheres que não se dedicam às tarefas domésticas.` },
@@ -230,16 +211,11 @@ organismo, apresentados na figura, são adaptações
 benéficas à saúde de um indivíduo:`,
     images: ['/enem/2012/images/enem_2012_d2_q96.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Diminuição da frequência cardíaca em repouso e 
-aumento da oxigenação do sangue.` },
-      { id: 'B', type: 'text', value: `Diminuição da oxigenação do sangue e aumento da 
-frequência cardíaca em repouso.` },
-      { id: 'C', type: 'text', value: `Diminuição da frequência cardíaca em repouso e 
-aumento da gordura corporal.` },
-      { id: 'D', type: 'text', value: `Diminuição do tônus muscular e aumento do 
-percentual de gordura corporal.` },
-      { id: 'E', type: 'text', value: `Diminuição da gordura corporal e aumento da 
-frequência cardíaca em repouso.` },
+      { id: 'A', type: 'text', value: `Diminuição da frequência cardíaca em repouso e aumento da oxigenação do sangue.` },
+      { id: 'B', type: 'text', value: `Diminuição da oxigenação do sangue e aumento da frequência cardíaca em repouso.` },
+      { id: 'C', type: 'text', value: `Diminuição da frequência cardíaca em repouso e aumento da gordura corporal.` },
+      { id: 'D', type: 'text', value: `Diminuição do tônus muscular e aumento do percentual de gordura corporal.` },
+      { id: 'E', type: 'text', value: `Diminuição da gordura corporal e aumento da frequência cardíaca em repouso.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O infográfico 'Efeitos do exercício físico' mostra que os pulmões passam a captar e difundir mais oxigênio, que o coração bombeia sangue rico em oxigênio e pode bater mais lentamente em repouso com o treinamento, e que os músculos queimam mais gordura. Entre as adaptações benéficas à saúde, destacam-se a diminuição da frequência cardíaca em repouso e o aumento da oxigenação do sangue, conforme a alternativa A. As demais alternativas invertem os efeitos, falando em diminuição da oxigenação, aumento da gordura corporal ou perda de tônus muscular, contrariando o que a figura apresenta.`,
@@ -258,10 +234,8 @@ do texto publicitário apresentado revela que o surgimento
 das novas`,
     images: ['/enem/2012/images/enem_2012_d2_q97.png'],
     alternatives: [
-      { id: 'A', type: 'text', value: `proporcionou mudanças no paradigma de consumo e 
-oferta de revistas e livros.` },
-      { id: 'B', type: 'text', value: `incentivou a desvalorização das revistas e livros 
-impressos.` },
+      { id: 'A', type: 'text', value: `proporcionou mudanças no paradigma de consumo e oferta de revistas e livros.` },
+      { id: 'B', type: 'text', value: `incentivou a desvalorização das revistas e livros impressos.` },
       { id: 'C', type: 'text', value: `viabilizou a aquisição de novos equipamentos digitais.` },
       { id: 'D', type: 'text', value: `aqueceu o mercado de venda de computadores.` },
       { id: 'E', type: 'text', value: `diminuiu os incentivos à compra de eletrônicos.` },
@@ -294,19 +268,11 @@ José de Alencar e da futura digitalização de sua obra,
 depreende-se que`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `a digitalização dos textos é importante para que os 
-leitores possam compreender seus romances.` },
-      { id: 'B', type: 'text', value: `o conhecido autor de O guarani e Iracema foi 
-importante porque deixou uma vasta obra literária 
-com temática atemporal.` },
-      { id: 'C', type: 'text', value: `a divulgação das obras de José de Alencar, por meio 
-da digitalização, demonstra sua importância para a 
-história do Brasil Imperial.` },
-      { id: 'D', type: 'text', value: `a digitalização dos textos de José de Alencar terá 
-importante papel na preservação da memória 
-linguística e da identidade nacional.` },
-      { id: 'E', type: 'text', value: `o grande romancista José de Alencar é importante 
-porque se destacou por sua temática indianista.` },
+      { id: 'A', type: 'text', value: `a digitalização dos textos é importante para que os leitores possam compreender seus romances.` },
+      { id: 'B', type: 'text', value: `o conhecido autor de O guarani e Iracema foi importante porque deixou uma vasta obra literária com temática atemporal.` },
+      { id: 'C', type: 'text', value: `a divulgação das obras de José de Alencar, por meio da digitalização, demonstra sua importância para a história do Brasil Imperial.` },
+      { id: 'D', type: 'text', value: `a digitalização dos textos de José de Alencar terá importante papel na preservação da memória linguística e da identidade nacional.` },
+      { id: 'E', type: 'text', value: `o grande romancista José de Alencar é importante porque se destacou por sua temática indianista.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto trata do escritor José de Alencar, autor de 'O guarani' e 'Iracema' e tido como o pai do romance no Brasil, e informa que parte de seu acervo inédito será digitalizada. Depreende-se que a digitalização dos textos de José de Alencar terá importante papel na preservação da memória linguística e da identidade nacional, conforme a alternativa D. A alternativa A reduz a digitalização à compreensão dos romances; a B e a E restringem-se à obra atemporal ou à temática indianista; e a C limita a importância do autor ao Brasil Imperial, desviando do alcance apontado pelo texto.`,
@@ -330,18 +296,10 @@ Projeto Fala Goiana , UFG, 2010 (inédito).
 Um aspecto da composição estrutural que caracteriza o relato 
 pessoal de A.P.S. como modalidade falada da língua é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `predomínio de linguagem informal entrecortada 
-por pausas.` },
-      { id: 'B', type: 'text', value: `vocabulário 
-regional 
-desconhecido 
-em 
-outras 
-variedades do português.` },
-      { id: 'C', type: 'text', value: `realização do plural conforme as regras da 
-tradição gramatical.` },
-      { id: 'D', type: 'text', value: `ausência de elementos promotores de coesão entre 
-os eventos narrados.` },
+      { id: 'A', type: 'text', value: `predomínio de linguagem informal entrecortada por pausas.` },
+      { id: 'B', type: 'text', value: `vocabulário regional desconhecido em outras variedades do português.` },
+      { id: 'C', type: 'text', value: `realização do plural conforme as regras da tradição gramatical.` },
+      { id: 'D', type: 'text', value: `ausência de elementos promotores de coesão entre os eventos narrados.` },
       { id: 'E', type: 'text', value: `presença de frases incompreensíveis a um leitor iniciante.` },
     ],
     correct: 'A',
@@ -370,21 +328,11 @@ A inquietação existencial do autor com a autoimagem
 corporal e a sua corporeidade se desdobra em questões 
 existenciais que têm origem`,
     alternatives: [
-      { id: 'A', type: 'text', value: `no conflito do padrão corporal imposto contra as 
-convicções de ser autêntico e singular.` },
-      { id: 'B', type: 'text', value: `na aceitação das imposições da sociedade seguindo 
-a influência de outros.` },
-      { id: 'C', type: 'text', value: `na confiança no futuro, ofuscada pelas tradições e 
-culturas familiares.` },
-      { id: 'D', type: 'text', value: `no 
-anseio 
-de 
-divulgar 
-hábitos 
-enraizados, 
-negligenciados por seus antepassados.` },
-      { id: 'E', type: 'text', value: `na certeza da exclusão, revelada pela indiferença de 
-seus pares.` },
+      { id: 'A', type: 'text', value: `no conflito do padrão corporal imposto contra as convicções de ser autêntico e singular.` },
+      { id: 'B', type: 'text', value: `na aceitação das imposições da sociedade seguindo a influência de outros.` },
+      { id: 'C', type: 'text', value: `na confiança no futuro, ofuscada pelas tradições e culturas familiares.` },
+      { id: 'D', type: 'text', value: `no anseio de divulgar hábitos enraizados, negligenciados por seus antepassados.` },
+      { id: 'E', type: 'text', value: `na certeza da exclusão, revelada pela indiferença de seus pares.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No poema 'Verbo ser', de Carlos Drummond de Andrade, o eu lírico questiona o que vai ser quando crescer, se terá de mudar de corpo, nome e jeito, e resiste às definições impostas, concluindo que vai crescer assim mesmo, 'sem ser'. A inquietação existencial com a autoimagem corporal nasce, portanto, do conflito entre o padrão corporal imposto e a convicção de ser autêntico e singular, conforme a alternativa A. As demais alternativas falam em aceitação das imposições, confiança no futuro ofuscada pelas tradições, anseio de divulgar hábitos ou certeza da exclusão, leituras que não correspondem à recusa das definições presente no poema.`,
@@ -420,21 +368,11 @@ personagem no manejo de discursos diferentes segundo
 a posição do interlocutor na sociedade. A crítica à conduta 
 do personagem está centrada`,
     alternatives: [
-      { id: 'A', type: 'text', value: `na imagem do títere ou fantoche em que o personagem 
-acaba por se transformar, acreditando dominar os 
-jogos de poder na linguagem.` },
-      { id: 'B', type: 'text', value: `na alusão à falta de articulações e reflexos do 
-personagem, dando a entender que ele não possui o 
-manejo dos jogos discursivos em todas as situações.` },
-      { id: 'C', type: 'text', value: `no comentário, feito em tom de censura pelo autor, 
-sobre as frases obscenas que o personagem emite 
-em determinados ambientes sociais.` },
-      { id: 'D', type: 'text', value: `nas expressões que mostram tons opostos nos 
-discursos empregados aleatoriamente pelo personagem 
-em conversas com interlocutores variados.` },
-      { id: 'E', type: 'text', value: `no falso elogio à originalidade atribuída a esse 
-personagem, responsável por seu sucesso no 
-aprendizado das regras de linguagem da sociedade.` },
+      { id: 'A', type: 'text', value: `na imagem do títere ou fantoche em que o personagem acaba por se transformar, acreditando dominar os jogos de poder na linguagem.` },
+      { id: 'B', type: 'text', value: `na alusão à falta de articulações e reflexos do personagem, dando a entender que ele não possui o manejo dos jogos discursivos em todas as situações.` },
+      { id: 'C', type: 'text', value: `no comentário, feito em tom de censura pelo autor, sobre as frases obscenas que o personagem emite em determinados ambientes sociais.` },
+      { id: 'D', type: 'text', value: `nas expressões que mostram tons opostos nos discursos empregados aleatoriamente pelo personagem em conversas com interlocutores variados.` },
+      { id: 'E', type: 'text', value: `no falso elogio à originalidade atribuída a esse personagem, responsável por seu sucesso no aprendizado das regras de linguagem da sociedade.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No fragmento de Samuel Rawet, a personagem manejava com habilidade os seus discursos, como um titereiro que move os cordéis, adaptando o tom à posição do interlocutor na sociedade: humilde diante do superior útil, grosseiro diante do inferior e arrogante diante do poderoso que nada podia prejudicá-la. A crítica à sua conduta está centrada na imagem do títere ou fantoche em que o personagem acaba por se transformar, acreditando dominar os jogos de poder na linguagem, conforme a alternativa A. As demais alternativas deslocam o foco para a falta de articulação, para o comentário sobre frases obscenas, para tons aleatórios ou para o falso elogio à originalidade, desvios do sentido do texto.`,
@@ -475,21 +413,11 @@ pelas folhas de jornal”, pretendeu-se estabelecer, entre
 os dois fragmentos do texto em questão, uma relação 
 semântica de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `c ausalidade, segundo a qual se relacionam as partes 
-de um texto, em que uma contém a causa e a outra, 
-a consequência.` },
-      { id: 'B', type: 'text', value: `temporalidade, segundo a qual se articulam as partes 
-de um texto, situando no tempo o que é relatado nas 
-partes em questão.` },
-      { id: 'C', type: 'text', value: `condicionalidade, segundo a qual se combinam duas 
-partes de um texto, em que uma resulta ou depende 
-de circunstâncias apresentadas na outra.` },
-      { id: 'D', type: 'text', value: `adversidade, segundo a qual se articulam duas partes 
-de um texto em que uma apresenta uma orientação 
-argumentativa distinta e oposta à outra.` },
-      { id: 'E', type: 'text', value: `finalidade, segundo a qual se articulam duas partes de 
-um texto em que uma apresenta o meio, por exemplo, 
-para uma ação e a outra, o desfecho da mesma.` },
+      { id: 'A', type: 'text', value: `c ausalidade, segundo a qual se relacionam as partes de um texto, em que uma contém a causa e a outra, a consequência.` },
+      { id: 'B', type: 'text', value: `temporalidade, segundo a qual se articulam as partes de um texto, situando no tempo o que é relatado nas partes em questão.` },
+      { id: 'C', type: 'text', value: `condicionalidade, segundo a qual se combinam duas partes de um texto, em que uma resulta ou depende de circunstâncias apresentadas na outra.` },
+      { id: 'D', type: 'text', value: `adversidade, segundo a qual se articulam duas partes de um texto em que uma apresenta uma orientação argumentativa distinta e oposta à outra.` },
+      { id: 'E', type: 'text', value: `finalidade, segundo a qual se articulam duas partes de um texto em que uma apresenta o meio, por exemplo, para uma ação e a outra, o desfecho da mesma.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. Os dois fragmentos do diário secreto são datados (20 de julho de 1912 e 20 de dezembro de 1919), separados por quase vinte anos desde a morte de Crane. A expressão metafórica 'Muito peixe foi embrulhado pelas folhas de jornal' sugere que muito tempo se passou entre um registro e outro. Ao empregar esse enunciado, estabelece-se entre os dois fragmentos uma relação semântica de temporalidade, segundo a qual se articulam as partes do texto situando no tempo o que é relatado, conforme a alternativa B. As demais alternativas propõem relações de causalidade, condicionalidade, adversidade ou finalidade, que não traduzem o vínculo temporal pretendido.`,
@@ -508,19 +436,11 @@ linguísticos. No contexto da ilustração, a frase proferida
 recorre à`,
     images: ['/enem/2012/images/enem_2012_d2_q103.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `polissemia, ou seja, aos múltiplos sentidos da 
-expressão “rede social” para transmitir a ideia que 
-pretende veicular.` },
-      { id: 'B', type: 'text', value: `ironia para conferir um novo significado ao termo 
-“outra coisa”.` },
-      { id: 'C', type: 'text', value: `homonímia para opor, a partir do advérbio de 
-lugar, o espaço da população pobre e o espaço da 
-população rica.` },
-      { id: 'D', type: 'text', value: `personificação para opor o mundo real pobre ao 
-mundo virtual rico.` },
-      { id: 'E', type: 'text', value: `antonímia para comparar a rede mundial de 
-computadores com a rede caseira de descanso 
-da família.` },
+      { id: 'A', type: 'text', value: `polissemia, ou seja, aos múltiplos sentidos da expressão “rede social” para transmitir a ideia que pretende veicular.` },
+      { id: 'B', type: 'text', value: `ironia para conferir um novo significado ao termo “outra coisa”.` },
+      { id: 'C', type: 'text', value: `homonímia para opor, a partir do advérbio de lugar, o espaço da população pobre e o espaço da população rica.` },
+      { id: 'D', type: 'text', value: `personificação para opor o mundo real pobre ao mundo virtual rico.` },
+      { id: 'E', type: 'text', value: `antonímia para comparar a rede mundial de computadores com a rede caseira de descanso da família.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Na charge, a ilustração mostra uma família amontoada numa rede de descanso, enquanto o rótulo apresenta a expressão 'rede social' e a fala afirma que 'rede social aqui em casa é outra coisa'. O efeito de sentido é provocado pela polissemia da expressão 'rede social', que remete tanto à rede virtual de relacionamentos quanto à rede doméstica de descanso, conforme a alternativa A. As alternativas B, C, D e E recorrem a ironia, homonímia, personificação ou antonímia, recursos que não explicam adequadamente a combinação entre a imagem e a frase proferida.`,
@@ -559,15 +479,11 @@ autor ao mesmo tempo. A universalidade e a interatividade
 que o texto eletrônico possibilita estão diretamente 
 relacionadas à função social da internet de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `propiciar o livre e imediato acesso às informações e 
-ao intercâmbio de julgamentos.` },
-      { id: 'B', type: 'text', value: `globalizar a rede de informações e democratizar o 
-acesso aos saberes.` },
-      { id: 'C', type: 'text', value: `expandir as relações interpessoais e dar visibilidade 
-aos interesses pessoais.` },
+      { id: 'A', type: 'text', value: `propiciar o livre e imediato acesso às informações e ao intercâmbio de julgamentos.` },
+      { id: 'B', type: 'text', value: `globalizar a rede de informações e democratizar o acesso aos saberes.` },
+      { id: 'C', type: 'text', value: `expandir as relações interpessoais e dar visibilidade aos interesses pessoais.` },
       { id: 'D', type: 'text', value: `propiciar entretenimento e acesso a produtos e serviços.` },
-      { id: 'E', type: 'text', value: `expandir os canais de publicidade e o espaço 
-mercadológico.` },
+      { id: 'E', type: 'text', value: `expandir os canais de publicidade e o espaço mercadológico.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No trecho de Roger Chartier, o texto eletrônico é caracterizado como um suporte poderoso que coloca ao alcance da humanidade o antigo sonho de universalidade e interatividade, pois cada um passa a ser, ao mesmo tempo, leitor e autor, emitindo juízos sobre as instituições e refletindo sobre os juízos emitidos por outros. A universalidade e a interatividade estão diretamente relacionadas à função social da internet de propiciar o livre e imediato acesso às informações e ao intercâmbio de julgamentos, conforme a alternativa A. As demais alternativas reduzem essa função à globalização dos saberes, à visibilidade de interesses pessoais, ao entretenimento ou à publicidade, aspectos que não captam o essencial do texto.`,
@@ -712,16 +628,11 @@ outrora produtivos não mais o são no português brasileiro
 atual. Esse fenômeno revela que`,
     images: ['/enem/2012/images/enem_2012_d2_q108.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `a língua portuguesa de antigamente carecia de termos 
-para se referir a fatos e coisas do cotidiano.` },
-      { id: 'B', type: 'text', value: `o português brasileiro se constitui evitando a ampliação 
-do léxico proveniente do português europeu.` },
-      { id: 'C', type: 'text', value: `a heterogeneidade do português leva a uma 
-estabilidade do seu léxico no eixo temporal.` },
-      { id: 'D', type: 'text', value: `o português brasileiro apoia-se no léxico inglês para 
-ser reconhecido como língua independente.` },
-      { id: 'E', type: 'text', value: `o léxico do português representa uma realidade 
-linguística variável e diversificada.` },
+      { id: 'A', type: 'text', value: `a língua portuguesa de antigamente carecia de termos para se referir a fatos e coisas do cotidiano.` },
+      { id: 'B', type: 'text', value: `o português brasileiro se constitui evitando a ampliação do léxico proveniente do português europeu.` },
+      { id: 'C', type: 'text', value: `a heterogeneidade do português leva a uma estabilidade do seu léxico no eixo temporal.` },
+      { id: 'D', type: 'text', value: `o português brasileiro apoia-se no léxico inglês para ser reconhecido como língua independente.` },
+      { id: 'E', type: 'text', value: `o léxico do português representa uma realidade linguística variável e diversificada.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O Texto I, 'Antigamente', de Drummond, é construído com inúmeras palavras e expressões hoje obsoletas, cujos sentidos são esclarecidos na tabela do Texto II ('cair nos braços de Morfeu' = dormir, 'tunda' = surra, 'bilontra' = velhaco, entre outras). O fenômeno de itens lexicais outrora produtivos que não o são mais no português brasileiro atual revela que o léxico representa uma realidade linguística variável e diversificada, conforme a alternativa E. As alternativas A, B, C e D afirmam carência de termos, constituição por evitação do português europeu, estabilidade do léxico ou apoio no inglês, interpretações que contrariam a ideia de variação lexical no tempo.`,
@@ -733,31 +644,19 @@ linguística variável e diversificada.` },
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `HAGAR DIK BROWNE 
-É COMO SE ELES 
-SOUBESSEM QUE ALGO 
-RUIM VAI ACONTECER! 
-VEJA QUANTOS 
-TUBARÕES 
-ESTÃO SEGUINDO 
-A GENTE! 
-BROWNE, D. Folha de S. Paulo , 13 ago. 2011. 
-As palavras e as expressões são mediadoras dos 
-sentidos produzidos nos textos. Na fala de Hagar, a 
-expressão “é como se” ajuda a conduzir o conteúdo 
-enunciado para o campo da`,
+    text: `HAGAR DIK BROWNE É COMO SE ELES SOUBESSEM QUE ALGO RUIM VAI
+ACONTECER! VEJA QUANTOS TUBARÕES ESTÃO SEGUINDO A GENTE!
+BROWNE, D. Folha de S. Paulo , 13 ago. 2011. As palavras e as
+expressões são mediadoras dos sentidos produzidos nos textos.
+Na fala de Hagar, a expressão “é como se” ajuda a conduzir o
+conteúdo enunciado para o campo da`,
     images: ['/enem/2012/images/enem_2012_d2_q109.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `conformidade, pois as condições meteorológicas 
-evidenciam um acontecimento ruim.` },
-      { id: 'B', type: 'text', value: `reflexibilidade, pois o personagem se refere aos 
-tubarões usando um pronome reflexivo.` },
-      { id: 'C', type: 'text', value: `condicionalidade, pois a atenção dos personagens é 
-a condição necessária para a sua sobrevivência.` },
-      { id: 'D', type: 'text', value: `possibilidade, pois a proximidade dos tubarões leva à 
-suposição do perigo iminente para os homens.` },
-      { id: 'E', type: 'text', value: `impessoalidade, pois o personagem usa a terceira 
-pessoa para expressar o distanciamento dos fatos.` },
+      { id: 'A', type: 'text', value: `conformidade, pois as condições meteorológicas evidenciam um acontecimento ruim.` },
+      { id: 'B', type: 'text', value: `reflexibilidade, pois o personagem se refere aos tubarões usando um pronome reflexivo.` },
+      { id: 'C', type: 'text', value: `condicionalidade, pois a atenção dos personagens é a condição necessária para a sua sobrevivência.` },
+      { id: 'D', type: 'text', value: `possibilidade, pois a proximidade dos tubarões leva à suposição do perigo iminente para os homens.` },
+      { id: 'E', type: 'text', value: `impessoalidade, pois o personagem usa a terceira pessoa para expressar o distanciamento dos fatos.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. Na tira de Hagar, diante da aproximação dos tubarões, a personagem comenta 'é como se eles soubessem que algo ruim vai acontecer'. A expressão 'é como se' introduz uma hipótese, uma conjetura, e por isso conduz o conteúdo enunciado para o campo da possibilidade, conforme a alternativa D. As alternativas A, B, C e E associam a expressão à conformidade, à reflexividade, à condicionalidade ou à impessoalidade, valores que não correspondem ao caráter hipotético da construção empregada por Hagar.`,
@@ -799,16 +698,11 @@ esses usos podem produzir, a exemplo das expressões
 “voltou de ateu”, “disilimina esse” e “eu não sei a ler”. Com 
 essa reflexão, o autor destaca`,
     alternatives: [
-      { id: 'A', type: 'text', value: `os desvios linguísticos cometidos pelos personagens 
-do texto.` },
-      { id: 'B', type: 'text', value: `a importância de certos fenômenos gramaticais para 
-o conhecimento da língua portuguesa.` },
-      { id: 'C', type: 'text', value: `a distinção clara entre a norma culta e as outras 
-variedades linguísticas.` },
-      { id: 'D', type: 'text', value: `o relato fiel de episódios vividos por Cabeludinho 
-durante as suas férias.` },
-      { id: 'E', type: 'text', value: `a valorização da dimensão lúdica e poética presente 
-nos usos coloquiais da linguagem.` },
+      { id: 'A', type: 'text', value: `os desvios linguísticos cometidos pelos personagens do texto.` },
+      { id: 'B', type: 'text', value: `a importância de certos fenômenos gramaticais para o conhecimento da língua portuguesa.` },
+      { id: 'C', type: 'text', value: `a distinção clara entre a norma culta e as outras variedades linguísticas.` },
+      { id: 'D', type: 'text', value: `o relato fiel de episódios vividos por Cabeludinho durante as suas férias.` },
+      { id: 'E', type: 'text', value: `a valorização da dimensão lúdica e poética presente nos usos coloquiais da linguagem.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. No texto 'Cabeludinho', de Manoel de Barros, o narrador reflete sobre diferentes usos da língua a partir de expressões como 'voltou de ateu', 'disilimina esse' e 'eu não sei a ler', percebendo que palavras deslocadas ou aparentemente 'erradas' podem produzir beleza, riso e poesia. Com essa reflexão, o autor destaca a valorização da dimensão lúdica e poética presente nos usos coloquiais da linguagem, conforme a alternativa E. As alternativas A, B, C e D tratam esses usos como desvios, como fenômenos gramaticais a serem conhecidos, como distinção entre norma culta e demais variedades ou como relato fiel de episódios, leituras que não correspondem ao sentido do texto.`,
@@ -857,23 +751,11 @@ BLITZ. Disponível em: http://letras.terra.com.br. Acesso em: 28 fev. 2012 (frag
 Em relação ao Texto I, que analisa a linguagem do rádio, 
 o Texto II apresenta, em uma letra de canção,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `estilo simples e marcado pela interlocução com o 
-receptor, típico da comunicação radiofônica.` },
-      { id: 'B', type: 'text', value: `lirismo na abordagem do problema, o que o afasta de 
-uma possível situação real de comunicação radiofônica.` },
-      { id: 'C', type: 'text', value: `marcação rítmica dos versos, o que evidencia o fato de 
-o texto pertencer a uma modalidade de comunicação 
-diferente da radiofônica.` },
-      { id: 'D', type: 'text', value: `direcionamento do texto a um ouvinte específico, 
-divergindo da finalidade de comunicação do rádio, 
-que é atingir as massas.` },
-      { id: 'E', type: 'text', value: `objetividade 
-na 
-linguagem 
-caracterizada 
-pela 
-ocorrência rara de adjetivos, de modo a diminuir as 
-marcas de subjetividade do locutor.` },
+      { id: 'A', type: 'text', value: `estilo simples e marcado pela interlocução com o receptor, típico da comunicação radiofônica.` },
+      { id: 'B', type: 'text', value: `lirismo na abordagem do problema, o que o afasta de uma possível situação real de comunicação radiofônica.` },
+      { id: 'C', type: 'text', value: `marcação rítmica dos versos, o que evidencia o fato de o texto pertencer a uma modalidade de comunicação diferente da radiofônica.` },
+      { id: 'D', type: 'text', value: `direcionamento do texto a um ouvinte específico, divergindo da finalidade de comunicação do rádio, que é atingir as massas.` },
+      { id: 'E', type: 'text', value: `objetividade na linguagem caracterizada pela ocorrência rara de adjetivos, de modo a diminuir as marcas de subjetividade do locutor.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O Texto I descreve a oralidade radiofônica como aquela que propõe o diálogo com o ouvinte, pela simplicidade lexical, concisão, linguagem coloquial e ritmo natural, próximo do diálogo. O Texto II, uma letra de canção, encena um programa de rádio que lê a carta de uma ouvinte e se dirige diretamente ao público. Em relação ao Texto I, o Texto II apresenta estilo simples e marcado pela interlocução com o receptor, típico da comunicação radiofônica, conforme a alternativa A. As demais alternativas afastam o texto da comunicação do rádio, falando em lirismo, ritmo divergente, direcionamento a ouvinte específico ou objetividade pela raridade de adjetivos, aspectos não confirmados.`,
@@ -908,16 +790,11 @@ episódio histórico da Inconfidência Mineira, a obra,
 no entanto, elabora uma reflexão mais ampla sobre a 
 seguinte relação entre o homem e a linguagem:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `A força e a resistência humanas superam os danos 
-provocados pelo poder corrosivo das palavras.` },
-      { id: 'B', type: 'text', value: `As relações humanas, em suas múltiplas esferas, têm 
-seu equilíbrio vinculado ao significado das palavras.` },
-      { id: 'C', type: 'text', value: `O significado dos nomes não expressa de forma justa 
-e completa a grandeza da luta do homem pela vida.` },
-      { id: 'D', type: 'text', value: `Renovando o significado das palavras, o tempo permite 
-às gerações perpetuar seus valores e suas crenças.` },
-      { id: 'E', type: 'text', value: `Como produto da criatividade humana, a linguagem 
-tem seu alcance limitado pelas intenções e gestos.` },
+      { id: 'A', type: 'text', value: `A força e a resistência humanas superam os danos provocados pelo poder corrosivo das palavras.` },
+      { id: 'B', type: 'text', value: `As relações humanas, em suas múltiplas esferas, têm seu equilíbrio vinculado ao significado das palavras.` },
+      { id: 'C', type: 'text', value: `O significado dos nomes não expressa de forma justa e completa a grandeza da luta do homem pela vida.` },
+      { id: 'D', type: 'text', value: `Renovando o significado das palavras, o tempo permite às gerações perpetuar seus valores e suas crenças.` },
+      { id: 'E', type: 'text', value: `Como produto da criatividade humana, a linguagem tem seu alcance limitado pelas intenções e gestos.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O fragmento do 'Romanceiro da Inconfidência', de Cecília Meireles, parte do episódio histórico da Inconfidência Mineira para elaborar uma reflexão mais ampla sobre o homem e a linguagem, destacando a estranha potência das palavras, frágeis como o vidro e mais poderosas que o aço, capazes de fazer girar reis, impérios e povos. Infere-se, assim, que as relações humanas, em suas múltiplas esferas, têm seu equilíbrio vinculado ao significado das palavras, conforme a alternativa B. As demais alternativas afirmam que a força humana supera o poder das palavras, que os nomes não expressam a grandeza da luta, que o tempo renova os sentidos ou que a linguagem tem alcance limitado, leituras que não traduzem a reflexão do poema.`,
@@ -944,14 +821,10 @@ BARROS, M. Retrato do artista quando coisa . Rio de Janeiro: Record, 2002.
 Ao estabelecer uma relação com o texto bíblico nesse 
 poema, o eu lírico identifica-se com Pote Cru porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `entende a necessidade de todo poeta ter voz de 
-oratórios perdidos.` },
-      { id: 'B', type: 'text', value: `elege-o como pastor a fim de ser guiado para a 
-salvação divina.` },
-      { id: 'C', type: 'text', value: `valoriza nos percursos do pastor a conexão entre as 
-ruínas e a tradição.` },
-      { id: 'D', type: 'text', value: `necessita de um guia para a descoberta das coisas 
-da natureza.` },
+      { id: 'A', type: 'text', value: `entende a necessidade de todo poeta ter voz de oratórios perdidos.` },
+      { id: 'B', type: 'text', value: `elege-o como pastor a fim de ser guiado para a salvação divina.` },
+      { id: 'C', type: 'text', value: `valoriza nos percursos do pastor a conexão entre as ruínas e a tradição.` },
+      { id: 'D', type: 'text', value: `necessita de um guia para a descoberta das coisas da natureza.` },
       { id: 'E', type: 'text', value: `acompanha-o na opção pela insignificância das coisas.` },
     ],
     correct: 'E',
@@ -970,15 +843,11 @@ gênero e o contexto específico do Sistema de Biblioteca
 da UFG, esse cartaz tem função predominantemente`,
     images: ['/enem/2012/images/enem_2012_d2_q114.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `socializadora, contribuindo para a popularização 
-da arte.` },
+      { id: 'A', type: 'text', value: `socializadora, contribuindo para a popularização da arte.` },
       { id: 'B', type: 'text', value: `sedutora, considerando a leitura como uma obra de arte.` },
-      { id: 'C', type: 'text', value: `estética, propiciando uma apreciação despretensiosa 
-da obra.` },
-      { id: 'D', type: 'text', value: `educativa, orientando o comportamento de usuários 
-de um serviço.` },
-      { id: 'E', type: 'text', value: `contemplativa, evidenciando a importância de 
-artistas internacionais.` },
+      { id: 'C', type: 'text', value: `estética, propiciando uma apreciação despretensiosa da obra.` },
+      { id: 'D', type: 'text', value: `educativa, orientando o comportamento de usuários de um serviço.` },
+      { id: 'E', type: 'text', value: `contemplativa, evidenciando a importância de artistas internacionais.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O cartaz afixado nas bibliotecas da UFG, com os dizeres 'Cumprir prazos é uma obra-prima' sobre uma intervenção na obra de Dalí, adverte que o atraso na devolução de livros acarreta multa e transtornos aos usuários. Considerando a finalidade comunicativa do gênero e o contexto do sistema de bibliotecas, o cartaz tem função predominantemente educativa, orientando o comportamento dos usuários de um serviço, conforme a alternativa D. As alternativas A, B, C e E atribuem ao cartaz função socializadora, sedutora, estética ou contemplativa, que não correspondem ao seu objetivo de normatizar a devolução dos livros.`,
@@ -1020,8 +889,7 @@ de forma crítica e emancipada devido ao fato de`,
       { id: 'A', type: 'text', value: `reforçar a relação entre o esporte futebol e o samba.` },
       { id: 'B', type: 'text', value: `ser apresentado como uma atividade de lazer.` },
       { id: 'C', type: 'text', value: `ser identificado com a alegria da população brasileira.` },
-      { id: 'D', type: 'text', value: `promover a reflexão sobre a alienação provocada 
-pelo futebol.` },
+      { id: 'D', type: 'text', value: `promover a reflexão sobre a alienação provocada pelo futebol.` },
       { id: 'E', type: 'text', value: `ser associado ao desenvolvimento do país.` },
     ],
     correct: 'D',
@@ -1057,22 +925,11 @@ linguagens artísticas diferentes, participaram do mesmo
 contexto social e cultural de produção pelo fato de ambos`,
     images: ['/enem/2012/images/enem_2012_d2_q116.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `apresentarem um retrato realista, evidenciado pelo 
-unicórnio presente na pintura e pelos adjetivos usados 
-no poema.` },
-      { id: 'B', type: 'text', value: `valorizarem o excesso de enfeites na apresentação 
-pessoal e na variação de atitudes da mulher, 
-evidenciadas pelos adjetivos do poema.` },
-      { id: 'C', type: 'text', value: `apresentarem um retrato ideal de mulher marcado 
-pela sobriedade e o equilíbrio, evidenciados pela 
-postura, expressão e vestimenta da moça e os 
-adjetivos usados no poema.` },
-      { id: 'D', type: 'text', value: `desprezarem o conceito medieval da idealização da 
-mulher como base da produção artística, evidenciado 
-pelos adjetivos usados no poema.` },
-      { id: 'E', type: 'text', value: `apresentarem um retrato ideal de mulher marcado 
-pela emotividade e o conflito interior, evidenciados 
-pela expressão da moça e pelos adjetivos do poema.` },
+      { id: 'A', type: 'text', value: `apresentarem um retrato realista, evidenciado pelo unicórnio presente na pintura e pelos adjetivos usados no poema.` },
+      { id: 'B', type: 'text', value: `valorizarem o excesso de enfeites na apresentação pessoal e na variação de atitudes da mulher, evidenciadas pelos adjetivos do poema.` },
+      { id: 'C', type: 'text', value: `apresentarem um retrato ideal de mulher marcado pela sobriedade e o equilíbrio, evidenciados pela postura, expressão e vestimenta da moça e os adjetivos usados no poema.` },
+      { id: 'D', type: 'text', value: `desprezarem o conceito medieval da idealização da mulher como base da produção artística, evidenciado pelos adjetivos usados no poema.` },
+      { id: 'E', type: 'text', value: `apresentarem um retrato ideal de mulher marcado pela emotividade e o conflito interior, evidenciados pela expressão da moça e pelos adjetivos do poema.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O soneto de Camões louva uma mulher de serena beleza, presença moderada e graciosa, marcada pela ordem e pelo equilíbrio, enquanto a pintura de Sanzio retrata uma dama de postura composta e digna. Produzidos no mesmo contexto social e cultural do Renascimento, a pintura e o poema apresentam um retrato ideal de mulher marcado pela sobriedade e pelo equilíbrio, evidenciados pela postura, pela expressão e pela vestimenta da moça e pelos adjetivos usados no poema, conforme a alternativa C. As demais alternativas falam em retrato realista, excesso de enfeites, rejeição da idealização medieval ou emotividade e conflito interior, leituras que não condizem com a harmonia clássica das duas obras.`,
@@ -1106,16 +963,11 @@ O poema de Sônia Queiroz apresenta uma voz lírica feminina
 que contrapõe o estilo de vida do homem ao modelo reservado 
 à mulher. Nessa contraposição, ela conclui que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a mulher deve conservar uma assepsia que a 
-distingue de homens, que podem se jogar na lama.` },
-      { id: 'B', type: 'text', value: `a palavra “fogo” é uma metáfora que remete ao ato de 
-cozinhar, tarefa destinada às mulheres.` },
-      { id: 'C', type: 'text', value: `a luta pela igualdade entre os gêneros depende da 
-ascensão financeira e social das mulheres.` },
-      { id: 'D', type: 'text', value: `a cama, como sua “alvura e enxovais”, é um símbolo 
-da fragilidade feminina no espaço doméstico.` },
-      { id: 'E', type: 'text', value: `os papéis sociais destinados aos gêneros produzem 
-efeitos e graus de autorrealização desiguais.` },
+      { id: 'A', type: 'text', value: `a mulher deve conservar uma assepsia que a distingue de homens, que podem se jogar na lama.` },
+      { id: 'B', type: 'text', value: `a palavra “fogo” é uma metáfora que remete ao ato de cozinhar, tarefa destinada às mulheres.` },
+      { id: 'C', type: 'text', value: `a luta pela igualdade entre os gêneros depende da ascensão financeira e social das mulheres.` },
+      { id: 'D', type: 'text', value: `a cama, como sua “alvura e enxovais”, é um símbolo da fragilidade feminina no espaço doméstico.` },
+      { id: 'E', type: 'text', value: `os papéis sociais destinados aos gêneros produzem efeitos e graus de autorrealização desiguais.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O poema 'Das irmãs', de Sonia Queiroz, dá voz a uma mulher que contrapõe o estilo de vida livre dos homens — que podem sujar-se na lama, provar o fogo, lambuzar-se e arrotar — ao modelo reservado a ela, feito de alvura, enxovais, cama, dote e marido. Dessa contraposição, a voz lírica conclui que os papéis sociais destinados aos gêneros produzem efeitos e graus de autorrealização desiguais, conforme a alternativa E. As alternativas A, B, C e D reduzem o poema à assepsia que distingue a mulher, à metáfora do 'fogo', à dependência da ascensão financeira ou à cama como símbolo da fragilidade feminina, interpretações parciais da crítica apresentada.`,
@@ -1139,22 +991,11 @@ VERÍSSIMO, L. F. Poesia numa hora dessas?! Rio de Janeiro: Objetiva, 2002.
 No poema O sedutor médio , é possível reconhecer a 
 presença de posições críticas`,
     alternatives: [
-      { id: 'A', type: 'text', value: `nos três primeiros versos, em que “juntar expectativas 
-de vida” significa que, juntos, os cônjuges poderiam viver 
-mais, o que faz do casamento uma convenção benéfica.` },
-      { id: 'B', type: 'text', value: `na mensagem veiculada pelo poema, em que 
-os valores da sociedade são ironizados, o que é 
-acentuado pelo uso do adjetivo “médio” no título e do 
-advérbio “meio” no verso final.` },
-      { id: 'C', type: 'text', value: `no verso “e ser meio felizes?”, em que “meio” é 
-sinônimo de metade, ou seja, no casamento, apenas 
-um dos cônjuges se sentiria realizado.` },
-      { id: 'D', type: 'text', value: `nos dois primeiros versos, em que “juntar rendas” 
-indica que o sujeito poético passa por dificuldades 
-financeiras e almeja os rendimentos da mulher.` },
-      { id: 'E', type: 'text', value: `no título, em que o adjetivo “médio” qualifica o sujeito 
-poético como desinteressante ao sexo oposto e inábil 
-em termos de conquistas amorosas.` },
+      { id: 'A', type: 'text', value: `nos três primeiros versos, em que “juntar expectativas de vida” significa que, juntos, os cônjuges poderiam viver mais, o que faz do casamento uma convenção benéfica.` },
+      { id: 'B', type: 'text', value: `na mensagem veiculada pelo poema, em que os valores da sociedade são ironizados, o que é acentuado pelo uso do adjetivo “médio” no título e do advérbio “meio” no verso final.` },
+      { id: 'C', type: 'text', value: `no verso “e ser meio felizes?”, em que “meio” é sinônimo de metade, ou seja, no casamento, apenas um dos cônjuges se sentiria realizado.` },
+      { id: 'D', type: 'text', value: `nos dois primeiros versos, em que “juntar rendas” indica que o sujeito poético passa por dificuldades financeiras e almeja os rendimentos da mulher.` },
+      { id: 'E', type: 'text', value: `no título, em que o adjetivo “médio” qualifica o sujeito poético como desinteressante ao sexo oposto e inábil em termos de conquistas amorosas.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. No poema 'O sedutor médio', de Luis Fernando Veríssimo, o eu lírico propõe juntar rendas e expectativas de vida, ter 'dois, três filhos' e ser 'meio felizes', num convite deliberadamente morno. As posições críticas aparecem na mensagem veiculada, em que os valores da sociedade são ironizados, efeito acentuado pelo uso do adjetivo 'médio' no título e do advérbio 'meio' no verso final, conforme a alternativa B. As demais alternativas localizam a crítica apenas nos primeiros versos, na palavra 'meio' como metade, na indicação de dificuldades financeiras ou no título que qualificaria o sujeito como inábil, leituras que não abrangem a ironia que percorre o poema.`,
@@ -1191,12 +1032,9 @@ Ao fazer sua argumentação, o autor do texto`,
     alternatives: [
       { id: 'A', type: 'text', value: `faz uma síntese do que foi abordado na reportagem.` },
       { id: 'B', type: 'text', value: `discute problemas conjugais que conduzem à separação.` },
-      { id: 'C', type: 'text', value: `aborda a importância dos advogados em processos 
-de separação.` },
-      { id: 'D', type: 'text', value: `oferece dicas para orientar as pessoas em processos 
-de separação.` },
-      { id: 'E', type: 'text', value: `rebate o enfoque dado ao tema pela reportagem, 
-lançando novas ideias.` },
+      { id: 'C', type: 'text', value: `aborda a importância dos advogados em processos de separação.` },
+      { id: 'D', type: 'text', value: `oferece dicas para orientar as pessoas em processos de separação.` },
+      { id: 'E', type: 'text', value: `rebate o enfoque dado ao tema pela reportagem, lançando novas ideias.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto, publicado na seção de cartas do leitor de uma revista de grande circulação, reage a uma reportagem anterior sobre separação, questionando se os leitores precisam de fotos dignas de obras de arte antes de se separar e sugerindo conselhos mais básicos, como a separação amigável, a partilha dos bens e a pensão dos filhos. Ao argumentar, o autor rebate o enfoque dado ao tema pela reportagem, lançando novas ideias, conforme a alternativa E. As alternativas A, B, C e D afirmam que ele faz uma síntese da reportagem, discute problemas conjugais, trata da importância dos advogados ou oferece dicas de orientação, aspectos que não traduzem o caráter de contraposição do texto.`,
@@ -1230,13 +1068,10 @@ Considerando-se a função do SendLater , o objetivo do
 autor do texto E-mail com hora programada é`,
     alternatives: [
       { id: 'A', type: 'text', value: `eliminar os entraves no envio de mensagens via e-mail.` },
-      { id: 'B', type: 'text', value: `viabilizar a aquisição de conhecimento especializado 
-pelo usuário.` },
+      { id: 'B', type: 'text', value: `viabilizar a aquisição de conhecimento especializado pelo usuário.` },
       { id: 'C', type: 'text', value: `permitir a seleção dos destinatários dos textos enviados.` },
-      { id: 'D', type: 'text', value: `controlar a quantidade de informações constantes do 
-corpo do texto.` },
-      { id: 'E', type: 'text', value: `divulgar um produto ampliador da funcionalidade de 
-um recurso comunicativo.` },
+      { id: 'D', type: 'text', value: `controlar a quantidade de informações constantes do corpo do texto.` },
+      { id: 'E', type: 'text', value: `divulgar um produto ampliador da funcionalidade de um recurso comunicativo.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto 'E-mail com hora programada' apresenta a extensão SendLater, do cliente de e-mail Thunderbird, que permite agendar a data e a hora exatas de envio das mensagens, destacando também seu único ponto negativo. O objetivo do autor é, portanto, divulgar um produto que amplia a funcionalidade de um recurso comunicativo, conforme a alternativa E. As alternativas A, B, C e D afirmam que o texto pretende eliminar os entraves no envio de e-mails, viabilizar conhecimento especializado, permitir a seleção de destinatários ou controlar a quantidade de informações, finalidades que não correspondem ao caráter de divulgação do recurso.`,
@@ -1280,19 +1115,11 @@ da contracultura. O desafio à tradição nessa criação
 musical é caracterizado por`,
     images: ['/enem/2012/images/enem_2012_d2_q122.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `letras e melodias com características amargas 
-e depressivas.` },
+      { id: 'A', type: 'text', value: `letras e melodias com características amargas e depressivas.` },
       { id: 'B', type: 'text', value: `arranjos baseados em ritmos e melodias nordestinos.` },
-      { id: 'C', type: 'text', value: `sonoridades 
-experimentais 
-e 
-confluência 
-de 
-elementos populares e eruditos.` },
-      { id: 'D', type: 'text', value: `temas que refletem situações domésticas ligadas à 
-tradição popular.` },
-      { id: 'E', type: 'text', value: `ritmos contidos e reservados em oposição aos 
-modelos estrangeiros.` },
+      { id: 'C', type: 'text', value: `sonoridades experimentais e confluência de elementos populares e eruditos.` },
+      { id: 'D', type: 'text', value: `temas que refletem situações domésticas ligadas à tradição popular.` },
+      { id: 'E', type: 'text', value: `ritmos contidos e reservados em oposição aos modelos estrangeiros.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. A capa do LP 'Os Mutantes', de 1968, ilustra o movimento da contracultura e da Tropicália. O desafio à tradição nessa criação musical caracteriza-se pelas sonoridades experimentais e pela confluência de elementos populares e eruditos, conforme a alternativa C. As alternativas A, B, D e E falam em letras e melodias amargas e depressivas, em ritmos nordestinos, em temas domésticos ligados à tradição popular ou em ritmos contidos em oposição aos modelos estrangeiros, características que não correspondem à proposta inovadora do grupo.`,
@@ -1339,16 +1166,11 @@ página 827 do dicionário” sinalizando um erro de grafia,
 o autor reconhece`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `a supremacia das formas da língua em relação ao 
-seu conteúdo.` },
-      { id: 'B', type: 'text', value: `a necessidade da norma padrão em situações formais 
-de comunicação escrita.` },
-      { id: 'C', type: 'text', value: `a obrigatoriedade da norma culta da língua, para a 
-garantia de uma comunicação efetiva.` },
-      { id: 'D', type: 'text', value: `a importância da variedade culta da língua, para a 
-preservação da identidade cultural de um povo.` },
-      { id: 'E', type: 'text', value: `a necessidade do dicionário como guia de adequação 
-linguística em contextos informais privados.` },
+      { id: 'A', type: 'text', value: `a supremacia das formas da língua em relação ao seu conteúdo.` },
+      { id: 'B', type: 'text', value: `a necessidade da norma padrão em situações formais de comunicação escrita.` },
+      { id: 'C', type: 'text', value: `a obrigatoriedade da norma culta da língua, para a garantia de uma comunicação efetiva.` },
+      { id: 'D', type: 'text', value: `a importância da variedade culta da língua, para a preservação da identidade cultural de um povo.` },
+      { id: 'E', type: 'text', value: `a necessidade do dicionário como guia de adequação linguística em contextos informais privados.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. Na crônica de Rubem Alves, um amigo, zeloso com o vernáculo, corrige o autor por ter empregado 'varreção' em vez de 'varrição', chegando a lhe enviar o xerox da página do dicionário. O autor admite que o amigo está certo quanto à grafia correta, ainda que observe que é o povo, e não o dicionário, que faz a língua. Ao reconhecer seu equívoco de grafia, o autor admite a necessidade da norma padrão em situações formais de comunicação escrita, conforme a alternativa B. As alternativas A, C, D e E falam em supremacia das formas sobre o conteúdo, obrigatoriedade da norma culta, preservação da identidade cultural ou uso do dicionário em contextos informais, leituras que não traduzem o que o autor efetivamente reconhece.`,
@@ -1388,23 +1210,11 @@ Barreto, foi publicado em 1911. No fragmento destacado,
 a reação do personagem aos desdobramentos de suas 
 iniciativas patrióticas evidencia que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a dedicação de Policarpo Quaresma ao conhecimento 
-da natureza brasileira levou-o a estudar inutilidades, 
-mas possibilitou-lhe uma visão mais ampla do país.` },
-      { id: 'B', type: 'text', value: `a curiosidade em relação aos heróis da pátria 
-levou-o ao ideal de prosperidade e democracia que o 
-personagem encontra no contexto republicano.` },
-      { id: 'C', type: 'text', value: `a construção de uma pátria a partir de elementos 
-míticos, como a cordialidade do povo, a riqueza do solo 
-e a pureza linguística, conduz à frustração ideológica.` },
-      { id: 'D', type: 'text', value: `a propensão do brasileiro ao riso, ao escárnio, 
-justifica a reação de decepção e desistência de 
-Policarpo Quaresma, que prefere resguardar-se em 
-seu gabinete.` },
-      { id: 'E', type: 'text', value: `a certeza da fertilidade da terra e da produção 
-agrícola incondicional faz parte de um projeto 
-ideológico salvacionista, tal como foi difundido na 
-época do autor.` },
+      { id: 'A', type: 'text', value: `a dedicação de Policarpo Quaresma ao conhecimento da natureza brasileira levou-o a estudar inutilidades, mas possibilitou-lhe uma visão mais ampla do país.` },
+      { id: 'B', type: 'text', value: `a curiosidade em relação aos heróis da pátria levou-o ao ideal de prosperidade e democracia que o personagem encontra no contexto republicano.` },
+      { id: 'C', type: 'text', value: `a construção de uma pátria a partir de elementos míticos, como a cordialidade do povo, a riqueza do solo e a pureza linguística, conduz à frustração ideológica.` },
+      { id: 'D', type: 'text', value: `a propensão do brasileiro ao riso, ao escárnio, justifica a reação de decepção e desistência de Policarpo Quaresma, que prefere resguardar-se em seu gabinete.` },
+      { id: 'E', type: 'text', value: `a certeza da fertilidade da terra e da produção agrícola incondicional faz parte de um projeto ideológico salvacionista, tal como foi difundido na época do autor.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. No fragmento de 'Triste fim de Policarpo Quaresma', de Lima Barreto, o personagem dedica-se a um patriotismo idealizado — estuda o tupi, o folclore e as tentativas agrícolas e crê na cordialidade do povo — mas só colhe incredulidade, escárnio e fracasso, acumulando decepções. Sua reação evidencia que a construção de uma pátria a partir de elementos míticos, como a cordialidade do povo, a riqueza do solo e a pureza linguística, conduz à frustração ideológica, conforme a alternativa C. As demais alternativas sustentam que o estudo lhe deu uma visão ampla do país, que ele buscou prosperidade republicana, que a propensão ao riso justifica sua decepção ou que havia certeza da fertilidade da terra, interpretações que não correspondem ao desencanto do personagem.`,
@@ -1455,16 +1265,11 @@ de imagens. A relação entre as necessidades da
 sociedade moderna e a oferta de informação, segundo 
 o texto, é desarmônica, porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o jornalista seleciona as informações mais importantes 
-antes de publicá-las.` },
-      { id: 'B', type: 'text', value: `o ser humano precisa de muito mais conhecimento do 
-que a tecnologia pode dar.` },
-      { id: 'C', type: 'text', value: `o problema da sociedade moderna é a abundância de 
-informações e de liberdade de escolha.` },
-      { id: 'D', type: 'text', value: `a oferta é incoerente com o tempo que as pessoas têm 
-para digerir a quantidade de informação disponível.` },
-      { id: 'E', type: 'text', value: `a utilização dos meios de informação acontece de 
-maneira desorganizada e sem controle efetivo.` },
+      { id: 'A', type: 'text', value: `o jornalista seleciona as informações mais importantes antes de publicá-las.` },
+      { id: 'B', type: 'text', value: `o ser humano precisa de muito mais conhecimento do que a tecnologia pode dar.` },
+      { id: 'C', type: 'text', value: `o problema da sociedade moderna é a abundância de informações e de liberdade de escolha.` },
+      { id: 'D', type: 'text', value: `a oferta é incoerente com o tempo que as pessoas têm para digerir a quantidade de informação disponível.` },
+      { id: 'E', type: 'text', value: `a utilização dos meios de informação acontece de maneira desorganizada e sem controle efetivo.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto 'Informação hoje', de B. Voyenne, argumenta que o verdadeiro problema das sociedades pós-industriais não é a penúria, mas a abundância, pois delas resulta uma desarmonia entre uma oferta incoerente de informações e uma demanda que exige uma escolha cada vez mais rápida. A relação entre as necessidades da sociedade moderna e a oferta de informação é desarmônica porque a oferta é incoerente com o tempo que as pessoas têm para digerir a quantidade de informação disponível, conforme a alternativa D. As alternativas A, B, C e E deslocam o foco para a seleção feita pelo jornalista, para o conhecimento que a tecnologia não dá, para a abundância em si ou para a desorganização dos meios, sem captar o descompasso apontado.`,
@@ -1496,16 +1301,11 @@ que representam o conflito do momento histórico vivido
 pelo poeta na década de 1970. Nesse contexto, é correto 
 afirmar que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o poeta utiliza uma série de metáforas zoológicas 
-com significado impreciso.` },
-      { id: 'B', type: 'text', value: `“morcegos”, “cabras” e “hienas” metaforizam as 
-vítimas do regime militar vigente.` },
-      { id: 'C', type: 'text', value: `o “porco”, animal difícil de domesticar, representa os 
-movimentos de resistência.` },
-      { id: 'D', type: 'text', value: `o poeta caracteriza o momento de opressão através 
-de alegorias de forte poder de impacto.` },
-      { id: 'E', type: 'text', value: `“centuriões” e “sentinelas” simbolizam os agentes que 
-garantem a paz social experimentada.` },
+      { id: 'A', type: 'text', value: `o poeta utiliza uma série de metáforas zoológicas com significado impreciso.` },
+      { id: 'B', type: 'text', value: `“morcegos”, “cabras” e “hienas” metaforizam as vítimas do regime militar vigente.` },
+      { id: 'C', type: 'text', value: `o “porco”, animal difícil de domesticar, representa os movimentos de resistência.` },
+      { id: 'D', type: 'text', value: `o poeta caracteriza o momento de opressão através de alegorias de forte poder de impacto.` },
+      { id: 'E', type: 'text', value: `“centuriões” e “sentinelas” simbolizam os agentes que garantem a paz social experimentada.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O poema 'Logia e mitologia', de Cacaso, recorre a imagens zoológicas — morcegos, cabras, hienas, um porco belicoso, centuriões e sentinelas — para representar o conflito do momento histórico vivido na década de 1970. Nesse contexto, é correto afirmar que o poeta caracteriza o momento de opressão, próprio da ditadura militar, por meio de alegorias de forte poder de impacto, conforme a alternativa D. As alternativas A, B, C e E afirmam que as metáforas têm significado impreciso, que termos isolados representam as vítimas ou os movimentos de resistência ou que 'centuriões' e 'sentinelas' garantem a paz social, leituras que reduzem ou distorcem o sentido do poema.`,
@@ -1533,14 +1333,10 @@ crônica Desabafo , a função da linguagem predominante
 é a emotiva ou expressiva, pois`,
     alternatives: [
       { id: 'A', type: 'text', value: `o discurso do enunciador tem como foco o próprio código.` },
-      { id: 'B', type: 'text', value: `a atitude do enunciador se sobrepõe àquilo que está 
-sendo dito.` },
-      { id: 'C', type: 'text', value: `o interlocutor é o foco do enunciador na construção 
-da mensagem.` },
-      { id: 'D', type: 'text', value: `o referente é o elemento que se sobressai em 
-detrimento dos demais.` },
-      { id: 'E', type: 'text', value: `o enunciador tem como objetivo principal a 
-manutenção da comunicação.` },
+      { id: 'B', type: 'text', value: `a atitude do enunciador se sobrepõe àquilo que está sendo dito.` },
+      { id: 'C', type: 'text', value: `o interlocutor é o foco do enunciador na construção da mensagem.` },
+      { id: 'D', type: 'text', value: `o referente é o elemento que se sobressai em detrimento dos demais.` },
+      { id: 'E', type: 'text', value: `o enunciador tem como objetivo principal a manutenção da comunicação.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. Na crônica 'Desabafo', de J. E. Carneiro, o enunciador expõe sua irritação com uma típica manhã de segunda-feira — a luz acesa que esqueceu, os recados chatos, as contas vencidas — e centra o texto em si mesmo, declarando-se nervoso e zangado. A função da linguagem predominante é a emotiva ou expressiva, pois a atitude do enunciador se sobrepõe àquilo que está sendo dito, conforme a alternativa B. As alternativas A, C, D e E associam o trecho ao foco no próprio código, no interlocutor, no referente ou à manutenção da comunicação, funções que não predominam no desabafo.`,
@@ -1552,59 +1348,40 @@ manutenção da comunicação.` },
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `Entrevista com Marcos Bagno 
-Pode 
-parecer 
-inacreditável, 
-mas 
-muitas 
-das 
-prescrições da pedagogia tradicional da língua até hoje 
-se baseiam nos usos que os escritores portugueses do 
-século XIX faziam da língua. Se tantas pessoas condenam, 
-por exemplo, o uso do verbo “ter” no lugar de “haver”, 
-como em “hoje tem feijoada”, é simplesmente porque os 
-portugueses, em dado momento da história de sua língua, 
-deixaram de fazer esse uso existencial do verbo “ter”. 
-No entanto, temos registros escritos da época 
-medieval em que aparecem centenas desses usos. Se 
-nós, brasileiros, assim como os falantes africanos de 
-português, usamos até hoje o verbo “ter” como existencial 
-é porque recebemos esses usos de nossos ex- 
-colonizadores. Não faz sentido imaginar que brasileiros, 
-angolanos e moçambicanos decidiram se juntar para 
-“errar” na mesma coisa. E assim acontece com muitas 
-outras coisas: regências verbais, colocação pronominal, 
-concordâncias nominais e verbais etc. Temos uma 
-língua própria, mas ainda somos obrigados a seguir uma 
-gramática normativa de outra língua diferente. Às vésperas 
-de comemorarmos nosso bicentenário de independência, 
-não faz sentido continuar rejeitando o que é nosso para só 
-aceitar o que vem de fora. 
-Não faz sentido rejeitar a língua de 190 milhões de 
-brasileiros para só considerar certo o que é usado por menos 
-de dez milhões de portugueses. Só na cidade de São Paulo 
-temos mais falantes de português que em toda a Europa! 
-Informativo Parábola Editorial , s/d. 
-Na entrevista, o autor defende o uso de formas linguísticas 
-coloquiais e faz uso da norma padrão em toda a extensão 
-do texto. Isso pode ser explicado pelo fato de que ele`,
+    text: `Entrevista com Marcos Bagno Pode parecer inacreditável, mas
+muitas das prescrições da pedagogia tradicional da língua até
+hoje se baseiam nos usos que os escritores portugueses do
+século XIX faziam da língua. Se tantas pessoas condenam, por
+exemplo, o uso do verbo “ter” no lugar de “haver”, como em
+“hoje tem feijoada”, é simplesmente porque os portugueses, em
+dado momento da história de sua língua, deixaram de fazer esse
+uso existencial do verbo “ter”. No entanto, temos registros
+escritos da época medieval em que aparecem centenas desses
+usos. Se nós, brasileiros, assim como os falantes africanos de
+português, usamos até hoje o verbo “ter” como existencial é
+porque recebemos esses usos de nossos ex-colonizadores. Não
+faz sentido imaginar que brasileiros, angolanos e moçambicanos
+decidiram se juntar para “errar” na mesma coisa. E assim
+acontece com muitas outras coisas: regências verbais,
+colocação pronominal, concordâncias nominais e verbais etc.
+Temos uma língua própria, mas ainda somos obrigados a seguir
+uma gramática normativa de outra língua diferente. Às vésperas
+de comemorarmos nosso bicentenário de independência, não faz
+sentido continuar rejeitando o que é nosso para só aceitar o
+que vem de fora. Não faz sentido rejeitar a língua de 190
+milhões de brasileiros para só considerar certo o que é usado
+por menos de dez milhões de portugueses. Só na cidade de São
+Paulo temos mais falantes de português que em toda a Europa!
+Informativo Parábola Editorial , s/d. Na entrevista, o autor
+defende o uso de formas linguísticas coloquiais e faz uso da
+norma padrão em toda a extensão do texto. Isso pode ser
+explicado pelo fato de que ele`,
     alternatives: [
-      { id: 'A', type: 'text', value: `adapta o nível de linguagem à situação comunicativa, 
-uma vez que o gênero entrevista requer o uso da 
-norma padrão.` },
-      { id: 'B', type: 'text', value: `apresenta argumentos carentes de comprovação 
-científica e, por isso, defende um ponto de vista difícil 
-de ser verificado na materialidade do texto.` },
-      { id: 'C', type: 'text', value: `propõe que o padrão normativo deve ser usado por 
-falantes escolarizados como ele, enquanto a norma 
-coloquial deve ser usada por falantes não escolarizados.` },
-      { id: 'D', type: 'text', value: `acredita que a língua genuinamente brasileira está em 
-construção, o que o obriga a incorporar em seu cotidiano 
-a gramática normativa do português europeu.` },
-      { id: 'E', type: 'text', value: `defende que a quantidade de falantes do português 
-brasileiro ainda é insuficiente para acabar com a 
-hegemonia do antigo colonizador.` },
+      { id: 'A', type: 'text', value: `adapta o nível de linguagem à situação comunicativa, uma vez que o gênero entrevista requer o uso da norma padrão.` },
+      { id: 'B', type: 'text', value: `apresenta argumentos carentes de comprovação científica e, por isso, defende um ponto de vista difícil de ser verificado na materialidade do texto.` },
+      { id: 'C', type: 'text', value: `propõe que o padrão normativo deve ser usado por falantes escolarizados como ele, enquanto a norma coloquial deve ser usada por falantes não escolarizados.` },
+      { id: 'D', type: 'text', value: `acredita que a língua genuinamente brasileira está em construção, o que o obriga a incorporar em seu cotidiano a gramática normativa do português europeu.` },
+      { id: 'E', type: 'text', value: `defende que a quantidade de falantes do português brasileiro ainda é insuficiente para acabar com a hegemonia do antigo colonizador.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Na entrevista, Marcos Bagno defende o uso de formas linguísticas coloquiais e o reconhecimento de uma língua brasileira própria, mas emprega a norma padrão em toda a extensão do texto. Isso se explica porque ele adapta o nível de linguagem à situação comunicativa, uma vez que o gênero entrevista requer o uso da norma padrão, conforme a alternativa A. As alternativas B, C, D e E afirmam que ele apresenta argumentos sem comprovação, que reserva o padrão aos escolarizados, que incorpora a gramática do português europeu ou que trata do número de falantes, interpretações que não justificam o uso simultâneo da defesa do coloquial e da norma padrão.`,
@@ -1647,21 +1424,11 @@ possui sua própria complexidade e dinâmica de
 funcionamento. O texto ressalta essa dinâmica, na 
 medida em que enfatiza`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a inexistência de conteúdo comum a todas as línguas, 
-pois o léxico contempla visão de mundo particular 
-específica de uma cultura.` },
-      { id: 'B', type: 'text', value: `a existência de línguas limitadas por não permitirem 
-ao falante nativo se comunicar perfeitamente a 
-respeito de qualquer conteúdo.` },
-      { id: 'C', type: 'text', value: `a tendência a serem mais restritos o vocabulário e a 
-gramática de línguas indígenas, se comparados com 
-outras línguas de origem europeia.` },
-      { id: 'D', type: 'text', value: `a existência de diferenças vocabulares entre os 
-idiomas, especificidades relacionadas à própria 
-cultura dos falantes de uma comunidade.` },
-      { id: 'E', type: 'text', value: `a atribuição de maior importância sociocultural às 
-línguas contemporâneas, pois permitem que sejam 
-abordadas quaisquer temáticas, sem dificuldades.` },
+      { id: 'A', type: 'text', value: `a inexistência de conteúdo comum a todas as línguas, pois o léxico contempla visão de mundo particular específica de uma cultura.` },
+      { id: 'B', type: 'text', value: `a existência de línguas limitadas por não permitirem ao falante nativo se comunicar perfeitamente a respeito de qualquer conteúdo.` },
+      { id: 'C', type: 'text', value: `a tendência a serem mais restritos o vocabulário e a gramática de línguas indígenas, se comparados com outras línguas de origem europeia.` },
+      { id: 'D', type: 'text', value: `a existência de diferenças vocabulares entre os idiomas, especificidades relacionadas à própria cultura dos falantes de uma comunidade.` },
+      { id: 'E', type: 'text', value: `a atribuição de maior importância sociocultural às línguas contemporâneas, pois permitem que sejam abordadas quaisquer temáticas, sem dificuldades.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto 'O léxico e a cultura' sustenta que, potencialmente, todas as línguas podem expressar qualquer conteúdo, mas que, na prática, cada idioma precisa desenvolver um vocabulário próprio — por empréstimo ou por criação de novos termos — ligado à sua história. O texto ressalta a dinâmica de cada língua ao enfatizar a existência de diferenças vocabulares entre os idiomas, especificidades relacionadas à própria cultura dos falantes de uma comunidade, conforme a alternativa D. As alternativas A, B, C e E afirmam a inexistência de conteúdo comum, a existência de línguas limitadas, a restrição do léxico das línguas indígenas ou a maior importância das línguas contemporâneas, leituras que contrariam o texto.`,
@@ -1701,16 +1468,11 @@ Acesso em: 26 fev. 2012 (adaptado).
 Para a autora, a substituição de “haver” por “ter” em 
 diferentes contextos evidencia que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o estabelecimento de uma norma prescinde de uma 
-pesquisa histórica.` },
-      { id: 'B', type: 'text', value: `os estudos clássicos de sintaxe histórica enfatizam a 
-variação e a mudança na língua.` },
-      { id: 'C', type: 'text', value: `a avaliação crítica e hierarquizante dos usos da língua 
-fundamenta a definição da norma.` },
-      { id: 'D', type: 'text', value: `a adoção de uma única norma revela uma atitude 
-adequada para os estudos linguísticos.` },
-      { id: 'E', type: 'text', value: `os comportamentos puristas são prejudiciais à 
-compreensão da constituição linguística.` },
+      { id: 'A', type: 'text', value: `o estabelecimento de uma norma prescinde de uma pesquisa histórica.` },
+      { id: 'B', type: 'text', value: `os estudos clássicos de sintaxe histórica enfatizam a variação e a mudança na língua.` },
+      { id: 'C', type: 'text', value: `a avaliação crítica e hierarquizante dos usos da língua fundamenta a definição da norma.` },
+      { id: 'D', type: 'text', value: `a adoção de uma única norma revela uma atitude adequada para os estudos linguísticos.` },
+      { id: 'E', type: 'text', value: `os comportamentos puristas são prejudiciais à compreensão da constituição linguística.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto de Dinah Callou discute a substituição do verbo 'haver' pelo verbo 'ter' em construções existenciais e conclui que nada é categórico, que um purismo estreito revela apenas um conhecimento deficiente da língua e que não se deve confundir o bom uso com a norma para hierarquizar os falantes. Para a autora, essa substituição evidencia que os comportamentos puristas são prejudiciais à compreensão da constituição linguística, conforme a alternativa E. As alternativas A, B, C e D afirmam que a norma prescinde de pesquisa histórica, que os estudos clássicos enfatizam a variação, que a avaliação hierarquizante fundamenta a norma ou que a adoção de uma norma única é adequada, posições que o texto não sustenta.`,
@@ -1732,16 +1494,11 @@ pedra-sabão por Aleijadinho. Profundamente religiosa,
 sua obra revela`,
     images: ['/enem/2012/images/enem_2012_d2_q131.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `liberdade, representando a vida de mineiros à 
-procura da salvação.` },
-      { id: 'B', type: 'text', value: `credibilidade, atendendo a encomendas dos nobres 
-de Minas Gerais.` },
-      { id: 'C', type: 'text', value: `simplicidade, demonstrando compromisso com a 
-contemplação do divino.` },
-      { id: 'D', type: 'text', value: `personalidade, modelando uma imagem sacra com 
-feições populares.` },
-      { id: 'E', type: 'text', value: `singularidade, esculpindo personalidades do reinado 
-nas obras divinas.` },
+      { id: 'A', type: 'text', value: `liberdade, representando a vida de mineiros à procura da salvação.` },
+      { id: 'B', type: 'text', value: `credibilidade, atendendo a encomendas dos nobres de Minas Gerais.` },
+      { id: 'C', type: 'text', value: `simplicidade, demonstrando compromisso com a contemplação do divino.` },
+      { id: 'D', type: 'text', value: `personalidade, modelando uma imagem sacra com feições populares.` },
+      { id: 'E', type: 'text', value: `singularidade, esculpindo personalidades do reinado nas obras divinas.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A escultura barroca de um profeta do pátio do Santuário do Bom Jesus de Matosinho, em Congonhas (MG), esculpida em pedra-sabão por Aleijadinho, apresenta contornos assimétricos, riqueza de detalhes nas vestes e nas feições e forte influência do rococó europeu. Profundamente religiosa, a obra revela personalidade, modelando uma imagem sacra com feições populares, conforme a alternativa D. As alternativas A, B, C e E falam em liberdade com a vida dos mineiros, em credibilidade para atender encomendas dos nobres, em simplicidade na contemplação do divino ou em singularidade ao esculpir personalidades do reinado, leituras que não correspondem à caracterização da obra.`,
@@ -1770,13 +1527,10 @@ autor. Nesse sentido, no trecho apresentado, o enunciado
 “Lugar de mulher também é na oficina” corrobora o 
 objetivo textual de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `demonstrar que a situação das mulheres mudou na 
-sociedade contemporânea.` },
+      { id: 'A', type: 'text', value: `demonstrar que a situação das mulheres mudou na sociedade contemporânea.` },
       { id: 'B', type: 'text', value: `defender a participação da mulher na sociedade atual.` },
-      { id: 'C', type: 'text', value: `comparar esse enunciado com outro: “lugar de mulher 
-é na cozinha”.` },
-      { id: 'D', type: 'text', value: `criticar a presença de mulheres nas oficinas dos 
-cursos da área automotiva.` },
+      { id: 'C', type: 'text', value: `comparar esse enunciado com outro: “lugar de mulher é na cozinha”.` },
+      { id: 'D', type: 'text', value: `criticar a presença de mulheres nas oficinas dos cursos da área automotiva.` },
       { id: 'E', type: 'text', value: `distorcer o sentido da frase “lugar de mulher é na cozinha”.` },
     ],
     correct: 'A',
@@ -1796,21 +1550,10 @@ peça publicitária, cujo tema é a sustentabilidade, o autor
 procura convencer o leitor a`,
     images: ['/enem/2012/images/enem_2012_d2_q133.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `assumir 
-uma 
-atitude 
-reflexiva 
-diante 
-dos 
-fenômenos naturais.` },
+      { id: 'A', type: 'text', value: `assumir uma atitude reflexiva diante dos fenômenos naturais.` },
       { id: 'B', type: 'text', value: `evitar o consumo excessivo de produtos reutilizáveis.` },
       { id: 'C', type: 'text', value: `aderir à onda sustentável, evitando o consumo excessivo.` },
-      { id: 'D', type: 'text', value: `abraçar 
-a 
-campanha, 
-desenvolvendo 
-projetos 
-sustentáveis.` },
+      { id: 'D', type: 'text', value: `abraçar a campanha, desenvolvendo projetos sustentáveis.` },
       { id: 'E', type: 'text', value: `consumir produtos de modo responsável e ecológico.` },
     ],
     correct: 'E',
@@ -1873,22 +1616,11 @@ Cara ao Modernismo, a questão da identidade nacional é
 recorrente na prosa e na poesia de Mário de Andrade. Em 
 O trovador , esse aspecto é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `abordado subliminarmente, por meio de expressões 
-como “coração arlequinal” que, evocando o carnaval, 
-remete à brasilidade.` },
-      { id: 'B', type: 'text', value: `verificado já no título, que remete aos repentistas 
-nordestinos, estudados por Mário de Andrade em 
-suas viagens e pesquisas folclóricas.` },
-      { id: 'C', type: 'text', value: `lamentado pelo eu lírico, tanto no uso de expressões 
-como “Sentimentos em mim do asperamente” (v. 1), 
-“frio” (v. 6), “alma doente” (v. 7), como pelo som triste 
-do alaúde “Dlorom” (v. 9).` },
-      { id: 'D', type: 'text', value: `problematizado na oposição tupi (selvagem) x alaúde 
-(civilizado), apontando a síntese nacional que seria 
-proposta no Manifesto Antropófago , de Oswald de Andrade.` },
-      { id: 'E', type: 'text', value: `exaltado pelo eu lírico, que evoca os “sentimentos dos 
-homens das primeiras eras” para mostrar o orgulho 
-brasileiro por suas raízes indígenas.` },
+      { id: 'A', type: 'text', value: `abordado subliminarmente, por meio de expressões como “coração arlequinal” que, evocando o carnaval, remete à brasilidade.` },
+      { id: 'B', type: 'text', value: `verificado já no título, que remete aos repentistas nordestinos, estudados por Mário de Andrade em suas viagens e pesquisas folclóricas.` },
+      { id: 'C', type: 'text', value: `lamentado pelo eu lírico, tanto no uso de expressões como “Sentimentos em mim do asperamente” (v. 1), “frio” (v. 6), “alma doente” (v. 7), como pelo som triste do alaúde “Dlorom” (v. 9).` },
+      { id: 'D', type: 'text', value: `problematizado na oposição tupi (selvagem) x alaúde (civilizado), apontando a síntese nacional que seria proposta no Manifesto Antropófago , de Oswald de Andrade.` },
+      { id: 'E', type: 'text', value: `exaltado pelo eu lírico, que evoca os “sentimentos dos homens das primeiras eras” para mostrar o orgulho brasileiro por suas raízes indígenas.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. No poema 'O trovador', de Mário de Andrade, o eu lírico expressa sentimentos herdados dos homens das primeiras eras e encerra com o verso 'Sou um tupi tangendo um alaúde!', unindo o tupi, ligado ao indígena e ao 'primitivo', e o alaúde, associado ao europeu e ao 'civilizado'. Cara ao Modernismo, a questão da identidade nacional é problematizada na oposição entre tupi (selvagem) e alaúde (civilizado), apontando para a síntese nacional que seria proposta no Manifesto Antropófago, de Oswald de Andrade, conforme a alternativa D. As alternativas A, B, C e E tratam o tema como abordagem subliminar, referência aos repentistas, lamento do eu lírico ou exaltação das raízes indígenas, leituras que não captam a tensão sintetizadora do poema.`,
@@ -1991,36 +1723,20 @@ parte do trajeto?`,
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `Em um blog de variedades, músicas, mantras 
-e informações diversas, foram postados “Contos de 
-Halloween”. Após a leitura, os visitantes poderiam opinar, 
-assinalando suas reações em: “Divertido”, “Assustador” 
-ou “Chato”. Ao final de uma semana, o blog registrou que 
-500 visitantes distintos acessaram esta postagem. 
-O gráfico a seguir apresenta o resultado da enquete. 
-CONTOS DE HALLOWEEN 
-opinião dos visitantes 
-DIVERTIDO 
-52% 
-15% 
-ASSUSTADOR 
-CHATO 
-12% 
-21% 
-NÃO OPINARAM 
-0% 
-10% 
-20% 
-30% 
-40% 
-50% 
-60% 
-O administrador do blog irá sortear um livro entre os visitantes 
-que opinaram na postagem “Contos de Halloween”. 
-Sabendo que nenhum visitante votou mais de uma vez, 
-a probabilidade de uma pessoa escolhida ao acaso entre 
-as que opinaram ter assinalado que o conto “Contos de 
-Halloween” é “Chato” é mais aproximada por`,
+    text: `Em um blog de variedades, músicas, mantras e informações
+diversas, foram postados “Contos de Halloween”. Após a
+leitura, os visitantes poderiam opinar, assinalando suas
+reações em: “Divertido”, “Assustador” ou “Chato”. Ao final de
+uma semana, o blog registrou que 500 visitantes distintos
+acessaram esta postagem. O gráfico a seguir apresenta o
+resultado da enquete. CONTOS DE HALLOWEEN opinião dos
+visitantes DIVERTIDO 52% 15% ASSUSTADOR CHATO 12% 21% NÃO
+OPINARAM 0% 10% 20% 30% 40% 50% 60% O administrador do blog
+irá sortear um livro entre os visitantes que opinaram na
+postagem “Contos de Halloween”. Sabendo que nenhum visitante
+votou mais de uma vez, a probabilidade de uma pessoa escolhida
+ao acaso entre as que opinaram ter assinalado que o conto
+“Contos de Halloween” é “Chato” é mais aproximada por`,
     images: ['/enem/2012/images/enem_2012_d2_q139.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `0,09.` },
@@ -2084,19 +1800,14 @@ vantajoso financeiramente escolher a opção`,
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `Um forro retangular de tecido traz em sua etiqueta 
-a informação de que encolherá após a primeira lavagem 
-mantendo, entretanto, seu formato. A figura a seguir 
-mostra as medidas originais do forro e o tamanho do 
-encolhimento (x) no comprimento e (y) na largura. 
-A expressão algébrica que representa a área do forro 
-após ser lavado é (5 - x) (3 - y). 
-3 
-y 
-x 
-5 
-Nestas condições, a área perdida do forro, após a primeira 
-lavagem, será expressa por`,
+    text: `Um forro retangular de tecido traz em sua etiqueta a
+informação de que encolherá após a primeira lavagem mantendo,
+entretanto, seu formato. A figura a seguir mostra as medidas
+originais do forro e o tamanho do encolhimento (x) no
+comprimento e (y) na largura. A expressão algébrica que
+representa a área do forro após ser lavado é (5 - x) (3 - y).
+3 y x 5 Nestas condições, a área perdida do forro, após a
+primeira lavagem, será expressa por`,
     images: ['/enem/2012/images/enem_2012_d2_q141.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `2xy` },
@@ -2115,30 +1826,18 @@ lavagem, será expressa por`,
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `A capacidade mínima, em BTU/h, de um aparelho de 
-ar-condicionado, para ambientes sem exposição ao sol, 
-pode ser determinada da seguinte forma: 
-• 
-600 BTU/h por m² , considerando-se até duas 
-pessoas no ambiente; 
-• 
-para cada pessoa adicional nesse ambiente, 
-acrescentar 600 BTU/h; 
-• 
-acrescentar 
-mais 
-600 
-BTU/h 
-para 
-cada 
-equipamento eletroeletrônico em funcionamento 
-no ambiente. 
-Será instalado um aparelho de ar-condicionado em uma 
-sala, sem exposição ao sol, de dimensões 4 m x 5 m, em 
-que permaneçam quatro pessoas e possua um aparelho 
-de televisão em funcionamento. 
-A capacidade mínima, em BTU/h, desse aparelho de ar- 
-condicionado deve ser`,
+    text: `A capacidade mínima, em BTU/h, de um aparelho de
+ar-condicionado, para ambientes sem exposição ao sol, pode ser
+determinada da seguinte forma: • 600 BTU/h por m² ,
+considerando-se até duas pessoas no ambiente; • para cada
+pessoa adicional nesse ambiente, acrescentar 600 BTU/h; •
+acrescentar mais 600 BTU/h para cada equipamento
+eletroeletrônico em funcionamento no ambiente. Será instalado
+um aparelho de ar-condicionado em uma sala, sem exposição ao
+sol, de dimensões 4 m x 5 m, em que permaneçam quatro pessoas
+e possua um aparelho de televisão em funcionamento. A
+capacidade mínima, em BTU/h, desse aparelho de ar-condicionado
+deve ser`,
     alternatives: [
       { id: 'A', type: 'text', value: `12 000.` },
       { id: 'B', type: 'text', value: `12 600.` },
@@ -2168,16 +1867,11 @@ A expressão que traduz a resistência S dessa viga de
 madeira é`,
     images: ['/enem/2012/images/enem_2012_d2_q143.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `s = k.b.d 2 
-x 2` },
-      { id: 'B', type: 'text', value: `s = k.b.d 
-x 2` },
-      { id: 'C', type: 'text', value: `s = k.b.d 2 
-x` },
-      { id: 'D', type: 'text', value: `s = k.b 2 .d 
-x` },
-      { id: 'E', type: 'text', value: `s = k.b.2d 
-2x` },
+      { id: 'A', type: 'text', value: `s = k.b.d 2 x 2` },
+      { id: 'B', type: 'text', value: `s = k.b.d x 2` },
+      { id: 'C', type: 'text', value: `s = k.b.d 2 x` },
+      { id: 'D', type: 'text', value: `s = k.b 2 .d x` },
+      { id: 'E', type: 'text', value: `s = k.b.2d 2x` },
     ],
     correct: 'A',
     explanation: `S é diretamente proporcional à largura b e ao quadrado da altura d, e inversamente proporcional ao quadrado da distância x. Reunindo tudo com a constante k: S = k·b·d² / x². Resposta: A.`,
@@ -2222,21 +1916,11 @@ porque há`,
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `Um biólogo mediu a altura de cinco árvores distintas 
-e representou-as em uma mesma malha quadriculada, 
-utilizando escalas diferentes, conforme indicações na 
-figura a seguir. 
-I 
-II 
-III 
-IV 
-V 
-1:100 
-2:100 
-2:300 
-1:300 
-2:300 
-Qual é a árvore que apresenta a maior altura real?`,
+    text: `Um biólogo mediu a altura de cinco árvores distintas e
+representou-as em uma mesma malha quadriculada, utilizando
+escalas diferentes, conforme indicações na figura a seguir. I
+II III IV V 1:100 2:100 2:300 1:300 2:300 Qual é a árvore que
+apresenta a maior altura real?`,
     images: ['/enem/2012/images/enem_2012_d2_q145.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I` },
@@ -2401,32 +2085,19 @@ A quantidade de cartas que forma o monte é`,
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `O gráfico mostra a variação da extensão média de 
-gelo marítimo, em milhões de quilômetros quadrados, 
-comparando dados dos anos 1995, 1998, 2000, 2005 e 2007. 
-Os dados correspondem aos meses de junho a setembro. 
-O Ártico começa a recobrar o gelo quando termina o 
-verão, em meados de setembro. O gelo do mar atua 
-como o sistema de resfriamento da Terra, refletindo quase 
-toda a luz solar de volta ao espaço. Águas de oceanos 
-escuros, por sua vez, absorvem a luz solar e reforçam 
-o aquecimento do Ártico, ocasionando derretimento 
-crescente do gelo. 
-15 
-Extensão de gelo marítimo 
-12 
-1995 
-9 
-1998 
-2000 
-2005 
-6 
-2007 
-3 
-Junho Julho 
-Agosto Setembro 
-Disponível em: http://sustentabilidade.allianz.com.br. Acesso em: fev. 2012 (adaptado). 
-Com base no gráfico e nas informações do texto, é 
+    text: `O gráfico mostra a variação da extensão média de gelo
+marítimo, em milhões de quilômetros quadrados, comparando
+dados dos anos 1995, 1998, 2000, 2005 e 2007. Os dados
+correspondem aos meses de junho a setembro. O Ártico começa a
+recobrar o gelo quando termina o verão, em meados de setembro.
+O gelo do mar atua como o sistema de resfriamento da Terra,
+refletindo quase toda a luz solar de volta ao espaço. Águas de
+oceanos escuros, por sua vez, absorvem a luz solar e reforçam
+o aquecimento do Ártico, ocasionando derretimento crescente do
+gelo. 15 Extensão de gelo marítimo 12 1995 9 1998 2000 2005 6
+2007 3 Junho Julho Agosto Setembro Disponível em:
+http://sustentabilidade.allianz.com.br. Acesso em: fev. 2012
+(adaptado). Com base no gráfico e nas informações do texto, é
 possível inferir que houve maior aquecimento global em`,
     images: ['/enem/2012/images/enem_2012_d2_q151.jpg'],
     alternatives: [
@@ -2556,20 +2227,14 @@ gasta um jovem entre 12 e 18 anos, na semana inteira
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `Certo vendedor tem seu salário mensal calculado 
-da seguinte maneira: ele ganha um valor fixo de 
-R$ 750,00, mais uma comissão de R$ 3,00 para cada 
-produto vendido. Caso ele venda mais de 100 produtos, 
-sua comissão passa a ser de R$ 9,00 para cada produto 
-vendido, a partir do 101º produto vendido. 
-Com essas informações, o gráfico que melhor representa 
-a relação entre salário e o número de produtos vendidos é 
-Salario em R$ 
-2 250 
-2 000 
-1 750 
-1 500 
-1 250`,
+    text: `Certo vendedor tem seu salário mensal calculado da seguinte
+maneira: ele ganha um valor fixo de R$ 750,00, mais uma
+comissão de R$ 3,00 para cada produto vendido. Caso ele venda
+mais de 100 produtos, sua comissão passa a ser de R$ 9,00 para
+cada produto vendido, a partir do 101º produto vendido. Com
+essas informações, o gráfico que melhor representa a relação
+entre salário e o número de produtos vendidos é Salario em R$
+2 250 2 000 1 750 1 500 1 250`,
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2012/images/enem_2012_d2_q156_A.jpg` },
       { id: 'B', type: 'image', value: `/enem/2012/images/enem_2012_d2_q156_B.jpg` },
@@ -2612,24 +2277,17 @@ quantas viagens precisará fazer?`,
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `Alguns objetos, durante a sua fabricação, necessitam 
-passar por um processo de resfriamento. Para que isso 
-ocorra, uma fábrica utiliza um tanque de resfriamento, 
-como mostrado na figura. 
-5 cm 
-25 cm 
-30 cm 
-40 cm 
-O que aconteceria com o nível da água se colocássemos 
-no tanque um objeto cujo volume fosse de 2 400 cm³ ?`,
+    text: `Alguns objetos, durante a sua fabricação, necessitam passar
+por um processo de resfriamento. Para que isso ocorra, uma
+fábrica utiliza um tanque de resfriamento, como mostrado na
+figura. 5 cm 25 cm 30 cm 40 cm O que aconteceria com o nível
+da água se colocássemos no tanque um objeto cujo volume fosse
+de 2 400 cm³ ?`,
     images: ['/enem/2012/images/enem_2012_d2_q158.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `O nível subiria 0,2 cm, fazendo a água ficar com 
-20,2 cm de altura.` },
-      { id: 'B', type: 'text', value: `O nível subiria 1 cm, fazendo a água ficar com 
-21 cm de altura.` },
-      { id: 'C', type: 'text', value: `O nível subiria 2 cm, fazendo a água ficar com 
-22 cm de altura.` },
+      { id: 'A', type: 'text', value: `O nível subiria 0,2 cm, fazendo a água ficar com 20,2 cm de altura.` },
+      { id: 'B', type: 'text', value: `O nível subiria 1 cm, fazendo a água ficar com 21 cm de altura.` },
+      { id: 'C', type: 'text', value: `O nível subiria 2 cm, fazendo a água ficar com 22 cm de altura.` },
       { id: 'D', type: 'text', value: `O nível subiria 8 cm, fazendo a água transbordar.` },
       { id: 'E', type: 'text', value: `O nível subiria 20 cm, fazendo a água transbordar.` },
     ],
@@ -2643,30 +2301,19 @@ no tanque um objeto cujo volume fosse de 2 400 cm³ ?`,
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `Jorge quer instalar aquecedores no seu salão 
-de beleza para melhorar o conforto dos seus clientes 
-no inverno. Ele estuda a compra de unidades de dois 
-tipos de aquecedores: modelo A, que consome 600 g/h 
-(gramas por hora) de gás propano e cobre 35 m² de área, 
-ou modelo B, que consome 750 g/h de gás propano e 
-cobre 45 m² de área. O fabricante indica que o aquecedor 
-deve ser instalado em um ambiente com área menor do 
-que a da sua cobertura. Jorge vai instalar uma unidade 
-por ambiente e quer gastar o mínimo possível com gás. 
-A área do salão que deve ser climatizada encontra-se 
-na planta seguinte (ambientes representados por três 
-retângulos e um trapézio). 
-9 m 
-II 
-IV 
-III 
-4 m 
-14 m 
-7 m 
-I 
-8 m 
-5 m 
-Avaliando-se todas as informações, serão necessários`,
+    text: `Jorge quer instalar aquecedores no seu salão de beleza para
+melhorar o conforto dos seus clientes no inverno. Ele estuda a
+compra de unidades de dois tipos de aquecedores: modelo A, que
+consome 600 g/h (gramas por hora) de gás propano e cobre 35 m²
+de área, ou modelo B, que consome 750 g/h de gás propano e
+cobre 45 m² de área. O fabricante indica que o aquecedor deve
+ser instalado em um ambiente com área menor do que a da sua
+cobertura. Jorge vai instalar uma unidade por ambiente e quer
+gastar o mínimo possível com gás. A área do salão que deve ser
+climatizada encontra-se na planta seguinte (ambientes
+representados por três retângulos e um trapézio). 9 m II IV
+III 4 m 14 m 7 m I 8 m 5 m Avaliando-se todas as informações,
+serão necessários`,
     images: ['/enem/2012/images/enem_2012_d2_q159.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `quatro unidades do tipo A e nenhuma unidade do tipo B.` },
@@ -2742,24 +2389,7 @@ pelo algarismo que falta no número de protocolo é a de`,
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `O gráfico fornece os valores das ações da empresa 
-XPN , no período das 10 às 17 horas, num dia em que elas 
-oscilaram acentuadamente em curtos intervalos de tempo. 
-Valor da Ação (em reais) 
-460 
-380 
-330 
-280 
-200 
-150 
-100 
-Tempo (em horas) 
-10 11 12 13 14 15 16 17 
-Neste dia, cinco investidores compraram e venderam o 
-mesmo volume de ações, porém em horários diferentes, 
-de acordo com a seguinte tabela. 
- 
-Com relação ao capital adquirido na compra e venda das 
+    text: `Com relação ao capital adquirido na compra e venda das
 ações, qual investidor fez o melhor negócio?`,
     images: ['/enem/2012/images/enem_2012_d2_q162_1.jpg', '/enem/2012/images/enem_2012_d2_q162_2.jpg'],
     alternatives: [
@@ -2779,30 +2409,22 @@ ações, qual investidor fez o melhor negócio?`,
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `A figura a seguir apresenta dois gráficos com 
-informações sobre as reclamações diárias recebidas e 
-resolvidas pelo Setor de Atendimento ao Cliente (SAC) de 
-uma empresa, em uma dada semana. O gráfico de linha 
-tracejada informa o número de reclamações recebidas no dia, 
-o de linha contínua é o número de reclamações resolvidas no 
-dia. As reclamações podem ser resolvidas no mesmo dia ou 
-demorarem mais de um dia para serem resolvidas. 
-20 
-10 
-0 
-Qui 
-Sex Sáb Dom Se 
-er Qua 
-O gerente de atendimento deseja identificar os 
-dias da semana em que o nível de eficiência pode ser 
-considerado muito bom, ou seja, os dias em que o 
-número de reclamações resolvidas excede o número de 
-reclamações recebidas. 
-Disponível em: http://blog.bibliotecaunix.org. Acesso em: 21 jan. 2012 (adaptado). 
-O gerente de atendimento pôde concluir, baseado 
-no conceito de eficiência utilizado na empresa e nas 
-informações do gráfico, que o nível de eficiência foi muito 
-bom na`,
+    text: `A figura a seguir apresenta dois gráficos com informações
+sobre as reclamações diárias recebidas e resolvidas pelo Setor
+de Atendimento ao Cliente (SAC) de uma empresa, em uma dada
+semana. O gráfico de linha tracejada informa o número de
+reclamações recebidas no dia, o de linha contínua é o número
+de reclamações resolvidas no dia. As reclamações podem ser
+resolvidas no mesmo dia ou demorarem mais de um dia para serem
+resolvidas. 20 10 0 Qui Sex Sáb Dom Se er Qua O gerente de
+atendimento deseja identificar os dias da semana em que o
+nível de eficiência pode ser considerado muito bom, ou seja,
+os dias em que o número de reclamações resolvidas excede o
+número de reclamações recebidas. Disponível em:
+http://blog.bibliotecaunix.org. Acesso em: 21 jan. 2012
+(adaptado). O gerente de atendimento pôde concluir, baseado no
+conceito de eficiência utilizado na empresa e nas informações
+do gráfico, que o nível de eficiência foi muito bom na`,
     images: ['/enem/2012/images/enem_2012_d2_q163.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `segunda e na terça-feira.` },
@@ -2957,28 +2579,13 @@ multiplicada a área da superfície corporal?`,
     exam: 'enem',
     year: 2012,
     day: 2,
-    text: `Um aluno registrou as notas bimestrais de algumas 
-de suas disciplinas numa tabela. Ele observou que as 
-entradas numéricas da tabela formavam uma matriz 
-4x4, e que poderia calcular as médias anuais dessas 
-disciplinas usando produto de matrizes. Todas as provas 
-possuíam o mesmo peso, e a tabela que ele conseguiu é 
-mostrada a seguir. 
- 
-Para obter essas médias, ele multiplicou a matriz obtida a 
-partir da tabela por 
-1 
-2 
-1 
-2 
-1 
-2 
-1 
-2 
-1 
-2 
-1 
-2`,
+    text: `Um aluno registrou as notas bimestrais de algumas
+de suas disciplinas numa tabela. Ele observou que as
+entradas numéricas da tabela formavam uma matriz
+4x4, e que poderia calcular as médias anuais dessas
+disciplinas usando produto de matrizes. Todas as provas
+possuíam o mesmo peso, e a tabela que ele conseguiu é
+mostrada a seguir.`,
     images: ['/enem/2012/images/enem_2012_d2_q169.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `A` },
@@ -3223,17 +2830,10 @@ que sua soma será igual a 8.
 Com essa escolha, quem tem a maior probabilidade de 
 acertar sua respectiva soma é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Antônio, já que sua soma é a maior de todas as 
-escolhidas.` },
-      { id: 'B', type: 'text', value: `José e Antônio, já que há 6 possibilidades tanto para a 
-escolha de José quanto para a escolha de Antônio, e 
-há apenas 4 possibilidades para a escolha de Paulo.` },
-      { id: 'C', type: 'text', value: `José e Antônio, já que há 3 possibilidades tanto para a 
-escolha de José quanto para a escolha de Antônio, e 
-há apenas 2 possibilidades para a escolha de Paulo.` },
-      { id: 'D', type: 'text', value: `José, já que há 6 possibilidades para formar sua soma, 
-5 possibilidades para formar a soma de Antônio e 
-apenas 3 possibilidades para formar a soma de Paulo.` },
+      { id: 'A', type: 'text', value: `Antônio, já que sua soma é a maior de todas as escolhidas.` },
+      { id: 'B', type: 'text', value: `José e Antônio, já que há 6 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há apenas 4 possibilidades para a escolha de Paulo.` },
+      { id: 'C', type: 'text', value: `José e Antônio, já que há 3 possibilidades tanto para a escolha de José quanto para a escolha de Antônio, e há apenas 2 possibilidades para a escolha de Paulo.` },
+      { id: 'D', type: 'text', value: `José, já que há 6 possibilidades para formar sua soma, 5 possibilidades para formar a soma de Antônio e apenas 3 possibilidades para formar a soma de Paulo.` },
       { id: 'E', type: 'text', value: `Paulo, já que sua soma é a menor de todas.` },
     ],
     correct: 'D',
@@ -3285,14 +2885,10 @@ Levando em consideração o processo de cozimento e a
 contração sofrida, o volume V de uma travessa de argila, 
 de forma cúbica de aresta a, diminui para um valor que é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `20% menor que V, uma vez que o volume do cubo é 
-diretamente proporcional ao comprimento de seu lado.` },
-      { id: 'B', type: 'text', value: `36% menor que V, porque a área da base diminui de
-a² para ((1 − 0,2)a)² .` },
-      { id: 'C', type: 'text', value: `48,8% menor que V, porque o volume diminui de
-a³ para (0,8a)³ .` },
-      { id: 'D', type: 'text', value: `51,2% menor que V, porque cada lado diminui para 
-80% do comprimento original.` },
+      { id: 'A', type: 'text', value: `20% menor que V, uma vez que o volume do cubo é diretamente proporcional ao comprimento de seu lado.` },
+      { id: 'B', type: 'text', value: `36% menor que V, porque a área da base diminui de a² para ((1 − 0,2)a)² .` },
+      { id: 'C', type: 'text', value: `48,8% menor que V, porque o volume diminui de a³ para (0,8a)³ .` },
+      { id: 'D', type: 'text', value: `51,2% menor que V, porque cada lado diminui para 80% do comprimento original.` },
       { id: 'E', type: 'text', value: `60% menor que V, porque cada lado diminui 20%.` },
     ],
     correct: 'C',
@@ -3375,16 +2971,11 @@ cinema. Esse texto, que aborda a trajetória da escritora
 britânica, tem por objetivo`,
     images: ['/enem/2012/images/enem_2012_d2_q182.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `informar que a famosa série Harry Potter será
-adaptada para o público adulto.` },
-      { id: 'B', type: 'text', value: `divulgar a publicação do romance por J. K. Rowling
-inteiramente para adultos.` },
-      { id: 'C', type: 'text', value: `promover a nova editora que irá publicar os próximos
-livros de J. K. Rowling.` },
-      { id: 'D', type: 'text', value: `informar que a autora de Harry Potter agora pretende
-escrever para adultos.` },
-      { id: 'E', type: 'text', value: `anunciar um novo livro da série Harry Potter publicado
-por editora diferente.` },
+      { id: 'A', type: 'text', value: `informar que a famosa série Harry Potter será adaptada para o público adulto.` },
+      { id: 'B', type: 'text', value: `divulgar a publicação do romance por J. K. Rowling inteiramente para adultos.` },
+      { id: 'C', type: 'text', value: `promover a nova editora que irá publicar os próximos livros de J. K. Rowling.` },
+      { id: 'D', type: 'text', value: `informar que a autora de Harry Potter agora pretende escrever para adultos.` },
+      { id: 'E', type: 'text', value: `anunciar um novo livro da série Harry Potter publicado por editora diferente.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto da BBC noticia que J. K. Rowling, autora da série Harry Potter, anunciou planos de publicar seu primeiro romance para adultos, que será muito diferente dos livros do bruxo e sairá por uma nova editora. O objetivo do texto é informar que a autora de Harry Potter agora pretende escrever para adultos, conforme a alternativa D. As alternativas A e E afirmam que a série Harry Potter será adaptada ou que um novo livro dela foi publicado; a B diz que o romance é inteiramente para adultos; e a C foca a promoção da nova editora, aspectos que não correspondem ao propósito central da notícia.`,
@@ -3411,16 +3002,11 @@ A respeito dos tumultos causados na Inglaterra em agosto
 de 2011, as palavras de alerta de David Cameron têm
 como foco principal`,
     alternatives: [
-      { id: 'A', type: 'text', value: `enfatizar a discriminação contra os jovens britânicos
-e suas famílias.` },
-      { id: 'B', type: 'text', value: `criticar as ações agressivas demonstradas nos
-tumultos pelos jovens.` },
-      { id: 'C', type: 'text', value: `estabelecer relação entre a falta de limites dos jovens
-e o excesso de amor.` },
-      { id: 'D', type: 'text', value: `reforçar a ideia de que os jovens precisam de amor,
-mas também de firmeza.` },
-      { id: 'E', type: 'text', value: `descrever o tipo de amor que gera problemas às
-famílias de jovens britânicos.` },
+      { id: 'A', type: 'text', value: `enfatizar a discriminação contra os jovens britânicos e suas famílias.` },
+      { id: 'B', type: 'text', value: `criticar as ações agressivas demonstradas nos tumultos pelos jovens.` },
+      { id: 'C', type: 'text', value: `estabelecer relação entre a falta de limites dos jovens e o excesso de amor.` },
+      { id: 'D', type: 'text', value: `reforçar a ideia de que os jovens precisam de amor, mas também de firmeza.` },
+      { id: 'E', type: 'text', value: `descrever o tipo de amor que gera problemas às famílias de jovens britânicos.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto 'Quotes of the Day' traz o primeiro-ministro britânico David Cameron comentando os tumultos ocorridos na Inglaterra em 2011 e argumentando que, além da falta de respeito e de limites, faltou também amor, mas que é preciso ser firme quando as pessoas ultrapassam a linha e infringem a lei, defendendo o 'tough love'. O foco principal de suas palavras é reforçar a ideia de que os jovens precisam de amor, mas também de firmeza, conforme a alternativa D. As alternativas A, B, C e E falam em enfatizar a discriminação, criticar as ações agressivas, relacionar falta de limites ao excesso de amor ou descrever o amor que gera problemas, leituras que não traduzem o teor do discurso.`,
@@ -3441,16 +3027,11 @@ cartum, a linguagem utilizada pelos personagens em uma
 conversa em inglês evidencia a`,
     images: ['/enem/2012/images/enem_2012_d2_q184.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `predominância do uso da linguagem informal sobre a
-língua padrão.` },
-      { id: 'B', type: 'text', value: `dificuldade de reconhecer a existência de diferentes
-usos da linguagem.` },
-      { id: 'C', type: 'text', value: `aceitação dos regionalismos utilizados por pessoas
-de diferentes lugares.` },
-      { id: 'D', type: 'text', value: `necessidade de estudo da língua inglesa por parte
-dos personagens.` },
-      { id: 'E', type: 'text', value: `facilidade de compreensão entre falantes com
-sotaques distintos.` },
+      { id: 'A', type: 'text', value: `predominância do uso da linguagem informal sobre a língua padrão.` },
+      { id: 'B', type: 'text', value: `dificuldade de reconhecer a existência de diferentes usos da linguagem.` },
+      { id: 'C', type: 'text', value: `aceitação dos regionalismos utilizados por pessoas de diferentes lugares.` },
+      { id: 'D', type: 'text', value: `necessidade de estudo da língua inglesa por parte dos personagens.` },
+      { id: 'E', type: 'text', value: `facilidade de compreensão entre falantes com sotaques distintos.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. Na charge, um personagem que fala um inglês não padrão ('Aint no way y'all shuld be here if ya dont speak English real good') exige que os outros falem inglês corretamente, enquanto o interlocutor, de modo irônico, sugere que ele evite duplas negativas e use um advérbio. O humor evidencia a dificuldade de reconhecer a existência de diferentes usos da linguagem, já que quem cobra o 'bom inglês' é justamente quem se expressa de forma não padrão, conforme a alternativa B. As alternativas A, C, D e E falam em predomínio da linguagem informal, aceitação de regionalismos, necessidade de estudo da língua ou facilidade de compreensão entre sotaques, interpretações que não explicam a ironia da tira.`,
@@ -3471,14 +3052,10 @@ para justificar sua opinião de que`,
     images: ['/enem/2012/images/enem_2012_d2_q185.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `a paz tem o poder de aumentar o amor entre os homens.` },
-      { id: 'B', type: 'text', value: `o amor pelo poder deve ser menor do que o poder
-do amor.` },
-      { id: 'C', type: 'text', value: `o poder deve ser compartilhado entre aqueles que
-se amam.` },
-      { id: 'D', type: 'text', value: `o amor pelo poder é capaz de desunir cada vez mais
-as pessoas.` },
-      { id: 'E', type: 'text', value: `a paz será alcançada quando a busca pelo poder
-deixar de existir.` },
+      { id: 'B', type: 'text', value: `o amor pelo poder deve ser menor do que o poder do amor.` },
+      { id: 'C', type: 'text', value: `o poder deve ser compartilhado entre aqueles que se amam.` },
+      { id: 'D', type: 'text', value: `o amor pelo poder é capaz de desunir cada vez mais as pessoas.` },
+      { id: 'E', type: 'text', value: `a paz será alcançada quando a busca pelo poder deixar de existir.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A frase atribuída a Jimi Hendrix afirma que, quando o poder do amor superar o amor pelo poder, o mundo conhecerá a paz. Aproveitando-se de seu status social e de sua influência sobre os fãs, o músico associa os termos love, power e peace para justificar sua opinião de que o amor pelo poder deve ser menor do que o poder do amor, conforme a alternativa B. As alternativas A, C, D e E afirmam que a paz aumenta o amor, que o poder deve ser compartilhado entre os que se amam, que o amor pelo poder desune as pessoas ou que a paz virá com o fim da busca pelo poder, leituras que não correspondem à relação estabelecida na citação.`,

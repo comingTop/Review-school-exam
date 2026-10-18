@@ -255,10 +255,8 @@ por meio de uma pesquisa em plataformas virtuais, o texto`,
       { id: 'A', type: 'text', value: `minimiza o alcance da comunicação digital.` },
       { id: 'B', type: 'text', value: `refuta ideias preconcebidas sobre o brasileiro.` },
       { id: 'C', type: 'text', value: `relativiza responsabilidades sobre a noção de respeito.` },
-      { id: 'D', type: 'text', value: `exemplifica conceitos contidos na literatura e na 
-sociologia.` },
-      { id: 'E', type: 'text', value: `expõe a ineficácia dos estudos para alterar tal 
-comportamento.` },
+      { id: 'D', type: 'text', value: `exemplifica conceitos contidos na literatura e na sociologia.` },
+      { id: 'E', type: 'text', value: `expõe a ineficácia dos estudos para alterar tal comportamento.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O texto confronta a imagem consagrada do brasileiro cordial e da 'democracia racial' de Gilberto Freyre com dados de uma pesquisa que revela elevada intolerância nas redes sociais, com 84% das menções de caráter negativo. Ao fazê-lo, o texto refuta ideias preconcebidas sobre o brasileiro (alternativa B). A alternativa A é incorreta porque o texto valoriza, e não minimiza, o alcance da comunicação digital; C não relativiza responsabilidades; D inverte o sentido, pois os dados contrariam, em vez de exemplificar, a visão da sociologia e da literatura; e E não trata da ineficácia de estudos para mudar comportamentos.`,
@@ -298,19 +296,10 @@ experiências históricas de preconceito e violência.
 No poema, essa vivência revela que o eu lírico`,
     alternatives: [
       { id: 'A', type: 'text', value: `incorpora seletivamente o discurso do seu opressor.` },
-      { id: 'B', type: 'text', value: `submete-se 
-à 
-discriminação 
-como 
-meio 
-de 
-fortalecimento.` },
-      { id: 'C', type: 'text', value: `engaja-se na denúncia do passado de opressão e 
-injustiças.` },
-      { id: 'D', type: 'text', value: `sofre uma perda de identidade e de noção de 
-pertencimento.` },
-      { id: 'E', type: 'text', value: `acredita esporadicamente na utopia de uma 
-sociedade igualitária.` },
+      { id: 'B', type: 'text', value: `submete-se à discriminação como meio de fortalecimento.` },
+      { id: 'C', type: 'text', value: `engaja-se na denúncia do passado de opressão e injustiças.` },
+      { id: 'D', type: 'text', value: `sofre uma perda de identidade e de noção de pertencimento.` },
+      { id: 'E', type: 'text', value: `acredita esporadicamente na utopia de uma sociedade igualitária.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No poema de Cuti, o eu lírico se vê desdobrado nas figuras do policial e do porteiro que o vigiam, o prendem e o barram, ou seja, reproduz contra si mesmo a lógica de controle e exclusão do opressor. Isso mostra que o eu lírico incorpora seletivamente o discurso do seu opressor (alternativa A). A alternativa B sugere submissão como fortalecimento, o que não ocorre; C fala em engajamento na denúncia do passado, mas o foco é a opressão internalizada no presente; D afirma perda de identidade, quando há antes um conflito interno de identidade; e E menciona crença numa sociedade igualitária, ausente do texto.`,
@@ -381,12 +370,9 @@ de elementos que`,
     alternatives: [
       { id: 'A', type: 'text', value: `buscam convencer o leitor, incitando o uso do aplicativo.` },
       { id: 'B', type: 'text', value: `definem o aplicativo, revelando o ponto de vista da autora.` },
-      { id: 'C', type: 'text', value: `evidenciam a subjetividade, explorando a entonação 
-emotiva.` },
-      { id: 'D', type: 'text', value: `expõem dados sobre o aplicativo, usando linguagem 
-denotativa.` },
-      { id: 'E', type: 'text', value: `objetivam manter um diálogo com o leitor, recorrendo 
-a uma indagação.` },
+      { id: 'C', type: 'text', value: `evidenciam a subjetividade, explorando a entonação emotiva.` },
+      { id: 'D', type: 'text', value: `expõem dados sobre o aplicativo, usando linguagem denotativa.` },
+      { id: 'E', type: 'text', value: `objetivam manter um diálogo com o leitor, recorrendo a uma indagação.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. No fragmento predomina a função referencial porque o texto se volta ao objeto do discurso, expondo dados objetivos sobre o aplicativo Whatscine — plataformas, funcionamento, origem e números — com linguagem denotativa (alternativa D). A alternativa A descreve a função conativa (convencer o leitor a usar o aplicativo); C aponta subjetividade e entonação emotiva, próprias da função emotiva; E remete à função fática/conativa, pela indagação ao leitor; e B, embora mencione a definição do aplicativo, atribui ao texto um ponto de vista da autora que não caracteriza a objetividade referencial.`,
@@ -424,20 +410,11 @@ primeiro acerca do impacto de mudanças no estilo de vida
 na saúde, apresenta uma visão`,
     images: ['/enem/2018/images/enem_2018_d1_q13.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `medicalizada, que relaciona a prática de exercícios 
-físicos por qualquer indivíduo à promoção da saúde.` },
-      { id: 'B', type: 'text', value: `ampliada, 
-que 
-considera 
-aspectos 
-sociais 
-intervenientes na prática de exercícios no cotidiano.` },
-      { id: 'C', type: 'text', value: `crítica, que associa a interferência das tarefas da 
-casa ao sedentarismo do indivíduo.` },
-      { id: 'D', type: 'text', value: `focalizada, que atribui ao indivíduo a responsabilidade 
-pela prevenção de doenças.` },
-      { id: 'E', type: 'text', value: `geracional, que preconiza a representação do culto 
-à jovialidade.` },
+      { id: 'A', type: 'text', value: `medicalizada, que relaciona a prática de exercícios físicos por qualquer indivíduo à promoção da saúde.` },
+      { id: 'B', type: 'text', value: `ampliada, que considera aspectos sociais intervenientes na prática de exercícios no cotidiano.` },
+      { id: 'C', type: 'text', value: `crítica, que associa a interferência das tarefas da casa ao sedentarismo do indivíduo.` },
+      { id: 'D', type: 'text', value: `focalizada, que atribui ao indivíduo a responsabilidade pela prevenção de doenças.` },
+      { id: 'E', type: 'text', value: `geracional, que preconiza a representação do culto à jovialidade.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O segundo texto amplia a reflexão do primeiro ao mostrar que fatores sociais — jornada extensa, transporte lotado, afazeres domésticos — condicionam a possibilidade de a pessoa praticar exercícios, de modo que a mera cobrança individual tende a gerar culpa. Trata-se, portanto, de uma visão ampliada, que considera os aspectos sociais que interferem na prática de exercícios no cotidiano (alternativa B). A alternativa A é 'medicalizada' e D é 'focalizada' no indivíduo, justamente as posturas criticadas; C reduz tudo às tarefas domésticas; e E, 'geracional', não corresponde ao texto, que não trata de culto à juventude.`,
@@ -467,14 +444,10 @@ Quanto à materialização da linguagem, a apresentação
 de dados relativos à violência contra a mulher`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `configura uma discussão sobre os altos índices de 
-abuso físico contra as peruanas.` },
-      { id: 'B', type: 'text', value: `propõe um novo formato no enredo dos concursos de 
-beleza feminina.` },
-      { id: 'C', type: 'text', value: `condena o rigor estético exigido pelos concursos 
-tradicionais.` },
-      { id: 'D', type: 'text', value: `recupera informações sensacionalistas a respeito 
-desse tema.` },
+      { id: 'A', type: 'text', value: `configura uma discussão sobre os altos índices de abuso físico contra as peruanas.` },
+      { id: 'B', type: 'text', value: `propõe um novo formato no enredo dos concursos de beleza feminina.` },
+      { id: 'C', type: 'text', value: `condena o rigor estético exigido pelos concursos tradicionais.` },
+      { id: 'D', type: 'text', value: `recupera informações sensacionalistas a respeito desse tema.` },
       { id: 'E', type: 'text', value: `subverte a função social da fala das candidatas a miss .` },
     ],
     correct: 'E',
@@ -547,12 +520,9 @@ narrador estabelece uma correlação de sentidos em
 que esses elementos se entrelaçam. Nesse processo, a 
 condição humana configura-se`,
     alternatives: [
-      { id: 'A', type: 'text', value: `amalgamada pelo processo comum de desertificação 
-e de solidão.` },
-      { id: 'B', type: 'text', value: `fortalecida pela adversidade extensiva à terra e aos 
-seres vivos.` },
-      { id: 'C', type: 'text', value: `redimensionada pela intensidade da luz e da 
-exuberância local.` },
+      { id: 'A', type: 'text', value: `amalgamada pelo processo comum de desertificação e de solidão.` },
+      { id: 'B', type: 'text', value: `fortalecida pela adversidade extensiva à terra e aos seres vivos.` },
+      { id: 'C', type: 'text', value: `redimensionada pela intensidade da luz e da exuberância local.` },
       { id: 'D', type: 'text', value: `imersa num drama existencial de identidade e de origem.` },
       { id: 'E', type: 'text', value: `imobilizada pela escassez e pela opressão do ambiente.` },
     ],
@@ -591,16 +561,11 @@ Nesse fragmento, a fim de atrair a atenção do leitor
 e de estabelecer um fio condutor de sentido, o autor 
 utiliza-se de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `primeira pessoa do singular para imprimir subjetividade 
-ao relato de mais uma desilusão amorosa.` },
-      { id: 'B', type: 'text', value: `ironia para tratar da relação com os celulares na era 
-de produtos altamente descartáveis.` },
-      { id: 'C', type: 'text', value: `frases feitas na apresentação de situações amorosas 
-estereotipadas para construir a ambientação do texto.` },
-      { id: 'D', type: 'text', value: `quebra de expectativa como estratégia argumentativa 
-para ocultar informações.` },
-      { id: 'E', type: 'text', value: `verbos no tempo pretérito para enfatizar uma 
-aproximação com os fatos abordados ao longo do texto.` },
+      { id: 'A', type: 'text', value: `primeira pessoa do singular para imprimir subjetividade ao relato de mais uma desilusão amorosa.` },
+      { id: 'B', type: 'text', value: `ironia para tratar da relação com os celulares na era de produtos altamente descartáveis.` },
+      { id: 'C', type: 'text', value: `frases feitas na apresentação de situações amorosas estereotipadas para construir a ambientação do texto.` },
+      { id: 'D', type: 'text', value: `quebra de expectativa como estratégia argumentativa para ocultar informações.` },
+      { id: 'E', type: 'text', value: `verbos no tempo pretérito para enfatizar uma aproximação com os fatos abordados ao longo do texto.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Para atrair o leitor e estabelecer um fio condutor de sentido, o autor recorre a frases feitas próprias de situações amorosas estereotipadas — 'ele me abandonou', 'desapareceu de repente, sem deixar rastro', 'dão no pé' —, construindo a ambientação de um relato de desilusão que só ao final se revela ser sobre aparelhos celulares (alternativa C). A alternativa A cita a primeira pessoa, recurso presente, mas que não constitui o fio condutor; B aponta a ironia, que é o efeito gerado, e não o mecanismo linguístico que sustenta o texto; D fala em quebra de expectativa para ocultar informações, o que não ocorre; e E atribui aos verbos no pretérito uma função de aproximação que não organiza o sentido do fragmento.`,
@@ -643,16 +608,11 @@ Entre as estratégias argumentativas utilizadas para
 sustentar a tese apresentada nesse fragmento, destaca-se 
 a recorrência de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `estruturas sintáticas semelhantes, para reforçar a 
-velocidade das mudanças da vida.` },
-      { id: 'B', type: 'text', value: `marcas de interlocução, para aproximar o leitor das 
-experiências vividas pela autora.` },
-      { id: 'C', type: 'text', value: `formas verbais no presente, para exprimir reais 
-possibilidades de concretização das ações.` },
-      { id: 'D', type: 'text', value: `construções de oposição, para enfatizar que as 
-expectativas são afetadas pelo inesperado.` },
-      { id: 'E', type: 'text', value: `sequências descritivas, para promover a identificação 
-do leitor com as situações apresentadas.` },
+      { id: 'A', type: 'text', value: `estruturas sintáticas semelhantes, para reforçar a velocidade das mudanças da vida.` },
+      { id: 'B', type: 'text', value: `marcas de interlocução, para aproximar o leitor das experiências vividas pela autora.` },
+      { id: 'C', type: 'text', value: `formas verbais no presente, para exprimir reais possibilidades de concretização das ações.` },
+      { id: 'D', type: 'text', value: `construções de oposição, para enfatizar que as expectativas são afetadas pelo inesperado.` },
+      { id: 'E', type: 'text', value: `sequências descritivas, para promover a identificação do leitor com as situações apresentadas.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. Para sustentar a tese de que a vida é imprevisível e surpreendente, a autora recorre repetidamente a construções de oposição: planeja-se uma viagem, mas chega um amor; treina-se para a maratona, mas vem a frustração. Essas antíteses enfatizam que as expectativas são afetadas pelo inesperado (alternativa D). A alternativa A fala em estruturas sintáticas semelhantes para marcar velocidade, que não é o recurso dominante; B cita marcas de interlocução; C, formas verbais no presente; e E, sequências descritivas — elementos que aparecem pontualmente, mas não constituem a estratégia argumentativa recorrente de contraste.`,
@@ -799,12 +759,9 @@ o narrador delineia esse contexto centrado no`,
     alternatives: [
       { id: 'A', type: 'text', value: `julgamento da mulher fora do espaço doméstico.` },
       { id: 'B', type: 'text', value: `relato sobre as condições de trabalho no Estado Novo.` },
-      { id: 'C', type: 'text', value: `destaque a grupos populares na condição de 
-protagonistas.` },
-      { id: 'D', type: 'text', value: `processo de inclusão do palavrão nos hábitos de 
-linguagem.` },
-      { id: 'E', type: 'text', value: `vínculo entre as transformações urbanas e os papéis 
-femininos.` },
+      { id: 'C', type: 'text', value: `destaque a grupos populares na condição de protagonistas.` },
+      { id: 'D', type: 'text', value: `processo de inclusão do palavrão nos hábitos de linguagem.` },
+      { id: 'E', type: 'text', value: `vínculo entre as transformações urbanas e os papéis femininos.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O romance de 1939 retrata o cotidiano das operárias de uma fábrica carioca e mostra como Leniza, no convívio e nas conversas 'de linguagem solta', transforma-se, modifica a voz, o corpo e a própria inteligência. O narrador centra o contexto no vínculo entre as transformações urbanas e os papéis femininos (alternativa E). A alternativa A fala em julgamento da mulher fora do lar; B, nas condições de trabalho do Estado Novo; C, no protagonismo de grupos populares; e D, na inclusão do palavrão — elementos que tangenciam o texto, mas não resumem o foco na mudança da mulher no espaço urbano.`,
@@ -816,69 +773,39 @@ femininos.` },
     exam: 'enem',
     year: 2018,
     day: 1,
-    text: `A imagem da negra e do negro em produtos de 
-beleza e a estética do racismo 
-Resumo : Este artigo tem por finalidade discutir a 
-representação da população negra, especialmente 
-da mulher negra, em imagens de produtos de 
-beleza presentes em comércios do nordeste goiano. 
-Evidencia-se que a presença de estereótipos 
-negativos nessas imagens dissemina um imaginário 
-racista apresentado sob a forma de uma estética 
-racista que camufla a exclusão e normaliza a 
-inferiorização 
-sofrida 
-pelos(as) 
-negros(as) 
-na 
-sociedade brasileira. A análise do material imagético 
-aponta 
-a 
-desvalorização 
-estética 
-do 
-negro, 
-especialmente da mulher negra, e a idealização da 
-beleza e do branqueamento a serem alcançados por 
-meio do uso dos produtos apresentados. O discurso 
-midiático-publicitário 
-dos 
-produtos 
-de 
-beleza 
-rememora e legitima a prática de uma ética racista 
-construída e atuante no cotidiano. Frente a essa 
-discussão, sugere-se que o trabalho antirracismo, 
-feito nos diversos espaços sociais, considere o uso 
-de estratégias para uma “descolonização estética” 
-que empodere os sujeitos negros por meio de sua 
-valorização estética e protagonismo na construção 
-de uma ética da diversidade. 
-Palavras-chave: Estética, racismo, mídia, educação, 
-diversidade. 
-SANT’ANA, J. A imagem da negra e do negro em produtos de beleza e a estética do 
-racismo. Dossiê: trabalho e educação básica. Margens Interdisciplinar . 
-Versão digital. Abaetetuba, n.16, jun. 2017 (adaptado). 
-O cumprimento da função referencial da linguagem é 
-uma marca característica do gênero resumo de artigo 
-acadêmico. Na estrutura desse texto, essa função é 
-estabelecida pela`,
+    text: `A imagem da negra e do negro em produtos de beleza e a
+estética do racismo Resumo : Este artigo tem por finalidade
+discutir a representação da população negra, especialmente da
+mulher negra, em imagens de produtos de beleza presentes em
+comércios do nordeste goiano. Evidencia-se que a presença de
+estereótipos negativos nessas imagens dissemina um imaginário
+racista apresentado sob a forma de uma estética racista que
+camufla a exclusão e normaliza a inferiorização sofrida
+pelos(as) negros(as) na sociedade brasileira. A análise do
+material imagético aponta a desvalorização estética do negro,
+especialmente da mulher negra, e a idealização da beleza e do
+branqueamento a serem alcançados por meio do uso dos produtos
+apresentados. O discurso midiático-publicitário dos produtos
+de beleza rememora e legitima a prática de uma ética racista
+construída e atuante no cotidiano. Frente a essa discussão,
+sugere-se que o trabalho antirracismo, feito nos diversos
+espaços sociais, considere o uso de estratégias para uma
+“descolonização estética” que empodere os sujeitos negros por
+meio de sua valorização estética e protagonismo na construção
+de uma ética da diversidade. Palavras-chave: Estética,
+racismo, mídia, educação, diversidade. SANT’ANA, J. A imagem
+da negra e do negro em produtos de beleza e a estética do
+racismo. Dossiê: trabalho e educação básica. Margens
+Interdisciplinar . Versão digital. Abaetetuba, n.16, jun. 2017
+(adaptado). O cumprimento da função referencial da linguagem é
+uma marca característica do gênero resumo de artigo acadêmico.
+Na estrutura desse texto, essa função é estabelecida pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `impessoalidade, na organização da objetividade das 
-informações, como em “Este artigo tem por finalidade” 
-e “Evidencia-se”.` },
-      { id: 'B', type: 'text', value: `seleção lexical, no desenvolvimento sequencial do 
-texto, como em “imaginário racista” e “estética do 
-negro”.` },
-      { id: 'C', type: 'text', value: `metaforização, relativa à construção dos sentidos 
-figurados, como nas expressões “descolonização 
-estética” e “discurso midiático-publicitário”.` },
-      { id: 'D', type: 'text', value: `nominalização, produzida por meio de processos 
-derivacionais na formação de palavras, como 
-“inferiorização” e “desvalorização”.` },
-      { id: 'E', type: 'text', value: `adjetivação, organizada para criar uma terminologia 
-antirracista, como em “ética da diversidade” e 
-“descolonização estética”.` },
+      { id: 'A', type: 'text', value: `impessoalidade, na organização da objetividade das informações, como em “Este artigo tem por finalidade” e “Evidencia-se”.` },
+      { id: 'B', type: 'text', value: `seleção lexical, no desenvolvimento sequencial do texto, como em “imaginário racista” e “estética do negro”.` },
+      { id: 'C', type: 'text', value: `metaforização, relativa à construção dos sentidos figurados, como nas expressões “descolonização estética” e “discurso midiático-publicitário”.` },
+      { id: 'D', type: 'text', value: `nominalização, produzida por meio de processos derivacionais na formação de palavras, como “inferiorização” e “desvalorização”.` },
+      { id: 'E', type: 'text', value: `adjetivação, organizada para criar uma terminologia antirracista, como em “ética da diversidade” e “descolonização estética”.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. No resumo de artigo acadêmico, a função referencial se materializa pela impessoalidade, que organiza a objetividade das informações, como em 'Este artigo tem por finalidade' e 'Evidencia-se' (alternativa A), apagando as marcas do sujeito e centrando o texto no objeto de estudo. A alternativa B aponta a seleção lexical, que é consequência, não o mecanismo da impessoalidade; C fala em metaforização e D em nominalização, recursos de sentido figurado ou de formação de palavras que não garantem a objetividade; e E cita a adjetivação, que, ao qualificar, tende a subjetivar, contrariando a função referencial.`,
@@ -898,14 +825,10 @@ Na representação gráfica, a inter-relação de diferentes`,
     images: ['/enem/2018/images/enem_2018_d1_q25.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `romper com a linearidade das ações da narrativa literária.` },
-      { id: 'B', type: 'text', value: `ilustrar de modo fidedigno passagens representativas 
-da história.` },
-      { id: 'C', type: 'text', value: `articular a tensão do romance à desproporcionalidade 
-das formas.` },
-      { id: 'D', type: 'text', value: `potencializar a dramaticidade do episódio com 
-recursos das artes visuais.` },
-      { id: 'E', type: 'text', value: `desconstruir a diagramação do texto literário pelo 
-desequilíbrio da composição.` },
+      { id: 'B', type: 'text', value: `ilustrar de modo fidedigno passagens representativas da história.` },
+      { id: 'C', type: 'text', value: `articular a tensão do romance à desproporcionalidade das formas.` },
+      { id: 'D', type: 'text', value: `potencializar a dramaticidade do episódio com recursos das artes visuais.` },
+      { id: 'E', type: 'text', value: `desconstruir a diagramação do texto literário pelo desequilíbrio da composição.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. Na adaptação em quadrinhos de Grande sertão: veredas, a inter-relação entre a linguagem verbal e os recursos visuais — enquadramento, traço, cores e expressões — serve para potencializar a dramaticidade do episódio com recursos das artes visuais (alternativa D). A alternativa A fala em romper a linearidade da narrativa, o que não é o efeito buscado; B reduz a adaptação a mera ilustração fiel; C associa a tensão à desproporcionalidade das formas, de modo impreciso; e E fala em desconstruir a diagramação pelo desequilíbrio, quando a composição visual intensifica, e não desfaz, o sentido dramático.`,
@@ -934,27 +857,11 @@ No contexto das aulas de Educação Física escolar, os
 valores olímpicos e paralímpicos podem ser identificados 
 quando o colega`,
     alternatives: [
-      { id: 'A', type: 'text', value: `procura entender o próximo, assumindo atitudes 
-positivas como simpatia, empatia, honestidade, 
-compaixão, confiança e solidariedade, o que 
-caracteriza o valor da igualdade.` },
-      { id: 'B', type: 'text', value: `faz com que todos possam ser iguais e receber o 
-mesmo tratamento, assegurando imparcialidade, 
-oportunidades e tratamentos iguais para todos, o que 
-caracteriza o valor da amizade.` },
-      { id: 'C', type: 'text', value: `dá o melhor de si na vivência das diversas atividades 
-relacionadas ao esporte ou aos jogos, participando 
-e progredindo de acordo com seus objetivos, o que 
-caracteriza o valor da coragem.` },
-      { id: 'D', type: 'text', value: `manifesta a habilidade de enfrentar a dor, o sofrimento, 
-o medo, a incerteza e a intimidação nas atividades, 
-agindo corretamente contra a vergonha, a desonra e o 
-desânimo, o que caracteriza o valor da determinação.` },
-      { id: 'E', type: 'text', value: `inclui em suas ações o fair play (jogo limpo), a 
-honestidade, o sentimento positivo de consideração 
-por outra pessoa, o conhecimento dos seus limites, 
-a valorização de sua própria saúde e o combate ao 
-doping , o que caracteriza o valor do respeito.` },
+      { id: 'A', type: 'text', value: `procura entender o próximo, assumindo atitudes positivas como simpatia, empatia, honestidade, compaixão, confiança e solidariedade, o que caracteriza o valor da igualdade.` },
+      { id: 'B', type: 'text', value: `faz com que todos possam ser iguais e receber o mesmo tratamento, assegurando imparcialidade, oportunidades e tratamentos iguais para todos, o que caracteriza o valor da amizade.` },
+      { id: 'C', type: 'text', value: `dá o melhor de si na vivência das diversas atividades relacionadas ao esporte ou aos jogos, participando e progredindo de acordo com seus objetivos, o que caracteriza o valor da coragem.` },
+      { id: 'D', type: 'text', value: `manifesta a habilidade de enfrentar a dor, o sofrimento, o medo, a incerteza e a intimidação nas atividades, agindo corretamente contra a vergonha, a desonra e o desânimo, o que caracteriza o valor da determinação.` },
+      { id: 'E', type: 'text', value: `inclui em suas ações o fair play (jogo limpo), a honestidade, o sentimento positivo de consideração por outra pessoa, o conhecimento dos seus limites, a valorização de sua própria saúde e o combate ao doping , o que caracteriza o valor do respeito.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto lista os valores olímpicos (amizade, excelência e respeito) e paralímpicos (determinação, coragem, igualdade e inspiração). O valor do respeito corresponde a incluir nas ações o fair play, a honestidade, a consideração pelo outro, o conhecimento dos próprios limites, a valorização da saúde e o combate ao doping (alternativa E). As demais alternativas trocam as definições: A descreve a amizade mas a chama de igualdade; B define a igualdade mas a nomeia amizade; C define a excelência mas a chama de coragem; e D define a coragem mas a nomeia determinação.`,
@@ -986,16 +893,11 @@ No título proposto para esse texto de divulgação científica,
 ao dissociar os elementos da expressão Big Bang, a 
 autora revela a intenção de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `evidenciar a descoberta recente que comprova a 
-explosão de matéria e energia.` },
-      { id: 'B', type: 'text', value: `resumir os resultados de uma pesquisa que trouxe 
-evidências para a teoria do Big Bang.` },
-      { id: 'C', type: 'text', value: `sintetizar a ideia de que a teoria da expansão de 
-matéria e energia substitui a teoria da explosão.` },
-      { id: 'D', type: 'text', value: `destacar a experiência que confirma uma investigação 
-anterior sobre a teoria de matéria e energia.` },
-      { id: 'E', type: 'text', value: `condensar a conclusão de que a explosão de matéria 
-e energia ocorre em um ponto microscópico.` },
+      { id: 'A', type: 'text', value: `evidenciar a descoberta recente que comprova a explosão de matéria e energia.` },
+      { id: 'B', type: 'text', value: `resumir os resultados de uma pesquisa que trouxe evidências para a teoria do Big Bang.` },
+      { id: 'C', type: 'text', value: `sintetizar a ideia de que a teoria da expansão de matéria e energia substitui a teoria da explosão.` },
+      { id: 'D', type: 'text', value: `destacar a experiência que confirma uma investigação anterior sobre a teoria de matéria e energia.` },
+      { id: 'E', type: 'text', value: `condensar a conclusão de que a explosão de matéria e energia ocorre em um ponto microscópico.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Ao separar os elementos da expressão no título 'Mais big do que bang', a autora enfatiza o 'big' (a grande expansão) em detrimento do 'bang' (a explosão), sintetizando a ideia de que a teoria da expansão de matéria e energia substitui a da explosão (alternativa C), conforme explica o texto. A alternativa A afirma o contrário, que se comprova a explosão; B e D reduzem o título a um resumo ou destaque da pesquisa, sem captar o jogo de palavras; e E fala em explosão num ponto microscópico, insistindo no 'bang' que o texto relativiza.`,
@@ -1029,48 +931,31 @@ linguagem não verbal como argumento para`,
     exam: 'enem',
     year: 2018,
     day: 1,
-    text: `TEXTO I 
-Também 
-chamados 
-impressões 
-ou 
-imagens 
-fotogramáticas [...], os fotogramas são, numa definição 
-genérica, imagens realizadas sem a utilização da câmera 
-fotográfica, por contato direto de um objeto ou material 
-com uma superfície fotossensível exposta a uma fonte 
-de luz. Essa técnica, que nasceu junto com a fotografia e 
-serviu de modelo a muitas discussões sobre a ontologia 
-da imagem fotográfica, foi profundamente transformada 
-pelos artistas da vanguarda, nas primeiras décadas do 
-século XX. Representou mesmo, ao lado das colagens, 
-fotomontagens e outros procedimentos técnicos, a 
-incorporação definitiva da fotografia à arte moderna e 
-seu distanciamento da representação figurativa. 
-COLUCCI, M. B. Impressões fotogramáticas e vanguardas: as experiências de Man Ray. 
-Studium , n. 2, 2000. 
-TEXTO II 
-RAY, M. Rayograph , 1922. 23,9 x 29,9 cm. MOMA, Nova York. 
-Disponível em: www.moma.org. Acesso em: 18 abr. 2018 (adaptado). 
-No fotograma de Man Ray, o “distanciamento da 
-representação figurativa” a que se refere o Texto I 
-manifesta-se na`,
+    text: `TEXTO I Também chamados impressões ou imagens fotogramáticas
+[...], os fotogramas são, numa definição genérica, imagens
+realizadas sem a utilização da câmera fotográfica, por contato
+direto de um objeto ou material com uma superfície
+fotossensível exposta a uma fonte de luz. Essa técnica, que
+nasceu junto com a fotografia e serviu de modelo a muitas
+discussões sobre a ontologia da imagem fotográfica, foi
+profundamente transformada pelos artistas da vanguarda, nas
+primeiras décadas do século XX. Representou mesmo, ao lado das
+colagens, fotomontagens e outros procedimentos técnicos, a
+incorporação definitiva da fotografia à arte moderna e seu
+distanciamento da representação figurativa. COLUCCI, M. B.
+Impressões fotogramáticas e vanguardas: as experiências de Man
+Ray. Studium , n. 2, 2000. TEXTO II RAY, M. Rayograph , 1922.
+23,9 x 29,9 cm. MOMA, Nova York. Disponível em: www.moma.org.
+Acesso em: 18 abr. 2018 (adaptado). No fotograma de Man Ray, o
+“distanciamento da representação figurativa” a que se refere o
+Texto I manifesta-se na`,
     images: ['/enem/2018/images/enem_2018_d1_q29.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `ressignificação do jogo de luz e sombra, nos moldes 
-surrealistas.` },
-      { id: 'B', type: 'text', value: `imposição do acaso sobre a técnica, como crítica à 
-arte realista.` },
-      { id: 'C', type: 'text', value: `composição 
-experimental, 
-fragmentada 
-e 
-de 
-contornos difusos.` },
-      { id: 'D', type: 'text', value: `abstração radical, voltada para a própria linguagem 
-fotográfica.` },
-      { id: 'E', type: 'text', value: `imitação de formas humanas, com base em 
-diferentes objetos.` },
+      { id: 'A', type: 'text', value: `ressignificação do jogo de luz e sombra, nos moldes surrealistas.` },
+      { id: 'B', type: 'text', value: `imposição do acaso sobre a técnica, como crítica à arte realista.` },
+      { id: 'C', type: 'text', value: `composição experimental, fragmentada e de contornos difusos.` },
+      { id: 'D', type: 'text', value: `abstração radical, voltada para a própria linguagem fotográfica.` },
+      { id: 'E', type: 'text', value: `imitação de formas humanas, com base em diferentes objetos.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Segundo o Texto I, os fotogramas das vanguardas marcaram o 'distanciamento da representação figurativa'; no Rayograph de Man Ray, produzido sem câmera, pelo contato de objetos com a superfície fotossensível, esse afastamento manifesta-se numa composição experimental, fragmentada e de contornos difusos (alternativa C). A alternativa A restringe o efeito ao jogo de luz e sombra nos moldes surrealistas; B enfatiza o acaso como crítica ao realismo; D fala em abstração radical voltada à linguagem fotográfica, mas a imagem ainda guarda silhuetas de objetos, não sendo totalmente abstrata; e E menciona imitação de formas humanas, justamente o oposto do distanciamento da figuração.`,
@@ -1099,16 +984,11 @@ Rio de Janeiro: Azougue, 2009.
 Nesse poema de Stela do Patrocínio, a singularidade da 
 expressão lírica manifesta-se na`,
     alternatives: [
-      { id: 'A', type: 'text', value: `representação da infância, redimensionada no 
-resgate da memória.` },
-      { id: 'B', type: 'text', value: `associação de imagens desconexas, articuladas por 
-uma fala delirante.` },
-      { id: 'C', type: 'text', value: `expressão autobiográfica, fundada no relato de 
-experiências de alteridade.` },
-      { id: 'D', type: 'text', value: `incorporação de elementos fantásticos, explicitada 
-por versos incoerentes.` },
-      { id: 'E', type: 'text', value: `transgressão à razão, ecoada na desconstrução de 
-referências temporais.` },
+      { id: 'A', type: 'text', value: `representação da infância, redimensionada no resgate da memória.` },
+      { id: 'B', type: 'text', value: `associação de imagens desconexas, articuladas por uma fala delirante.` },
+      { id: 'C', type: 'text', value: `expressão autobiográfica, fundada no relato de experiências de alteridade.` },
+      { id: 'D', type: 'text', value: `incorporação de elementos fantásticos, explicitada por versos incoerentes.` },
+      { id: 'E', type: 'text', value: `transgressão à razão, ecoada na desconstrução de referências temporais.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. No poema de Stela do Patrocínio, o eu lírico diz ter nascido 'já velha', depois virado criança e voltado a ser velha, embaralhando a ordem natural do tempo. A singularidade da expressão lírica está nessa transgressão à razão, ecoada na desconstrução de referências temporais (alternativa E). A alternativa A fala em resgate da infância pela memória; B, em imagens desconexas de fala delirante; C, em relato autobiográfico de alteridade; e D, em elementos fantásticos — leituras que não captam o essencial, que é a subversão da lógica temporal.`,
@@ -1138,16 +1018,11 @@ O texto indica que as mudanças nas práticas corporais,
 especificamente no futebol,`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `fomentaram uma tecnocracia, promovendo uma 
-vivência mais lúdica e irreverente.` },
-      { id: 'B', type: 'text', value: `promoveram o surgimento de atletas mais habilidosos, 
-para que fossem inovadores.` },
-      { id: 'C', type: 'text', value: `incentivaram a associação dessa manifestação à 
-fruição, favorecendo o improviso.` },
-      { id: 'D', type: 'text', value: `tornaram a modalidade em um produto a ser 
-consumido, negando sua dimensão criativa.` },
-      { id: 'E', type: 'text', value: `contribuíram para esse esporte ter mais jogadores, 
-bem como acompanhado de torcedores.` },
+      { id: 'A', type: 'text', value: `fomentaram uma tecnocracia, promovendo uma vivência mais lúdica e irreverente.` },
+      { id: 'B', type: 'text', value: `promoveram o surgimento de atletas mais habilidosos, para que fossem inovadores.` },
+      { id: 'C', type: 'text', value: `incentivaram a associação dessa manifestação à fruição, favorecendo o improviso.` },
+      { id: 'D', type: 'text', value: `tornaram a modalidade em um produto a ser consumido, negando sua dimensão criativa.` },
+      { id: 'E', type: 'text', value: `contribuíram para esse esporte ter mais jogadores, bem como acompanhado de torcedores.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. Galeano afirma que o futebol passou 'do prazer ao dever', convertendo-se em espetáculo e em um dos negócios mais lucrativos do mundo, que atrofia a fantasia e proíbe a ousadia. O texto indica, portanto, que as mudanças tornaram a modalidade um produto a ser consumido, negando sua dimensão criativa (alternativa D). A alternativa A associa a tecnocracia a uma vivência mais lúdica, o contrário do texto; B fala em atletas mais habilidosos e inovadores; C, em associação à fruição e ao improviso; e E, em mais jogadores e torcedores — todas em desacordo com a crítica do autor à mercantilização.`,
@@ -1182,44 +1057,33 @@ relação com a ópera europeia do século XIX a partir da`,
     exam: 'enem',
     year: 2018,
     day: 1,
-    text: `A trajetória de Liesel Meminger é contada por uma 
-narradora 
-mórbida, 
-surpreendentemente 
-simpática. 
-Ao perceber que a pequena ladra de livros lhe escapa, 
-a Morte afeiçoa-se à menina e rastreia suas pegadas 
-de 1939 a 1943. Traços de uma sobrevivente: a mãe 
-comunista, perseguida pelo nazismo, envia Liesel e o 
-irmão para o subúrbio pobre de uma cidade alemã, onde 
-um casal se dispõe a adotá-los por dinheiro. O garoto 
-morre no trajeto e é enterrado por um coveiro que deixa 
-cair um livro na neve. É o primeiro de uma série que a 
-menina vai surrupiar ao longo dos anos. O único vínculo 
-com a família é esta obra, que ela ainda não sabe ler. 
-A vida ao redor é a pseudorrealidade criada em 
-torno do culto a Hitler na Segunda Guerra. Ela assiste 
-à eufórica celebração do aniversário do Führer pela 
-vizinhança. A Morte, perplexa diante da violência 
-humana, dá um tom leve e divertido à narrativa deste 
-duro confronto entre a infância perdida e a crueldade do 
-mundo adulto, um sucesso absoluto - e raro - de crítica 
-e público. 
-Disponível em: www.odevoradordelivros.com. Acesso em: 24 jun. 2014. 
-Os gêneros textuais podem ser caracterizados, dentre 
+    text: `A trajetória de Liesel Meminger é contada por uma narradora
+mórbida, surpreendentemente simpática. Ao perceber que a
+pequena ladra de livros lhe escapa, a Morte afeiçoa-se à
+menina e rastreia suas pegadas de 1939 a 1943. Traços de uma
+sobrevivente: a mãe comunista, perseguida pelo nazismo, envia
+Liesel e o irmão para o subúrbio pobre de uma cidade alemã,
+onde um casal se dispõe a adotá-los por dinheiro. O garoto
+morre no trajeto e é enterrado por um coveiro que deixa cair
+um livro na neve. É o primeiro de uma série que a menina vai
+surrupiar ao longo dos anos. O único vínculo com a família é
+esta obra, que ela ainda não sabe ler. A vida ao redor é a
+pseudorrealidade criada em torno do culto a Hitler na Segunda
+Guerra. Ela assiste à eufórica celebração do aniversário do
+Führer pela vizinhança. A Morte, perplexa diante da violência
+humana, dá um tom leve e divertido à narrativa deste duro
+confronto entre a infância perdida e a crueldade do mundo
+adulto, um sucesso absoluto - e raro - de crítica e público.
+Disponível em: www.odevoradordelivros.com. Acesso em: 24 jun.
+2014. Os gêneros textuais podem ser caracterizados, dentre
 outros fatores, por seus objetivos. Esse fragmento é um(a)`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `reportagem, pois busca convencer o interlocutor da 
-tese defendida ao longo do texto.` },
-      { id: 'B', type: 'text', value: `resumo, pois promove o contato rápido do leitor com 
-uma informação desconhecida.` },
-      { id: 'C', type: 'text', value: `sinopse, pois sintetiza as informações relevantes de 
-uma obra de modo impessoal.` },
-      { id: 'D', type: 'text', value: `instrução, pois ensina algo por meio de explicações 
-sobre uma obra específica.` },
-      { id: 'E', type: 'text', value: `resenha, pois apresenta uma produção intelectual de 
-forma crítica.` },
+      { id: 'A', type: 'text', value: `reportagem, pois busca convencer o interlocutor da tese defendida ao longo do texto.` },
+      { id: 'B', type: 'text', value: `resumo, pois promove o contato rápido do leitor com uma informação desconhecida.` },
+      { id: 'C', type: 'text', value: `sinopse, pois sintetiza as informações relevantes de uma obra de modo impessoal.` },
+      { id: 'D', type: 'text', value: `instrução, pois ensina algo por meio de explicações sobre uma obra específica.` },
+      { id: 'E', type: 'text', value: `resenha, pois apresenta uma produção intelectual de forma crítica.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O fragmento apresenta uma obra ('A Menina que Roubava Livros') comentando seu enredo e emitindo juízo de valor ('um sucesso absoluto - e raro - de crítica e público'), o que caracteriza a resenha, pois apresenta uma produção intelectual de forma crítica (alternativa E). A alternativa A o classifica como reportagem com tese a defender; B, como resumo meramente informativo; C, como sinopse impessoal — mas há avaliação crítica, o que exclui o caráter neutro; e D, como instrução, gênero que ensina um procedimento, inexistente aqui.`,
@@ -1390,16 +1254,11 @@ Num texto narrativo, a sequência dos fatos contribui para
 a progressão temática. No fragmento, esse processo é 
 indicado pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `alternância das pessoas do discurso que determinam 
-o foco narrativo.` },
-      { id: 'B', type: 'text', value: `utilização de formas verbais que marcam tempos 
-narrativos variados.` },
-      { id: 'C', type: 'text', value: `indeterminação dos sujeitos de ações que caracterizam 
-os eventos narrados.` },
-      { id: 'D', type: 'text', value: `justaposição de frases que relacionam semanticamente 
-os acontecimentos narrados.` },
-      { id: 'E', type: 'text', value: `recorrência de expressões adverbiais que organizam 
-temporalmente a narrativa.` },
+      { id: 'A', type: 'text', value: `alternância das pessoas do discurso que determinam o foco narrativo.` },
+      { id: 'B', type: 'text', value: `utilização de formas verbais que marcam tempos narrativos variados.` },
+      { id: 'C', type: 'text', value: `indeterminação dos sujeitos de ações que caracterizam os eventos narrados.` },
+      { id: 'D', type: 'text', value: `justaposição de frases que relacionam semanticamente os acontecimentos narrados.` },
+      { id: 'E', type: 'text', value: `recorrência de expressões adverbiais que organizam temporalmente a narrativa.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. No fragmento de 'Infância', a progressão temática apoia-se na utilização de formas verbais que marcam tempos narrativos variados (alternativa B): o pretérito perfeito ('surrou', 'enrolaram') faz avançar os fatos, enquanto o imperfeito ('distinguia') e outras formas situam ações em diferentes planos do relato. A alternativa A fala em alternância das pessoas do discurso, que não ocorre; C, em indeterminação dos sujeitos; D, em justaposição de frases; e E, em expressões adverbiais de tempo — recursos que não são os responsáveis, no trecho, pelo encadeamento temporal dos acontecimentos.`,
@@ -1418,16 +1277,11 @@ glúten. Essas reações indicam que, em geral, os rótulos
 desses produtos`,
     images: ['/enem/2018/images/enem_2018_d1_q39.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `trazem informações explícitas sobre a presença do 
-glúten.` },
-      { id: 'B', type: 'text', value: `oferecem várias opções de sabor para esses 
-consumidores.` },
-      { id: 'C', type: 'text', value: `classificam o produto como adequado para o 
-consumidor celíaco.` },
-      { id: 'D', type: 'text', value: `influenciam o consumo de alimentos especiais para 
-esses consumidores.` },
-      { id: 'E', type: 'text', value: `variam na forma de apresentação de informações 
-relevantes para esse público.` },
+      { id: 'A', type: 'text', value: `trazem informações explícitas sobre a presença do glúten.` },
+      { id: 'B', type: 'text', value: `oferecem várias opções de sabor para esses consumidores.` },
+      { id: 'C', type: 'text', value: `classificam o produto como adequado para o consumidor celíaco.` },
+      { id: 'D', type: 'text', value: `influenciam o consumo de alimentos especiais para esses consumidores.` },
+      { id: 'E', type: 'text', value: `variam na forma de apresentação de informações relevantes para esse público.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. A imagem mostra a reação de celíacos ao ler rótulos de alimentos, o que indica que, em geral, esses rótulos variam na forma de apresentar informações relevantes para esse público (alternativa E), dificultando a identificação clara da presença ou ausência de glúten. A alternativa A afirma que os rótulos trazem a informação de modo explícito, o que a reação desmente; B fala em opções de sabor; C diz que classificam o produto como adequado ao celíaco, também contrariado pela reação; e D trata de influência no consumo, aspecto não evidenciado pela imagem.`,
@@ -1527,25 +1381,11 @@ Publicado em 1979, o texto compartilha com outras obras
 da literatura brasileira escritas no período as marcas do 
 contexto em que foi produzido, como a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `referência à censura e à opressão para alegorizar 
-a falta de liberdade de expressão característica 
-da época.` },
-      { id: 'B', type: 'text', value: `valorização de situações do cotidiano para atenuar 
-os sentimentos de revolta em relação ao governo 
-instituído.` },
-      { id: 'C', type: 'text', value: `utilização de metáforas e ironias para expressar um 
-olhar crítico em relação à situação social e política 
-do país.` },
-      { id: 'D', type: 'text', value: `tendência 
-realista 
-para 
-documentar 
-com 
-verossimilhança o drama da população brasileira 
-durante o Regime Militar.` },
-      { id: 'E', type: 'text', value: `sobreposição das manifestações populares pelo 
-discurso oficial para destacar o autoritarismo do 
-momento histórico.` },
+      { id: 'A', type: 'text', value: `referência à censura e à opressão para alegorizar a falta de liberdade de expressão característica da época.` },
+      { id: 'B', type: 'text', value: `valorização de situações do cotidiano para atenuar os sentimentos de revolta em relação ao governo instituído.` },
+      { id: 'C', type: 'text', value: `utilização de metáforas e ironias para expressar um olhar crítico em relação à situação social e política do país.` },
+      { id: 'D', type: 'text', value: `tendência realista para documentar com verossimilhança o drama da população brasileira durante o Regime Militar.` },
+      { id: 'E', type: 'text', value: `sobreposição das manifestações populares pelo discurso oficial para destacar o autoritarismo do momento histórico.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. Publicado em 1979, o conto de Ivan Ângelo usa metáforas e ironias — como a repetição de 'Houve protestos' seguida de 'Proibiram os protestos' e o surgimento da 'Casa de Vidro' — para expressar um olhar crítico sobre a situação social e política do país (alternativa C) sob a ditadura. A alternativa A reduz o texto à referência alegórica à censura; B fala em atenuar a revolta, o contrário do efeito crítico; D atribui-lhe uma tendência realista documental, quando o recurso é simbólico; e E trata da sobreposição do discurso oficial às manifestações, aspecto que não resume o traço de época do fragmento.`,
@@ -1581,16 +1421,11 @@ Movimento , Porto Alegre, n. 1, 2013 (adaptado).
 No contexto apresentado, a relação entre a prática do 
 futebol e as mulheres é caracterizada por um`,
     alternatives: [
-      { id: 'A', type: 'text', value: `argumento biológico para justificar desigualdades 
-históricas e sociais.` },
-      { id: 'B', type: 'text', value: `discurso midiático que atua historicamente na 
-desconstrução do mito do sexo frágil.` },
-      { id: 'C', type: 'text', value: `apelo para a preservação do futebol como uma 
-modalidade praticada apenas pelos homens.` },
-      { id: 'D', type: 'text', value: `olhar feminista que qualifica o futebol como uma 
-atividade masculinizante para as mulheres.` },
-      { id: 'E', type: 'text', value: `receio de que sua inserção subverta o “esporte-rei” ao 
-demonstrarem suas capacidades de jogo.` },
+      { id: 'A', type: 'text', value: `argumento biológico para justificar desigualdades históricas e sociais.` },
+      { id: 'B', type: 'text', value: `discurso midiático que atua historicamente na desconstrução do mito do sexo frágil.` },
+      { id: 'C', type: 'text', value: `apelo para a preservação do futebol como uma modalidade praticada apenas pelos homens.` },
+      { id: 'D', type: 'text', value: `olhar feminista que qualifica o futebol como uma atividade masculinizante para as mulheres.` },
+      { id: 'E', type: 'text', value: `receio de que sua inserção subverta o “esporte-rei” ao demonstrarem suas capacidades de jogo.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto mostra que o 'mito do sexo frágil', apoiado em supostos argumentos científicos, foi usado para afastar as mulheres do esporte, sobretudo do futebol, sob o temor de masculinizar o corpo feminino. A relação entre futebol e mulheres é caracterizada, assim, por um argumento biológico usado para justificar desigualdades históricas e sociais (alternativa A). A alternativa B afirma que o discurso midiático desconstrói o mito, o oposto do texto; C defende o futebol como esporte só masculino; D fala em olhar feminista; e E, em receio de subversão do 'esporte-rei' — leituras que distorcem o sentido do texto.`,
@@ -1602,43 +1437,24 @@ demonstrarem suas capacidades de jogo.` },
     exam: 'enem',
     year: 2018,
     day: 1,
-    text: `Farejador de Plágio: uma ferramenta contra a cópia ilegal 
-No 
-mundo 
-acadêmico 
-ou 
-nos 
-veículos 
-de 
-comunicação, as cópias ilegais podem surgir de diversas 
-maneiras, sendo integrais, parciais ou paráfrases. Para 
-ajudar a combater esse crime, o professor Maximiliano 
-Zambonatto 
-Pezzin, 
-engenheiro 
-de 
-computação, 
-desenvolveu junto com os seus alunos o programa 
-Farejador de Plágio. 
-O programa é capaz de detectar: trechos contínuos 
-e fragmentados, frases soltas, partes de textos 
-reorganizadas, frases reescritas, mudanças na ordem 
-dos períodos e erros fonéticos e sintáticos. 
-Mas 
-como 
-o 
-programa 
-realmente 
-funciona? 
-Considerando o texto como uma sequência de palavras, 
-a ferramenta analisa e busca trecho por trecho nos sites 
-de busca, assim como um professor desconfiado de um 
-aluno faria. A diferença é que o programa permite que se 
-pesquise em vários buscadores, gerando assim muito 
-mais resultados. 
-Disponível em: http://reporterunesp.jor.br. Acesso em: 19 mar. 2018. 
-Segundo o texto, a ferramenta Farejador de Plágio 
-alcança seu objetivo por meio da`,
+    text: `Farejador de Plágio: uma ferramenta contra a cópia ilegal No
+mundo acadêmico ou nos veículos de comunicação, as cópias
+ilegais podem surgir de diversas maneiras, sendo integrais,
+parciais ou paráfrases. Para ajudar a combater esse crime, o
+professor Maximiliano Zambonatto Pezzin, engenheiro de
+computação, desenvolveu junto com os seus alunos o programa
+Farejador de Plágio. O programa é capaz de detectar: trechos
+contínuos e fragmentados, frases soltas, partes de textos
+reorganizadas, frases reescritas, mudanças na ordem dos
+períodos e erros fonéticos e sintáticos. Mas como o programa
+realmente funciona? Considerando o texto como uma sequência de
+palavras, a ferramenta analisa e busca trecho por trecho nos
+sites de busca, assim como um professor desconfiado de um
+aluno faria. A diferença é que o programa permite que se
+pesquise em vários buscadores, gerando assim muito mais
+resultados. Disponível em: http://reporterunesp.jor.br. Acesso
+em: 19 mar. 2018. Segundo o texto, a ferramenta Farejador de
+Plágio alcança seu objetivo por meio da`,
     alternatives: [
       { id: 'A', type: 'text', value: `seleção de cópias integrais.` },
       { id: 'B', type: 'text', value: `busca em sites especializados.` },
@@ -1706,14 +1522,8 @@ geográfica decorre do seu uso para o(a)`,
       { id: 'A', type: 'text', value: `preservação cultural dos territórios ocupados.` },
       { id: 'B', type: 'text', value: `formação humanitária da sociedade europeia.` },
       { id: 'C', type: 'text', value: `catalogação de dados úteis aos propósitos colonialistas.` },
-      { id: 'D', type: 'text', value: `desenvolvimento 
-de 
-técnicas 
-matemáticas 
-de 
-construção de cartas.` },
-      { id: 'E', type: 'text', value: `consolidação do conhecimento topográfico como 
-campo acadêmico.` },
+      { id: 'D', type: 'text', value: `desenvolvimento de técnicas matemáticas de construção de cartas.` },
+      { id: 'E', type: 'text', value: `consolidação do conhecimento topográfico como campo acadêmico.` },
     ],
     correct: 'C',
     explanation: `O discurso de 1875, proferido diante de autoridades do Estado francês, apresenta a geografia como uma suposta missão providencial de conhecer e conquistar a Terra, revelando como o saber geográfico foi instrumentalizado pelo imperialismo europeu do fim do século XIX. Nesse contexto, mapear territórios, levantar recursos e descrever povos tornava-se tarefa útil à expansão colonial, o que sustenta a alternativa C. A preservação cultural (A) e a formação humanitária (B) contrariam a lógica de dominação exaltada no texto. O desenvolvimento de técnicas matemáticas de cartografia (D) e a consolidação acadêmica da disciplina (E) reduzem a questão ao plano técnico ou institucional, ignorando o uso político-colonialista que o próprio discurso celebra.`,
@@ -1741,16 +1551,11 @@ Jorge Zahar, 2002 (adaptado).
 O acontecimento descrito vincula-se ao fenômeno 
 ocidental do(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `surgimento do monasticismo guerreiro, ocasionado 
-pelas cruzadas.` },
-      { id: 'B', type: 'text', value: `descentralização do poder eclesiástico, produzida 
-pelo feudalismo.` },
-      { id: 'C', type: 'text', value: `alastramento da peste bubônica, provocado pela 
-expansão comercial.` },
-      { id: 'D', type: 'text', value: `afirmação da fraternidade mendicante, estimulada 
-pela reforma espiritual.` },
-      { id: 'E', type: 'text', value: `criação das faculdades de medicina, promovida pelo 
-renascimento urbano.` },
+      { id: 'A', type: 'text', value: `surgimento do monasticismo guerreiro, ocasionado pelas cruzadas.` },
+      { id: 'B', type: 'text', value: `descentralização do poder eclesiástico, produzida pelo feudalismo.` },
+      { id: 'C', type: 'text', value: `alastramento da peste bubônica, provocado pela expansão comercial.` },
+      { id: 'D', type: 'text', value: `afirmação da fraternidade mendicante, estimulada pela reforma espiritual.` },
+      { id: 'E', type: 'text', value: `criação das faculdades de medicina, promovida pelo renascimento urbano.` },
     ],
     correct: 'A',
     explanation: `A transformação do Hospital de Jerusalém em instituição central da ordem, somada à observação de que sua militarização fortaleceu a vocação caritativa, remete ao surgimento das ordens religioso-militares no contexto das Cruzadas, como os hospitalários e os templários. Esses monges-guerreiros uniam voto religioso e função combatente, justificando a alternativa A. A descentralização eclesiástica do feudalismo (B) não corresponde ao fortalecimento de uma ordem centralizada pelo papa. A peste bubônica (C) é anacrônica, pois eclodiu no século XIV, e o texto trata de 1113. As fraternidades mendicantes (D) surgiram depois e não eram militarizadas, e as faculdades de medicina do renascimento urbano (E) nada têm a ver com a filiação dos hospitalários.`,
@@ -1813,16 +1618,11 @@ Lisboa: Guimarães, 1998 (adaptado).
 O texto apresenta um entendimento acerca dos elementos 
 constitutivos da atividade do filósofo, que se caracteriza por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `reunir os antagonismos das opiniões ao método 
-dialético.` },
-      { id: 'B', type: 'text', value: `ajustar a clareza do conhecimento ao inatismo das 
-ideias.` },
-      { id: 'C', type: 'text', value: `associar a certeza do intelecto à imutabilidade da 
-verdade.` },
-      { id: 'D', type: 'text', value: `conciliar o rigor da investigação à inquietude do 
-questionamento.` },
-      { id: 'E', type: 'text', value: `compatibilizar as estruturas do pensamento aos 
-princípios fundamentais.` },
+      { id: 'A', type: 'text', value: `reunir os antagonismos das opiniões ao método dialético.` },
+      { id: 'B', type: 'text', value: `ajustar a clareza do conhecimento ao inatismo das ideias.` },
+      { id: 'C', type: 'text', value: `associar a certeza do intelecto à imutabilidade da verdade.` },
+      { id: 'D', type: 'text', value: `conciliar o rigor da investigação à inquietude do questionamento.` },
+      { id: 'E', type: 'text', value: `compatibilizar as estruturas do pensamento aos princípios fundamentais.` },
     ],
     correct: 'D',
     explanation: `Para Merleau-Ponty, o filósofo caracteriza-se pela posse simultânea do gosto da evidência e do sentido da ambiguidade, movendo-se incessantemente entre saber e ignorância sem se instalar em um saber absoluto. Essa descrição concilia o rigor da investigação com a inquietude permanente do questionamento, o que corresponde à alternativa D. Reunir antagonismos ao método dialético (A) e ajustar o conhecimento ao inatismo das ideias (B) introduzem doutrinas que o texto não defende. A imutabilidade da verdade (C) e a fixação em princípios ou estruturas fundamentais (E) contradizem diretamente o movimento e a abertura à ambiguidade que, segundo o autor, definem a atividade filosófica.`,
@@ -2101,16 +1901,11 @@ Em um momento de radicalização política, a retórica no
 discurso do presidente João Goulart, proferido no comício 
 da Central do Brasil, buscava justificar a necessidade de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `conter a abertura econômica para conseguir a adesão 
-das elites.` },
-      { id: 'B', type: 'text', value: `impedir a ingerência externa para garantir a 
-conservação de direitos.` },
-      { id: 'C', type: 'text', value: `regulamentar os meios de comunicação para coibir os 
-partidos de oposição.` },
-      { id: 'D', type: 'text', value: `aprovar os projetos reformistas para atender a 
-mobilização de setores trabalhistas.` },
-      { id: 'E', type: 'text', value: `incrementar o processo de desestatização para 
-diminuir a pressão da opinião pública.` },
+      { id: 'A', type: 'text', value: `conter a abertura econômica para conseguir a adesão das elites.` },
+      { id: 'B', type: 'text', value: `impedir a ingerência externa para garantir a conservação de direitos.` },
+      { id: 'C', type: 'text', value: `regulamentar os meios de comunicação para coibir os partidos de oposição.` },
+      { id: 'D', type: 'text', value: `aprovar os projetos reformistas para atender a mobilização de setores trabalhistas.` },
+      { id: 'E', type: 'text', value: `incrementar o processo de desestatização para diminuir a pressão da opinião pública.` },
     ],
     correct: 'D',
     explanation: `No comício da Central do Brasil, às vésperas do golpe de 1964, João Goulart usou uma retórica de defesa do povo e de ataque aos privilégios para legitimar a implementação das reformas de base, atendendo à mobilização de trabalhadores e setores populares. Isso corresponde à alternativa D. Conter a abertura econômica para atrair as elites (A) contraria o tom popular e nacionalista do discurso. Impedir a ingerência externa (B) não é o eixo central da fala. Regulamentar a comunicação para coibir a oposição (C) e incrementar a desestatização (E) opõem-se ao discurso, que justamente defendia a Petrobras e o fortalecimento do Estado contra os monopólios.`,
@@ -2164,16 +1959,11 @@ Le Monde Diplomatique Brasil , out. 2015 (adaptado).
 O cenário descrito aponta para uma crise humanitária que 
 é explicada pelo processo de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `migração massiva de pessoas atingidas por catástrofe 
-natural.` },
-      { id: 'B', type: 'text', value: `hibridização cultural de grupos caracterizados por 
-homogeneidade social.` },
-      { id: 'C', type: 'text', value: `desmobilização voluntária de militantes cooptados 
-por seitas extremistas.` },
-      { id: 'D', type: 'text', value: `peregrinação religiosa de fiéis orientados por 
-lideranças fundamentalistas.` },
-      { id: 'E', type: 'text', value: `desterritorialização forçada de populações afetadas 
-por conflitos armados.` },
+      { id: 'A', type: 'text', value: `migração massiva de pessoas atingidas por catástrofe natural.` },
+      { id: 'B', type: 'text', value: `hibridização cultural de grupos caracterizados por homogeneidade social.` },
+      { id: 'C', type: 'text', value: `desmobilização voluntária de militantes cooptados por seitas extremistas.` },
+      { id: 'D', type: 'text', value: `peregrinação religiosa de fiéis orientados por lideranças fundamentalistas.` },
+      { id: 'E', type: 'text', value: `desterritorialização forçada de populações afetadas por conflitos armados.` },
     ],
     correct: 'E',
     explanation: `O cenário dos refugiados sírios em Beirute, dispersos pela cidade e abrigados precariamente sob tendas do ACNUR, retrata uma crise humanitária provocada pela fuga de populações que foram obrigadas a abandonar seu território em razão da guerra civil na Síria. Trata-se, assim, de desterritorialização forçada causada por conflitos armados, conforme a alternativa E. A catástrofe natural (A) não corresponde à causa bélica do deslocamento. A hibridização cultural (B), a desmobilização de militantes (C) e a peregrinação religiosa (D) não descrevem o caráter involuntário e emergencial da fuga de refugiados diante da violência armada.`,
@@ -2236,14 +2026,10 @@ A preocupação apresentada no texto revela um aspecto
 da condução política desse Estado identificado ao(à)`,
     alternatives: [
       { id: 'A', type: 'text', value: `abdicação da interferência militar em conflito local.` },
-      { id: 'B', type: 'text', value: `busca da preeminência étnica sobre o espaço 
-nacional.` },
-      { id: 'C', type: 'text', value: `admissão da participação proativa em blocos 
-regionais.` },
-      { id: 'D', type: 'text', value: `rompimento com os interesses geopolíticos das 
-potências globais.` },
-      { id: 'E', type: 'text', value: `compromisso com as resoluções emanadas dos 
-organismos internacionais.` },
+      { id: 'B', type: 'text', value: `busca da preeminência étnica sobre o espaço nacional.` },
+      { id: 'C', type: 'text', value: `admissão da participação proativa em blocos regionais.` },
+      { id: 'D', type: 'text', value: `rompimento com os interesses geopolíticos das potências globais.` },
+      { id: 'E', type: 'text', value: `compromisso com as resoluções emanadas dos organismos internacionais.` },
     ],
     correct: 'B',
     explanation: `O texto expõe a preocupação da esquerda sionista com a maior taxa de natalidade árabe, que, caso os territórios palestinos fossem anexados, levaria a uma maioria árabe no espaço controlado por Israel. Essa inquietação demográfica revela uma condução política voltada à manutenção da preeminência étnica judaica sobre o território nacional, como indica a alternativa B. A abdicação da interferência militar (A) e o rompimento com as potências globais (D) contrariam a atuação do Estado israelense. A admissão de participação em blocos regionais (C) e o compromisso com resoluções de organismos internacionais (E) não têm relação com o raciocínio demográfico apresentado.`,
@@ -2277,41 +2063,26 @@ para a distribuição espacial do fenômeno representado?`,
     exam: 'enem',
     year: 2018,
     day: 1,
-    text: `Outra 
-importante 
-manifestação 
-das 
-crenças 
-e tradições africanas na Colônia eram os objetos 
-conhecidos como “bolsas de mandinga”. A insegurança 
-tanto física como espiritual gerava uma necessidade 
-generalizada de proteção: das catástrofes da natureza, 
-das doenças, da má sorte, da violência dos núcleos 
-urbanos, dos roubos, das brigas, dos malefícios de 
-feiticeiros etc. Também para trazer sorte, dinheiro e até 
-atrair mulheres, o costume era corrente nas primeiras 
-décadas do século XVIII, envolvendo não apenas 
-escravos, mas também homens brancos. 
- CALAINHO, D. B. Feitiços e feiticeiros. In: FIGUEIREDO, L. História do Brasil para ocupados . 
-Rio de Janeiro: Casa da Palavra, 2013 (adaptado). 
-A prática histórico-cultural de matriz africana descrita no 
+    text: `Outra importante manifestação das crenças e tradições
+africanas na Colônia eram os objetos conhecidos como “bolsas
+de mandinga”. A insegurança tanto física como espiritual
+gerava uma necessidade generalizada de proteção: das
+catástrofes da natureza, das doenças, da má sorte, da
+violência dos núcleos urbanos, dos roubos, das brigas, dos
+malefícios de feiticeiros etc. Também para trazer sorte,
+dinheiro e até atrair mulheres, o costume era corrente nas
+primeiras décadas do século XVIII, envolvendo não apenas
+escravos, mas também homens brancos. CALAINHO, D. B. Feitiços
+e feiticeiros. In: FIGUEIREDO, L. História do Brasil para
+ocupados . Rio de Janeiro: Casa da Palavra, 2013 (adaptado). A
+prática histórico-cultural de matriz africana descrita no
 texto representava um(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `expressão do valor das festividades da população 
-pobre.` },
-      { id: 'B', type: 'text', value: `ferramenta para submeter os cativos ao trabalho 
-forçado.` },
-      { id: 'C', type: 'text', value: `estratégia de subversão do poder da monarquia 
-portuguesa.` },
-      { id: 'D', type: 'text', value: `elemento de conversão dos escravos ao catolicismo 
-romano.` },
-      { id: 'E', type: 'text', value: `instrumento 
-para 
-minimizar 
-o 
-sentimento 
-de 
-desamparo social.` },
+      { id: 'A', type: 'text', value: `expressão do valor das festividades da população pobre.` },
+      { id: 'B', type: 'text', value: `ferramenta para submeter os cativos ao trabalho forçado.` },
+      { id: 'C', type: 'text', value: `estratégia de subversão do poder da monarquia portuguesa.` },
+      { id: 'D', type: 'text', value: `elemento de conversão dos escravos ao catolicismo romano.` },
+      { id: 'E', type: 'text', value: `instrumento para minimizar o sentimento de desamparo social.` },
     ],
     correct: 'E',
     explanation: `As bolsas de mandinga, descritas como objetos de proteção difundidos entre escravizados e também brancos, respondiam a uma necessidade generalizada de segurança diante de doenças, violência, infortúnios e incertezas da vida colonial. Assim, essa prática de matriz africana funcionava como instrumento para minimizar o sentimento de desamparo social, conforme a alternativa E. A valorização de festividades (A) não corresponde ao uso protetivo dos objetos. Submeter cativos ao trabalho forçado (B) e converter escravos ao catolicismo (D) invertem o sentido da prática, de origem africana. A subversão do poder monárquico (C) atribui uma intenção política que o texto não sustenta.`,
@@ -2323,28 +2094,19 @@ desamparo social.` },
     exam: 'enem',
     year: 2018,
     day: 1,
-    text: `Os portos sempre foram respostas ao comércio 
-praticado em grande volume, que se dá via marítima, 
-lacustre 
-e 
-fluvial, 
-e 
-sofreram 
-adaptações, 
-ou 
-modernizações, de acordo com um conjunto de fatores 
-que vão desde a sua localização privilegiada frente a 
-extensas hinterlândias, passando por sua conectividade 
-com modernas redes de transportes que garantam 
-acessibilidade, associados, no atual momento, à 
-tecnologia, que os transformam em pontas de lança de 
-uma economia globalizada que comprime o tempo em 
-nome da produtividade e da competitividade. 
-ROCHA NETO, J. M.; CRAVIDÃO, F. D. Portos no contexto do meio técnico. 
- Mercator , n. 2, maio-ago. 2014 (adaptado). 
-Uma mudança que permitiu aos portos adequarem-se 
-às novas necessidades comerciais apontadas no 
-texto foi a`,
+    text: `Os portos sempre foram respostas ao comércio praticado em
+grande volume, que se dá via marítima, lacustre e fluvial, e
+sofreram adaptações, ou modernizações, de acordo com um
+conjunto de fatores que vão desde a sua localização
+privilegiada frente a extensas hinterlândias, passando por sua
+conectividade com modernas redes de transportes que garantam
+acessibilidade, associados, no atual momento, à tecnologia,
+que os transformam em pontas de lança de uma economia
+globalizada que comprime o tempo em nome da produtividade e da
+competitividade. ROCHA NETO, J. M.; CRAVIDÃO, F. D. Portos no
+contexto do meio técnico. Mercator , n. 2, maio-ago. 2014
+(adaptado). Uma mudança que permitiu aos portos adequarem-se
+às novas necessidades comerciais apontadas no texto foi a`,
     alternatives: [
       { id: 'A', type: 'text', value: `intensificação do uso de contêineres.` },
       { id: 'B', type: 'text', value: `compactação das áreas de estocagem.` },
@@ -2379,8 +2141,7 @@ características a`,
       { id: 'B', type: 'text', value: `conciliação entre revelação e metafísica platônica.` },
       { id: 'C', type: 'text', value: `vinculação entre escolástica e práticas de pesquisa.` },
       { id: 'D', type: 'text', value: `separação entre teologia e fundamentalismo religioso.` },
-      { id: 'E', type: 'text', value: `contraposição entre clericalismo e liberdade de 
-pensamento.` },
+      { id: 'E', type: 'text', value: `contraposição entre clericalismo e liberdade de pensamento.` },
     ],
     correct: 'E',
     explanation: `O texto situa no século XVIII a aliança entre razão e experimentação como caminho do conhecimento científico, no ambiente do Iluminismo em pleno Antigo Regime. Essa discussão filosófica caracterizava-se pela contraposição entre o clericalismo tradicional e a defesa da liberdade de pensamento, conforme a alternativa E. A aproximação entre inovação e saberes antigos (A) e a conciliação com a metafísica platônica (B) não traduzem o espírito crítico iluminista. A vinculação entre escolástica e pesquisa (C) é contraditória, pois o novo método se opunha à escolástica. A separação entre teologia e fundamentalismo (D) não capta o essencial, que é o embate entre a tutela religiosa e a autonomia da razão.`,
@@ -2392,33 +2153,7 @@ pensamento.` },
     exam: 'enem',
     year: 2018,
     day: 1,
-    text: `Precipitações (mm) 
-90 
-Vazão em áreas urbanizadas 
-80 
-70 
-60 
-50 
-Vazão em áreas não urbanizadas 
-40 
-30 
-20 
-10 
-Tempo (h) 
-0 
-1 
-2 
-3 
-4 
-5 
-6 
-7 
-8 
-9 
-10 11 12 13 14 15 16 
-Disponível em: www.biologiasur.org. Acesso em: 4 jul. 2015 (adaptado). 
-A dinâmica hidrológica expressa no gráfico demonstra 
-que o processo de urbanização promove a`,
+    text: ``,
     images: ['/enem/2018/images/enem_2018_d1_q67.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `redução do volume dos rios.` },
@@ -2454,16 +2189,11 @@ No contexto da conquista, conforme análise apresentada
 no texto, uma estratégia para superar as disparidades 
 levantadas foi`,
     alternatives: [
-      { id: 'A', type: 'text', value: `implantar as missões cristãs entre as comunidades 
-submetidas.` },
-      { id: 'B', type: 'text', value: `utilizar a superioridade física dos mercenários 
-africanos.` },
-      { id: 'C', type: 'text', value: `explorar as rivalidades existentes entre os povos 
-nativos.` },
-      { id: 'D', type: 'text', value: `introduzir vetores para a disseminação de doenças 
-epidêmicas.` },
-      { id: 'E', type: 'text', value: `comprar terras para o enfraquecimento das teocracias 
-autóctones.` },
+      { id: 'A', type: 'text', value: `implantar as missões cristãs entre as comunidades submetidas.` },
+      { id: 'B', type: 'text', value: `utilizar a superioridade física dos mercenários africanos.` },
+      { id: 'C', type: 'text', value: `explorar as rivalidades existentes entre os povos nativos.` },
+      { id: 'D', type: 'text', value: `introduzir vetores para a disseminação de doenças epidêmicas.` },
+      { id: 'E', type: 'text', value: `comprar terras para o enfraquecimento das teocracias autóctones.` },
     ],
     correct: 'C',
     explanation: `Segundo a análise de Todorov, a espantosa vitória de Cortez sobre o numeroso império asteca explica-se, em grande parte, pela capacidade espanhola de explorar as rivalidades existentes entre os povos nativos, aliando-se a grupos descontentes com a dominação mexica. Isso corresponde à alternativa C. A implantação de missões cristãs (A) e a compra de terras (E) ocorreram em outros momentos e não resolvem a disparidade numérica inicial. A superioridade de mercenários africanos (B) não figura na explicação do autor, e a disseminação de doenças (D), embora relevante historicamente, não é apresentada no texto como estratégia deliberada para superar a inferioridade numérica.`,
@@ -2553,25 +2283,11 @@ MAESTRI, M. 1910: a revolta dos marinheiros - uma saga negra. São Paulo: Global
 A eclosão desse conflito foi resultado da tensão acumulada 
 na Marinha do Brasil pelo(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `engajamento de civis analfabetos após a emergência 
-de guerras externas.` },
-      { id: 'B', type: 'text', value: `insatisfação 
-de 
-militares 
-positivistas 
-após 
-a 
-consolidação da política dos governadores.` },
-      { id: 'C', type: 'text', value: `rebaixamento de comandantes veteranos após a 
-repressão a insurreições milenaristas.` },
-      { id: 'D', type: 'text', value: `sublevação das classes populares do campo após a 
-instituição do alistamento obrigatório.` },
-      { id: 'E', type: 'text', value: `manutenção 
-da 
-mentalidade 
-escravocrata 
-da 
-oficialidade após a queda do regime imperial.` },
+      { id: 'A', type: 'text', value: `engajamento de civis analfabetos após a emergência de guerras externas.` },
+      { id: 'B', type: 'text', value: `insatisfação de militares positivistas após a consolidação da política dos governadores.` },
+      { id: 'C', type: 'text', value: `rebaixamento de comandantes veteranos após a repressão a insurreições milenaristas.` },
+      { id: 'D', type: 'text', value: `sublevação das classes populares do campo após a instituição do alistamento obrigatório.` },
+      { id: 'E', type: 'text', value: `manutenção da mentalidade escravocrata da oficialidade após a queda do regime imperial.` },
     ],
     correct: 'E',
     explanation: `A Revolta da Chibata, de 1910, eclodiu porque, mesmo após a Proclamação da República e a abolição, a Marinha preservava castigos físicos como a chibata, impostos sobretudo a marinheiros negros por uma oficialidade de mentalidade escravocrata. A tensão acumulada decorreu, portanto, da manutenção dessa mentalidade após a queda do regime imperial, conforme a alternativa E. O engajamento de civis analfabetos em guerras externas (A) e o alistamento obrigatório (D) não originaram o conflito. A insatisfação de militares positivistas (B) e a repressão a insurreições milenaristas (C) referem-se a outros episódios e não explicam a revolta contra os castigos corporais.`,
@@ -2583,26 +2299,20 @@ oficialidade após a queda do regime imperial.` },
     exam: 'enem',
     year: 2018,
     day: 1,
-    text: `Uma 
-pesquisa 
-realizada 
-por 
-Carolina 
-Levis, 
-especialista em ecologia do Instituto Nacional de 
-Pesquisas da Amazônia, e publicada na revista Science , 
-demonstra que as espécies vegetais domesticadas pelas 
-civilizações pré-colombianas são as mais dominantes. 
-“A domesticação de plantas na floresta começou há mais 
-de 8 000 anos. Primeiro eram selecionadas as plantas 
-com características que poderiam ser úteis ao homem e 
-em um segundo momento era feita a propagação dessas 
-espécies. Começaram a cultivá-las em pátios e jardins, 
-por meio de um processo quase intuitivo de seleção”. 
-OLIVEIRA, J. Indígenas foram os primeiros a alterar o ecossistema da Amazônia . 
-Disponível em: https://brasil.elpais.com. Acesso em: 11 dez. 2017 (adaptado). 
-O texto apresenta um novo olhar sobre a configuração da 
-Floresta Amazônica por romper com a ideia de`,
+    text: `Uma pesquisa realizada por Carolina Levis, especialista em
+ecologia do Instituto Nacional de Pesquisas da Amazônia, e
+publicada na revista Science , demonstra que as espécies
+vegetais domesticadas pelas civilizações pré-colombianas são
+as mais dominantes. “A domesticação de plantas na floresta
+começou há mais de 8 000 anos. Primeiro eram selecionadas as
+plantas com características que poderiam ser úteis ao homem e
+em um segundo momento era feita a propagação dessas espécies.
+Começaram a cultivá-las em pátios e jardins, por meio de um
+processo quase intuitivo de seleção”. OLIVEIRA, J. Indígenas
+foram os primeiros a alterar o ecossistema da Amazônia .
+Disponível em: https://brasil.elpais.com. Acesso em: 11 dez.
+2017 (adaptado). O texto apresenta um novo olhar sobre a
+configuração da Floresta Amazônica por romper com a ideia de`,
     alternatives: [
       { id: 'A', type: 'text', value: `primazia de saberes locais.` },
       { id: 'B', type: 'text', value: `ausência de ação antrópica.` },
@@ -2663,12 +2373,9 @@ vigência do Estado Novo com o intuito de`,
     alternatives: [
       { id: 'A', type: 'text', value: `destacar a sabedoria inata do líder governamental.` },
       { id: 'B', type: 'text', value: `atender a necessidade familiar de obediência infantil.` },
-      { id: 'C', type: 'text', value: `promover o desenvolvimento consistente das atitudes 
-solidárias.` },
-      { id: 'D', type: 'text', value: `conquistar a aprovação política por meio do apelo 
-carismático.` },
-      { id: 'E', type: 'text', value: `estimular o interesse acadêmico por meio de 
-exercícios intelectuais.` },
+      { id: 'C', type: 'text', value: `promover o desenvolvimento consistente das atitudes solidárias.` },
+      { id: 'D', type: 'text', value: `conquistar a aprovação política por meio do apelo carismático.` },
+      { id: 'E', type: 'text', value: `estimular o interesse acadêmico por meio de exercícios intelectuais.` },
     ],
     correct: 'D',
     explanation: `A imagem impressa em cartilha escolar durante o Estado Novo integrava a propaganda política do regime, que buscava difundir, desde a infância, uma imagem positiva e carismática de Getúlio Vargas. O intuito era conquistar a aprovação política por meio do apelo carismático, associando o líder a sentimentos de admiração e confiança, conforme a alternativa D. Destacar a sabedoria inata do líder (A) é um aspecto subordinado a esse objetivo maior de legitimação. Atender à obediência infantil familiar (B), promover atitudes solidárias (C) e estimular o interesse acadêmico (E) não correspondem à função propagandística de construção da figura do governante.`,
@@ -2725,10 +2432,8 @@ evidenciava o(a)`,
       { id: 'A', type: 'text', value: `negligência das religiões cristãs sobre as moléstias.` },
       { id: 'B', type: 'text', value: `desconhecimento das origens das crenças tradicionais.` },
       { id: 'C', type: 'text', value: `preferência da população pelos tratamentos alopáticos.` },
-      { id: 'D', type: 'text', value: `abandono pela comunidade das práticas terapêuticas 
-de magia.` },
-      { id: 'E', type: 'text', value: `condenação pela ciência dos conhecimentos populares 
-de cura.` },
+      { id: 'D', type: 'text', value: `abandono pela comunidade das práticas terapêuticas de magia.` },
+      { id: 'E', type: 'text', value: `condenação pela ciência dos conhecimentos populares de cura.` },
     ],
     correct: 'E',
     explanation: `O Código Penal de 1890 criminalizava o curandeirismo, a magia e práticas terapêuticas não autorizadas, refletindo o projeto de afirmação da medicina científica oficial no início da República. A legislação evidenciava, assim, a condenação pela ciência dos conhecimentos populares de cura, conforme a alternativa E. A negligência das religiões cristãs (A) e o desconhecimento das crenças tradicionais (B) não são o que a lei expressa. A preferência da população pela alopatia (C) é contrariada pela persistência dessas práticas, e o abandono da magia pela comunidade (D) também não se sustenta, pois era justamente a difusão desses costumes que a lei procurava reprimir.`,
@@ -2885,30 +2590,23 @@ compreende a`,
     exam: 'enem',
     year: 2018,
     day: 1,
-    text: `TEXTO I 
-Há mais de duas décadas, os cientistas e ambientalistas têm alertado para o fato de a água doce ser um recurso 
-escasso em nosso planeta. Desde o começo de 2014, o Sudeste do Brasil adquiriu uma clara percepção dessa 
-realidade em função da seca. 
-TEXTO II 
-Dinâmicas atmosféricas no Brasil 
-Elementos relevantes ao transporte de umidade na América do Sul a leste dos Andes pelos Jatos de Baixos Níveis 
-(JBN), Frentes Frias (FF) e transporte de umidade do Atlântico Sul, assim como a presença da Zona de Convergência 
-do Atlântico Sul (ZCAS), para um verão normal e para o verão seco de 2014. “A” representa o centro da anomalia de 
-alta pressão atmosférica. 
-Amazônia 
-Verão normal 
-JBN 
-0° 
-Fluxo do 
-Oceano Atlântico 
-Solo úmido 
-ZCAS 
-20° S 
-FF 
-40° S 
-60° W 
-MARENGO, J. A. et al. A seca e a crise hídrica de 2014-2015 em São Paulo. Revista USP, n. 106, 2015 (adaptado). 
-De acordo com as informações apresentadas, a seca de 2014, no Sudeste, teve como causa natural o(a)`,
+    text: `TEXTO I Há mais de duas décadas, os cientistas e
+ambientalistas têm alertado para o fato de a água doce ser um
+recurso escasso em nosso planeta. Desde o começo de 2014, o
+Sudeste do Brasil adquiriu uma clara percepção dessa realidade
+em função da seca. TEXTO II Dinâmicas atmosféricas no Brasil
+Elementos relevantes ao transporte de umidade na América do
+Sul a leste dos Andes pelos Jatos de Baixos Níveis (JBN),
+Frentes Frias (FF) e transporte de umidade do Atlântico Sul,
+assim como a presença da Zona de Convergência do Atlântico Sul
+(ZCAS), para um verão normal e para o verão seco de 2014. “A”
+representa o centro da anomalia de alta pressão atmosférica.
+Amazônia Verão normal JBN 0° Fluxo do Oceano Atlântico Solo
+úmido ZCAS 20° S FF 40° S 60° W MARENGO, J. A. et al. A seca e
+a crise hídrica de 2014-2015 em São Paulo. Revista USP, n.
+106, 2015 (adaptado). De acordo com as informações
+apresentadas, a seca de 2014, no Sudeste, teve como causa
+natural o(a)`,
     images: ['/enem/2018/images/enem_2018_d1_q82.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `constituição de frentes quentes barrando as chuvas convectivas.` },
@@ -2997,16 +2695,11 @@ A decisão do califa Al-Mansur (754-775) de construir
 Bagdá nesse local orientou-se pela`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `disponibilidade de rotas e terras férteis como base da 
-dominação política.` },
-      { id: 'B', type: 'text', value: `proximidade de áreas populosas como afirmação da 
-superioridade bélica.` },
-      { id: 'C', type: 'text', value: `submissão à hierarquia e à lei islâmica como controle 
-do poder real.` },
-      { id: 'D', type: 'text', value: `fuga da península arábica como afastamento dos 
-conflitos sucessórios.` },
-      { id: 'E', type: 'text', value: `ocupação de região fronteiriça como contenção do 
-avanço mongol.` },
+      { id: 'A', type: 'text', value: `disponibilidade de rotas e terras férteis como base da dominação política.` },
+      { id: 'B', type: 'text', value: `proximidade de áreas populosas como afirmação da superioridade bélica.` },
+      { id: 'C', type: 'text', value: `submissão à hierarquia e à lei islâmica como controle do poder real.` },
+      { id: 'D', type: 'text', value: `fuga da península arábica como afastamento dos conflitos sucessórios.` },
+      { id: 'E', type: 'text', value: `ocupação de região fronteiriça como contenção do avanço mongol.` },
     ],
     correct: 'A',
     explanation: `A escolha de Bagdá por Al-Mansur baseou-se na posição estratégica junto ao Eufrates, ao Tigre e a uma rede de canais, que permitiria abastecer o exército e a população e escoar mercadorias, consolidando o poder do califado abássida. A decisão orientou-se, assim, pela disponibilidade de rotas e terras férteis como base da dominação política, conforme a alternativa A. A proximidade de áreas populosas como afirmação bélica (B) e a submissão à lei islâmica (C) não são o critério enfatizado no texto. A fuga da península arábica (D) não é mencionada, e a contenção do avanço mongol (E) é anacrônica, pois os mongóis só ameaçariam a região séculos depois.`,
@@ -3072,33 +2765,7 @@ suposta natureza feminina:`,
     exam: 'enem',
     year: 2018,
     day: 1,
-    text: `Participação percentual do extrativismo vegetal e da silvicultura no valor 
-da produção primária florestal - Brasil - 1996-2014 
-% 
-90,0 
-80,0 
-70,0 
-60,0 
-50,0 
-40,0 
-30,0 
-20,0 
-10,0 
-0,0 
-1996 
-1997 
-1998 
-1999 
-2000 
-2001 
-2002 
-2003 
-2004 
-Silvicultura 
-Extrativismo vegetal 
-IBGE. Produção da extração vegetal e da silvicultura . Rio de Janeiro: IBGE, 2014 (adaptado). 
-Considerando as diferenças entre extrativismo vegetal e silvicultura, a variação das curvas do gráfico foi influenciada 
-pela tendência de`,
+    text: ``,
     images: ['/enem/2018/images/enem_2018_d1_q88.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `conservação do bioma nativo.` },

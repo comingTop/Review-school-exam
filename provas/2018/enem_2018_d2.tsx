@@ -62,29 +62,20 @@ O volume de etanol combustível, em litro, consumido no percurso de volta é mai
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Em 1938 o arqueólogo alemão Wilhelm König, diretor 
-do Museu Nacional do Iraque, encontrou um objeto 
-estranho na coleção da instituição, que poderia ter sido 
-usado como uma pilha, similar às utilizadas em nossos 
-dias. A suposta pilha, datada de cerca de 200 a.C., é 
-constituída de um pequeno vaso de barro (argila) no qual 
-foram instalados um tubo de cobre, uma barra de ferro 
-(aparentemente corroída por ácido) e uma tampa de 
-betume (asfalto), conforme ilustrado. Considere os
-potenciais-padrão de redução: E(Fe²⁺|Fe) = −0,44 V;
-E(H⁺|H₂) = 0,00 V; e E(Cu²⁺|Cu) = +0,34 V.
-Tampa de 
-betume 
-Barra de ferro 
-Tubo de cobre 
-Vestígio 
-de ácido 
-Vaso de 
-barro 
-As pilhas de Bagdá e a acupuntura . Disponível em: http://jornalggn.com.br. 
-Acesso em: 14 dez. 2014 (adaptado). 
-Nessa suposta pilha, qual dos componentes atuaria como 
-cátodo?`,
+    text: `Em 1938 o arqueólogo alemão Wilhelm König, diretor do Museu
+Nacional do Iraque, encontrou um objeto estranho na coleção da
+instituição, que poderia ter sido usado como uma pilha,
+similar às utilizadas em nossos dias. A suposta pilha, datada
+de cerca de 200 a.C., é constituída de um pequeno vaso de
+barro (argila) no qual foram instalados um tubo de cobre, uma
+barra de ferro (aparentemente corroída por ácido) e uma tampa
+de betume (asfalto), conforme ilustrado. Considere os
+potenciais-padrão de redução: E(Fe²⁺|Fe) = −0,44 V; E(H⁺|H₂) =
+0,00 V; e E(Cu²⁺|Cu) = +0,34 V. Tampa de betume Barra de ferro
+Tubo de cobre Vestígio de ácido Vaso de barro As pilhas de
+Bagdá e a acupuntura . Disponível em: http://jornalggn.com.br.
+Acesso em: 14 dez. 2014 (adaptado). Nessa suposta pilha, qual
+dos componentes atuaria como cátodo?`,
     images: ['/enem/2018/images/enem_2018_d2_q93.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `A tampa de betume.` },
@@ -128,23 +119,18 @@ citado que atua no catabolismo induzirá o organismo a`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Usando um densímetro cuja menor divisão da escala, 
-isto é, a diferença entre duas marcações consecutivas, 
-é de 5,0 × 10⁻² g/cm³, um estudante realizou um teste 
-de densidade: colocou este instrumento na água pura e 
-observou que ele atingiu o repouso na posição mostrada. 
-Legenda: 
-Densímetro 
-Água 
-Em dois outros recipientes A e B contendo 2 litros de 
-água pura, em cada um, ele adicionou 100 g e 200 g de 
-NaCl, respectivamente. 
-Quando o cloreto de sódio é adicionado à água 
-pura ocorre sua dissociação formando os íons Na⁺ e
-Cl⁻. Considere que esses íons ocupam os espaços 
-intermoleculares na solução. 
-Nestes recipientes, a posição de equilíbrio do densímetro 
-está representada em:`,
+    text: `Usando um densímetro cuja menor divisão da escala, isto é, a
+diferença entre duas marcações consecutivas, é de 5,0 × 10⁻²
+g/cm³, um estudante realizou um teste de densidade: colocou
+este instrumento na água pura e observou que ele atingiu o
+repouso na posição mostrada. Legenda: Densímetro Água Em dois
+outros recipientes A e B contendo 2 litros de água pura, em
+cada um, ele adicionou 100 g e 200 g de NaCl, respectivamente.
+Quando o cloreto de sódio é adicionado à água pura ocorre sua
+dissociação formando os íons Na⁺ e Cl⁻. Considere que esses
+íons ocupam os espaços intermoleculares na solução. Nestes
+recipientes, a posição de equilíbrio do densímetro está
+representada em:`,
     images: ['/enem/2018/images/enem_2018_d2_q95.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2018/images/enem_2018_d2_q95_A.jpg` },
@@ -208,8 +194,7 @@ A etiqueta funciona sem pilhas porque o campo`,
       { id: 'B', type: 'text', value: `elétrico da onda de rádio cria uma tensão na bobina.` },
       { id: 'C', type: 'text', value: `magnético da onda de rádio induz corrente na bobina.` },
       { id: 'D', type: 'text', value: `magnético da onda de rádio aquece os fios da bobina.` },
-      { id: 'E', type: 'text', value: `magnético da onda de rádio diminui a ressonância no 
-interior da bobina.` },
+      { id: 'E', type: 'text', value: `magnético da onda de rádio diminui a ressonância no interior da bobina.` },
     ],
     correct: 'C',
     explanation: `A onda de rádio emitida pelo leitor é uma onda eletromagnética cujo campo magnético variável atravessa a bobina da etiqueta. Pela lei de Faraday, essa variação de fluxo magnético induz uma corrente elétrica na espira, que alimenta o microprocessador sem necessidade de bateria. É, portanto, a indução eletromagnética que faz a etiqueta funcionar. Portanto, a resposta é que o campo magnético da onda de rádio induz corrente na bobina (alternativa C).`,
@@ -250,31 +235,26 @@ efetiva porque`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `A identificação de riscos de produtos perigosos para o 
-transporte rodoviário é obrigatória e realizada por meio da 
-sinalização composta por um painel de segurança, de cor 
-alaranjada, e um rótulo de risco. As informações inseridas 
-no painel de segurança e no rótulo de risco, conforme 
-determina a legislação, permitem que se identifique o 
-produto transportado e os perigos a ele associados. 
-A sinalização mostrada identifica uma substância que 
-está sendo transportada em um caminhão. 
-268 
-1005 
-GAS 
-TÓXICO 
-2 
-Os três algarismos da parte superior do painel indicam 
-o “Número de risco”. O número 268 indica tratar-se de um 
-gás (2), tóxico (6) e corrosivo (8). Os quatro dígitos da 
-parte inferior correspondem ao “Número ONU”, que 
-identifica o produto transportado. 
-BRASIL. Resolução n. 420 , de 12/02/2004, da Agência Nacional de Transportes Terrestres 
-(ANTT)/Ministério dos Transportes (adaptado). 
-ABNT. NBR 7500 : identificação para o transporte terrestre, manuseio, movimentação e 
-armazenamento de produtos. Rio de Janeiro, 2004 (adaptado). 
-Considerando a identificação apresentada no caminhão, 
-o código 1005 corresponde à substância`,
+    text: `A identificação de riscos de produtos perigosos para o
+transporte rodoviário é obrigatória e realizada por meio da
+sinalização composta por um painel de segurança, de cor
+alaranjada, e um rótulo de risco. As informações inseridas no
+painel de segurança e no rótulo de risco, conforme determina a
+legislação, permitem que se identifique o produto transportado
+e os perigos a ele associados. A sinalização mostrada
+identifica uma substância que está sendo transportada em um
+caminhão. 268 1005 GAS TÓXICO 2 Os três algarismos da parte
+superior do painel indicam o “Número de risco”. O número 268
+indica tratar-se de um gás (2), tóxico (6) e corrosivo (8). Os
+quatro dígitos da parte inferior correspondem ao “Número ONU”,
+que identifica o produto transportado. BRASIL. Resolução n.
+420 , de 12/02/2004, da Agência Nacional de Transportes
+Terrestres (ANTT)/Ministério dos Transportes (adaptado). ABNT.
+NBR 7500 : identificação para o transporte terrestre,
+manuseio, movimentação e armazenamento de produtos. Rio de
+Janeiro, 2004 (adaptado). Considerando a identificação
+apresentada no caminhão, o código 1005 corresponde à
+substância`,
     images: ['/enem/2018/images/enem_2018_d2_q99.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `eteno (C₂ H₄ ).` },
@@ -302,18 +282,10 @@ Porto Alegre: Artmed, 2011 (adaptado).
 A ausência dessa proteína poderá favorecer a`,
     alternatives: [
       { id: 'A', type: 'text', value: `redução da síntese de DNA, acelerando o ciclo celular.` },
-      { id: 'B', type: 'text', value: `saída imediata do ciclo celular, antecipando a proteção 
-do DNA.` },
-      { id: 'C', type: 'text', value: `ativação de outras proteínas reguladoras, induzindo 
-a apoptose.` },
-      { id: 'D', type: 'text', value: `manutenção da estabilidade genética, favorecendo a 
-longevidade.` },
-      { id: 'E', type: 'text', value: `proliferação 
-celular 
-exagerada, 
-resultando 
-na 
-formação de um tumor.` },
+      { id: 'B', type: 'text', value: `saída imediata do ciclo celular, antecipando a proteção do DNA.` },
+      { id: 'C', type: 'text', value: `ativação de outras proteínas reguladoras, induzindo a apoptose.` },
+      { id: 'D', type: 'text', value: `manutenção da estabilidade genética, favorecendo a longevidade.` },
+      { id: 'E', type: 'text', value: `proliferação celular exagerada, resultando na formação de um tumor.` },
     ],
     correct: 'E',
     explanation: `A proteína p53 detém o ciclo celular diante de danos no DNA, permitindo o reparo, ou induz a apoptose quando o dano é irreparável, atuando como supressora de tumor. Na sua ausência, células com DNA danificado prosseguem no ciclo e se dividem sem controle. O acúmulo dessas divisões descontroladas favorece a formação de tumores. Portanto, a ausência de p53 favorece a proliferação celular exagerada, resultando na formação de um tumor (alternativa E).`,
@@ -331,10 +303,8 @@ por animais roedores, aves, répteis e artrópodes.
 Uma adaptação, associada a esse bioma, presente nos 
 seres vivos dos grupos citados é o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `existência de numerosas glândulas sudoríparas na 
-epiderme.` },
-      { id: 'B', type: 'text', value: `eliminação de excretas nitrogenadas de forma 
-concentrada.` },
+      { id: 'A', type: 'text', value: `existência de numerosas glândulas sudoríparas na epiderme.` },
+      { id: 'B', type: 'text', value: `eliminação de excretas nitrogenadas de forma concentrada.` },
       { id: 'C', type: 'text', value: `desenvolvimento do embrião no interior de ovo com casca.` },
       { id: 'D', type: 'text', value: `capacidade de controlar a temperatura corporal.` },
       { id: 'E', type: 'text', value: `respiração realizada por pulmões foliáceos.` },
@@ -460,10 +430,8 @@ deve-se a`,
       { id: 'A', type: 'text', value: `terem elétrons no subnível f .` },
       { id: 'B', type: 'text', value: `serem elementos de transição interna.` },
       { id: 'C', type: 'text', value: `pertencerem ao mesmo grupo na tabela periódica.` },
-      { id: 'D', type: 'text', value: `terem seus elétrons mais externos nos níveis 4 e 5, 
-respectivamente.` },
-      { id: 'E', type: 'text', value: `estarem localizados na família dos alcalinos terrosos 
-e alcalinos, respectivamente.` },
+      { id: 'D', type: 'text', value: `terem seus elétrons mais externos nos níveis 4 e 5, respectivamente.` },
+      { id: 'E', type: 'text', value: `estarem localizados na família dos alcalinos terrosos e alcalinos, respectivamente.` },
     ],
     correct: 'C',
     explanation: `Nb (Z = 41) e Ta (Z = 73) têm propriedades químicas e físicas muito semelhantes porque pertencem ao mesmo grupo da tabela periódica (grupo 5), apresentando o mesmo número de elétrons na camada de valência. Elementos de um mesmo grupo têm configuração de valência análoga, o que determina comportamento químico parecido. Eles são metais de transição (bloco d), e não de transição interna nem alcalinos ou alcalino-terrosos. Portanto, a similaridade deve-se a pertencerem ao mesmo grupo na tabela periódica (alternativa C).`,
@@ -475,29 +443,24 @@ e alcalinos, respectivamente.` },
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `O processo de formação de novas espécies é lento e repleto de nuances e estágios intermediários, havendo uma 
-diminuição da viabilidade entre cruzamentos. Assim, plantas originalmente de uma mesma espécie que não cruzam 
-mais entre si podem ser consideradas como uma espécie se diferenciando. Um pesquisador realizou cruzamentos 
-entre nove populações - denominadas de acordo com a localização onde são encontradas - de uma espécie 
-de orquídea ( Epidendrum denticulatum ). No diagrama estão os resultados dos cruzamentos entre as populações. 
-Considere que o doador fornece o pólen para o receptor. 
-RESULTADOS DOS 
-CRUZAMENTOS 
-PETI 
-PETI 
-PÃO DE 
-AÇÚCAR 
-ITIRAPINA 
-ITAPEVA 
-BERTIOGA 
-MARAMBAIA 
-MASSAMBABA 
-DOADOR RECEPTOR - Polinização induzida bem-sucedida 
-DOADOR RECEPTOR - Polinização induzida inviável ou nula 
-Mata Atlântica 
-Cerrado 
-FIORAVANTI, C. Os primeiros passos de novas espécies: plantas e animais se diferenciam por meio de mecanismos surpreendentes. Pesquisa Fapesp , out. 2013 (adaptado). 
-Em populações de quais localidades se observa um processo de especiação evidente?`,
+    text: `O processo de formação de novas espécies é lento e repleto de
+nuances e estágios intermediários, havendo uma diminuição da
+viabilidade entre cruzamentos. Assim, plantas originalmente de
+uma mesma espécie que não cruzam mais entre si podem ser
+consideradas como uma espécie se diferenciando. Um pesquisador
+realizou cruzamentos entre nove populações - denominadas de
+acordo com a localização onde são encontradas - de uma espécie
+de orquídea ( Epidendrum denticulatum ). No diagrama estão os
+resultados dos cruzamentos entre as populações. Considere que
+o doador fornece o pólen para o receptor. RESULTADOS DOS
+CRUZAMENTOS PETI PETI PÃO DE AÇÚCAR ITIRAPINA ITAPEVA BERTIOGA
+MARAMBAIA MASSAMBABA DOADOR RECEPTOR - Polinização induzida
+bem-sucedida DOADOR RECEPTOR - Polinização induzida inviável
+ou nula Mata Atlântica Cerrado FIORAVANTI, C. Os primeiros
+passos de novas espécies: plantas e animais se diferenciam por
+meio de mecanismos surpreendentes. Pesquisa Fapesp , out. 2013
+(adaptado). Em populações de quais localidades se observa um
+processo de especiação evidente?`,
     images: ['/enem/2018/images/enem_2018_d2_q106.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Bertioga e Marambaia; Alcobaça e Olivença.` },
@@ -538,29 +501,7 @@ Um dos benefícios dessa forma de plantio é a`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Ao pesquisar um resistor feito de um novo tipo 
-de material, um cientista observou o comportamento 
-mostrado no gráfico tensão versus corrente. 
-120 
-100 
-80 
-Tensão (V) 
-60 
-40 
-20 
-0 
-1 
-2 
-3 
-4 
-5 
-6 
-7 
-Corrente (A) 
-Após a análise do gráfico, ele concluiu que a tensão 
-em função da corrente é dada pela equação V = 10i + i² .
-O gráfico da resistência elétrica ( R ) do resistor em função
-da corrente ( i ) é`,
+    text: ``,
     images: ['/enem/2018/images/enem_2018_d2_q108.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2018/images/enem_2018_d2_q108_A.jpg` },
@@ -579,54 +520,16 @@ da corrente ( i ) é`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `A hidroxilamina (NH₂ OH) é extremamente reativa 
-em reações de substituição nucleofílica, justificando 
-sua utilização em diversos processos. A reação de 
-substituição nucleofílica entre o anidrido acético e a 
-hidroxilamina está representada. 
-O 
-O 
-O 
-NH₂ 
- + 
-OH 
-O 
-O 
-Produto A 
-+ NH₂ OH 
-O 
-O 
-O 
-Anidrido 
-acético 
-OH 
-N 
- + 
-OH 
-H 
-Produto B 
-O produto A é favorecido em relação ao B, por um 
-fator de 10 5 . Em um estudo de possível substituição 
-do uso de hidroxilamina, foram testadas as móleculas 
-numeradas de 1 a 5. 
-HO 
-HO 
-N 
-HO 
-N 
-O 
-N 
-NH₂ 
-N 
-O 
-H 
-H 
-1 
-2 
-3 
-5 
-4 
-Dentre as moléculas testadas, qual delas apresentou 
+    text: `A hidroxilamina (NH₂ OH) é extremamente reativa em reações de
+substituição nucleofílica, justificando sua utilização em
+diversos processos. A reação de substituição nucleofílica
+entre o anidrido acético e a hidroxilamina está representada.
+O O O NH₂ + OH O O Produto A + NH₂ OH O O O Anidrido acético
+OH N + OH H Produto B O produto A é favorecido em relação ao
+B, por um fator de 10 5 . Em um estudo de possível
+substituição do uso de hidroxilamina, foram testadas as
+móleculas numeradas de 1 a 5. HO HO N HO N O N NH₂ N O H H 1 2
+3 5 4 Dentre as moléculas testadas, qual delas apresentou
 menor reatividade?`,
     images: ['/enem/2018/images/enem_2018_d2_q109_1.jpg', '/enem/2018/images/enem_2018_d2_q109_2.jpg'],
     alternatives: [
@@ -658,14 +561,10 @@ equivocada.
 Cientificamente esse conceito é definido como`,
     alternatives: [
       { id: 'A', type: 'text', value: `trincas de nucleotídeos que codificam os aminoácidos.` },
-      { id: 'B', type: 'text', value: `localização de todos os genes encontrados em um 
-genoma.` },
-      { id: 'C', type: 'text', value: `codificação de sequências repetidas presentes em 
-um genoma.` },
-      { id: 'D', type: 'text', value: `conjunto de todos os RNAs mensageiros transcritos 
-em um organismo.` },
-      { id: 'E', type: 'text', value: `todas as sequências de pares de bases presentes em 
-um organismo.` },
+      { id: 'B', type: 'text', value: `localização de todos os genes encontrados em um genoma.` },
+      { id: 'C', type: 'text', value: `codificação de sequências repetidas presentes em um genoma.` },
+      { id: 'D', type: 'text', value: `conjunto de todos os RNAs mensageiros transcritos em um organismo.` },
+      { id: 'E', type: 'text', value: `todas as sequências de pares de bases presentes em um organismo.` },
     ],
     correct: 'A',
     explanation: `Código genético é o conjunto de correspondências entre as trincas de nucleotídeos (códons) do material genético e os aminoácidos que elas especificam na síntese de proteínas. Ele não se confunde com a localização dos genes, com as sequências repetidas, com o conjunto de RNAs mensageiros nem com todo o pareamento de bases do organismo (que é o genoma). Portanto, o conceito correto é o de trincas de nucleotídeos que codificam os aminoácidos (alternativa A).`,
@@ -701,28 +600,18 @@ eficiente quando esta depende do vento é o(a)`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Muitos smartphones e tablets não precisam mais 
-de teclas, uma vez que todos os comandos podem ser 
-dados ao se pressionar a própria tela. Inicialmente 
-essa tecnologia foi proporcionada por meio das telas 
-resistivas, formadas basicamente por duas camadas de 
-material condutor transparente que não se encostam até 
-que alguém as pressione, modificando a resistência total 
-do circuito de acordo com o ponto onde ocorre o toque. 
-A imagem é uma simplificação do circuito formado pelas 
-placas, em que A e B representam pontos onde o circuito 
-pode ser fechado por meio do toque. 
-4 kΩ 
-4 kΩ 
-4 kΩ 
-+ 
-ε 
-A 
-- 
-4 kΩ 
-B 
-Qual é a resistência equivalente no circuito provocada por 
-um toque que fecha o circuito no ponto A ?`,
+    text: `Muitos smartphones e tablets não precisam mais de teclas, uma
+vez que todos os comandos podem ser dados ao se pressionar a
+própria tela. Inicialmente essa tecnologia foi proporcionada
+por meio das telas resistivas, formadas basicamente por duas
+camadas de material condutor transparente que não se encostam
+até que alguém as pressione, modificando a resistência total
+do circuito de acordo com o ponto onde ocorre o toque. A
+imagem é uma simplificação do circuito formado pelas placas,
+em que A e B representam pontos onde o circuito pode ser
+fechado por meio do toque. 4 kΩ 4 kΩ 4 kΩ + ε A - 4 kΩ B Qual
+é a resistência equivalente no circuito provocada por um toque
+que fecha o circuito no ponto A ?`,
     images: ['/enem/2018/images/enem_2018_d2_q112.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1,3 kΩ` },
@@ -741,27 +630,20 @@ um toque que fecha o circuito no ponto A ?`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Companhias que fabricam jeans usam cloro para 
-o clareamento, seguido de lavagem. Algumas estão 
-substituindo o cloro por substâncias ambientalmente mais 
-seguras como peróxidos, que podem ser degradados 
-por enzimas chamadas peroxidases. Pensando nisso, 
-pesquisadores 
-inseriram 
-genes 
-codificadores 
-de 
-peroxidases em leveduras cultivadas nas condições de 
-clareamento e lavagem dos jeans e selecionaram as 
-sobreviventes para produção dessas enzimas. 
-TORTORA, G. J.; FUNKE, B. R.; CASE, C. L. Microbiologia . 
- Rio de Janeiro: Artmed, 2016 (adaptado). 
-Nesse caso, o uso dessas leveduras modificadas objetiva`,
+    text: `Companhias que fabricam jeans usam cloro para o clareamento,
+seguido de lavagem. Algumas estão substituindo o cloro por
+substâncias ambientalmente mais seguras como peróxidos, que
+podem ser degradados por enzimas chamadas peroxidases.
+Pensando nisso, pesquisadores inseriram genes codificadores de
+peroxidases em leveduras cultivadas nas condições de
+clareamento e lavagem dos jeans e selecionaram as
+sobreviventes para produção dessas enzimas. TORTORA, G. J.;
+FUNKE, B. R.; CASE, C. L. Microbiologia . Rio de Janeiro:
+Artmed, 2016 (adaptado). Nesse caso, o uso dessas leveduras
+modificadas objetiva`,
     alternatives: [
-      { id: 'A', type: 'text', value: `reduzir a quantidade de resíduos tóxicos nos efluentes 
-da lavagem.` },
-      { id: 'B', type: 'text', value: `eliminar a necessidade de tratamento da água 
-consumida.` },
+      { id: 'A', type: 'text', value: `reduzir a quantidade de resíduos tóxicos nos efluentes da lavagem.` },
+      { id: 'B', type: 'text', value: `eliminar a necessidade de tratamento da água consumida.` },
       { id: 'C', type: 'text', value: `elevar a capacidade de clareamento dos jeans .` },
       { id: 'D', type: 'text', value: `aumentar a resistência do jeans a peróxidos.` },
       { id: 'E', type: 'text', value: `associar ação bactericida ao clareamento.` },
@@ -834,28 +716,20 @@ produzida por esse peixe em perigo é o(a)`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Células solares à base de TiO₂ sensibilizadas por corantes (S) são promissoras e poderão vir a substituir as células de 
-silício. Nessas células, o corante adsorvido sobre o TiO₂ é responsável por absorver a energia luminosa ( h ν ), e o corante 
-excitado (S*) é capaz de transferir elétrons para o TiO₂ . Um esquema dessa célula e os processos envolvidos estão 
-ilustrados na figura. A conversão de energia solar em elétrica ocorre por meio da sequência de reações apresentadas. 
-Corante 
-Eletrodo de Pt 
-Eletrodo de TiO₂ 
-com corante 
-e − 
-S* 
-h v 
-Mediador de
- carga
-I₃⁻
-I −
-S/S +
-e − 
-e − 
-e − 
-e − 
-LONGO, C.; DE PAOLI, M.-A. Dye-Sensitized Solar Cells: A Successful Combination of Materials. Journal of the Brazilian Chemical Society , n. 6, 2003 (adaptado). 
-A reação 3 é fundamental para o contínuo funcionamento da célula solar, pois`,
+    text: `Células solares à base de TiO₂ sensibilizadas por corantes (S)
+são promissoras e poderão vir a substituir as células de
+silício. Nessas células, o corante adsorvido sobre o TiO₂ é
+responsável por absorver a energia luminosa ( h ν ), e o
+corante excitado (S*) é capaz de transferir elétrons para o
+TiO₂ . Um esquema dessa célula e os processos envolvidos estão
+ilustrados na figura. A conversão de energia solar em elétrica
+ocorre por meio da sequência de reações apresentadas. Corante
+Eletrodo de Pt Eletrodo de TiO₂ com corante e − S* h v
+Mediador de carga I₃⁻ I − S/S + e − e − e − e − LONGO, C.; DE
+PAOLI, M.-A. Dye-Sensitized Solar Cells: A Successful
+Combination of Materials. Journal of the Brazilian Chemical
+Society , n. 6, 2003 (adaptado). A reação 3 é fundamental para
+o contínuo funcionamento da célula solar, pois`,
     images: ['/enem/2018/images/enem_2018_d2_q116.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `reduz íons I − a I₃⁻.` },
@@ -898,37 +772,22 @@ Qual linhagem deve ser escolhida pelo pesquisador?`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Alguns materiais sólidos são compostos por átomos 
-que interagem entre si formando ligações que podem 
-ser covalentes, iônicas ou metálicas. A figura apresenta 
-a energia potencial de ligação em função da distância 
-interatômica em um sólido cristalino. Analisando essa 
-figura, observa-se que, na temperatura de zero kelvin, 
-a distância de equilíbrio da ligação entre os átomos ( R 0 ) 
-corresponde ao valor mínimo de energia potencial. Acima 
-dessa temperatura, a energia térmica fornecida aos átomos 
-aumenta sua energia cinética e faz com que eles oscilem 
-em torno de uma posição de equilíbrio média (círculos 
-cheios), que é diferente para cada temperatura. A distância 
-de ligação pode variar sobre toda a extensão das linhas 
-horizontais, identificadas com o valor da temperatura, de 
-T 1 a T 4 (temperaturas crescentes). 
-Energia de ligação 
-Distância interatômica 
-R 
-0 
-0 
-T 
-T 
-T 
-T 
-4 
-3 
-2 
-1 
-T = 0 K 
-O deslocamento observado na distância média revela o 
-fenômeno da`,
+    text: `Alguns materiais sólidos são compostos por átomos que
+interagem entre si formando ligações que podem ser covalentes,
+iônicas ou metálicas. A figura apresenta a energia potencial
+de ligação em função da distância interatômica em um sólido
+cristalino. Analisando essa figura, observa-se que, na
+temperatura de zero kelvin, a distância de equilíbrio da
+ligação entre os átomos ( R 0 ) corresponde ao valor mínimo de
+energia potencial. Acima dessa temperatura, a energia térmica
+fornecida aos átomos aumenta sua energia cinética e faz com
+que eles oscilem em torno de uma posição de equilíbrio média
+(círculos cheios), que é diferente para cada temperatura. A
+distância de ligação pode variar sobre toda a extensão das
+linhas horizontais, identificadas com o valor da temperatura,
+de T 1 a T 4 (temperaturas crescentes). Energia de ligação
+Distância interatômica R 0 0 T T T T 4 3 2 1 T = 0 K O
+deslocamento observado na distância média revela o fenômeno da`,
     images: ['/enem/2018/images/enem_2018_d2_q118.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `ionização.` },
@@ -971,49 +830,25 @@ O uso desses produtos pode auxiliar no controle da`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Nos manuais de instalação de equipamentos de som 
-há o alerta aos usuários para que observem a correta 
-polaridade dos fios ao realizarem as conexões das caixas 
-de som. As figuras ilustram o esquema de conexão das 
-caixas de som de um equipamento de som mono, no qual 
-os alto-falantes emitem as mesmas ondas. No primeiro 
-caso, a ligação obedece às especificações do fabricante 
-e no segundo mostra uma ligação na qual a polaridade 
-está invertida. 
-Polaridade correta 
-Saídas do equipamento de som 
-D 
-E 
-E 
-D 
-Caixa de som 
-Caixa de som 
-Polaridade invertida 
-Saídas do equipamento de som 
-D 
-E 
-E 
-D 
-Caixa de som 
-Caixa de som 
-O que ocorre com os alto-falantes E e D se forem 
-conectados de acordo com o segundo esquema?`,
+    text: `Nos manuais de instalação de equipamentos de som há o alerta
+aos usuários para que observem a correta polaridade dos fios
+ao realizarem as conexões das caixas de som. As figuras
+ilustram o esquema de conexão das caixas de som de um
+equipamento de som mono, no qual os alto-falantes emitem as
+mesmas ondas. No primeiro caso, a ligação obedece às
+especificações do fabricante e no segundo mostra uma ligação
+na qual a polaridade está invertida. Polaridade correta Saídas
+do equipamento de som D E E D Caixa de som Caixa de som
+Polaridade invertida Saídas do equipamento de som D E E D
+Caixa de som Caixa de som O que ocorre com os alto-falantes E
+e D se forem conectados de acordo com o segundo esquema?`,
     images: ['/enem/2018/images/enem_2018_d2_q120.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `O alto-falante E funciona normalmente e o D entra em
-curto-circuito e não emite som.` },
-      { id: 'B', type: 'text', value: `O alto-falante E emite ondas sonoras com frequências
-ligeiramente diferentes do alto-falante D provocando
-o fenômeno de batimento.` },
-      { id: 'C', type: 'text', value: `O alto-falante E emite ondas sonoras com frequências
-e fases diferentes do alto-falante D provocando o
-fenômeno conhecido como ruído.` },
-      { id: 'D', type: 'text', value: `O alto-falante E emite ondas sonoras que apresentam
-um lapso de tempo em relação às emitidas pelo alto-falante D provocando o fenômeno de reverberação.` },
-      { id: 'E', type: 'text', value: `O alto-falante E emite ondas sonoras em oposição
-de fase às emitidas pelo alto-falante D provocando
-o fenômeno de interferência destrutiva nos pontos
-equidistantes aos alto-falantes.` },
+      { id: 'A', type: 'text', value: `O alto-falante E funciona normalmente e o D entra em curto-circuito e não emite som.` },
+      { id: 'B', type: 'text', value: `O alto-falante E emite ondas sonoras com frequências ligeiramente diferentes do alto-falante D provocando o fenômeno de batimento.` },
+      { id: 'C', type: 'text', value: `O alto-falante E emite ondas sonoras com frequências e fases diferentes do alto-falante D provocando o fenômeno conhecido como ruído.` },
+      { id: 'D', type: 'text', value: `O alto-falante E emite ondas sonoras que apresentam um lapso de tempo em relação às emitidas pelo alto-falante D provocando o fenômeno de reverberação.` },
+      { id: 'E', type: 'text', value: `O alto-falante E emite ondas sonoras em oposição de fase às emitidas pelo alto-falante D provocando o fenômeno de interferência destrutiva nos pontos equidistantes aos alto-falantes.` },
 
     ],
     correct: 'E',
@@ -1043,14 +878,10 @@ Porto Alegre: Bookman, 2013 (adaptado).
 Essa remediação promove no solo o(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `diminuição do pH, deixando-o fértil.` },
-      { id: 'B', type: 'text', value: `solubilização do alumínio, ocorrendo sua lixiviação 
-pela chuva.` },
-      { id: 'C', type: 'text', value: `interação do íon cálcio com o íon alumínio, produzindo 
-uma liga metálica.` },
-      { id: 'D', type: 'text', value: `reação do carbonato de cálcio com os íons alumínio, 
-formando alumínio metálico.` },
-      { id: 'E', type: 'text', value: `aumento da sua alcalinidade, tornando os íons 
-alumínio menos disponíveis.` },
+      { id: 'B', type: 'text', value: `solubilização do alumínio, ocorrendo sua lixiviação pela chuva.` },
+      { id: 'C', type: 'text', value: `interação do íon cálcio com o íon alumínio, produzindo uma liga metálica.` },
+      { id: 'D', type: 'text', value: `reação do carbonato de cálcio com os íons alumínio, formando alumínio metálico.` },
+      { id: 'E', type: 'text', value: `aumento da sua alcalinidade, tornando os íons alumínio menos disponíveis.` },
     ],
     correct: 'E',
     explanation: `O calcário (CaCO₃) tem caráter básico e, ao ser adicionado ao solo ácido, neutraliza a acidez e aumenta a alcalinidade (eleva o pH). Em pH mais alto, os íons de alumínio precipitam como hidróxido de alumínio, tornando-se menos solúveis e menos disponíveis para danificar as raízes e os microrganismos. Assim, reduz-se a toxicidade do alumínio. Portanto, a remediação promove o aumento da alcalinidade, tornando os íons alumínio menos disponíveis (alternativa E).`,
@@ -1070,21 +901,11 @@ maior do conjunto roda e pneu.
 Duas consequências provocadas por essa troca de 
 aro são:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Elevar a posição do centro de massa do veículo 
-tornando-o mais instável e aumentar a velocidade do 
-automóvel em relação à indicada no velocímetro.` },
-      { id: 'B', type: 'text', value: `Abaixar a posição do centro de massa do veículo 
-tornando-o mais instável e diminuir a velocidade do 
-automóvel em relação à indicada no velocímetro.` },
-      { id: 'C', type: 'text', value: `Elevar a posição do centro de massa do veículo 
-tornando-o mais estável e aumentar a velocidade do 
-automóvel em relação à indicada no velocímetro.` },
-      { id: 'D', type: 'text', value: `Abaixar a posição do centro de massa do veículo 
-tornando-o mais estável e diminuir a velocidade do 
-automóvel em relação à indicada no velocímetro.` },
-      { id: 'E', type: 'text', value: `Elevar a posição do centro de massa do veículo 
-tornando-o mais estável e diminuir a velocidade do 
-automóvel em relação à indicada no velocímetro.` },
+      { id: 'A', type: 'text', value: `Elevar a posição do centro de massa do veículo tornando-o mais instável e aumentar a velocidade do automóvel em relação à indicada no velocímetro.` },
+      { id: 'B', type: 'text', value: `Abaixar a posição do centro de massa do veículo tornando-o mais instável e diminuir a velocidade do automóvel em relação à indicada no velocímetro.` },
+      { id: 'C', type: 'text', value: `Elevar a posição do centro de massa do veículo tornando-o mais estável e aumentar a velocidade do automóvel em relação à indicada no velocímetro.` },
+      { id: 'D', type: 'text', value: `Abaixar a posição do centro de massa do veículo tornando-o mais estável e diminuir a velocidade do automóvel em relação à indicada no velocímetro.` },
+      { id: 'E', type: 'text', value: `Elevar a posição do centro de massa do veículo tornando-o mais estável e diminuir a velocidade do automóvel em relação à indicada no velocímetro.` },
     ],
     correct: 'A',
     explanation: `Pneus de maior diâmetro elevam a carroceria e, com ela, o centro de massa do veículo; quanto mais alto o centro de massa, menor a estabilidade, tornando o carro mais instável. Além disso, o velocímetro é calibrado para o aro original e conta as rotações da roda; com roda maior, a cada volta o carro percorre mais distância, de modo que a velocidade real fica maior do que a indicada. Portanto, a troca eleva o centro de massa (deixando o veículo mais instável) e aumenta a velocidade real em relação à indicada no velocímetro (alternativa A).`,
@@ -1124,33 +945,22 @@ conversão de energia`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `O petróleo é uma fonte de energia de baixo custo 
-e de larga utilização como matéria-prima para uma 
-grande variedade de produtos. É um óleo formado 
-de várias substâncias de origem orgânica, em sua 
-maioria hidrocarbonetos de diferentes massas molares. 
-São utilizadas técnicas de separação para obtenção 
-dos 
-componentes 
-comercializáveis 
-do 
-petróleo. 
-Além disso, para aumentar a quantidade de frações 
-comercializáveis, otimizando o produto de origem fóssil, 
-utiliza-se o processo de craqueamento. 
-O que ocorre nesse processo?`,
+    text: `O petróleo é uma fonte de energia de baixo custo e de larga
+utilização como matéria-prima para uma grande variedade de
+produtos. É um óleo formado de várias substâncias de origem
+orgânica, em sua maioria hidrocarbonetos de diferentes massas
+molares. São utilizadas técnicas de separação para obtenção
+dos componentes comercializáveis do petróleo. Além disso, para
+aumentar a quantidade de frações comercializáveis, otimizando
+o produto de origem fóssil, utiliza-se o processo de
+craqueamento. O que ocorre nesse processo?`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `Transformação das frações do petróleo em outras 
-moléculas menores.` },
-      { id: 'B', type: 'text', value: `Reação de óxido-redução com transferência de 
-elétrons entre as moléculas.` },
-      { id: 'C', type: 'text', value: `Solubilização das frações do petróleo com a utilização 
-de diferentes solventes.` },
-      { id: 'D', type: 'text', value: `Decantação das moléculas com diferentes massas 
-molares pelo uso de centrífugas.` },
-      { id: 'E', type: 'text', value: `Separação dos diferentes componentes do petróleo 
-em função de suas temperaturas de ebulição.` },
+      { id: 'A', type: 'text', value: `Transformação das frações do petróleo em outras moléculas menores.` },
+      { id: 'B', type: 'text', value: `Reação de óxido-redução com transferência de elétrons entre as moléculas.` },
+      { id: 'C', type: 'text', value: `Solubilização das frações do petróleo com a utilização de diferentes solventes.` },
+      { id: 'D', type: 'text', value: `Decantação das moléculas com diferentes massas molares pelo uso de centrífugas.` },
+      { id: 'E', type: 'text', value: `Separação dos diferentes componentes do petróleo em função de suas temperaturas de ebulição.` },
     ],
     correct: 'A',
     explanation: `O craqueamento (cracking) consiste em quebrar moléculas grandes e de pouca saída comercial, presentes em frações pesadas do petróleo, transformando-as em moléculas menores, como as da gasolina. O processo não envolve óxido-redução, solubilização, decantação por centrífuga nem simples destilação por temperatura de ebulição. Portanto, no craqueamento ocorre a transformação das frações do petróleo em outras moléculas menores (alternativa A).`,
@@ -1162,28 +972,16 @@ em função de suas temperaturas de ebulição.` },
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `A figura representa um prisma óptico, constituído de um material transparente, cujo índice de refração e crescente com 
-a frequência da luz que sobre ele incide. Um feixe luminoso, composto por luzes vermelha, azul e verde, incide na face A, 
-emerge na face B e, após ser refletido por um espelho, incide num filme para fotografia colorida, revelando tres pontos. 
-Amarelo 
-Laranja 
-Violeta 
-Verde 
-Azul 
-400 
-450 
-500 
-550 
-600 
-650 
-700 
-750 
-(nm) 
-Face A 
-Face B 
-Feixe incidente 
-Prisma 
-Observando os pontos luminosos revelados no filme, de baixo para cima, constatam-se as seguintes cores:`,
+    text: `A figura representa um prisma óptico, constituído de um
+material transparente, cujo índice de refração e crescente com
+a frequência da luz que sobre ele incide. Um feixe luminoso,
+composto por luzes vermelha, azul e verde, incide na face A,
+emerge na face B e, após ser refletido por um espelho, incide
+num filme para fotografia colorida, revelando tres pontos.
+Amarelo Laranja Violeta Verde Azul 400 450 500 550 600 650 700
+750 (nm) Face A Face B Feixe incidente Prisma Observando os
+pontos luminosos revelados no filme, de baixo para cima,
+constatam-se as seguintes cores:`,
     images: ['/enem/2018/images/enem_2018_d2_q125.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Vermelha, verde, azul.` },
@@ -1283,64 +1081,40 @@ A respeito das intensidades das velocidades médias e do sentido de movimento do
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Muitos primatas, incluindo nós humanos, possuem 
-visão tricromática: têm três pigmentos visuais na retina 
-sensíveis à luz de uma determinada faixa de comprimentos 
-de onda. Informalmente, embora os pigmentos em si não 
-possuam cor, estes são conhecidos como pigmentos 
-“azul”, “verde” e “vermelho” e estão associados à cor 
-que causa grande excitação (ativação). A sensação que 
-temos ao observar um objeto colorido decorre da ativação 
-relativa dos três pigmentos. Ou seja, se estimulássemos 
-a retina com uma luz na faixa de 530 nm (retângulo I no 
-gráfico), não excitaríamos o pigmento “azul”, o pigmento 
-“verde” seria ativado ao máximo e o “vermelho” seria 
-ativado em aproximadamente 75%, e isso nos daria 
-a sensação de ver uma cor amarelada. Já uma luz na 
-faixa de comprimento de onda de 600 nm (retângulo II) 
-estimularia o pigmento “verde” um pouco e o “vermelho” 
-em cerca de 75%, e isso nos daria a sensação de ver 
-laranja-avermelhado. No entanto, há características 
-genéticas presentes em alguns indivíduos, conhecidas 
-coletivamente como Daltonismo, em que um ou mais 
-pigmentos não funcionam perfeitamente. 
-I 
-II 
-“azul” 
-“verde” 
-“vermelho” 
-100 
-Ativação (%) 
-50 
-verde 
-roxo 
-amarelo laranja vermelho 
-400 
-450 
-500 
-550 
-600 
-650 
-azul 
-Comprimento de onda (nm) 
-Disponível em: www.comprehensivephysiology.com. Acesso em: 3 ago. 2012 (adaptado). 
-Caso estimulássemos a retina de um indivíduo com essa 
-característica, que não possuísse o pigmento conhecido 
-como “verde”, com as luzes de 530 nm e 600 nm na mesma 
-intensidade luminosa, esse indivíduo seria incapaz de`,
+    text: `Muitos primatas, incluindo nós humanos, possuem visão
+tricromática: têm três pigmentos visuais na retina sensíveis à
+luz de uma determinada faixa de comprimentos de onda.
+Informalmente, embora os pigmentos em si não possuam cor,
+estes são conhecidos como pigmentos “azul”, “verde” e
+“vermelho” e estão associados à cor que causa grande excitação
+(ativação). A sensação que temos ao observar um objeto
+colorido decorre da ativação relativa dos três pigmentos. Ou
+seja, se estimulássemos a retina com uma luz na faixa de 530
+nm (retângulo I no gráfico), não excitaríamos o pigmento
+“azul”, o pigmento “verde” seria ativado ao máximo e o
+“vermelho” seria ativado em aproximadamente 75%, e isso nos
+daria a sensação de ver uma cor amarelada. Já uma luz na faixa
+de comprimento de onda de 600 nm (retângulo II) estimularia o
+pigmento “verde” um pouco e o “vermelho” em cerca de 75%, e
+isso nos daria a sensação de ver laranja-avermelhado. No
+entanto, há características genéticas presentes em alguns
+indivíduos, conhecidas coletivamente como Daltonismo, em que
+um ou mais pigmentos não funcionam perfeitamente. I II “azul”
+“verde” “vermelho” 100 Ativação (%) 50 verde roxo amarelo
+laranja vermelho 400 450 500 550 600 650 azul Comprimento de
+onda (nm) Disponível em: www.comprehensivephysiology.com.
+Acesso em: 3 ago. 2012 (adaptado). Caso estimulássemos a
+retina de um indivíduo com essa característica, que não
+possuísse o pigmento conhecido como “verde”, com as luzes de
+530 nm e 600 nm na mesma intensidade luminosa, esse indivíduo
+seria incapaz de`,
     images: ['/enem/2018/images/enem_2018_d2_q129.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `identificar o comprimento de onda do amarelo, uma 
-vez que não possui o pigmento “verde”.` },
-      { id: 'B', type: 'text', value: `ver o estímulo de comprimento de onda laranja, pois 
-não haveria estimulação de um pigmento visual.` },
-      { id: 'C', type: 'text', value: `detectar ambos os comprimentos de onda, uma vez 
-que a estimulação dos pigmentos estaria prejudicada.` },
-      { id: 'D', type: 'text', value: `visualizar o estímulo do comprimento de onda roxo, 
-já que este se encontra na outra ponta do espectro.` },
-      { id: 'E', type: 'text', value: `distinguir os dois comprimentos de onda, pois 
-ambos estimulam o pigmento “vermelho” na mesma 
-intensidade.` },
+      { id: 'A', type: 'text', value: `identificar o comprimento de onda do amarelo, uma vez que não possui o pigmento “verde”.` },
+      { id: 'B', type: 'text', value: `ver o estímulo de comprimento de onda laranja, pois não haveria estimulação de um pigmento visual.` },
+      { id: 'C', type: 'text', value: `detectar ambos os comprimentos de onda, uma vez que a estimulação dos pigmentos estaria prejudicada.` },
+      { id: 'D', type: 'text', value: `visualizar o estímulo do comprimento de onda roxo, já que este se encontra na outra ponta do espectro.` },
+      { id: 'E', type: 'text', value: `distinguir os dois comprimentos de onda, pois ambos estimulam o pigmento “vermelho” na mesma intensidade.` },
     ],
     correct: 'E',
     explanation: `Segundo o gráfico, tanto a luz de 530 nm quanto a de 600 nm ativam o pigmento "vermelho" em cerca de 75%. Num indivíduo sem o pigmento "verde", a distinção entre essas duas luzes dependeria da ativação diferencial do verde, que agora não existe, e o "azul" não é estimulado por nenhuma delas. Como ambas passam a estimular o "vermelho" na mesma intensidade, produzem a mesma resposta, impossibilitando diferenciá-las. Portanto, esse indivíduo seria incapaz de distinguir os dois comprimentos de onda, pois ambos estimulam o pigmento "vermelho" na mesma intensidade (alternativa E).`,
@@ -1362,8 +1136,7 @@ Nesse arranjo, os átomos de carbono possuem hibridação`,
     alternatives: [
       { id: 'A', type: 'text', value: `sp de geometria linear.` },
       { id: 'B', type: 'text', value: `sp 2 de geometria trigonal planar.` },
-      { id: 'C', type: 'text', value: `sp 3 alternados com carbonos com hibridação sp de 
-geometria linear.` },
+      { id: 'C', type: 'text', value: `sp 3 alternados com carbonos com hibridação sp de geometria linear.` },
       { id: 'D', type: 'text', value: `sp 3 d de geometria planar.` },
       { id: 'E', type: 'text', value: `sp 3 d 2 com geometria hexagonal planar.` },
     ],
@@ -1387,16 +1160,11 @@ Para que a velocidade de lançamento do cubo seja
 aumentada quatro vezes, o projetista deve`,
     images: ['/enem/2018/images/enem_2018_d2_q131.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `manter a mesma mola e aumentar duas vezes a sua 
-deformação.` },
-      { id: 'B', type: 'text', value: `manter a mesma mola e aumentar quatro vezes a sua 
-deformação.` },
-      { id: 'C', type: 'text', value: `manter a mesma mola e aumentar dezesseis vezes a 
-sua deformação.` },
-      { id: 'D', type: 'text', value: `trocar a mola por outra de constante elástica duas 
-vezes maior e manter a deformação.` },
-      { id: 'E', type: 'text', value: `trocar a mola por outra de constante elástica quatro 
-vezes maior e manter a deformação.` },
+      { id: 'A', type: 'text', value: `manter a mesma mola e aumentar duas vezes a sua deformação.` },
+      { id: 'B', type: 'text', value: `manter a mesma mola e aumentar quatro vezes a sua deformação.` },
+      { id: 'C', type: 'text', value: `manter a mesma mola e aumentar dezesseis vezes a sua deformação.` },
+      { id: 'D', type: 'text', value: `trocar a mola por outra de constante elástica duas vezes maior e manter a deformação.` },
+      { id: 'E', type: 'text', value: `trocar a mola por outra de constante elástica quatro vezes maior e manter a deformação.` },
     ],
     correct: 'B',
     explanation: `Pela conservação da energia, a energia potencial elástica da mola converte-se em energia cinética do cubo: ½ k x² = ½ m v², o que leva a v = x·√(k/m). Mantendo a mesma mola e a mesma massa, a velocidade é diretamente proporcional à deformação x. Logo, para que v aumente quatro vezes, basta aumentar quatro vezes a deformação da mola. Portanto, deve-se manter a mesma mola e aumentar quatro vezes a sua deformação (alternativa B).`,
@@ -1408,23 +1176,19 @@ vezes maior e manter a deformação.` },
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `As abelhas utilizam a sinalização química para 
-distinguir a abelha-rainha de uma operária, sendo 
-capazes de reconhecer diferenças entre moléculas. 
-A rainha produz o sinalizador químico conhecido como 
-ácido 9-hidroxidec-2-enoico, enquanto as abelhas- 
--operárias 
-produzem 
-ácido 
-10-hidroxidec-2-enoico. 
-Nós podemos distinguir as abelhas-operárias e rainhas 
-por sua aparência, mas, entre si, elas usam essa 
-sinalização química para perceber a diferença. Pode-se 
-dizer que veem por meio da química. 
-LE COUTEUR, P.; BURRESON, J. Os botões de Napoleão : as 17 moléculas 
-que mudaram a história. Rio de Janeiro: Jorge Zahar, 2006 (adaptado). 
-As moléculas dos sinalizadores químicos produzidas 
-pelas abelhas rainha e operária possuem diferença na`,
+    text: `As abelhas utilizam a sinalização química para distinguir a
+abelha-rainha de uma operária, sendo capazes de reconhecer
+diferenças entre moléculas. A rainha produz o sinalizador
+químico conhecido como ácido 9-hidroxidec-2-enoico, enquanto
+as abelhas- -operárias produzem ácido 10-hidroxidec-2-enoico.
+Nós podemos distinguir as abelhas-operárias e rainhas por sua
+aparência, mas, entre si, elas usam essa sinalização química
+para perceber a diferença. Pode-se dizer que veem por meio da
+química. LE COUTEUR, P.; BURRESON, J. Os botões de Napoleão :
+as 17 moléculas que mudaram a história. Rio de Janeiro: Jorge
+Zahar, 2006 (adaptado). As moléculas dos sinalizadores
+químicos produzidas pelas abelhas rainha e operária possuem
+diferença na`,
     alternatives: [
       { id: 'A', type: 'text', value: `fórmula estrutural.` },
       { id: 'B', type: 'text', value: `fórmula molecular.` },
@@ -1451,21 +1215,11 @@ numerosas em termos de espécies conhecidas.
 Esse tipo de desenvolvimento está relacionado a um 
 maior número de espécies em razão da`,
     alternatives: [
-      { id: 'A', type: 'text', value: `proteção na fase de pupa, favorecendo a sobrevivência 
-de adultos férteis.` },
-      { id: 'B', type: 'text', value: `produção de muitos ovos, larvas e pupas, aumentando 
-o número de adultos.` },
-      { id: 'C', type: 'text', value: `exploração 
-de 
-diferentes 
-nichos, 
-evitando 
-a 
-competição entre as fases da vida.` },
-      { id: 'D', type: 'text', value: `ingestão de alimentos em todas as fases de vida, 
-garantindo o surgimento do adulto.` },
-      { id: 'E', type: 'text', value: `utilização do mesmo alimento em todas as fases, 
-otimizando a nutrição do organismo.` },
+      { id: 'A', type: 'text', value: `proteção na fase de pupa, favorecendo a sobrevivência de adultos férteis.` },
+      { id: 'B', type: 'text', value: `produção de muitos ovos, larvas e pupas, aumentando o número de adultos.` },
+      { id: 'C', type: 'text', value: `exploração de diferentes nichos, evitando a competição entre as fases da vida.` },
+      { id: 'D', type: 'text', value: `ingestão de alimentos em todas as fases de vida, garantindo o surgimento do adulto.` },
+      { id: 'E', type: 'text', value: `utilização do mesmo alimento em todas as fases, otimizando a nutrição do organismo.` },
     ],
     correct: 'C',
     explanation: `Na holometabolia, larva, pupa e adulto têm morfologia e hábitos muito distintos, ocupando hábitats e explorando recursos (nichos) diferentes. Com isso, as fases imaturas não competem com os adultos por alimento e espaço, reduzindo a competição ao longo da vida. Essa divisão de nichos entre as fases favorece a sobrevivência e contribui para a grande diversidade de espécies desses insetos. Portanto, a resposta é a exploração de diferentes nichos, evitando a competição entre as fases da vida (alternativa C).`,
@@ -1484,19 +1238,11 @@ fora do líquido, fazendo a sucção simultaneamente em
 ambos, você terá dificuldade em bebê-lo. 
 Essa dificuldade ocorre porque o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `força necessária para a sucção do ar e do suco 
-simultaneamente dobra de valor.` },
-      { id: 'B', type: 'text', value: `densidade do ar é menor que a do suco, portanto, o 
-volume de ar aspirado é muito maior que o volume 
-de suco.` },
-      { id: 'C', type: 'text', value: `velocidade com que o suco sobe deve ser constante 
-nos dois canudos, o que é impossível com um dos 
-canudos de fora.` },
-      { id: 'D', type: 'text', value: `peso da coluna de suco é consideravelmente maior 
-que o peso da coluna de ar, o que dificulta a sucção 
-do líquido.` },
-      { id: 'E', type: 'text', value: `pressão no interior da boca assume praticamente o 
-mesmo valor daquela que atua sobre o suco.` },
+      { id: 'A', type: 'text', value: `força necessária para a sucção do ar e do suco simultaneamente dobra de valor.` },
+      { id: 'B', type: 'text', value: `densidade do ar é menor que a do suco, portanto, o volume de ar aspirado é muito maior que o volume de suco.` },
+      { id: 'C', type: 'text', value: `velocidade com que o suco sobe deve ser constante nos dois canudos, o que é impossível com um dos canudos de fora.` },
+      { id: 'D', type: 'text', value: `peso da coluna de suco é consideravelmente maior que o peso da coluna de ar, o que dificulta a sucção do líquido.` },
+      { id: 'E', type: 'text', value: `pressão no interior da boca assume praticamente o mesmo valor daquela que atua sobre o suco.` },
     ],
     correct: 'E',
     explanation: `Para sugar o suco é preciso reduzir a pressão dentro da boca abaixo da pressão atmosférica que atua sobre o líquido, criando uma diferença de pressão que empurra o suco para cima. Com um canudo fora do líquido, ao sugar entra ar pela boca e a pressão em seu interior se iguala praticamente à pressão atmosférica. Sem diferença de pressão apreciável, o suco não é empurrado para cima. Portanto, a dificuldade ocorre porque a pressão no interior da boca assume praticamente o mesmo valor daquela que atua sobre o suco (alternativa E).`,
@@ -1548,14 +1294,10 @@ teria provocado o desequilíbrio no “balanço do nitrogênio
 ligado”?`,
     alternatives: [
       { id: 'A', type: 'text', value: `O esgotamento das reservas de salitre no Chile.` },
-      { id: 'B', type: 'text', value: `O aumento da exploração de carvão vegetal e carvão 
-mineral.` },
-      { id: 'C', type: 'text', value: `A redução da fertilidade do solo nas economias 
-agrícolas.` },
-      { id: 'D', type: 'text', value: `A intensificação no fluxo de pessoas do campo para 
-as cidades.` },
-      { id: 'E', type: 'text', value: `A necessidade das plantas de absorverem sais de 
-nitrogênio disponíveis no solo.` },
+      { id: 'B', type: 'text', value: `O aumento da exploração de carvão vegetal e carvão mineral.` },
+      { id: 'C', type: 'text', value: `A redução da fertilidade do solo nas economias agrícolas.` },
+      { id: 'D', type: 'text', value: `A intensificação no fluxo de pessoas do campo para as cidades.` },
+      { id: 'E', type: 'text', value: `A necessidade das plantas de absorverem sais de nitrogênio disponíveis no solo.` },
     ],
     correct: 'D',
     explanation: `Segundo Haber, as economias agrícolas tradicionais mantinham o balanço do nitrogênio porque os resíduos retornavam ao solo. Com a era industrial, os alimentos passaram a ser levados do campo, onde são cultivados, para as cidades distantes, onde são consumidos, de modo que o nitrogênio ligado não retorna ao solo de origem. Esse deslocamento acompanha a intensificação do fluxo de pessoas do campo para as cidades, que concentra o consumo longe da produção. Portanto, o fenômeno que desequilibrou o balanço do nitrogênio ligado foi a intensificação no fluxo de pessoas do campo para as cidades (alternativa D).`,
@@ -1599,33 +1341,21 @@ maior quantia via TED é o banco`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Um contrato de empréstimo prevê que quando uma 
-parcela é paga de forma antecipada, conceder-se-á uma 
-redução de juros de acordo com o período de antecipação. 
-Nesse caso, paga-se o valor presente, que é o valor, 
-naquele momento, de uma quantia que deveria ser paga 
-em uma data futura. Um valor presente P submetido a 
-juros compostos com taxa i , por um período de tempo n , 
-produz um valor futuro V determinado pela fórmula 
-V 
-P 
-i n 
-= 
-⋅ 
-+ 
-1 
-Em um contrato de empréstimo com sessenta 
-parcelas fixas mensais, de R$ 820,00, a uma taxa de 
-juros de 1,32% ao mês, junto com a trigésima parcela 
-será paga antecipadamente uma outra parcela, desde 
-que o desconto seja superior a 25% do valor da parcela. 
-Utilize 0,2877 como aproximação para In 
-4 
-3 
- e 
-0,0131 como aproximação para In (1,0132). 
-A primeira das parcelas que poderá ser antecipada junto 
-com a 30 a é a`,
+    text: `Um contrato de empréstimo prevê que quando uma parcela é paga
+de forma antecipada, conceder-se-á uma redução de juros de
+acordo com o período de antecipação. Nesse caso, paga-se o
+valor presente, que é o valor, naquele momento, de uma quantia
+que deveria ser paga em uma data futura. Um valor presente P
+submetido a juros compostos com taxa i , por um período de
+tempo n , produz um valor futuro V determinado pela fórmula V
+P i n = ⋅ + 1 Em um contrato de empréstimo com sessenta
+parcelas fixas mensais, de R$ 820,00, a uma taxa de juros de
+1,32% ao mês, junto com a trigésima parcela será paga
+antecipadamente uma outra parcela, desde que o desconto seja
+superior a 25% do valor da parcela. Utilize 0,2877 como
+aproximação para In 4 3 e 0,0131 como aproximação para In
+(1,0132). A primeira das parcelas que poderá ser antecipada
+junto com a 30 a é a`,
     alternatives: [
       { id: 'A', type: 'text', value: `56ª` },
       { id: 'B', type: 'text', value: `55ª` },
@@ -1708,45 +1438,18 @@ uma distância igual a`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Um artesão possui potes cilíndricos de tinta cujas 
-medidas externas são 4 cm de diâmetro e 6 cm de 
-altura. Ele pretende adquirir caixas organizadoras para 
-armazenar seus potes de tinta, empilhados verticalmente 
-com tampas voltadas para cima, de forma que as caixas 
-possam ser fechadas. 
-No mercado, existem cinco opções de caixas 
-organizadoras, com tampa, em formato de paralelepípedo 
-reto retângulo, vendidas pelo mesmo preço, possuindo as 
-seguintes dimensões internas: 
-Modelo 
-Comprimento 
-(cm) 
-Largura 
-(cm) 
-Altura 
-(cm) 
-I 
-8 
-8 
-40 
-II 
-8 
-20 
-14 
-III 
-18 
-5 
-35 
-IV 
-20 
-12 
-12 
-V 
-24 
-8 
-14 
-Qual desses modelos o artesão deve adquirir para 
-conseguir armazenar o maior número de potes por caixa?`,
+    text: `Um artesão possui potes cilíndricos de tinta cujas medidas
+externas são 4 cm de diâmetro e 6 cm de altura. Ele pretende
+adquirir caixas organizadoras para armazenar seus potes de
+tinta, empilhados verticalmente com tampas voltadas para cima,
+de forma que as caixas possam ser fechadas. No mercado,
+existem cinco opções de caixas organizadoras, com tampa, em
+formato de paralelepípedo reto retângulo, vendidas pelo mesmo
+preço, possuindo as seguintes dimensões internas: Modelo
+Comprimento (cm) Largura (cm) Altura (cm) I 8 8 40 II 8 20 14
+III 18 5 35 IV 20 12 12 V 24 8 14 Qual desses modelos o
+artesão deve adquirir para conseguir armazenar o maior número
+de potes por caixa?`,
     images: ['/enem/2018/images/enem_2018_d2_q140.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I` },
@@ -1860,30 +1563,16 @@ de prata 925?`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Em um aeroporto, os passageiros devem submeter 
-suas bagagens a uma das cinco máquinas de raio-X 
-disponíveis ao adentrarem a sala de embarque. Num 
-dado instante, o tempo gasto por essas máquinas para 
-escanear a bagagem de cada passageiro é o número de 
-pessoas presentes em cada fila estão apresentados em 
-um painel, como mostrado na figura. 
-Máquina 5 
-Máquina 4 
-Máquina 3 
-Máquina 2
-Máquina 1 
-35 segundos 
-5 pessoas 
-25 segundos 
-6 pessoas 
-22 segundos 
-7 pessoas 
-40 segundos 
-4 pessoas 
-20 segundos 
-8 pessoas 
-Um passageiro, ao chegar à sala de embarque desse 
-aeroporto no instante indicado, visando esperar o menor 
+    text: `Em um aeroporto, os passageiros devem submeter suas bagagens a
+uma das cinco máquinas de raio-X disponíveis ao adentrarem a
+sala de embarque. Num dado instante, o tempo gasto por essas
+máquinas para escanear a bagagem de cada passageiro é o número
+de pessoas presentes em cada fila estão apresentados em um
+painel, como mostrado na figura. Máquina 5 Máquina 4 Máquina 3
+Máquina 2 Máquina 1 35 segundos 5 pessoas 25 segundos 6
+pessoas 22 segundos 7 pessoas 40 segundos 4 pessoas 20
+segundos 8 pessoas Um passageiro, ao chegar à sala de embarque
+desse aeroporto no instante indicado, visando esperar o menor
 tempo possível, deverá se dirigir à máquina`,
     images: ['/enem/2018/images/enem_2018_d2_q144.jpg'],
     alternatives: [
@@ -1903,31 +1592,15 @@ tempo possível, deverá se dirigir à máquina`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `A Comissão Interna de Prevenção de Acidentes 
-(CIPA) de uma empresa, observando os altos custos 
-com os frequentes acidentes de trabalho ocorridos, fez, a 
-pedido da diretoria, uma pesquisa do número de acidentes 
-sofridos por funcionários. Essa pesquisa, realizada com 
-uma amostra de 100 funcionários, norteará as ações da 
-empresa na política de segurança no trabalho. 
-Os resultados obtidos estão no quadro. 
-Número de 
-acidentes sofridos 
-Número de 
-trabalhadores 
-0 
-50 
-1 
-17 
-2 
-15 
-3 
-10 
-4 
-6 
-5 
-2 
-A média do número de acidentes por funcionário na 
+    text: `A Comissão Interna de Prevenção de Acidentes (CIPA) de uma
+empresa, observando os altos custos com os frequentes
+acidentes de trabalho ocorridos, fez, a pedido da diretoria,
+uma pesquisa do número de acidentes sofridos por funcionários.
+Essa pesquisa, realizada com uma amostra de 100 funcionários,
+norteará as ações da empresa na política de segurança no
+trabalho. Os resultados obtidos estão no quadro. Número de
+acidentes sofridos Número de trabalhadores 0 50 1 17 2 15 3 10
+4 6 5 2 A média do número de acidentes por funcionário na
 amostra que a CIPA apresentará à diretoria da empresa é`,
     images: ['/enem/2018/images/enem_2018_d2_q145.jpg'],
     alternatives: [
@@ -2052,25 +1725,22 @@ dado pela expressão`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `A inclinação de uma rampa é calculada da seguinte maneira: para cada metro medido na horizontal, mede-se x 
-centímetros na vertical. Diz-se, nesse caso, que a rampa tem inclinação de x %, como no exemplo da figura: 
-20 cm 
-1 m 
-A figura apresenta um projeto de uma rampa de acesso a uma garagem residencial cuja base, situada 2 metros 
-abaixo do nível da rua, tem 8 metros de comprimento. 
-Portão 
-Nível da rua 
-Garagem 
-2 m 
-Rampa 
-Nível da base 
-da garagem 
-8 m 
-Depois de projetada a rampa, o responsável pela obra foi informado de que as normas técnicas do município onde 
-ela está localizada exigem que a inclinação máxima de uma rampa de acesso a uma garagem residencial seja de 20%. 
-Se a rampa projetada tiver inclinação superior a 20%, o nível da garagem devera ser alterado para diminuir o 
-percentual de inclinação, mantendo o comprimento da base da rampa. 
-Para atender às normas técnicas do município, o nível da garagem devera ser`,
+    text: `A inclinação de uma rampa é calculada da seguinte maneira:
+para cada metro medido na horizontal, mede-se x centímetros na
+vertical. Diz-se, nesse caso, que a rampa tem inclinação de x
+%, como no exemplo da figura: 20 cm 1 m A figura apresenta um
+projeto de uma rampa de acesso a uma garagem residencial cuja
+base, situada 2 metros abaixo do nível da rua, tem 8 metros de
+comprimento. Portão Nível da rua Garagem 2 m Rampa Nível da
+base da garagem 8 m Depois de projetada a rampa, o responsável
+pela obra foi informado de que as normas técnicas do município
+onde ela está localizada exigem que a inclinação máxima de uma
+rampa de acesso a uma garagem residencial seja de 20%. Se a
+rampa projetada tiver inclinação superior a 20%, o nível da
+garagem devera ser alterado para diminuir o percentual de
+inclinação, mantendo o comprimento da base da rampa. Para
+atender às normas técnicas do município, o nível da garagem
+devera ser`,
     images: ['/enem/2018/images/enem_2018_d2_q149_1.jpg', '/enem/2018/images/enem_2018_d2_q149_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `elevado em 40 cm.` },
@@ -2135,24 +1805,19 @@ ganhar o prêmio, a pessoa deve escolher a opção`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `A Ecofont possui design baseado na velha fonte 
-Vera Sans. Porém, ela tem um diferencial: pequenos 
-buraquinhos circulares congruentes, e em todo o seu corpo, 
-presentes em cada símbolo. Esses furos proporcionam 
-um gasto de tinta menor na hora da impressão. 
-Disponível em: www.goo.gl. Acesso em: 2 dez. 2017 (adaptado). 
-Suponha que a palavra ECO esteja escrita nessa fonte, 
-com tamanho 192, e que seja composta por letras formadas 
-por quadrados de lados x com furos circulares de raio 
-x 
-3 
-r = 
-. Para que a área a ser pintada seja reduzida a 1 
-16 
-da área inicial, pretende-se reduzir o tamanho da fonte. 
-Sabe-se que, ao alterar o tamanho da fonte, o tamanho 
-da letra é alterado na mesma proporção. 
-Nessas condições, o tamanho adequado da fonte será`,
+    text: `A Ecofont possui design baseado na velha fonte Vera Sans.
+Porém, ela tem um diferencial: pequenos buraquinhos circulares
+congruentes, e em todo o seu corpo, presentes em cada símbolo.
+Esses furos proporcionam um gasto de tinta menor na hora da
+impressão. Disponível em: www.goo.gl. Acesso em: 2 dez. 2017
+(adaptado). Suponha que a palavra ECO esteja escrita nessa
+fonte, com tamanho 192, e que seja composta por letras
+formadas por quadrados de lados x com furos circulares de raio
+x 3 r = . Para que a área a ser pintada seja reduzida a 1 16
+da área inicial, pretende-se reduzir o tamanho da fonte.
+Sabe-se que, ao alterar o tamanho da fonte, o tamanho da letra
+é alterado na mesma proporção. Nessas condições, o tamanho
+adequado da fonte será`,
     images: ['/enem/2018/images/enem_2018_d2_q151.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `64.` },
@@ -2171,30 +1836,7 @@ Nessas condições, o tamanho adequado da fonte será`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Para criar um logotipo, um profissional da área de 
-design gráfico deseja construí-lo utilizando o conjunto de 
-pontos do plano na forma de um triângulo, exatamente 
-como mostra a imagem. 
-y 
-15 
-10 
-5 
-x 
-0 
-− 15 
-− 10 
-− 5 
-5 
-15 
-10 
-− 5 
-− 10 
-− 15 
-Para construir tal imagem utilizando uma ferramenta 
-gráfica, será necessário escrever algebricamente o 
-conjunto que representa os pontos desse gráfico. 
-Esse conjunto é dado pelos pares ordenados (x ; y) ∈  ×  , 
-tais que`,
+    text: ``,
     images: ['/enem/2018/images/enem_2018_d2_q152.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `0 ≤ x ≤ y ≤ 10` },
@@ -2397,17 +2039,16 @@ precisará comprar?`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Minecraft é um jogo virtual que pode auxiliar no desenvolvimento de conhecimentos relacionados a espaço e forma. 
-É possível criar casas, edifícios, monumentos e até naves espaciais, tudo em escala real, através do empilhamento 
-de cubinhos. 
-Um jogador deseja construir um cubo com dimensões 4 × 4 × 4. Ele ja empilhou alguns dos cubinhos necessários, 
-conforme a figura. 
-+ 
-+ 
-+ 
-Os cubinhos que ainda faltam empilhar para finalizar a construção do cubo, juntos, formam uma peca única, capaz 
-de completar a tarefa. 
-O formato da peça capaz de completar o cubo 4 × 4 × 4 é`,
+    text: `Minecraft é um jogo virtual que pode auxiliar no
+desenvolvimento de conhecimentos relacionados a espaço e
+forma. É possível criar casas, edifícios, monumentos e até
+naves espaciais, tudo em escala real, através do empilhamento
+de cubinhos. Um jogador deseja construir um cubo com dimensões
+4 × 4 × 4. Ele ja empilhou alguns dos cubinhos necessários,
+conforme a figura. + + + Os cubinhos que ainda faltam empilhar
+para finalizar a construção do cubo, juntos, formam uma peca
+única, capaz de completar a tarefa. O formato da peça capaz de
+completar o cubo 4 × 4 × 4 é`,
     images: ['/enem/2018/images/enem_2018_d2_q159.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2018/images/enem_2018_d2_q159_A.jpg` },
@@ -2666,29 +2307,20 @@ nível fácil que o gerente deve acrescentar à urna é igual a`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `A raiva é uma doença viral e infecciosa, transmitida 
-por mamíferos. A campanha nacional de vacinação 
-antirrábica tem o objetivo de controlar a circulação 
-do vírus da raiva canina e felina, prevenindo a raiva 
-humana. O gráfico mostra a cobertura (porcentagem 
-de vacinados) da campanha, em cães, nos anos de 
-2013, 2015 e 2017, no município de Belo Horizonte, 
-em Minas Gerais. Os valores das coberturas dos 
-anos de 2014 e 2016 não estão informados no 
-gráfico e deseja-se estimá-los. Para tal, levou-se 
-em consideração que a variação na cobertura de 
-vacinação da campanha antirrábica, nos períodos de 
-2013 a 2015 e de 2015 a 2017, deu-se de forma linear. 
-67% 
-59% 
-61% 
-2013 
-2014 
-2015 
-2016 
-2017 
-Disponível em: http://pni.datasus.gov.br. Acesso em: 5 nov. 2017. 
-Qual teria sido a cobertura dessa campanha no ano de 2014?`,
+    text: `A raiva é uma doença viral e infecciosa, transmitida por
+mamíferos. A campanha nacional de vacinação antirrábica tem o
+objetivo de controlar a circulação do vírus da raiva canina e
+felina, prevenindo a raiva humana. O gráfico mostra a
+cobertura (porcentagem de vacinados) da campanha, em cães, nos
+anos de 2013, 2015 e 2017, no município de Belo Horizonte, em
+Minas Gerais. Os valores das coberturas dos anos de 2014 e
+2016 não estão informados no gráfico e deseja-se estimá-los.
+Para tal, levou-se em consideração que a variação na cobertura
+de vacinação da campanha antirrábica, nos períodos de 2013 a
+2015 e de 2015 a 2017, deu-se de forma linear. 67% 59% 61%
+2013 2014 2015 2016 2017 Disponível em:
+http://pni.datasus.gov.br. Acesso em: 5 nov. 2017. Qual teria
+sido a cobertura dessa campanha no ano de 2014?`,
     images: ['/enem/2018/images/enem_2018_d2_q168.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `62,3%` },
@@ -2733,23 +2365,18 @@ Os valores possíveis para X são, apenas,`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Em 2014 foi inaugurada a maior roda-gigante do 
-mundo, a High Roller , situada em Las Vegas. A figura 
-representa um esboço dessa roda-gigante, no qual o 
-ponto A representa uma de suas cadeiras: 
-A 
-O 
-Solo 
-Solo 
-Disponível em: http://en.wikipedia.org. Acesso em: 22 abr. 2014 (adaptado). 
-A partir da posição indicada, em que o segmento OA 
-se encontra paralelo ao plano do solo, rotaciona-se a 
-High Roller no sentido anti-horário, em torno do ponto O . 
-Sejam t o ângulo determinado pelo segmento OA em 
-relação à sua posição inicial, e f a função que descreve 
-a altura do ponto A , em relação ao solo, em função de t . 
-Após duas voltas completas, f tem o seguinte gráfico:
-A expressão da função altura é dada por`,
+    text: `Em 2014 foi inaugurada a maior roda-gigante do mundo, a High
+Roller , situada em Las Vegas. A figura representa um esboço
+dessa roda-gigante, no qual o ponto A representa uma de suas
+cadeiras: A O Solo Solo Disponível em:
+http://en.wikipedia.org. Acesso em: 22 abr. 2014 (adaptado). A
+partir da posição indicada, em que o segmento OA se encontra
+paralelo ao plano do solo, rotaciona-se a High Roller no
+sentido anti-horário, em torno do ponto O . Sejam t o ângulo
+determinado pelo segmento OA em relação à sua posição inicial,
+e f a função que descreve a altura do ponto A , em relação ao
+solo, em função de t . Após duas voltas completas, f tem o
+seguinte gráfico: A expressão da função altura é dada por`,
     images: ['/enem/2018/images/enem_2018_d2_q170_1.jpg', '/enem/2018/images/enem_2018_d2_q170_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `f(t) = 80 sen(t) + 88` },
@@ -2922,29 +2549,26 @@ serem pagas de acordo com a proposta inicial da loja?`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `O salto ornamental é um esporte em que cada 
-competidor realiza seis saltos. A nota em cada salto é 
-calculada pela soma das notas dos juízes, multiplicada 
-pela nota de partida (o grau de dificuldade de cada salto). 
-Fica em primeiro lugar o atleta que obtiver a maior soma 
-das seis notas recebidas. 
-O atleta 10 irá realizar o último salto da final. 
-Ele observa no Quadro 1, antes de executar o salto, 
-o recorte do quadro parcial de notas com a sua 
-classificação e a dos três primeiros lugares até aquele 
-momento. 
- 
-6 o 
-10 
-687,5 
-Ele precisa decidir com seu treinador qual salto 
-deverá realizar. Os dados dos possíveis tipos de salto 
-estão no Quadro 2. 
- 
-O atleta optará pelo salto com a maior probabilidade 
-de obter a nota estimada, de maneira que lhe permita 
-alcançar o primeiro lugar. 
-Considerando essas condições, o salto que o atleta 
+    text: `O salto ornamental é um esporte em que cada
+competidor realiza seis saltos. A nota em cada salto é
+calculada pela soma das notas dos juízes, multiplicada
+pela nota de partida (o grau de dificuldade de cada salto).
+Fica em primeiro lugar o atleta que obtiver a maior soma
+das seis notas recebidas.
+O atleta 10 irá realizar o último salto da final.
+Ele observa no Quadro 1, antes de executar o salto,
+o recorte do quadro parcial de notas com a sua
+classificação e a dos três primeiros lugares até aquele
+momento.
+
+6 o 10 687,5 Ele precisa decidir com seu treinador qual salto
+deverá realizar. Os dados dos possíveis tipos de salto estão
+no Quadro 2.
+
+O atleta optará pelo salto com a maior probabilidade
+de obter a nota estimada, de maneira que lhe permita
+alcançar o primeiro lugar.
+Considerando essas condições, o salto que o atleta
 deverá escolher é o de tipo`,
     images: ['/enem/2018/images/enem_2018_d2_q176_1.jpg', '/enem/2018/images/enem_2018_d2_q176_2.jpg'],
     alternatives: [

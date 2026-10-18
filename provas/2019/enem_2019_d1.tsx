@@ -164,18 +164,10 @@ campanha publicitária tem como função social`,
     images: ['/enem/2019/images/enem_2019_d1_q6.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `propagar a imagem positiva do Ministério Público.` },
-      { id: 'B', type: 'text', value: `conscientizar 
-a 
-população 
-que 
-direitos 
-implicam deveres.` },
-      { id: 'C', type: 'text', value: `coibir violações de direitos humanos nos meios 
-de comunicação.` },
-      { id: 'D', type: 'text', value: `divulgar políticas sociais que combatem a intolerância 
-e o preconceito.` },
-      { id: 'E', type: 'text', value: `instruir as pessoas sobre a forma correta de 
-expressão nas redes sociais.` },
+      { id: 'B', type: 'text', value: `conscientizar a população que direitos implicam deveres.` },
+      { id: 'C', type: 'text', value: `coibir violações de direitos humanos nos meios de comunicação.` },
+      { id: 'D', type: 'text', value: `divulgar políticas sociais que combatem a intolerância e o preconceito.` },
+      { id: 'E', type: 'text', value: `instruir as pessoas sobre a forma correta de expressão nas redes sociais.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A campanha do Ministério Público afirma que a liberdade de expressão é uma conquista, mas que traz responsabilidades, já que publicar conteúdo que desrespeita direitos é crime. Sua função social é conscientizar a população de que ter direitos implica assumir deveres. Promover a imagem do órgão (A) não é o propósito central do texto. Coibir violações (C), divulgar políticas sociais (D) ou ensinar a 'forma correta' de se expressar nas redes (E) extrapolam ou distorcem a mensagem, que enfatiza a relação entre liberdade e responsabilidade.`,
@@ -210,19 +202,11 @@ as mulheres, buscando conscientizá-las acerca do
 limite entre relacionamento amoroso e relacionamento 
 abusivo. Para tanto, a estratégia empregada na letra é a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `revelação da submissão da mulher à situação de 
-violência, que muitas vezes a leva à morte.` },
-      { id: 'B', type: 'text', value: `ênfase na necessidade de se ouvirem os apelos da 
-mulher agredida, que continuamente pede socorro.` },
-      { id: 'C', type: 'text', value: `exploração de situação de duplo sentido, que mostra 
-que atos de dominação e violência não configuram 
-amor.` },
-      { id: 'D', type: 'text', value: `divulgação da importância de denunciar a violência 
-doméstica, que atinge um grande número de 
-mulheres no país.` },
-      { id: 'E', type: 'text', value: `naturalização de situações opressivas, que fazem 
-parte da vida de mulheres que vivem em uma 
-sociedade patriarcal.` },
+      { id: 'A', type: 'text', value: `revelação da submissão da mulher à situação de violência, que muitas vezes a leva à morte.` },
+      { id: 'B', type: 'text', value: `ênfase na necessidade de se ouvirem os apelos da mulher agredida, que continuamente pede socorro.` },
+      { id: 'C', type: 'text', value: `exploração de situação de duplo sentido, que mostra que atos de dominação e violência não configuram amor.` },
+      { id: 'D', type: 'text', value: `divulgação da importância de denunciar a violência doméstica, que atinge um grande número de mulheres no país.` },
+      { id: 'E', type: 'text', value: `naturalização de situações opressivas, que fazem parte da vida de mulheres que vivem em uma sociedade patriarcal.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. A letra pode ser lida, à primeira vista, como declaração amorosa, mas expressões como 'deixou marcas no meu corpo', 'eu grito, eu quase morro' e 'nem que eu queira, eu te apago da minha mente' criam um duplo sentido que revela traços de dominação e violência. Essa ambiguidade é a estratégia da campanha: mostrar que controle e agressão não configuram amor. Não há foco na submissão fatal da mulher (A), nem ênfase no pedido de socorro (B) ou na denúncia da violência (D). A letra não naturaliza a opressão (E); ao contrário, a problematiza por meio do duplo sentido.`,
@@ -254,21 +238,11 @@ Considerando o objetivo da carta de Tobias Gregson,
 a sequência de enunciados negativos presente nesse 
 texto tem a função de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `restringir 
-a 
-investigação, 
-deixando-a 
-sob 
-a 
-responsabilidade do autor da carta.` },
-      { id: 'B', type: 'text', value: `refutar possíveis causas da morte do cavalheiro, 
-auxiliando na investigação.` },
-      { id: 'C', type: 'text', value: `identificar o local da cena do crime, localizando-o no 
-Jardim Lauriston.` },
-      { id: 'D', type: 'text', value: `introduzir o destinatário da carta, caracterizando sua 
-personalidade.` },
-      { id: 'E', type: 'text', value: `apresentar o vigia, incluindo-o entre os suspeitos do 
-assassinato.` },
+      { id: 'A', type: 'text', value: `restringir a investigação, deixando-a sob a responsabilidade do autor da carta.` },
+      { id: 'B', type: 'text', value: `refutar possíveis causas da morte do cavalheiro, auxiliando na investigação.` },
+      { id: 'C', type: 'text', value: `identificar o local da cena do crime, localizando-o no Jardim Lauriston.` },
+      { id: 'D', type: 'text', value: `introduzir o destinatário da carta, caracterizando sua personalidade.` },
+      { id: 'E', type: 'text', value: `apresentar o vigia, incluindo-o entre os suspeitos do assassinato.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. Na carta, Gregson enumera uma série de constatações negativas — não houve assalto, não havia marcas de sangue nem ferimentos, não se sabe como a vítima entrou na casa. Esses enunciados servem para descartar possíveis causas da morte, auxiliando a investigação que ele pede a Holmes. As negativas não restringem a apuração ao autor da carta (A) nem servem para localizar o crime (C), indicado por outro trecho. Também não caracterizam o destinatário (D) nem apontam o vigia como suspeito (E).`,
@@ -307,12 +281,9 @@ BETTI, M. Motriz , n. 2, jul.-dez. 2001 (adaptado).
 A reflexão trazida pelo texto, que aborda o esporte 
 telespetáculo, está fundamentada na`,
     alternatives: [
-      { id: 'A', type: 'text', value: `distorção da experiência do ser-atleta para os 
-espectadores.` },
-      { id: 'B', type: 'text', value: `interpretação dos espectadores sobre o conteúdo 
-transmitido.` },
-      { id: 'C', type: 'text', value: `utilização de equipamentos audiovisuais de última 
-geração.` },
+      { id: 'A', type: 'text', value: `distorção da experiência do ser-atleta para os espectadores.` },
+      { id: 'B', type: 'text', value: `interpretação dos espectadores sobre o conteúdo transmitido.` },
+      { id: 'C', type: 'text', value: `utilização de equipamentos audiovisuais de última geração.` },
       { id: 'D', type: 'text', value: `valorização de uma visão ampliada do esporte.` },
       { id: 'E', type: 'text', value: `equiparação entre a forma e o conteúdo.` },
     ],
@@ -407,8 +378,7 @@ divulgada no Texto II. Independentemente de seus
 objetivos, ambos os textos`,
     images: ['/enem/2019/images/enem_2019_d1_q12.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `incentivam a produção de roteiros compostos 
-por imagens.` },
+      { id: 'A', type: 'text', value: `incentivam a produção de roteiros compostos por imagens.` },
       { id: 'B', type: 'text', value: `colaboram para a valorização de enredos românticos.` },
       { id: 'C', type: 'text', value: `revelam o sucesso de um evento de cartunistas.` },
       { id: 'D', type: 'text', value: `contribuem com o processo de acessibilidade.` },
@@ -442,12 +412,7 @@ ironiza a reação da sociedade brasileira dos anos 1930
 diante de determinada vanguarda europeia. Nessa 
 visão, atribui-se ao público leitor uma postura`,
     alternatives: [
-      { id: 'A', type: 'text', value: `preconceituosa, 
-ao 
-evitar 
-formas 
-poéticas 
-simplificadas.` },
+      { id: 'A', type: 'text', value: `preconceituosa, ao evitar formas poéticas simplificadas.` },
       { id: 'B', type: 'text', value: `conservadora, ao optar por modelos consagrados.` },
       { id: 'C', type: 'text', value: `preciosista, ao preferir modelos literários eruditos.` },
       { id: 'D', type: 'text', value: `nacionalista, ao negar modelos estrangeiros.` },
@@ -463,45 +428,23 @@ simplificadas.` },
     exam: 'enem',
     year: 2019,
     day: 1,
-    text: `A viagem 
-Que coisas devo levar 
-nesta viagem em que partes? 
-As cartas de navegação só servem 
-a quem fica. 
-Com que mapas desvendar 
-um continente 
-que falta? 
-Estrangeira do teu corpo 
-tão comum 
-quantas línguas aprender 
-para calar-me? 
-Também quem fica 
-procura 
-um oriente. 
-Também 
-a quem fica 
-cabe uma paisagem nova 
-e a travessia insone do desconhecido 
-e a alegria difícil da descoberta. 
-O que levas do que fica, 
-o que, do que levas, retiro? 
-MARQUES, A. M. In: SANT’ANNA, A. (Org.). Rua Aribau . 
-Porto Alegre: Tag, 2018. 
-A viagem e a ausência remetem a um repertório poético 
-tradicional. No poema, a voz lírica dialoga com essa 
-tradição, repercutindo a`,
+    text: `A viagem Que coisas devo levar nesta viagem em que partes? As
+cartas de navegação só servem a quem fica. Com que mapas
+desvendar um continente que falta? Estrangeira do teu corpo
+tão comum quantas línguas aprender para calar-me? Também quem
+fica procura um oriente. Também a quem fica cabe uma paisagem
+nova e a travessia insone do desconhecido e a alegria difícil
+da descoberta. O que levas do que fica, o que, do que levas,
+retiro? MARQUES, A. M. In: SANT’ANNA, A. (Org.). Rua Aribau .
+Porto Alegre: Tag, 2018. A viagem e a ausência remetem a um
+repertório poético tradicional. No poema, a voz lírica dialoga
+com essa tradição, repercutindo a`,
     alternatives: [
       { id: 'A', type: 'text', value: `saudade como experiência de apatia.` },
       { id: 'B', type: 'text', value: `presença da fragmentação da identidade.` },
       { id: 'C', type: 'text', value: `negação do desejo como expressão de culpa.` },
-      { id: 'D', type: 'text', value: `persistência 
-da 
-memória 
-na 
-valorização 
-do passado.` },
-      { id: 'E', type: 'text', value: `revelação de rumos projetada pela vivência 
-da solidão.` },
+      { id: 'D', type: 'text', value: `persistência da memória na valorização do passado.` },
+      { id: 'E', type: 'text', value: `revelação de rumos projetada pela vivência da solidão.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O poema dialoga com a tradição lírica da viagem e da ausência, mas desloca o foco para quem fica: a voz lírica mostra que também a quem permanece cabe 'uma paisagem nova', a 'travessia insone do desconhecido' e a 'alegria difícil da descoberta'. Revela-se, assim, a projeção de novos rumos a partir da experiência da solidão. Não há apatia (A), fragmentação da identidade (B) nem negação do desejo como culpa (C). O poema não se volta à valorização do passado (D), mas ao que se descobre na permanência.`,
@@ -538,16 +481,11 @@ Acesso em: 5 dez. 2018 (adaptado).
 A função da linguagem que predomina nesse texto se 
 caracteriza por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `evidenciar a subjetividade da reportagem com base 
-na fala do historiador de arte.` },
-      { id: 'B', type: 'text', value: `convencer o leitor a fazer o acesso on-line, levando-o 
-a conhecer as obras de arte.` },
-      { id: 'C', type: 'text', value: `informar sobre o acesso às imagens por meio da 
-descrição do modo como acessá-las.` },
-      { id: 'D', type: 'text', value: `estabelecer interlocução com o leitor, orientando-o a 
-fazer o download das obras de arte.` },
-      { id: 'E', type: 'text', value: `enaltecer a arte, buscando popularizá-la por meio da 
-possibilidade de visualização on-line.` },
+      { id: 'A', type: 'text', value: `evidenciar a subjetividade da reportagem com base na fala do historiador de arte.` },
+      { id: 'B', type: 'text', value: `convencer o leitor a fazer o acesso on-line, levando-o a conhecer as obras de arte.` },
+      { id: 'C', type: 'text', value: `informar sobre o acesso às imagens por meio da descrição do modo como acessá-las.` },
+      { id: 'D', type: 'text', value: `estabelecer interlocução com o leitor, orientando-o a fazer o download das obras de arte.` },
+      { id: 'E', type: 'text', value: `enaltecer a arte, buscando popularizá-la por meio da possibilidade de visualização on-line.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto informa sobre o acervo on-line do Instituto de Arte de Chicago e detalha os procedimentos de acesso — clicar na imagem, usar o zoom e acionar a seta para baixar as obras. Predomina, portanto, a função referencial, voltada a informar por meio da descrição de como acessar o conteúdo. Não há predomínio de subjetividade (A) nem intenção central de convencer o leitor (B) ou de enaltecer a arte (E). Embora traga orientações, o foco é a informação objetiva, e não o estabelecimento de interlocução apelativa (D).`,
@@ -581,16 +519,11 @@ Porto Alegre: L&PM, 1997 (adaptado).
 Nessa crônica, o efeito de humor é basicamente 
 construído por uma`,
     alternatives: [
-      { id: 'A', type: 'text', value: `segmentação de enunciados baseada na descrição 
-dos hábitos do personagem.` },
-      { id: 'B', type: 'text', value: `ordenação dos constituintes oracionais na qual se 
-destaca o núcleo verbal.` },
-      { id: 'C', type: 'text', value: `estrutura composicional caracterizada pelo arranjo 
-singular dos períodos.` },
-      { id: 'D', type: 'text', value: `sequenciação narrativa na qual se articulam eventos 
-absurdos.` },
-      { id: 'E', type: 'text', value: `seleção lexical na qual predominam informações 
-redundantes.` },
+      { id: 'A', type: 'text', value: `segmentação de enunciados baseada na descrição dos hábitos do personagem.` },
+      { id: 'B', type: 'text', value: `ordenação dos constituintes oracionais na qual se destaca o núcleo verbal.` },
+      { id: 'C', type: 'text', value: `estrutura composicional caracterizada pelo arranjo singular dos períodos.` },
+      { id: 'D', type: 'text', value: `sequenciação narrativa na qual se articulam eventos absurdos.` },
+      { id: 'E', type: 'text', value: `seleção lexical na qual predominam informações redundantes.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O humor da crônica nasce do encadeamento de situações absurdas e inesperadas, como as baratas que roubam máscaras e a agenda em branco que o detetive considera um 'ganho'. É essa sequenciação narrativa de eventos disparatados que produz a comicidade. O efeito não decorre da mera descrição de hábitos (A) nem do destaque ao núcleo verbal (B). A singularidade dos períodos (C) e a suposta redundância lexical (E) não explicam o humor, que se apoia na articulação de acontecimentos absurdos.`,
@@ -680,16 +613,11 @@ OTONI, A. C. O Globo , 31 mar. 2015 (adaptado).
 Sobre o compartilhamento parental excessivo em mídias 
 sociais, o texto destaca como impacto o(a)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `interferência das novas tecnologias na comunicação 
-entre pais e filhos.` },
-      { id: 'B', type: 'text', value: `desatenção dos pais em relação ao comportamento 
-dos filhos na internet.` },
-      { id: 'C', type: 'text', value: `distanciamento na relação entre pais e filhos 
-provocado pelo uso das redes sociais.` },
-      { id: 'D', type: 'text', value: `fortalecimento das redes de relações decorrente da 
-troca de experiências entre as famílias.` },
-      { id: 'E', type: 'text', value: `desrespeito à intimidade das crianças cujas imagens 
-têm sido divulgadas nas redes sociais.` },
+      { id: 'A', type: 'text', value: `interferência das novas tecnologias na comunicação entre pais e filhos.` },
+      { id: 'B', type: 'text', value: `desatenção dos pais em relação ao comportamento dos filhos na internet.` },
+      { id: 'C', type: 'text', value: `distanciamento na relação entre pais e filhos provocado pelo uso das redes sociais.` },
+      { id: 'D', type: 'text', value: `fortalecimento das redes de relações decorrente da troca de experiências entre as famílias.` },
+      { id: 'E', type: 'text', value: `desrespeito à intimidade das crianças cujas imagens têm sido divulgadas nas redes sociais.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto alerta para a 'exposição parental exagerada': ao publicar fotos e vídeos dos filhos pequenos, os pais expõem a privacidade das crianças, que não participam da decisão e podem ter sua intimidade violada no futuro. O impacto destacado é, portanto, o desrespeito à intimidade das crianças cujas imagens são divulgadas. Não se trata de interferência na comunicação entre pais e filhos (A), de desatenção ao comportamento deles (B) nem de distanciamento afetivo (C). O fortalecimento das redes familiares (D) é citado como benefício, não como o impacto negativo apontado.`,
@@ -701,32 +629,25 @@ têm sido divulgadas nas redes sociais.` },
     exam: 'enem',
     year: 2019,
     day: 1,
-    text: `O projeto DataViva consiste na oferta de dados oficiais 
-sobre exportações, atividades econômicas, localidades e 
-ocupações profissionais de todo o Brasil. Num primeiro 
-momento, o DataViva construiu uma ferramenta que 
-permitia a análise da economia mineira embasada por 
-essa perspectiva metodológica complexa e diversa. 
-No entanto, diante das possibilidades oferecidas pelas 
-bases de dados trabalhadas, a plataforma evoluiu para 
-um sistema mais completo. De maneira interativa e 
-didática, o usuário é guiado por meio das diversas formas 
-de navegação dos aplicativos. Além de informações 
-sobre os produtos exportados, bem como acerca do 
-volume das exportações em cada um dos estados e 
-municípios do País, em poucos cliques, o interessado 
-pode conhecer melhor o perfil da população, o tipo de 
-atividade desenvolvida, as ocupações formais e a média 
-salarial por categoria. 
-MANTOVANI, C. A. Guardião de informações. Minas faz Ciência , 
-n. 58, jun.-jul.-ago. 2014 (adaptado). 
-Entre 
-as 
-novas 
-possibilidades 
-promovidas 
-pelo 
-desenvolvimento de novas tecnologias, o texto destaca a`,
+    text: `O projeto DataViva consiste na oferta de dados oficiais sobre
+exportações, atividades econômicas, localidades e ocupações
+profissionais de todo o Brasil. Num primeiro momento, o
+DataViva construiu uma ferramenta que permitia a análise da
+economia mineira embasada por essa perspectiva metodológica
+complexa e diversa. No entanto, diante das possibilidades
+oferecidas pelas bases de dados trabalhadas, a plataforma
+evoluiu para um sistema mais completo. De maneira interativa e
+didática, o usuário é guiado por meio das diversas formas de
+navegação dos aplicativos. Além de informações sobre os
+produtos exportados, bem como acerca do volume das exportações
+em cada um dos estados e municípios do País, em poucos
+cliques, o interessado pode conhecer melhor o perfil da
+população, o tipo de atividade desenvolvida, as ocupações
+formais e a média salarial por categoria. MANTOVANI, C. A.
+Guardião de informações. Minas faz Ciência , n. 58,
+jun.-jul.-ago. 2014 (adaptado). Entre as novas possibilidades
+promovidas pelo desenvolvimento de novas tecnologias, o texto
+destaca a`,
     alternatives: [
       { id: 'A', type: 'text', value: `auditoria das ações de governo.` },
       { id: 'B', type: 'text', value: `publicidade das entidades públicas.` },
@@ -770,16 +691,11 @@ de seda brilhante espalhando luz luz luz.
 Escrita na década de 1960, a narrativa põe em evidência 
 uma dramaticidade centrada na`,
     alternatives: [
-      { id: 'A', type: 'text', value: `insinuação da lacuna familiar gerada pela ausência 
-da figura paterna.` },
-      { id: 'B', type: 'text', value: `associação entre a angústia da menina e a reação 
-intempestiva da mãe.` },
-      { id: 'C', type: 'text', value: `relação conflituosa entre o trabalho doméstico e a 
-emancipação feminina.` },
-      { id: 'D', type: 'text', value: `representação de estigmas sociais modulados pela 
-perspectiva da criança.` },
-      { id: 'E', type: 'text', value: `expressão de dúvidas existenciais intensificadas 
-pela percepção do abandono.` },
+      { id: 'A', type: 'text', value: `insinuação da lacuna familiar gerada pela ausência da figura paterna.` },
+      { id: 'B', type: 'text', value: `associação entre a angústia da menina e a reação intempestiva da mãe.` },
+      { id: 'C', type: 'text', value: `relação conflituosa entre o trabalho doméstico e a emancipação feminina.` },
+      { id: 'D', type: 'text', value: `representação de estigmas sociais modulados pela perspectiva da criança.` },
+      { id: 'E', type: 'text', value: `expressão de dúvidas existenciais intensificadas pela percepção do abandono.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O conto flagra o momento em que a menina pergunta à mãe o que é 'desquitada', palavra carregada de um estigma social da década de 1960, o que provoca a tensão e a reação suspensa da mãe. A dramaticidade concentra-se na representação desse estigma social filtrado pela perspectiva infantil. Não há foco na ausência paterna (A); a angústia da menina e a reação materna (B) são efeitos, não o centro. O texto não trata do conflito entre trabalho doméstico e emancipação feminina (C) nem de dúvidas existenciais ligadas ao abandono (E).`,
@@ -836,22 +752,9 @@ texto verbal tem o objetivo de`,
     alternatives: [
       { id: 'A', type: 'text', value: `criticar as difíceis condições de vida dos refugiados.` },
       { id: 'B', type: 'text', value: `revelar a longa trajetória percorrida pelos refugiados.` },
-      { id: 'C', type: 'text', value: `incentivar 
-a 
-campanha 
-de 
-doações 
-para 
-os refugiados.` },
-      { id: 'D', type: 'text', value: `denunciar 
-a 
-situação 
-de 
-carência 
-vivida 
-pelos refugiados.` },
-      { id: 'E', type: 'text', value: `simbolizar a necessidade de adesão à causa 
-dos refugiados.` },
+      { id: 'C', type: 'text', value: `incentivar a campanha de doações para os refugiados.` },
+      { id: 'D', type: 'text', value: `denunciar a situação de carência vivida pelos refugiados.` },
+      { id: 'E', type: 'text', value: `simbolizar a necessidade de adesão à causa dos refugiados.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O cartaz do ACNUR mostra sapatos gastos ao lado do convite 'vamos calçar os sapatos dos refugiados e dar o primeiro passo para entender sua situação'. A imagem associada ao texto simboliza a necessidade de adesão à causa dos refugiados, convidando o leitor a se colocar no lugar deles. Não se trata apenas de criticar suas condições de vida (A) nem de revelar a trajetória percorrida (B). O foco não é incentivar doações (C) nem somente denunciar a carência (D), mas engajar o público na causa.`,
@@ -880,14 +783,8 @@ pela utilização da sequência textual`,
       { id: 'A', type: 'text', value: `expositiva, por discorrer sobre um dado tema.` },
       { id: 'B', type: 'text', value: `narrativa, por apresentar uma cadeia de ações.` },
       { id: 'C', type: 'text', value: `injuntiva, por chamar o interlocutor à participação.` },
-      { id: 'D', type: 'text', value: `descritiva, 
-por 
-enumerar 
-características 
-de 
-um personagem.` },
-      { id: 'E', type: 'text', value: `argumentativa, por incitar o leitor a uma tomada 
-de atitude.` },
+      { id: 'D', type: 'text', value: `descritiva, por enumerar características de um personagem.` },
+      { id: 'E', type: 'text', value: `argumentativa, por incitar o leitor a uma tomada de atitude.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. A letra repete apelos como 'Vamos pedir piedade / Senhor, piedade', convocando o interlocutor a tomar parte na súplica, à maneira de uma ladainha. Esse traço corresponde à sequência textual injuntiva, que chama o interlocutor à participação. Não predomina a sequência expositiva (A), a narrativa (B) nem a descritiva (D). Embora a canção tenha apelo, o que a aproxima da ladainha é a convocação injuntiva repetida, e não uma sequência argumentativa que incite a uma tomada de atitude (E).`,
@@ -915,12 +812,9 @@ A notícia relata um evento cultural que marca a`,
     alternatives: [
       { id: 'A', type: 'text', value: `primazia do samba sobre a música nordestina.` },
       { id: 'B', type: 'text', value: `inter-relação entre dois gêneros musicais brasileiros.` },
-      { id: 'C', type: 'text', value: `valorização das origens oligárquicas da cultura 
-nordestina.` },
-      { id: 'D', type: 'text', value: `proposta de resgate de antigos gêneros musicais 
-brasileiros.` },
-      { id: 'E', type: 'text', value: `criatividade em compor um samba-enredo em 
-homenagem a uma pessoa.` },
+      { id: 'C', type: 'text', value: `valorização das origens oligárquicas da cultura nordestina.` },
+      { id: 'D', type: 'text', value: `proposta de resgate de antigos gêneros musicais brasileiros.` },
+      { id: 'E', type: 'text', value: `criatividade em compor um samba-enredo em homenagem a uma pessoa.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. A notícia relata que a escola de samba Unidos da Tijuca homenageou Luiz Gonzaga, o 'Rei do Baião', levando a cultura nordestina para o desfile. O evento marca, assim, a inter-relação entre dois gêneros musicais brasileiros: o samba-enredo e o baião. Não há afirmação de primazia do samba sobre a música nordestina (A) nem valorização de origens oligárquicas (C). O texto não propõe resgatar antigos gêneros (D), e a simples criatividade de homenagear alguém (E) não traduz o cruzamento cultural destacado.`,
@@ -1013,18 +907,10 @@ Traçando a gênese simbólica de sua cidade, o narrador
 imprime ao texto um sentido estético fundamentado na`,
     alternatives: [
       { id: 'A', type: 'text', value: `excentricidade dos bairros cariocas de sua infância.` },
-      { id: 'B', type: 'text', value: `perspectiva caricata da paisagem de traços 
-deteriorados.` },
-      { id: 'C', type: 'text', value: `importância dos fatos relacionados à história 
-dos subúrbios.` },
-      { id: 'D', type: 'text', value: `diversidade dos tipos humanos identificados por 
-seus hábitos.` },
-      { id: 'E', type: 'text', value: `experiência 
-do 
-cotidiano 
-marcado 
-pelas 
-necessidades e urgências.` },
+      { id: 'B', type: 'text', value: `perspectiva caricata da paisagem de traços deteriorados.` },
+      { id: 'C', type: 'text', value: `importância dos fatos relacionados à história dos subúrbios.` },
+      { id: 'D', type: 'text', value: `diversidade dos tipos humanos identificados por seus hábitos.` },
+      { id: 'E', type: 'text', value: `experiência do cotidiano marcado pelas necessidades e urgências.` },
     ],
     correct: 'B',
     explanation: `Resposta correta: B. O narrador traça uma gênese mítica e exagerada do subúrbio, afirmando que ele surgiu 'antes mesmo dos vulcões' e reunindo, numa mesma enumeração desproporcional, morros, barracos, botecos, bancas de jogo do bicho e até um cemitério. Esse olhar hiperbólico, somado às imagens de pobreza, poeira e 'calçadas encardidas de sol', constrói uma perspectiva caricata de uma paisagem de traços deteriorados. Não há foco na excentricidade dos bairros da infância (A) nem na valorização de fatos históricos dos subúrbios (C). O texto não destaca a diversidade de tipos humanos por seus hábitos (D), e o cotidiano aparece como cenário dessa caricatura, e não como experiência marcada por necessidades e urgências em si (E).`,
@@ -1099,19 +985,11 @@ Relacionando-se as ideias dos textos a respeito da
 história e memória das línguas, quanto à formação da 
 língua portuguesa, constata-se que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a presença de elementos de outras línguas no 
-português foi historicamente avaliada como um 
-índice de riqueza.` },
-      { id: 'B', type: 'text', value: `o estudioso da língua pode identificar com precisão 
-os elementos deixados por outras línguas na 
-transformação da língua portuguesa.` },
-      { id: 'C', type: 'text', value: `o português é o resultado da influência de outras 
-línguas no passado e carrega marcas delas em suas 
-múltiplas camadas.` },
-      { id: 'D', type: 'text', value: `o árabe e o latim estão na formação escolar e na 
-memória dos falantes brasileiros.` },
-      { id: 'E', type: 'text', value: `a influência de outras línguas no português ocorreu 
-de maneira uniforme ao longo da história.` },
+      { id: 'A', type: 'text', value: `a presença de elementos de outras línguas no português foi historicamente avaliada como um índice de riqueza.` },
+      { id: 'B', type: 'text', value: `o estudioso da língua pode identificar com precisão os elementos deixados por outras línguas na transformação da língua portuguesa.` },
+      { id: 'C', type: 'text', value: `o português é o resultado da influência de outras línguas no passado e carrega marcas delas em suas múltiplas camadas.` },
+      { id: 'D', type: 'text', value: `o árabe e o latim estão na formação escolar e na memória dos falantes brasileiros.` },
+      { id: 'E', type: 'text', value: `a influência de outras línguas no português ocorreu de maneira uniforme ao longo da história.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O Texto I compara a língua a um arquivo geológico que retém, em camadas, marcas das eras pelas quais passou; o Texto II lembra a influência árabe na história do português. Relacionando-os, conclui-se que o português resulta da influência de outras línguas no passado e carrega marcas delas em suas múltiplas camadas. A presença dessas marcas nem sempre foi vista como riqueza (A), e o estudioso só as acessa 'em parte', não com precisão total (B). O árabe e o latim não estão na memória escolar dos falantes (D), e a influência não foi uniforme (E).`,
@@ -1133,20 +1011,9 @@ objeto de arte por meio da`,
     alternatives: [
       { id: 'A', type: 'text', value: `reciclagem da matéria-prima original.` },
       { id: 'B', type: 'text', value: `complexidade da combinação de formas abstratas.` },
-      { id: 'C', type: 'text', value: `perenidade 
-dos 
-elementos 
-que 
-constituem 
-a escultura.` },
-      { id: 'D', type: 'text', value: `mudança 
-da 
-funcionalidade 
-pela 
-integração 
-dos objetos.` },
-      { id: 'E', type: 'text', value: `fragmentação da imagem no uso de elementos 
-diversificados.` },
+      { id: 'C', type: 'text', value: `perenidade dos elementos que constituem a escultura.` },
+      { id: 'D', type: 'text', value: `mudança da funcionalidade pela integração dos objetos.` },
+      { id: 'E', type: 'text', value: `fragmentação da imagem no uso de elementos diversificados.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. Na obra Cabeça de touro, Picasso une um selim e um guidão de bicicleta, objetos descartados que, reorganizados, passam a representar a cabeça de um touro. O material vira arte pela mudança de funcionalidade decorrente da integração desses objetos. Não há reciclagem da matéria-prima original (A) nem combinação de formas abstratas (B). A questão não está na perenidade dos materiais (C) nem na fragmentação da imagem (E), mas na ressignificação de peças comuns ao serem integradas.`,
@@ -1193,16 +1060,11 @@ LIMA, F. Galileu . São Paulo, n. 248, mar. 2012.
 Para convencer o leitor de que o exercício físico é 
 importante, o autor usa a estratégia de divulgar que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a falta de exercício físico não emagrece e desenvolve 
-doenças.` },
-      { id: 'B', type: 'text', value: `se trata de uma forma de transformar a gordura 
-branca em marrom e de emagrecer.` },
-      { id: 'C', type: 'text', value: `a irisina é um hormônio que apenas é produzido com 
-o exercício físico.` },
-      { id: 'D', type: 'text', value: `o exercício é uma forma de afinar a silhueta por 
-eliminar a gordura branca.` },
-      { id: 'E', type: 'text', value: `se produzem outros hormônios e há outros benefícios 
-com o exercício.` },
+      { id: 'A', type: 'text', value: `a falta de exercício físico não emagrece e desenvolve doenças.` },
+      { id: 'B', type: 'text', value: `se trata de uma forma de transformar a gordura branca em marrom e de emagrecer.` },
+      { id: 'C', type: 'text', value: `a irisina é um hormônio que apenas é produzido com o exercício físico.` },
+      { id: 'D', type: 'text', value: `o exercício é uma forma de afinar a silhueta por eliminar a gordura branca.` },
+      { id: 'E', type: 'text', value: `se produzem outros hormônios e há outros benefícios com o exercício.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. Embora noticie a pesquisa que isolou a irisina, hormônio que imita os efeitos do exercício, o autor ressalta que ela não substitui a atividade física: cita o especialista ao lembrar que há muitos outros hormônios liberados durante o exercício ainda não descobertos e que a irisina não fortalece os músculos. Essa é a estratégia para valorizar o exercício: mostrar que ele produz outros hormônios e oferece outros benefícios. As demais alternativas distorcem o texto, que não diz que a falta de exercício causa doenças diretamente (A), não defende o emagrecimento sem esforço (B), não restringe a produção da irisina apenas ao exercício como argumento central (C) nem afirma que o exercício elimina a gordura branca (D), já que o processo descrito é a conversão dela em gordura marrom.`,
@@ -1277,10 +1139,8 @@ meses do ano em português`,
       { id: 'A', type: 'text', value: `reflete a origem latina de nossa língua.` },
       { id: 'B', type: 'text', value: `decorre de uma língua falada no Egito antigo.` },
       { id: 'C', type: 'text', value: `tem como base um calendário criado por Cleópatra.` },
-      { id: 'D', type: 'text', value: `segue a reformulação da norma da língua proposta 
-por Júlio César.` },
-      { id: 'E', type: 'text', value: `resulta da padronização do calendário antes da 
-fundação de Roma.` },
+      { id: 'D', type: 'text', value: `segue a reformulação da norma da língua proposta por Júlio César.` },
+      { id: 'E', type: 'text', value: `resulta da padronização do calendário antes da fundação de Roma.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. O texto conta que os nomes dos meses vêm do calendário romano reformado por Júlio César (Januarius, Februarius, Martius...), dos quais derivam as formas atuais em português. Isso mostra que a escrita dos meses reflete a origem latina da nossa língua. Ela não decorre de uma língua do Egito antigo (B) — os matemáticos egípcios ajudaram no cálculo, não na nomeação — nem se baseia em um calendário criado por Cleópatra (C). Não se trata de uma reforma da norma linguística proposta por César (D) nem de uma padronização anterior à fundação de Roma (E).`,
@@ -1338,12 +1198,7 @@ processo de criação de Jackson Pollock. A originalidade
 dessa releitura reside na`,
     images: ['/enem/2019/images/enem_2019_d1_q36_1.jpg', '/enem/2019/images/enem_2019_d1_q36_2.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `apropriação 
-parodística 
-das 
-técnicas 
-e 
-materiais utilizados.` },
+      { id: 'A', type: 'text', value: `apropriação parodística das técnicas e materiais utilizados.` },
       { id: 'B', type: 'text', value: `reflexão acerca dos sistemas de circulação da arte.` },
       { id: 'C', type: 'text', value: `simplificação dos traços da composição pictórica.` },
       { id: 'D', type: 'text', value: `contraposição de linguagens artísticas distintas.` },
@@ -1377,28 +1232,11 @@ e comunicação, especificamente o uso de redes sociais.
 Muito se debate acerca dos benefícios e malefícios do 
 uso desses recursos e, nesse sentido, o texto`,
     alternatives: [
-      { id: 'A', type: 'text', value: `aborda a discriminação que as redes sociais sofrem 
-de outros meios de comunicação.` },
-      { id: 'B', type: 'text', value: `mostra que as reivindicações feitas nas redes sociais 
-não têm impacto fora da internet.` },
-      { id: 'C', type: 'text', value: `expõe a possibilidade de as redes sociais 
-favorecerem comportamentos e manifestações 
-violentos 
-dos 
-adolescentes 
-que 
-nelas 
-se relacionam.` },
-      { id: 'D', type: 'text', value: `trata as redes sociais como modo de agregar e 
-empoderar grupos de pessoas, que se unem em prol 
-de causas próprias ou de mudanças sociais.` },
-      { id: 'E', type: 'text', value: `evidencia que as redes sociais são usadas 
-inadequadamente 
-pelos 
-adolescentes, 
-que, 
-imaturos, não utilizam a ferramenta como forma 
-de mudança social.` },
+      { id: 'A', type: 'text', value: `aborda a discriminação que as redes sociais sofrem de outros meios de comunicação.` },
+      { id: 'B', type: 'text', value: `mostra que as reivindicações feitas nas redes sociais não têm impacto fora da internet.` },
+      { id: 'C', type: 'text', value: `expõe a possibilidade de as redes sociais favorecerem comportamentos e manifestações violentos dos adolescentes que nelas se relacionam.` },
+      { id: 'D', type: 'text', value: `trata as redes sociais como modo de agregar e empoderar grupos de pessoas, que se unem em prol de causas próprias ou de mudanças sociais.` },
+      { id: 'E', type: 'text', value: `evidencia que as redes sociais são usadas inadequadamente pelos adolescentes, que, imaturos, não utilizam a ferramenta como forma de mudança social.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O texto narra como estudantes se organizaram pelo Twitter para boicotar a cantina da escola, num movimento pacífico que repercutiu na TV e na internet. A partir desse exemplo, trata as redes sociais como meio de agregar e empoderar grupos que se unem em prol de causas próprias ou de mudanças sociais. Não aborda discriminação sofrida pelas redes (A) nem afirma que as reivindicações não têm impacto fora da internet (B). Também não associa as redes à violência (C) nem as vê como usadas de forma imatura e inadequada pelos jovens (E).`,
@@ -1439,20 +1277,11 @@ Acesso em: 5 dez. 2018.
 O êxito e as limitações da tecnologia utilizada na 
 composição do conto evidenciam a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `indistinção entre personagens produzidos por 
-máquinas e seres humanos.` },
-      { id: 'B', type: 'text', value: `necessidade de reformulação da base de dados 
-elaborada por cientistas.` },
-      { id: 'C', type: 'text', value: `autonomia 
-de 
-programas 
-computacionais 
-no 
-desenvolvimento ficcional.` },
-      { id: 'D', type: 'text', value: `diferença entre a estrutura e a criatividade da 
-linguagem humana.` },
-      { id: 'E', type: 'text', value: `qualidade artística de textos produzidos por 
-computadores.` },
+      { id: 'A', type: 'text', value: `indistinção entre personagens produzidos por máquinas e seres humanos.` },
+      { id: 'B', type: 'text', value: `necessidade de reformulação da base de dados elaborada por cientistas.` },
+      { id: 'C', type: 'text', value: `autonomia de programas computacionais no desenvolvimento ficcional.` },
+      { id: 'D', type: 'text', value: `diferença entre a estrutura e a criatividade da linguagem humana.` },
+      { id: 'E', type: 'text', value: `qualidade artística de textos produzidos por computadores.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. O conto escrito por inteligência artificial foi considerado estruturalmente impecável, mas desclassificado porque os personagens não foram bem construídos. Esse êxito parcial evidencia a diferença entre a estrutura e a criatividade da linguagem humana: a máquina domina a forma, mas não a elaboração criativa. Não há indistinção total entre textos de máquinas e de humanos (A), e o texto não aponta necessidade de reformular a base de dados (B). Tampouco afirma autonomia plena dos programas (C) nem atesta a qualidade artística dos textos de computador (E).`,
@@ -1617,17 +1446,11 @@ Acesso em: 11 dez. 2018 (adaptado).
 Como estratégia de progressão do texto, o autor simula 
 uma interlocução com o público leitor ao recorrer à`,
     alternatives: [
-      { id: 'A', type: 'text', value: `revelação do “sentido-aranha” adquirido pelo super- 
--herói como um sexto sentido.` },
-      { id: 'B', type: 'text', value: `caracterização do afeto do público pelo super-herói 
-marcado pela palavra “querido”.` },
-      { id: 'C', type: 'text', value: `comparação entre os poderes do super-herói e as 
-habilidades biológicas das aranhas.` },
-      { id: 'D', type: 'text', value: `pergunta retórica na introdução das causas da 
-eficiência do sistema sensorial das aranhas.` },
-      { id: 'E', type: 'text', value: `comprovação das diferenças entre a constituição 
-física do homem e da aranha por meio de 
-dados numéricos.` },
+      { id: 'A', type: 'text', value: `revelação do “sentido-aranha” adquirido pelo super- -herói como um sexto sentido.` },
+      { id: 'B', type: 'text', value: `caracterização do afeto do público pelo super-herói marcado pela palavra “querido”.` },
+      { id: 'C', type: 'text', value: `comparação entre os poderes do super-herói e as habilidades biológicas das aranhas.` },
+      { id: 'D', type: 'text', value: `pergunta retórica na introdução das causas da eficiência do sistema sensorial das aranhas.` },
+      { id: 'E', type: 'text', value: `comprovação das diferenças entre a constituição física do homem e da aranha por meio de dados numéricos.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. Ao explicar por que os pelos das aranhas são mais eficientes que os humanos, o autor introduz a resposta com a indagação 'E por que os pelos humanos não são tão eficientes...?'. Essa pergunta retórica simula uma interlocução com o leitor e faz o texto progredir rumo às causas apresentadas em seguida. Não são a revelação do 'sentido-aranha' (A), o uso do termo 'querido' (B) nem a comparação com o super-herói (C) que criam essa interlocução. Os dados numéricos (E) comprovam as diferenças, mas não constituem o recurso de interlocução solicitado.`,
@@ -1649,17 +1472,9 @@ subverte um gênero textual ao`,
     alternatives: [
       { id: 'A', type: 'text', value: `vincular áreas distintas do conhecimento.` },
       { id: 'B', type: 'text', value: `evidenciar a formação acadêmica do pesquisador.` },
-      { id: 'C', type: 'text', value: `relacionar 
-o 
-universo 
-lúdico 
-a 
-informações 
-biográficas.` },
-      { id: 'D', type: 'text', value: `especificar as contribuições mais conhecidas 
-do pesquisador.` },
-      { id: 'E', type: 'text', value: `destacar o nome do pesquisador e sua imagem 
-no início do texto.` },
+      { id: 'C', type: 'text', value: `relacionar o universo lúdico a informações biográficas.` },
+      { id: 'D', type: 'text', value: `especificar as contribuições mais conhecidas do pesquisador.` },
+      { id: 'E', type: 'text', value: `destacar o nome do pesquisador e sua imagem no início do texto.` },
     ],
     correct: 'C',
     explanation: `Resposta correta: C. O texto adota o formato de uma carta de 'Super Trunfo', com campos como 'área de atuação', 'contribuição mais famosa' e 'nascimento', para apresentar dados do físico Marcelo Gleiser. Essa escolha subverte o gênero ao relacionar o universo lúdico do jogo a informações biográficas de um cientista. Não se trata de vincular áreas distintas do conhecimento (A) nem de destacar apenas a formação acadêmica (B). O texto não se limita a especificar as contribuições do pesquisador (D) nem tem como foco apenas o nome e a imagem no início (E), mas o cruzamento entre jogo e biografia.`,
@@ -1698,18 +1513,10 @@ Nesse texto, a mobilização do uso padrão das formas
 verbais e pronominais`,
     alternatives: [
       { id: 'A', type: 'text', value: `ajuda a localizar o enredo num ambiente estático.` },
-      { id: 'B', type: 'text', value: `auxilia 
-na 
-caracterização 
-física 
-do 
-personagem principal.` },
-      { id: 'C', type: 'text', value: `acrescenta informações modificadoras às ações dos 
-personagens.` },
-      { id: 'D', type: 'text', value: `alterna os tempos da narrativa, fazendo progredir as 
-ideias do texto.` },
-      { id: 'E', type: 'text', value: `está a serviço do projeto poético, auxiliando na 
-distinção dos referentes.` },
+      { id: 'B', type: 'text', value: `auxilia na caracterização física do personagem principal.` },
+      { id: 'C', type: 'text', value: `acrescenta informações modificadoras às ações dos personagens.` },
+      { id: 'D', type: 'text', value: `alterna os tempos da narrativa, fazendo progredir as ideias do texto.` },
+      { id: 'E', type: 'text', value: `está a serviço do projeto poético, auxiliando na distinção dos referentes.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O poema dirige-se ao trabalhador em segunda pessoa, usando de modo padrão as formas verbais e pronominais ('tomas', 'deixas', 'teu filho', 'levas ao lado a marmita'), o que mantém a clareza sobre quem pratica cada ação. Esse uso está a serviço do projeto poético, auxiliando na distinção dos referentes ao longo dos versos. Ele não situa o enredo em um ambiente estático (A) nem caracteriza fisicamente o personagem (B). Não acrescenta informações modificadoras às ações (C) nem alterna os tempos para fazer a narrativa progredir (D).`,
@@ -1794,20 +1601,11 @@ de influência humana nos processos`,
     exam: 'enem',
     year: 2019,
     day: 1,
-    text: `Atmosfera 
-Satélite 
-Sol 
-Energia solar 
-incidente 
-Energia solar 
-refletida 
-Floresta 
-Rio 
-Pastagens 
-Rodovia 
-Disponível em: www.ibge.gov.br. Acesso em: 11 dez. 2018 (adaptado). 
-A geração de imagens por meio da tecnologia ilustrada 
-depende da variação do(a):`,
+    text: `Atmosfera Satélite Sol Energia solar incidente Energia solar
+refletida Floresta Rio Pastagens Rodovia Disponível em:
+www.ibge.gov.br. Acesso em: 11 dez. 2018 (adaptado). A geração
+de imagens por meio da tecnologia ilustrada depende da
+variação do(a):`,
     images: ['/enem/2019/images/enem_2019_d1_q47.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Albedo dos corpos físicos.` },
@@ -1826,27 +1624,18 @@ depende da variação do(a):`,
     exam: 'enem',
     year: 2019,
     day: 1,
-    text: `Dizem que Humboldt, naturalista do século XIX, 
-maravilhado 
-pela 
-geografia, 
-flora 
-e 
-fauna 
-da 
-região sul-americana, via seus habitantes como se 
-fossem mendigos sentados sobre um saco de ouro, 
-referindo-se a suas incomensuráveis riquezas naturais 
-não exploradas. De alguma maneira, o cientista ratificou 
-nosso papel de exportadores de natureza no que seria 
-o mundo depois da colonização ibérica: enxergou-nos 
-como territórios condenados a aproveitar os recursos 
-naturais existentes. 
-ACOSTA, A. Bem viver : uma oportunidade para imaginar outros mundos. 
-São Paulo: Elefante, 2016 (adaptado). 
-A relação entre ser humano e natureza ressaltada 
-no texto refletia a permanência da seguinte corrente 
-filosófica:`,
+    text: `Dizem que Humboldt, naturalista do século XIX, maravilhado
+pela geografia, flora e fauna da região sul-americana, via
+seus habitantes como se fossem mendigos sentados sobre um saco
+de ouro, referindo-se a suas incomensuráveis riquezas naturais
+não exploradas. De alguma maneira, o cientista ratificou nosso
+papel de exportadores de natureza no que seria o mundo depois
+da colonização ibérica: enxergou-nos como territórios
+condenados a aproveitar os recursos naturais existentes.
+ACOSTA, A. Bem viver : uma oportunidade para imaginar outros
+mundos. São Paulo: Elefante, 2016 (adaptado). A relação entre
+ser humano e natureza ressaltada no texto refletia a
+permanência da seguinte corrente filosófica:`,
     alternatives: [
       { id: 'A', type: 'text', value: `Relativismo cognitivo.` },
       { id: 'B', type: 'text', value: `Materialismo dialético.` },
@@ -1959,26 +1748,19 @@ destacado, refere-se à`,
     exam: 'enem',
     year: 2019,
     day: 1,
-    text: `O processamento da mandioca era uma atividade 
-já realizada pelos nativos que viviam no Brasil antes da 
-chegada de portugueses e africanos. Entretanto, ao longo 
-do processo de colonização portuguesa, a produção 
-de farinha foi aperfeiçoada e ampliada, tornando-se 
-lugar-comum em todo o território da colônia portuguesa 
-na América. Com a consolidação do comércio atlântico 
-em suas diferentes conexões, a farinha atravessou os 
-mares e chegou aos mercados africanos. 
-BEZERRA, N. R. Escravidão, farinha e tráfico atlântico : 
-um novo olhar sobre as relações entre o Rio de Janeiro e 
-Benguela (1790-1830). Disponível em: www.bn.br. 
-Acesso em: 20 ago. 2014 (adaptado). 
-Considerando 
-a 
-formação 
-do 
-espaço 
-atlântico, 
-esse produto exemplifica historicamente a`,
+    text: `O processamento da mandioca era uma atividade já realizada
+pelos nativos que viviam no Brasil antes da chegada de
+portugueses e africanos. Entretanto, ao longo do processo de
+colonização portuguesa, a produção de farinha foi aperfeiçoada
+e ampliada, tornando-se lugar-comum em todo o território da
+colônia portuguesa na América. Com a consolidação do comércio
+atlântico em suas diferentes conexões, a farinha atravessou os
+mares e chegou aos mercados africanos. BEZERRA, N. R.
+Escravidão, farinha e tráfico atlântico : um novo olhar sobre
+as relações entre o Rio de Janeiro e Benguela (1790-1830).
+Disponível em: www.bn.br. Acesso em: 20 ago. 2014 (adaptado).
+Considerando a formação do espaço atlântico, esse produto
+exemplifica historicamente a`,
     alternatives: [
       { id: 'A', type: 'text', value: `difusão de hábitos alimentares.` },
       { id: 'B', type: 'text', value: `disseminação de rituais festivos.` },
@@ -2035,24 +1817,16 @@ pretensão com base na seguinte característica comum:`,
     exam: 'enem',
     year: 2019,
     day: 1,
-    text: `Dificilmente 
-passa-se 
-uma 
-noite 
-sem 
-que 
-algum sitiante tenha seu celeiro ou sua pilha de 
-cereais destruídos pelo fogo. Vários trabalhadores 
-não diretamente envolvidos nos ataques pareciam 
-apoiá-los, como se vê neste depoimento ao The Times : 
-“deixa queimar, pena que não foi a casa”; “podemos nos 
-aquecer agora”; “nós só queríamos algumas batatas, 
-há um fogo ótimo para cozinhá-las”. 
-HOBSBAWM, E.; RUDÉ, G. Capitão Swing . Rio de Janeiro: 
-Francisco Alves, 1982 (adaptado). 
-A revolta descrita no texto, ocorrida na Inglaterra no 
-século XIX, foi uma reação ao seguinte processo 
-socioespacial:`,
+    text: `Dificilmente passa-se uma noite sem que algum sitiante tenha
+seu celeiro ou sua pilha de cereais destruídos pelo fogo.
+Vários trabalhadores não diretamente envolvidos nos ataques
+pareciam apoiá-los, como se vê neste depoimento ao The Times :
+“deixa queimar, pena que não foi a casa”; “podemos nos aquecer
+agora”; “nós só queríamos algumas batatas, há um fogo ótimo
+para cozinhá-las”. HOBSBAWM, E.; RUDÉ, G. Capitão Swing . Rio
+de Janeiro: Francisco Alves, 1982 (adaptado). A revolta
+descrita no texto, ocorrida na Inglaterra no século XIX, foi
+uma reação ao seguinte processo socioespacial:`,
     alternatives: [
       { id: 'A', type: 'text', value: `Restrição da propriedade privada.` },
       { id: 'B', type: 'text', value: `Expropriação das terras comunais.` },
@@ -2087,11 +1861,7 @@ mencionado é emblemático porque evidencia a`,
       { id: 'B', type: 'text', value: `inserção feminina nos ofícios militares.` },
       { id: 'C', type: 'text', value: `adesão pública dos imigrantes portugueses.` },
       { id: 'D', type: 'text', value: `flexibilidade administrativa do governo imperial.` },
-      { id: 'E', type: 'text', value: `receptividade 
-metropolitana 
-aos 
-ideais 
-emancipatórios.` },
+      { id: 'E', type: 'text', value: `receptividade metropolitana aos ideais emancipatórios.` },
     ],
     correct: 'A',
     explanation: `Maria Quitéria precisou disfarçar-se de homem para combater, pois havia proibição de mulheres nos batalhões de voluntários. O caso é emblemático porque revela a rigidez da hierarquia social e de gênero da época, o que sustenta a alternativa A. Não evidencia uma inserção feminina regular nos ofícios militares (B), já que ela teve de esconder sua identidade. Não trata de imigrantes portugueses (C) nem de flexibilidade administrativa do governo (D). A metrópole resistia à emancipação (E), de modo que a história destaca as barreiras sociais então vigentes.`,
@@ -2339,16 +2109,11 @@ Tais concepções, associadas a cada um dos textos,
 confrontam-se, respectivamente, na oposição entre as 
 práticas de`,
     alternatives: [
-      { id: 'A', type: 'text', value: `valorização do pacto colonial - combate à livre- 
--iniciativa.` },
-      { id: 'B', type: 'text', value: `defesa dos monopólios régios - apoio à livre 
-concorrência.` },
-      { id: 'C', type: 'text', value: `formação do sistema metropolitano - crítica à livre 
-navegação.` },
-      { id: 'D', type: 'text', value: `abandono da acumulação metalista - estímulo ao 
-livre-comércio.` },
-      { id: 'E', type: 'text', value: `eliminação das tarifas alfandegárias - incentivo ao 
-livre-cambismo.` },
+      { id: 'A', type: 'text', value: `valorização do pacto colonial - combate à livre- -iniciativa.` },
+      { id: 'B', type: 'text', value: `defesa dos monopólios régios - apoio à livre concorrência.` },
+      { id: 'C', type: 'text', value: `formação do sistema metropolitano - crítica à livre navegação.` },
+      { id: 'D', type: 'text', value: `abandono da acumulação metalista - estímulo ao livre-comércio.` },
+      { id: 'E', type: 'text', value: `eliminação das tarifas alfandegárias - incentivo ao livre-cambismo.` },
     ],
     correct: 'B',
     explanation: `O Texto I expõe o mercantilismo, com centralização, protecionismo e monopólios régios voltados ao fortalecimento do Estado. O Texto II, de Adam Smith, critica as restrições legais ao mercado e defende a livre operação das leis econômicas naturais. A oposição é, pois, entre a defesa dos monopólios régios e o apoio à livre concorrência, o que valida a alternativa B. As demais invertem ou misturam os conceitos: o mercantilismo não abandona o metalismo (D) nem elimina tarifas (E) e associa-se ao pacto colonial, não ao seu combate (A), ao passo que Smith defende a liberdade econômica (C).`,
@@ -2360,29 +2125,20 @@ livre-cambismo.` },
     exam: 'enem',
     year: 2019,
     day: 1,
-    text: `A lenda diz que, em um belo dia ensolarado, 
-Newton estava relaxando sob uma macieira. Pássaros 
-gorjeavam em suas orelhas. Havia uma brisa gentil. 
-Ele 
-cochilou 
-por 
-alguns 
-minutos. 
-De 
-repente, 
-uma maçã caiu sobre a sua cabeça e ele acordou com 
-um susto. Olhou para cima. “Com certeza um pássaro 
-ou um esquilo derrubou a maçã da árvore”, supôs. Mas 
-não havia pássaros ou esquilos na árvore por perto. 
-Ele, então, pensou: “Apenas alguns minutos antes, 
-a maçã estava pendurada na árvore. Nenhuma força 
-externa fez ela cair. Deve haver alguma força subjacente 
-que causa a queda das coisas para a terra”. 
-SILVA, C. C.; MARTINS, R. A. Estudos de história e filosofia das ciências . 
-São Paulo: Livraria da Física, 2006 (adaptado). 
-Em contraponto a uma interpretação idealizada, o 
-texto aponta para a seguinte dimensão fundamental da 
-ciência moderna:`,
+    text: `A lenda diz que, em um belo dia ensolarado, Newton estava
+relaxando sob uma macieira. Pássaros gorjeavam em suas
+orelhas. Havia uma brisa gentil. Ele cochilou por alguns
+minutos. De repente, uma maçã caiu sobre a sua cabeça e ele
+acordou com um susto. Olhou para cima. “Com certeza um pássaro
+ou um esquilo derrubou a maçã da árvore”, supôs. Mas não havia
+pássaros ou esquilos na árvore por perto. Ele, então, pensou:
+“Apenas alguns minutos antes, a maçã estava pendurada na
+árvore. Nenhuma força externa fez ela cair. Deve haver alguma
+força subjacente que causa a queda das coisas para a terra”.
+SILVA, C. C.; MARTINS, R. A. Estudos de história e filosofia
+das ciências . São Paulo: Livraria da Física, 2006 (adaptado).
+Em contraponto a uma interpretação idealizada, o texto aponta
+para a seguinte dimensão fundamental da ciência moderna:`,
     alternatives: [
       { id: 'A', type: 'text', value: `Falsificação de teses.` },
       { id: 'B', type: 'text', value: `Negação da observação.` },
@@ -2529,27 +2285,19 @@ remanescentes de quilombo visam garantir:`,
     exam: 'enem',
     year: 2019,
     day: 1,
-    text: `Localizado a 160 km da cidade de Porto Velho 
-(capital do estado de Rondônia), nos limites da Reserva 
-Extrativista Jaci-Paraná e Terra Indígena Karipunas, 
-o povoado de União Bandeirantes surgiu em 2000 a 
-partir de movimentos de camponeses, madeireiros, 
-pecuaristas e grileiros que, à revelia do ordenamento 
-territorial e diante da passividade governamental, 
-demarcaram 
-e 
-invadiram 
-terras 
-na 
-área 
-rural 
-fundando a vila. Atualmente, constitui-se na região 
-de maior produção agrícola e leiteira do município de 
-Porto Velho, fornecendo, inclusive, alimentos para a 
-Hidrelétrica de Jirau. 
-SILVA, R. G. C. Amazônia globalizada - o exemplo de Rondônia. 
-Confins , n. 23, 2015 (adaptado). 
-A dinâmica de ocupação territorial descrita foi decorrente da`,
+    text: `Localizado a 160 km da cidade de Porto Velho (capital do
+estado de Rondônia), nos limites da Reserva Extrativista
+Jaci-Paraná e Terra Indígena Karipunas, o povoado de União
+Bandeirantes surgiu em 2000 a partir de movimentos de
+camponeses, madeireiros, pecuaristas e grileiros que, à
+revelia do ordenamento territorial e diante da passividade
+governamental, demarcaram e invadiram terras na área rural
+fundando a vila. Atualmente, constitui-se na região de maior
+produção agrícola e leiteira do município de Porto Velho,
+fornecendo, inclusive, alimentos para a Hidrelétrica de Jirau.
+SILVA, R. G. C. Amazônia globalizada - o exemplo de Rondônia.
+Confins , n. 23, 2015 (adaptado). A dinâmica de ocupação
+territorial descrita foi decorrente da`,
     alternatives: [
       { id: 'A', type: 'text', value: `mecanização do processo produtivo.` },
       { id: 'B', type: 'text', value: `adoção da colonização dirigida.` },
@@ -2631,42 +2379,28 @@ processo produtivo descrito no texto é a`,
     exam: 'enem',
     year: 2019,
     day: 1,
-    text: `Art. 90. 
-As 
-nomeações 
-dos 
-deputados 
-e 
-senadores para a Assembleia Geral, e dos membros 
-dos Conselhos Gerais das províncias, serão feitas 
-por eleições, elegendo a massa dos cidadãos ativos em 
-assembleias paroquiais, os eleitores de província, 
-e estes, os representantes da nação e província. 
-Art. 92. São excluídos de votar nas assembleias 
-paroquiais: 
-I. 
-Os menores de vinte e cinco anos, nos quais 
-se não compreendem os casados, os oficiais 
-militares, que forem maiores de vinte e um anos, os 
-bacharéis formados e os clérigos de ordens sacras. 
-II. Os filhos de famílias, que estiverem na 
-companhia de seus pais, salvo se servirem a 
-ofícios públicos. 
-III. Os criados de servir, em cuja classe não entram 
-os guarda-livros, e primeiros caixeiros das 
-casas de comércio, os criados da Casa Imperial, 
-que não forem de galão branco, e os 
-administradores das fazendas rurais e fábricas. 
-IV. Os religiosos e quaisquer que vivam em 
-comunidade claustral. 
-V. Os que não tiverem de renda líquida anual cem 
-mil réis por bens de raiz, indústria, comércio, 
-ou emprego. 
-BRASIL. Constituição de 1824 . Disponível em: www.planalto.gov.br. 
-Acesso em: 4 abr. 2015 (adaptado). 
-De acordo com os artigos do dispositivo legal 
-apresentado, o sistema eleitoral instituído no início do 
-Império é marcado pelo(a)`,
+    text: `Art. 90. As nomeações dos deputados e senadores para a
+Assembleia Geral, e dos membros dos Conselhos Gerais das
+províncias, serão feitas por eleições, elegendo a massa dos
+cidadãos ativos em assembleias paroquiais, os eleitores de
+província, e estes, os representantes da nação e província.
+Art. 92. São excluídos de votar nas assembleias paroquiais: I.
+Os menores de vinte e cinco anos, nos quais se não compreendem
+os casados, os oficiais militares, que forem maiores de vinte
+e um anos, os bacharéis formados e os clérigos de ordens
+sacras. II. Os filhos de famílias, que estiverem na companhia
+de seus pais, salvo se servirem a ofícios públicos. III. Os
+criados de servir, em cuja classe não entram os guarda-livros,
+e primeiros caixeiros das casas de comércio, os criados da
+Casa Imperial, que não forem de galão branco, e os
+administradores das fazendas rurais e fábricas. IV. Os
+religiosos e quaisquer que vivam em comunidade claustral. V.
+Os que não tiverem de renda líquida anual cem mil réis por
+bens de raiz, indústria, comércio, ou emprego. BRASIL.
+Constituição de 1824 . Disponível em: www.planalto.gov.br.
+Acesso em: 4 abr. 2015 (adaptado). De acordo com os artigos do
+dispositivo legal apresentado, o sistema eleitoral instituído
+no início do Império é marcado pelo(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `representação popular e sigilo individual.` },
       { id: 'B', type: 'text', value: `voto indireto e perfil censitário.` },
@@ -2735,11 +2469,7 @@ O texto aponta que a subjetivação se efetiva numa dimensão`,
       { id: 'B', type: 'text', value: `racional, baseada em pressupostos lógicos.` },
       { id: 'C', type: 'text', value: `contingencial, processada em interações sociais.` },
       { id: 'D', type: 'text', value: `transcendental, efetivada em princípios religiosos.` },
-      { id: 'E', type: 'text', value: `essencial, 
-fundamentada 
-em 
-parâmetros 
-substancialistas.` },
+      { id: 'E', type: 'text', value: `essencial, fundamentada em parâmetros substancialistas.` },
     ],
     correct: 'C',
     explanation: `Foucault nega um sujeito universal e fundador, afirmando que o sujeito se constitui por práticas de sujeição ou de liberdade a partir de regras culturais. A subjetivação é, portanto, contingente e produzida nas interações sociais e históricas, o que confirma a alternativa C. Não é uma dimensão legal, pautada em preceitos jurídicos (A), nem meramente racional e lógica (B). Não é transcendental ou religiosa (D), tampouco essencial e substancialista (E), posições que o filósofo rejeita ao recusar qualquer essência fixa do sujeito.`,
@@ -2802,16 +2532,9 @@ naturalização do(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `ideário nacional, que legitima as desigualdades sociais.` },
       { id: 'B', type: 'text', value: `alienação ideológica, que justifica as ações individuais.` },
-      { id: 'C', type: 'text', value: `cosmologia religiosa, que sustenta as tradições 
-hierárquicas.` },
-      { id: 'D', type: 'text', value: `segregação humana, que fundamenta os projetos 
-biopolíticos.` },
-      { id: 'E', type: 'text', value: `enquadramento 
-cultural, 
-que 
-favorece 
-os 
-comportamentos punitivos.` },
+      { id: 'C', type: 'text', value: `cosmologia religiosa, que sustenta as tradições hierárquicas.` },
+      { id: 'D', type: 'text', value: `segregação humana, que fundamenta os projetos biopolíticos.` },
+      { id: 'E', type: 'text', value: `enquadramento cultural, que favorece os comportamentos punitivos.` },
     ],
     correct: 'D',
     explanation: `Arendt analisa como os campos de concentração naturalizam a exclusão e o extermínio de seres humanos, tratados como supérfluos. A crítica recai sobre a naturalização da segregação humana que fundamenta projetos biopolíticos de controle e eliminação de populações, o que sustenta a alternativa D. Não é o ideário nacional e a desigualdade social (A) o foco, nem a alienação ideológica individual (B). Não se trata de cosmologia religiosa (C) nem de enquadramento cultural punitivo (E); o cerne é a lógica que torna aceitável o aniquilamento de vidas humanas.`,
@@ -2823,22 +2546,15 @@ comportamentos punitivos.` },
     exam: 'enem',
     year: 2019,
     day: 1,
-    text: `Fala-se aqui de uma arte criada nas ruas e para 
-as ruas, marcadas antes de tudo pela vida cotidiana, 
-seus conflitos e suas possibilidades, que poderiam 
-envolver técnicas, agentes e temas que não fossem 
-encontrados nas instituições mais tradicionais e formais. 
-VALVERDE, R. R. H. F. Os limites da inversão: a heterotopia do 
-Beco do Batman. Boletim Goiano de Geografia (Online). 
- Goiânia, v. 37, n. 2, maio/ago. 2017 (adaptado). 
-A manifestação artística expressa na imagem e 
-apresentada 
-no 
-texto 
-integra 
-um 
-movimento 
-contemporâneo de`,
+    text: `Fala-se aqui de uma arte criada nas ruas e para as ruas,
+marcadas antes de tudo pela vida cotidiana, seus conflitos e
+suas possibilidades, que poderiam envolver técnicas, agentes e
+temas que não fossem encontrados nas instituições mais
+tradicionais e formais. VALVERDE, R. R. H. F. Os limites da
+inversão: a heterotopia do Beco do Batman. Boletim Goiano de
+Geografia (Online). Goiânia, v. 37, n. 2, maio/ago. 2017
+(adaptado). A manifestação artística expressa na imagem e
+apresentada no texto integra um movimento contemporâneo de`,
     images: ['/enem/2019/images/enem_2019_d1_q77.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `regulação das relações sociais.` },
@@ -2913,20 +2629,14 @@ seguinte critério para a participação política:`,
     exam: 'enem',
     year: 2019,
     day: 1,
-    text: `A Revolta da Vacina (1904) mostrou claramente 
-o aspecto defensivo, desorganizado, fragmentado 
-da ação popular. Não se negava o Estado, não se 
-reivindicava 
-participação 
-nas 
-decisões 
-políticas; 
-defendiam-se valores e direitos considerados acima da 
-intervenção do Estado. 
-CARVALHO, J. M. Os bestializados : o Rio de Janeiro e a República 
-que não foi. São Paulo: Cia. das Letras, 1987 (adaptado). 
-A mobilização analisada representou um alerta, 
-na medida em que a ação popular questionava`,
+    text: `A Revolta da Vacina (1904) mostrou claramente o aspecto
+defensivo, desorganizado, fragmentado da ação popular. Não se
+negava o Estado, não se reivindicava participação nas decisões
+políticas; defendiam-se valores e direitos considerados acima
+da intervenção do Estado. CARVALHO, J. M. Os bestializados : o
+Rio de Janeiro e a República que não foi. São Paulo: Cia. das
+Letras, 1987 (adaptado). A mobilização analisada representou
+um alerta, na medida em que a ação popular questionava`,
     alternatives: [
       { id: 'A', type: 'text', value: `a alta de preços.` },
       { id: 'B', type: 'text', value: `a política clientelista.` },
@@ -2970,36 +2680,27 @@ seguinte atividade:`,
     exam: 'enem',
     year: 2019,
     day: 1,
-    text: `Tratava-se agora de construir um ritmo novo. 
-Para tanto, era necessário convocar todas as forças 
-vivas da Nação, todos os homens que, com vontade 
-de trabalhar e confiança no futuro, pudessem erguer, 
-num tempo novo, um novo Tempo. E, à grande 
-convocação que conclamava o povo para a gigantesca 
-tarefa, começaram a chegar de todos os cantos da 
-imensa pátria os trabalhadores: os homens simples 
-e quietos, com pés de raiz, rostos de couro e mãos 
-de pedra, e no calcanho, em carro de boi, em lombo 
-de burro, em paus-de-arara, por todas as formas 
-possíveis e imagináveis, em sua mudez cheia de 
-esperança, muitas vezes deixando para trás mulheres 
-e filhos a aguardar suas promessas de melhores dias; 
-foram chegando de tantos povoados, tantas cidades 
-cujos nomes pareciam cantar saudades aos seus 
-ouvidos, dentro dos antigos ritmos da imensa pátria... 
-Terra de sol, Terra de luz... Brasil! Brasil! Brasília! 
-MORAES, V.; JOBIM, A. C. Brasília, sinfonia da alvorada . III - A chegada 
-dos candangos. Disponível em: www.viniciusdemoraes.com.br. 
-Acesso em: 14 ago. 2012 (adaptado). 
-No texto, a narrativa produzida sobre a construção 
-de 
-Brasília 
-articula 
-os 
-elementos 
-políticos 
-e 
-socioeconômicos indicados, respectivamente, em:`,
+    text: `Tratava-se agora de construir um ritmo novo. Para tanto, era
+necessário convocar todas as forças vivas da Nação, todos os
+homens que, com vontade de trabalhar e confiança no futuro,
+pudessem erguer, num tempo novo, um novo Tempo. E, à grande
+convocação que conclamava o povo para a gigantesca tarefa,
+começaram a chegar de todos os cantos da imensa pátria os
+trabalhadores: os homens simples e quietos, com pés de raiz,
+rostos de couro e mãos de pedra, e no calcanho, em carro de
+boi, em lombo de burro, em paus-de-arara, por todas as formas
+possíveis e imagináveis, em sua mudez cheia de esperança,
+muitas vezes deixando para trás mulheres e filhos a aguardar
+suas promessas de melhores dias; foram chegando de tantos
+povoados, tantas cidades cujos nomes pareciam cantar saudades
+aos seus ouvidos, dentro dos antigos ritmos da imensa
+pátria... Terra de sol, Terra de luz... Brasil! Brasil!
+Brasília! MORAES, V.; JOBIM, A. C. Brasília, sinfonia da
+alvorada . III - A chegada dos candangos. Disponível em:
+www.viniciusdemoraes.com.br. Acesso em: 14 ago. 2012
+(adaptado). No texto, a narrativa produzida sobre a construção
+de Brasília articula os elementos políticos e socioeconômicos
+indicados, respectivamente, em:`,
     alternatives: [
       { id: 'A', type: 'text', value: `Apelo simbólico e migração inter-regional.` },
       { id: 'B', type: 'text', value: `Organização sindical e expansão do capital.` },
@@ -3087,8 +2788,7 @@ presença em museus decorrente da`,
       { id: 'B', type: 'text', value: `definição dos critérios de criação de acervos.` },
       { id: 'C', type: 'text', value: `ampliação da rede de instituições de memória.` },
       { id: 'D', type: 'text', value: `burocratização do acesso dos espaços expositivos.` },
-      { id: 'E', type: 'text', value: `fragmentação dos territórios das comunidades 
-representadas.` },
+      { id: 'E', type: 'text', value: `fragmentação dos territórios das comunidades representadas.` },
     ],
     correct: 'B',
     explanation: `A frase "Nossa cultura não cabe nos seus museus" denuncia que as culturas de comunidades marginalizadas ficam de fora das instituições de memória. O conflito decorre dos critérios adotados para a formação dos acervos, que selecionam o que é ou não digno de ser musealizado, o que sustenta a alternativa B. Não se trata da valorização do mercado de obras de arte (A), da mera ampliação da rede de museus (C) nem da burocratização do acesso (D). A fragmentação territorial das comunidades (E) não é a causa apontada; o problema é o que e quem os museus decidem representar.`,
@@ -3131,27 +2831,19 @@ citada no texto, foi o meio encontrado para`,
     exam: 'enem',
     year: 2019,
     day: 1,
-    text: `O Ministério do Trabalho e Emprego (MTE) 
-realizou 248 ações fiscais e resgatou um total de 
-1 590 trabalhadores da situação análoga à de escravo, 
-em 2014, em todo o país. A análise do enfrentamento 
-do trabalho em condições análogas às de escravo 
-materializa a efetivação de parcerias inéditas no 
-trato da questão, podendo ser referenciadas ações 
-fiscais realizadas com o Ministério da Defesa, 
-Exército 
-Brasileiro, 
-Instituto 
-Brasileiro 
-do 
-Meio 
-Ambiente e dos Recursos Naturais Renováveis 
-(Ibama) e Instituto Chico Mendes de Conservação da 
-Biodiversidade (ICMBio). 
-Disponível em: http://portal.mte.gov.br. 
-Acesso em: 4 fev. 2015 (adaptado). 
-A estratégia defendida no texto para reduzir o problema 
-social apontado consiste em:`,
+    text: `O Ministério do Trabalho e Emprego (MTE) realizou 248 ações
+fiscais e resgatou um total de 1 590 trabalhadores da situação
+análoga à de escravo, em 2014, em todo o país. A análise do
+enfrentamento do trabalho em condições análogas às de escravo
+materializa a efetivação de parcerias inéditas no trato da
+questão, podendo ser referenciadas ações fiscais realizadas
+com o Ministério da Defesa, Exército Brasileiro, Instituto
+Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+(Ibama) e Instituto Chico Mendes de Conservação da
+Biodiversidade (ICMBio). Disponível em:
+http://portal.mte.gov.br. Acesso em: 4 fev. 2015 (adaptado). A
+estratégia defendida no texto para reduzir o problema social
+apontado consiste em:`,
     alternatives: [
       { id: 'A', type: 'text', value: `Articular os órgãos públicos.` },
       { id: 'B', type: 'text', value: `Pressionar o Poder Legislativo.` },

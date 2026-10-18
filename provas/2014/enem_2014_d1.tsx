@@ -114,15 +114,10 @@ contribuir para o(a)`,
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `NEVES, E. Engraxate . Disponível em: www.grafar.blogspot.com. Acesso em: 15 fev. 2013. 
-Considerando-se 
-a 
-dinâmica 
-entre 
-tecnologia 
-e 
-organização do trabalho, a representação contida no 
-cartum é caracterizada pelo pessimismo em relação à`,
+    text: `NEVES, E. Engraxate . Disponível em: www.grafar.blogspot.com.
+Acesso em: 15 fev. 2013. Considerando-se a dinâmica entre
+tecnologia e organização do trabalho, a representação contida
+no cartum é caracterizada pelo pessimismo em relação à`,
     images: ['/enem/2014/images/enem_2014_d1_q5.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `ideia de progresso.` },
@@ -232,12 +227,7 @@ resultam da`,
       { id: 'B', type: 'text', value: `experimentação de hábitos sociais variados.` },
       { id: 'C', type: 'text', value: `recuperação de heranças da Antiguidade Clássica.` },
       { id: 'D', type: 'text', value: `fusão de elementos de tradições culturais diferentes.` },
-      { id: 'E', type: 'text', value: `valorização 
-de 
-comportamento 
-de 
-grupos 
-privilegiados.` },
+      { id: 'E', type: 'text', value: `valorização de comportamento de grupos privilegiados.` },
     ],
     correct: 'D',
     explanation: `O texto de Linton mostra que o cidadão norte-americano, em sua rotina matinal, usa objetos e técnicas originários de diversos povos, como a cama do Oriente Próximo, o algodão da Índia, a cerâmica da China e os caracteres dos semitas. Essa descrição é um exemplo de como os costumes resultam da fusão de elementos de tradições culturais diferentes, acumulados ao longo da história, por isso a alternativa D está correta. A e C reduzem o fenômeno à assimilação de povos exóticos ou à herança da Antiguidade Clássica, limitando sua amplitude. B fala em experimentação de hábitos variados e E em valorização de grupos privilegiados, leituras que não captam a origem múltipla e difusa dos elementos culturais.`,
@@ -311,36 +301,21 @@ A situação ilustra uma crise econômica que implica`,
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `Compreende-se 
-assim 
-o 
-alcance 
-de 
-uma 
-reivindicação que surge desde o nascimento da cidade 
-na Grécia antiga: a redação das leis. Ao escrevê-las, não 
-se faz mais que assegurar-lhes permanência e fixidez. 
-As leis tornam-se bem comum, regra geral, suscetível de 
-ser aplicada a todos da mesma maneira. 
-VERNANT, J. P. As origens do pensamento grego . Rio de Janeiro: 
-Bertrand Brasil, 1992 (adaptado). 
-Para o autor, a reivindicação atendida na Grécia antiga, 
-ainda vigente no mundo contemporâneo, buscava garantir 
-o seguinte princípio:`,
+    text: `Compreende-se assim o alcance de uma reivindicação que surge
+desde o nascimento da cidade na Grécia antiga: a redação das
+leis. Ao escrevê-las, não se faz mais que assegurar-lhes
+permanência e fixidez. As leis tornam-se bem comum, regra
+geral, suscetível de ser aplicada a todos da mesma maneira.
+VERNANT, J. P. As origens do pensamento grego . Rio de
+Janeiro: Bertrand Brasil, 1992 (adaptado). Para o autor, a
+reivindicação atendida na Grécia antiga, ainda vigente no
+mundo contemporâneo, buscava garantir o seguinte princípio:`,
     alternatives: [
       { id: 'A', type: 'text', value: `Isonomia - igualdade de tratamento aos cidadãos.` },
-      { id: 'B', type: 'text', value: `Transparência 
-- 
-acesso 
-às 
-informações 
-governamentais.` },
-      { id: 'C', type: 'text', value: `Tripartição - separação entre os poderes políticos 
-estatais.` },
-      { id: 'D', type: 'text', value: `Equiparação - igualdade de gênero na participação 
-política.` },
-      { id: 'E', type: 'text', value: `Elegibilidade - permissão para candidatura aos 
-cargos públicos.` },
+      { id: 'B', type: 'text', value: `Transparência - acesso às informações governamentais.` },
+      { id: 'C', type: 'text', value: `Tripartição - separação entre os poderes políticos estatais.` },
+      { id: 'D', type: 'text', value: `Equiparação - igualdade de gênero na participação política.` },
+      { id: 'E', type: 'text', value: `Elegibilidade - permissão para candidatura aos cargos públicos.` },
     ],
     correct: 'A',
     explanation: `Para Vernant, a reivindicação que marcou o nascimento da cidade grega foi a redação das leis, que, ao serem escritas, tornaram-se bem comum, regra geral aplicável a todos da mesma maneira. Esse princípio, ainda vigente, corresponde à isonomia, isto é, à igualdade de tratamento dos cidadãos perante a lei, por isso a alternativa A está correta. B (transparência) e E (elegibilidade) tratam de acesso à informação e de candidatura, que não são o foco do texto. C (tripartição dos poderes) e D (igualdade de gênero) são anacrônicas em relação à Grécia antiga e não correspondem à igualdade jurídica garantida pela lei escrita.`,
@@ -369,16 +344,11 @@ A clonagem humana é um importante assunto de
 reflexão no campo da bioética que, entre outras 
 questões, dedica-se a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `refletir sobre as relações entre o conhecimento da 
-vida e os valores éticos do homem.` },
-      { id: 'B', type: 'text', value: `legitimar o predomínio da espécie humana sobre as 
-demais espécies animais no planeta.` },
-      { id: 'C', type: 'text', value: `relativizar, no caso da clonagem humana, o uso dos 
-valores de certo e errado, de bem e mal.` },
-      { id: 'D', type: 'text', value: `legalizar, pelo uso das técnicas de clonagem, os 
-processos de reprodução humana e animal.` },
-      { id: 'E', type: 'text', value: `fundamentar técnica e economicamente as pesquisas 
-sobre células-tronco para uso em seres humanos.` },
+      { id: 'A', type: 'text', value: `refletir sobre as relações entre o conhecimento da vida e os valores éticos do homem.` },
+      { id: 'B', type: 'text', value: `legitimar o predomínio da espécie humana sobre as demais espécies animais no planeta.` },
+      { id: 'C', type: 'text', value: `relativizar, no caso da clonagem humana, o uso dos valores de certo e errado, de bem e mal.` },
+      { id: 'D', type: 'text', value: `legalizar, pelo uso das técnicas de clonagem, os processos de reprodução humana e animal.` },
+      { id: 'E', type: 'text', value: `fundamentar técnica e economicamente as pesquisas sobre células-tronco para uso em seres humanos.` },
     ],
     correct: 'A',
     explanation: `A reportagem sobre a clonagem humana levanta dilemas sobre criar bebês clonados e sobre os limites da intervenção científica na vida. A bioética, nesse contexto, dedica-se a refletir sobre as relações entre o conhecimento da vida e os valores éticos do homem, avaliando os impactos morais das novas técnicas, por isso a alternativa A está correta. B e D (legitimar o predomínio humano e legalizar as técnicas) e E (fundamentar economicamente as pesquisas) atribuem à bioética funções normativas ou utilitárias que não lhe são próprias. C restringe a reflexão a relativizar o certo e o errado, o que desvirtua o caráter crítico e valorativo da disciplina.`,
@@ -501,16 +471,11 @@ promulgação da Constituição de 1988, faz referência ao
 seguinte conjunto de direitos:`,
     images: ['/enem/2014/images/enem_2014_d1_q17.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Civis, como o direito à vida, à liberdade de expressão 
-e à propriedade.` },
-      { id: 'B', type: 'text', value: `Sociais, como direito à educação, ao trabalho e à 
-proteção à maternidade e à infância.` },
-      { id: 'C', type: 'text', value: `Difusos, como direito à paz, ao desenvolvimento 
-sustentável e ao meio ambiente saudável.` },
-      { id: 'D', type: 'text', value: `Coletivos, como direito à organização sindical, à 
-participação partidária e à expressão religiosa.` },
-      { id: 'E', type: 'text', value: `Políticos, como o direito de votar e ser votado, à 
-soberania popular e à participação democrática.` },
+      { id: 'A', type: 'text', value: `Civis, como o direito à vida, à liberdade de expressão e à propriedade.` },
+      { id: 'B', type: 'text', value: `Sociais, como direito à educação, ao trabalho e à proteção à maternidade e à infância.` },
+      { id: 'C', type: 'text', value: `Difusos, como direito à paz, ao desenvolvimento sustentável e ao meio ambiente saudável.` },
+      { id: 'D', type: 'text', value: `Coletivos, como direito à organização sindical, à participação partidária e à expressão religiosa.` },
+      { id: 'E', type: 'text', value: `Políticos, como o direito de votar e ser votado, à soberania popular e à participação democrática.` },
     ],
     correct: 'B',
     explanation: `A charge, posterior à Constituição de 1988, mostra a leitura de que todo brasileiro tem direito à moradia, à alimentação e à saúde. Esse conjunto corresponde aos direitos sociais, como o direito à educação, ao trabalho e à proteção à maternidade e à infância, garantidos pela nova Carta, por isso a alternativa B está correta. A (direitos civis, como vida, liberdade e propriedade) e E (direitos políticos, como o voto) referem-se a outras dimensões da cidadania. C (direitos difusos) e D (direitos coletivos) existem na Constituição, mas não correspondem ao conjunto de garantias de bem-estar básico destacado na imagem.`,
@@ -631,19 +596,11 @@ Diário Oficial do Estado de São Paulo , 4 nov. 1931.
 Quando foi fechada pela ditadura do Estado Novo, em 
 1937, a FNB caracterizava-se como uma organização`,
     alternatives: [
-      { id: 'A', type: 'text', value: `política, engajada na luta por direitos sociais para a 
-população negra no Brasil.` },
-      { id: 'B', type: 'text', value: `beneficente, dedicada ao auxílio dos negros pobres 
-brasileiros depois da abolição.` },
-      { id: 'C', type: 'text', value: `paramilitar, voltada para o alistamento de negros na 
-luta contra as oligarquias regionais.` },
-      { id: 'D', type: 'text', value: `democrático-liberal, 
-envolvida 
-na 
-Revolução 
-Constitucionalista conduzida a partir de São Paulo.` },
-      { id: 'E', type: 'text', value: `internacionalista, ligada à exaltação da identidade 
-das populações africanas em situação de diáspora.` },
+      { id: 'A', type: 'text', value: `política, engajada na luta por direitos sociais para a população negra no Brasil.` },
+      { id: 'B', type: 'text', value: `beneficente, dedicada ao auxílio dos negros pobres brasileiros depois da abolição.` },
+      { id: 'C', type: 'text', value: `paramilitar, voltada para o alistamento de negros na luta contra as oligarquias regionais.` },
+      { id: 'D', type: 'text', value: `democrático-liberal, envolvida na Revolução Constitucionalista conduzida a partir de São Paulo.` },
+      { id: 'E', type: 'text', value: `internacionalista, ligada à exaltação da identidade das populações africanas em situação de diáspora.` },
     ],
     correct: 'A',
     explanation: `O Estatuto da Frente Negra Brasileira define a entidade como união política e social da população negra, voltada à afirmação de seus direitos históricos, sociais e políticos. Quando foi fechada pela ditadura do Estado Novo, em 1937, a FNB caracterizava-se como organização política, engajada na luta por direitos sociais para a população negra no Brasil, por isso a alternativa A está correta. B (beneficente) e C (paramilitar) reduzem a entidade à assistência ou ao alistamento militar. D (democrático-liberal, ligada à Revolução Constitucionalista) e E (internacionalista pan-africana) não correspondem ao caráter de luta por direitos no país expresso no estatuto.`,
@@ -668,15 +625,8 @@ descrito no texto é a`,
       { id: 'A', type: 'text', value: `criação de condomínios fechados de moradia.` },
       { id: 'B', type: 'text', value: `decadência das áreas centrais de comércio popular.` },
       { id: 'C', type: 'text', value: `aceleração do processo conhecido como cercamento.` },
-      { id: 'D', type: 'text', value: `ampliação do tempo de deslocamento diário da 
-população.` },
-      { id: 'E', type: 'text', value: `contenção 
-da 
-ocupação 
-de 
-espaços 
-sem 
-infraestrutura satisfatória.` },
+      { id: 'D', type: 'text', value: `ampliação do tempo de deslocamento diário da população.` },
+      { id: 'E', type: 'text', value: `contenção da ocupação de espaços sem infraestrutura satisfatória.` },
     ],
     correct: 'D',
     explanation: `Rémond observa que o alto preço dos terrenos centrais provoca a especialização dos bairros e empurra quem não pode pagar aluguéis caros para subúrbios e áreas afastadas. Uma consequência geográfica desse processo socioespacial é a ampliação do tempo de deslocamento diário da população, que passa a morar longe do trabalho e dos serviços centrais, por isso a alternativa D está correta. A (condomínios fechados) e B (decadência do comércio central) não decorrem diretamente da periferização descrita. C (cercamento) é fenômeno rural do período pré-industrial, e E (contenção de áreas sem infraestrutura) contraria a ocupação das periferias precárias indicada no texto.`,
@@ -729,12 +679,9 @@ como fim`,
     alternatives: [
       { id: 'A', type: 'text', value: `alcançar o prazer moderado e a felicidade.` },
       { id: 'B', type: 'text', value: `valorizar os deveres e as obrigações sociais.` },
-      { id: 'C', type: 'text', value: `aceitar o sofrimento e o rigorismo da vida com 
-resignação.` },
-      { id: 'D', type: 'text', value: `refletir sobre os valores e as normas dadas pela 
-divindade.` },
-      { id: 'E', type: 'text', value: `defender a indiferença e a impossibilidade de se 
-atingir o saber.` },
+      { id: 'C', type: 'text', value: `aceitar o sofrimento e o rigorismo da vida com resignação.` },
+      { id: 'D', type: 'text', value: `refletir sobre os valores e as normas dadas pela divindade.` },
+      { id: 'E', type: 'text', value: `defender a indiferença e a impossibilidade de se atingir o saber.` },
     ],
     correct: 'A',
     explanation: `Epicuro classifica os desejos em naturais e necessários, naturais e não necessários, e vãos; os que não trazem dor ao não serem satisfeitos podem ser facilmente descartados. A partir dessa distinção, o homem tem como fim alcançar o prazer moderado e a felicidade, obtidos pela satisfação apenas dos desejos essenciais e pela ausência de perturbação, por isso a alternativa A está correta. B e D (deveres sociais e normas divinas) e C (aceitação do sofrimento e rigorismo) contrariam o hedonismo epicurista. E (defesa da indiferença e impossibilidade do saber) corresponde a outras correntes, como o ceticismo, e não ao ideal de prazer comedido de Epicuro.`,
@@ -770,30 +717,15 @@ homem descobre a`,
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `Confins 
-Ribeirão 
-das 
-Neves 
-Vespasiano 
-Santa Luzia 
-Contagem 
-Belo Horizonte 
-Betim 
-Ibirité 
-Saldo do 
-deslocamento 
-Fluxo de pessoas 
--75 275 a -31 400 
-15 000 a 31 400 
--31 399 a 0 
-31 401 a 58 300 
-0 a 19 168 
-58 301 a 103 200 
-19 169 a 293 119 
-limite de município
-Nota: O saldo considera apenas as pessoas que se deslocavam para o trabalho e retornavam aos seus municípios diariamente.
-BRASIL. IBGE. Atlas do censo demográfico 2010 (adaptado).
-O fluxo migratório representado está associado ao processo de`,
+    text: `Confins Ribeirão das Neves Vespasiano Santa Luzia Contagem
+Belo Horizonte Betim Ibirité Saldo do deslocamento Fluxo de
+pessoas -75 275 a -31 400 15 000 a 31 400 -31 399 a 0 31 401 a
+58 300 0 a 19 168 58 301 a 103 200 19 169 a 293 119 limite de
+município Nota: O saldo considera apenas as pessoas que se
+deslocavam para o trabalho e retornavam aos seus municípios
+diariamente. BRASIL. IBGE. Atlas do censo demográfico 2010
+(adaptado). O fluxo migratório representado está associado ao
+processo de`,
     images: ['/enem/2014/images/enem_2014_d1_q26.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `fuga de áreas degradadas.` },
@@ -822,13 +754,7 @@ A relação entre transportes e urbanização é explicada, no texto, pela`,
       { id: 'B', type: 'text', value: `demanda por transporte individual ocasionada pela expansão da mancha urbana.` },
       { id: 'C', type: 'text', value: `presença hegemônica do transporte alternativo localizado nas periferias das cidades.` },
       { id: 'D', type: 'text', value: `aglomeração do espaço urbano metropolitano impedindo a construção do transporte metroviário.` },
-      { id: 'E', type: 'text', value: `predominância do transporte rodoviário associado à penetração das multinacionais automobilísticas. 
-Região Metropolitana 
-de Belo Horizonte 
-Sabará 
-Nova Lima 
-Itabirito 
-BRASIL. IBGE. Atlas do censo demográfico 2010 (adaptado).` },
+      { id: 'E', type: 'text', value: `predominância do transporte rodoviário associado à penetração das multinacionais automobilísticas. Região Metropolitana de Belo Horizonte Sabará Nova Lima Itabirito BRASIL. IBGE. Atlas do censo demográfico 2010 (adaptado).` },
     ],
     correct: 'E',
     explanation: `O texto afirma que a urbanização brasileira do século XX alargou ruas, abriu túneis e viadutos e retirou dos trilhos o transporte coletivo, condenando bondes e ferrovias. Essa relação entre transportes e urbanização explica-se pela predominância do transporte rodoviário, associada à penetração das multinacionais automobilísticas, que impulsionaram carros, ônibus e a infraestrutura de ruas, por isso a alternativa E está correta. A (retirada de investimentos no transporte de massa) e C (hegemonia do transporte alternativo) não são o fator apontado no texto. B (demanda por transporte individual) e D (aglomeração que impediria o metrô) não captam o papel da indústria automobilística destacado.`,
@@ -856,17 +782,9 @@ iniciativa é`,
     alternatives: [
       { id: 'A', type: 'text', value: `anular a anistia concedida aos chefes militares.` },
       { id: 'B', type: 'text', value: `rever as condenações judiciais aos presos políticos.` },
-      { id: 'C', type: 'text', value: `perdoar 
-os 
-crimes 
-atribuídos 
-aos 
-militantes 
-esquerdistas.` },
-      { id: 'D', type: 'text', value: `comprovar o apoio da sociedade aos golpistas 
-anticomunistas.` },
-      { id: 'E', type: 'text', value: `esclarecer as circunstâncias de violações aos direitos 
-humanos.` },
+      { id: 'C', type: 'text', value: `perdoar os crimes atribuídos aos militantes esquerdistas.` },
+      { id: 'D', type: 'text', value: `comprovar o apoio da sociedade aos golpistas anticomunistas.` },
+      { id: 'E', type: 'text', value: `esclarecer as circunstâncias de violações aos direitos humanos.` },
     ],
     correct: 'E',
     explanation: `A notícia descreve a Comissão Nacional da Verdade, criada para apurar fatos ocorridos entre 1964 e 1988 e resultante da mobilização de movimentos sociais. O objetivo dessa iniciativa é esclarecer as circunstâncias de violações aos direitos humanos cometidas no período da ditadura militar, por isso a alternativa E está correta. A e B (anular a anistia e rever condenações judiciais) extrapolam a função da comissão, de caráter investigativo e não punitivo. C (perdoar crimes da esquerda) e D (comprovar apoio social aos golpistas) distorcem a finalidade da CNV, voltada ao direito à memória e à verdade.`,
@@ -892,16 +810,11 @@ GALILEI, G. O ensaiador. Os pensadores . São Paulo: Abril Cultural, 1978.
 No contexto da Revolução Científica do século XVII, 
 assumir a posição de Galileu significava defender a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `continuidade do vínculo entre ciência e fé dominante 
-na Idade Média.` },
-      { id: 'B', type: 'text', value: `necessidade de o estudo linguístico ser acompanhado 
-do exame matemático.` },
-      { id: 'C', type: 'text', value: `oposição da nova física quantitativa aos pressupostos 
-da filosofia escolástica.` },
-      { id: 'D', type: 'text', value: `importância da independência da investigação 
-científica pretendida pela Igreja.` },
-      { id: 'E', type: 'text', value: `inadequação da matemática para elaborar uma 
-explicação racional da natureza.` },
+      { id: 'A', type: 'text', value: `continuidade do vínculo entre ciência e fé dominante na Idade Média.` },
+      { id: 'B', type: 'text', value: `necessidade de o estudo linguístico ser acompanhado do exame matemático.` },
+      { id: 'C', type: 'text', value: `oposição da nova física quantitativa aos pressupostos da filosofia escolástica.` },
+      { id: 'D', type: 'text', value: `importância da independência da investigação científica pretendida pela Igreja.` },
+      { id: 'E', type: 'text', value: `inadequação da matemática para elaborar uma explicação racional da natureza.` },
     ],
     correct: 'C',
     explanation: `Galileu afirma que o livro do universo está escrito em linguagem matemática, com triângulos, círculos e outras figuras geométricas, sem os quais é impossível compreendê-lo. No contexto da Revolução Científica do século XVII, assumir essa posição significava defender a oposição da nova física quantitativa aos pressupostos da filosofia escolástica, baseada na autoridade e nas qualidades aristotélicas, por isso a alternativa C está correta. A e D (vínculo entre ciência e fé medieval e independência pretendida pela Igreja) contrariam a ruptura proposta. B (necessidade do estudo linguístico) desvirtua a ideia de linguagem matemática, e E nega a adequação da matemática, oposto do que Galileu sustenta.`,
@@ -1049,16 +962,11 @@ correspondentes a que processo de intervenção no
 espaço?`,
     images: ['/enem/2014/images/enem_2014_d1_q34.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Expansão das áreas agricultáveis, com uso intensivo 
-de maquinário e insumos agrícolas.` },
-      { id: 'B', type: 'text', value: `Recuperação de águas eutrofizadas em decorrência 
-da contaminação por esgoto doméstico.` },
-      { id: 'C', type: 'text', value: `Ampliação da capacidade de geração de energia, 
-com alteração do ecossistema local.` },
-      { id: 'D', type: 'text', value: `Impermeabilização do solo pela construção civil nas 
-áreas de expansão urbana.` },
-      { id: 'E', type: 'text', value: `Criação recente de grandes parques industriais de 
-mediano potencial poluidor.` },
+      { id: 'A', type: 'text', value: `Expansão das áreas agricultáveis, com uso intensivo de maquinário e insumos agrícolas.` },
+      { id: 'B', type: 'text', value: `Recuperação de águas eutrofizadas em decorrência da contaminação por esgoto doméstico.` },
+      { id: 'C', type: 'text', value: `Ampliação da capacidade de geração de energia, com alteração do ecossistema local.` },
+      { id: 'D', type: 'text', value: `Impermeabilização do solo pela construção civil nas áreas de expansão urbana.` },
+      { id: 'E', type: 'text', value: `Criação recente de grandes parques industriais de mediano potencial poluidor.` },
     ],
     correct: 'C',
     explanation: `O mapa assinala pontos no território brasileiro com uso intensivo de tecnologia, localizados em áreas de grandes aproveitamentos, como usinas. Esses pontos correspondem à ampliação da capacidade de geração de energia, com alteração do ecossistema local, uma vez que a construção de hidrelétricas e instalações afins transforma os ambientes onde se instala, por isso a alternativa C está correta. A (expansão agrícola) e B (recuperação de águas eutrofizadas) não correspondem aos pontos isolados de alta tecnologia indicados. D (impermeabilização urbana) e E (parques industriais de mediano potencial poluidor) não traduzem o processo de geração energética associado aos locais destacados.`,
@@ -1205,8 +1113,7 @@ durante a Primeira República, tinha como objetivo a`,
       { id: 'B', type: 'text', value: `criação de infraestrutura para atividade industrial.` },
       { id: 'C', type: 'text', value: `integração de pequenas propriedades policultoras.` },
       { id: 'D', type: 'text', value: `valorização de regiões de baixa densidade demográfica.` },
-      { id: 'E', type: 'text', value: `promoção de fluxos migratórios do campo para a 
-cidade.` },
+      { id: 'E', type: 'text', value: `promoção de fluxos migratórios do campo para a cidade.` },
     ],
     correct: 'D',
     explanation: `O texto mostra que a Estrada de Ferro Noroeste do Brasil, iniciada em 1905, foi uma ferrovia de penetração, criada para abrir novas áreas à agricultura e ao povoamento, e não apenas para escoar o café como as demais ferrovias paulistas. Essa nova orientação, na Primeira República, tinha como objetivo a valorização de regiões de baixa densidade demográfica, levando a ocupação a áreas ainda pouco habitadas, por isso a alternativa D está correta. A (articulação de polos exportadores) descreve o modelo anterior, voltado ao café. B (infraestrutura industrial), C (integração de pequenas propriedades policultoras) e E (fluxos migratórios do campo para a cidade) não correspondem ao propósito de interiorização e povoamento da ferrovia.`,
@@ -1268,8 +1175,7 @@ respectivamente:`,
       { id: 'B', type: 'text', value: `Ordenação da Nação - Prerrogativas religiosas.` },
       { id: 'C', type: 'text', value: `Imposição das Forças Armadas - Deveres sociais.` },
       { id: 'D', type: 'text', value: `Normatização do Poder Judiciário - Regras morais.` },
-      { id: 'E', type: 'text', value: `Contestação do sistema de governo - Tradições 
-culturais.` },
+      { id: 'E', type: 'text', value: `Contestação do sistema de governo - Tradições culturais.` },
     ],
     correct: 'A',
     explanation: `O Texto I defende que a intervenção militar de 1964 foi imprescindível para manter a democracia, justificando o golpe por uma razão de Estado. O Texto II, ao contrário, afirma que nada compensa a perda das liberdades individuais e condena a solução autoritária, em defesa da soberania popular. Assim, embora ambos invoquem a democracia, as visões divergem ao focarem, respectivamente, razões de Estado e soberania popular, por isso a alternativa A está correta. As demais alternativas (ordenação da nação e prerrogativas religiosas; imposição das Forças Armadas e deveres sociais; normatização do Judiciário e regras morais; contestação do governo e tradições culturais) não correspondem ao par de argumentos presente nos dois textos.`,
@@ -1385,10 +1291,8 @@ do tempo, é necessário que o(a)`,
       { id: 'A', type: 'text', value: `comprimento da haste seja mantido constante.` },
       { id: 'B', type: 'text', value: `massa do corpo suspenso pela haste seja pequena.` },
       { id: 'C', type: 'text', value: `material da haste possua alta condutividade térmica.` },
-      { id: 'D', type: 'text', value: `amplitude da oscilação seja constante a qualquer 
-temperatura.` },
-      { id: 'E', type: 'text', value: `energia potencial gravitacional do corpo suspenso se 
-mantenha constante.` },
+      { id: 'D', type: 'text', value: `amplitude da oscilação seja constante a qualquer temperatura.` },
+      { id: 'E', type: 'text', value: `energia potencial gravitacional do corpo suspenso se mantenha constante.` },
     ],
     correct: 'A',
     explanation: `O período de um pêndulo simples é T = 2π√(L/g), dependendo apenas do comprimento L da haste e da aceleração da gravidade g. Como g é considerada constante e as forças dissipativas são desprezadas, a marcação correta do tempo exige que o período permaneça invariável, o que só ocorre se o comprimento L não mudar. A liga metálica especial é empregada justamente por manter suas dimensões praticamente constantes mesmo sob grandes variações de temperatura, evitando a dilatação que alteraria L. Portanto, para o relógio contar o tempo corretamente, é necessário que o comprimento da haste seja mantido constante (alternativa A).`,
@@ -1429,34 +1333,21 @@ A vitaminas`,
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `A liberação dos gases clorofluorcarbonos (CFCs) 
-na atmosfera pode provocar depleção de ozônio (O 3 ) na 
-estratosfera. O ozônio estratosférico é responsável por 
-absorver parte da radiação ultravioleta emitida pelo Sol, a 
-qual é nociva aos seres vivos. Esse processo, na camada 
-de ozônio, é ilustrado simplificadamente na figura. 
-Legenda 
-C 
-F 
-CI 
-O 
-+ 
-h ν 
-+ 
-Quimicamente, a destruição do ozônio na atmosfera por 
-gases CFCs é decorrência da`,
+    text: `A liberação dos gases clorofluorcarbonos (CFCs) na atmosfera
+pode provocar depleção de ozônio (O 3 ) na estratosfera. O
+ozônio estratosférico é responsável por absorver parte da
+radiação ultravioleta emitida pelo Sol, a qual é nociva aos
+seres vivos. Esse processo, na camada de ozônio, é ilustrado
+simplificadamente na figura. Legenda C F CI O + h ν +
+Quimicamente, a destruição do ozônio na atmosfera por gases
+CFCs é decorrência da`,
     images: ['/enem/2014/images/enem_2014_d1_q48.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `clivagem da molécula de ozônio pelos CFCs para 
-produzir espécies radicalares.` },
-      { id: 'B', type: 'text', value: `produção de oxigênio molecular a partir de ozônio, 
-catalisada por átomos de cloro.` },
-      { id: 'C', type: 'text', value: `oxidação do monóxido de cloro por átomos de 
-oxigênio para produzir átomos de cloro.` },
-      { id: 'D', type: 'text', value: `reação direta entre os CFCs e o ozônio para produzir 
-oxigênio molecular e monóxido de cloro.` },
-      { id: 'E', type: 'text', value: `reação de substituição de um dos átomos de oxigênio 
-na molécula de ozônio por átomos de cloro.` },
+      { id: 'A', type: 'text', value: `clivagem da molécula de ozônio pelos CFCs para produzir espécies radicalares.` },
+      { id: 'B', type: 'text', value: `produção de oxigênio molecular a partir de ozônio, catalisada por átomos de cloro.` },
+      { id: 'C', type: 'text', value: `oxidação do monóxido de cloro por átomos de oxigênio para produzir átomos de cloro.` },
+      { id: 'D', type: 'text', value: `reação direta entre os CFCs e o ozônio para produzir oxigênio molecular e monóxido de cloro.` },
+      { id: 'E', type: 'text', value: `reação de substituição de um dos átomos de oxigênio na molécula de ozônio por átomos de cloro.` },
     ],
     correct: 'B',
     explanation: `Os CFCs, ao absorverem radiação ultravioleta, liberam átomos de cloro que atuam como catalisadores na destruição do ozônio. Cada átomo de Cl reage com o O₃, convertendo-o em O₂ e regenerando-se ao final do ciclo, de modo que um único átomo de cloro destrói muitas moléculas de ozônio. O processo global é, assim, a transformação do ozônio em oxigênio molecular, catalisada pelos átomos de cloro. Portanto, a destruição do ozônio decorre da produção de oxigênio molecular a partir do ozônio, catalisada por átomos de cloro (alternativa B).`,
@@ -1478,22 +1369,11 @@ no Mecanismo de Desenvolvimento Limpo (MDL), do
 Protocolo de Kyoto. 
 Essa fonte de energia subutilizada, citada no texto, é o`,
     alternatives: [
-      { id: 'A', type: 'text', value: `etanol, obtido a partir da decomposição da matéria 
-orgânica por bactérias.` },
-      { id: 'B', type: 'text', value: `gás 
-natural, 
-formado 
-pela 
-ação 
-de 
-fungos 
-decompositores da matéria orgânica.` },
-      { id: 'C', type: 'text', value: `óleo de xisto, obtido pela decomposição da matéria 
-orgânica pelas bactérias anaeróbias.` },
-      { id: 'D', type: 'text', value: `gás metano, obtido pela atividade de bactérias 
-anaeróbias na decomposição da matéria orgânica.` },
-      { id: 'E', type: 'text', value: `gás liquefeito de petróleo, obtido pela decomposição 
-de vegetais presentes nos restos de comida.` },
+      { id: 'A', type: 'text', value: `etanol, obtido a partir da decomposição da matéria orgânica por bactérias.` },
+      { id: 'B', type: 'text', value: `gás natural, formado pela ação de fungos decompositores da matéria orgânica.` },
+      { id: 'C', type: 'text', value: `óleo de xisto, obtido pela decomposição da matéria orgânica pelas bactérias anaeróbias.` },
+      { id: 'D', type: 'text', value: `gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica.` },
+      { id: 'E', type: 'text', value: `gás liquefeito de petróleo, obtido pela decomposição de vegetais presentes nos restos de comida.` },
     ],
     correct: 'D',
     explanation: `Em aterros sanitários, a matéria orgânica do lixo é decomposta por bactérias anaeróbias que, na ausência de oxigênio, produzem o biogás, cujo principal componente é o gás metano (CH₄). Esse metano é captado e queimado para gerar energia, sendo a principal fonte energética produzida nesses locais. As demais opções (etanol, gás natural por fungos, óleo de xisto e GLP) não correspondem à digestão anaeróbia da matéria orgânica no aterro. Portanto, a fonte de energia subutilizada é o gás metano obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica (alternativa D).`,
@@ -1537,32 +1417,25 @@ que a fotografia apresente as cores naturais dos objetos?`,
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `Para 
-impedir 
-a 
-contaminação 
-microbiana 
-do 
-suprimento de água, deve-se eliminar as emissões de 
-efluentes e, quando necessário, tratá-lo com desinfetante. 
-O ácido hipocloroso (HClO), produzido pela reação entre 
-cloro e água, é um dos compostos mais empregados 
-como desinfetante. Contudo, ele não atua somente como 
-oxidante, mas também como um ativo agente de cloração. 
-A presença de matéria orgânica dissolvida no suprimento 
-de água clorada pode levar à formação de clorofórmio 
-(CHCl 3 ) e outras espécies orgânicas cloradas tóxicas. 
-SPIRO, T. G.; STIGLIANI, W. M. Química ambiental . 
-São Paulo: Pearson, 2009 (adaptado). 
-Visando eliminar da água o clorofórmio e outras moléculas 
-orgânicas, o tratamento adequado é a`,
+    text: `Para impedir a contaminação microbiana do suprimento de água,
+deve-se eliminar as emissões de efluentes e, quando
+necessário, tratá-lo com desinfetante. O ácido hipocloroso
+(HClO), produzido pela reação entre cloro e água, é um dos
+compostos mais empregados como desinfetante. Contudo, ele não
+atua somente como oxidante, mas também como um ativo agente de
+cloração. A presença de matéria orgânica dissolvida no
+suprimento de água clorada pode levar à formação de
+clorofórmio (CHCl 3 ) e outras espécies orgânicas cloradas
+tóxicas. SPIRO, T. G.; STIGLIANI, W. M. Química ambiental .
+São Paulo: Pearson, 2009 (adaptado). Visando eliminar da água
+o clorofórmio e outras moléculas orgânicas, o tratamento
+adequado é a`,
     alternatives: [
       { id: 'A', type: 'text', value: `filtração, com o uso de filtros de carvão ativo.` },
       { id: 'B', type: 'text', value: `fluoretação, pela adição de fluoreto de sódio.` },
       { id: 'C', type: 'text', value: `coagulação, pela adição de sulfato de alumínio.` },
       { id: 'D', type: 'text', value: `correção do pH, pela adição de carbonato de sódio.` },
-      { id: 'E', type: 'text', value: `floculação, em tanques de concreto com a água em 
-movimento.` },
+      { id: 'E', type: 'text', value: `floculação, em tanques de concreto com a água em movimento.` },
     ],
     correct: 'A',
     explanation: `O objetivo é remover o clorofórmio (CHCl₃) e outras moléculas orgânicas dissolvidas na água. O carvão ativo possui enorme área superficial e grande poder de adsorção, retendo em sua superfície essas moléculas orgânicas. Por isso, a filtração com filtros de carvão ativo é o tratamento adequado para esse fim. As demais opções (fluoretação, coagulação, correção de pH e floculação) não removem eficientemente compostos orgânicos dissolvidos. Portanto, a resposta é a filtração com carvão ativo (alternativa A).`,
@@ -1645,37 +1518,7 @@ Qual das fontes oleaginosas apresentadas produziria um biodiesel de maior resist
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `Uma pessoa, lendo o manual de uma ducha que 
-acabou de adquirir para a sua casa, observa o gráfico, 
-que relaciona a vazão na ducha com a pressão, medida 
-em metros de coluna de água (mca). 
-14 
-12 
-Vazão (L/min) 
-10 
-8 
-6 
-4 
-2 
-0 
-1 
-2 
-4 
-6 
-8 
-3 
-5 
-7 
-9 
-Pressão Estática (mca) 
-Nessa casa residem quatro pessoas. Cada uma delas 
-toma um banho por dia, com duração média de 8 minutos, 
-permanecendo o registro aberto com vazão máxima 
-durante esse tempo. A ducha é instalada em um ponto 
-seis metros abaixo do nível da lâmina de água, que se 
-mantém constante dentro do reservatório. 
-Ao final de 30 dias, esses banhos consumirão um volume 
-de água, em litros, igual a`,
+    text: ``,
     images: ['/enem/2014/images/enem_2014_d1_q55.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `69 120.` },
@@ -1727,34 +1570,19 @@ emissão de SO₃ de`,
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `Um sistema de iluminação foi construído com 
-um circuito de três lâmpadas iguais conectadas a um 
-gerador (G) de tensão constante. Esse gerador possui 
-uma chave que pode ser ligada nas posições A ou B. 
-1 
-2 
-X 
-X 
-3 
-X 
-A 
-+ 
-B 
-G 
-- 
-Considerando o funcionamento do circuito dado, a 
-lâmpada 1 brilhará mais quando a chave estiver na 
-posição`,
+    text: `Um sistema de iluminação foi construído com um circuito de
+três lâmpadas iguais conectadas a um gerador (G) de tensão
+constante. Esse gerador possui uma chave que pode ser ligada
+nas posições A ou B. 1 2 X X 3 X A + B G - Considerando o
+funcionamento do circuito dado, a lâmpada 1 brilhará mais
+quando a chave estiver na posição`,
     images: ['/enem/2014/images/enem_2014_d1_q57.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `B, pois a corrente será maior nesse caso.` },
       { id: 'B', type: 'text', value: `B, pois a potência total será maior nesse caso.` },
-      { id: 'C', type: 'text', value: `A, pois a resistência equivalente será menor nesse 
-caso.` },
-      { id: 'D', type: 'text', value: `B, pois o gerador fornecerá uma maior tensão nesse 
-caso.` },
-      { id: 'E', type: 'text', value: `A, pois a potência dissipada pelo gerador será menor 
-nesse caso.` },
+      { id: 'C', type: 'text', value: `A, pois a resistência equivalente será menor nesse caso.` },
+      { id: 'D', type: 'text', value: `B, pois o gerador fornecerá uma maior tensão nesse caso.` },
+      { id: 'E', type: 'text', value: `A, pois a potência dissipada pelo gerador será menor nesse caso.` },
     ],
     correct: 'C',
     explanation: `As três lâmpadas são idênticas e a lâmpada 1 fica em série com o restante do circuito, sendo percorrida por toda a corrente fornecida pelo gerador de tensão constante. Quanto maior essa corrente, mais a lâmpada 1 brilha, e a corrente total é maior quando a resistência equivalente do circuito é menor. Na posição A, as lâmpadas 2 e 3 associam-se de modo a reduzir a resistência equivalente do conjunto, elevando a corrente total e, com ela, o brilho da lâmpada 1. Portanto, a lâmpada 1 brilha mais na posição A, pois a resistência equivalente é menor nesse caso (alternativa C).`,
@@ -1871,18 +1699,19 @@ Qual é a árvore adequada para o reflorestamento dessa região?`,
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `Um sistema de pistão contendo um gás é mostrado na figura. Sobre a extremidade superior do êmbolo, que
-pode movimentar-se livremente sem atrito, encontra-se um objeto. Através de uma chapa de aquecimento é possível
-fornecer calor ao gás e, com auxílio de um manômetro, medir sua pressão. A partir de diferentes valores de calor
-fornecido, considerando o sistema como hermético, o objeto elevou-se em valores Δh, como mostrado no gráfico.
-Foram estudadas, separadamente, quantidades equimolares de dois diferentes gases, denominados M e V.
-Objeto
-∆ h
-∆ h
-Manômetro
-Chapa de aquecimento
-Calor fornecido
-A diferença no comportamento dos gases no experimento decorre do fato de o gás M, em relação ao V, apresentar`,
+    text: `Um sistema de pistão contendo um gás é mostrado na figura.
+Sobre a extremidade superior do êmbolo, que pode movimentar-se
+livremente sem atrito, encontra-se um objeto. Através de uma
+chapa de aquecimento é possível fornecer calor ao gás e, com
+auxílio de um manômetro, medir sua pressão. A partir de
+diferentes valores de calor fornecido, considerando o sistema
+como hermético, o objeto elevou-se em valores Δh, como
+mostrado no gráfico. Foram estudadas, separadamente,
+quantidades equimolares de dois diferentes gases, denominados
+M e V. Objeto ∆ h ∆ h Manômetro Chapa de aquecimento Calor
+fornecido A diferença no comportamento dos gases no
+experimento decorre do fato de o gás M, em relação ao V,
+apresentar`,
     images: ['/enem/2014/images/enem_2014_d1_q62.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `maior pressão de vapor.` },
@@ -1901,29 +1730,16 @@ A diferença no comportamento dos gases no experimento decorre do fato de o gás
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `A aplicação excessiva de fertilizantes nitrogenados na 
-agricultura pode acarretar alterações no solo e na água 
-pelo acúmulo de compostos nitrogenados, principalmente 
-a forma mais oxidada, favorecendo a proliferação de 
-algas e plantas aquáticas e alterando o ciclo do nitrogênio, 
-representado no esquema. A espécie nitrogenada mais 
-oxidada tem sua quantidade controlada por ação de 
-microrganismos que promovem a reação de redução 
-dessa espécie, no processo denominado desnitrificação. 
-N₂ 
-I 
-V 
-NH₃ 
-- 
-NO₃ 
-II 
-IV 
-III 
-- 
-NH₄ 
-+ 
-NO₂ 
-O processo citado está representado na etapa`,
+    text: `A aplicação excessiva de fertilizantes nitrogenados na
+agricultura pode acarretar alterações no solo e na água pelo
+acúmulo de compostos nitrogenados, principalmente a forma mais
+oxidada, favorecendo a proliferação de algas e plantas
+aquáticas e alterando o ciclo do nitrogênio, representado no
+esquema. A espécie nitrogenada mais oxidada tem sua quantidade
+controlada por ação de microrganismos que promovem a reação de
+redução dessa espécie, no processo denominado desnitrificação.
+N₂ I V NH₃ - NO₃ II IV III - NH₄ + NO₂ O processo citado está
+representado na etapa`,
     images: ['/enem/2014/images/enem_2014_d1_q63.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I.` },
@@ -2006,8 +1822,7 @@ nucleares está associada a esse tipo de poluição?`,
       { id: 'B', type: 'text', value: `Condensação do vapor-d’água no final do processo.` },
       { id: 'C', type: 'text', value: `Conversão de energia das turbinas pelos geradores.` },
       { id: 'D', type: 'text', value: `Aquecimento da água líquida para gerar vapor-d’água.` },
-      { id: 'E', type: 'text', value: `Lançamento do vapor-d’água sobre as pás das 
-turbinas.` },
+      { id: 'E', type: 'text', value: `Lançamento do vapor-d’água sobre as pás das turbinas.` },
     ],
     correct: 'B',
     explanation: `Nas usinas nucleares, a energia liberada pela fissão aquece a água, gerando vapor que move as turbinas. Após passar pelas turbinas, esse vapor precisa ser condensado de volta a água líquida e, nessa condensação, libera grande quantidade de calor, geralmente transferido à água de rios, lagos ou mar usada na refrigeração. Esse aquecimento artificial da água do corpo receptor é a causa da poluição térmica. Portanto, a etapa associada a esse tipo de poluição é a condensação do vapor-d'água no final do processo (alternativa B).`,
@@ -2137,53 +1952,23 @@ no ajuste do pH?`,
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `Parte do gás carbônico da atmosfera é absorvida 
-pela água do mar. O esquema representa reações 
-que ocorrem naturalmente, em equilíbrio, no sistema 
-ambiental marinho. O excesso de dióxido de carbono na 
-atmosfera pode afetar os recifes de corais. 
-1
-Menos
-ácido
-Mais
-ácido
-Dióxido de carbono 
- atmosférico 
-CO₂ 
-2 
-3 
-Ácido
-carbônico
-Dióxido de carbono 
- dissolvido 
-Água 
-Íons hidrogênio 
-H₂ CO₃ 
-+ 
-CO₂ 
-H₂ O 
-H + 
-HCO 3 
-- 
-Íons bicarbonato 
-Íons carbonato 
-CO₃ 
-2- 
-Conchas 
-deformadas 
-Disponível em: http://news.bbc.co.uk. Acesso em: 20 maio 2014 (adaptado). 
-O resultado desse processo nos corais é o(a)`,
+    text: `Parte do gás carbônico da atmosfera é absorvida pela água do
+mar. O esquema representa reações que ocorrem naturalmente, em
+equilíbrio, no sistema ambiental marinho. O excesso de dióxido
+de carbono na atmosfera pode afetar os recifes de corais. 1
+Menos ácido Mais ácido Dióxido de carbono atmosférico CO₂ 2 3
+Ácido carbônico Dióxido de carbono dissolvido Água Íons
+hidrogênio H₂ CO₃ + CO₂ H₂ O H + HCO 3 - Íons bicarbonato Íons
+carbonato CO₃ 2- Conchas deformadas Disponível em:
+http://news.bbc.co.uk. Acesso em: 20 maio 2014 (adaptado). O
+resultado desse processo nos corais é o(a)`,
     images: ['/enem/2014/images/enem_2014_d1_q71.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `seu branqueamento, levando à sua morte e extinção.` },
-      { id: 'B', type: 'text', value: `excesso de fixação de cálcio, provocando calcificação 
-indesejável.` },
-      { id: 'C', type: 'text', value: `menor incorporação de carbono, afetando seu 
-metabolismo energético.` },
-      { id: 'D', type: 'text', value: `estímulo da atividade enzimática, evitando a 
-descalcificação dos esqueletos.` },
-      { id: 'E', type: 'text', value: `dano à estrutura dos esqueletos calcários, diminuindo 
-o tamanho das populações.` },
+      { id: 'B', type: 'text', value: `excesso de fixação de cálcio, provocando calcificação indesejável.` },
+      { id: 'C', type: 'text', value: `menor incorporação de carbono, afetando seu metabolismo energético.` },
+      { id: 'D', type: 'text', value: `estímulo da atividade enzimática, evitando a descalcificação dos esqueletos.` },
+      { id: 'E', type: 'text', value: `dano à estrutura dos esqueletos calcários, diminuindo o tamanho das populações.` },
     ],
     correct: 'E',
     explanation: `O esquema mostra o CO₂ dissolvido reagindo com a água e formando ácido carbônico (H₂CO₃), que libera íons H⁺ e torna a água mais ácida. Esse aumento de acidez ataca o carbonato de cálcio (CaCO₃) que compõe os esqueletos e conchas calcárias dos corais e de outros organismos, provocando sua deformação e dissolução. O dano a essas estruturas calcárias compromete a sobrevivência e reduz o tamanho das populações. Portanto, o resultado desse processo nos corais é o dano à estrutura dos esqueletos calcários, diminuindo o tamanho das populações (alternativa E).`,
@@ -2195,35 +1980,22 @@ o tamanho das populações.` },
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `O funcionamento dos geradores de usinas elétricas 
-baseia-se no fenômeno da indução eletromagnética, 
-descoberto por Michael Faraday no século XIX. Pode-se 
-observar esse fenômeno ao se movimentar um ímã e uma 
-espira em sentidos opostos com módulo da velocidade 
-igual a v, induzindo uma corrente elétrica de intensidade i, 
-como ilustrado na figura. 
-v 
-v 
-B 
-S 
-N 
-A 
-i 
-A fim de se obter uma corrente com o mesmo sentido da 
-apresentada na figura, utilizando os mesmos materiais, 
-outra possibilidade é mover a espira para a`,
+    text: `O funcionamento dos geradores de usinas elétricas baseia-se no
+fenômeno da indução eletromagnética, descoberto por Michael
+Faraday no século XIX. Pode-se observar esse fenômeno ao se
+movimentar um ímã e uma espira em sentidos opostos com módulo
+da velocidade igual a v, induzindo uma corrente elétrica de
+intensidade i, como ilustrado na figura. v v B S N A i A fim
+de se obter uma corrente com o mesmo sentido da apresentada na
+figura, utilizando os mesmos materiais, outra possibilidade é
+mover a espira para a`,
     images: ['/enem/2014/images/enem_2014_d1_q72.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `esquerda e o ímã para a direita com polaridade 
-invertida.` },
-      { id: 'B', type: 'text', value: `direita e o ímã para a esquerda com polaridade 
-invertida.` },
-      { id: 'C', type: 'text', value: `esquerda e o ímã para a esquerda com mesma 
-polaridade.` },
-      { id: 'D', type: 'text', value: `direita e manter o ímã em repouso com polaridade 
-invertida.` },
-      { id: 'E', type: 'text', value: `esquerda e manter o ímã em repouso com mesma 
-polaridade.` },
+      { id: 'A', type: 'text', value: `esquerda e o ímã para a direita com polaridade invertida.` },
+      { id: 'B', type: 'text', value: `direita e o ímã para a esquerda com polaridade invertida.` },
+      { id: 'C', type: 'text', value: `esquerda e o ímã para a esquerda com mesma polaridade.` },
+      { id: 'D', type: 'text', value: `direita e manter o ímã em repouso com polaridade invertida.` },
+      { id: 'E', type: 'text', value: `esquerda e manter o ímã em repouso com mesma polaridade.` },
     ],
     correct: 'A',
     explanation: `A corrente induzida depende da variação do fluxo magnético através da espira, e seu sentido depende de como o ímã se aproxima ou se afasta e de qual polo está voltado para a espira. Para manter o mesmo sentido da corrente usando os mesmos materiais, pode-se inverter simultaneamente o sentido do movimento e a polaridade do ímã, pois as duas inversões se compensam e resultam na mesma variação de fluxo. Movendo a espira para a esquerda e o ímã para a direita com a polaridade invertida, obtém-se a mesma corrente induzida. Portanto, a resposta é mover a espira para a esquerda e o ímã para a direita com polaridade invertida (alternativa A).`,
@@ -2245,14 +2017,10 @@ Uma característica da mitocôndria que sustenta essa
 teoria é a`,
     alternatives: [
       { id: 'A', type: 'text', value: `capacidade de produzir moléculas de ATP.` },
-      { id: 'B', type: 'text', value: `presença de parede celular semelhante à de 
-procariontes.` },
-      { id: 'C', type: 'text', value: `presença de membranas envolvendo e separando a 
-matriz mitocondrial do citoplasma.` },
-      { id: 'D', type: 'text', value: `capacidade de autoduplicação dada por DNA circular 
-próprio semelhante ao bacteriano.` },
-      { id: 'E', type: 'text', value: `presença de um sistema enzimático eficiente às 
-reações químicas do metabolismo aeróbio.` },
+      { id: 'B', type: 'text', value: `presença de parede celular semelhante à de procariontes.` },
+      { id: 'C', type: 'text', value: `presença de membranas envolvendo e separando a matriz mitocondrial do citoplasma.` },
+      { id: 'D', type: 'text', value: `capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano.` },
+      { id: 'E', type: 'text', value: `presença de um sistema enzimático eficiente às reações químicas do metabolismo aeróbio.` },
     ],
     correct: 'D',
     explanation: `A teoria endossimbiótica propõe que as mitocôndrias se originaram de procariontes ancestrais incorporados por células maiores. A evidência que sustenta essa ideia é a presença, na mitocôndria, de DNA próprio, circular e semelhante ao bacteriano, além da capacidade de autoduplicação relativamente independente. Essas características são típicas de bactérias e indicam a ascendência procariótica da organela. Portanto, a característica que sustenta a teoria é a capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano (alternativa D).`,
@@ -2264,28 +2032,17 @@ reações químicas do metabolismo aeróbio.` },
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `No 
-heredograma, 
-os 
-símbolos 
-preenchidos 
-representam pessoas portadoras de um tipo raro de 
-doença genética. Os homens são representados pelos 
-quadrados e as mulheres, pelos círculos. 
+    text: `No heredograma, os símbolos preenchidos representam pessoas
+portadoras de um tipo raro de doença genética. Os homens são
+representados pelos quadrados e as mulheres, pelos círculos.
 Qual é o padrão de herança observado para essa doença?`,
     images: ['/enem/2014/images/enem_2014_d1_q74.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Dominante autossômico, pois a doença aparece em 
-ambos os sexos.` },
-      { id: 'B', type: 'text', value: `Recessivo ligado ao sexo, pois não ocorre a 
-transmissão do pai para os filhos.` },
-      { id: 'C', type: 'text', value: `Recessivo ligado ao Y, pois a doença é transmitida 
-dos pais heterozigotos para os filhos.` },
-      { id: 'D', type: 'text', value: `Dominante ligado ao sexo, pois todas as filhas de 
-homens afetados também apresentam a doença.` },
-      { id: 'E', type: 'text', value: `Codominante autossômico, pois a doença é herdada 
-pelos filhos de ambos os sexos, tanto do pai quanto 
-da mãe.` },
+      { id: 'A', type: 'text', value: `Dominante autossômico, pois a doença aparece em ambos os sexos.` },
+      { id: 'B', type: 'text', value: `Recessivo ligado ao sexo, pois não ocorre a transmissão do pai para os filhos.` },
+      { id: 'C', type: 'text', value: `Recessivo ligado ao Y, pois a doença é transmitida dos pais heterozigotos para os filhos.` },
+      { id: 'D', type: 'text', value: `Dominante ligado ao sexo, pois todas as filhas de homens afetados também apresentam a doença.` },
+      { id: 'E', type: 'text', value: `Codominante autossômico, pois a doença é herdada pelos filhos de ambos os sexos, tanto do pai quanto da mãe.` },
     ],
     correct: 'D',
     explanation: `A análise do heredograma mostra que a doença não deixa de aparecer ao longo das gerações e que todas as filhas de homens afetados também manifestam a doença. Esse é o padrão típico da herança dominante ligada ao sexo (cromossomo X): o homem afetado transmite o alelo dominante a todas as suas filhas, que recebem obrigatoriamente seu único cromossomo X e, por isso, apresentam a doença. Esse comportamento exclui as hipóteses autossômica, recessiva ligada ao sexo e ligada ao Y. Portanto, o padrão é dominante ligado ao sexo, pois todas as filhas de homens afetados também apresentam a doença (alternativa D).`,
@@ -2355,19 +2112,12 @@ região de frequência`,
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `O estudo de compostos orgânicos permite aos 
-analistas 
-definir 
-propriedades 
-físicas 
-e 
-químicas 
-responsáveis pelas características de cada substância 
-descoberta. Um laboratório investiga moléculas quirais 
-cuja cadeia carbônica seja insaturada, heterogênea e 
-ramificada. 
-A fórmula que se enquadra nas características da 
-molécula investigada é`,
+    text: `O estudo de compostos orgânicos permite aos analistas definir
+propriedades físicas e químicas responsáveis pelas
+características de cada substância descoberta. Um laboratório
+investiga moléculas quirais cuja cadeia carbônica seja
+insaturada, heterogênea e ramificada. A fórmula que se
+enquadra nas características da molécula investigada é`,
     alternatives: [
       { id: 'A', type: 'text', value: `CH₃–(CH)₂–CH(OH)–CO–NH–CH₃.` },
       { id: 'B', type: 'text', value: `CH₃–(CH)₂–CH(CH₃)–CO–NH–CH₃.` },
@@ -2398,8 +2148,7 @@ facilitada porque os carboidratos presentes`,
       { id: 'B', type: 'text', value: `absorvem água com facilidade.` },
       { id: 'C', type: 'text', value: `caramelizam por aquecimento e quebram.` },
       { id: 'D', type: 'text', value: `são digeridos por organismos decompositores.` },
-      { id: 'E', type: 'text', value: `decompõem-se espontaneamente em contato com 
-água e gás carbônico.` },
+      { id: 'E', type: 'text', value: `decompõem-se espontaneamente em contato com água e gás carbônico.` },
     ],
     correct: 'D',
     explanation: `O plástico ecológico contém amido de milho, que é um carboidrato. Os carboidratos são moléculas facilmente degradadas por organismos decompositores (bactérias e fungos), que os utilizam como fonte de alimento. Ao digerirem o amido presente, esses decompositores fragmentam a resina polimérica, acelerando a decomposição do plástico no ambiente. Portanto, a fragmentação é facilitada porque os carboidratos são digeridos por organismos decompositores (alternativa D).`,
@@ -2438,29 +2187,17 @@ tipo A?`,
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `O principal processo industrial utilizado na produção 
-de fenol é a oxidação do cumeno (isopropilbenzeno). 
-A equação mostra que esse processo envolve a formação 
-do hidroperóxido de cumila, que em seguida é decomposto 
-em fenol e acetona, ambos usados na indústria química 
-como precursores de moléculas mais complexas. Após 
-o processo de síntese, esses dois insumos devem ser 
-separados para comercialização individual. 
-OOH 
-OH 
-O 
-H₂ O / H₂ SO₄ 
-+ O₂ 
-Catalisador 
-+ 
-Cumeno 
-Acetona 
-Hidroperóxido 
-de cumila 
-Fenol 
-Considerando as características físico-químicas dos dois 
-insumos formados, o método utilizado para a separação 
-da mistura, em escala industrial, é a`,
+    text: `O principal processo industrial utilizado na produção de fenol
+é a oxidação do cumeno (isopropilbenzeno). A equação mostra
+que esse processo envolve a formação do hidroperóxido de
+cumila, que em seguida é decomposto em fenol e acetona, ambos
+usados na indústria química como precursores de moléculas mais
+complexas. Após o processo de síntese, esses dois insumos
+devem ser separados para comercialização individual. OOH OH O
+H₂ O / H₂ SO₄ + O₂ Catalisador + Cumeno Acetona Hidroperóxido
+de cumila Fenol Considerando as características
+físico-químicas dos dois insumos formados, o método utilizado
+para a separação da mistura, em escala industrial, é a`,
     images: ['/enem/2014/images/enem_2014_d1_q80.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `filtração.` },
@@ -2493,16 +2230,11 @@ A forma larval do parasitoide assume qual papel nessa
 cadeia alimentar?`,
     images: ['/enem/2014/images/enem_2014_d1_q81.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Consumidor primário, pois ataca diretamente uma 
-espécie herbívora.` },
-      { id: 'B', type: 'text', value: `Consumidor secundário, pois se alimenta diretamente 
-dos tecidos da lagarta.` },
-      { id: 'C', type: 'text', value: `Organismo heterótrofo de primeira ordem, pois se 
-alimenta de pólen na fase adulta.` },
-      { id: 'D', type: 'text', value: `Organismo heterótrofo de segunda ordem, pois 
-apresenta o maior nível energético na cadeia.` },
-      { id: 'E', type: 'text', value: `Decompositor, pois se alimenta de tecidos do interior 
-do corpo da lagarta e a leva à morte.` },
+      { id: 'A', type: 'text', value: `Consumidor primário, pois ataca diretamente uma espécie herbívora.` },
+      { id: 'B', type: 'text', value: `Consumidor secundário, pois se alimenta diretamente dos tecidos da lagarta.` },
+      { id: 'C', type: 'text', value: `Organismo heterótrofo de primeira ordem, pois se alimenta de pólen na fase adulta.` },
+      { id: 'D', type: 'text', value: `Organismo heterótrofo de segunda ordem, pois apresenta o maior nível energético na cadeia.` },
+      { id: 'E', type: 'text', value: `Decompositor, pois se alimenta de tecidos do interior do corpo da lagarta e a leva à morte.` },
     ],
     correct: 'B',
     explanation: `A lagarta é herbívora e, portanto, consumidora primária na cadeia alimentar. A larva do parasitoide desenvolve-se dentro da lagarta e alimenta-se diretamente de seus tecidos, nutrindo-se de um consumidor primário. Quem se alimenta de um consumidor primário ocupa o nível de consumidor secundário. Portanto, a forma larval do parasitoide assume o papel de consumidor secundário, pois se alimenta diretamente dos tecidos da lagarta (alternativa B).`,
@@ -2528,10 +2260,8 @@ quadrinho, é`,
       { id: 'A', type: 'text', value: `nulo.` },
       { id: 'B', type: 'text', value: `paralelo à sua velocidade linear e no mesmo sentido.` },
       { id: 'C', type: 'text', value: `paralelo à sua velocidade linear e no sentido oposto.` },
-      { id: 'D', type: 'text', value: `perpendicular à sua velocidade linear e dirigido para 
-o centro da Terra.` },
-      { id: 'E', type: 'text', value: `perpendicular à sua velocidade linear e dirigido para 
-fora da superfície da Terra.` },
+      { id: 'D', type: 'text', value: `perpendicular à sua velocidade linear e dirigido para o centro da Terra.` },
+      { id: 'E', type: 'text', value: `perpendicular à sua velocidade linear e dirigido para fora da superfície da Terra.` },
     ],
     correct: 'A',
     explanation: `O coelhinho descreve um movimento circular com módulo da velocidade constante, isto é, um movimento circular uniforme. A aceleração tangencial está associada à variação do módulo da velocidade; como esse módulo não muda, a aceleração tangencial é nula. Existe apenas a aceleração centrípeta, perpendicular à velocidade e dirigida ao centro, mas ela não é tangencial. Portanto, o vetor aceleração tangencial é nulo (alternativa A).`,
@@ -2573,19 +2303,12 @@ O ambiente que necessita de biorremediação é o(a)`,
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `Ao sintonizarmos uma estação de rádio ou um canal 
-de TV em um aparelho, estamos alterando algumas 
-características 
-elétricas 
-de 
-seu 
-circuito 
-receptor. 
-Das inúmeras ondas eletromagnéticas que chegam 
-simultaneamente ao receptor, somente aquelas que 
-oscilam com determinada frequência resultarão em 
-máxima absorção de energia. 
-O fenômeno descrito é a`,
+    text: `Ao sintonizarmos uma estação de rádio ou um canal de TV em um
+aparelho, estamos alterando algumas características elétricas
+de seu circuito receptor. Das inúmeras ondas eletromagnéticas
+que chegam simultaneamente ao receptor, somente aquelas que
+oscilam com determinada frequência resultarão em máxima
+absorção de energia. O fenômeno descrito é a`,
     alternatives: [
       { id: 'A', type: 'text', value: `difração.` },
       { id: 'B', type: 'text', value: `refração.` },
@@ -2603,22 +2326,12 @@ O fenômeno descrito é a`,
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `Imunobiológicos: 
-diferentes formas de produção, diferentes aplicações 
-Aplicação do 
-imunobiológico II 
-Vírus, 
-bactérias 
-Produção do 
- imunobiológico III 
-Aplicação do 
-imunobiológico I 
-Aplicação do imunobiológico III 
-A 
-B 
-Embora sejam produzidos e utilizados em situações 
-distintas, os imunobiológicos I e II atuam de forma 
-semelhante nos humanos e equinos, pois`,
+    text: `Imunobiológicos: diferentes formas de produção, diferentes
+aplicações Aplicação do imunobiológico II Vírus, bactérias
+Produção do imunobiológico III Aplicação do imunobiológico I
+Aplicação do imunobiológico III A B Embora sejam produzidos e
+utilizados em situações distintas, os imunobiológicos I e II
+atuam de forma semelhante nos humanos e equinos, pois`,
     images: ['/enem/2014/images/enem_2014_d1_q85.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `conferem imunidade passiva.` },
@@ -2650,16 +2363,11 @@ SILVA, V. A.; BENITE, A. M. C.; SOARES, M. H. F. B. Algo aqui não cheira bem...
 do mau cheiro. Química Nova na Escola , v. 33, n. 1, fev. 2011 (adaptado). 
 A efi ciência do uso do vinagre nesse caso se explica pela`,
     alternatives: [
-      { id: 'A', type: 'text', value: `sobreposição de odor, propiciada pelo cheiro 
-característico do vinagre.` },
-      { id: 'B', type: 'text', value: `solubilidade da piridina, de caráter ácido, na solução 
-ácida empregada.` },
-      { id: 'C', type: 'text', value: `inibição da proliferação das bactérias presentes, 
-devido à ação do ácido acético.` },
-      { id: 'D', type: 'text', value: `degradação enzimática da molécula de piridina, 
-acelerada pela presença de ácido acético.` },
-      { id: 'E', type: 'text', value: `reação de neutralização entre o ácido acético e a 
-piridina, que resulta em compostos sem mau odor.` },
+      { id: 'A', type: 'text', value: `sobreposição de odor, propiciada pelo cheiro característico do vinagre.` },
+      { id: 'B', type: 'text', value: `solubilidade da piridina, de caráter ácido, na solução ácida empregada.` },
+      { id: 'C', type: 'text', value: `inibição da proliferação das bactérias presentes, devido à ação do ácido acético.` },
+      { id: 'D', type: 'text', value: `degradação enzimática da molécula de piridina, acelerada pela presença de ácido acético.` },
+      { id: 'E', type: 'text', value: `reação de neutralização entre o ácido acético e a piridina, que resulta em compostos sem mau odor.` },
     ],
     correct: 'E',
     explanation: `A piridina (C₅H₅N) é uma amina, substância de caráter básico (alcalino), responsável pelo mau odor. O vinagre contém ácido acético e, ao entrar em contato com a piridina, ocorre uma reação de neutralização entre o ácido e a base. O produto formado não é volátil e não apresenta o mau cheiro. Portanto, a eficiência do vinagre se explica pela reação de neutralização entre o ácido acético e a piridina, que resulta em compostos sem mau odor (alternativa E).`,
@@ -2744,18 +2452,12 @@ massa de gesso obtida, em gramas, por mol de gás retido
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `Na década de 1990, células do cordão umbilical de 
-recém-nascidos humanos começaram a ser guardadas 
-por criopreservação, uma vez que apresentam alto 
-potencial 
-terapêutico 
-em 
-consequência 
-de 
-suas 
-características peculiares. 
-O poder terapêutico dessas células baseia-se em sua 
-capacidade de`,
+    text: `Na década de 1990, células do cordão umbilical de
+recém-nascidos humanos começaram a ser guardadas por
+criopreservação, uma vez que apresentam alto potencial
+terapêutico em consequência de suas características
+peculiares. O poder terapêutico dessas células baseia-se em
+sua capacidade de`,
     alternatives: [
       { id: 'A', type: 'text', value: `multiplicação lenta.` },
       { id: 'B', type: 'text', value: `comunicação entre células.` },
@@ -2773,27 +2475,21 @@ capacidade de`,
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: `As 
-lentes 
-fotocromáticas 
-escurecem 
-quando 
-expostas à luz solar por causa de reações químicas 
-reversíveis entre uma espécie incolor e outra colorida. 
-Diversas reações podem ser utilizadas, e a escolha 
-do melhor reagente para esse fim se baseia em três 
-principais aspectos: (i) o quanto escurece a lente; (ii) o 
-tempo de escurecimento quando exposta à luz solar; e 
-(iii) o tempo de esmaecimento em ambiente sem forte luz 
-solar. A transmitância indica a razão entre a quantidade 
-de luz que atravessa o meio e a quantidade de luz que 
-incide sobre ele. 
-Durante um teste de controle para o desenvolvimento 
-de novas lentes fotocromáticas, foram analisadas cinco 
-amostras, que utilizam reagentes químicos diferentes. 
-No quadro, são apresentados os resultados. 
- 
-Considerando os três aspectos, qual é a melhor amostra 
+    text: `As lentes fotocromáticas escurecem quando expostas à luz solar
+por causa de reações químicas reversíveis entre uma espécie
+incolor e outra colorida. Diversas reações podem ser
+utilizadas, e a escolha do melhor reagente para esse fim se
+baseia em três principais aspectos: (i) o quanto escurece a
+lente; (ii) o tempo de escurecimento quando exposta à luz
+solar; e (iii) o tempo de esmaecimento em ambiente sem forte
+luz solar. A transmitância indica a razão entre a quantidade
+de luz que atravessa o meio e a quantidade de luz que incide
+sobre ele. Durante um teste de controle para o desenvolvimento
+de novas lentes fotocromáticas, foram analisadas cinco
+amostras, que utilizam reagentes químicos diferentes. No
+quadro, são apresentados os resultados.
+
+Considerando os três aspectos, qual é a melhor amostra
 de lente fotocromática para se utilizar em óculos?`,
     images: ['/enem/2014/images/enem_2014_d1_q90.jpg'],
     alternatives: [

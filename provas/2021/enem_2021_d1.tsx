@@ -53,8 +53,7 @@ Ao descrever o processo de formação da Inglaterra, o autor do poema recorre a 
       { id: 'B', type: 'text', value: `um legado de origem geográfica.` },
       { id: 'C', type: 'text', value: `um impacto de natureza histórica.` },
       { id: 'D', type: 'text', value: `um problema de estratificação social.` },
-      { id: 'E', type: 'text', value: `a questão da intolerância linguística.
-` },
+      { id: 'E', type: 'text', value: `a questão da intolerância linguística.` },
     
     ],
     correct: 'A',
@@ -115,15 +114,25 @@ A presença de "at odds with" na fala da personagem do cartum revela o(a)`,
     exam: 'enem',
     year: 2021,
     day: 1,
-    text: `Exterior: Between The Museums - Day
-CELINE
-Americans always think Europe is perfect. But such beauty and history can be really oppressive. It reduces the individual to nothing. It just reminds you all the time you are just a little speck in a long history, where in América you feel like you could be making history. That's why I like Los Angeles because it is so...
-JESSÉ
-Ugly?
-CELINE
-No, I was going to say "neutral". It's like looking at a blank canvas. I think people go to places like Venice on their honeymoon to make sure they are not going to fight for the first two weeks of their marriage because they'll be too busy looking around at all the beautiful things. That's what people call a romantic place - somewhere where the prettiness will contain your primary violent instinct. A real good honeymoon spot would be like somewhere in New Jersey.
-KRIZAN, K.; LINKLATER, R. Before Sunrise: screenplay. New York: Vintage Books, 2005.
-Considerando-se o olhar dos personagens, esse trecho do roteiro de um filme permite reconhecer que a avaliação sobre um lugar depende do(a)`,
+    text: `Exterior: Between The Museums - Day CELINE Americans always
+think Europe is perfect. But such beauty and history can be
+really oppressive. It reduces the individual to nothing. It
+just reminds you all the time you are just a little speck in a
+long history, where in América you feel like you could be
+making history. That's why I like Los Angeles because it is
+so... JESSÉ Ugly? CELINE No, I was going to say "neutral".
+It's like looking at a blank canvas. I think people go to
+places like Venice on their honeymoon to make sure they are
+not going to fight for the first two weeks of their marriage
+because they'll be too busy looking around at all the
+beautiful things. That's what people call a romantic place -
+somewhere where the prettiness will contain your primary
+violent instinct. A real good honeymoon spot would be like
+somewhere in New Jersey. KRIZAN, K.; LINKLATER, R. Before
+Sunrise: screenplay. New York: Vintage Books, 2005.
+Considerando-se o olhar dos personagens, esse trecho do
+roteiro de um filme permite reconhecer que a avaliação sobre
+um lugar depende do(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `beleza do próprio local.` },
       { id: 'B', type: 'text', value: `perspectiva do visitante.` },
@@ -148,8 +157,7 @@ Considerando-se o olhar dos personagens, esse trecho do roteiro de um filme perm
       { id: 'B', type: 'text', value: `A recorrência de formulações hipotéticas.` },
       { id: 'C', type: 'text', value: `A referência à opinião dos astrônomos.` },
       { id: 'D', type: 'text', value: `A utilização da locução adverbial "no mínimo".` },
-      { id: 'E', type: 'text', value: `A comparação com a distância da Lua à Terra.
-` },
+      { id: 'E', type: 'text', value: `A comparação com a distância da Lua à Terra.` },
     
     ],
     correct: 'B',
@@ -209,16 +217,11 @@ fora do eixo Estados Unidos-Europa entre os finalistas".
 No texto, esse recurso expressa uma estratégia
 argumentativa que reforça a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `originalidade da iniciativa de homenagem à vida e à
-obra de Luiz Gonzaga.` },
-      { id: 'B', type: 'text', value: `falta de concorrentes ao prêmio de uma das
-associações mais antigas do mundo.` },
-      { id: 'C', type: 'text', value: `proeza da premiação de uma história ambientada no
-interior do Nordeste brasileiro.` },
-      { id: 'D', type: 'text', value: `escassez de investimentos para a produção
-cinematográfica independente no país.` },
-      { id: 'E', type: 'text', value: `importância da parceria entre brasileiros e britânicos
-para a realização das filmagens.` },
+      { id: 'A', type: 'text', value: `originalidade da iniciativa de homenagem à vida e à obra de Luiz Gonzaga.` },
+      { id: 'B', type: 'text', value: `falta de concorrentes ao prêmio de uma das associações mais antigas do mundo.` },
+      { id: 'C', type: 'text', value: `proeza da premiação de uma história ambientada no interior do Nordeste brasileiro.` },
+      { id: 'D', type: 'text', value: `escassez de investimentos para a produção cinematográfica independente no país.` },
+      { id: 'E', type: 'text', value: `importância da parceria entre brasileiros e britânicos para a realização das filmagens.` },
 
     ],
     correct: 'C',
@@ -262,16 +265,11 @@ ROSA, J. G. Sagarana. Rio de Janeiro: José Olympio, 1967.
 Esse texto tem importância singular como patrimônio
 linguístico para a preservação da cultura nacional devido`,
     alternatives: [
-      { id: 'A', type: 'text', value: `à menção a enfermidades que indicam falta de
-cuidado pessoal.` },
-      { id: 'B', type: 'text', value: `à referência a profissões já extintas que caracterizam
-a vida no campo.` },
-      { id: 'C', type: 'text', value: `aos nomes de personagens que acentuam aspectos
-de sua personalidade.` },
-      { id: 'D', type: 'text', value: `ao emprego de ditados populares que resgatam
-memórias e saberes coletivos.` },
-      { id: 'E', type: 'text', value: `às descrições de costumes regionais que
-desmistificam crenças e superstições.` },
+      { id: 'A', type: 'text', value: `à menção a enfermidades que indicam falta de cuidado pessoal.` },
+      { id: 'B', type: 'text', value: `à referência a profissões já extintas que caracterizam a vida no campo.` },
+      { id: 'C', type: 'text', value: `aos nomes de personagens que acentuam aspectos de sua personalidade.` },
+      { id: 'D', type: 'text', value: `ao emprego de ditados populares que resgatam memórias e saberes coletivos.` },
+      { id: 'E', type: 'text', value: `às descrições de costumes regionais que desmistificam crenças e superstições.` },
 
     ],
     correct: 'D',
@@ -375,8 +373,7 @@ linguístico e identitário do país, na medida em que`,
       { id: 'B', type: 'text', value: `valorizam as influencias da cultura africana sobre a música nacional.` },
       { id: 'C', type: 'text', value: `relativizam o sincretismo constitutivo das práticas religiosas brasileiras.` },
       { id: 'D', type: 'text', value: `narram os infortúnios da relação amorosa entre membros de classes sociais diferentes.` },
-      { id: 'E', type: 'text', value: `problematizam as diferentes visões de mundo na
-sociedade durante o período colonial.` },
+      { id: 'E', type: 'text', value: `problematizam as diferentes visões de mundo na sociedade durante o período colonial.` },
     
     ],
     correct: 'A',
@@ -389,18 +386,12 @@ sociedade durante o período colonial.` },
     exam: 'enem',
     year: 2021,
     day: 1,
-    text: `ESSE PET É +
-DESCARTÁVEL.
-ESSE NÃO.
-ABANDONO
-É CRIME.
-LEI FEDERAL Nº 9 605/98
-Disponível em: www.deskgram.org. Acesso em: 12 dez. 2018 (adaptado).
-A associação entre o texto verbal e as imagens da garrafa
-e do cao configura recurso expressivo que busca
-O estimular denuncias de maus-tratos contra animais.
-O desvincular o conceito de descarte da ideia de
-negligencia.
+    text: `ESSE PET É + DESCARTÁVEL. ESSE NÃO. ABANDONO É CRIME. LEI
+FEDERAL Nº 9 605/98 Disponível em: www.deskgram.org. Acesso
+em: 12 dez. 2018 (adaptado). A associação entre o texto verbal
+e as imagens da garrafa e do cao configura recurso expressivo
+que busca O estimular denuncias de maus-tratos contra animais.
+O desvincular o conceito de descarte da ideia de negligencia.
 O incentivar campanhas de adoção de animais em`,
     images: ['/enem/2021/images/enem_2021_d1_q12.jpg'],
     alternatives: [
@@ -455,9 +446,7 @@ Além de apresentar ao público a obra A balsa de Lampedusa, essa reportagem cum
       { id: 'B', type: 'text', value: `as muitas vidas perdidas nas travessias marítimas em embarcações precárias ao longo dos séculos.` },
       { id: 'C', type: 'text', value: `a inovação relativa à construção de um museu no fundo do mar, que só pode ser visitado por mergulhadores.` },
       { id: 'D', type: 'text', value: `a construção do museu submarino como um memorial para as centenas de imigrantes mortos nas travessias pelo mar.` },
-      { id: 'E', type: 'text', value: `a arte como perpetuadora de episódios marcantes da
-humanidade que têm de ser relembrados para que
-não tornem a acontecer.` },
+      { id: 'E', type: 'text', value: `a arte como perpetuadora de episódios marcantes da humanidade que têm de ser relembrados para que não tornem a acontecer.` },
     
     ],
     correct: 'E',
@@ -476,9 +465,7 @@ não tornem a acontecer.` },
       { id: 'B', type: 'text', value: `prevalência de referências musicais africanas no imaginário da população brasileira.` },
       { id: 'C', type: 'text', value: `incipiente atribuição de prestígio social a músicas instrumentais feitas para a dança.` },
       { id: 'D', type: 'text', value: `tensa relação entre o erudito e o popular na constituição da música brasileira.` },
-      { id: 'E', type: 'text', value: `importância atribuída à música clássica na sociedade
-brasileira do século XIX.
-` },
+      { id: 'E', type: 'text', value: `importância atribuída à música clássica na sociedade brasileira do século XIX.` },
     
     ],
     correct: 'D',
@@ -532,8 +519,7 @@ que visa sensibilizar o leitor porque`,
       { id: 'B', type: 'text', value: `exemplifica o fato criticado no texto com uma situação concreta.` },
       { id: 'C', type: 'text', value: `contrapõe situações de aceleração e de serenidade na vida das pessoas.` },
       { id: 'D', type: 'text', value: `questiona o clichê sobre a rapidez e a aceleração da vida moderna.` },
-      { id: 'E', type: 'text', value: `apresenta soluções para a cultura da correria que as
-pessoas vivenciam hoje.` },
+      { id: 'E', type: 'text', value: `apresenta soluções para a cultura da correria que as pessoas vivenciam hoje.` },
     
     ],
     correct: 'B',
@@ -581,12 +567,9 @@ Disponível em: https://observatorioracialfutebol.com.br. Acesso em: 22 jun. 201
 O texto atribui o enfraquecimento do mito da democracia
 racial no futebol à`,
     alternatives: [
-      { id: 'A', type: 'text', value: `responsabilização de jogadores negros pela derrota
-na final da Copa de 1950.` },
-      { id: 'B', type: 'text', value: `projeção mundial da nação por um esporte antes
-destinado aos pobres.` },
-      { id: 'C', type: 'text', value: `depreciação de um esporte associado à
-marginalidade.` },
+      { id: 'A', type: 'text', value: `responsabilização de jogadores negros pela derrota na final da Copa de 1950.` },
+      { id: 'B', type: 'text', value: `projeção mundial da nação por um esporte antes destinado aos pobres.` },
+      { id: 'C', type: 'text', value: `depreciação de um esporte associado à marginalidade.` },
       { id: 'D', type: 'text', value: `interdição da palavra "racismo" no contexto esportivo.` },
       { id: 'E', type: 'text', value: `atitude contestadora de um "jogador-problema".` },
 
@@ -641,11 +624,9 @@ lúdicas na infância`,
     alternatives: [
       { id: 'A', type: 'text', value: `fomentaram as relações sociais entre as crianças.` },
       { id: 'B', type: 'text', value: `tornaram o lazer uma prática difundida entre as crianças.` },
-      { id: 'C', type: 'text', value: `incentivaram a criação de novos espaços para se
-divertir.` },
+      { id: 'C', type: 'text', value: `incentivaram a criação de novos espaços para se divertir.` },
       { id: 'D', type: 'text', value: `promoveram uma vivência corporal menos ativa.` },
-      { id: 'E', type: 'text', value: `contribuíram para o aumento do tempo dedicado para
-brincar.` },
+      { id: 'E', type: 'text', value: `contribuíram para o aumento do tempo dedicado para brincar.` },
 
     ],
     correct: 'D',
@@ -708,8 +689,7 @@ como inovador por`,
       { id: 'B', type: 'text', value: `utilizar a água superficial para o consumo.` },
       { id: 'C', type: 'text', value: `repor os estoques de água doce em regiões áridas.` },
       { id: 'D', type: 'text', value: `reduzir as taxas de precipitação e evaporação da água.` },
-      { id: 'E', type: 'text', value: `equalizar a distribuição de água doce nas diferentes
-regiões.` },
+      { id: 'E', type: 'text', value: `equalizar a distribuição de água doce nas diferentes regiões.` },
     
     ],
     correct: 'A',
@@ -740,16 +720,11 @@ No texto, constata-se que os usos de pronomes variaram ao
 longo do tempo e que atualmente têm empregos diversos
 pelas regiões do Brasil. Esse processo revela que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a escolha de "você" ou de "tu" está condicionada à
-idade da pessoa que usa o pronome.` },
-      { id: 'B', type: 'text', value: `a possibilidade de se usar tanto "tu" quanto "você"
-caracteriza a diversidade da língua.` },
-      { id: 'C', type: 'text', value: `o pronome "tu" tem sido empregado em situações
-informais por todo o país.` },
-      { id: 'D', type: 'text', value: `a ocorrência simultânea de "tu" e de "você" evidencia a
-inexistência da distinção entre níveis de formalidade.` },
-      { id: 'E', type: 'text', value: `o emprego de "você" em documentos escritos demonstra
-que a língua tende a se manter inalterada.` },
+      { id: 'A', type: 'text', value: `a escolha de "você" ou de "tu" está condicionada à idade da pessoa que usa o pronome.` },
+      { id: 'B', type: 'text', value: `a possibilidade de se usar tanto "tu" quanto "você" caracteriza a diversidade da língua.` },
+      { id: 'C', type: 'text', value: `o pronome "tu" tem sido empregado em situações informais por todo o país.` },
+      { id: 'D', type: 'text', value: `a ocorrência simultânea de "tu" e de "você" evidencia a inexistência da distinção entre níveis de formalidade.` },
+      { id: 'E', type: 'text', value: `o emprego de "você" em documentos escritos demonstra que a língua tende a se manter inalterada.` },
 
     ],
     correct: 'B',
@@ -780,20 +755,11 @@ Disponível em: www.correiobraziliense.com.br. Acesso em: 18 jun. 2019 (adaptado
 A forma original de John Lennon da Silva reinterpretar a
 coreografia de A morte do cisne demonstra que`,
     alternatives: [
-      { id: 'A', type: 'text', value: `a composição da coreografia foi influenciada pela
-escolha do figurino.` },
-      { id: 'B', type: 'text', value: `a criação artística é beneficiada pelo encontro
-de modelos oriundos de diferentes realidades
-socioculturais.` },
-      { id: 'C', type: 'text', value: `a variação entre os modos de dançar uma
-mesma música evidencia a hierarquia que marca
-manifestações artísticas.` },
-      { id: 'D', type: 'text', value: `a formação erudita, à qual o dançarino não teve
-acesso, resulta em artistas que só conhecem a
-estética da arte popular.` },
-      { id: 'E', type: 'text', value: `a interpretação, por homens, de coreografias
-originalmente concebidas para mulheres exige uma
-adaptação complexa.` },
+      { id: 'A', type: 'text', value: `a composição da coreografia foi influenciada pela escolha do figurino.` },
+      { id: 'B', type: 'text', value: `a criação artística é beneficiada pelo encontro de modelos oriundos de diferentes realidades socioculturais.` },
+      { id: 'C', type: 'text', value: `a variação entre os modos de dançar uma mesma música evidencia a hierarquia que marca manifestações artísticas.` },
+      { id: 'D', type: 'text', value: `a formação erudita, à qual o dançarino não teve acesso, resulta em artistas que só conhecem a estética da arte popular.` },
+      { id: 'E', type: 'text', value: `a interpretação, por homens, de coreografias originalmente concebidas para mulheres exige uma adaptação complexa.` },
 
     ],
     correct: 'B',
@@ -1102,16 +1068,11 @@ Acesso em: 24 jul. 2019.
 Do ponto de vista linguístico, a defesa da norma-padrão
 pelo personagem caracteriza-se por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `contestar o ensino de regras em detrimento do
-conteúdo das informações.` },
-      { id: 'B', type: 'text', value: `resgatar valores patrióticos relacionados às tradições
-da língua portuguesa.` },
-      { id: 'C', type: 'text', value: `adotar uma perspectiva complacente em relação aos
-desvios gramaticais.` },
-      { id: 'D', type: 'text', value: `invalidar os usos da língua pautados pelos preceitos
-da gramática normativa.` },
-      { id: 'E', type: 'text', value: `desconsiderar diferentes níveis de formalidade nas
-situações de comunicação.` },
+      { id: 'A', type: 'text', value: `contestar o ensino de regras em detrimento do conteúdo das informações.` },
+      { id: 'B', type: 'text', value: `resgatar valores patrióticos relacionados às tradições da língua portuguesa.` },
+      { id: 'C', type: 'text', value: `adotar uma perspectiva complacente em relação aos desvios gramaticais.` },
+      { id: 'D', type: 'text', value: `invalidar os usos da língua pautados pelos preceitos da gramática normativa.` },
+      { id: 'E', type: 'text', value: `desconsiderar diferentes níveis de formalidade nas situações de comunicação.` },
 
     ],
     correct: 'E',
@@ -1145,8 +1106,7 @@ De acordo com o texto, diversos fatores ao longo do tempo`,
       { id: 'A', type: 'text', value: `contribuíram para a democratização do skate.` },
       { id: 'B', type: 'text', value: `evidenciaram as demandas comerciais dos skatistas.` },
       { id: 'C', type: 'text', value: `definiram a carreira de skatista profissional.` },
-      { id: 'D', type: 'text', value: `permitiram que a prática social do skate substituísse
-o surfe.` },
+      { id: 'D', type: 'text', value: `permitiram que a prática social do skate substituísse o surfe.` },
       { id: 'E', type: 'text', value: `indicaram a autonomia dos praticantes de skate.` },
 
     ],
@@ -1239,9 +1199,7 @@ No texto, os recursos verbais e não verbais empregados têm por objetivo`,
       { id: 'B', type: 'text', value: `influenciar o leitor a mudar atitudes e hábitos considerados prejudiciais às crianças.` },
       { id: 'C', type: 'text', value: `relacionar o uso da tecnologia aos efeitos decorrentes da falta de exercícios físicos.` },
       { id: 'D', type: 'text', value: `indicar medidas eficazes para desestimular a utilização de telefones pelo público infantil.` },
-      { id: 'E', type: 'text', value: `sugerir aos pais e responsáveis a substituição de
-dispositivos móveis por atividades lúdicas.
-` },
+      { id: 'E', type: 'text', value: `sugerir aos pais e responsáveis a substituição de dispositivos móveis por atividades lúdicas.` },
     
     ],
     images: ['/enem/2021/images/enem_2021_d1_q34.jpg'],
@@ -1465,9 +1423,7 @@ sua percepção`,
       { id: 'B', type: 'text', value: `resignada em face dos métodos terapêuticos em vigor.` },
       { id: 'C', type: 'text', value: `alimentada pela imersão lírica no espaço da segregação.` },
       { id: 'D', type: 'text', value: `inspirada pelo universo pouco conhecido da mente humana.` },
-      { id: 'E', type: 'text', value: `demarcada por uma linguagem alinhada à busca da
-lucidez.
-` },
+      { id: 'E', type: 'text', value: `demarcada por uma linguagem alinhada à busca da lucidez.` },
     
     ],
     correct: 'C',
@@ -1525,8 +1481,7 @@ Na reprodução desses preceitos, a erotização do corpo feminino tem sido cons
       { id: 'B', type: 'text', value: `utilização de medicamentos e produtos estéticos.` },
       { id: 'C', type: 'text', value: `educação do gesto, da vontade e do comportamento.` },
       { id: 'D', type: 'text', value: `construção de espaços para vivência de práticas corporais.` },
-      { id: 'E', type: 'text', value: `promoção de novas experiências de movimento
-humano no lazer.` },
+      { id: 'E', type: 'text', value: `promoção de novas experiências de movimento humano no lazer.` },
     
     ],
     images: ['/enem/2021/images/enem_2021_d1_q42.jpg'],
@@ -1617,8 +1572,7 @@ Considerando-se o contexto, o gênero e o público-alvo, os argumentos trazidos 
       { id: 'B', type: 'text', value: `reivindicar mais investimentos estatais para a preservação do acervo musical nacional.` },
       { id: 'C', type: 'text', value: `destacar a relevância histórica e a riqueza estética do choro no cenário musical brasileiro.` },
       { id: 'D', type: 'text', value: `apresentar ao leitor dados biográficos pouco conhecidos sobre a trajetória de Abel Ferreira.` },
-      { id: 'E', type: 'text', value: `constatar a impopularidade do choro diante da
-preferência do público por músicas populares.` },
+      { id: 'E', type: 'text', value: `constatar a impopularidade do choro diante da preferência do público por músicas populares.` },
     
     ],
     correct: 'C',
@@ -1947,8 +1901,7 @@ o campo científico, descrita no texto, é representativa da`,
       { id: 'B', type: 'text', value: `incentivos controlados de consumo.` },
       { id: 'C', type: 'text', value: `prescrições coletivas de organização.` },
       { id: 'D', type: 'text', value: `mecanismos subjetivos de identificação.` },
-      { id: 'E', type: 'text', value: `repressões racionalizadas do narcisismo.
-` },
+      { id: 'E', type: 'text', value: `repressões racionalizadas do narcisismo.` },
     
     ],
     correct: 'D',
@@ -2475,8 +2428,7 @@ identidade cultural pautado em`,
       { id: 'B', type: 'text', value: `suprimir formas divergentes de interação social.` },
       { id: 'C', type: 'text', value: `evitar envolvimento estrangeiro na economia local.` },
       { id: 'D', type: 'text', value: `reprimir indivíduos engajados em revoltas nativistas.` },
-      { id: 'E', type: 'text', value: `controlar manifestações artísticas de comunidades
-autóctones.` },
+      { id: 'E', type: 'text', value: `controlar manifestações artísticas de comunidades autóctones.` },
 
     ],
     correct: 'B',
@@ -2843,8 +2795,7 @@ qual a estratégia de resistência escrava apresentada?`,
       { id: 'B', type: 'text', value: `Fundação de territórios quilombolas.` },
       { id: 'C', type: 'text', value: `Suavização da aplicação de normas.` },
       { id: 'D', type: 'text', value: `Regularização das funções remuneradas.` },
-      { id: 'E', type: 'text', value: `Constituição de economia de subsistência.
-` },
+      { id: 'E', type: 'text', value: `Constituição de economia de subsistência.` },
     ],
     correct: 'A',
     explanation: `O anúncio de 1879 revela que o escravo José, ao fugir, intitulava-se forro e chegou a trabalhar contratado como camarada em uma fazenda, simulando a condição de homem livre. Essa estratégia de resistência consistia na criação de relações de trabalho que o fizessem passar por trabalhador livre, o que valida a alternativa A. A fundação de territórios quilombolas (B) não é mencionada no texto. A suavização da aplicação de normas (C), a regularização das funções remuneradas (D) e a economia de subsistência (E) não descrevem o expediente usado pelo fugitivo para escapar do cativeiro e se inserir no trabalho livre.`,
@@ -3047,8 +2998,7 @@ O texto trata da evolução inerente às funcionalidades de recursos tecnológic
       { id: 'B', type: 'text', value: `reunir usuários com ideias semelhantes.` },
       { id: 'C', type: 'text', value: `divulgar informação instantânea.` },
       { id: 'D', type: 'text', value: `organizar movimentos sociais.` },
-      { id: 'E', type: 'text', value: `assumir utilidade jurídica.
-` },
+      { id: 'E', type: 'text', value: `assumir utilidade jurídica.` },
     ],
     correct: 'E',
     explanation: `Resposta correta: E. O texto chama os celulares de "a guilhotina do século XXI" porque, ao gravar e registrar conversas, acordos, chantagens e negociatas, eles produzem provas que "derrubaram governos, empresas e políticos" e até libertaram um inocente após quatro anos de prisão injusta. A metáfora destaca, portanto, que os celulares podem assumir uma utilidade jurídica, servindo a processos legais e investigativos. Oferecer funções múltiplas (A), reunir pessoas com ideias afins (B), divulgar informação instantânea (C) e organizar movimentos sociais (D) são outros usos citados, mas não é a eles que a expressão "guilhotina" se refere, e sim ao poder de incriminar e fazer justiça.`,
@@ -3092,8 +3042,7 @@ A charge evoca uma situação de assombro frente a uma realidade que assola as s
       { id: 'B', type: 'text', value: `apelo a religiosidade diante das dificuldades enfrentadas pela humanidade.` },
       { id: 'C', type: 'text', value: `indignação dos trabalhadores em face das injustias sociais.` },
       { id: 'D', type: 'text', value: `veiculação de informações trágicas pelos telejornais.` },
-      { id: 'E', type: 'text', value: `manipulação das notícias difundidas pelas mídias.
-` },
+      { id: 'E', type: 'text', value: `manipulação das notícias difundidas pelas mídias.` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. Na charge, diante de um jornal cheio de palavras como guerra, crise, miséria e violência, uma personagem pergunta "Por Dios! Qué le ha pasado al mundo?" e a resposta é "Nosotros" ("Nós"). O efeito humorístico — e crítico — reside na constatação de que o próprio ser humano é o responsável pela condição caótica do mundo. A charge não apela à religiosidade como saída (B) nem foca a indignação dos trabalhadores (C). Também não critica a veiculação de notícias trágicas pelos telejornais (D) nem a manipulação das mídias (E); o alvo é a responsabilidade humana pelos problemas.`,

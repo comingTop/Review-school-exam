@@ -382,10 +382,8 @@ será maior se o(a)`,
       { id: 'A', type: 'text', value: `vidro do frasco for translúcido.` },
       { id: 'B', type: 'text', value: `concentração de gluconato de cálcio for alta.` },
       { id: 'C', type: 'text', value: `frasco de vidro apresentar uma maior espessura.` },
-      { id: 'D', type: 'text', value: `vidro for previamente esterilizado em altas 
-temperaturas.` },
-      { id: 'E', type: 'text', value: `reação do alumínio com gluconato de cálcio for 
-endotérmica.` },
+      { id: 'D', type: 'text', value: `vidro for previamente esterilizado em altas temperaturas.` },
+      { id: 'E', type: 'text', value: `reação do alumínio com gluconato de cálcio for endotérmica.` },
     ],
     correct: 'B',
     explanation: `A dissolução do alumínio do vidro depende do deslocamento de um equilíbrio químico entre o alumínio imobilizado no vidro e o complexo formado com o gluconato de cálcio em solução. Quanto maior a concentração de gluconato de cálcio, mais o equilíbrio é deslocado no sentido de dissolver o alumínio (princípio de Le Chatelier), aumentando a quantidade de metal que passa para a solução. Logo, o risco de contaminação por alumínio será maior quando a concentração de gluconato de cálcio for alta (alternativa B).`,
@@ -438,16 +436,11 @@ Disponível em: https://sbim.org.br. Acesso em: 29 nov. 2021 (adaptado).
 A imunização produzida por esse tipo de vacina é 
 alcançada por meio da`,
     alternatives: [
-      { id: 'A', type: 'text', value: `estimulação de leucócitos induzida pela capa lipídica 
-contendo RNAm.` },
-      { id: 'B', type: 'text', value: `atuação do RNAm como sequestrador do vírus para 
-o meio extracelular.` },
-      { id: 'C', type: 'text', value: `tradução do RNAm em proteína viral, desencadeando 
-a resposta antigênica.` },
-      { id: 'D', type: 'text', value: `competição entre o RNAm vacinal e o RNA viral pelos 
-sítios dos ribossomos.` },
-      { id: 'E', type: 'text', value: `incorporação do RNAm viral ao genoma do hospedeiro, 
-gerando novo fenótipo.` },
+      { id: 'A', type: 'text', value: `estimulação de leucócitos induzida pela capa lipídica contendo RNAm.` },
+      { id: 'B', type: 'text', value: `atuação do RNAm como sequestrador do vírus para o meio extracelular.` },
+      { id: 'C', type: 'text', value: `tradução do RNAm em proteína viral, desencadeando a resposta antigênica.` },
+      { id: 'D', type: 'text', value: `competição entre o RNAm vacinal e o RNA viral pelos sítios dos ribossomos.` },
+      { id: 'E', type: 'text', value: `incorporação do RNAm viral ao genoma do hospedeiro, gerando novo fenótipo.` },
     ],
     correct: 'C',
     explanation: `A vacina de RNAm introduz nas células sequências de RNA mensageiro que codificam uma proteína do vírus. No citoplasma, esse RNAm é traduzido pelos ribossomos, produzindo a proteína viral (antígeno). Reconhecida como estranha, essa proteína desencadeia a resposta imune (antigênica), com produção de anticorpos e células de memória, sem inserir material no genoma do hospedeiro. Portanto, a imunização é alcançada pela tradução do RNAm em proteína viral, desencadeando a resposta antigênica (alternativa C).`,
@@ -473,10 +466,8 @@ O coquetel de inibidores impediu o(a)`,
       { id: 'A', type: 'text', value: `formação do pronúcleo masculino.` },
       { id: 'B', type: 'text', value: `início da divisão mitótica do zigoto.` },
       { id: 'C', type: 'text', value: `término da segunda divisão meiótica do ovócito.` },
-      { id: 'D', type: 'text', value: `passagem do espermatozoide pela corona radiata e 
-zona pelúcida.` },
-      { id: 'E', type: 'text', value: `fusão das membranas plasmáticas do ovócito e do 
-espermatozoide.` },
+      { id: 'D', type: 'text', value: `passagem do espermatozoide pela corona radiata e zona pelúcida.` },
+      { id: 'E', type: 'text', value: `fusão das membranas plasmáticas do ovócito e do espermatozoide.` },
     ],
     correct: 'D',
     explanation: `As enzimas do acrossomo do espermatozoide (como a hialuronidase e a acrosina) digerem as camadas que envolvem o ovócito, permitindo que o espermatozoide atravesse a corona radiata e a zona pelúcida até alcançar a membrana do gameta feminino. Ao adicionar inibidores dessas enzimas, a reação acrossômica fica bloqueada e o espermatozoide não consegue penetrar essas barreiras, impedindo a fecundação. Por isso nenhum gameta foi fertilizado. O coquetel de inibidores impediu a passagem do espermatozoide pela corona radiata e zona pelúcida (alternativa D).`,
@@ -512,27 +503,20 @@ A corrente elétrica mencionada é induzida por`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Uma academia decide trocar gradualmente seus 
-aparelhos de musculação. Agora, os frequentadores 
-que utilizam os aparelhos do tipo 1 podem também 
-utilizar os aparelhos do tipo 2, representados na figura, 
-para elevar cargas correspondentes às massas M 1 e M 2 , 
-com velocidade constante. A fim de que o exercício seja 
-realizado com a mesma força F , os usuários devem ser 
-orientados a respeito da relação entre as cargas nos dois 
-tipos de aparelhos, já que as polias fixas apenas mudam a 
-direção das forças, enquanto a polia móvel divide as forças. 
-Em ambos os aparelhos, considere as cordas 
-inextensíveis, as massas das polias e das cordas desprezíveis 
-e que não há dissipação de energia. 
-Aparelho do tipo 2 
-Aparelho do tipo 1 
-F 
-F 
-M 1 
-M 2 
-Para essa academia, qual deve ser a razão M₂/M₁ informada
-aos usuários?`,
+    text: `Uma academia decide trocar gradualmente seus aparelhos de
+musculação. Agora, os frequentadores que utilizam os aparelhos
+do tipo 1 podem também utilizar os aparelhos do tipo 2,
+representados na figura, para elevar cargas correspondentes às
+massas M 1 e M 2 , com velocidade constante. A fim de que o
+exercício seja realizado com a mesma força F , os usuários
+devem ser orientados a respeito da relação entre as cargas nos
+dois tipos de aparelhos, já que as polias fixas apenas mudam a
+direção das forças, enquanto a polia móvel divide as forças.
+Em ambos os aparelhos, considere as cordas inextensíveis, as
+massas das polias e das cordas desprezíveis e que não há
+dissipação de energia. Aparelho do tipo 2 Aparelho do tipo 1 F
+F M 1 M 2 Para essa academia, qual deve ser a razão M₂/M₁
+informada aos usuários?`,
     images: ['/enem/2023/images/enem_2023_d2_q109.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1/4` },
@@ -551,36 +535,14 @@ aos usuários?`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(I) que não 
-foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg₂(NO₃)₂ dissolvidos em água. Temendo a 
-toxidez do mercúrio e sabendo que o Hg₂ Cl₂ tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da 
-solução por precipitação com cloreto de sódio (NaCl), conforme a equação química: 
-Hg₂(NO₃)₂ (aq) + 2 NaCl (aq) 
- Hg₂ Cl₂ (s) + 2 NaNO 3 (aq) 
-Na dúvida sobre a massa de NaCl a ser utilizada, o assistente aumentou gradativamente a quantidade adicionada 
-em cada frasco, como apresentado no quadro. 
- 
-O produto obtido em cada experimento foi filtrado, secado e teve sua massa aferida. O assistente organizou os 
-resultados na forma de um gráfico que correlaciona a massa de NaCl adicionada com a massa de Hg₂ Cl₂ obtida em 
-cada frasco. A massa molar do Hg₂(NO₃)₂ é 525 g mol -1 , a do NaCl é 58 g mol -1 e a do Hg₂ Cl₂ é 472 g mol -1 . 
-Qual foi o gráfico obtido pelo assistente de laboratório? 
-5 
-6 
-7 
-Massa de Hg₂ Cl₂ (g) 
-4 
-3 
-2 
-1 
-0 
-0,0 
-0,2 
-0,4 
-0,6 
-0,8 
-1,0 
-1,2 
-1,4`,
+    text: `Um assistente de laboratório precisou descartar sete frascos contendo solução de nitrato de mercúrio(I) que não
+foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg₂(NO₃)₂ dissolvidos em água. Temendo a
+toxidez do mercúrio e sabendo que o Hg₂ Cl₂ tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da
+solução por precipitação com cloreto de sódio (NaCl), conforme a equação química:
+Hg₂(NO₃)₂ (aq) + 2 NaCl (aq)
+ Hg₂ Cl₂ (s) + 2 NaNO 3 (aq)
+Na dúvida sobre a massa de NaCl a ser utilizada, o assistente aumentou gradativamente a quantidade adicionada
+em cada frasco, como apresentado no quadro.`,
     images: ['/enem/2023/images/enem_2023_d2_q110.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2023/images/enem_2023_d2_q110_A.jpg` },
@@ -672,37 +634,27 @@ próximo de`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Uma equipe de segurança do transporte de uma empresa 
-avalia o comportamento das tensões que aparecem em duas 
-cordas, 1 e 2, usadas para prender uma carga de massa 
-M = 200 kg na carroceria, conforme a ilustração. Quando o 
-caminhão parte do repouso, sua aceleração é constante 
-e igual a 3 m/s² e, quando ele é freado bruscamente, sua 
-frenagem é constante e igual a 5 m/s² . Em ambas as 
-situações, a carga encontra-se na iminência de movimento, 
-e o sentido do movimento do caminhão está indicado na 
-figura. O coeficiente de atrito estático entre a caixa e o 
-assoalho da carroceria é igual a 0,2. Considere a aceleração 
-da gravidade igual a 10 m/s² , as tensões iniciais nas cordas 
-iguais a zero e as duas cordas ideais. 
-1 
-2 
-M 
-V 
-Nas situações de aceleração e frenagem do caminhão, 
-as tensões nas cordas 1 e 2, em newton, serão`,
+    text: `Uma equipe de segurança do transporte de uma empresa avalia o
+comportamento das tensões que aparecem em duas cordas, 1 e 2,
+usadas para prender uma carga de massa M = 200 kg na
+carroceria, conforme a ilustração. Quando o caminhão parte do
+repouso, sua aceleração é constante e igual a 3 m/s² e, quando
+ele é freado bruscamente, sua frenagem é constante e igual a 5
+m/s² . Em ambas as situações, a carga encontra-se na iminência
+de movimento, e o sentido do movimento do caminhão está
+indicado na figura. O coeficiente de atrito estático entre a
+caixa e o assoalho da carroceria é igual a 0,2. Considere a
+aceleração da gravidade igual a 10 m/s² , as tensões iniciais
+nas cordas iguais a zero e as duas cordas ideais. 1 2 M V Nas
+situações de aceleração e frenagem do caminhão, as tensões nas
+cordas 1 e 2, em newton, serão`,
     images: ['/enem/2023/images/enem_2023_d2_q114.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `aceleração: T 1 = 0 e T 2 = 200; frenagem: T 1 = 600 e 
-T 2 = 0.` },
-      { id: 'B', type: 'text', value: `aceleração: T 1 = 0 e T 2 = 200; frenagem: T 1 = 1 400 e 
-T 2 = 0.` },
-      { id: 'C', type: 'text', value: `aceleração: T 1 = 0 e T 2 = 600; frenagem: T 1 = 600 e 
-T 2 = 0.` },
-      { id: 'D', type: 'text', value: `aceleração: T 1 = 560 e T 2 = 0; frenagem: T 1 = 0 e 
-T 2 = 960.` },
-      { id: 'E', type: 'text', value: `aceleração: T 1 = 640 e T 2 = 0; frenagem: T 1 = 0 e 
-T 2 = 1 040.` },
+      { id: 'A', type: 'text', value: `aceleração: T 1 = 0 e T 2 = 200; frenagem: T 1 = 600 e T 2 = 0.` },
+      { id: 'B', type: 'text', value: `aceleração: T 1 = 0 e T 2 = 200; frenagem: T 1 = 1 400 e T 2 = 0.` },
+      { id: 'C', type: 'text', value: `aceleração: T 1 = 0 e T 2 = 600; frenagem: T 1 = 600 e T 2 = 0.` },
+      { id: 'D', type: 'text', value: `aceleração: T 1 = 560 e T 2 = 0; frenagem: T 1 = 0 e T 2 = 960.` },
+      { id: 'E', type: 'text', value: `aceleração: T 1 = 640 e T 2 = 0; frenagem: T 1 = 0 e T 2 = 1 040.` },
     ],
     correct: 'A',
     explanation: `A força de atrito estático máxima sobre a carga é Fat = μ·M·g = 0,2 × 200 × 10 = 400 N. Na aceleração (3 m/s²), a força necessária para acompanhar o caminhão é M·a = 200 × 3 = 600 N; o atrito fornece 400 N e a corda que impede o deslizamento (corda 2) completa com 200 N, logo T₁ = 0 e T₂ = 200. Na frenagem (5 m/s²), a força necessária é M·a = 200 × 5 = 1 000 N; o atrito dá 400 N e a corda 1 fornece os 600 N restantes, logo T₁ = 600 e T₂ = 0. Isso corresponde à alternativa A.`,
@@ -867,25 +819,16 @@ explosão, é mais próxima de`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `O circuito com três lâmpadas incandescentes idênticas, 
-representado na figura, consiste em uma associação mista 
-de resistores. Cada lâmpada ( L  1 , L 2 e L 3 ) é associada, 
-em paralelo, a um resistor de resistência R , formando um 
-conjunto. Esses conjuntos são associados em série, tendo 
-todas as lâmpadas o mesmo brilho quando ligadas à fonte 
-de energia. Após vários dias em uso, apenas a lâmpada L 2 
-queima, enquanto as demais permanecem acesas. 
-L ¹ 
-R 
-R 
-L ² 
-L ³ 
-Fonte de 
-energia 
-R 
-Em relação à situação em que todas as lâmpadas 
-funcionam, após a queima de L 2 , os brilhos das 
-lâmpadas serão`,
+    text: `O circuito com três lâmpadas incandescentes idênticas,
+representado na figura, consiste em uma associação mista de
+resistores. Cada lâmpada ( L 1 , L 2 e L 3 ) é associada, em
+paralelo, a um resistor de resistência R , formando um
+conjunto. Esses conjuntos são associados em série, tendo todas
+as lâmpadas o mesmo brilho quando ligadas à fonte de energia.
+Após vários dias em uso, apenas a lâmpada L 2 queima, enquanto
+as demais permanecem acesas. L ¹ R R L ² L ³ Fonte de energia
+R Em relação à situação em que todas as lâmpadas funcionam,
+após a queima de L 2 , os brilhos das lâmpadas serão`,
     images: ['/enem/2023/images/enem_2023_d2_q120.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `os mesmos.` },
@@ -904,40 +847,33 @@ lâmpadas serão`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. 
-Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica 
-de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente 
-de uma espécie de biocarvão ( biochar ) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de 
-ossos e esterco, capaz de manter um solo fértil por anos. 
-Admite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos 
-orgânicos do tipo carboxilato em sua superfície, carregados negativamente (-COO − ). Esses grupos atraem íons 
-positivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), 
-além de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, 
-conforme ilustra a figura, em que M n+ representa os cátions metálicos. De acordo com a escala de Pauling, a 
-eletronegatividade do elemento oxigênio é igual a 3,44. 
-M n+ 
-O 
-O - 
-O 
-O - M n+ 
-Solo com biocarvão 
-Solo fertilizado 
-O quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos. 
-Elemento metálico 
-Eletronegatividade 
-K 
-0,82 
-Ca 
-1,00 
-Mg 
-1,31 
-Zn 
-1,65 
-Fe 
-1,83 
-MICHALOVIC, M. Ancient Soil Chemists of the Amazon. ChemMatters , fev. 2009 (adaptado). 
-O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente 
-do elemento`,
+    text: `Os solos amazônicos, ricos em silicato, não são apropriados
+para o cultivo por serem incapazes de reter nutrientes.
+Contudo, descobertas arqueológicas têm demonstrado que os
+antigos habitantes da Amazônia dominavam a técnica de preparo
+de um insumo agrícola natural, denominado terra preta. Esse
+insumo era constituído principalmente de uma espécie de
+biocarvão ( biochar ) obtido da queima de matéria orgânica,
+como troncos de árvores, pedaços de ossos e esterco, capaz de
+manter um solo fértil por anos. Admite-se que o efeito do
+biocarvão na fertilização do solo estava, em parte,
+relacionado à presença de grupos orgânicos do tipo carboxilato
+em sua superfície, carregados negativamente (-COO − ). Esses
+grupos atraem íons positivos necessários como nutrientes, tais
+quais os provenientes do potássio (K), do cálcio (Ca) e do
+magnésio (Mg), além de micronutrientes, como zinco (Zn) e
+ferro (Fe). Essa ligação no solo fertilizado é
+predominantemente iônica, conforme ilustra a figura, em que M
+n+ representa os cátions metálicos. De acordo com a escala de
+Pauling, a eletronegatividade do elemento oxigênio é igual a
+3,44. M n+ O O - O O - M n+ Solo com biocarvão Solo
+fertilizado O quadro apresenta os valores de
+eletronegatividade desses cinco elementos metálicos. Elemento
+metálico Eletronegatividade K 0,82 Ca 1,00 Mg 1,31 Zn 1,65 Fe
+1,83 MICHALOVIC, M. Ancient Soil Chemists of the Amazon.
+ChemMatters , fev. 2009 (adaptado). O cátion que resultará em
+uma interação de maior caráter iônico com o ânion carboxilato
+será aquele proveniente do elemento`,
     images: ['/enem/2023/images/enem_2023_d2_q121_1.jpg', '/enem/2023/images/enem_2023_d2_q121_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `potássio.` },
@@ -978,30 +914,17 @@ No processo de concentração do produto, é utilizada energia proveniente`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral 
-com ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem 
-a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é: 
-Ibuprofeno 
-Além do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para 
-o alívio da dor: 
-H 
-H 
-N 
-N 
-O 
-O 
-O 
-HO 
-Fenacetina 
-Paracetamol 
-Cl 
-NH 
-Cl 
-Na + 
-O − 
-O 
-Diclofenaco sódico 
-O princípio ativo que apresenta o mesmo tipo de isomeria espacial que o ibuprofeno e o(a)`,
+    text: `Entre os medicamentos mais comuns consumidos para o alívio da
+dor está o ibuprofeno, um composto quiral com ação
+anti-inflamatória e efeito analgésico, que é comercializado
+como fármaco opticamente puro, ou seja, sem a mistura com
+outro isômero óptico. A fórmula estrutural plana do ibuprofeno
+é: Ibuprofeno Além do ibuprofeno, destacam-se também os
+princípios ativos a seguir, presentes em outros medicamentos
+para o alívio da dor: H H N N O O O HO Fenacetina Paracetamol
+Cl NH Cl Na + O − O Diclofenaco sódico O princípio ativo que
+apresenta o mesmo tipo de isomeria espacial que o ibuprofeno e
+o(a)`,
     images: ['/enem/2023/images/enem_2023_d2_q123.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `fenacetina.` },
@@ -1099,40 +1022,22 @@ de seu(sua)`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Toxicidade do cianeto 
-A produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons 
-provenientes da oxidação do NADH em NAD + percorrem a cadeia até chegarem à citocromo c oxidase reduzindo o 
-Fe 3+ a Fe 2+ . O oxigênio atua como aceptor final desses elétrons formando água. O cianeto é uma espécie química 
-altamente tóxica que tem grande afinidade pelo Fe 3+ . Quando células são expostas ao cianeto, ele se liga ao sítio de 
-Fe 3+ da citocromo c oxidase, impedindo a sua conversão em Fe 2+ e bloqueando a cadeia respiratória. 
-Substrato 
-proveniente 
-do nutriente 
-Forma 
-reduzida 
-Forma 
-oxidada 
-NAD + 
-Transportador 
-1 
-Transportador 
-2 
-Transportador 
-3 
-Citocromo c 
-oxidase 
-1 
-2 O 2 
-CO 2 
-NADH 
-Forma 
-reduzida 
-Forma 
-oxidada 
-Forma 
-oxidada 
-ALBERTS, B. et al. Biologia molecular da célula . Porto Alegre: Artmed, 2010 (adaptado). 
-Esse bloqueio aumenta a concentração celular de`,
+    text: `Toxicidade do cianeto A produção de ATP depende do gradiente
+de prótons gerado pela cadeia respiratória. Nessas reações, os
+elétrons provenientes da oxidação do NADH em NAD + percorrem a
+cadeia até chegarem à citocromo c oxidase reduzindo o Fe 3+ a
+Fe 2+ . O oxigênio atua como aceptor final desses elétrons
+formando água. O cianeto é uma espécie química altamente
+tóxica que tem grande afinidade pelo Fe 3+ . Quando células
+são expostas ao cianeto, ele se liga ao sítio de Fe 3+ da
+citocromo c oxidase, impedindo a sua conversão em Fe 2+ e
+bloqueando a cadeia respiratória. Substrato proveniente do
+nutriente Forma reduzida Forma oxidada NAD + Transportador 1
+Transportador 2 Transportador 3 Citocromo c oxidase 1 2 O 2 CO
+2 NADH Forma reduzida Forma oxidada Forma oxidada ALBERTS, B.
+et al. Biologia molecular da célula . Porto Alegre: Artmed,
+2010 (adaptado). Esse bloqueio aumenta a concentração celular
+de`,
     images: ['/enem/2023/images/enem_2023_d2_q127.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `ATP.` },
@@ -1177,32 +1082,21 @@ emitidas pelo celular e as recebidas pelo rádio do avião`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `O Aldrin é um inseticida agrícola organoclorado 
-sintético de baixa polaridade, cuja estrutura molecular 
-simétrica, de fórmula C 12 H 8 Cl 6 , está representada na 
-figura. Introduzido na agricultura a partir da década de 
-1950, esse composto apresenta alta persistência no meio 
-ambiente e acumulação nos organismos, sendo danoso 
-para a saúde. 
-H 
-C 
-H 
-Cl 
-C 
-Cl 
-Cl 
-Cl 
-Cl 
-Cl 
-Aldrin 
-VIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para 
-o controle químico de insetos. Química Nova , v. 26, n. 3, 2003 (adaptado). 
-Um pesquisador coletou fluidos biológicos de indivíduos 
-de uma população contaminada por esse inseticida agrícola. 
-Ele analisou amostras de saliva, sangue, lágrima, urina e 
-leite quanto à presença dessa substância. 
-Em qual dos fluidos o pesquisador provavelmente encontrou 
-a maior concentração dessa substância?`,
+    text: `O Aldrin é um inseticida agrícola organoclorado sintético de
+baixa polaridade, cuja estrutura molecular simétrica, de
+fórmula C 12 H 8 Cl 6 , está representada na figura.
+Introduzido na agricultura a partir da década de 1950, esse
+composto apresenta alta persistência no meio ambiente e
+acumulação nos organismos, sendo danoso para a saúde. H C H Cl
+C Cl Cl Cl Cl Cl Aldrin VIEGAS JÚNIOR, C. Terpenos com
+atividade inseticida: uma alternativa para o controle químico
+de insetos. Química Nova , v. 26, n. 3, 2003 (adaptado). Um
+pesquisador coletou fluidos biológicos de indivíduos de uma
+população contaminada por esse inseticida agrícola. Ele
+analisou amostras de saliva, sangue, lágrima, urina e leite
+quanto à presença dessa substância. Em qual dos fluidos o
+pesquisador provavelmente encontrou a maior concentração dessa
+substância?`,
     images: ['/enem/2023/images/enem_2023_d2_q129.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Saliva, por consequência da atividade de enzimas.` },
@@ -1237,16 +1131,11 @@ www.gazetadopovo.com.br. Acesso em: 5 dez. 2019 (adaptado).
 Quais duas vantagens esse copo apresenta em 
 comparação ao copo descartável?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Ter a durabilidade de uma cerâmica e ser totalmente 
-biodegradável.` },
-      { id: 'B', type: 'text', value: `Ser tão durável quanto uma cerâmica e ter alta 
-condutividade térmica.` },
-      { id: 'C', type: 'text', value: `Ser um mau condutor térmico e aumentar o resíduo 
-biodegradável na natureza.` },
-      { id: 'D', type: 'text', value: `Ter baixa condutividade térmica e reduzir o resíduo 
-não biodegradável na natureza.` },
-      { id: 'E', type: 'text', value: `Ter alta condutividade térmica e possibilitar a 
-degradação do material no meio ambiente.` },
+      { id: 'A', type: 'text', value: `Ter a durabilidade de uma cerâmica e ser totalmente biodegradável.` },
+      { id: 'B', type: 'text', value: `Ser tão durável quanto uma cerâmica e ter alta condutividade térmica.` },
+      { id: 'C', type: 'text', value: `Ser um mau condutor térmico e aumentar o resíduo biodegradável na natureza.` },
+      { id: 'D', type: 'text', value: `Ter baixa condutividade térmica e reduzir o resíduo não biodegradável na natureza.` },
+      { id: 'E', type: 'text', value: `Ter alta condutividade térmica e possibilitar a degradação do material no meio ambiente.` },
     ],
     correct: 'D',
     explanation: `O copo, feito de composição semelhante a cerâmica, é mau condutor de calor, ou seja, tem baixa condutividade térmica, por isso não esquenta na parte externa e oferece mais conforto ao usuário. Além disso, por ser reutilizável e retornável, substitui os copos plásticos descartáveis, reduzindo a geração de resíduos não biodegradáveis no ambiente. Essas são as duas vantagens frente ao copo descartável. A resposta é ter baixa condutividade térmica e reduzir o resíduo não biodegradável na natureza (alternativa D).`,
@@ -1288,17 +1177,21 @@ comum possui`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. 
-Recomenda-se que a pressão seja verificada com os pneus frios (a temperatura ambiente). Um motorista, 
-desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a 
-pressão P 0 no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus 
-era T 0 . Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T . Durante o 
-resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos 
-pneus um gás perfeito (também denominado gás ideal). 
-Durante o processo de resfriamento, os valores de pressão em relação à temperatura ( P × T ) são representados 
-pelo gráfico: 
-P (Pa) 
-P 0`,
+    text: `O manual de um automóvel alerta sobre os cuidados em relação à
+pressão do ar no interior dos pneus. Recomenda-se que a
+pressão seja verificada com os pneus frios (a temperatura
+ambiente). Um motorista, desatento a essa informação, realizou
+uma viagem longa sobre o asfalto quente e, em seguida,
+verificou que a pressão P 0 no interior dos pneus não era a
+recomendada pelo fabricante. Na ocasião, a temperatura dos
+pneus era T 0 . Após um longo período em repouso, os pneus do
+carro atingiram a temperatura ambiente T . Durante o
+resfriamento, não há alteração no volume dos pneus e na
+quantidade de ar no seu interior. Considere o ar dos pneus um
+gás perfeito (também denominado gás ideal). Durante o processo
+de resfriamento, os valores de pressão em relação à
+temperatura ( P × T ) são representados pelo gráfico: P (Pa) P
+0`,
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2023/images/enem_2023_d2_q132_A.jpg` },
       { id: 'B', type: 'image', value: `/enem/2023/images/enem_2023_d2_q132_B.jpg` },
@@ -1316,22 +1209,16 @@ P 0`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `O descarte de detergentes comuns nos esgotos 
-domésticos ocasiona a formação de uma camada 
-de espuma que impede a entrada de oxigênio na 
-água. Os microrganismos que vivem nessas águas 
-não são capazes de quebrar moléculas ramificadas, 
-ocorrendo assim um desequilíbrio ambiental nos rios. 
-A fórmula a seguir representa a estrutura química de um 
-tensoativo presente na composição de um detergente 
-não biodegradável. 
-S 
-O 
-O 
-O - Na + 
- Tensoativo não biodegradável 
-Qual modificação química na estrutura desse tensoativo 
-o tornaria um detergente biodegradável?`,
+    text: `O descarte de detergentes comuns nos esgotos domésticos
+ocasiona a formação de uma camada de espuma que impede a
+entrada de oxigênio na água. Os microrganismos que vivem
+nessas águas não são capazes de quebrar moléculas ramificadas,
+ocorrendo assim um desequilíbrio ambiental nos rios. A fórmula
+a seguir representa a estrutura química de um tensoativo
+presente na composição de um detergente não biodegradável. S O
+O O - Na + Tensoativo não biodegradável Qual modificação
+química na estrutura desse tensoativo o tornaria um detergente
+biodegradável?`,
     images: ['/enem/2023/images/enem_2023_d2_q133.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Retirar a parte polar da molécula.` },
@@ -1377,29 +1264,22 @@ Os micronúcleos se originam dos(as)`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `O petróleo é uma matéria-prima muito valiosa 
-e métodos geofísicos são úteis na sua prospecção. 
-É possível identificar a composição de materiais 
-estratificados medindo-se a velocidade de propagação 
-do som (onda mecânica) através deles. Considere que 
-uma camada de 450 m de um líquido se encontra presa 
-no subsolo entre duas camadas rochosas, conforme o 
-esquema. Um pulso acústico (que gera uma vibração 
-mecânica) é emitido a partir da superfície do solo, onde 
-são posteriormente recebidas duas vibrações refletidas 
-(ecos). A primeira corresponde à reflexão do pulso na 
-interface superior do líquido com a camada rochosa. 
-A segunda vibração deve-se à reflexão do pulso na 
-interface inferior. O tempo entre a emissão do pulso e 
-a chegada do primeiro eco é de 0,5 s. O segundo eco 
-chega 1,1 s após a emissão do pulso. 
-Emissor e detector de pulsos 
-Rocha 
-450 m 
-Líquido 
-Rocha 
-A velocidade do som na camada líquida, em metro por 
-segundo, é`,
+    text: `O petróleo é uma matéria-prima muito valiosa e métodos
+geofísicos são úteis na sua prospecção. É possível identificar
+a composição de materiais estratificados medindo-se a
+velocidade de propagação do som (onda mecânica) através deles.
+Considere que uma camada de 450 m de um líquido se encontra
+presa no subsolo entre duas camadas rochosas, conforme o
+esquema. Um pulso acústico (que gera uma vibração mecânica) é
+emitido a partir da superfície do solo, onde são
+posteriormente recebidas duas vibrações refletidas (ecos). A
+primeira corresponde à reflexão do pulso na interface superior
+do líquido com a camada rochosa. A segunda vibração deve-se à
+reflexão do pulso na interface inferior. O tempo entre a
+emissão do pulso e a chegada do primeiro eco é de 0,5 s. O
+segundo eco chega 1,1 s após a emissão do pulso. Emissor e
+detector de pulsos Rocha 450 m Líquido Rocha A velocidade do
+som na camada líquida, em metro por segundo, é`,
     images: ['/enem/2023/images/enem_2023_d2_q135.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `270.` },
@@ -1418,24 +1298,19 @@ segundo, é`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Um artista plástico esculpe uma escultura a partir 
-de um bloco de madeira de lei, em etapas. Inicialmente, 
-esculpe um cone reto com 36 cm de altura e diâmetro da 
-base medindo 18 cm. Em seguida, remove desse cone um 
-cone menor, cujo diâmetro da base mede 6 cm, obtendo, 
-assim, um tronco de cone, conforme ilustrado na figura. 
-6 cm 
-36 cm 
-18 cm 
-Em seguida, perfura esse tronco de cone, removendo 
-um cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o 
-mesmo do cone original. Dessa forma, ao final, a escultura 
-tem a forma de um tronco de cone com uma perfuração 
-cilíndrica de base a base. 
-O tipo de madeira utilizada para produzir essa escultura 
-tem massa igual a 0,6 g por centímetro cúbico de volume. 
-Utilize 3 como aproximação para π . 
-Qual é a massa, em grama, dessa escultura?`,
+    text: `Um artista plástico esculpe uma escultura a partir de um bloco
+de madeira de lei, em etapas. Inicialmente, esculpe um cone
+reto com 36 cm de altura e diâmetro da base medindo 18 cm. Em
+seguida, remove desse cone um cone menor, cujo diâmetro da
+base mede 6 cm, obtendo, assim, um tronco de cone, conforme
+ilustrado na figura. 6 cm 36 cm 18 cm Em seguida, perfura esse
+tronco de cone, removendo um cilindro reto, de diâmetro 6 cm,
+cujo eixo de simetria é o mesmo do cone original. Dessa forma,
+ao final, a escultura tem a forma de um tronco de cone com uma
+perfuração cilíndrica de base a base. O tipo de madeira
+utilizada para produzir essa escultura tem massa igual a 0,6 g
+por centímetro cúbico de volume. Utilize 3 como aproximação
+para π . Qual é a massa, em grama, dessa escultura?`,
     images: ['/enem/2023/images/enem_2023_d2_q136.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1 198,8` },
@@ -1546,33 +1421,7 @@ Em qual mês o produto II parou de ser produzido?`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia 
-por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um 
-gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até 
-aquele instante do dia. 
-Quantidade de viagens realizadas 
-7 
-6 
-5 
-4 
-3 
-2 
-1 
-0 
-5 
-10 
-15 
-20 
-25 
-30 
-35 
-40 
-45 
-50 
-55 
-Quantidade de motoristas 
-Comparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas 
-pelos motoristas cadastrados nessa empresa, obtém-se`,
+    text: ``,
     images: ['/enem/2023/images/enem_2023_d2_q140.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `mediana = média < moda.` },
@@ -1600,16 +1449,11 @@ três cartões com seu nome. Foram inscritos 200 estudantes de primeiro ano, 150
 ano. Todos os cartões têm a mesma probabilidade de serem sorteados. 
 Qual a probabilidade de o vencedor do sorteio ser um estudante de terceiro ano?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `1 
-2` },
-      { id: 'B', type: 'text', value: `1 
-3` },
-      { id: 'C', type: 'text', value: `1 
-8` },
-      { id: 'D', type: 'text', value: `2 
-9` },
-      { id: 'E', type: 'text', value: `3 
-8` },
+      { id: 'A', type: 'text', value: `1 2` },
+      { id: 'B', type: 'text', value: `1 3` },
+      { id: 'C', type: 'text', value: `1 8` },
+      { id: 'D', type: 'text', value: `2 9` },
+      { id: 'E', type: 'text', value: `3 8` },
     ],
     correct: 'E',
     explanation: `Cartões na urna: 1º ano 200·1=200; 2º ano 150·2=300; 3º ano 100·3=300; total 800. P(3º ano)=300/800=3/8. Resposta: E.`,
@@ -1673,26 +1517,17 @@ O número mínimo de salas que deverão ser construídas é`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `A foto mostra a construção de uma cisterna destinada 
-ao armazenamento de água. Uma cisterna como essa, na 
-forma de cilindro circular reto com 3 m² de área da base, 
-foi abastecida por um curso-d’água com vazão constante. 
-O seu proprietário registrou a altura do nível da água no 
-interior da cisterna durante o abastecimento em diferentes 
-momentos de um mesmo dia, conforme o quadro. 
-Horário (h) 
-Nível da água (m) 
-6:00 
-0,5 
-8:00 
-1,1 
-12:00 
-2,3 
-15:00 
-3,2 
-Disponível em: www.paraibamix.com. Acesso em: 3 dez. 2012. 
-Qual foi a vazão, em metro cúbico por hora, do 
-curso-d’água que abasteceu a cisterna?`,
+    text: `A foto mostra a construção de uma cisterna destinada ao
+armazenamento de água. Uma cisterna como essa, na forma de
+cilindro circular reto com 3 m² de área da base, foi
+abastecida por um curso-d’água com vazão constante. O seu
+proprietário registrou a altura do nível da água no interior
+da cisterna durante o abastecimento em diferentes momentos de
+um mesmo dia, conforme o quadro. Horário (h) Nível da água (m)
+6:00 0,5 8:00 1,1 12:00 2,3 15:00 3,2 Disponível em:
+www.paraibamix.com. Acesso em: 3 dez. 2012. Qual foi a vazão,
+em metro cúbico por hora, do curso-d’água que abasteceu a
+cisterna?`,
     images: ['/enem/2023/images/enem_2023_d2_q144_1.jpg', '/enem/2023/images/enem_2023_d2_q144_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `0,3` },
@@ -1711,30 +1546,16 @@ curso-d’água que abasteceu a cisterna?`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Num certo momento de um jogo digital, a tela 
-apresenta a imagem representada na figura. O ponto Q 1 
-representa a posição de um jogador que está com a bola, 
-os pontos Q 2 , Q 3 , Q 4 , Q 5 e Q 6 também indicam posições 
-de jogadores da mesma equipe, e os pontos A e B indicam 
-os dois pés da trave mais próxima deles. No momento da 
-partida retratado, o jogador Q 1 tem a posse da bola, que 
-será passada para um dos outros jogadores das posições 
-Q n , n ∈ {2, 3, 4, 5, 6}, cujo ângulo AQ B 
-n 
- tenha a mesma 
-medida do ângulo 
-AQ B 
-1 . 
-Q 3 
-A 
-Q 2 
-Q 4 
-Q 5 
-α 
-B 
-Q 1 
-Q 6 
-Qual é o jogador que receberá a bola?`,
+    text: `Num certo momento de um jogo digital, a tela apresenta a
+imagem representada na figura. O ponto Q 1 representa a
+posição de um jogador que está com a bola, os pontos Q 2 , Q 3
+, Q 4 , Q 5 e Q 6 também indicam posições de jogadores da
+mesma equipe, e os pontos A e B indicam os dois pés da trave
+mais próxima deles. No momento da partida retratado, o jogador
+Q 1 tem a posse da bola, que será passada para um dos outros
+jogadores das posições Q n , n ∈ {2, 3, 4, 5, 6}, cujo ângulo
+AQ B n tenha a mesma medida do ângulo AQ B 1 . Q 3 A Q 2 Q 4 Q
+5 α B Q 1 Q 6 Qual é o jogador que receberá a bola?`,
     images: ['/enem/2023/images/enem_2023_d2_q145.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Q 2` },
@@ -1766,19 +1587,11 @@ para as somas dos números que formam os lados do
 triângulo?`,
     images: ['/enem/2023/images/enem_2023_d2_q146.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Há somente uma solução possível, e as somas em 
-cada lado do triângulo são iguais a 7.` },
-      { id: 'B', type: 'text', value: `Há somente uma solução possível, e as somas em 
-cada lado do triângulo são iguais a 9.` },
-      { id: 'C', type: 'text', value: `Há somente duas soluções possíveis, uma em que 
-as somas em cada lado do triângulo são iguais a 7 e 
-outra em que as somas são iguais a 9.` },
-      { id: 'D', type: 'text', value: `Há somente duas soluções possíveis, uma em que 
-as somas em cada lado do triângulo são iguais a 9 e 
-outra em que as somas são iguais a 12.` },
-      { id: 'E', type: 'text', value: `Há somente duas soluções possíveis, uma em que 
-as somas em cada lado do triângulo são iguais a 10 
-e outra em que as somas são iguais a 11.` },
+      { id: 'A', type: 'text', value: `Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7.` },
+      { id: 'B', type: 'text', value: `Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9.` },
+      { id: 'C', type: 'text', value: `Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9.` },
+      { id: 'D', type: 'text', value: `Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12.` },
+      { id: 'E', type: 'text', value: `Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11.` },
     ],
     correct: 'E',
     explanation: `A soma 1+2+…+6=21. Cada vértice pertence a dois lados, logo 3S=21+V, onde V é a soma dos vértices e S a soma de cada lado. Com os vértices em PA de razão 2: {1,3,5} → V=9 → 3S=30 → S=10; ou {2,4,6} → V=12 → 3S=33 → S=11. As duas distribuições se realizam, dando somas 10 e 11. Resposta: E.`,
@@ -1826,30 +1639,19 @@ necessários para prover o suprimento a esse casal é`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `O mastro de uma bandeira foi instalado 
-perpendicularmente ao solo em uma região plana. 
-Devido aos fortes ventos, três cabos de aço, de mesmo 
-comprimento, serão instalados para dar sustentação ao 
-mastro. Cada cabo de aço ficará perfeitamente esticado, 
-com uma extremidade num ponto P do mastro, a uma 
-altura h do solo, e a outra extremidade, num ponto no 
-chão, como mostra a figura. 
-P 
-h 
-α 
-α 
-α 
-Os cabos de aço formam um ângulo a com o plano 
-do chão. 
-Por medida de segurança, há apenas três opções de 
-instalação: 
-• opção I: h = 11 m e a = 30° 
-• opção II: h = 12 m e a = 45° 
-• opção III: h = 18 m e a = 60° 
-A opção a ser escolhida é aquela em que a medida 
-dos cabos seja a menor possível. 
-Qual será a medida, em metro, de cada um dos cabos a 
-serem instalados?`,
+    text: `O mastro de uma bandeira foi instalado perpendicularmente ao
+solo em uma região plana. Devido aos fortes ventos, três cabos
+de aço, de mesmo comprimento, serão instalados para dar
+sustentação ao mastro. Cada cabo de aço ficará perfeitamente
+esticado, com uma extremidade num ponto P do mastro, a uma
+altura h do solo, e a outra extremidade, num ponto no chão,
+como mostra a figura. P h α α α Os cabos de aço formam um
+ângulo a com o plano do chão. Por medida de segurança, há
+apenas três opções de instalação: • opção I: h = 11 m e a =
+30° • opção II: h = 12 m e a = 45° • opção III: h = 18 m e a =
+60° A opção a ser escolhida é aquela em que a medida dos cabos
+seja a menor possível. Qual será a medida, em metro, de cada
+um dos cabos a serem instalados?`,
     images: ['/enem/2023/images/enem_2023_d2_q148.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `22√3/3` },
@@ -1868,25 +1670,18 @@ serem instalados?`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Um controlador de voo dispõe de um instrumento que 
-descreve a altitude de uma aeronave em voo, em função 
-da distância em solo. Essa distância em solo é a medida na 
-horizontal entre o ponto de origem do voo até o ponto que 
-representa a projeção ortogonal da posição da aeronave, 
-em voo, no solo. Essas duas grandezas são dadas numa 
-mesma unidade de medida. 
-A tela do instrumento representa proporcionalmente 
-as dimensões reais das distâncias associadas ao voo. 
-A figura apresenta a tela do instrumento depois de 
-concluída a viagem de um avião, sendo a medida do lado 
-de cada quadradinho da malha igual a 1 cm. 
-Altitude
-Origem
-do voo
-Destino
-Distância 
-Essa tela apresenta os dados de um voo cuja maior 
-altitude alcançada foi de 5 km. 
+    text: `Um controlador de voo dispõe de um instrumento que descreve a
+altitude de uma aeronave em voo, em função da distância em
+solo. Essa distância em solo é a medida na horizontal entre o
+ponto de origem do voo até o ponto que representa a projeção
+ortogonal da posição da aeronave, em voo, no solo. Essas duas
+grandezas são dadas numa mesma unidade de medida. A tela do
+instrumento representa proporcionalmente as dimensões reais
+das distâncias associadas ao voo. A figura apresenta a tela do
+instrumento depois de concluída a viagem de um avião, sendo a
+medida do lado de cada quadradinho da malha igual a 1 cm.
+Altitude Origem do voo Destino Distância Essa tela apresenta
+os dados de um voo cuja maior altitude alcançada foi de 5 km.
 A escala em que essa tela representa as medidas reais é`,
     images: ['/enem/2023/images/enem_2023_d2_q149.jpg'],
     alternatives: [
@@ -2069,18 +1864,11 @@ mais alta do castelo pode ser representada por um`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Na planta baixa de um clube, a piscina é representada 
-por um quadrado cuja área real mede 400 m². Ao redor 
-dessa piscina, será construída uma calçada, de largura 
-constante igual a 5 m. 
-5 m 
-Calçada 
-5 m 
-Piscina 
-5 m 
-5 m 
-Qual é a medida da área, em metro quadrado, ocupada 
-pela calçada?`,
+    text: `Na planta baixa de um clube, a piscina é representada por um
+quadrado cuja área real mede 400 m². Ao redor dessa piscina,
+será construída uma calçada, de largura constante igual a 5 m.
+5 m Calçada 5 m Piscina 5 m 5 m Qual é a medida da área, em
+metro quadrado, ocupada pela calçada?`,
     images: ['/enem/2023/images/enem_2023_d2_q155.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1 000` },
@@ -2099,25 +1887,7 @@ pela calçada?`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Uma pessoa caminha por 30 minutos e utiliza um 
-aplicativo instalado em seu celular para monitorar a 
-variação da intensidade do sinal de internet recebido 
-pelo aparelho durante o deslocamento. Chegando ao seu 
-destino, o aplicativo forneceu este gráfico: 
-Intensidade do sinal de internet 
-Tempo (min) 
-0 
-2 
-4 
-6 
-8 
-10 12 14 
-16 
-18 20 
-22 24 
-26 28 30 
-Por quantos minutos, durante essa caminhada, o celular 
-dessa pessoa ficou sem receber sinal de internet?`,
+    text: ``,
     images: ['/enem/2023/images/enem_2023_d2_q156.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `6` },
@@ -2136,38 +1906,7 @@ dessa pessoa ficou sem receber sinal de internet?`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Um professor, para promover a aprendizagem dos 
-estudantes em estatística, propôs uma atividade. O objetivo 
-era verificar o percentual de estudantes com massa corporal 
-abaixo da média e altura acima da média de um grupo de 
-estudantes. Para isso, usando uma balança e uma fita 
-métrica, avaliou uma amostra de dez estudantes, anotando as 
-medidas observadas. O gráfico apresenta a massa corporal, 
-em quilograma, e a altura, em metro, obtidas na atividade. 
-Massa corporal e altura de estudantes 
-Altura (m) 
-1,8 
-1,75 
-1,7 
-1,65 
-1,6 
-1,55 
-1,5 
-1,45 
-20 
-40 
-60 
-80 
-100 
-120 
-140 
-Massa corporal (kg) 
-0 
-Após a coleta dos dados, os estudantes calcularam a 
-média dos valores obtidos, referentes à massa corporal e 
-à altura, obtendo, respectivamente, 80 kg e 1,65 m. 
-Qual é o percentual de estudantes dessa amostra com 
-massa corporal abaixo da média e altura acima da média?`,
+    text: ``,
     images: ['/enem/2023/images/enem_2023_d2_q157.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `10` },
@@ -2346,35 +2085,22 @@ volume x , em metro cúbico, é`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Uma empresa de segurança domiciliar oferece o serviço 
-de patrulha noturna, no qual vigilantes em motocicletas 
-fazem o monitoramento periódico de residências. 
-A empresa conta com uma base, de onde acompanha 
-o trajeto realizado pelos vigilantes durante as patrulhas 
-e orienta o deslocamento de equipes de reforço quando 
-necessário. Numa patrulha rotineira, sem ocorrências, 
-um vigilante conduziu sua motocicleta a uma velocidade 
-constante durante todo o itinerário estabelecido, levando 
-30 minutos para conclusão. De acordo com os registros 
-do GPS alocado na motocicleta, a distância da posição 
-do vigilante à base, ao longo do tempo de realização do 
-trajeto, é descrita pelo gráfico. 
-Distância do vigilante em relação 
-à base em função do tempo 
-4
-Distância do vigilante
-à base (km)
-3 
-2 
-1 
-Tempo (min) 
-0 
-10 
-20 
-30 
-A vista superior da trajetória realizada pelo vigilante 
-durante a patrulha registrada no gráfico é descrita pela 
-representação`,
+    text: `Uma empresa de segurança domiciliar oferece o serviço de
+patrulha noturna, no qual vigilantes em motocicletas fazem o
+monitoramento periódico de residências. A empresa conta com
+uma base, de onde acompanha o trajeto realizado pelos
+vigilantes durante as patrulhas e orienta o deslocamento de
+equipes de reforço quando necessário. Numa patrulha rotineira,
+sem ocorrências, um vigilante conduziu sua motocicleta a uma
+velocidade constante durante todo o itinerário estabelecido,
+levando 30 minutos para conclusão. De acordo com os registros
+do GPS alocado na motocicleta, a distância da posição do
+vigilante à base, ao longo do tempo de realização do trajeto,
+é descrita pelo gráfico. Distância do vigilante em relação à
+base em função do tempo 4 Distância do vigilante à base (km) 3
+2 1 Tempo (min) 0 10 20 30 A vista superior da trajetória
+realizada pelo vigilante durante a patrulha registrada no
+gráfico é descrita pela representação`,
     images: ['/enem/2023/images/enem_2023_d2_q163.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2023/images/enem_2023_d2_q163_A.jpg` },
@@ -2393,20 +2119,15 @@ representação`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, 
-uma já está completamente imunizada, a dos trabalhadores da saúde. 
-Números da campanha contra a gripe A-H1N1 
-Adultos entre 20 e 29 anos 
-Gestantes 
-Doentes crônicos 
-Indígenas 
-Crianças de 6 meses a 2 anos 
-Trabalhadores da saúde 
-0,0% 
-10,0% 20,0% 
-30,0% 40,0% 50,0% 60,0% 70,0% 80,0% 90,0% 100,0% 
-De acordo com o gráfico, entre as demais categorias, a que esta mais exposta ao vírus da gripe A-H1N1 e a 
-categoria de`,
+    text: `O gráfico expõe alguns números da gripe A-H1N1. Entre as
+categorias que estão em processo de imunização, uma já está
+completamente imunizada, a dos trabalhadores da saúde. Números
+da campanha contra a gripe A-H1N1 Adultos entre 20 e 29 anos
+Gestantes Doentes crônicos Indígenas Crianças de 6 meses a 2
+anos Trabalhadores da saúde 0,0% 10,0% 20,0% 30,0% 40,0% 50,0%
+60,0% 70,0% 80,0% 90,0% 100,0% De acordo com o gráfico, entre
+as demais categorias, a que esta mais exposta ao vírus da
+gripe A-H1N1 e a categoria de`,
     images: ['/enem/2023/images/enem_2023_d2_q164.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `indígenas.` },
@@ -2682,21 +2403,11 @@ o EC do atleta.
 A unidade de medida da grandeza descrita pelo 
 parâmetro EC é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `min 
-mL kg 
-⋅` },
-      { id: 'B', type: 'text', value: `mL 
-min kg 
-⋅` },
-      { id: 'C', type: 'text', value: `min mL 
-⋅ 
-kg` },
-      { id: 'D', type: 'text', value: `min kg 
-mL 
-⋅` },
-      { id: 'E', type: 'text', value: `é mL kg 
-min 
-⋅` },
+      { id: 'A', type: 'text', value: `min mL kg ⋅` },
+      { id: 'B', type: 'text', value: `mL min kg ⋅` },
+      { id: 'C', type: 'text', value: `min mL ⋅ kg` },
+      { id: 'D', type: 'text', value: `min kg mL ⋅` },
+      { id: 'E', type: 'text', value: `é mL kg min ⋅` },
     ],
     correct: 'B',
     explanation: `EC = consumo de O₂ (mL/min) dividido pela massa (kg) = (mL/min)/kg = mL/(min·kg). Resposta: B.`,
@@ -2756,18 +2467,7 @@ Qual o preço, em real, de uma cartela de tíquetes vermelhos?`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Os números figurados pentagonais provavelmente 
-foram introduzidos pelos pitagóricos por volta do 
-século V a.C. As figuras ilustram como obter os seis 
-primeiros deles, sendo os demais obtidos seguindo o 
-mesmo padrão geométrico. 
-22 
-12 
-5 
-1 
-35 
-51 
-O oitavo número pentagonal é`,
+    text: ``,
     images: ['/enem/2023/images/enem_2023_d2_q176.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `59.` },
@@ -2860,12 +2560,10 @@ representações dos numerais cinco e sete, nessa cultura,
 devem ser, respectivamente,`,
     images: ['/enem/2023/images/enem_2023_d2_q179.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `okosa urapum urapum urapum e okosa okosa urapum 
-urapum urapum.` },
+      { id: 'A', type: 'text', value: `okosa urapum urapum urapum e okosa okosa urapum urapum urapum.` },
       { id: 'B', type: 'text', value: `okosa okosa urapum e okosa okosa okosa okosa urapum.` },
       { id: 'C', type: 'text', value: `okosa okosa urapum e okosa okosa okosa urapum.` },
-      { id: 'D', type: 'text', value: `okosa urapum urapum e okosa urapum okosa urapum 
-urapum.` },
+      { id: 'D', type: 'text', value: `okosa urapum urapum e okosa urapum okosa urapum urapum.` },
       { id: 'E', type: 'text', value: `okosa okosa urapum e okosa okosa okosa okosa.` },
     ],
     correct: 'C',

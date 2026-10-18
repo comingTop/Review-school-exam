@@ -83,15 +83,11 @@ Do ponto de vista evolutivo, a capacidade apresentada se
 estabeleceu porque os polvos`,
     images: ['/enem/2021/images/enem_2021_d2_q93.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `originaram-se do mesmo ancestral que esses
-animais.` },
+      { id: 'A', type: 'text', value: `originaram-se do mesmo ancestral que esses animais.` },
       { id: 'B', type: 'text', value: `passaram por mutações similares a esses organismos.` },
-      { id: 'C', type: 'text', value: `observaram esses animais em seus nichos
-ecológicos.` },
-      { id: 'D', type: 'text', value: `resultaram de convergência adaptativa com essas
-espécies.` },
-      { id: 'E', type: 'text', value: `sobreviveram às pressões seletivas com esses
-comportamentos.` },
+      { id: 'C', type: 'text', value: `observaram esses animais em seus nichos ecológicos.` },
+      { id: 'D', type: 'text', value: `resultaram de convergência adaptativa com essas espécies.` },
+      { id: 'E', type: 'text', value: `sobreviveram às pressões seletivas com esses comportamentos.` },
 
     ],
     correct: 'E',
@@ -232,16 +228,11 @@ o nascimento.
 Os prejuízos no período embrionário são evitados porque
 a circulação fetal se assemelha à dos(as)`,
     alternatives: [
-      { id: 'A', type: 'text', value: `aves, porque a pequena circulação e a grande
-circulação estão presentes.` },
-      { id: 'B', type: 'text', value: `répteis, porque a mistura de sangue é minimizada por
-um metabolismo lento.` },
-      { id: 'C', type: 'text', value: `crocodilianos, porque a separação dos ventrículos
-impede a mistura sanguínea.` },
-      { id: 'D', type: 'text', value: `peixes, porque a circulação é simples, ocorrendo
-uma passagem única pelo coração.` },
-      { id: 'E', type: 'text', value: `anfíbios, porque pressões diferenciais isolam
-temporalmente o sangue venoso do arterial.` },
+      { id: 'A', type: 'text', value: `aves, porque a pequena circulação e a grande circulação estão presentes.` },
+      { id: 'B', type: 'text', value: `répteis, porque a mistura de sangue é minimizada por um metabolismo lento.` },
+      { id: 'C', type: 'text', value: `crocodilianos, porque a separação dos ventrículos impede a mistura sanguínea.` },
+      { id: 'D', type: 'text', value: `peixes, porque a circulação é simples, ocorrendo uma passagem única pelo coração.` },
+      { id: 'E', type: 'text', value: `anfíbios, porque pressões diferenciais isolam temporalmente o sangue venoso do arterial.` },
 
     ],
     correct: 'D',
@@ -522,12 +513,9 @@ Considerando desprezível a resistência do ar, qual versão apresenta a maior p
     alternatives: [
       { id: 'A', type: 'text', value: `Como a versão a gasolina consegue a maior aceleração, esta é a que desenvolve a maior potência.` },
       { id: 'B', type: 'text', value: `Como a versão a gasolina atinge o maior valor de energia cinética, esta é a que desenvolve a maior potência.` },
-      { id: 'C', type: 'text', value: `Como a versão a álcool apresenta a maior taxa de variação de energia cinética, esta é a que desenvolve a maior
-potência.` },
-      { id: 'D', type: 'text', value: `Como ambas as versões apresentam a mesma variação de velocidade no cálculo da aceleração, a potência
-desenvolvida é a mesma.` },
-      { id: 'E', type: 'text', value: `Como a versão a gasolina fica com o motor trabalhando por mais tempo para atingir os 100 km/h, esta é a que
-desenvolve a maior potência.` },
+      { id: 'C', type: 'text', value: `Como a versão a álcool apresenta a maior taxa de variação de energia cinética, esta é a que desenvolve a maior potência.` },
+      { id: 'D', type: 'text', value: `Como ambas as versões apresentam a mesma variação de velocidade no cálculo da aceleração, a potência desenvolvida é a mesma.` },
+      { id: 'E', type: 'text', value: `Como a versão a gasolina fica com o motor trabalhando por mais tempo para atingir os 100 km/h, esta é a que desenvolve a maior potência.` },
 
     ],
     correct: 'C',
@@ -664,18 +652,11 @@ para acondicionamento dos resíduos.
 Para completar a ação proposta no ambiente escolar, o que
 falta ser inserido no planejamento?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `Realizar campanhas educativas de sensibilização em
-bairros vizinhos para fortalecer a coleta seletiva.` },
-      { id: 'B', type: 'text', value: `Firmar parceria com a prefeitura ou cooperativa de
-catadores para recolhimento dos materiais recicláveis
-e destinação apropriada.` },
-      { id: 'C', type: 'text', value: `Organizar visitas ao lixão ou aterro local para
-identificar aspectos importantes sobre a disposição
-final do lixo.` },
-      { id: 'D', type: 'text', value: `Divulgar na rádio local, no jornal impresso e nas redes
-sociais que a escola está realizando a coleta seletiva.` },
-      { id: 'E', type: 'text', value: `Colocar recipientes coletores de lixo reciclável fora da
-escola para entrega voluntária pela população.` },
+      { id: 'A', type: 'text', value: `Realizar campanhas educativas de sensibilização em bairros vizinhos para fortalecer a coleta seletiva.` },
+      { id: 'B', type: 'text', value: `Firmar parceria com a prefeitura ou cooperativa de catadores para recolhimento dos materiais recicláveis e destinação apropriada.` },
+      { id: 'C', type: 'text', value: `Organizar visitas ao lixão ou aterro local para identificar aspectos importantes sobre a disposição final do lixo.` },
+      { id: 'D', type: 'text', value: `Divulgar na rádio local, no jornal impresso e nas redes sociais que a escola está realizando a coleta seletiva.` },
+      { id: 'E', type: 'text', value: `Colocar recipientes coletores de lixo reciclável fora da escola para entrega voluntária pela população.` },
 
     ],
     correct: 'B',
@@ -952,12 +933,9 @@ qual dos dois vírus infecta seres humanos há mais tempo?`,
     alternatives: [
       { id: 'A', type: 'text', value: `Ebola, pois o maior período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.` },
       { id: 'B', type: 'text', value: `Dengue, pois o menor período de incubação reflete duração mais longa do processo de coevolução patógeno-hospedeiro.` },
-      { id: 'C', type: 'text', value: `Ebola, cuja alta letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo de sua
-evolução.` },
-      { id: 'D', type: 'text', value: `Ebola, cujos surtos epidêmicos concentram-se no continente africano, reconhecido como berço da origem
-evolutiva dos seres humanos.` },
-      { id: 'E', type: 'text', value: `Dengue, cuja baixa letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao
-longo da coevolução patógeno-hospedeiro.` },
+      { id: 'C', type: 'text', value: `Ebola, cuja alta letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo de sua evolução.` },
+      { id: 'D', type: 'text', value: `Ebola, cujos surtos epidêmicos concentram-se no continente africano, reconhecido como berço da origem evolutiva dos seres humanos.` },
+      { id: 'E', type: 'text', value: `Dengue, cuja baixa letalidade indica maior eficiência do vírus em parasitar seus hospedeiros, estabelecida ao longo da coevolução patógeno-hospedeiro.` },
 
     ],
     correct: 'E',
@@ -2671,28 +2649,18 @@ Quantos anos de fundação essa cidade comemorará em
     exam: 'enem',
     year: 2021,
     day: 2,
-    text: `Uma das bases mais utilizadas para representar um
-número é a base decimal. Entretanto, os computadores
-trabalham com números na base binária. Nessa base,
-qualquer número natural é representado usando apenas
-os algarismos 0 e 1. Por exemplo, as representações
-dos números 9 e 12, na base binária, são 1001 e 1100,
-respectivamente. A operação de adição, na base binária,
-segue um algoritmo similar ao utilizado na base decimal,
-como detalhado no quadro:
-a | b | a + b
-0 | 0 | 0
-0 | 1 | 1
-1 | 0 | 1
-1 | 1 | 10
-Por exemplo, na base binária, a soma dos números
-10 e 10 é 100, como apresentado:
-   10
-+  10
-------
-  100
-Considerando as informações do texto, o resultado da
-adição 9 + 12 será representado, na base binária, por`,
+    text: `Uma das bases mais utilizadas para representar um número é a
+base decimal. Entretanto, os computadores trabalham com
+números na base binária. Nessa base, qualquer número natural é
+representado usando apenas os algarismos 0 e 1. Por exemplo,
+as representações dos números 9 e 12, na base binária, são
+1001 e 1100, respectivamente. A operação de adição, na base
+binária, segue um algoritmo similar ao utilizado na base
+decimal, como detalhado no quadro: a | b | a + b 0 | 0 | 0 0 |
+1 | 1 1 | 0 | 1 1 | 1 | 10 Por exemplo, na base binária, a
+soma dos números 10 e 10 é 100, como apresentado: 10 + 10
+------ 100 Considerando as informações do texto, o resultado
+da adição 9 + 12 será representado, na base binária, por`,
     alternatives: [
       { id: 'A', type: 'text', value: `101.` },
       { id: 'B', type: 'text', value: `1101.` },
