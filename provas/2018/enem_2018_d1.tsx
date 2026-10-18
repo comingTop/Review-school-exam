@@ -2038,13 +2038,12 @@ respectivo valor.
 GASPAR, A. J. Dicionário de ciências cartográficas . Lisboa: Lidel, 2004. 
 A técnica descrita foi aplicada na seguinte forma de 
 representação do espaço:`,
-    images: ['/enem/2018/images/enem_2018_d1_q56_A.jpg', '/enem/2018/images/enem_2018_d1_q56_B.jpg', '/enem/2018/images/enem_2018_d1_q56_C.jpg', '/enem/2018/images/enem_2018_d1_q56_D.jpg', '/enem/2018/images/enem_2018_d1_q56_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2018/images/enem_2018_d1_q56_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2018/images/enem_2018_d1_q56_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2018/images/enem_2018_d1_q56_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2018/images/enem_2018_d1_q56_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2018/images/enem_2018_d1_q56_E.jpg` },
     ],
     correct: 'C',
     explanation: `A anamorfose cartográfica, definida no texto, distorce a forma das unidades espaciais de modo que a área de cada uma seja proporcional ao valor do tema representado, e não à sua dimensão real no território. A alternativa correta é a representação C, que exibe esse tipo de cartograma com áreas deformadas conforme o dado, em vez de um mapa de contornos fiéis. As demais opções correspondem a representações convencionais do espaço, que preservam as proporções territoriais verdadeiras ou usam outros recursos gráficos. Como não realizam a transformação proporcional ao valor temático descrita no enunciado, não configuram a técnica de anamorfose solicitada.`,

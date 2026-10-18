@@ -144,20 +144,14 @@ pura ocorre sua dissociação formando os íons Na⁺ e
 Cl⁻. Considere que esses íons ocupam os espaços 
 intermoleculares na solução. 
 Nestes recipientes, a posição de equilíbrio do densímetro 
-está representada em: 
-A 
-B 
-A 
-A 
-B 
-B`,
+está representada em:`,
     images: ['/enem/2018/images/enem_2018_d2_q95.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2018/images/enem_2018_d2_q95_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2018/images/enem_2018_d2_q95_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2018/images/enem_2018_d2_q95_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2018/images/enem_2018_d2_q95_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2018/images/enem_2018_d2_q95_E.jpg` },
     ],
     correct: 'D',
     explanation: `Em 2 L de água pura (2 000 g; 2 000 cm³) a adição de NaCl aumenta a massa sem alterar o volume, pois os íons ocupam os espaços intermoleculares, elevando a densidade. No recipiente A (100 g): d = 2 100 ÷ 2 000 = 1,05 g/cm³; no B (200 g): d = 2 200 ÷ 2 000 = 1,10 g/cm³. Como cada divisão da escala vale 5,0 × 10⁻² g/cm³, A fica uma divisão acima da marca da água pura e B fica duas divisões acima, e quanto maior a densidade mais o densímetro emerge. A figura que mostra o densímetro subindo uma divisão em A e duas em B é a da alternativa D.`,
@@ -564,20 +558,16 @@ Tensão (V)
 7 
 Corrente (A) 
 Após a análise do gráfico, ele concluiu que a tensão 
-em função da corrente é dada pela equação V = 10 i + i 2 . 
-O gráfico da resistência elétrica ( R ) do resistor em função 
-da corrente ( i ) é 
-20 
-15 
-R (Ω) 
-10`,
+em função da corrente é dada pela equação V = 10i + i² .
+O gráfico da resistência elétrica ( R ) do resistor em função
+da corrente ( i ) é`,
     images: ['/enem/2018/images/enem_2018_d2_q108.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2018/images/enem_2018_d2_q108_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2018/images/enem_2018_d2_q108_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2018/images/enem_2018_d2_q108_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2018/images/enem_2018_d2_q108_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2018/images/enem_2018_d2_q108_E.jpg` },
     ],
     correct: 'D',
     explanation: `A resistência elétrica é definida por R = V ÷ i. Substituindo a equação dada, R = (10 i + i²) ÷ i = 10 + i. Trata-se, portanto, de uma função do primeiro grau: para i = 0 a resistência vale 10 Ω e cresce linearmente com a corrente. O gráfico que representa uma reta começando em 10 Ω e aumentando de forma linear com i é o da alternativa D.`,
@@ -647,7 +637,7 @@ menor reatividade?`,
       { id: 'E', type: 'text', value: `5` },
     ],
     correct: 'D',
-    explanation: `A elevada reatividade da hidroxilamina em substituição nucleofílica deve-se à disponibilidade do par de elétrons do nitrogênio, reforçada pelo efeito alfa do oxigênio vizinho. A reatividade é menor quando esse par eletrônico está pouco disponível, por exemplo quando é deslocado por ressonância para uma carbonila (grupo amida) adjacente. A molécula 4, em que o nitrogênio está ligado a uma carbonila, tem seu par eletrônico deslocalizado e, por isso, apresenta o menor caráter nucleofílico. Portanto, a molécula de menor reatividade é a 4 (alternativa D).`,
+    explanation: `A elevada reatividade da hidroxilamina (NH₂OH) na substituição nucleofílica deve-se ao efeito alfa: o par de elétrons do nitrogênio é reforçado pelo oxigênio vizinho, e há um hidrogênio ligado ao N ou ao O que participa da reação. As cinco moléculas testadas são derivados de hidroxilamina (ligações HO–N / N–O), sem grupo carbonila. Entre elas, a molécula 4 é a única em que não há hidrogênio ligado ao oxigênio nem ao nitrogênio; sem esse H disponível, ela não consegue participar da reação do mesmo modo e apresenta o menor caráter nucleofílico. Por isso é a de menor reatividade. Portanto, a resposta é a alternativa D.`,
     subject: ['qui'],
     topics: ['Química Orgânica', 'Questões aleatórias'],
   },
@@ -1218,18 +1208,18 @@ aceitação no mercado de detergentes em razão do melhor desempenho comparado a
 desse produto provocou grandes problemas ambientais, dentre eles a resistência a degradação biológica, por causa 
 dos diversos carbonos terciários na cadeia que compõe a porção hidrofóbica desse tensoativo aniônico. As ramificações 
 na cadeia dificultam sua degradação, levando à persistência no meio ambiente por longos períodos. Isso levou a sua 
-substituição na maioria dos países por tensoativos biodegradáveis, ou seja, com cadeias alquílicas lineares. 
-PENTEADO, J.`,
-    images: ['/enem/2018/images/enem_2018_d2_q126_A.jpg', '/enem/2018/images/enem_2018_d2_q126_B.jpg', '/enem/2018/images/enem_2018_d2_q126_C.jpg', '/enem/2018/images/enem_2018_d2_q126_D.jpg', '/enem/2018/images/enem_2018_d2_q126_E.jpg'],
+substituição na maioria dos países por tensoativos biodegradáveis, ou seja, com cadeias alquílicas lineares.
+PENTEADO, J. C. et al. Química Nova, 2006 (adaptado).
+A fórmula estrutural do tensoativo persistente no meio ambiente, citado no texto, é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2018/images/enem_2018_d2_q126_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2018/images/enem_2018_d2_q126_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2018/images/enem_2018_d2_q126_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2018/images/enem_2018_d2_q126_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2018/images/enem_2018_d2_q126_E.jpg` },
     ],
     correct: 'B',
-    explanation: `O tensoativo não biodegradável tem cadeia hidrofóbica ramificada, com carbonos terciários que dificultam a degradação pelos microrganismos; já o biodegradável possui cadeia alquílica linear. A estrutura procurada é, portanto, a que apresenta uma longa cadeia carbônica sem ramificações ligada à porção hidrofílica. Essa estrutura de cadeia linear corresponde à representada na alternativa B. Portanto, a resposta é a alternativa B.`,
+    explanation: `O texto trata do tensoativo persistente (não biodegradável), que tem cadeia hidrofóbica RAMIFICADA, com diversos carbonos terciários que dificultam a degradação pelos microrganismos; os tensoativos biodegradáveis, ao contrário, têm cadeia alquílica linear. A estrutura procurada é, portanto, a que apresenta a cadeia carbônica ramificada (com carbonos terciários) ligada à porção hidrofílica. Essa estrutura ramificada é a representada na alternativa B. Portanto, a resposta é a alternativa B.`,
     subject: ['qui'],
     topics: ['Química Orgânica', 'Questões aleatórias'],
   },
@@ -1368,7 +1358,7 @@ de átomos de carbono compactados e com a espessura
 de apenas um átomo. Sua estrutura é hexagonal, 
 conforme a figura. 
 Nesse arranjo, os átomos de carbono possuem hibridação`,
-    images: ['/enem/2018/images/enem_2018_d2_q130_1.jpg', '/enem/2018/images/enem_2018_d2_q130_2.jpg'],
+    images: ['/enem/2018/images/enem_2018_d2_q130_1.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `sp de geometria linear.` },
       { id: 'B', type: 'text', value: `sp 2 de geometria trigonal planar.` },
@@ -1589,46 +1579,6 @@ via TED, em milhão de real, transferidos do banco i para
 o banco j durante o mês. Observe que os elementos 
 a ii = 0, uma vez que TED é uma transferência entre bancos 
 distintos. Esta é a matriz obtida para essa análise: 
-0 
-2 
-2 
-0 
-0 
-2 
-1 
-0 
-1 
-2 
-0 
-1 
-1 
-0 
-2 
-2 
-0 
-0 
-3 
-0 
-1 
-1 
-0 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-A = 
- 
- 
 Com base nessas informações, o banco que transferiu a 
 maior quantia via TED é o banco`,
     images: ['/enem/2018/images/enem_2018_d2_q136.jpg'],
@@ -1677,11 +1627,11 @@ Utilize 0,2877 como aproximação para In
 A primeira das parcelas que poderá ser antecipada junto 
 com a 30 a é a`,
     alternatives: [
-      { id: 'A', type: 'text', value: `56 a` },
-      { id: 'B', type: 'text', value: `55 a` },
-      { id: 'C', type: 'text', value: `52 a` },
-      { id: 'D', type: 'text', value: `51 a` },
-      { id: 'E', type: 'text', value: `45 a` },
+      { id: 'A', type: 'text', value: `56ª` },
+      { id: 'B', type: 'text', value: `55ª` },
+      { id: 'C', type: 'text', value: `52ª` },
+      { id: 'D', type: 'text', value: `51ª` },
+      { id: 'E', type: 'text', value: `45ª` },
     ],
     correct: 'C',
     explanation: `A parcela de ordem k (k>30) vence k−30 meses após o mês 30; seu valor presente nesse instante é P=820/(1,0132)^(k−30). O desconto 820−P deve ser maior que 25% de 820 = 205, ou seja P<615: 820/(1,0132)^(k−30)<615 → (1,0132)^(k−30)>820/615=4/3. Aplicando ln: (k−30)·ln(1,0132)>ln(4/3) → (k−30)·0,0131>0,2877 → k−30>21,96 → k−30≥22 → k≥52. A primeira é a 52ª. Resposta: C.`,
@@ -1705,15 +1655,17 @@ dado por meio da equação da circunferência, cada ponto
 diferente da origem que for atingido vale 2 pontos. Se 
 o tiro for dado por meio da equação de uma reta, cada 
 ponto diferente da origem que for atingido vale 1 ponto. 
-Em uma situação de jogo, ainda restam os seguintes 
-pontos para serem eliminados:`,
+Em uma situação de jogo, ainda restam os seguintes
+pontos para serem eliminados: A(0 ; 4), B(4 ; 4), C(4 ; 0),
+D(2 ; 2) e E(0 ; 2).
+Passando pelo ponto A, qual equação forneceria a maior pontuação?`,
     images: ['/enem/2018/images/enem_2018_d2_q138.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `(0 ; 4),` },
-      { id: 'B', type: 'text', value: `(4 ; 4),` },
-      { id: 'C', type: 'text', value: `(4 ; 0),` },
-      { id: 'D', type: 'text', value: `(2 ; 2) e` },
-      { id: 'E', type: 'text', value: `(0 ; 2). y 5 A B 4 3 D E 2 1 x C 1 0 6 5 4 3 2 Passando pelo ponto A , qual equação forneceria a maior pontuação?` },
+      { id: 'A', type: 'text', value: `x = 0` },
+      { id: 'B', type: 'text', value: `y = 0` },
+      { id: 'C', type: 'text', value: `x² + y² = 16` },
+      { id: 'D', type: 'text', value: `x² + (y − 2)² = 4` },
+      { id: 'E', type: 'text', value: `(x − 2)² + (y − 2)² = 8` },
     ],
     correct: 'E',
     explanation: `A equação deve passar por A(0;4) e pela origem; cada ponto (≠origem) atingido vale 2 (circunferência) ou 1 (reta). A circunferência (x−2)²+(y−2)²=8 passa pela origem (4+4=8) e por A (4+4=8), B(4;4) (4+4=8) e C(4;0) (4+4=8): atinge 3 pontos, totalizando 3·2=6 (a maior pontuação). As demais opções atingem menos pontos. Resposta: E.`,
@@ -2012,11 +1964,11 @@ distâncias d Beta ; d Alpha e d Gama percorridas pelas três equipes.
 A ordem das distâncias percorridas pelas equipes Alpha, 
 Beta e Gama é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `< < d d d Gama Beta Alpha` },
-      { id: 'B', type: 'text', value: `= < d d d Alpha Beta Gama` },
-      { id: 'C', type: 'text', value: `< = d d d Gama Beta Alpha` },
-      { id: 'D', type: 'text', value: `< < d d d Beta Alpha Gama` },
-      { id: 'E', type: 'text', value: `< < d d d Gama Alpha Beta` },
+      { id: 'A', type: 'text', value: `d_Gama < d_Beta < d_Alpha` },
+      { id: 'B', type: 'text', value: `d_Alpha = d_Beta < d_Gama` },
+      { id: 'C', type: 'text', value: `d_Gama < d_Beta = d_Alpha` },
+      { id: 'D', type: 'text', value: `d_Beta < d_Alpha < d_Gama` },
+      { id: 'E', type: 'text', value: `d_Gama < d_Alpha < d_Beta` },
     ],
     correct: 'A',
     explanation: `d=v·t, com 90 min=1,5 h e 60 min=1 h. d_Alpha=6,0·1,5=9,0 km; d_Beta=5,0·1,5=7,5 km; d_Gama=6,5·1,0=6,5 km. Ordem: d_Gama<d_Beta<d_Alpha. Resposta: A.`,
@@ -2371,16 +2323,11 @@ A probabilidade de que, em algum dos dias letivos de
 fevereiro, esse rapaz tenha apanhado o ônibus antes de 
 6 h 21 min da manhã é, no máximo,`,
     alternatives: [
-      { id: 'A', type: 'text', value: `4 
-21` },
-      { id: 'B', type: 'text', value: `5 
-21` },
-      { id: 'C', type: 'text', value: `6 
-21` },
-      { id: 'D', type: 'text', value: `7 
-21` },
-      { id: 'E', type: 'text', value: `8 
-21` },
+      { id: 'A', type: 'text', value: `4/21` },
+      { id: 'B', type: 'text', value: `5/21` },
+      { id: 'C', type: 'text', value: `6/21` },
+      { id: 'D', type: 'text', value: `7/21` },
+      { id: 'E', type: 'text', value: `8/21` },
     ],
     correct: 'D',
     explanation: `São 21 dados; a moda é 6h21 e a mediana (11º valor) é 6h22, logo no máximo 10 valores são menores que 6h22. Para maximizar os dias com horário anterior a 6h21 mantendo 6h21 como moda (que deve superar cada outro valor), distribuem-se esses horários entre 6h15 e 6h20; o máximo possível é 7 dias (ex.: 2,2,1,1,1, com 6h21 aparecendo 3 vezes). Probabilidade máxima = 7/21. Resposta: D.`,
@@ -2463,11 +2410,11 @@ de completar a tarefa.
 O formato da peça capaz de completar o cubo 4 × 4 × 4 é`,
     images: ['/enem/2018/images/enem_2018_d2_q159.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2018/images/enem_2018_d2_q159_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2018/images/enem_2018_d2_q159_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2018/images/enem_2018_d2_q159_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2018/images/enem_2018_d2_q159_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2018/images/enem_2018_d2_q159_E.jpg` },
     ],
     correct: 'A',
     explanation: `O cubo 4×4×4 tem 64 cubinhos. A figura mostra a construção parcial, com degraus. Os cubinhos que faltam, encaixados, reproduzem exatamente o sólido do formato A, que completa o cubo. Resposta: A.`,
@@ -2551,11 +2498,11 @@ Para se definir o campeão desse torneio, o número de
 partidas necessárias é dado por`,
     images: ['/enem/2018/images/enem_2018_d2_q162.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `× 2 128` },
-      { id: 'B', type: 'text', value: `+ + + + + 64 32 16 8 4 2` },
-      { id: 'C', type: 'text', value: `+ + + + + + + 128 64 32 16 8 4 2 1` },
-      { id: 'D', type: 'text', value: `+ + + + + + 128 64 32 16 8 4 2` },
-      { id: 'E', type: 'text', value: `+ + + + + + 64 32 16 8 4 2 1` },
+      { id: 'A', type: 'text', value: `2 × 128` },
+      { id: 'B', type: 'text', value: `64 + 32 + 16 + 8 + 4 + 2` },
+      { id: 'C', type: 'text', value: `128 + 64 + 32 + 16 + 8 + 4 + 2 + 1` },
+      { id: 'D', type: 'text', value: `128 + 64 + 32 + 16 + 8 + 4 + 2` },
+      { id: 'E', type: 'text', value: `64 + 32 + 16 + 8 + 4 + 2 + 1` },
     ],
     correct: 'E',
     explanation: `Em eliminatória simples cada partida elimina um competidor; para restar um campeão entre 128, eliminam-se 127, logo são 127 partidas. Por rodadas (PG): 64+32+16+8+4+2+1 = 127. Resposta: E.`,
@@ -2801,27 +2748,15 @@ High Roller no sentido anti-horário, em torno do ponto O .
 Sejam t o ângulo determinado pelo segmento OA em 
 relação à sua posição inicial, e f a função que descreve 
 a altura do ponto A , em relação ao solo, em função de t . 
-Após duas voltas completas, f tem o seguinte gráfico: 
-(metro) 
-f 
-168 
-88 
-π 
-π 
-π 
-0 
-/2 
-2 
-t (radiano) 
-4 
+Após duas voltas completas, f tem o seguinte gráfico:
 A expressão da função altura é dada por`,
     images: ['/enem/2018/images/enem_2018_d2_q170_1.jpg', '/enem/2018/images/enem_2018_d2_q170_2.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `= + f ( t ) 80 sen ( t ) 88` },
-      { id: 'B', type: 'text', value: `= + f ( t ) 80 cos ( t ) 88` },
-      { id: 'C', type: 'text', value: `= + f ( t ) 88 cos ( t ) 168` },
-      { id: 'D', type: 'text', value: `= + f ( t ) 168 sen ( t ) 88 cos ( t )` },
-      { id: 'E', type: 'text', value: `= + f ( t ) 88 sen ( t ) 168 cos ( t )` },
+      { id: 'A', type: 'text', value: `f(t) = 80 sen(t) + 88` },
+      { id: 'B', type: 'text', value: `f(t) = 80 cos(t) + 88` },
+      { id: 'C', type: 'text', value: `f(t) = 88 cos(t) + 168` },
+      { id: 'D', type: 'text', value: `f(t) = 168 sen(t) + 88 cos(t)` },
+      { id: 'E', type: 'text', value: `f(t) = 88 sen(t) + 168 cos(t)` },
     ],
     correct: 'A',
     explanation: `Do gráfico: mínimo 8 e máximo 168, logo amplitude = (168−8)/2 = 80 e eixo = (168+8)/2 = 88. Em t=0 a altura é 88 (OA horizontal) e, girando no sentido anti-horário, cresce como seno. Assim f(t) = 80·sen(t) + 88. Resposta: A.`,
@@ -2881,16 +2816,10 @@ Em uma escola houve um concurso de poesia no qual
 cinco alunos concorreram a um prêmio, sendo julgados 
 por 25 juízes. Para a escolha da poesia vencedora 
 foi utilizado o Método de Borda. Nos quadros, estão 
-apresentados os rankings dos juízes e a frequência de 
-cada 
-5 o 
-Edu 
-Bia 
-Dani 
-Caio 
- 
+apresentados os rankings dos juízes e a frequência de
+cada ranking.
 A poesia vencedora foi a de`,
-    images: ['/enem/2018/images/enem_2018_d2_q172_1.jpg', '/enem/2018/images/enem_2018_d2_q172_2.jpg', '/enem/2018/images/enem_2018_d2_q172_3.jpg'],
+    images: ['/enem/2018/images/enem_2018_d2_q172_1.jpg', '/enem/2018/images/enem_2018_d2_q172_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Edu.` },
       { id: 'B', type: 'text', value: `Dani.` },
@@ -2908,14 +2837,17 @@ A poesia vencedora foi a de`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: `Os guindastes são fundamentais em canteiros de obras, no manejo de materiais pesados como vigas de aco.`,
+    text: `Os guindastes são fundamentais em canteiros de obras, no manejo de materiais pesados como vigas de aço.
+A figura ilustra uma sequência de estágios em que um guindaste iça uma viga de aço que se encontra inicialmente no solo.
+Na figura, o ponto O representa a projeção ortogonal do cabo de aço sobre o plano do chão e este se mantém na vertical durante todo o movimento de içamento da viga, que se inicia no tempo t = 0 (estágio 1) e finaliza no tempo t_f (estágio 3). Uma das extremidades da viga é içada verticalmente a partir do ponto O, enquanto que a outra extremidade desliza sobre o solo em direção ao ponto O. Considere que o cabo de aço utilizado pelo guindaste para içar a viga fique sempre na posição vertical. Na figura, o ponto M representa o ponto médio do segmento que representa a viga.
+O gráfico que descreve a distância do ponto M ao ponto O, em função do tempo, entre t = 0 e t_f, é`,
     images: ['/enem/2018/images/enem_2018_d2_q173.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2018/images/enem_2018_d2_q173_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2018/images/enem_2018_d2_q173_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2018/images/enem_2018_d2_q173_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2018/images/enem_2018_d2_q173_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2018/images/enem_2018_d2_q173_E.jpg` },
     ],
     correct: 'A',
     explanation: `Uma extremidade sobe na vertical sobre O, ponto (0;h); a outra desliza no solo rumo a O, ponto (d;0); o comprimento é constante: h²+d² = (2L)². O ponto médio M=(d/2;h/2) dista de O: OM = ½·√(d²+h²) = ½·(2L) = L, constante no tempo. Logo o gráfico é uma reta horizontal. Resposta: A.`,
@@ -3098,13 +3030,9 @@ quadrado cuja medida do lado, em centímetro, é`,
     alternatives: [
       { id: 'A', type: 'text', value: `14` },
       { id: 'B', type: 'text', value: `12` },
-      { id: 'C', type: 'text', value: `7 2` },
-      { id: 'D', type: 'text', value: `6 
-4 2 
-+` },
-      { id: 'E', type: 'text', value: `6 
-2 2 
-+` },
+      { id: 'C', type: 'text', value: `7√2` },
+      { id: 'D', type: 'text', value: `6 + 4√2` },
+      { id: 'E', type: 'text', value: `6 + 2√2` },
     ],
     correct: 'A',
     explanation: `A menor peça é um triângulo retângulo isósceles de catetos 2 cm. Ao longo de um lado do quadrado, três triângulos se alinham com catetos de 2, 4 e 8 cm (cada um o dobro do anterior). Logo o lado do quadrado mede 2+4+8 = 14 cm. Resposta: A.`,
@@ -3118,18 +3046,16 @@ quadrado cuja medida do lado, em centímetro, é`,
     day: 2,
     text: `Para decorar um cilindro circular reto será usada uma 
 faixa retangular de papel transparente, na qual está 
-desenhada em negrito uma diagonal que forma 30° com a 
-6 cm, e ao 
-borda inferior. O raio da base do cilindro mede π 
-enrolar a faixa obtém-se uma linha em formato de hélice, 
-como na figura. 
-30° 
+desenhada em negrito uma diagonal que forma 30° com a
+borda inferior. O raio da base do cilindro mede 6/π cm, e ao
+enrolar a faixa obtém-se uma linha em formato de hélice,
+como na figura.
 O valor da medida da altura do cilindro, em centímetro, é`,
     images: ['/enem/2018/images/enem_2018_d2_q180.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `36 3` },
-      { id: 'B', type: 'text', value: `24 3` },
-      { id: 'C', type: 'text', value: `4 3` },
+      { id: 'A', type: 'text', value: `36√3` },
+      { id: 'B', type: 'text', value: `24√3` },
+      { id: 'C', type: 'text', value: `4√3` },
       { id: 'D', type: 'text', value: `36` },
       { id: 'E', type: 'text', value: `72` },
     ],
