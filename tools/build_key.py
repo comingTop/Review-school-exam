@@ -18,25 +18,48 @@ def singles(path, lo, hi):
                 k[str(q)] = m.group(2)
     return k
 
-def main():
-    gb1, gb2, out = sys.argv[1], sys.argv[2], sys.argv[3]
-    llo = int(sys.argv[4]) if len(sys.argv) > 4 else 91
-    lhi = int(sys.argv[5]) if len(sys.argv) > 5 else 95
-    d1 = singles(gb1, 1, 90)
-    d2 = {}
+def two_letter_lang(path, llo, lhi):
+    """Parse a GB text where língua rows carry two letters (Inglês, Espanhol)."""
     lang = {"en": {}, "es": {}}
-    lang_re = re.compile(rf"\s*({llo if llo>=10 else '0'+str(llo)}|9[1-5]|1[0-7][0-9]|180)")  # not used; keep simple below
-    for line in open(gb2, encoding="utf8"):
+    singles_all = {}
+    for line in open(path, encoding="utf8"):
         m = re.match(r"\s*(\d{1,3})\s+([A-E])\s+([A-E])\b", line)
         if m and llo <= int(m.group(1)) <= lhi:
             q = m.group(1)
             lang["en"][q] = m.group(2)
             lang["es"][q] = m.group(3)
-            d2[q] = m.group(3)  # default single = espanhol (language override handles en)
+            singles_all[q] = m.group(3)  # default = espanhol
         for mm in re.finditer(r"(\d{1,3})\s+([A-E])\b", line):
-            q = int(mm.group(1))
-            if 96 <= q <= 180:
-                d2[str(q)] = mm.group(2)
+            singles_all[str(int(mm.group(1)))] = mm.group(2)  # may be overwritten by língua default below
+    # ensure língua defaults (espanhol) win for the lang range
+    for q in lang["es"]:
+        singles_all[q] = lang["es"][q]
+    return singles_all, lang
+
+def main():
+    gb1, gb2, out = sys.argv[1], sys.argv[2], sys.argv[3]
+    modern = "--modern" in sys.argv
+    args = [a for a in sys.argv if not a.startswith("--")]
+    if modern:
+        # 2017+: D1 = LC(1-45, língua 1-5) + CH(46-90); D2 = CN(91-135)+MT(136-180), no língua.
+        llo, lhi = (int(args[4]), int(args[5])) if len(args) > 5 else (1, 5)
+        all1, d1lang = two_letter_lang(gb1, llo, lhi)
+        d1 = {k: v for k, v in all1.items() if 1 <= int(k) <= 90}
+        d2 = singles(gb2, 91, 180)
+        key = {"_source": f"INEP Azul MODERN (2017+); d1 LC+CH ids 1-90 (língua {llo}-{lhi}), d2 CN+MT 91-180.",
+               "d1": d1, "d2": d2, "d1_lang": d1lang}
+        miss1 = [q for q in range(1, 91) if str(q) not in d1]
+        miss2 = [q for q in range(91, 181) if str(q) not in d2]
+        json.dump(key, open(out, "w"), ensure_ascii=False, indent=1)
+        print(f"MODERN d1={len(d1)} d2={len(d2)} d1_lang_en={len(d1lang['en'])} es={len(d1lang['es'])}")
+        if miss1: print("MISSING d1:", miss1)
+        if miss2: print("MISSING d2:", miss2)
+        return
+    llo = int(args[4]) if len(args) > 4 else 91
+    lhi = int(args[5]) if len(args) > 5 else 95
+    d1 = singles(gb1, 1, 90)
+    all2, lang = two_letter_lang(gb2, llo, lhi)
+    d2 = {k: v for k, v in all2.items() if 91 <= int(k) <= 180}
     missing1 = [q for q in range(1, 91) if str(q) not in d1]
     missing2 = [q for q in range(91, 181) if str(q) not in d2]
     key = {
