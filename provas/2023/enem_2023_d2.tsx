@@ -407,7 +407,6 @@ tronco. Aqueles que têm parte da casca retirada sem
 completar essa circunferência podem sobreviver. 
 A morte desses indivíduos, decorrente da retirada do anel 
 completo da casca, é provocada pela interrupção da`,
-    images: ['/enem/2023/images/enem_2023_d2_q105.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `fotossíntese.` },
       { id: 'B', type: 'text', value: `transpiração.` },
@@ -532,18 +531,12 @@ F
 F 
 M 1 
 M 2 
-Para essa academia, qual deve ser a razão M 
- informada 
-aos usuários? 
-2 
-M 
-1`,
+Para essa academia, qual deve ser a razão M₂/M₁ informada
+aos usuários?`,
     images: ['/enem/2023/images/enem_2023_d2_q109.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `1 
-4` },
-      { id: 'B', type: 'text', value: `1 
-2` },
+      { id: 'A', type: 'text', value: `1/4` },
+      { id: 'B', type: 'text', value: `1/2` },
       { id: 'C', type: 'text', value: `1` },
       { id: 'D', type: 'text', value: `2` },
       { id: 'E', type: 'text', value: `4` },
@@ -590,11 +583,11 @@ Massa de Hg₂ Cl₂ (g)
 1,4`,
     images: ['/enem/2023/images/enem_2023_d2_q110.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2023/images/enem_2023_d2_q110_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2023/images/enem_2023_d2_q110_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2023/images/enem_2023_d2_q110_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2023/images/enem_2023_d2_q110_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2023/images/enem_2023_d2_q110_E.jpg` },
     ],
     correct: 'B',
     explanation: `A quantidade de nitrato de mercúrio(I) por frasco é n = 5,25 g ÷ 525 g/mol = 0,01 mol. Pela estequiometria, cada mol reage com 2 mol de NaCl, logo são necessários 0,02 mol de NaCl = 0,02 × 58 = 1,16 g para precipitar todo o mercúrio, formando 0,01 mol de Hg₂Cl₂ = 0,01 × 472 = 4,72 g. Assim, a massa de Hg₂Cl₂ cresce linearmente com o NaCl adicionado até 1,16 g e, a partir daí, permanece constante em cerca de 4,72 g (reagente limitante esgotado). O gráfico que mostra crescimento linear seguido de patamar é o B (alternativa B).`,
@@ -606,9 +599,9 @@ Massa de Hg₂ Cl₂ (g)
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Na tirinha de Maurício de Sousa, os personagens Cebolinha e Cascao fazem uma brincadeira utilizando duas latas 
+    text: `Na tirinha de Maurício de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas 
 e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do 
-barbante para ficar cada vez mais extenso. As demais condicoes permaneceram inalteradas durante a brincadeira. 
+barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira. 
 Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?`,
     images: null,
     alternatives: [
@@ -854,11 +847,8 @@ www.ibam.org.br. Acesso em: 6 jul. 2015 (adaptado).
 Suponha um frasco metálico de um aerossol de 
 capacidade igual a 100 mL, contendo 0,1 mol de produtos 
 gasosos à temperatura de 650 °C, no momento da explosão. 
-Considere: R = 0,082 L atm 
-⋅ 
-⋅ 
-mol K 
-A pressão, em atm, dentro do frasco, no momento da 
+Considere: R = 0,082 atm·L/(mol·K).
+A pressão, em atm, dentro do frasco, no momento da
 explosão, é mais próxima de`,
     alternatives: [
       { id: 'A', type: 'text', value: `756.` },
@@ -896,7 +886,7 @@ R
 Em relação à situação em que todas as lâmpadas 
 funcionam, após a queima de L 2 , os brilhos das 
 lâmpadas serão`,
-    images: null,
+    images: ['/enem/2023/images/enem_2023_d2_q120.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `os mesmos.` },
       { id: 'B', type: 'text', value: `mais intensos.` },
@@ -971,7 +961,6 @@ para vapor de água a 120 °C  e uma saída para água líquida em equilíbrio 
 oca do tacho, o vapor de água transforma-se em líquido, liberando energia. A parede transfere essa energia para o 
 interior do tacho, resultando na evaporação de água e consequente concentração do produto. 
 No processo de concentração do produto, é utilizada energia proveniente`,
-    images: ['/enem/2023/images/enem_2023_d2_q122.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `somente do calor latente de vaporização.` },
       { id: 'B', type: 'text', value: `somente do calor latente de condensação.` },
@@ -989,9 +978,9 @@ No processo de concentração do produto, é utilizada energia proveniente`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: `Entre os medicamentos mais comuns consumidos para o alivio da dor esta o ibuprofeno, um composto quiral 
+    text: `Entre os medicamentos mais comuns consumidos para o alívio da dor está o ibuprofeno, um composto quiral 
 com ação anti-inflamatória e efeito analgésico, que é comercializado como fármaco opticamente puro, ou seja, sem 
-a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno e: 
+a mistura com outro isômero óptico. A fórmula estrutural plana do ibuprofeno é: 
 Ibuprofeno 
 Além do ibuprofeno, destacam-se também os princípios ativos a seguir, presentes em outros medicamentos para 
 o alívio da dor: 
@@ -1310,13 +1299,12 @@ Durante o processo de resfriamento, os valores de pressão em relação à tempe
 pelo gráfico: 
 P (Pa) 
 P 0`,
-    images: ['/enem/2023/images/enem_2023_d2_q132_A.jpg', '/enem/2023/images/enem_2023_d2_q132_B.jpg', '/enem/2023/images/enem_2023_d2_q132_C.jpg', '/enem/2023/images/enem_2023_d2_q132_D.jpg', '/enem/2023/images/enem_2023_d2_q132_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2023/images/enem_2023_d2_q132_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2023/images/enem_2023_d2_q132_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2023/images/enem_2023_d2_q132_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2023/images/enem_2023_d2_q132_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2023/images/enem_2023_d2_q132_E.jpg` },
     ],
     correct: 'E',
     explanation: `O resfriamento ocorre a volume constante e com quantidade de ar fixa, de modo que vale a lei de Gay-Lussac: P/T = constante, ou seja, a pressão é diretamente proporcional à temperatura absoluta (em kelvin). O gráfico P × T é, portanto, uma reta que passa pela origem, e durante o resfriamento tanto P quanto T diminuem, de P₀ e T₀ para valores menores. O gráfico que mostra essa reta crescente passando pela origem, com o ponto deslocando-se para baixo, é o E (alternativa E).`,
@@ -1408,7 +1396,7 @@ chega 1,1 s após a emissão do pulso.
 Emissor e detector de pulsos 
 Rocha 
 450 m 
-Liquido 
+Líquido 
 Rocha 
 A velocidade do som na camada líquida, em metro por 
 segundo, é`,
@@ -1474,7 +1462,7 @@ funcionários por setor e seus respectivos salários.
  
 A média dos salários dos 100 funcionários dessa 
 empresa, em real, é`,
-    images: ['/enem/2023/images/enem_2023_d2_q137_1.jpg', '/enem/2023/images/enem_2023_d2_q137_2.jpg'],
+    images: ['/enem/2023/images/enem_2023_d2_q137_1.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `2 000,00.` },
       { id: 'B', type: 'text', value: `2 500,00.` },
@@ -1639,7 +1627,7 @@ desse vilarejo consome, em média, 200 litros de água por dia.
 No mês de junho de um determinado ano, o vilarejo festejou o dia do seu padroeiro e houve um gasto extra de água 
 nos primeiros 20 dias. Passado esse período, as pessoas verificaram a quantidade de água presente no reservatório 
 e constataram que o nível da coluna de água estava em 1,5 metro. Decidiram, então, fazer um racionamento de água 
-durante os 10 dias seguintes. Considere 3 como aproximação para p . 
+durante os 10 dias seguintes. Considere 3 como aproximação para π. 
 Qual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo 
 que o reservatório não fique sem água nos próximos 10 dias?`,
     alternatives: [
@@ -1864,11 +1852,10 @@ Qual será a medida, em metro, de cada um dos cabos a
 serem instalados?`,
     images: ['/enem/2023/images/enem_2023_d2_q148.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `22 3 
-3` },
-      { id: 'B', type: 'text', value: `11 2` },
-      { id: 'C', type: 'text', value: `12 2` },
-      { id: 'D', type: 'text', value: `12 3` },
+      { id: 'A', type: 'text', value: `22√3/3` },
+      { id: 'B', type: 'text', value: `11√2` },
+      { id: 'C', type: 'text', value: `12√2` },
+      { id: 'D', type: 'text', value: `12√3` },
       { id: 'E', type: 'text', value: `22` },
     ],
     correct: 'C',
@@ -1935,10 +1922,8 @@ da quantidade q de álcool, a concentração C dessa
 substância no sangue é expressa algebricamente por`,
     alternatives: [
       { id: 'A', type: 'text', value: `C = 0,9 q` },
-      { id: 'B', type: 'text', value: `C = 0,1 q 
-C 
-C` },
-      { id: 'C', type: 'text', value: `= 1 − 0,1 q` },
+      { id: 'B', type: 'text', value: `C = 0,1 q` },
+      { id: 'C', type: 'text', value: `C = 1 − 0,1 q` },
       { id: 'D', type: 'text', value: `C = 1 − 0,9 q` },
       { id: 'E', type: 'text', value: `C = q − 10` },
     ],
@@ -1987,9 +1972,8 @@ lesões auditivas. Por isso, em uma indústria, são adotadas
 medidas preventivas de acordo com a máquina que o 
 funcionário opera e o nível N de intensidade do som, 
 medido em decibel (dB), a que o operário é exposto, 
-sendo N = log 10 I  10 − log 10 I 10 
-0 , I a intensidade do som e 
-I 0 = 10 − 12 W/m² . 
+sendo N = 10·log₁₀(I/I₀), I a intensidade do som e 
+I₀ = 10⁻¹² W/m² . 
 Disponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado). 
 Quando o som é considerado baixo, ou seja, 
 N = 48 dB ou menos, deve ser utilizada a medida 
@@ -2002,10 +1986,10 @@ preventiva a ser usada é a III. Se N estiver no intervalo
 utilizada a medida preventiva IV. E se o som é considerado 
 muito alto, com N maior que 115 dB, deve-se utilizar a 
 medida preventiva V. 
-Uma nova máquina, com I = 8 × 10 − 8 W/m² , foi adquirida 
+Uma nova máquina, com I = 8×10⁻⁸ W/m² , foi adquirida 
 e será classificada de acordo com o nível de ruído 
 que produz. 
-Considere 0,3 como aproximação para log 10 2. 
+Considere 0,3 como aproximação para log₁₀ 2. 
 O funcionário que operará a nova máquina deverá adotar 
 a medida preventiva`,
     alternatives: [
@@ -2271,7 +2255,7 @@ permitido o uso somente dos seguintes caracteres:
 • algarismos de 0 a 9; 
 • 26 letras minúsculas do alfabeto; 
 • 26 letras maiúsculas do alfabeto; 
-• 6 caracteres especiais !, @, #, $, , &. 
+• 6 caracteres especiais !, @, #, $, %, &. 
 Três tipos de estruturas para senha foram apresentadas 
 ao usuário: 
 • tipo I: formada por quaisquer quatro caracteres 
@@ -2393,11 +2377,11 @@ durante a patrulha registrada no gráfico é descrita pela
 representação`,
     images: ['/enem/2023/images/enem_2023_d2_q163.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2023/images/enem_2023_d2_q163_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2023/images/enem_2023_d2_q163_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2023/images/enem_2023_d2_q163_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2023/images/enem_2023_d2_q163_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2023/images/enem_2023_d2_q163_E.jpg` },
     ],
     correct: 'A',
     explanation: `De 0 a 10 min a distância cresce de 0 a 3 km linearmente (afastando-se em linha reta a velocidade constante). De 10 a 20 min permanece em 3 km → o vigilante percorre um arco de circunferência de raio 3 km centrado na base. De 20 a 30 min a distância volta a 0 → trecho reto de retorno. Como cada etapa dura 10 min a velocidade constante, o arco tem comprimento igual ao de cada trecho reto (não maior). A vista superior com dois segmentos retos e um arco intermediário compatível é a representação A. Resposta: A.`,
@@ -2452,8 +2436,7 @@ A área a ser revestida em cerâmica, em metro quadrado, mede`,
       { id: 'B', type: 'text', value: `1,35.` },
       { id: 'C', type: 'text', value: `1,65.` },
       { id: 'D', type: 'text', value: `1,80.` },
-      { id: 'E', type: 'text', value: `1,95. 
-Época , 26 abr. 2010 (adaptado).` },
+      { id: 'E', type: 'text', value: `1,95.` },
     ],
     correct: 'E',
     explanation: `Pisos: 3·(0,25·1)=0,75 m². Espelhos: 3·(0,20·1)=0,60 m². Cada parede lateral é um polígono em degraus decomposto em retângulos de largura 0,25 e alturas 0,6; 0,4; 0,2: área=0,25·(0,6+0,4+0,2)=0,25·1,2=0,30 m²; as duas laterais somam 0,60 m². Total=0,75+0,60+0,60=1,95 m². Resposta: E.`,
@@ -2761,14 +2744,7 @@ Qual o preço, em real, de uma cartela de tíquetes vermelhos?`,
       { id: 'B', type: 'text', value: `6,30` },
       { id: 'C', type: 'text', value: `9,30` },
       { id: 'D', type: 'text', value: `10,50` },
-      { id: 'E', type: 'text', value: `10,65 
-Escada 
-N 
-L 
-O 
-S 
-Poltrona 
-Posições` },
+      { id: 'E', type: 'text', value: `10,65` },
     ],
     correct: 'B',
     explanation: `Sejam a o preço de um tíquete azul e v o do vermelho. 18a+9v=32,40 e a−v=v+0,05 → a=2v+0,05. Substituindo: 18(2v+0,05)+9v=32,40 → 36v+0,9+9v=32,40 → 45v=31,5 → v=0,70. A cartela vermelha=9v=9·0,70=6,30. Resposta: B.`,
@@ -2827,11 +2803,11 @@ relação ao solo
 Altura em`,
     images: ['/enem/2023/images/enem_2023_d2_q177.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2023/images/enem_2023_d2_q177_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2023/images/enem_2023_d2_q177_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2023/images/enem_2023_d2_q177_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2023/images/enem_2023_d2_q177_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2023/images/enem_2023_d2_q177_E.jpg` },
     ],
     correct: 'A',
     explanation: `A partir do ponto mais alto, a altura varia periodicamente (movimento circular uniforme), descrevendo uma função cossenoidal: começa no máximo, decresce até o mínimo e volta ao máximo, repetindo-se. Isso corresponde ao gráfico A. Resposta: A.`,
@@ -2859,13 +2835,12 @@ acumulado, em litro, liberado por essa torneira durante um
 ciclo de lavagem das mãos, em função do tempo ( t ), em 
 segundo, é 
 Volume de água (L)`,
-    images: ['/enem/2023/images/enem_2023_d2_q178_A.jpg', '/enem/2023/images/enem_2023_d2_q178_B.jpg', '/enem/2023/images/enem_2023_d2_q178_C.jpg', '/enem/2023/images/enem_2023_d2_q178_D.jpg', '/enem/2023/images/enem_2023_d2_q178_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2023/images/enem_2023_d2_q178_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2023/images/enem_2023_d2_q178_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2023/images/enem_2023_d2_q178_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2023/images/enem_2023_d2_q178_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2023/images/enem_2023_d2_q178_E.jpg` },
     ],
     correct: 'B',
     explanation: `O volume acumulado cresce linearmente enquanto há água (0 a 3 s), fica constante enquanto a torneira está fechada (3 a 8 s) e volta a crescer linearmente, com a mesma inclinação, de 8 a 11 s. O volume nunca diminui e parte do patamar já acumulado após a pausa — comportamento do gráfico B. Resposta: B.`,
