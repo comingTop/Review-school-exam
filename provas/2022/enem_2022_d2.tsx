@@ -116,7 +116,7 @@ Reação enérgica,
 explosão, 
 produção de 
 oxidante forte e 
-produto toxico 
+produto tóxico 
 Ácidos 
 minerais 
 fortes 
@@ -163,23 +163,23 @@ respectivamente, em`,
     year: 2022,
     day: 2,
     text: `O físico Hans C. Oersted observou que um fio transportando corrente elétrica produz um campo magnético. A presença 
-do campo magnético foi verificada ao aproximar uma bussola de um fio conduzindo corrente elétrica. 
+do campo magnético foi verificada ao aproximar uma bússola de um fio conduzindo corrente elétrica. 
 A figura ilustra um fio percorrido por uma corrente elétrica i , constante e com sentido para cima. Os pontos A , B e C 
-estão num plano transversal e equidistantes do fio. Em cada ponto foi colocada uma bussola. 
+estão num plano transversal e equidistantes do fio. Em cada ponto foi colocada uma bússola. 
 i 
 A 
 B 
 C 
-Considerando apenas o campo magnético por causa da corrente i , as respectivas configurações das bussolas nos 
+Considerando apenas o campo magnético por causa da corrente i , as respectivas configurações das bússolas nos 
 pontos A , B e C serão 
 i`,
     images: ['/enem/2022/images/enem_2022_d2_q95.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2022/images/enem_2022_d2_q95_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2022/images/enem_2022_d2_q95_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2022/images/enem_2022_d2_q95_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2022/images/enem_2022_d2_q95_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2022/images/enem_2022_d2_q95_E.jpg` },
     ],
     correct: 'D',
     explanation: `Pela regra da mão direita, uma corrente que sobe pelo fio gera linhas de campo magnético circulares e concêntricas em torno do condutor, contidas no plano transversal. Em cada ponto a agulha da bússola se alinha tangente a essa circunferência, de modo que o campo tem sentidos opostos de lados opostos do fio. Como A, B e C estão em posições diferentes ao redor do fio (e equidistantes), suas agulhas apontam em direções distintas, girando conforme a tangente ao círculo de campo em cada local. A configuração que representa corretamente essas orientações tangenciais e invertidas é a da alternativa D.`,
@@ -191,7 +191,7 @@ i`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `O quadro mostra valores um 
+    text: `O quadro mostra valores de corrente elétrica e seus efeitos sobre o corpo humano. A corrente elétrica que percorrerá o corpo de um 
 indivíduo depende da tensão aplicada e da resistência 
 elétrica média do corpo humano. Esse último fator está 
 intimamente relacionado com a umidade da pele, que 
@@ -217,11 +217,11 @@ B
 +`,
     images: ['/enem/2022/images/enem_2022_d2_q96.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2022/images/enem_2022_d2_q96_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2022/images/enem_2022_d2_q96_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2022/images/enem_2022_d2_q96_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2022/images/enem_2022_d2_q96_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2022/images/enem_2022_d2_q96_E.jpg` },
     ],
     correct: 'A',
     explanation: `Com a pele molhada a resistência do corpo cai para cerca de 1 kΩ, e o acidente exige uma tensão suficiente para produzir corrente perigosa. Duas baterias de 12 V associadas em série fornecem 24 V entre os pontos A e B, resultando em corrente I = U/R = 24 / 1000 = 0,024 A = 24 mA, valor capaz de provocar parada respiratória. Já uma associação em paralelo manteria apenas 12 V (12 mA), insuficiente para o efeito descrito. Portanto o acidente só se explica pela associação em série que dobra a tensão. A resposta é a alternativa A.`,
@@ -441,12 +441,11 @@ Mantendo-se a força F paralela à muleta, varia-se lentamente o ângulo entre a
 O esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:`,
     images: ['/enem/2022/images/enem_2022_d2_q103.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
-    
+      { id: 'A', type: 'image', value: `/enem/2022/images/enem_2022_d2_q103_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2022/images/enem_2022_d2_q103_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2022/images/enem_2022_d2_q103_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2022/images/enem_2022_d2_q103_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2022/images/enem_2022_d2_q103_E.jpg` },
     ],
     correct: 'E',
     explanation: `No ângulo crítico atuam sobre a muleta quatro forças: a força F aplicada paralela ao eixo da muleta, o peso P vertical para baixo no centro de massa, a normal N e o atrito estático fₑ, ambos no ponto de contato com o piso. A normal é sempre perpendicular à superfície do chão, portanto vertical e para cima, e o atrito estático é horizontal, no sentido que se opõe ao escorregamento iminente do apoio. O diagrama correto mostra P aplicado no CM, N vertical para cima e fₑ horizontal, ambos no ponto de apoio, com F ao longo da muleta. Essa representação consistente das direções e dos pontos de aplicação corresponde à alternativa E.`,
@@ -556,7 +555,7 @@ predominantemente encontrada na urina?`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `A biomassa celulósica pode ser utilizada para a produção de etanol de segunda geração. Entretanto, e necessário 
+    text: `A biomassa celulósica pode ser utilizada para a produção de etanol de segunda geração. Entretanto, é necessário 
 que os polissacarídeos sejam convertidos em mono e dissacarídeos, processo que pode ser conduzido em meio 
 ácido, conforme mostra o esquema: 
 H 
@@ -668,7 +667,7 @@ massa de 12 microgramas do isótopo 131 I foi monitorado
 por 14 dias, conforme o quadro. 
  
 Após o período de 40 dias, a massa residual desse 
-isotopo é mais próxima de`,
+isótopo é mais próxima de`,
     images: ['/enem/2022/images/enem_2022_d2_q109.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `2,4 µg.` },
@@ -736,18 +735,18 @@ de gametas femininos.` },
 em relação ao plano de sua órbita em torno do Sol, 
 interferindo na duração do dia e da noite ao longo do ano. 
 Polo Norte 
-Tropico de 
+Trópico de 
 Câncer 
-Circulo Polar 
+Círculo Polar 
 Ártico 
 Equador 
 DIA 
 NOITE 
 Incidência direta 
 ao meio-dia 
-Tropico de 
+Trópico de 
 Capricórnio 
-Circulo Polar 
+Círculo Polar 
 Antártico 
 Polo Sul 
 Terra em 21 de dezembro 
@@ -762,7 +761,7 @@ Dia
 10/04 
 10/07 
 10/10 
-Disponível em: www.física.ufpr.br. Acesso em: 27 maio 2022 (adaptado). 
+Disponível em: www.fisica.ufpr.br. Acesso em: 27 maio 2022 (adaptado). 
 Próximo a que região se situa a residência onde as placas 
 foram instaladas?`,
     images: ['/enem/2022/images/enem_2022_d2_q111_1.jpg', '/enem/2022/images/enem_2022_d2_q111_2.jpg'],
@@ -1009,7 +1008,7 @@ cujas concentrações estão representadas na figura?`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em serie. Quando 
+    text: `Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em série. Quando 
 posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 W e 4,5 V. Cada pilha na 
 posição correta gera uma f.e.m. (força eletromotriz) de 1,5 V. Uma pessoa, ao trocar as pilhas da lanterna, comete o 
 equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato independentemente da 
@@ -1333,12 +1332,9 @@ Em um solo de menor pH, será favorecida a formação de:`,
     alternatives: [
       { id: 'A', type: 'text', value: `N₂` },
       { id: 'B', type: 'text', value: `NH₃` },
-      { id: 'C', type: 'text', value: `NH₄ 
-+` },
-      { id: 'D', type: 'text', value: `NO₂ 
-−` },
-      { id: 'E', type: 'text', value: `NO₃ 
-−` },
+      { id: 'C', type: 'text', value: `NH₄⁺` },
+      { id: 'D', type: 'text', value: `NO₂⁻` },
+      { id: 'E', type: 'text', value: `NO₃⁻` },
     ],
     correct: 'C',
     explanation: `A chuva ácida diminui o pH do solo, aumentando a disponibilidade de íons H⁺. No equilíbrio entre amônia e amônio, a amônia (NH₃) é uma base que capta prótons: NH₃ + H⁺ ⇌ NH₄⁺. Com mais H⁺ disponível (meio mais ácido), o equilíbrio se desloca no sentido de formar o íon amônio (NH₄⁺). Assim, em solo de menor pH é favorecida a formação de NH₄⁺, correspondente à alternativa C.`,
@@ -1376,7 +1372,7 @@ iluminados.` },
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: `De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de cafe fresco ou de um pao doce de 
+    text: `De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de 
 canela. Associações similares ocorriam no passado da história da química orgânica, quando os compostos ditos “aromáticos” 
 apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram 
 elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural especifica. Os compostos aromáticos 
@@ -1621,16 +1617,11 @@ de qualquer um dos dois times vencer é sempre 1
 Qual é a probabilidade de o time campeão ser aquele que 
 venceu a primeira partida da World Series ?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `35 
-64` },
-      { id: 'B', type: 'text', value: `40 
-64` },
-      { id: 'C', type: 'text', value: `42 
-64` },
-      { id: 'D', type: 'text', value: `44 
-64` },
-      { id: 'E', type: 'text', value: `52 
-64` },
+      { id: 'A', type: 'text', value: `35/64` },
+      { id: 'B', type: 'text', value: `40/64` },
+      { id: 'C', type: 'text', value: `42/64` },
+      { id: 'D', type: 'text', value: `44/64` },
+      { id: 'E', type: 'text', value: `52/64` },
     ],
     correct: 'C',
     explanation: `O time que venceu o 1º jogo precisa de mais 3 vitórias antes que o adversário conquiste 4, nos até 6 jogos restantes. Imaginando os 6 jogos disputados, esse time é campeão se vencer pelo menos 3 deles: P = [C(6,3)+C(6,4)+C(6,5)+C(6,6)]/2⁶ = (20+15+6+1)/64 = 42/64. Resposta: C.`,
@@ -1859,11 +1850,11 @@ A planificação do cubo da Figura 2, conforme o tipo de
 planificação apresentada na Figura 1, é`,
     images: ['/enem/2022/images/enem_2022_d2_q143_1.jpg', '/enem/2022/images/enem_2022_d2_q143_2.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2022/images/enem_2022_d2_q143_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2022/images/enem_2022_d2_q143_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2022/images/enem_2022_d2_q143_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2022/images/enem_2022_d2_q143_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2022/images/enem_2022_d2_q143_E.jpg` },
     ],
     correct: 'D',
     explanation: `As três faces pintadas têm um quarto sombreado e compartilham um mesmo vértice do cubo. Na planificação dada (em escada), apenas a opção D posiciona os três quadradinhos cinza de modo que, ao dobrar, eles se encontrem no vértice comum das três faces adjacentes. Resposta: D.`,
@@ -2050,21 +2041,11 @@ Indique por L E e L F suas respectivas luminosidades.
 A relação entre as luminosidades dessas duas estrelas é 
 dada por`,
     alternatives: [
-      { id: 'A', type: 'text', value: `L 
-L 
-E 
-F 
-= 2` },
-      { id: 'B', type: 'text', value: `L 
-L 
-E 
-F 
-= 4` },
-      { id: 'C', type: 'text', value: `L E = L F` },
-      { id: 'D', type: 'text', value: `L` },
-      { id: 'E', type: 'text', value: `= 4 L F 
-E 
-E L E = 8 L F` },
+      { id: 'A', type: 'text', value: `L_E = L_F/2` },
+      { id: 'B', type: 'text', value: `L_E = L_F/4` },
+      { id: 'C', type: 'text', value: `L_E = L_F` },
+      { id: 'D', type: 'text', value: `L_E = 4·L_F` },
+      { id: 'E', type: 'text', value: `L_E = 8·L_F` },
     ],
     correct: 'D',
     explanation: `Pela lei L = c·R²·T⁴, com R_E = R_F/2 e T_E = 2T_F: L_E = c·(R_F/2)²·(2T_F)⁴ = c·(R_F²/4)·(16T_F⁴) = 4·c·R_F²·T_F⁴ = 4L_F. Resposta: D.`,
@@ -2290,13 +2271,12 @@ da manhã.
 De quantas maneiras diferentes essa pessoa poderá 
 escolher 2 desses apartamentos para compra nas 
 condições desejadas?`,
-    images: ['/enem/2022/images/enem_2022_d2_q155_A.jpg', '/enem/2022/images/enem_2022_d2_q155_B.jpg', '/enem/2022/images/enem_2022_d2_q155_C.jpg', '/enem/2022/images/enem_2022_d2_q155_D.jpg', '/enem/2022/images/enem_2022_d2_q155_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2022/images/enem_2022_d2_q155_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2022/images/enem_2022_d2_q155_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2022/images/enem_2022_d2_q155_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2022/images/enem_2022_d2_q155_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2022/images/enem_2022_d2_q155_E.jpg` },
     ],
     correct: 'B',
     explanation: `Em cada andar, os apartamentos com ao menos um quarto recebendo sol de manhã são os de final 1, 2, 3, 4, 5 ou 6 (os de final 7 e 8 só recebem à tarde): 6 apartamentos. Escolher 2 deles: C(6,2) = 6!/((6−2)!·2!) = 15. Em 9 andares: 9·15 = 135. A expressão é 9·6!/((6−2)!·2!). Resposta: B.`,
@@ -2332,11 +2312,11 @@ Figura 5
 Após desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será`,
     images: ['/enem/2022/images/enem_2022_d2_q156_1.jpg', '/enem/2022/images/enem_2022_d2_q156_2.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2022/images/enem_2022_d2_q156_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2022/images/enem_2022_d2_q156_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2022/images/enem_2022_d2_q156_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2022/images/enem_2022_d2_q156_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2022/images/enem_2022_d2_q156_E.jpg` },
     ],
     correct: 'C',
     explanation: `Dobrando o quadrado duas vezes obtém-se um triângulo (um quarto do quadrado) com O no centro do quadrado. O corte em arco de raio OM/2 centrado em R (com OR = OM/4) remove uma reentrância arredondada. Ao desdobrar, a simetria das duas dobras replica esse recorte, produzindo uma figura de contorno ondulado com quatro reentrâncias. Resposta: C.`,
@@ -2349,11 +2329,11 @@ Após desdobrado o papel que restou na Figura 5, a figura plana que os estudante
     year: 2022,
     day: 2,
     text: `O funcionário de uma loja tem seu salário mensal formado por uma parcela fixa de 675 reais mais uma comissão 
-que depende da quantidade de peças vendidas por ele no mês. O calculo do valor dessa comissão e feito de acordo 
+que depende da quantidade de peças vendidas por ele no mês. O cálculo do valor dessa comissão é feito de acordo 
 com estes critérios: 
-• até a quinquagésima peça vendida, paga-se 5 reais por peca; 
-• a partir da quinquagésima primeira peça vendida, o valor pago e de 7 reais por peca. 
-Represente por q a quantidade de peças vendidas no mês por esse funcionário, e por S ( q ) o seu salario mensal, 
+• até a quinquagésima peça vendida, paga-se 5 reais por peça; 
+• a partir da quinquagésima primeira peça vendida, o valor pago e de 7 reais por peça. 
+Represente por q a quantidade de peças vendidas no mês por esse funcionário, e por S ( q ) o seu salário mensal, 
 em real, nesse mês. 
 A expressão algébrica que descreve S ( q ) em função de q é`,
     alternatives: [
@@ -2406,9 +2386,9 @@ A proposta escolhida foi a`,
     year: 2022,
     day: 2,
     text: `Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos 
-diferentes de treinos: treino T 1 , treino T 2 , treino T 3 , treino T 4 e treino T 5 . A sequencia dos treinamentos deve seguir esta ordem: 
-A letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequencia a 
-partir do treino T 1 e segue a ordem descrita. Após 24 semanas completas de treinamento, se dara o inicio das competições. 
+diferentes de treinos: treino T 1 , treino T 2 , treino T 3 , treino T 4 e treino T 5 . A sequência dos treinamentos deve seguir esta ordem: 
+A letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a 
+partir do treino T 1 e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o início das competições. 
 A sequência de treinamentos que o atleta realizará na 24ª semana de treinos e`,
     images: ['/enem/2022/images/enem_2022_d2_q159.jpg'],
     alternatives: [
@@ -2446,11 +2426,11 @@ visualizada da posição em que se está enxergando esse
 cubo, é`,
     images: ['/enem/2022/images/enem_2022_d2_q160.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2022/images/enem_2022_d2_q160_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2022/images/enem_2022_d2_q160_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2022/images/enem_2022_d2_q160_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2022/images/enem_2022_d2_q160_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2022/images/enem_2022_d2_q160_E.jpg` },
     ],
     correct: 'A',
     explanation: `Projetando ortogonalmente o trajeto do robô sobre o plano da base: os segmentos sobre as faces superior e inferior aparecem em verdadeira grandeza e os das faces laterais caem sobre as arestas da base. O trajeto fechado, visto de cima, corresponde ao desenho da alternativa A. Resposta: A.`,
@@ -2668,7 +2648,7 @@ pagamento feito com o cartão de crédito da loja, é dado
 um desconto de 2% sobre o preço normal. 
 Uma cliente decidiu comprar essa geladeira, optando 
 pelo pagamento com o cartão de crédito da loja. Ela 
-calculou que o valor a ser pago seria o preço promocional 
+cálculou que o valor a ser pago seria o preço promocional 
 acrescido de 8%. Ao ser informada pela loja do valor a 
 pagar, segundo sua opção, percebeu uma diferença entre 
 seu cálculo e o valor que lhe foi apresentado. 
@@ -2682,7 +2662,7 @@ calculado pela cliente, foi`,
       { id: 'E', type: 'text', value: `R$ 80,00 maior.` },
     ],
     correct: 'A',
-    explanation: `Preço normal = 1000·1,10 = 1100. No cartão (2% de desconto sobre o normal): 1100·0,98 = 1078. A cliente calculou 1000·1,08 = 1080. O valor da loja (1078) é R$ 2,00 menor que o calculado (1080). Resposta: A.`,
+    explanation: `Preço normal = 1000·1,10 = 1100. No cartão (2% de desconto sobre o normal): 1100·0,98 = 1078. A cliente cálculou 1000·1,08 = 1080. O valor da loja (1078) é R$ 2,00 menor que o calculado (1080). Resposta: A.`,
     subject: ['mat'],
     topics: ['Porcentagem', 'Questões aleatórias'],
   },
@@ -3139,11 +3119,11 @@ A vista superior da projeção ortogonal sobre o plano α
 dessas duas trajetórias é`,
     images: ['/enem/2022/images/enem_2022_d2_q180.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2022/images/enem_2022_d2_q180_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2022/images/enem_2022_d2_q180_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2022/images/enem_2022_d2_q180_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2022/images/enem_2022_d2_q180_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2022/images/enem_2022_d2_q180_E.jpg` },
     ],
     correct: 'E',
     explanation: `Os meridianos estão em planos verticais (contendo o eixo N–S); projetados ortogonalmente sobre o plano horizontal α, cada arco de meridiano vira um segmento reto (raio) e, como os meridianos 1 e 2 são perpendiculares, geram raios perpendiculares. O arco da Linha do Equador, paralelo a α, projeta-se como arco de circunferência em verdadeira grandeza. A composição das duas trajetórias corresponde à alternativa E. Resposta: E.`,
