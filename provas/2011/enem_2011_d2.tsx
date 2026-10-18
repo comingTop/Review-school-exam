@@ -2246,7 +2246,7 @@ dos quadris e 60 kg de massa corpórea resolveu
 averiguar seu IAC. Para se enquadrar aos níveis de 
 normalidade de gordura corporal, a atitude adequada 
 que essa jovem deve ter diante da nova medida é 
-(Use √3 ൌ1,7݁ඥ1,7ൌ1,3 )`,
+(Use √3 = 1,7 e √1,7 = 1,3 )`,
     images: ['/enem/2011/images/enem_2011_d2_q149.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `reduzir seu excesso de gordura em cerca de 1%.` },
