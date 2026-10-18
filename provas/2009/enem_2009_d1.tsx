@@ -3507,7 +3507,7 @@ pelas fontes renováveis, de maior custo.` },
     year: 2009,
     day: 1,
     text: `No mundo contemporâneo, as reservas energéticas tornam-se estratégicas para muitos países no cenário internacional. Os 
-gráficos apresentados mostram os dez países com as maiores reservas de petróleo e gas natural em reservas 
+gráficos apresentados mostram os dez países com as maiores reservas de petróleo e gás natural em reservas 
 comprovadas até janeiro de 2008. 
 As reservas venezuelanas figuram em ambas as classificações porque`,
     images: ['/enem/2009/images/enem_2009_d1_q83_1.jpg', '/enem/2009/images/enem_2009_d1_q83_2.jpg'],

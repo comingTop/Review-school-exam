@@ -3411,9 +3411,8 @@ Disponível em: http://www.anp.gov.br.
 Acesso em: 15 jul. 2009 (adaptado). 
  
 Considere que as importações e exportações de petróleo 
-de junho a dezembro de 2009 sejam iguais a 5
-7 das 
-importações e exportações, respectivamente, ocorridas de 
+de junho a dezembro de 2009 sejam iguais a 7/5 das
+importações e exportações, respectivamente, ocorridas de
 janeiro a maio de 2009. Nesse caso, supondo que os 
 preços para importação e exportação não sofram 
 alterações, qual seria o valor mais aproximado da 
