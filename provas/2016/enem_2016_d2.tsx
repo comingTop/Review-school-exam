@@ -2196,7 +2196,7 @@ respectivamente, a`,
       { id: 'E', type: 'text', value: `13,5 e 20,5.` },
     ],
     correct: 'B',
-    explanation: `A área da Figura B é a soma de dois triângulos retângulos: um de catetos 15 m e 15 m, área (15·15)/2 = 112,5 m², e outro de catetos 21 m e 3 m, área (21·3)/2 = 31,5 m²; total 144 m². Na Figura A (retângulo), x·(x+7) = 144, ou seja x² + 7x − 144 = 0, cuja raiz positiva é x = (−7 + 25)/2 = 9. Assim a largura é 9,0 m e o comprimento 16,0 m. Resposta: B.`,
+    explanation: `A área da Figura B é a soma de dois triângulos retângulos: um de catetos 15 m e 15 m, área (15·15)/2 = 112,5 m², e outro de catetos 21 m e 3 m, área (21·3)/2 = 31,5 m²; total 144 m². Na Figura A (retângulo), x·(x+7) = 144, ou seja x² + 7x − 144 = 0, cuja raiz positiva é x = (−7 + 25)/2 = 9. Assim a largura é 9,0 m e o comprimento, 16,0 m. O gabarito oficial é a alternativa B, que traz justamente os valores 9,0 e 16,0. Resposta: B.`,
     subject: ['mat'],
     topics: ['Geometria plana', 'Equações e inequações', 'Questões aleatórias'],
   },
@@ -2313,18 +2313,14 @@ Um clube tem um grupo de 10 tenistas, sendo
 que 4 são canhotos e 6 são destros. O técnico do clube 
 deseja realizar uma partida de exibição entre dois desses 
 jogadores, porém, não poderão ser ambos canhotos. 
-Qual o número de possibilidades de escolha dos tenistas 
-para a partida de exibição? 
-10! 
-− 
-4!`,
-    images: ['/enem/2016/images/enem_2016_d2_q147_A.jpg', '/enem/2016/images/enem_2016_d2_q147_B.jpg', '/enem/2016/images/enem_2016_d2_q147_C.jpg', '/enem/2016/images/enem_2016_d2_q147_D.jpg', '/enem/2016/images/enem_2016_d2_q147_E.jpg'],
+Qual o número de possibilidades de escolha dos tenistas
+para a partida de exibição?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2016/images/enem_2016_d2_q147_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2016/images/enem_2016_d2_q147_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2016/images/enem_2016_d2_q147_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2016/images/enem_2016_d2_q147_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2016/images/enem_2016_d2_q147_E.jpg` },
     ],
     correct: 'A',
     explanation: `Deve-se escolher 2 tenistas entre 10 e descontar os casos com os 2 canhotos (entre 4): C(10,2) − C(4,2) = 10!/(2!·8!) − 4!/(2!·2!) = 45 − 6 = 39. Resposta: A.`,
@@ -2565,20 +2561,15 @@ caminhada foi feita escolhendo ao acaso os caminhos
 existentes e que, ao tomar um caminho que chegue a 
 uma área distinta da IV, o adolescente necessariamente 
 passa por ela ou retorna. 
-Nessas condições, a probabilidade de ele chegar à área 
-IV sem passar por outras áreas e sem retornar é igual a 
-1`,
+Nessas condições, a probabilidade de ele chegar à área
+IV sem passar por outras áreas e sem retornar é igual a`,
     images: ['/enem/2016/images/enem_2016_d2_q152.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `96 
-1` },
-      { id: 'B', type: 'text', value: `64 
-5` },
-      { id: 'C', type: 'text', value: `24 
-1` },
-      { id: 'D', type: 'text', value: `4 
-5` },
-      { id: 'E', type: 'text', value: `12` },
+      { id: 'A', type: 'text', value: `1/96` },
+      { id: 'B', type: 'text', value: `1/64` },
+      { id: 'C', type: 'text', value: `5/24` },
+      { id: 'D', type: 'text', value: `1/4` },
+      { id: 'E', type: 'text', value: `5/12` },
     ],
     correct: 'C',
     explanation: `Há dois trajetos até IV sem passar por outra área. Trajeto de cima: na entrada escolhe-se subir (1/2); no vértice superior segue-se ao cruzamento em vez de ir a III (1/2); no cruzamento, com quatro caminhos, escolhe-se IV entre três saídas (1/3): (1/2)(1/2)(1/3) = 1/12. Trajeto de baixo: escolhe-se descer (1/2); segue-se adiante em vez de ir a II (1/2); chega-se ao vértice da direita (sem escolha) e opta-se por IV em vez de III (1/2): (1/2)(1/2)(1/2) = 1/8. Total = 1/12 + 1/8 = 2/24 + 3/24 = 5/24. Resposta: C.`,
@@ -2665,11 +2656,11 @@ um esboço da vista lateral da cadeira fechada.
 Qual é o esboço obtido pelos alunos?`,
     images: ['/enem/2016/images/enem_2016_d2_q155.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2016/images/enem_2016_d2_q155_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2016/images/enem_2016_d2_q155_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2016/images/enem_2016_d2_q155_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2016/images/enem_2016_d2_q155_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2016/images/enem_2016_d2_q155_E.jpg` },
     ],
     correct: 'C',
     explanation: `Dobrada, a cadeira vista de lado mantém o encosto (parte vertical no topo), o apoio de braço e o assento na porção superior; as pernas, que abertas se cruzam em X, ao serem fechadas ficam praticamente paralelas, sem formar X. O esboço sem o X e com o assento acima do vão das pernas é o da alternativa C. Resposta: C.`,
@@ -3469,24 +3460,15 @@ de forma que o trecho de A até B se dê sobre o paralelo
 que passa por A e B e, o trecho de B até C se dê sobre o 
 meridiano que passa por B e C . Considere que o plano a 
 é paralelo à linha do equador na figura. 
-A projeção ortogonal, no plano a , do caminho traçado no 
-globo pode ser representada por 
-C 
-A 
-A 
-B 
-C 
-B 
-A 
-B 
-C`,
+A projeção ortogonal, no plano a , do caminho traçado no
+globo pode ser representada por`,
     images: ['/enem/2016/images/enem_2016_d2_q178.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2016/images/enem_2016_d2_q178_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2016/images/enem_2016_d2_q178_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2016/images/enem_2016_d2_q178_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2016/images/enem_2016_d2_q178_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2016/images/enem_2016_d2_q178_E.jpg` },
     ],
     correct: 'E',
     explanation: `O trecho A→B está sobre um paralelo (circunferência paralela ao plano α), cuja projeção ortogonal é um arco de circunferência. O trecho B→C está sobre um meridiano, contido em um plano que passa pelo eixo (perpendicular a α), cuja projeção é um segmento de reta. Além disso, B e C são pontos distintos. A representação com um arco (A–B) seguido de um segmento de reta (B–C), com B ≠ C, é a da alternativa E. Resposta: E.`,
@@ -3616,7 +3598,7 @@ reproduzidos em laboratório.` },
 Orientações à população são encontradas também em
 sites oficiais. Ao clicar no endereço eletrônico mencionado
 no cartaz disponível na internet, o leitor tem acesso aos(às)`,
-    images: null,
+    images: ['/enem/2016/images/enem_2016_d2_q92.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `ações do governo local referentes a calamidades.` },
       { id: 'B', type: 'text', value: `relatos de sobreviventes em tragédias marcantes.` },

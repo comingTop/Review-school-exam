@@ -519,11 +519,11 @@ A ONU faz referência a uma projeção cartográfica em seu
 logotipo. A figura que ilustra o modelo dessa projeção é:`,
     images: ['/enem/2016/images/enem_2016_d1_q17.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2016/images/enem_2016_d1_q17_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2016/images/enem_2016_d1_q17_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2016/images/enem_2016_d1_q17_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2016/images/enem_2016_d1_q17_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2016/images/enem_2016_d1_q17_E.jpg` },
     ],
     correct: 'A',
     explanation: `O logotipo da ONU representa a Terra vista a partir do Polo Norte, com os continentes dispostos em círculos concêntricos ao redor desse ponto central. Essa representação corresponde ao modelo da projeção azimutal ou plana, em que a superfície do globo é projetada sobre um plano tangente a um polo, por isso a alternativa A, que ilustra o plano tocando a esfera, é a correta. As demais figuras representam projeções distintas: a superfície cônica (B) corresponde à projeção cônica, e as superfícies cilíndricas (C, D e E) correspondem às projeções cilíndricas, que não reproduzem a visão polar centrada do emblema da ONU.`,
@@ -1455,7 +1455,7 @@ porcentagens variadas de oleorresina de Capsicum ,
 cujo princípio ativo é a capsaicina, e um solvente 
 (um álcool como etanol ou isopropanol). Em contato 
 com os olhos, pele ou vias respiratórias, a capsaicina 
-causa um efeito infl amatório que gera uma sensação de 
+causa um efeito inflamatório que gera uma sensação de 
 dor e ardor, levando à cegueira temporária. O processo 
 é desencadeado pela liberação de neuropeptídios das 
 terminações nervosas. 
@@ -1463,13 +1463,13 @@ Como funciona o gás de pimenta . Disponível em: http://pessoas.hsw.uol.com.br.
  Acesso em: 1 mar. 2012 (adaptado). 
 Quando uma pessoa é atingida com o spray de pimenta 
 nos olhos ou na pele, a lavagem da região atingida com 
-água é ineﬁ caz porque a`,
+água é ineficaz porque a`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `reação entre etanol e água libera calor, intensiﬁ cando 
+      { id: 'A', type: 'text', value: `reação entre etanol e água libera calor, intensificando 
 o ardor.` },
       { id: 'B', type: 'text', value: `solubilidade do princípio ativo em água é muito baixa, 
-diﬁ cultando a sua remoção.` },
+dificultando a sua remoção.` },
       { id: 'C', type: 'text', value: `permeabilidade da água na pele é muito alta, não 
 permitindo a remoção do princípio ativo.` },
       { id: 'D', type: 'text', value: `solubilização do óleo em água causa um maior 
@@ -1535,8 +1535,8 @@ Uma inovação desse projeto é possibilitar o(a)`,
       { id: 'A', type: 'text', value: `queima de gás metano.` },
       { id: 'B', type: 'text', value: `armazenamento de gás carbônico.` },
       { id: 'C', type: 'text', value: `decomposição aeróbica das fezes.` },
-      { id: 'D', type: 'text', value: `uso mais eﬁ ciente de combustíveis fósseis.` },
-      { id: 'E', type: 'text', value: `ﬁ xação de carbono em moléculas orgânicas.` },
+      { id: 'D', type: 'text', value: `uso mais eficiente de combustíveis fósseis.` },
+      { id: 'E', type: 'text', value: `fixação de carbono em moléculas orgânicas.` },
     ],
     correct: 'A',
     explanation: `No biodigestor, as fezes dos animais sofrem decomposição anaeróbica realizada por microrganismos, processo que gera biogás, rico em gás metano (CH₄). No Projeto Park Spark, esse metano é captado e aproveitado como combustível nos equipamentos do parque, em vez de ser liberado na atmosfera. A inovação do projeto está justamente em possibilitar a queima desse gás metano, convertendo o resíduo em energia útil. Portanto, a resposta é a alternativa A.`,
@@ -1551,11 +1551,11 @@ Uma inovação desse projeto é possibilitar o(a)`,
     text: `Uma ambulância A em movimento retílineo e uniforme aproxima-se de um observador O , em repouso. A sirene emite um som de frequência constante f A . O desenho ilustra as frentes de onda do som emitido pela ambulância. O observador possui um detector que consegue registrar, no esboço de um gráfico, a frequência da onda sonora detectada em função do tempo f O (t) , antes e depois da passagem da ambulância por ele. Qual esboço gráfico representa a frequência f O (t) detectada pelo observador?`,
     images: ['/enem/2016/images/enem_2016_d1_q49.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2016/images/enem_2016_d1_q49_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2016/images/enem_2016_d1_q49_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2016/images/enem_2016_d1_q49_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2016/images/enem_2016_d1_q49_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2016/images/enem_2016_d1_q49_E.jpg` },
     ],
     correct: 'D',
     explanation: `Como a ambulância se aproxima do observador com velocidade constante, pelo efeito Doppler o observador detecta uma frequência maior que fA e aproximadamente constante durante toda a aproximação. No instante em que a fonte passa pelo observador, a frequência cai bruscamente e, com a fonte se afastando, passa a ser menor que fA e novamente constante. O gráfico que mostra um patamar acima de fA seguido de uma queda até um patamar abaixo de fA é o da alternativa D. Portanto, a resposta é a alternativa D.`,
@@ -1957,15 +1957,11 @@ Ao estabelecer a razão
 obteve?`,
     images: ['/enem/2016/images/enem_2016_d1_q59_1.jpg', '/enem/2016/images/enem_2016_d1_q59_2.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `1 
-4` },
-      { id: 'B', type: 'text', value: `7 
-10` },
-      { id: 'C', type: 'text', value: `27 
-14` },
-      { id: 'D', type: 'text', value: `81 
-4` },
-      { id: 'E', type: 'text', value: `81` },
+      { id: 'A', type: 'text', value: `1` },
+      { id: 'B', type: 'text', value: `4/7` },
+      { id: 'C', type: 'text', value: `10/27` },
+      { id: 'D', type: 'text', value: `14/81` },
+      { id: 'E', type: 'text', value: `4/81` },
     ],
     correct: 'B',
     explanation: `Entre A e B há dois resistores em paralelo, o de 5 kΩ e o de 20 kΩ, cuja associação vale (5 × 20)/(5 + 20) = 4 kΩ; esse conjunto está em paralelo com o caminho A–C–B (10 + 10 = 20 kΩ), dando R_AB = (4 × 20)/(4 + 20) = 10/3 kΩ. Para R_BC, o resistor direto de 10 kΩ fica em paralelo com o caminho B–A–C (4 + 10 = 14 kΩ), resultando R_BC = (10 × 14)/(10 + 14) = 35/6 kΩ. A razão é R_AB/R_BC = (10/3) ÷ (35/6) = 60/105 = 4/7. Portanto, a resposta é a alternativa B.`,
@@ -2077,13 +2073,12 @@ Considerando a situação descrita, qual esboço gráfico
 representa a velocidade do automóvel em relação à 
 distância percorrida até parar totalmente? 
 Velocidade (m/s)`,
-    images: ['/enem/2016/images/enem_2016_d1_q63_A.jpg', '/enem/2016/images/enem_2016_d1_q63_B.jpg', '/enem/2016/images/enem_2016_d1_q63_C.jpg', '/enem/2016/images/enem_2016_d1_q63_D.jpg', '/enem/2016/images/enem_2016_d1_q63_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2016/images/enem_2016_d1_q63_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2016/images/enem_2016_d1_q63_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2016/images/enem_2016_d1_q63_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2016/images/enem_2016_d1_q63_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2016/images/enem_2016_d1_q63_E.jpg` },
     ],
     correct: 'D',
     explanation: `O movimento tem duas fases. Na primeira, correspondente ao tempo de reação, a velocidade é constante enquanto o carro percorre certa distância, o que no gráfico v × d é um trecho horizontal. Na segunda, a frenagem com desaceleração constante obedece à equação de Torricelli v² = v₀² − 2a·d, de modo que v = √(v₀² − 2a·d) decresce de forma curva (não linear) até zero. O gráfico com um patamar horizontal seguido de uma queda curva até parar é o da alternativa D. Portanto, a resposta é a alternativa D.`,
@@ -2749,11 +2744,11 @@ apresentarão a mesma variação de temperatura.` },
     text: `Os tensoativos são compostos capazes de interagir com substancias polares e apolares. A parte iônica dos tensoativos interage com substâncias polares, e a parte lipofílica interage com as apolares. A estrutura orgânica de um tensoativo pode ser representada por: CH₂ C CH₂ CH₂ CH₂ CH₂ CH₂ CH₂ O H₃ C CH₂ CH₂ CH₂ CH₂ CH₂ CH₂ Ao adicionar um tensoativo sobre a água, suas moléculas formam um arranjo ordenado. Esse arranjo é representado esquematicamente por: A Nível da água B Nível da`,
     images: ['/enem/2016/images/enem_2016_d1_q85.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2016/images/enem_2016_d1_q85_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2016/images/enem_2016_d1_q85_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2016/images/enem_2016_d1_q85_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2016/images/enem_2016_d1_q85_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2016/images/enem_2016_d1_q85_E.jpg` },
     ],
     correct: 'C',
     explanation: `No tensoativo, a "cabeça" iônica é polar e interage com a água, enquanto a "cauda" lipofílica é apolar e é repelida por ela. Ao ser adicionado sobre a água, as moléculas se organizam na superfície com as cabeças polares voltadas para o líquido (no nível da água) e as caudas apolares projetadas para fora, em direção ao ar. O esquema que representa as cabeças alinhadas no nível da água e as caudas apontando para fora do líquido é o da alternativa C. Portanto, a resposta é a alternativa C.`,
