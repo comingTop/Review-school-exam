@@ -72,7 +72,6 @@ paisagem cultural.
 Disponível em: www.cultura.gov.br. Acesso em: 7 mar. 2013 (adaptado). 
 O reconhecimento da paisagem em questão como 
 patrimônio mundial deriva da`,
-    images: ['/enem/2013/images/enem_2013_d1_q3.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `presença do corpo artístico local.` },
       { id: 'B', type: 'text', value: `imagem internacional da metrópole.` },
@@ -1913,13 +1912,12 @@ por dia durante seis meses.
 Qual gráfico representa a concentração sanguínea 
 desses hormônios durante o período do experimento? 
 Concentração sanguínea`,
-    images: ['/enem/2013/images/enem_2013_d1_q55_A.jpg', '/enem/2013/images/enem_2013_d1_q55_B.jpg', '/enem/2013/images/enem_2013_d1_q55_C.jpg', '/enem/2013/images/enem_2013_d1_q55_D.jpg', '/enem/2013/images/enem_2013_d1_q55_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2013/images/enem_2013_d1_q55_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2013/images/enem_2013_d1_q55_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2013/images/enem_2013_d1_q55_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2013/images/enem_2013_d1_q55_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2013/images/enem_2013_d1_q55_E.jpg` },
     ],
     correct: 'A',
     explanation: `A mulher ingeriu o anticoncepcional de forma contínua, um comprimido por dia, durante seis meses, mantendo constante a dose diária dos hormônios sintéticos. Com uma administração regular e ininterrupta, as concentrações sanguíneas de estrogênio (E) e progesterona (P) permanecem aproximadamente estáveis ao longo de todo o período. O gráfico correto deve, então, mostrar duas linhas horizontais, indicando concentrações constantes de E e de P. Portanto, a resposta é a alternativa A, que apresenta as concentrações dos dois hormônios constantes no tempo.`,
@@ -2015,13 +2013,12 @@ Para que se consiga atrair um maior número de abelhas
 para uma determinada região, a molécula que deve estar 
 presente em alta concentração no produto a ser utilizado é: 
 O`,
-    images: ['/enem/2013/images/enem_2013_d1_q58_A.jpg', '/enem/2013/images/enem_2013_d1_q58_B.jpg', '/enem/2013/images/enem_2013_d1_q58_C.jpg', '/enem/2013/images/enem_2013_d1_q58_D.jpg', '/enem/2013/images/enem_2013_d1_q58_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2013/images/enem_2013_d1_q58_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2013/images/enem_2013_d1_q58_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2013/images/enem_2013_d1_q58_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2013/images/enem_2013_d1_q58_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2013/images/enem_2013_d1_q58_E.jpg` },
     ],
     correct: 'A',
     explanation: `O citral tem cadeia de oito carbonos, com insaturações nos carbonos 2 e 6 e metilas nos carbonos 3 e 7, terminando em grupo aldeído. O isômero que mais contribui para o odor é o trans (E), referente à dupla ligação próxima ao grupo aldeído, no carbono 2. Na configuração trans dessa dupla 2–3, os grupos de maior prioridade ligados aos carbonos ficam em lados opostos. Entre as estruturas apresentadas, apenas a da alternativa A representa essa configuração trans na dupla do carbono 2, mantendo corretas as metilas e as insaturações. Portanto, a molécula que deve estar em alta concentração é a da alternativa A.`,
@@ -3032,13 +3029,12 @@ A
 Tempo 
 0 
 T`,
-    images: ['/enem/2013/images/enem_2013_d1_q87_A.jpg', '/enem/2013/images/enem_2013_d1_q87_B.jpg', '/enem/2013/images/enem_2013_d1_q87_C.jpg', '/enem/2013/images/enem_2013_d1_q87_D.jpg', '/enem/2013/images/enem_2013_d1_q87_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2013/images/enem_2013_d1_q87_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2013/images/enem_2013_d1_q87_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2013/images/enem_2013_d1_q87_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2013/images/enem_2013_d1_q87_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2013/images/enem_2013_d1_q87_E.jpg` },
     ],
     correct: 'B',
     explanation: `Na primeira fase (queda livre, antes de T_A), o peso supera a resistência do ar; a força resultante começa grande e diminui à medida que a velocidade cresce e a resistência aumenta, tendendo a zero ao atingir a velocidade limite. No instante T_A, a abertura do paraquedas faz a resistência do ar aumentar bruscamente, superando o peso: a força resultante torna-se negativa (apontando para cima), freando o paraquedista. Com a desaceleração, a velocidade cai, a resistência diminui e a força resultante volta a tender a zero, na nova velocidade constante. O gráfico que mostra a resultante positiva decrescendo até quase zero em T_A, seguida de um pico negativo que retorna a zero, é o da alternativa B.`,

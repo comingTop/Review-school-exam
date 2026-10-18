@@ -2354,13 +2354,12 @@ de quadrados com lados medindo uma unidade de comprimento, cada, obtendo uma fig
 Qual destas figuras foi desenhada pelo professor? 
 y 
 9`,
-    images: ['/enem/2013/images/enem_2013_d2_q151_A.jpg', '/enem/2013/images/enem_2013_d2_q151_B.jpg', '/enem/2013/images/enem_2013_d2_q151_C.jpg', '/enem/2013/images/enem_2013_d2_q151_D.jpg', '/enem/2013/images/enem_2013_d2_q151_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2013/images/enem_2013_d2_q151_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2013/images/enem_2013_d2_q151_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2013/images/enem_2013_d2_q151_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2013/images/enem_2013_d2_q151_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2013/images/enem_2013_d2_q151_E.jpg` },
     ],
     correct: 'E',
     explanation: `O conjunto I é a circunferência x² + y² = 9, de raio 3 centrada na origem (eixos de −3 a 3). O conjunto II, y = −x² − 1 com −1 ≤ x ≤ 1, é um arco de parábola com concavidade para baixo, vértice em (0, −1) e extremidades em (±1, −2): a 'boca', abaixo do centro. Os conjuntos III e IV são os quadrados (olhos) de vértices (−2,1),(−1,1),(−1,2),(−2,2) e (1,1),(2,1),(2,2),(1,2), e V é o ponto (0,0), o 'nariz'. A figura que reúne circunferência de raio 3, olhos quadrados no alto, nariz na origem e boca em arco para baixo é a opção E. Resposta: E.`,
