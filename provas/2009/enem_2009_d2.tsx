@@ -1888,13 +1888,10 @@ seguinte.
 Um compasso é uma unidade musical composta por 
 determinada quantidade de notas musicais em que a soma 
 das durações coincide com a fração indicada como fórmula 
-do compasso. Por exemplo, se a fórmula de compasso for 
-2
-1 , poderia ter um compasso ou com duas semínimas ou 
+do compasso. Por exemplo, se a fórmula de compasso for 1/2, poderia ter um compasso ou com duas semínimas ou 
 uma mínima ou quatro colcheias, sendo possível a 
 combinação de diferentes figuras. 
-Um trecho musical de oito compassos, cuja fórmula é 4
-3 , 
+Um trecho musical de oito compassos, cuja fórmula é 3/4, 
 poderia ser preenchido com`,
     images: ['/enem/2009/images/enem_2009_d2_q144.jpg'],
     alternatives: [
@@ -1922,9 +1919,9 @@ cliente, qual é a probabilidade de esse cliente sair da loja
 com exatamente dois aparelhos defeituosos?`,
     images: null,
     alternatives: [
-      { id: 'A', type: 'text', value: `2 × (0,2%)4.` },
-      { id: 'B', type: 'text', value: `4 × (0,2%)2.` },
-      { id: 'C', type: 'text', value: `6 × (0,2%)2 × (99,8%)2.` },
+      { id: 'A', type: 'text', value: `2 × (0,2%)⁴.` },
+      { id: 'B', type: 'text', value: `4 × (0,2%)².` },
+      { id: 'C', type: 'text', value: `6 × (0,2%)² × (99,8%)².` },
       { id: 'D', type: 'text', value: `4 × (0,2%).` },
       { id: 'E', type: 'text', value: `6 × (0,2%) × (99,8%).` },
     ],
@@ -2139,11 +2136,11 @@ Comparando as capacidades do aquífero Guarani e desse
 novo reservatório da SABESP, a capacidade do aquífero 
 Guarani é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `1,5 x 102 vezes a capacidade do reservatório novo.` },
-      { id: 'B', type: 'text', value: `1,5 x 103 vezes a capacidade do reservatório novo.` },
-      { id: 'C', type: 'text', value: `1,5 x 106 vezes a capacidade do reservatório novo.` },
-      { id: 'D', type: 'text', value: `1,5 x 108 vezes a capacidade do reservatório novo.` },
-      { id: 'E', type: 'text', value: `1,5 x 109 vezes a capacidade do reservatório novo.` },
+      { id: 'A', type: 'text', value: `1,5 × 10² vezes a capacidade do reservatório novo.` },
+      { id: 'B', type: 'text', value: `1,5 × 10³ vezes a capacidade do reservatório novo.` },
+      { id: 'C', type: 'text', value: `1,5 × 10⁶ vezes a capacidade do reservatório novo.` },
+      { id: 'D', type: 'text', value: `1,5 × 10⁸ vezes a capacidade do reservatório novo.` },
+      { id: 'E', type: 'text', value: `1,5 × 10⁹ vezes a capacidade do reservatório novo.` },
     ],
     correct: 'E',
     explanation: `O aquífero armazena 30 mil km³ = 30 000 km³ de água. Como 1 km³ = 10¹² litros, isso equivale a 30 000 × 10¹² = 3 × 10¹⁶ litros. O reservatório novo tem 20 milhões = 2 × 10⁷ litros. A razão é (3 × 10¹⁶)/(2 × 10⁷) = 1,5 × 10⁹. Resposta: E.`,
@@ -2621,7 +2618,9 @@ igual a`,
     exam: 'enem',
     year: 2009,
     day: 2,
-    text: `A vazão do rio Tietê, em São Paulo, constitui preocupação constante nos períodos chuvosos. Em alguns trechos, são construídas canaletas para controlar o fluxo de água. Uma dessas canaletas, cujo corte vertical determina a forma de um trapézio isósceles, tem as medidas especificadas na figura I. Neste caso, a vazão da 3 3 água é de 1.050 m /s. O cálculo da vazão, Q em m /s, envolve o produto da área A do setor transversal (por onde 2 passa a água), em m , pela velocidade da água no local, v, em m/s, ou seja, Q = Av. Planeja-se uma reforma na canaleta, com as dimensões especificadas na figura II, para evitar a ocorrência de enchentes. Disponível em: www2.uel.br. Na suposição de que a velocidade da água não se alterará, qual a vazão esperada para depois da reforma na canaleta?`,
+    text: `A vazão do rio Tietê, em São Paulo, constitui preocupação constante nos períodos chuvosos. Em alguns trechos, são construídas canaletas para controlar o fluxo de água. Uma dessas canaletas, cujo corte vertical determina a forma de um trapézio isósceles, tem as medidas especificadas na figura I. Neste caso, a vazão da água é de 1.050 m³/s. O cálculo da vazão, Q em m³/s, envolve o produto da área A do setor transversal (por onde passa a água), em m², pela velocidade da água no local, v, em m/s, ou seja, Q = Av. Planeja-se uma reforma na canaleta, com as dimensões especificadas na figura II, para evitar a ocorrência de enchentes.
+Disponível em: www2.uel.br.
+Na suposição de que a velocidade da água não se alterará, qual a vazão esperada para depois da reforma na canaleta?`,
     images: ['/enem/2009/images/enem_2009_d2_q169.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `90 m³/s.` },

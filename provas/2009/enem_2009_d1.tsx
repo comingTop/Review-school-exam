@@ -1011,7 +1011,7 @@ intervalo de tempo. Todo o calor liberado pelo resistor é
 transferido à água. 
  
 Considerando que o calor específico da água é 
-igual a 4,19 J g-1 °C-1, aproximadamente qual a quantidade 
+igual a 4,19 J g⁻¹ °C⁻¹, aproximadamente qual a quantidade 
 de gasolina consumida para o aquecimento de água obtido 
 pelo gerador, quando comparado ao obtido a partir da 
 combustão?`,
@@ -1285,7 +1285,7 @@ a 5 ºC e os revende.
  
 Com relação à situação hipotética descrita no texto e dado 
 que o coeficiente de dilatação volumétrica do álcool é de 
-1×10-3 ºC-1, desprezando-se o custo da energia gasta no 
+1×10⁻³ ºC⁻¹, desprezando-se o custo da energia gasta no 
 aquecimento do combustível, o ganho financeiro que o 
 dono do posto teria obtido devido ao aquecimento do 
 álcool após uma semana de vendas estaria entre`,
