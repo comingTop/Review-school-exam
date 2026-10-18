@@ -20,9 +20,9 @@ O texto, que aborda questões referentes ao tema do culto à celebridade, tem o 
     
     ],
     correct: 'C',
-    explanation: ``,
+    explanation: `Resposta correta: C. O autor afirma que a própria sociedade é responsável pelo culto à celebridade, pois teria perdido a capacidade de pensar por si mesma e preferiria que lhe dissessem o que pensar a questionar o que ouve. Ao concluir que existe uma "demanda" por celebridades, o texto convida o leitor/fã a refletir e a retomar o pensamento crítico. Não há enaltecimento dos méritos das celebridades (A) nem valorização de seu marketing pessoal (E); ao contrário, o culto é tratado como mero esquema de marketing. O texto também não critica o consumismo das próprias celebridades (B) e as isenta de culpa pela obsessão, atribuindo a responsabilidade à sociedade, não a elas (D).`,
     subject: ['ing'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 2,
@@ -58,9 +58,9 @@ Ao descrever o processo de formação da Inglaterra, o autor do poema recorre a 
     
     ],
     correct: 'A',
-    explanation: ``,
+    explanation: `Resposta correta: A. O poema descreve a formação do povo britânico como se fosse uma receita culinária, listando "ingredientes" — diversos povos e etnias — que se misturam e "fervem" juntos. Esse recurso ao gênero receita destaca que a Inglaterra resulta de uma rica combinação de culturas, todas igualmente importantes, como diz a nota final. A ênfase recai sobre a diversidade cultural, e não sobre uma herança meramente geográfica (B) ou um impacto histórico isolado (C). O texto valoriza a união e o respeito, não denuncia estratificação social (D) e, embora cite línguas florescendo juntas, não aborda intolerância linguística (E).`,
     subject: ['ing'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 3,
@@ -81,9 +81,9 @@ A crítica do livro de memórias de Michelle Obama, ex-primeira-dama dos EUA, ab
     
     ],
     correct: 'A',
-    explanation: ``,
+    explanation: `Resposta correta: A. O trecho relembra que, na terra natal de Michelle Obama, mulheres negras eram tratadas com desprezo e destinadas à roça ou à cozinha, não sendo consideradas "ladies". Nesse contexto, dizer que uma mulher negra como primeira-dama seria "unthinkable" ressalta o quanto a ascensão social dessas mulheres era improvável. A palavra não se refere à mudança de nome (B), que é apenas um exemplo citado, nem afirma que a origem fosse irrelevante (C) — pelo contrário, ela determinava o lugar social. Também não trata o trabalho feminino como inimaginável (D), já que elas trabalhavam, nem comenta a responsabilidade parental (E).`,
     subject: ['ing'],
-    topics: ['Zoologia', 'Questões aleatórias']
+    topics: ['Vocabulário', 'Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 4,
@@ -105,9 +105,9 @@ A presença de "at odds with" na fala da personagem do cartum revela o(a)`,
     
     ],
     correct: 'B',
-    explanation: ``,
+    explanation: `Resposta correta: B. A legenda do cartum diz que o desejo da personagem de estar bem-informada está "at odds with" (em conflito com) seu desejo de permanecer sã. A expressão revela, portanto, a dificuldade de conciliar dois anseios contraditórios: informar-se e preservar a saúde mental. Não se trata de buscar informações confiáveis (A) nem de permanecer imparcial (D), questões que o texto não aborda. Tampouco há desejo de dominar tecnologias (C) ou vontade de ler apenas boas notícias (E); o humor está justamente na tensão entre informar-se e manter a sanidade.`,
     subject: ['ing'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Vocabulário', 'Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 5,
@@ -134,9 +134,9 @@ Considerando-se o olhar dos personagens, esse trecho do roteiro de um filme perm
     
     ],
     correct: 'B',
-    explanation: ``,
+    explanation: `Resposta correta: B. No diálogo, Celine afirma que os americanos acham a Europa perfeita, mas que, para ela, tanta beleza e história podem ser opressivas, enquanto Los Angeles lhe agrada por ser "neutra". A divergência de olhares mostra que a avaliação de um lugar depende da perspectiva de quem o observa, e não de qualidades fixas. Por isso, a resposta não está na beleza do próprio local (A) nem em seu contexto histórico (C), percebidos de formas opostas pelos personagens. O tempo de permanência (D) e a finalidade da viagem (E) não são os fatores destacados no trecho.`,
     subject: ['ing'],
-    topics: ['História Contemporânea', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 6,
@@ -154,9 +154,9 @@ Considerando-se o olhar dos personagens, esse trecho do roteiro de um filme perm
     
     ],
     correct: 'B',
-    explanation: `A presença de expressões iniciadas pela conjunção condicional “se” em “se ele tivesse sido capturado”; “se caísse no continente”; indica a repetição de expressões que promovem uma formulação hipotética, de dúvida.`,
+    explanation: `Resposta correta: B. O caráter alarmante do texto resulta da sucessão de hipóteses catastróficas introduzidas por "se": se o asteroide tivesse colidido, se caísse no continente, se desabasse no oceano. Essa recorrência de formulações hipotéticas projeta cenários de destruição e cria o tom apocalíptico que encerra o texto. A simples descrição da velocidade (A) ou a comparação com a distância da Lua (E) apenas situam o fato, sem alarmar. A referência à opinião dos astrônomos (C) confere credibilidade, e a locução "no mínimo" (D) é um detalhe que, sozinho, não sustenta o efeito alarmante.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Gêneros textuais', 'Questões aleatórias'],
   },
   {
     id: 7,
@@ -173,9 +173,9 @@ Considerando-se o olhar dos personagens, esse trecho do roteiro de um filme perm
     
     ],
     correct: 'D',
-    explanation: `No texto de Manuel de Barros há uma valorização de variantes populares, uma vez que o eu-lírico propõe ao filólogo Aurélio Buarque de Holanda que registre em seu dicionário as proposições mencionadas no texto, pois o povo já registrou, ou seja, já utilizam aquelas expressões “estar na draga”, “viver na draga por estar sem dinheiro”, “viver na miséria” no cotidiano.`,
+    explanation: `Resposta correta: D. Ao ridicularizar o literato que preferia "captura" a "pega" para "não macular a língua nacional" e ao propor que expressões populares como "estar na draga" sejam dicionarizadas, o poeta defende que a fala do povo tem valor e legitimidade. Expressa, assim, uma concepção de língua que valoriza as variedades populares. Ele não ironiza a comunicação fora da norma-padrão (B) nem defende substituí-la por registros formais (C); ao contrário, critica esse preciosismo. O foco não é opor escrita e fala (A) nem criar novas regras gramaticais (E), mas reconhecer a riqueza do uso popular.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Variação linguística', 'Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 8,
@@ -223,9 +223,9 @@ para a realização das filmagens.` },
 
     ],
     correct: 'C',
-    explanation: `O texto apresenta um comentário sobre a obra “O menino que fez um museu”. Ao mencionar que o documentário “foi o único trabalho produzido por equipes fora do eixo Estados Unidos-Europa” é uma estratégia argumentativa que reforça a proeza de uma premiação inédita que possui uma ambientação no interior do Nordeste brasileiro.`,
+    explanation: `Resposta correta: C. A citação de que o documentário foi "o único trabalho produzido por equipes fora do eixo Estados Unidos-Europa entre os finalistas" funciona como argumento que engrandece a conquista. Ela reforça a proeza de uma história ambientada no interior do Nordeste brasileiro ter sido premiada em Londres. A estratégia não visa destacar a originalidade da homenagem a Luiz Gonzaga (A) nem uma suposta falta de concorrentes (B), ideia que a citação não sustenta. Também não trata da escassez de investimentos (D) nem da importância da parceria Brasil-Reino Unido (E), que não são o foco da afirmação citada.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Gêneros textuais', 'Questões aleatórias'],
   },
   {
     id: 9,
@@ -276,9 +276,9 @@ desmistificam crenças e superstições.` },
 
     ],
     correct: 'D',
-    explanation: `O trecho de Sagarana reforça um recurso do patrimônio linguístico a partir da valorização do uso de ditados populares, por exemplo, o trecho “P’ra uns, as vacas morrem… p’ra outros até boi pega a parir…”. Assim, esse ditado resgata uma tradição popular de um saber coletivo transmitido dentro de uma determinada comunidade.`,
+    explanation: `Resposta correta: D. O trecho de Guimarães Rosa incorpora ditados populares, como "p'ra uns, as vacas morrem... p'ra outros até boi pega a parir", que condensam a sabedoria e a experiência coletiva do homem do campo. É esse emprego de provérbios, que resgatam memórias e saberes compartilhados, que confere ao texto importância como patrimônio linguístico e cultural. A menção a enfermidades (A) e os nomes dos personagens (C) não têm esse alcance coletivo. O texto não cita profissões extintas (B) nem busca desmistificar crenças e superstições (E); valoriza, antes, a cultura oral regional.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Variação linguística', 'Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 10,
@@ -338,9 +338,9 @@ opinião implícita é`,
       { id: 'E', type: 'text', value: `"[…] premiar uma abordagem tão ousada e radical como Son of Saul não deixaria de ser um passo à frente dos votantes".` },
     ],
     correct: 'E',
-    explanation: `A resenha é um texto de caráter argumentativo que apresenta uma opinião sobre um determinado conteúdo. Nesse trecho, há uma opinião sobre a obra “Son of Saul” que retrata o horror do holocausto, evidenciada implicitamente no trecho “premiar uma abordagem tão ousada e radical como “Son of Saul” não deixaria de ser um passo à frente dos votantes”, a partir da utilização dos adjetivos “ousada” e “radical”.`,
+    explanation: `Resposta correta: E. Em uma resenha, a opinião implícita aparece quando o juízo de valor é sugerido, e não declarado abertamente. Ao afirmar que premiar "uma abordagem tão ousada e radical como Son of Saul não deixaria de ser um passo à frente dos votantes", o resenhista avalia positivamente o filme sem dizer explicitamente que ele é bom. As alternativas A, B, C e D correspondem a trechos descritivos ou informativos — dados sobre o diretor, o personagem, a câmera e o enredo — que relatam fatos, sem conter apreciação pessoal velada.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Gêneros textuais', 'Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 11,
@@ -381,9 +381,9 @@ sociedade durante o período colonial.` },
     
     ],
     correct: 'A',
-    explanation: `A canção de Chico Buarque e João Bosco revela uma violência física e simbólica &#8211; aquela que não tem coação física. Essa violência se manifesta contra os povos escravizados, uma vez que é possível notar na letra da música uma referência aos escravos que eram agredidos, por exemplo, no fragmento “Para que me pôr no tronco; Para que me aleijar; Eu juro a vosmecê; Que nunca vi Sinhá”.`,
+    explanation: `Resposta correta: A. A canção dá voz a um escravizado que implora para não ser posto no tronco, aleijado ou ter os olhos furados, e que "chora em iorubá" mas "ora por Jesus". Esse vocabulário (Sinhá, vosmecê, iorubá) e a situação retratada remetem tanto à violência física — a tortura e a mutilação — quanto à violência simbólica imposta aos povos escravizados, como a supressão de sua cultura e religião. Por isso a letra é relevante para o patrimônio linguístico e identitário do país. O texto não tem tom de elogio à cultura africana (B) nem relativiza o sincretismo (C); também não narra um romance entre classes (D) nem discute visões de mundo de forma neutra (E), mas denuncia a opressão.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Variação linguística', 'Questões aleatórias'],
   },
   {
     id: 12,
@@ -412,9 +412,9 @@ O incentivar campanhas de adoção de animais em`,
       { id: 'E', type: 'text', value: `alertar a população sobre as sanções legais acerca de uma prática criminosa.` },
     ],
     correct: 'D',
-    explanation: `A imagem que mescla uma garrafa pet e um cachorro associada às frases “esse pet é descartável” e “esse não” configura um recurso expressivo que sensibiliza os leitores sobre o abandono dos animais.`,
+    explanation: `Resposta correta: D. A peça associa a imagem de uma garrafa PET, descartável, à de um cão, acompanhada dos textos "Esse PET é descartável. Esse não" e "Abandono é crime". O contraste visual e verbal busca sensibilizar o público em relação ao abandono de animais domésticos, mostrando que, ao contrário da embalagem, o animal não pode ser descartado. O objetivo central é a sensibilização, e não apenas estimular denúncias (A) ou alertar sobre as sanções legais (E), aspectos secundários. A peça não desvincula descarte de negligência (B) — ela os aproxima — nem foca campanhas de adoção (C).`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Gêneros textuais', 'Questões aleatórias'],
   },
   {
     id: 13,
@@ -433,9 +433,9 @@ verbais e não verbais sinalizam a finalidade de`,
       { id: 'E', type: 'text', value: `criticar as obrigações da maternidade.` },
     ],
     correct: 'C',
-    explanation: `A ironia está presente quando se associa o “término da luta pela emancipação feminina” com o início da maternidade. Percebe-se, nesse contexto, que não há igualdade entre os gêneros no que diz respeito aos cuidados do “neném”.`,
+    explanation: `Resposta correta: C. Na tirinha, a personagem grávida declara que, ao nascer o bebê, renunciará aos prazeres mundanos, à vida folgazã, à beleza física, à vida social e aos projetos individualistas, e o último quadro conclui: "assim termina mais um capítulo na luta da mulher por sua emancipação". O contraste entre a suposta emancipação e as renúncias impostas pela maternidade ironiza as condições de igualdade entre homens e mulheres. A tira não reforça a luta por direitos civis (A) nem explicita a autonomia feminina (B) — questiona-a. Também não estimula o abandono da vida social (D) nem critica, em si, as obrigações da maternidade (E), mas a desigualdade que recai sobre a mulher.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Gêneros textuais', 'Questões aleatórias'],
   },
   {
     id: 14,
@@ -462,9 +462,9 @@ não tornem a acontecer.` },
     
     ],
     correct: 'E',
-    explanation: `O título, associado ao último período do texto, reforça o potencial da arte em perpetuar os episódios marcantes da humanidade.`,
+    explanation: `Resposta correta: E. Além de apresentar a instalação A balsa de Lampedusa, a reportagem chama a atenção para o papel da arte como forma de eternizar episódios marcantes — nesse caso, a crise dos refugiados — para que não voltem a acontecer, como sugere o próprio título "imortalizada para sempre". O texto encerra afirmando que a imagem dispensa palavras, "exatamente o papel da arte". Não se destaca a vocação turística de Lanzarote (A) nem o ineditismo técnico do museu submarino (C). Embora mencione mortes, o foco não é contabilizá-las ao longo dos séculos (B) nem definir o museu como memorial dos imigrantes mortos (D), mas valorizar a função memorialística da arte.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Gêneros textuais', 'Questões aleatórias'],
   },
   {
     id: 15,
@@ -483,9 +483,9 @@ brasileira do século XIX.
     
     ],
     correct: 'D',
-    explanation: `O personagem tem um conflito em relação à composição do gênero maxixe por causa da valorização da música clássica na sociedade brasileira da época.`,
-    subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Resposta correta: D. O conto narra o drama de Pestana, músico popular que almeja compor obras eruditas imortais, mas é sempre "traído" por sua vocação para as polcas dançantes. Segundo o Texto II, esse conflito interior é representativo da tensa relação entre o erudito e o popular na formação da música brasileira. A questão não trata da pouca complexidade das composições populares (A) nem da predominância de referências africanas (B) como ponto central. Tampouco se limita ao prestígio das músicas de dança (C) ou à importância da música clássica no século XIX (E); o cerne é o embate entre os dois polos.`,
+    subject: ['lit'],
+    topics: ['Literatura brasileira', 'Análise de obras', 'Questões aleatórias'],
   },
   {
     id: 16,
@@ -538,9 +538,9 @@ pessoas vivenciam hoje.` },
     
     ],
     correct: 'B',
-    explanation: `A apresentação da letra de música ilustra uma situação &#8211; ainda que hipotética &#8211; factível, concreta e facilmente vivida por qualquer pessoa. Assim, no artigo de opinião, a citação do trecho de “Sinal fechado” funciona como exemplo concreto para o fato criticado.`,
+    explanation: `Resposta correta: B. Ao apresentar a letra de "Sinal fechado", de Paulinho da Viola, o autor do artigo ilustra, com uma situação concreta, o problema que critica: a comunicação apressada, vazia e superficial própria do culto à velocidade. O exemplo torna palpável a tese e, assim, sensibiliza o leitor. A canção não serve para advertir sobre riscos (A) nem para contrapor aceleração e serenidade (C), já que retrata apenas a pressa. Ela também não questiona o clichê da vida moderna (D) nem apresenta soluções (E) — estas aparecem só depois, com a menção ao movimento slow life.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Gêneros textuais', 'Questões aleatórias'],
   },
   {
     id: 17,
@@ -593,9 +593,9 @@ marginalidade.` },
 
     ],
     correct: 'E',
-    explanation: `O texto, ao mencionar a atitude de Paulo César Lima, o intitula como um “jogador-problema” dentro do contexto que alimenta a ideia do “mito da democracia racial no futebol”, porque o jogador marca um posicionamento resistente ao racismo no esporte.`,
+    explanation: `Resposta correta: E. O texto atribui o enfraquecimento do mito da democracia racial à atitude contestadora de Paulo César Lima, o "jogador-problema" que, ao contrário de Barbosa e Bigode, reagiu e denunciou publicamente o racismo existente até na Seleção. Foi sua ousadia de pronunciar a "palavra interdita" que abalou o mito. A responsabilização de Barbosa e Bigode (A) e a interdição da palavra "racismo" (D) são manifestações do racismo, não o que o enfraquece. A projeção mundial do esporte (B) e a depreciação do futebol (C) compõem o paradoxo inicial, mas não explicam o abalo do mito.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 18,
@@ -612,9 +612,9 @@ marginalidade.` },
       { id: 'E', type: 'text', value: `oposição entre a condição humana e a natureza primitiva.` },
     ],
     correct: 'D',
-    explanation: `A pintura representa uma mulher indígena de forma idealizada, seguindo moldes românticos, através da sua cor de pele que não se aproxima da realidade brasileira, e, sim, da europeia.`,
-    subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Resposta correta: D. A tela de Victor Meirelles retrata Moema, personagem do poema épico Caramuru, e sua filiação romântica revela-se na representação dramática e idealizada do corpo da índia, lançada às ondas em pose graciosa, mesmo diante da morte. Essa idealização do indígena e do sofrimento amoroso é típica do Romantismo e de seu indianismo. A obra não busca um retrato fiel e realista da beleza (A), que seria antirromântico. Não tematiza genericamente a fragilidade humana (B) nem ressignifica o cânone literário (C); e não opõe homem e natureza primitiva (E), mas idealiza ambos.`,
+    subject: ['lit'],
+    topics: ['Escolas literárias', 'Análise de obras', 'Questões aleatórias'],
   },
   {
     id: 19,
@@ -650,9 +650,9 @@ brincar.` },
 
     ],
     correct: 'D',
-    explanation: `O texto aponta a comparação entre as crianças da contemporaneidade e as dos anos 1990, pontuando que as atuais têm menos tempo para brincar e, quando o fazem, realizam tais atividades individualmente, exibindo menor vivência corporal.`,
+    explanation: `Resposta correta: D. O texto afirma que as crianças de hoje brincam menos, com frequência sozinhas e em casa, trocando as brincadeiras ao ar livre por aparelhos eletrônicos e jogos individuais. Essas transformações promoveram uma vivência corporal menos ativa. As demais alternativas invertem o sentido do texto: as mudanças não fomentaram as relações sociais (A), não difundiram o lazer (B), não criaram novos espaços de diversão (C) nem aumentaram o tempo dedicado a brincar (E) — ao contrário, reduziram-no.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 20,
@@ -693,9 +693,9 @@ como inovador por`,
 
     ],
     correct: 'D',
-    explanation: ``,
+    explanation: `Resposta correta: D. O projeto Mini@tures é apresentado como inovador por combinar corpo, dança, computação gráfica, vídeo e internet, produzindo uma arte multimodal que amplia as possibilidades de expressão estética da dança contemporânea. O texto valoriza justamente essa "contaminação entre mídias". Ele não opõe o projeto à tradição dos grandes espetáculos como questão conceitual (A) nem trata de novas formas de financiamento (B). A computação gráfica é um dos recursos, não o foco exclusivo que substituiria o palco (C), e o texto não enfatiza a adaptação a diferentes perfis de usuários (E).`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Gêneros textuais', 'Questões aleatórias'],
   },
   {
     id: 21,
@@ -714,9 +714,9 @@ regiões.` },
     
     ],
     correct: 'A',
-    explanation: `O texto I defende que a reposição de água doce ocorre de maneira indefinida, qualificando a estiagem de São Paulo como um ‘mito’; enquanto o II aponta a impossibilidade da água dos lagos em alimentar os aquíferos. Sendo assim, há uma discordância entre ambos no que se trata na garantia dos estoques de água doce.`,
+    explanation: `Resposta correta: A. O Texto I sustenta que os estoques de água doce são inesgotáveis, repostos indefinidamente pelo ciclo hidrológico; já o Texto II mostra que, com a sedimentação e a impermeabilização do solo, a água superficial pode não realimentar os aquíferos, que não recuperam seu nível. A divergência está, portanto, na possibilidade de manter os estoques de água doce. Os textos não divergem sobre usar a água superficial para consumo (B), repor estoques em regiões áridas (C), reduzir precipitação e evaporação (D) ou equalizar a distribuição (E), temas que não são confrontados entre eles.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Intertextualidade', 'Questões aleatórias'],
   },
   {
     id: 22,
@@ -754,9 +754,9 @@ que a língua tende a se manter inalterada.` },
 
     ],
     correct: 'B',
-    explanation: `De acordo com o texto, nota-se a possibilidade de uso do “você” e do “tu” (que predomina em Porto Alegre e também se faz presente no Rio de Janeiro, junto do “você”), em variados contextos regionais e contextuais, exibindo a pluralidade da língua portuguesa.`,
+    explanation: `Resposta correta: B. O texto mostra que "tu" e "você" convivem e se distribuem de modos variados pelas regiões do Brasil e ao longo do tempo, ora predominando um, ora outro. Isso evidencia que a possibilidade de usar ambos é expressão da diversidade e da variação da língua. A escolha não está condicionada apenas à idade do falante (A), que é só um exemplo. O "tu" não é usado informalmente em todo o país (C); a coexistência dos pronomes não anula a distinção de formalidade (D) nem indica que a língua permaneça inalterada (E) — ela, ao contrário, varia.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Variação linguística', 'Gramática (sintaxe, morfologia, semântica)', 'Questões aleatórias'],
   },
   {
     id: 23,
@@ -798,9 +798,9 @@ adaptação complexa.` },
 
     ],
     correct: 'B',
-    explanation: `A releitura de A morte do cisne, elaborada por John Lennon da Silva, estabelece o contraste com a obra original por meio da adaptação do figurino (jeans, camiseta e tênis) e do estilo da dança (substituição do balé pelo popping, típico do street dance).`,
+    explanation: `Resposta correta: B. Ao substituir o figurino clássico do balé pelo jeans, a camiseta e o tênis e trocar os passos tradicionais pelo popping da street dance, John Lennon da Silva cria uma versão inovadora de A morte do cisne. Isso demonstra que a criação artística se beneficia do encontro entre modelos de diferentes realidades socioculturais — o erudito e o popular. A coreografia original não foi determinada pelo figurino (A). A releitura não revela hierarquia entre manifestações (C) nem sugere que o artista popular desconheça a arte erudita (D); e a questão não trata da complexidade de homens dançarem coreografias femininas (E).`,
     subject: ['por'],
-    topics: ['Geopolítica', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Intertextualidade', 'Questões aleatórias'],
   },
   {
     id: 24,
@@ -832,9 +832,9 @@ recursos formais e numa representação ficcional que`,
       { id: 'E', type: 'text', value: `recorrem ao absurdo como forma de traduzir a realidade.` },
     ],
     correct: 'B',
-    explanation: ``,
-    subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Resposta correta: B. O fragmento descreve, com crueza, um detento espancado e mutilado repetidamente, que já não questiona e apenas obedece, sobrevivendo em condições sub-humanas dentro do sistema prisional. A força expressiva do texto traz à tona atitudes próprias de um estado de exceção, em que a violência se normaliza e os direitos são suspensos. A narrativa não perpetua visões do senso comum (A) nem recorre ao absurdo fantástico (E); a representação é cruamente realista. Ela não se organiza como interlocução com grupos silenciados (C) nem busca despertar um sentimento de justiça por empatia (D), mas expor a brutalidade do cárcere.`,
+    subject: ['lit'],
+    topics: ['Literatura brasileira', 'Análise de obras', 'Questões aleatórias'],
   },
   {
     id: 25,
@@ -875,9 +875,9 @@ fragmento é responsável por`,
 
     ],
     correct: 'B',
-    explanation: `Apesar de o desfecho assumir um tom anedótico, a análise específica do discurso intimidador representa o uso da hierarquia como forma de constrangimento.`,
-    subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Resposta correta: B. O delegado intimida o estrangeiro com um discurso autoritário e xenófobo, mas é desarmado pela esposa do vizinho, que revela ser brasileira e parente de altas patentes do Exército; a cena se fecha com a pergunta cômica "Da ativa, minha senhora?". Essa reviravolta confere à narrativa um tom anedótico, de piada. Embora haja xenofobia, a questão pede o efeito do discurso intimidador, que é humorístico — não se trata de ironizar ideias xenofóbicas como propósito central (A). O fragmento não dissimula o ponto de vista do narrador (C), não visa acentuar a hostilidade (D) nem exaltar relações de poder (E), que acabam ridicularizadas.`,
+    subject: ['lit'],
+    topics: ['Literatura brasileira', 'Análise de obras', 'Questões aleatórias'],
   },
   {
     id: 26,
@@ -919,9 +919,9 @@ entre as expressões`,
       { id: 'E', type: 'text', value: `“o imperador Dom Pedro II” e “O bruxo do Cosme Velho”.` },
     ],
     correct: 'D',
-    explanation: `O termo “gigante do Brasil” retoma Pedro II, assim como o termo “o Pedro mencionado”. Dessa forma há interdependência entre as expressões tendo em vista que elas retomam o mesmo referente.`,
+    explanation: `Resposta correta: D. A questão trata das retomadas que garantem a coesão referencial do texto. A expressão "O gigante do Brasil", presente nos versos do hino, é retomada e explicada por "O Pedro mencionado", que esclarece tratar-se de Dom Pedro II. Há, portanto, interdependência entre as duas expressões. Nos demais pares não há essa relação de retomada direta: "Os velhos papéis" e "É assim" (A), "algo novo" e "sobre o qual" (B), "um nome antigo" e "Por exemplo" (C), e "o imperador Dom Pedro II" e "O bruxo do Cosme Velho" (E) — este último designa Machado de Assis, não o imperador.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Gramática (sintaxe, morfologia, semântica)', 'Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 27,
@@ -957,9 +957,9 @@ mostram a expressão assimétrica das linhas curvas`,
       { id: 'E', type: 'text', value: `surgem na simplificação das informações visuais de cada composição.` },
     ],
     correct: 'E',
-    explanation: `O texto fala sobre a troca de “Ouro Preto por Brasília”, nesse sentido, uma troca de uma estética barroca por uma contemporânea, havendo, assim, a simplificação da das informações visuais das composições.`,
+    explanation: `Resposta correta: E. A reportagem associa a "estética brasiliense" à ruptura com o gosto colonial rebuscado e à adoção de um mobiliário moderno, feito de linhas retas e curvas suaves, nos moldes de Brasília. Esses elementos surgem na simplificação das informações visuais de cada composição. A estética não se define apenas pelas linhas retas (A), pois também há curvas suaves; e não expressa desenho rebuscado (B), justamente o que se abandonou. As curvas são suaves, não assimétricas (C), e o texto cita variedade de materiais nobres, não unidade de matéria-prima (D).`,
     subject: ['por'],
-    topics: ['Brasil Colônia', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Gêneros textuais', 'Questões aleatórias'],
   },
   {
     id: 28,
@@ -1010,9 +1010,9 @@ O promovem maior interação em ambientes virtuais.`,
     
     ],
     correct: 'B',
-    explanation: `A mudança do design do Facebook que visará ao investimento em Grupos é motivada pelo comportamento dos usuários. A afirma é comprovado pelo trecho &#8220;segundo Mark Zuckeberg, mais de 1 milhão de usuários mensais entram nessa aba do aplicativo&#8230;sai o feed, entra a segmentação”.`,
+    explanation: `Resposta correta: B. O texto relata que o Facebook mudará seu design para priorizar os Grupos, decisão baseada no fato de que mais de 1 bilhão de usuários já acessam essa aba — ou seja, a plataforma observa e se molda aos hábitos de quem a usa. Isso revela que as tecnologias de informação e comunicação assimilam os comportamentos dos usuários. A mudança não busca oferecer mais privacidade (A), que fica em aberto, nem se resume a promover interação (C) ou a tornar as redes parecidas entre si (E). A monetização é citada como consequência possível de acompanhar o uso, não como o que o fato revela sobre as tecnologias (D).`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Gêneros textuais', 'Questões aleatórias'],
   },
   {
     id: 29,
@@ -1059,9 +1059,9 @@ O adotarem uma postura critica em relação as`,
       { id: 'E', type: 'text', value: `valorizarem reportagens redigidas com imparcialidade diante dos fatos.` },
     ],
     correct: 'C',
-    explanation: `A alternativa B e a correta. O infográfico expõe os riscos do uso do celular antes de dormir e traz uma seção com recomendações praticas (O que fazer?), o que evidencia a intenção de influenciar o leitor a mudar hábitos considerados prejudiciais as crianças.`,
+    explanation: `Resposta correta: C. O autor argumenta que, após o surgimento da internet, não basta ler o que está escrito: é preciso desconfiar, investigar e buscar os vários lados de um fato, adotando uma atitude proativa diante das notícias. Seu objetivo é, portanto, convencer os leitores a assumir uma postura crítica em relação às informações recebidas. Ele não defende buscar fontes "comprometidas com a verdade" como garantia (A), já que nega a objetividade absoluta, nem privilegiar grandes jornais (B). O texto não se limita a questionar o jornalismo pré-internet (D) nem a valorizar reportagens imparciais (E), pois afirma que a imparcialidade absoluta não existe.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Gêneros textuais', 'Questões aleatórias'],
   },
   {
     id: 30,
@@ -1116,9 +1116,9 @@ situações de comunicação.` },
 
     ],
     correct: 'E',
-    explanation: `O personagem desconsidera os contextos comunicativos, valendo-se apenas da norma-padrão e desconsiderando a variedade coloquial. Pelino era “avaro de palavras, limitando-se apenas a ouvir”, entretanto, se “ dos lábios de alguém escapasse a menor incorreção de linguagem, intervinha e emendava”.`,
+    explanation: `Resposta correta: E. Pelino corrige qualquer desvio e emenda até "as maiores glórias nacionais", exigindo "garanto" no lugar de "asseguro" em plena conversa informal de botica. Sua defesa cega da norma-padrão caracteriza-se por desconsiderar os diferentes níveis de formalidade adequados a cada situação de comunicação. Ele não contesta o ensino de regras (A) — é seu maior defensor — nem é complacente com os desvios (C). O texto não mostra que ele resgate valores patrióticos como objetivo (B), e Pelino não invalida a gramática normativa (D); ao contrário, impõe-na indistintamente.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Variação linguística', 'Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 31,
@@ -1152,9 +1152,9 @@ o surfe.` },
 
     ],
     correct: 'A',
-    explanation: `O texto analisa a trajetória do skate desde a sua invenção até a apresentação atual, que atinge variados grupos, de forma democrática.`,
+    explanation: `Resposta correta: A. O texto narra como o skate evoluiu de improvisos com peças de patins até a descoberta do uretano, em 1974, material que deu mais aderência às rodas, favoreceu novas manobras e permitiu que mais pessoas inexperientes praticassem a modalidade, gerando campeonatos, marcas e lojas. Esses fatores, ao longo do tempo, contribuíram para a democratização do skate. O texto não enfatiza demandas comerciais dos skatistas (B) nem define a carreira profissional (C). Também não afirma que o skate substituiu o surfe (D) — dele se originou — nem destaca a autonomia dos praticantes (E) como ponto central.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 32,
@@ -1202,9 +1202,9 @@ em foco o(a)`,
 
     ],
     correct: 'D',
-    explanation: `A análise na crônica é focada nas reflexões subjetivas do autor sobre um elemento, consolidando a função emotiva da linguagem &#8211; que prioriza o emissor da mensagem.`,
+    explanation: `Resposta correta: D. Predomina no texto a função emotiva (expressiva) da linguagem, marcada pela subjetividade do cronista em primeira pessoa, que compara o notebook ao estojo escolar da infância e conclui "Acho que piorei de estojo e de vida". Essas marcas colocam em foco o próprio enunciador e sua atitude diante do que relata. Não há predomínio da função poética centrada na mensagem (A) nem da metalinguística centrada no código (B). O foco não está no contexto/referente (C) nem no interlocutor, como ocorreria na função conativa (E).`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Funções da linguagem', 'Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 33,
@@ -1222,9 +1222,9 @@ em foco o(a)`,
     
     ],
     correct: 'A',
-    explanation: `A sequência dos quadrinhos é uma forma irreverente de um prefácio, pois, por meio de uma linguagem híbrida, introduz e apresenta um livro ao leitor.`,
+    explanation: `Resposta correta: A. Nos quadrinhos, a autora descreve as etapas de produção do livro — pesquisa, seleção de informações, roteiro, desenho à tinta, edição e colorização digital — e conclui que, feito todo o trabalho, "este livro só precisa de mais uma coisa: ser lido". Esse texto cumpre a função típica de um prefácio: apresentar a obra e convidar à leitura. O que o caracteriza como prefácio é essa função de apresentação, e não o apelo emocional das imagens (B), a mera descrição do processo criativo (C) ou a referência à mescla de trabalho manual e digital (D). O uso de elementos gráficos (E) é próprio do gênero quadrinhos, mas não define a função de prefácio.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Gêneros textuais', 'Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 34,
@@ -1247,9 +1247,9 @@ dispositivos móveis por atividades lúdicas.
     ],
     images: ['/enem/2021/images/enem_2021_d1_q34.jpg'],
     correct: 'B',
-    explanation: ``,
+    explanation: `Resposta correta: B. Ao reunir o texto verbal — o alerta sobre os riscos do uso do celular antes de dormir, como obesidade, baixa imunidade e depressão — e os recursos não verbais, a publicação busca influenciar o leitor a mudar atitudes e hábitos considerados prejudiciais às crianças. Predomina, assim, a função apelativa da linguagem. O objetivo não é apenas divulgar informações científicas de modo neutro (A) nem relacionar a tecnologia à falta de exercícios (C). O texto também não indica medidas específicas (D) nem sugere substituir os aparelhos por atividades lúdicas (E), limitando-se a alertar para provocar mudança de comportamento.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Funções da linguagem', 'Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 35,
@@ -1295,9 +1295,9 @@ mulher`,
 
     ],
     correct: 'D',
-    explanation: `Na sequência narrativa, os personagens tematizam principalmente a concepção da mulher a partir do olhar de julgamento do homem, quanto à sua estética, à sua profissão e ao seu estado civil.`,
-    subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Resposta correta: D. No diálogo, os dois homens tentam descobrir quem é a dama de preto excluindo papéis sociais — viúva, casada, costureira, professora — e definindo-a por sua relação com os homens e por sua aparência. Esse jogo revela conceitos segundo os quais a identidade e o lugar social da mulher, em meados do século XIX, eram referendados pelo homem. A caridade (A) é apenas um gesto pontual, não um modo de dignificação. A aparência jovem (B) e o mercado de trabalho (E) são aspectos secundários, e o casamento não aparece como condição de bem-estar (C), já que ela é apresentada como solteira.`,
+    subject: ['lit'],
+    topics: ['Literatura brasileira', 'Análise de obras', 'Questões aleatórias'],
   },
   {
     id: 36,
@@ -1318,9 +1318,9 @@ Romuald Hazoumé costuma dizer que sua obra apenas manda de volta ao oeste o ref
     
     ],
     correct: 'B',
-    explanation: `O artista Romuald Hazoumé recorre ao aproveitamento de objetos descartados ao criar as máscaras, atribuindo valor estético a estes materiais. A partir desta ressignificação, Hazoumé chama a atenção para os desperdícios e excessos de lixo na sociedade de consumo atual.`,
+    explanation: `Resposta correta: B. As máscaras de Romuald Hazoumé são feitas de recipientes plásticos descartados que, retirados de sua função original, ganham valor estético ao sugerir rostos (possibilidades antropomórficas) e, ao mesmo tempo, denunciar o acúmulo de lixo. A obra denota, portanto, o reposicionamento estético de objetos por meio da mudança de função. Combinar materiais diversos não empobrece a obra (A); ao contrário, ressignifica-os. As máscaras não são obras inacabadas para o público completar (C); e, embora toquem em ecologia e consumo, a questão pede o procedimento artístico, não a militância ecológica (D) nem a precariedade das condições de produção (E).`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 37,
@@ -1358,9 +1358,9 @@ objetivo de`,
       { id: 'E', type: 'text', value: `defender uma postura coletiva indiferente aos valores dominantes.` },
     ],
     correct: 'A',
-    explanation: `A obra de Lichtenstein retrata o corpo feminino em pose idealizada, remetendo a construção social do corpo (gesto, vontade e comportamento) como reflexo dos valores e costumes de cada época, conforme discutido no texto.`,
+    explanation: `Resposta correta: A. A letra manda o trabalhador sempre sorrir, baixar a cabeça, agradecer e obedecer "pelo bem da nação", para ganhar "um fuscão no juízo final" e um "diploma de bem-comportado". Esses comandos, numa composição do início dos anos 1970, constroem uma ironia que critica, pelo avesso, a incorporação de ideias e atitudes conformistas — e, implicitamente, a repressão da época. O objetivo não é convencer sobre deveres cívicos (B) nem relacionar religião à solução de problemas sociais (C). A canção não questiona o valor das festas populares (D) nem defende a indiferença coletiva (E); denuncia, com ironia, a submissão.`,
     subject: ['por'],
-    topics: ['Genética', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Figuras de linguagem', 'Questões aleatórias'],
   },
   {
     id: 38,
@@ -1393,9 +1393,9 @@ desejo que remete ao`,
 
     ],
     correct: 'C',
-    explanation: `A sequencia de quadrinhos, baseada em relatos da escravidão, incorpora as crenças dos povos escravizados no Brasil e o seu desejo de retornar a terra de origem, atravessando o mar que nao acaba para ficar longe dali. Assim, a linguagem verbal e nao verbal confirmam a resistência identitária dos povos escravizados.`,
-    subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Resposta correta: A. O eu lírico dirige-se ao ser amado pedindo que lhe mande notícia "se for possível", "se é verdade que sem mim só vês monotonia", "se te lembras" — uma sucessão de condicionais que subordina o reencontro a dúvidas sobre os sentimentos do outro. Esse encadeamento de hipóteses revela ceticismo quanto à possibilidade de o reencontro de fato acontecer. O desejo expresso não é de autorrealização desenhada pela memória (C) nem decorre de tédio pela distância (B). O poema não faz julgamento de quem se afasta (D) nem questiona o significado do amor ausente (E); projeta, com incerteza, um reencontro que depende do outro.`,
+    subject: ['lit'],
+    topics: ['Literatura brasileira', 'Análise de obras', 'Questões aleatórias'],
   },
   {
     id: 39,
@@ -1430,9 +1430,9 @@ As letras de samba normalmente se caracterizam por apresentarem marcas informais
     
     ],
     correct: 'A',
-    explanation: `O emprego de vocabulários representativos da informalidade na canção de exemplifica pelo substantivo presente na fala popular &#8220;falação&#8221; e na contração prosaica em &#8220;pros&#8221;.`,
+    explanation: `Resposta correta: A. As marcas informais da língua são formas típicas da fala coloquial. "Falação" (derivação informal de "falar") e "pros bailes" (contração de "para os") exemplificam bem esse registro descontraído presente na letra. As demais alternativas reúnem elementos que não são marcas de informalidade: "você" é forma corrente e "teatro de revista" é expressão neutra (B); "perfeito" e "Carnaval" (C), "bebe bem" e "oculista" (D), "curar" e "falso moralista" (E) pertencem ao registro comum, sem traço de coloquialidade informal.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Variação linguística', 'Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 40,
@@ -1472,9 +1472,9 @@ lucidez.
     
     ],
     correct: 'C',
-    explanation: `O olhar do narrador confere à descrição da mulher abandonada em hospital psicanalítico uma perspectiva recheada de simbolismos e ressignificação.`,
-    subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Resposta correta: C. Ao descrever uma mulher internada em um hospital psiquiátrico — espaço de segregação onde ela é agredida e esquecida —, o narrador adota um olhar profundamente lírico e afetuoso, dizendo "Eu amo-a" e imaginando-a princesa refugiada ou criança que brinca na areia. Sua percepção é, portanto, alimentada por essa imersão lírica no espaço da segregação. O olhar não é irônico (A) nem resignado diante dos métodos terapêuticos (B). O foco não é o universo da mente humana como mistério científico (D), e a linguagem é lírica, não voltada à "busca da lucidez" (E).`,
+    subject: ['lit'],
+    topics: ['Literatura brasileira', 'Análise de obras', 'Questões aleatórias'],
   },
   {
     id: 41,
@@ -1508,9 +1508,9 @@ o eu lírico`,
       { id: 'E', type: 'text', value: `expressa uma visão de mundo mística e espiritualizada.` },
     ],
     correct: 'D',
-    explanation: `O eu lírico abre o poema apresentando a alegria como um pavão vermelho e, ao longo das estrofes, fará várias metáforas para indicar o esplendor desse animal/sentimento. Além disso, na última estrofe, ele fala de pavões lilases (representantes de outros sentimentos que não a alegria) que passaram por sua vida, mas foram embora após a chegada do vermelho.`,
-    subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Resposta correta: C. No soneto, o eu lírico associa a alegria a um pavão vermelho e explora as cores de modo sinestésico: a cor vermelha "chega a ser sonora", misturando a percepção visual à auditiva. Esse recurso configura uma imagem em que o eu lírico experimenta a fusão de percepções sensoriais (sinestesia). As cores não indicam intenção de isolamento (A) nem se limitam a simbolizar a beleza da natureza (B). A imagem não metaforiza a conquista de uma plena realização (D) nem expressa visão mística e espiritualizada (E); seu efeito central é a mistura dos sentidos.`,
+    subject: ['lit'],
+    topics: ['Literatura brasileira', 'Análise de obras', 'Questões aleatórias'],
   },
   {
     id: 42,
@@ -1532,9 +1532,9 @@ humano no lazer.` },
     ],
     images: ['/enem/2021/images/enem_2021_d1_q42.jpg'],
     correct: 'C',
-    explanation: ``,
+    explanation: `Resposta correta: C. O enunciado afirma que a sociedade reinventa continuamente o corpo como objeto de intervenções sociais, segundo os valores de cada época. Na reprodução desses preceitos, a erotização do corpo feminino tem se constituído pela educação do gesto, da vontade e do comportamento — ou seja, pelo modo como se ensina o corpo a se portar e a se mostrar. As demais alternativas remetem a práticas corporais específicas — exercícios físicos (A), uso de medicamentos e produtos estéticos (B), criação de espaços para práticas corporais (D) e experiências de movimento no lazer (E) — que não correspondem ao processo de erotização descrito, ligado à disciplina do comportamento.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Questões aleatórias'],
   },
   {
     id: 43,
@@ -1553,9 +1553,9 @@ A sequência dos quadrinhos conjuga lirismo e violência ao`,
     ],
     images: ['/enem/2021/images/enem_2021_d1_q43.jpg'],
     correct: 'D',
-    explanation: ``,
+    explanation: `Resposta correta: D. Nos quadrinhos de Marcelo D'Salete, as falas evocam a cosmologia africana — o "calunga", o "mar que não acaba", a "nsanga" e a esperança de "ficar juntos lá na outra terra" —, unindo o lirismo desse imaginário à violência do contexto escravista colonial. Essa combinação acentua a resistência identitária dos povos escravizados, que preservam suas crenças e laços afetivos. A sequência não sugere a impossibilidade de manter os afetos (A) nem representa apenas o abatimento diante da desumanidade (C). Embora os corpos sofram a brutalidade colonial (B), o foco da conjugação de lirismo e violência é a resistência, e não a mera exposição das marcas; e os sujeitos não aparecem alijados de sua ancestralidade (E), mas apegados a ela.`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Gêneros textuais', 'Questões aleatórias'],
   },
   {
     id: 44,
@@ -1600,9 +1600,9 @@ esse recurso à disseminação de`,
       { id: 'E', type: 'text', value: `serviços de utilidade pública.` },
     ],
     correct: 'D',
-    explanation: `Machado de Assis utiliza-se da ironia para criticar informações não fidedignas divulgadas por meio de matraca, a qual pode ser identificada no trecho “E dizem as crônicas que algumas pessoas afirmavam ter visto cascavéis dançando no peito do vereador; afirmação perfeitamente falsa, mas só devida à absoluta confiança no sistema”.`,
+    explanation: `Resposta correta: D. O narrador conta, com ironia, que a matraca tinha tamanha "energia de divulgação" que um vereador era tido como exímio domador de cobras e macacos sem nunca ter domesticado nenhum, e havia quem jurasse ter visto cascavéis dançando em seu peito — afirmação "perfeitamente falsa". Ao destacar a confiança cega da população nesse sistema, o narrador o associa à disseminação de informações não fidedignas. A referência não trata de campanhas políticas (A), anúncios publicitários (B) ou serviços de utilidade pública (E) como foco. Também não se resume a notícias de apelo popular (C), mas ironiza a propagação de boatos tidos como verdade.`,
     subject: ['por'],
-    topics: ['História Contemporânea', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Figuras de linguagem', 'Questões aleatórias'],
   },
   {
     id: 45,
@@ -1623,9 +1623,9 @@ preferência do público por músicas populares.` },
     
     ],
     correct: 'C',
-    explanation: `O texto apresenta informações sobre Abel Ferreira. De acordo com a autora, o maior clarinetista que o Brasil conheceu. Assim, ela busca destacar a importância do gênero musical choro como uma manifestação da genuína alma brasileira.`,
+    explanation: `Resposta correta: C. Considerando o gênero (reportagem/artigo) e o público, os argumentos da autora — o paradoxo de uma "riquíssima manifestação da genuína alma brasileira" que sobrevive apesar do descaso, a definição elogiosa de Artur da Távola e a trajetória de Abel Ferreira — buscam destacar a relevância histórica e a riqueza estética do choro no cenário musical brasileiro. A crítica à escola (A) e a pouca divulgação são atribuídas a outra voz (Leonor Bianchi) e explicam a situação, mas não são o objetivo central. O texto não reivindica investimentos estatais (B), não se limita a dados biográficos (D) nem apenas constata a impopularidade do choro (E).`,
     subject: ['por'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Gêneros textuais', 'Questões aleatórias'],
   },
   {
     id: 46,
@@ -1652,9 +1652,9 @@ que causam para o indivíduo a`,
       { id: 'E', type: 'text', value: `desobrigação de afazeres domésticos.` },
     ],
     correct: 'B',
-    explanation: `As transformações no mundo do trabalho relativas à inserção da tecnologia alteram a materialidade do trabalho, transformando as relações sociais e alterando as dinâmicas no interior das instituições sociais para além da esfera do trabalho.`,
+    explanation: `O texto descreve o trabalhador que, mesmo em casa e fora do expediente, sente necessidade de checar e-mails e mensagens do trabalho, voltando mentalmente ao ambiente profissional durante o jantar com a família. Essa conexão permanente transforma o tempo de descanso em prolongamento da jornada, configurando a ampliação de atividades extras não remuneradas, o que valida a alternativa B. A proteção da vida privada (A) é justamente o oposto, pois a esfera pessoal é invadida pelo trabalho. A elevação de etapas burocráticas (C), a diversificação do lazer (D) e a desobrigação de afazeres domésticos (E) não aparecem no texto, que trata do avanço do trabalho sobre a vida familiar.`,
     subject: ['soc'],
-    topics: ['Trabalho e economia', 'Questões aleatórias']
+    topics: ['Trabalho e economia', 'Questões aleatórias'],
   },
   {
     id: 47,
@@ -1685,9 +1685,9 @@ ideologia do mérito.`,
     
     ],
     correct: 'A',
-    explanation: `Considerando os princípios que legitimam as democracias liberais, a lógica econômica descrita no texto enfraquece`,
+    explanation: `Piketty mostra que, quando o rendimento do capital cresce mais que a economia, a riqueza herdada se acumula e tende a superar a fortuna obtida por uma vida de trabalho. Nas democracias liberais, a legitimidade da desigualdade apoia-se na ideia de que o sucesso resulta do esforço individual; ao evidenciar o peso da herança, o texto enfraquece justamente a ideologia do mérito, o que confirma a alternativa A. O direito de nascimento (B) é reforçado, não enfraquecido, pela lógica da herança. A eficácia da legislação (C), o ganho das financeiras (D) e a eficiência dos mercados (E) não são os princípios meritocráticos postos em xeque pelo argumento.`,
     subject: ['soc'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Desigualdade social', 'Trabalho e economia', 'Questões aleatórias'],
   },
   {
     id: 48,
@@ -1704,9 +1704,9 @@ ideologia do mérito.`,
     
     ],
     correct: 'D',
-    explanation: `Gabarito: D Comentário: O texto destaca um programa de melhoramento genético das uvas no país, buscando adaptá-las às necessidades climatológicas e pedológicas do Semiárido nordestino até a Serra Gaúcha. Nesse sentido, as técnicas buscaram adaptar o cultivo aos elementos singulares de cada região.`,
+    explanation: `O texto descreve o programa de melhoramento de uvas que adapta cultivares a realidades distintas, do semiárido nordestino às regiões tropicais e à Serra Gaúcha. Como cada região possui clima, solo e condições próprias, as técnicas buscaram ajustar o cultivo aos elementos ambientais singulares de cada lugar, o que valida a alternativa D. As espécies nativas ameaçadas (A) não são o foco do melhoramento genético. As cadeias econômicas autônomas (B), as estruturas fundiárias tradicionais (C) e os mercados consumidores internos (E) não correspondem ao que o texto apresenta como objetivo das técnicas, voltadas à adaptação às características naturais das regiões.`,
     subject: ['geo'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Agricultura e pecuária', 'Questões aleatórias'],
   },
   {
     id: 49,
@@ -1723,9 +1723,9 @@ ideologia do mérito.`,
     
     ],
     correct: 'C',
-    explanation: `Gabarito: C Comentário: No texto 1, há uma interpretação dos patrimônios com significados universais e imutáveis, sendo naturalmente aceitas por todas as gerações.Já no texto 2, há uma interpretação dos patrimônios como mutáveis e influenciados por questões socioculturais, o que para o autor impacta na própria política de conservação.`,
-    subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O Texto I, a Carta de Veneza, defende a preservação dos monumentos como bem comum e dever perante as gerações futuras; o Texto II critica a legislação de proteção e o tombamento, que, ao decretar a imutabilidade, provocariam abandono e destruição. Assim, os textos divergem quanto às políticas de conservação de bens culturais, o que confirma a alternativa C. O comércio de imagens sacras (A), a substituição de materiais artísticos (B), a privatização de sítios arqueológicos (D) e a salvaguarda de peças museológicas (E) não são os temas em disputa, pois o debate recai sobre como preservar o patrimônio.`,
+    subject: ['soc'],
+    topics: ['Cultura e identidade', 'Questões aleatórias'],
   },
   {
     id: 50,
@@ -1762,9 +1762,9 @@ derivado do(a):`,
 
     ],
     correct: 'B',
-    explanation: `Gabarito: B Comentário: O texto aborda a produção de E-Waste (lixo eletrônico) e a exportação desse lixo para outros países mais pobres, como forma de fugir da obrigatoriedade de reciclagem nos países desenvolvidos. A diferente inserção dos países na Nova D.I.T (Divisão Internacional do Trabalho) faz com que nações como Gana seja receptora de produtos que funcionam como matéria prima, não relacionado à produção, mas ao reuso de partes valiosas do lixo dos países desenvolvidos.`,
-    subject: ['soc'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Os textos mostram que o lixo eletrônico produzido nos países industrializados é exportado para o Gana, onde jovens o desmontam em condições precárias e insalubres. Esse deslocamento dos custos ambientais e sociais dos países ricos para os pobres reflete a divisão internacional do trabalho, que reserva aos países periféricos as etapas poluentes, o que valida a alternativa B. O exercício pleno da cidadania (A) e a concepção sustentável da economia (D) contrariam a exploração descrita. A gestão toyotista (C) e o protecionismo alfandegário (E) não explicam a transferência desigual de resíduos entre as nações.`,
+    subject: ['geo'],
+    topics: ['Globalização', 'Meio ambiente e sustentabilidade', 'Questões aleatórias'],
   },
   {
     id: 51,
@@ -1791,9 +1791,9 @@ proposta apresentada no texto está pautada no(a)`,
       { id: 'E', type: 'text', value: `geração de produtos recicláveis.` },
     ],
     correct: 'A',
-    explanation: ``,
+    explanation: `O relatório da Unesco propõe que preços e autorizações de uso garantam água tanto à indústria e à irrigação em larga escala quanto à agricultura de pequena escala e de subsistência. Essa preocupação em atender a diferentes usuários de modo adequado revela a busca por distribuição equitativa do abastecimento, o que confirma a alternativa A. O monitoramento do fornecimento urbano (B) restringe o escopo apenas às cidades. O racionamento da capacidade fluvial (C), a revitalização de solos (D) e a geração de produtos recicláveis (E) não traduzem o princípio de repartir a água de forma justa entre os diversos setores.`,
     subject: ['geo'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Meio ambiente e sustentabilidade', 'Energia e recursos naturais', 'Questões aleatórias'],
   },
   {
     id: 52,
@@ -1821,9 +1821,9 @@ interesse britânico em`,
       { id: 'E', type: 'text', value: `promover o negócio familiar.` },
     ],
     correct: 'D',
-    explanation: `Gabarito: D Comentário: A Lei Bill Aberdeen proibiu o tráfico negreiro no Atlântico e, segundo o texto, podemos observar que a Inglaterra não tinha o interesse em revogar a proibição comercial sem que houvesse ganhos ou garantias de que os brasileiros não voltassem aos seus “antigos hábitos&#8221;.`,
+    explanation: `O texto trata da pressão, em 1854-55, pela revogação da Lei Aberdeen, que autorizava os britânicos a reprimir o tráfico negreiro; o governo inglês receava que, sem um tratado substituto, os brasileiros voltassem aos velhos hábitos, ou seja, ao comércio de escravos. O interesse britânico era, portanto, manter a proibição comercial do tráfico, o que valida a alternativa D. Estabelecer jurisdição conciliadora (A), compartilhar negócios marítimos (B), fomentar políticas higienistas (C) e promover o negócio familiar (E) não correspondem ao objetivo expresso de impedir a retomada do tráfico de africanos.`,
     subject: ['his'],
-    topics: ['História Contemporânea', 'Questões aleatórias']
+    topics: ['Brasil Império', 'Escravidão e abolição', 'Questões aleatórias'],
   },
   {
     id: 53,
@@ -1839,9 +1839,9 @@ interesse britânico em`,
       { id: 'E', type: 'text', value: `Argumentações literárias interligadas às catástrofes ambientais.` },
     ],
     correct: 'B',
-    explanation: `Ao destacar expressões e vivências populares do cotidiano, o texto mobiliza os seguintes aspectos da diversidade regional`,
-    subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O texto apresenta Zé de Sila, contador de histórias paraibano, e a crença de que a oração da avó, com os pratos emborcados no terreiro, fazia a chuva durar mais. Essas vivências unem crenças populares e saberes transmitidos oralmente, evidenciando práticas místicas associadas ao patrimônio cultural, o que confirma a alternativa B. As alianças afetivas ligadas ao matrimônio (A), as manifestações teatrais de imaginário político (C), as narrativas fílmicas (D) e as argumentações literárias sobre catástrofes (E) não descrevem o caráter místico e tradicional da cena, centrada em rituais populares de previsão da chuva.`,
+    subject: ['soc'],
+    topics: ['Cultura e identidade', 'Questões aleatórias'],
   },
   {
     id: 54,
@@ -1872,9 +1872,9 @@ empresarial é criticado no texto em razão da`,
 
     ],
     correct: 'C',
-    explanation: `Gabarito: C Comentário: O texto destaca a introdução de novas tecnologias nos processos de trabalho e transformações associadas a isso, como a terceirização, precarização e flexibilização das relações de trabalho nesse contexto de reestruturação produtiva.`,
+    explanation: `O texto afirma que o uso de novas tecnologias, associado a uma cultura empresarial de racionalização, produziu terceirização, precarização e flexibilização como marcas do paradigma flexível que substituiu o modelo taylorista-fordista. A crítica recai sobre a fragilização das relações de trabalho decorrente desse modelo, o que valida a alternativa C. A operacionalização da tarefa laboral (A) e a aplicação dos conhecimentos científicos (E) não são o alvo da crítica. A capacitação de profissionais liberais (B) e a hierarquização dos cargos executivos (D) não correspondem aos efeitos de precarização apontados pela autora.`,
     subject: ['soc'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Trabalho e economia', 'Questões aleatórias'],
   },
   {
     id: 55,
@@ -1905,9 +1905,9 @@ conforme abordada no texto, é provocada pela associação`,
       { id: 'E', type: 'text', value: `desenraizamento cultural e insegurança legal.` },
     ],
     correct: 'E',
-    explanation: `Gabarito: E Comentário: O texto faz uma reflexão sobre o processo de integração dos refugiados no seu local de destino e comenta a dificuldade que eles encontram ao se deslocarem para um lugar desconhecido, que não possuem vínculos identitários e culturais, além de não possuírem uma situação de legalidade do ponto de vista do exercício da cidadania plena. Assim, o desenraizamento cultural e a insegurança local são problemas relacionados à transitoriedade.`,
-    subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O texto define o refugiado por sua transitoriedade, situado entre o país de origem e o de destino, em posição marginal tanto identitária — pela falta de pertencimento pleno — quanto jurídica — pela perda temporária do status de cidadão. Essa dupla condição corresponde à associação entre desenraizamento cultural e insegurança legal, o que confirma a alternativa E. A ascensão social (A), a miscigenação étnica (B), a desqualificação profissional e a ação policial (C) e a instabilidade financeira (D) não são os eixos que o texto aponta para explicar a transitoriedade do refugiado.`,
+    subject: ['soc'],
+    topics: ['Cidadania e democracia', 'Cultura e identidade', 'Questões aleatórias'],
   },
   {
     id: 56,
@@ -1933,9 +1933,9 @@ o campo científico, descrita no texto, é representativa da`,
       { id: 'E', type: 'text', value: `substituição das atividades domésticas.` },
     ],
     correct: 'D',
-    explanation: ``,
-    subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O texto mostra que, no século XIX, mulheres como Lady Charlotte Canning só participavam de expedições como esposas coloniais, acompanhando os maridos, e não como cientistas autônomas em seus próprios projetos. Essa restrição revela que a ciência reproduzia as hierarquias de gênero da época, incorporando as estratificações sociais, o que valida a alternativa D. A afirmação da igualdade de gênero (A) e a superação do pensamento patriarcal (C) contrariam o quadro descrito. A transformação dos espaços de lazer (B) e a substituição das atividades domésticas (E) não traduzem a posição subordinada atribuída às mulheres no campo científico.`,
+    subject: ['soc'],
+    topics: ['Desigualdade social', 'Questões aleatórias'],
   },
   {
     id: 57,
@@ -1953,9 +1953,9 @@ o campo científico, descrita no texto, é representativa da`,
     
     ],
     correct: 'D',
-    explanation: ``,
+    explanation: `Marcuse afirma que as necessidades sociais são transplantadas para o plano individual de modo tão eficaz que as pessoas se reconhecem em suas mercadorias, encontrando a alma no automóvel e na casa. A satisfação dos desejos é, assim, influenciada por mecanismos subjetivos de identificação do indivíduo com os objetos de consumo, o que confirma a alternativa D. As políticas estatais de divulgação (A), os incentivos controlados de consumo (B) e as prescrições coletivas de organização (C) deslocam a análise para fatores externos. As repressões racionalizadas do narcisismo (E) não correspondem ao processo de internalização descrito pelo autor.`,
     subject: ['soc'],
-    topics: ['Sociologia', 'Questões aleatórias']
+    topics: ['Sociologia', 'Cultura e identidade', 'Questões aleatórias'],
   },
   {
     id: 58,
@@ -1985,9 +1985,9 @@ apresentada no texto vem ocorrendo como consequência da`,
       { id: 'E', type: 'text', value: `alteração da organização da paisagem geográfica.` },
     ],
     correct: 'E',
-    explanation: ``,
-    subject: ['soc'],
-    topics: ['Trabalho e economia', 'Questões aleatórias']
+    explanation: `O texto descreve a cidade em rápida transformação, com praças virando concreto, árvores destruídas e a presença maciça de guindastes e betoneiras, enquanto os moradores perdem suas referências. Essa dinâmica é consequência da alteração da organização da paisagem geográfica provocada pela expansão urbana, o que valida a alternativa E. A manutenção dos modos de convívio (A) e a preservação do espaço público (B) são justamente negadas pelo texto. A ampliação das normas ambientais (C) e a flexibilização das regras de participação política (D) não explicam as mudanças físicas e sociais descritas na cidade.`,
+    subject: ['geo'],
+    topics: ['Urbanização', 'Questões aleatórias'],
   },
   {
     id: 59,
@@ -2015,9 +2015,9 @@ constitui pela`,
       { id: 'E', type: 'text', value: `uniformização das informações.` },
     ],
     correct: 'B',
-    explanation: `Gabarito: B Comentário: O texto, mesmo abordando um assunto da climatologia do semiárido, destaca a importância da percepção na produção do conhecimento. A relação da sociedade com o meio é o objeto de estudo da geografia, e revela a importância das ciências locais para a construção de um saber institucionalizado.`,
-    subject: ['geo'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O texto mostra que o sertanejo prevê o tempo observando astros, constelações e nuvens, interpretando sinais como a cor da primeira lua cheia de janeiro. Esse conhecimento é construído pela experiência perceptiva acumulada na convivência direta com a natureza, o que confirma a alternativa B. A técnica científica (A) não corresponde ao saber empírico e tradicional descrito. A negação das tradições (C) é o oposto, pois o conhecimento se apoia justamente nelas. A padronização das culturas (D) e a uniformização das informações (E) não traduzem o caráter observacional e local desse saber.`,
+    subject: ['fil'],
+    topics: ['Teoria do conhecimento', 'Questões aleatórias'],
   },
   {
     id: 60,
@@ -2045,9 +2045,9 @@ O Militância politica.`,
     
     ],
     correct: 'B',
-    explanation: `Uma característica das democracias liberais representativas é sua passividade social. Os indivíduos realizam sua cidadania e participação política em momentos específicos como a eleição, deixando-se conduzir como gado pelas elites`,
-    subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `A canção de Zé Ramalho dirige-se à massa que caminha nos projetos do futuro, dando mais do que recebe, e a compara a uma vida de gado, a um povo marcado. Essa imagem critica a passividade social de quem se submete sem reagir, o que valida a alternativa B. A militância política (A) e o inconformismo eleitoral (E) representam engajamento, oposto ao que é criticado. O altruísmo religioso (C) e o autocontrole moral (D) não correspondem ao comportamento de resignação coletiva denunciado na letra.`,
+    subject: ['soc'],
+    topics: ['Cidadania e democracia', 'Cultura e identidade', 'Questões aleatórias'],
   },
   {
     id: 61,
@@ -2079,9 +2079,9 @@ processo socioespacial que busca a`,
       { id: 'E', type: 'text', value: `priorização da gestão participativa.` },
     ],
     correct: 'A',
-    explanation: `As transformações urbanas citadas no texto referente a área portuária da cidade do Rio de Janeiro revela uma intenção de adaptação e melhor inserção desse lugar na economia global, por isso todo esse processo de modernização tal ação deriva de uma concepção de cidade empresa que deve competir com outras na economia global em busca de oferecer melhores vantagens.`,
-    subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O texto descreve o projeto Porto Maravilha, que buscava transformar a área portuária do Rio em polo de serviços internacional, com torres comerciais e espaços de consumo, equiparando-a aos waterfronts de Baltimore, Barcelona e Buenos Aires. Essa intervenção visa inserir a cidade na competitividade global, o que confirma a alternativa A. A contenção da especulação imobiliária (B), a democratização da habitação popular (C), a valorização das funções tradicionais (D) e a gestão participativa (E) contrariam a lógica de valorização e de atração de capital descrita, voltada a projetar a cidade no mercado internacional.`,
+    subject: ['geo'],
+    topics: ['Urbanização', 'Globalização', 'Questões aleatórias'],
   },
   {
     id: 62,
@@ -2111,9 +2111,9 @@ sido o(a)`,
 
     ],
     correct: 'D',
-    explanation: `O texto destaca a maior importância da agroindústria e antigos padrões industriais na economia brasileira e critica como a inserção de novas tecnologias na indústria do país foi ínfima. Esse cenário cria uma dependência da economia nacional aos fluxos globais, isto é, a economia fica subjugada, por exemplo, aos ciclos de alta e baixa das commodities.`,
-    subject: ['soc'],
-    topics: ['Genética', 'Questões aleatórias']
+    explanation: `O texto aponta a ínfima inserção da indústria brasileira nas tecnologias da microeletrônica, mantendo-se dependente de commodities agroindustriais e do antigo padrão fordista, com reduzida capacidade de inovação. Esse perfil produz a subordinação do país aos fluxos globais, dependente de setores de baixo dinamismo tecnológico, o que valida a alternativa D. O barateamento da cesta básica (A), a ampliação do poder de consumo (C) e o incentivo à política de modernização (E) não decorrem do quadro descrito. O retorno à estatização econômica (B) não é mencionado como efeito dessa defasagem industrial.`,
+    subject: ['geo'],
+    topics: ['Indústria e comércio', 'Globalização', 'Questões aleatórias'],
   },
   {
     id: 63,
@@ -2145,9 +2145,9 @@ e organização social marcada pelo(a)`,
       { id: 'E', type: 'text', value: `enriquecimento das comunidades autóctones.` },
     ],
     correct: 'B',
-    explanation: `O texto ressalta os conflitos pelo uso da terra na Amazônia, especialmente a partir da mineração. Destaca também como alguns grupos enfrentam mais dificuldades em reproduzir suas dinâmicas territoriais em outros lugares após a remoção. Isso ocorre devido ao rompimento com os vínculos locais, isto é, sobre os conhecimentos sobre aquela terra. &nbsp;`,
+    explanation: `O texto relata que a mineração gera conflitos com extrativistas, quilombolas, ribeirinhos e indígenas, que têm dificuldade de reproduzir suas dinâmicas territoriais e sofrem com a reconstrução abrupta de suas identidades. Essa situação caracteriza o rompimento de vínculos locais provocado pela atividade econômica, o que confirma a alternativa B. A escassez de incentivo cultural (A) e a carência de investimento financeiro (C) não são o foco. As práticas agroecológicas (D) e o enriquecimento das comunidades autóctones (E) contrariam o texto, que descreve perdas e desorganização social dessas populações.`,
     subject: ['soc'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Movimentos sociais', 'Cultura e identidade', 'Questões aleatórias'],
   },
   {
     id: 64,
@@ -2172,9 +2172,9 @@ existência de`,
       { id: 'E', type: 'text', value: `hierarquizações de origem biológica.` },
     ],
     correct: 'C',
-    explanation: `Uma minoria é definida arbitrariamente por construções sociais baseadas em relações de poder, não representando um grupo em desvantagem numérica, mas com menos capacidade de influenciar a realidade social.`,
-    subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Deleuze e Guattari afirmam que maioria não é quantidade, mas um padrão de referência em relação ao qual outros grupos — mulheres, crianças, animais — são tidos como minoritários, pressupondo um estado de dominação. A caracterização da minoria decorre, portanto, de relações de natureza arbitrária, impostas por um modelo de poder, o que valida a alternativa C. As ameaças de extinção social (A), as políticas de incentivos estatais (B) e as conexões simétricas (D) não explicam a lógica de dominação descrita. As hierarquizações de origem biológica (E) são recusadas, pois o critério é o padrão de poder, não a natureza.`,
+    subject: ['fil'],
+    topics: ['Filosofia Contemporânea', 'Política e Estado', 'Questões aleatórias'],
   },
   {
     id: 65,
@@ -2201,9 +2201,9 @@ correspondem ao(s)`,
 
     ],
     correct: 'A',
-    explanation: ``,
-    subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Engels adverte os trabalhadores de que a classe média, sua adversária, tem interesses diametralmente opostos aos deles e de que seus atos desmentem as palavras de simpatia. Esse antagonismo de interesses entre as classes corresponde ao conceito de luta de classes, o que confirma a alternativa A. O alicerce da mais-valia (B) e o fetichismo da mercadoria (E) são outras categorias marxistas, não evocadas no trecho. Os fundamentos do método científico (C) e os paradigmas do processo indagativo (D) não têm relação com o conflito entre burguesia e proletariado descrito.`,
+    subject: ['soc'],
+    topics: ['Sociologia', 'Trabalho e economia', 'Questões aleatórias'],
   },
   {
     id: 66,
@@ -2231,9 +2231,9 @@ problemática descrita devem privilegiar a`,
 
     ],
     correct: 'B',
-    explanation: `Um Estado comprometido com a cidadania promoverá a inclusão social oferecendo condições para sua população de se manter afastada do encarceramento, seja por melhores condições materiais que diminuirão o volume de delitos patrimoniais, seja pela capacidade de interagir melhor com a estrutura jurídica. Muitos presos estão encarcerados irregularmente ou cometem delitos por desconhecimento.`,
-    subject: ['geo'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Os dados mostram que a população carcerária cresceu e é formada majoritariamente por homens jovens, negros, com baixa escolaridade e acusados de crimes patrimoniais. Esse perfil evidencia a seletividade social do encarceramento, de modo que as políticas públicas para enfrentá-lo devem privilegiar a promoção da inclusão social, o que valida a alternativa B. A redução da maioridade penal (C) e a expansão do período de reclusão (E) agravariam o encarceramento. A flexibilização do Código Civil (A) e a contenção da corrupção política (D) não atacam as causas socioeconômicas apontadas pelos dados.`,
+    subject: ['soc'],
+    topics: ['Desigualdade social', 'Direitos humanos', 'Questões aleatórias'],
   },
   {
     id: 67,
@@ -2271,9 +2271,9 @@ sociedades medievais por proporcionar a`,
       { id: 'E', type: 'text', value: `reconfiguração dos espaços ocupados e das dinâmicas comunitárias.` },
     ],
     correct: 'E',
-    explanation: `Segundo o texto, as autoridades buscaram se aproveitar da ocasião para alterar e expandir a topografia urbana e as práticas sociais, logo podemos entender como interferências nos espaços ocupados e na dinâmica comunitária.`,
-    subject: ['soc'],
-    topics: ['Sociologia', 'Questões aleatórias']
+    explanation: `O texto mostra que os incêndios eram tormento constante das cidades do Regnum Italicum e que as medidas das autoridades iam além de reparar danos, servindo para alterar a topografia urbana e as próprias práticas sociais vigentes. Assim, a catástrofe impactava as sociedades medievais por proporcionar a reconfiguração dos espaços ocupados e das dinâmicas comunitárias, o que confirma a alternativa E. A correção de regras sanitárias (A) e a revelação de degradações ambientais (B) não são o efeito destacado. A transformação do imaginário religioso (C) e a remodelação dos sistemas políticos (D) não abrangem a dupla mudança, espacial e social, indicada no texto.`,
+    subject: ['his'],
+    topics: ['História Geral Antiga e Medieval', 'Questões aleatórias'],
   },
   {
     id: 68,
@@ -2290,9 +2290,9 @@ sociedades medievais por proporcionar a`,
     
     ],
     correct: 'E',
-    explanation: `O texto aborda a estratégia de mobilização pela internet adotada pelos Guaranis Pyelito-Kue frente a negação dos seus direitos de permanência em suas terras. Ao utilizarem as redes sociais, o grupo busca o apoio de outros setores e segmentos da sociedade, a nível nacional e internacional.`,
+    explanation: `O texto relata que os Guarani-Kaiowá, ameaçados de despejo, divulgaram uma carta nas redes sociais, gerando grande mobilização em que milhares de pessoas aderiram à hashtag e ao sobrenome indígena em seus perfis. Essa estratégia comunicativa teve por efeito angariar o apoio de segmentos externos à etnia, ampliando a visibilidade da causa, o que valida a alternativa E. Enfraquecer a militância (A) e abalar a identidade dos povos tradicionais (B) contrariam o fortalecimento promovido pela mobilização. Inserir as comunidades no mercado global (C) e distanciá-las das culturas locais (D) não correspondem à estratégia de des-invisibilização descrita.`,
     subject: ['soc'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Movimentos sociais', 'Cultura e identidade', 'Questões aleatórias'],
   },
   {
     id: 69,
@@ -2322,9 +2322,9 @@ representava uma estratégia política de`,
     
     ],
     correct: 'C',
-    explanation: `A criação dos conselhos e do instituto do IBGE citado no texto tem como objetivo um mapeamento do território e a obtenção de informações sociais e ambientais. Tal conjunto de informação possibilitaria um melhor conhecimento sobre as diversidades territoriais do país, e poderia garantir um melhor planejamento.`,
+    explanation: `O texto mostra que o governo Vargas, no Estado Novo, criou órgãos como os Conselhos Nacionais de Geografia, Cartografia e Estatística e o IBGE para fornecer dados confiáveis sobre o território, que era o foco de seu projeto de Estado. Essas instituições visavam obter conhecimento científico das diversidades regionais do país, o que confirma a alternativa C. Preservar a paisagem dos sertões (A), conter o crescimento populacional (B), frear a migração campo-cidade (D) e criar novas unidades federativas (E) não eram as finalidades desses órgãos, voltados ao mapeamento e à produção de informações sobre o território nacional.`,
     subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Brasil República', 'Questões aleatórias'],
   },
   {
     id: 70,
@@ -2354,9 +2354,9 @@ a importância do(a)`,
       { id: 'E', type: 'text', value: `reflorestamento comercial para a produção orgânica.` },
     ],
     correct: 'C',
-    explanation: ``,
+    explanation: `O texto relata que os cientistas Xavante conheciam os mecanismos de germinação das sementes — o fogo, a passagem pelo sistema digestivo de animais silvestres — e que, aliando esse conhecimento ao dos cientistas da cidade, recuperaram totalmente uma área do Cerrado. A relação socioespacial indígena evidencia, assim, a importância do saber tradicional para a conservação ambiental, o que valida a alternativa C. A logística nacional (A), o consumo urbano de hortaliças (B), o aprimoramento genético do gado (D) e o reflorestamento comercial (E) não traduzem o papel do conhecimento tradicional na restauração do bioma descrito.`,
     subject: ['geo'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Meio ambiente e sustentabilidade', 'Questões aleatórias'],
   },
   {
     id: 71,
@@ -2384,9 +2384,9 @@ geomorfológico:`,
 
     ],
     correct: 'A',
-    explanation: ``,
+    explanation: `O texto descreve a destruição contínua das rochas, o transporte dos produtos resultantes pela água, vento e gelo e sua deposição nas regiões mais baixas, onde podem formar novos pacotes rochosos. Essa sequência de desgaste, transporte e deposição caracteriza o ciclo sedimentar, o que confirma a alternativa A. A instabilidade sísmica (B) e o derramamento basáltico (D) são processos ligados ao tectonismo e ao vulcanismo. O intemperismo biológico (C) é apenas uma etapa de desagregação, e a compactação superficial (E) não abrange o conjunto do processo geomorfológico descrito.`,
     subject: ['geo'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Geografia física (clima, relevo, hidrografia)', 'Questões aleatórias'],
   },
   {
     id: 72,
@@ -2419,9 +2419,9 @@ texto?`,
 
     ],
     correct: 'E',
-    explanation: ``,
-    subject: ['soc'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O texto afirma que o Estatuto da Cidade instituiu os planos diretores participativos, mas reconhece o limite à representação das camadas menos favorecidas, defendendo mecanismos de inclusão de toda a sociedade. O fortalecimento das associações de bairro promove exatamente essa participação social na gestão urbana, o que valida a alternativa E. A redução de impostos municipais (A), o adensamento das áreas de comércio (C) e a valorização de condomínios fechados (D) não ampliam a participação popular. A privatização dos espaços públicos (B) contraria o princípio de inclusão e de interesse coletivo defendido no texto.`,
+    subject: ['geo'],
+    topics: ['Urbanização', 'Questões aleatórias'],
   },
   {
     id: 73,
@@ -2447,9 +2447,9 @@ imediata na política nacional a`,
       { id: 'E', type: 'text', value: `radicalização oposicionista.` },
     ],
     correct: 'A',
-    explanation: ``,
+    explanation: `O texto descreve o suicídio de Vargas em 1954, em meio a grave crise política, e ressalta que, ao contrário do que esperavam seus inimigos, ao estampido não se seguiu o silêncio da derrota. Isso indica que a repercussão imediata foi a reação popular em favor do líder e contra seus adversários, o que confirma a alternativa A. A intervenção militar (B) e a abertura democrática (C) não ocorreram como efeito imediato do episódio. A campanha anticomunista (D) e a radicalização oposicionista (E) não traduzem a resposta comovida da população descrita no texto.`,
     subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Brasil República', 'Questões aleatórias'],
   },
   {
     id: 74,
@@ -2481,9 +2481,9 @@ autóctones.` },
 
     ],
     correct: 'B',
-    explanation: `Gabarito: B Comentário: Ao proibir o uso da língua estrangeira e seu ensino nas colônias, o rei desejava anular formas de interação social que fossem divergentes aos padrões europeus.`,
-    subject: ['soc'],
-    topics: ['Cultura e identidade', 'Questões aleatórias']
+    explanation: `A ordem de Dom João, de 1718, determina o banimento dos ciganos para a colônia e proíbe o uso de sua língua, impedindo que a ensinassem aos filhos, para que seu uso desaparecesse. Esse tratamento buscava suprimir formas divergentes de interação social, apagando a identidade cultural do grupo, o que valida a alternativa B. Converter grupos infiéis à religião oficial (A) e reprimir revoltas nativistas (D) não constam do documento. Evitar envolvimento estrangeiro na economia (C) e controlar manifestações artísticas de povos autóctones (E) não correspondem à perseguição linguística e cultural aos ciganos descrita.`,
+    subject: ['his'],
+    topics: ['Brasil Colônia', 'Questões aleatórias'],
   },
   {
     id: 75,
@@ -2510,9 +2510,9 @@ prática medicinal descrita é a`,
       { id: 'E', type: 'text', value: `conjugação de saberes empíricos.` },
     ],
     correct: 'E',
-    explanation: `A partir do contato intenso dos jesuítas com os nativos durante o processo de colonização, os primeiros obtiveram muitos saberes médicos com a prática diária, ou seja, de forma empírica. &nbsp;`,
+    explanation: `O texto afirma que os jesuítas, ancorados ora na prática médica europeia, ora na terapêutica indígena com a flora nativa, foram os iniciadores de uma medicina híbrida no Brasil colonial, aprendendo na prática diária as funções de curar. Essa prática caracteriza-se pela conjugação de saberes empíricos de origens distintas, o que confirma a alternativa E. A adoção de rituais místicos (A) e a imposição da farmacologia nativa (D) não traduzem o hibridismo descrito. A rejeição dos dogmas cristãos (B) e a superação da tradição popular (C) contrariam o texto, que valoriza a combinação de conhecimentos europeus e indígenas.`,
     subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Brasil Colônia', 'Questões aleatórias'],
   },
   {
     id: 76,
@@ -2542,9 +2542,9 @@ seu tempo pelos(as)`,
       { id: 'E', type: 'text', value: `universidades medievais.` },
     ],
     correct: 'B',
-    explanation: `Os movimentos heréticos compostos por grupos como os valdenses eram formados por cristãos de origem mais humildes e que valorizavam a simplicidade frente aos luxos cultivados pela Igreja Católica nesse contexto, revelando as desigualdades sociais.`,
-    subject: ['soc'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O texto mostra Francisco de Assis respondendo ao desafio da cultura profana ao propor uma mensagem acessível a todos e ao enobrecer a língua vulgar no uso religioso, preocupado com as características da Igreja e com as desigualdades sociais. Essa inquietação era compartilhada no período pelos movimentos heréticos, que também criticavam o distanciamento da Igreja em relação aos fiéis, o que valida a alternativa B. Os senhores feudais (A), os integrantes das Cruzadas (C), as corporações de ofícios (D) e as universidades medievais (E) não encarnavam, como os grupos heréticos, a crítica à instituição eclesiástica e às desigualdades presente na atuação do religioso.`,
+    subject: ['his'],
+    topics: ['História Geral Antiga e Medieval', 'Questões aleatórias'],
   },
   {
     id: 77,
@@ -2580,9 +2580,9 @@ são divergentes em relação ao`,
 
     ],
     correct: 'A',
-    explanation: `Enquanto José Murilo de Carvalho evidencia a importância das universidades para a construção de múltiplas identidades, Alfredo Ávila Rueda diminui essa importância e destaca o valor da circulação de impressos.`,
-    subject: ['soc'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O texto confronta duas interpretações: para José Murilo de Carvalho, a ausência de universidades na colônia portuguesa explicaria a coesão do Brasil; para Alfredo Ávila Rueda, foi a livre circulação de impressos, e não as universidades, que teve papel maior na formação de regionalismos na América espanhola. A divergência recai, portanto, sobre o papel desempenhado pelas instituições de ensino na criação das múltiplas identidades, o que confirma a alternativa A. As demais alternativas deslocam o debate para o controle da imprensa (B), o abandono dos docentes (C), as agremiações estudantis (D) e o protagonismo dos meios de comunicação (E), que não sintetizam o ponto de discordância entre os historiadores.`,
+    subject: ['his'],
+    topics: ['Brasil Colônia', 'Questões aleatórias'],
   },
   {
     id: 78,
@@ -2616,9 +2616,9 @@ diferencia-se da do Texto | ao destacar a existência de`,
       { id: 'E', type: 'text', value: `superioridade dos aspectos econômicos.` },
     ],
     correct: 'A',
-    explanation: `O texto 2 destaca a pluralidade social, citando a atuação de camponeses, tecelões e crentes no processo revolucionário.`,
-    subject: ['soc'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O Texto I, de Macaulay, vê a Revolução Inglesa como a luta do Parlamento pela liberdade política e religiosa; o Texto II, de Christopher Hill, destaca a ruptura da velha sociedade, com camponeses contra os cercamentos, tecelões contra a miséria e crentes contra o Anticristo. O Texto II diferencia-se ao ressaltar a pluralidade das demandas sociais envolvidas no processo, o que valida a alternativa A. A homogeneidade das lutas religiosas (B) e a unicidade das abordagens históricas (C) contrariam essa diversidade. A superficialidade dos interesses políticos (D) e a superioridade dos aspectos econômicos (E) não expressam o que o segundo texto acrescenta à visão do primeiro.`,
+    subject: ['his'],
+    topics: ['História Moderna', 'Questões aleatórias'],
   },
   {
     id: 79,
@@ -2635,9 +2635,9 @@ diferencia-se da do Texto | ao destacar a existência de`,
     
     ],
     correct: 'E',
-    explanation: ``,
-    subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O texto define a indústria de enclave como aquela que estabelece poucas relações com o entorno, mas exerce grande influência na economia extralocal, operando com relativa autonomia. Uma ação coerente com essa territorialização é a importação de mão de obra qualificada de fora, em vez de integrar a população local, o que valida a alternativa E. A criação de vilas operárias (A), a promoção de eventos comunitários (B), a recuperação de áreas degradadas (C) e a incorporação de saberes tradicionais (D) pressuporiam vínculos com o entorno, contrariando o caráter isolado do enclave industrial descrito.`,
+    subject: ['geo'],
+    topics: ['Indústria e comércio', 'Questões aleatórias'],
   },
   {
     id: 80,
@@ -2679,9 +2679,9 @@ descompassos na construção de quadros`,
       { id: 'E', type: 'text', value: `vagarosidade na dinâmica de aperfeiçoamento dos programas partidários.` },
     ],
     correct: 'C',
-    explanation: `Como apontam vários sociólogos brasileiros, a modernização brasileira foi conservadora, não realizando uma verdadeira revolução tal qual a passagem do Antigo Regime para a sociedade liberal na Europa e mantendo traços tradicionais e arcaicos na estrutura do país.`,
+    explanation: `O texto analisa a sociedade em transição pela coexistência de dois padrões — o tradicional em declínio e o moderno emergente —, o que gera ambivalência política e tendência ao adiamento das grandes decisões. Esse diagnóstico, central no pensamento social brasileiro dos anos 1950-60, aponta descompassos na construção de quadros institucionais modernos, o que valida a alternativa C. A radicalidade das elites dirigentes (A), as anomalias dos planos ortodoxos (B), a ilegitimidade dos movimentos classistas (D) e a vagarosidade dos programas partidários (E) não correspondem à ideia de convivência contraditória entre o velho e o novo que marca a análise.`,
     subject: ['soc'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Sociologia', 'Questões aleatórias'],
   },
   {
     id: 81,
@@ -2713,9 +2713,9 @@ sentido, o trecho propõe uma relação necessária entre`,
       { id: 'E', type: 'text', value: `remuneração de professores e extinção do analfabetismo.` },
     ],
     correct: 'B',
-    explanation: `O texto fala da democratização do acesso à educação, possibilitando as mesmas oportunidades a todos, valorizando uma “hierarquia das capacitades”.`,
+    explanation: `O Manifesto dos Pioneiros da Educação Nova propõe uma hierarquia democrática baseada na hierarquia das capacidades, recrutada em todos os grupos sociais, aos quais se abririam as mesmas oportunidades de educação. Contrapondo-se ao caráter oligárquico da sociedade brasileira, o texto defende a relação entre acesso à escola e valorização do mérito, o que confirma a alternativa B. O ensino técnico e o mercado de trabalho (A), a formação de gestores (C), o financiamento de pesquisa (D) e a remuneração de professores (E) não traduzem o vínculo entre oportunidade educacional ampla e seleção pelas capacidades proposto no manifesto.`,
     subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Brasil República', 'Questões aleatórias'],
   },
   {
     id: 82,
@@ -2739,9 +2739,9 @@ Mênon é um exemplo da utilização do(a)`,
       { id: 'E', type: 'text', value: `suspensão judicativa.` },
     ],
     correct: 'B',
-    explanation: ``,
+    explanation: `No diálogo, Sócrates questiona Mênon se seria possível saber de que tipo é algo sem antes saber o que esse algo é, conduzindo-o por perguntas a reconhecer que precisa definir o que é a virtude. Essa condução por perguntas e respostas sucessivas é característica do método dialético socrático, o que valida a alternativa B. A escrita epistolar (A) e a linguagem trágica (C) não correspondem à forma do texto. A explicação fisicalista (D) remete aos filósofos da natureza, e a suspensão judicativa (E) é noção do ceticismo, estranhas ao procedimento de interrogação e definição empregado por Sócrates.`,
     subject: ['fil'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Filosofia Antiga (Sócrates, Platão, Aristóteles)', 'Questões aleatórias'],
   },
   {
     id: 83,
@@ -2777,9 +2777,9 @@ texto cumprem a função de uma`,
 
     ],
     correct: 'A',
-    explanation: `Elementos gráficos, imagens, esculturas e provérbios entalhados em panelas ou na areia auxiliam a transmissão de valores e costumes, ou seja, tais elementos culturais possuem objetivo pedagógico. Os costumes sociais são passados pelas gerações e cumprem a função de orientar os grupos mais novos na vida social sobre os mais diversos temas. Cada sociedade tem uma forma de realizar seu processo de socialização, mas todas o realizam, promovendo a manutenção social.`,
-    subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O texto descreve que, entre os Woyo, os pais ofereciam aos filhos tampas de panela entalhadas com provérbios e signos codificados, transmitindo orientações sobre a escolha do cônjuge e a vida conjugal. Esses artefatos cumprem, assim, a função de uma pedagogia dos costumes sociais, ensinando valores e condutas por meio de imagens, o que valida a alternativa A. A imposição das formas de comunicação (B) e a desvalorização dos comportamentos da juventude (C) não correspondem ao caráter formativo descrito. A destituição dos valores do matrimônio (D) contraria o texto, e a etnografia das celebrações religiosas (E) não expressa a finalidade educativa dos objetos.`,
+    subject: ['soc'],
+    topics: ['Cultura e identidade', 'Questões aleatórias'],
   },
   {
     id: 84,
@@ -2808,9 +2808,9 @@ de grupos indígenas do Nordeste brasileiro a função de`,
 
     ],
     correct: 'B',
-    explanation: `Como demonstrado por Durkheim, a forma de garantia da coesão social nas sociedades tradicionais se baseia pela semelhança entre os indivíduos, como demonstrado no texto ao apontar vínculos de afinidade e parentesco entre os participantes da brincadeira.`,
-    subject: ['his'],
-    topics: ['História Contemporânea', 'Questões aleatórias']
+    explanation: `O texto apresenta o torém como brincadeira ligada à organização familiar, praticada por pessoas com laços de parentesco e afinidade e que reunia várias pessoas da região em torno do mocororó. Essa manifestação cultural cumpre a função de estimular a coesão social do grupo, o que confirma a alternativa B. Celebrar a história oficial (A) e manipular a memória individual (D) não correspondem ao caráter coletivo e comunitário do ritual. Superar a atividade artesanal (C) e modernizar o comércio tradicional (E) não têm relação com o entretenimento festivo que reforça os vínculos sociais descritos.`,
+    subject: ['soc'],
+    topics: ['Cultura e identidade', 'Questões aleatórias'],
   },
   {
     id: 85,
@@ -2848,9 +2848,9 @@ qual a estratégia de resistência escrava apresentada?`,
 ` },
     ],
     correct: 'A',
-    explanation: `Segundo o texto, o escravizado fugitivo chegou a estabelecer relações de trabalho em sua primeira fuga, demonstrando uma prática de resistência que unia a fuga ao trabalho.`,
+    explanation: `O anúncio de 1879 revela que o escravo José, ao fugir, intitulava-se forro e chegou a trabalhar contratado como camarada em uma fazenda, simulando a condição de homem livre. Essa estratégia de resistência consistia na criação de relações de trabalho que o fizessem passar por trabalhador livre, o que valida a alternativa A. A fundação de territórios quilombolas (B) não é mencionada no texto. A suavização da aplicação de normas (C), a regularização das funções remuneradas (D) e a economia de subsistência (E) não descrevem o expediente usado pelo fugitivo para escapar do cativeiro e se inserir no trabalho livre.`,
     subject: ['his'],
-    topics: ['Genética', 'Questões aleatórias']
+    topics: ['Escravidão e abolição', 'Brasil Império', 'Questões aleatórias'],
   },
   {
     id: 86,
@@ -2875,9 +2875,9 @@ condição epistemológica da filosofia, tem como objetivo`,
       { id: 'E', type: 'text', value: `incentivar a suspensão dos juízos.` },
     ],
     correct: 'A',
-    explanation: ``,
+    explanation: `Descartes compara a filosofia a uma árvore cujas raízes são a metafísica, o tronco é a física e os ramos são as demais ciências, todas interligadas e culminando na moral, que pressupõe o saber integral das outras. Essa alegoria tem por objetivo sustentar a unidade essencial do conhecimento, mostrando sua articulação a partir de um fundamento comum, o que valida a alternativa A. Refutar o fundamento das crenças (B) e incentivar a suspensão dos juízos (E) remetem ao ceticismo, oposto à proposta. Impulsionar o pensamento especulativo (C) e recepcionar o método experimental (D) não traduzem a ideia de totalidade interligada do saber.`,
     subject: ['fil'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Filosofia Moderna (Descartes, Kant, Hume)', 'Teoria do conhecimento', 'Questões aleatórias'],
   },
   {
     id: 87,
@@ -2901,9 +2901,9 @@ crítica à tradição cristã que`,
       { id: 'E', type: 'text', value: `consagra a realização humana ao campo transcendental.` },
     ],
     correct: 'E',
-    explanation: ``,
-    subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `A fórmula do amor fati, em Nietzsche, prega amar aquilo que é, sem desejar outra coisa nem apenas suportar o inevitável, afirmando plenamente a vida terrena e o próprio destino. Essa postura critica a tradição cristã que consagra a realização humana ao campo transcendental, isto é, que desloca o sentido da existência para além da vida terrena, o que valida a alternativa E. Combater práticas afetivas (A), impedir o avanço científico (B), associar cultos pagãos à natureza (C) e condenar a filosofia antiga (D) não expressam a crítica nietzschiana ao adiamento da realização humana para um plano transcendente.`,
+    subject: ['fil'],
+    topics: ['Filosofia Contemporânea', 'Ética e moral', 'Questões aleatórias'],
   },
   {
     id: 88,
@@ -2929,9 +2929,9 @@ no texto?`,
 
     ],
     correct: 'E',
-    explanation: ``,
-    subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O texto de Tomás de Kempis prega o uso de violência contra os apetites dos sentidos, castigando e curvando a carne à sujeição ao espírito e contentando-se com pouco. Essa mortificação expressa a característica do ascetismo medieval de desvalorização da materialidade corpórea em favor da vida espiritual, o que valida a alternativa E. A exaltação do ritualismo litúrgico (A) e a afirmação do pensamento racional (B) não estão em foco. A desqualificação da atividade laboral (C) e a condenação da alimentação impura (D) não correspondem ao combate aos desejos do corpo descrito no texto.`,
+    subject: ['fil'],
+    topics: ['Filosofia Medieval', 'Ética e moral', 'Questões aleatórias'],
   },
   {
     id: 89,
@@ -2956,9 +2956,9 @@ Considerando as informações apresentadas, o prédio do Congresso Nacional, em 
 
     ],
     correct: 'B',
-    explanation: ``,
+    explanation: `Em Brasília, situada no Hemisfério Sul, o solstício de 21 de junho corresponde ao inverno austral, quando o Sol, ao meio-dia, aparece deslocado em direção ao norte. Como a sombra se projeta no sentido oposto ao da posição do Sol, ela apontará para o sul, o que valida a alternativa B. As direções leste (C) e oeste (D) correspondem ao nascer e ao pôr do Sol, não à posição do meio-dia. A direção norte (A) é aquela para onde o Sol se inclina, e não a sombra, e o nordeste (E) não corresponde à projeção da sombra ao meio-dia solar no solstício de junho.`,
     subject: ['geo'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Cartografia', 'Geografia física (clima, relevo, hidrografia)', 'Questões aleatórias'],
   },
   {
     id: 90,
@@ -2984,14 +2984,13 @@ séculos XVIII e XIX caracterizada pela`,
 
     ],
     correct: 'B',
-    explanation: ``,
+    explanation: `Os textos mostram que a tarefa repugnante de carregar o lixo e os dejetos das casas pelas ruas do Rio era destinada aos escravos de menor status, os chamados tigres, e realizada à noite. Essa divisão do trabalho segundo a condição servil revela a reiteração das hierarquias sociais no cotidiano urbano dos séculos XVIII e XIX, o que valida a alternativa B. A valorização do trabalho braçal (A) e a sacralização das atividades laborais (C) contrariam o caráter degradante da tarefa. A superação das exclusões econômicas (D) e a ressignificação das heranças religiosas (E) não correspondem à reprodução das desigualdades descrita.`,
     subject: ['his'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Escravidão e abolição', 'Brasil Colônia', 'Questões aleatórias'],
   },
 
   {
-    id: 91,
-    displayId: 1,
+    id: 1,
     language: 'es',
     exam: 'enem',
     year: 2021,
@@ -3007,13 +3006,12 @@ Esse trecho da resenha de um livro de entrevistas concedidas por Federico Garcia
       { id: 'E', type: 'text', value: `criticar o interesse do entrevistado por particularidades da vida humana.` },
     ],
     correct: 'C',
-    explanation: ``,
+    explanation: `Resposta correta: C. A resenha reúne declarações de Lorca e destaca aquela em que ele afirma que "hoje não interessa mais que uma problemática: a social" e que a obra que não seguir essa direção está condenada ao fracasso. O trecho salienta, assim, o compromisso do entrevistado com as questões sociais. Embora Lorca mencione um possível "más allá", o foco não é sua atração por questões místicas (A). O texto não divulga comoção das elites (B) — Lorca diz nunca ter sido poeta de minoria — nem apenas mostra a atualidade de suas obras (D); e não o critica (E), mas valoriza seu olhar sobre o humano e o social.`,
     subject: ['esp'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Questões aleatórias'],
   },
   {
-    id: 92,
-    displayId: 2,
+    id: 2,
     language: 'es',
     exam: 'enem',
     year: 2021,
@@ -3030,13 +3028,12 @@ No fragmento do romance, a uruguaia Auxilio narra a experiência que viveu no M�
       { id: 'E', type: 'text', value: `dificuldades de comunicação entre patrão e empregada.` },
     ],
     correct: 'A',
-    explanation: ``,
+    explanation: `Resposta correta: A. Ao conviver com os dois escritores espanhóis, Auxilio repara no modo peculiar como eles falam — "esa musiquilla distinta", o jeito de "encircular" as zetas e as ces e de deixar os "eses" mais soltos. Essa observação a leva a refletir sobre a variação linguística do espanhol, isto é, as diferenças de pronúncia entre o falar dos espanhóis e o dela, uruguaia. A frase sobre o pó e a literatura é apenas um comentário bem-humorado dos escritores, não o tema de sua reflexão (B). Ela não reflete sobre ordens de limpeza (D) nem sobre dificuldades de comunicação entre patrão e empregada (E); e as distintas maneiras de acolher (C) referem-se aos espanhóis, não ao mexicano.`,
     subject: ['esp'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Questões aleatórias'],
   },
   {
-    id: 93,
-    displayId: 3,
+    id: 3,
     language: 'es',
     exam: 'enem',
     year: 2021,
@@ -3054,14 +3051,13 @@ O texto trata da evolução inerente às funcionalidades de recursos tecnológic
       { id: 'E', type: 'text', value: `assumir utilidade jurídica.
 ` },
     ],
-    correct: 'A',
-    explanation: ``,
+    correct: 'E',
+    explanation: `Resposta correta: E. O texto chama os celulares de "a guilhotina do século XXI" porque, ao gravar e registrar conversas, acordos, chantagens e negociatas, eles produzem provas que "derrubaram governos, empresas e políticos" e até libertaram um inocente após quatro anos de prisão injusta. A metáfora destaca, portanto, que os celulares podem assumir uma utilidade jurídica, servindo a processos legais e investigativos. Oferecer funções múltiplas (A), reunir pessoas com ideias afins (B), divulgar informação instantânea (C) e organizar movimentos sociais (D) são outros usos citados, mas não é a eles que a expressão "guilhotina" se refere, e sim ao poder de incriminar e fazer justiça.`,
     subject: ['esp'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Vocabulário', 'Questões aleatórias'],
   },
   {
-    id: 94,
-    displayId: 4,
+    id: 4,
     language: 'es',
     exam: 'enem',
     year: 2021,
@@ -3076,14 +3072,13 @@ No âmbito literário, são mobilizados diferentes recursos que visam à express
       { id: 'D', type: 'text', value: `caracterizar o espaço do conto.` },
       { id: 'E', type: 'text', value: `narrar a perenidade da velhice.` },
     ],
-    correct: 'B',
-    explanation: ``,
+    correct: 'A',
+    explanation: `Resposta correta: A. A analogia compara o velho, reduzido e polido pelos muitos anos, às águas que desgastam e poliem uma pedra (e às gerações que lapidam uma sentença). A comparação tem a função de enfatizar a ação do tempo sobre a personagem, que o transformou lenta e profundamente. A expressão não descreve a objetificação do ambiente (B) nem caracteriza o espaço do conto (D). Ela também não expõe uma anacronia da personagem (C) — isso é sugerido por "fuera del tiempo", não pela analogia — nem narra a perenidade da velhice (E), mas ressalta o efeito do tempo.`,
     subject: ['esp'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Questões aleatórias'],
   },
   {
-    id: 95,
-    displayId: 5,
+    id: 5,
     language: 'es',
     exam: 'enem',
     year: 2021,
@@ -3101,10 +3096,10 @@ A charge evoca uma situação de assombro frente a uma realidade que assola as s
       { id: 'E', type: 'text', value: `manipulação das notícias difundidas pelas mídias.
 ` },
     ],
-    correct: 'B',
-    explanation: ``,
+    correct: 'A',
+    explanation: `Resposta correta: A. Na charge, diante de um jornal cheio de palavras como guerra, crise, miséria e violência, uma personagem pergunta "Por Dios! Qué le ha pasado al mundo?" e a resposta é "Nosotros" ("Nós"). O efeito humorístico — e crítico — reside na constatação de que o próprio ser humano é o responsável pela condição caótica do mundo. A charge não apela à religiosidade como saída (B) nem foca a indignação dos trabalhadores (C). Também não critica a veiculação de notícias trágicas pelos telejornais (D) nem a manipulação das mídias (E); o alvo é a responsabilidade humana pelos problemas.`,
     subject: ['esp'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Interpretação de texto', 'Questões aleatórias'],
   },
 ];
 

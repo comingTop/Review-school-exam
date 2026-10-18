@@ -1,0 +1,182 @@
+{
+  "91": {
+    "subject": ["qui"],
+    "topics": ["Química Geral"]
+  },
+  "92": {
+    "subject": ["fis"],
+    "topics": ["Ondulatória"]
+  },
+  "93": {
+    "subject": ["bio"],
+    "topics": ["Evolução"]
+  },
+  "94": {
+    "subject": ["fis"],
+    "topics": ["Cinemática"]
+  },
+  "95": {
+    "subject": ["qui"],
+    "topics": ["Físico-química"]
+  },
+  "96": {
+    "subject": ["bio"],
+    "topics": ["Genética"]
+  },
+  "97": {
+    "subject": ["qui"],
+    "topics": ["Química Orgânica"]
+  },
+  "98": {
+    "subject": ["bio"],
+    "topics": ["Fisiologia Humana"]
+  },
+  "99": {
+    "subject": ["fis"],
+    "topics": ["Termologia"]
+  },
+  "100": {
+    "subject": ["fis"],
+    "topics": ["Dinâmica"]
+  },
+  "101": {
+    "subject": ["qui"],
+    "topics": ["Química Geral"]
+  },
+  "102": {
+    "subject": ["fis"],
+    "topics": ["Eletrodinâmica"]
+  },
+  "103": {
+    "subject": ["qui"],
+    "topics": ["Físico-química"]
+  },
+  "104": {
+    "subject": ["bio"],
+    "topics": ["Ecologia"]
+  },
+  "105": {
+    "subject": ["fis"],
+    "topics": ["Eletromagnetismo/Indução"]
+  },
+  "106": {
+    "subject": ["qui"],
+    "topics": ["Química Orgânica"]
+  },
+  "107": {
+    "subject": ["fis"],
+    "topics": ["Trabalho, energia e potência"]
+  },
+  "108": {
+    "subject": ["fis"],
+    "topics": ["Gravitação"]
+  },
+  "109": {
+    "subject": ["fis"],
+    "topics": ["Eletrodinâmica"]
+  },
+  "110": {
+    "subject": ["bio"],
+    "topics": ["Citologia"]
+  },
+  "111": {
+    "subject": ["bio"],
+    "topics": ["Ecologia"]
+  },
+  "112": {
+    "subject": ["bio"],
+    "topics": ["Biotecnologia"]
+  },
+  "113": {
+    "subject": ["qui"],
+    "topics": ["Eletroquímica"]
+  },
+  "114": {
+    "subject": ["bio"],
+    "topics": ["Fisiologia Humana"]
+  },
+  "115": {
+    "subject": ["fis"],
+    "topics": ["Termologia"]
+  },
+  "116": {
+    "subject": ["qui"],
+    "topics": ["Química Orgânica"]
+  },
+  "117": {
+    "subject": ["bio"],
+    "topics": ["Ecologia"]
+  },
+  "118": {
+    "subject": ["bio"],
+    "topics": ["Saúde pública & parasitologia (doenças, vetores, prevenção)"]
+  },
+  "119": {
+    "subject": ["bio"],
+    "topics": ["Botânica"]
+  },
+  "120": {
+    "subject": ["fis"],
+    "topics": ["Óptica"]
+  },
+  "121": {
+    "subject": ["bio"],
+    "topics": ["Evolução"]
+  },
+  "122": {
+    "subject": ["qui"],
+    "topics": ["Química Ambiental"]
+  },
+  "123": {
+    "subject": ["bio"],
+    "topics": ["Botânica"]
+  },
+  "124": {
+    "subject": ["qui"],
+    "topics": ["Eletroquímica"]
+  },
+  "125": {
+    "subject": ["fis"],
+    "topics": ["Termologia"]
+  },
+  "126": {
+    "subject": ["fis"],
+    "topics": ["Eletrodinâmica"]
+  },
+  "127": {
+    "subject": ["bio"],
+    "topics": ["Ecologia"]
+  },
+  "128": {
+    "subject": ["fis"],
+    "topics": ["Eletrodinâmica"]
+  },
+  "129": {
+    "subject": ["bio"],
+    "topics": ["Botânica"]
+  },
+  "130": {
+    "subject": ["qui"],
+    "topics": ["Química Orgânica"]
+  },
+  "131": {
+    "subject": ["fis"],
+    "topics": ["Ondulatória"]
+  },
+  "132": {
+    "subject": ["bio"],
+    "topics": ["Genética"]
+  },
+  "133": {
+    "subject": ["qui"],
+    "topics": ["Eletroquímica"]
+  },
+  "134": {
+    "subject": ["fis"],
+    "topics": ["Termologia"]
+  },
+  "135": {
+    "subject": ["qui"],
+    "topics": ["Química Orgânica"]
+  }
+}

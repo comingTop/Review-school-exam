@@ -48,9 +48,9 @@ produtor pode empregar uma solução de`,
       { id: 'E', type: 'text', value: `hidróxido de potássio, KOH.` },
     ],
     correct: 'E',
-    explanation: `A composição de referência deve apresentar várias substâncias em diferentes concentrações. Além disso, a faixa de pH deve ser entre 5,5 e 6,5. Entretanto, uma solução nutritiva preparada apresenta um pH igual a 4,3. O comando quer saber qual solução deve ser utilizada para corrigir o pH. Como a solução está com um pH mais baixo que o de referência, devemos utilizar algum composto de característica básica para que o pH aumente. Sendo assim, entre as opções temos o hidróxido de potássio que é uma base forte.`,
+    explanation: `A solução preparada está com pH = 4,3, abaixo da faixa ideal (5,5 a 6,5), ou seja, ácida demais. Para elevar o pH é preciso adicionar um composto de caráter básico, sem introduzir elementos nocivos às plantas. Entre as opções, o hidróxido de potássio (KOH) é a única base, e o íon K⁺ já é um macronutriente, não sendo prejudicial. O ácido fosfórico abaixaria ainda mais o pH, e os demais compostos não têm o caráter básico necessário. Portanto, o produtor deve empregar uma solução de hidróxido de potássio, KOH (alternativa E).`,
     subject: ['qui'],
-    topics: ['Química Geral', 'Questões aleatórias']
+    topics: ['Química Geral', 'Questões aleatórias'],
   },
   {
     id: 92,
@@ -76,9 +76,9 @@ velocidades de propagação são, respectivamente,`,
       { id: 'E', type: 'text', value: `f1 > f2 e v1 > v2.` },
     ],
     correct: 'D',
-    explanation: null,
+    explanation: `A barra de menor comprimento vibra com comprimento de onda menor e, por isso, emite som de frequência fundamental mais alta, de modo que f₁ > f₂. Já a velocidade de propagação do som na barra depende apenas do material (módulo de elasticidade e densidade), que é o mesmo para todas as barras; logo, v₁ = v₂ (o mesmo valendo para a velocidade do som no ar). Assim, a barra menor tem maior frequência e as velocidades são iguais. Portanto, f₁ > f₂ e v₁ = v₂ (alternativa D).`,
     subject: ['fis'],
-    topics: ['Física', 'Ondas sonoras', 'Frequência fundamental']
+    topics: ['Ondulatória', 'Questões aleatórias'],
   },
   {
     id: 93,
@@ -110,9 +110,9 @@ comportamentos.` },
 
     ],
     correct: 'E',
-    explanation: `O aspecto mimético do polvo decorre de sua maior sobrevivência e reprodução em comparação com morfotipos não miméticos (seleção natural).`,
+    explanation: `O mimetismo do polvo é um caráter que se fixou por seleção natural: os indivíduos que, por variabilidade, conseguiam imitar outros animais tinham maior chance de escapar de predadores e sobreviver. Assim, esses comportamentos foram favorecidos ao longo das gerações por conferirem vantagem adaptativa diante das pressões seletivas. Não se trata de ancestral comum com os animais imitados, de observação consciente nem de mutações idênticas. Portanto, a capacidade se estabeleceu porque os polvos sobreviveram às pressões seletivas com esses comportamentos (alternativa E).`,
     subject: ['bio'],
-    topics: ['Porcentagem', 'Questões aleatórias']
+    topics: ['Evolução', 'Questões aleatórias'],
   },
   {
     id: 94,
@@ -145,9 +145,9 @@ pelo canhão B atingir o canhão A?`,
 
     ],
     correct: 'C',
-    explanation: ``,
-    subject: ['bio'],
-    topics: ['Genética', 'Questões aleatórias']
+    explanation: `Tomando o canhão B na origem e disparando a 53°, as equações do movimento são x = v₀·cos53°·t = 0,6·v₀·t e y = v₀·sen53°·t − ½·g·t² = 0,8·v₀·t − 5·t². O canhão A está a 120 m na horizontal e 35 m na vertical. De x = 120 vem t = 120/(0,6·v₀) = 200/v₀; substituindo em y = 35: 35 = 0,8·v₀·(200/v₀) − 5·(200/v₀)² = 160 − 200000/v₀². Logo 200000/v₀² = 125 → v₀² = 1600 → v₀ = 40 m/s. Portanto, o menor valor da velocidade inicial é 40 m/s (alternativa C).`,
+    subject: ['fis'],
+    topics: ['Cinemática', 'Questões aleatórias'],
   },
   {
     id: 95,
@@ -172,9 +172,9 @@ próxima de`,
 
     ],
     correct: 'A',
-    explanation: `A massa inicial do pesticida é de 500 g. Com o passar de um tempo de meia vida, a massa caia à metade. Como o tempo de meia vida é de 5 anos e o tempo que o problema quer que se passe é de 35 anos. Sendo assim, precisamos dividir 35 por 5 para saber quantos tempos de meia vida vão passar. &nbsp; 35/5 = 7 &nbsp; 500 g → 250 g → 125 g → 62,5 g → 31,25 g → 15,625 g → 7,8125 g → 3,906 g &nbsp; Sendo assim, a massa após 35 anos é de aproximadamente 3,9 g.`,
-    subject: ['bio'],
-    topics: ['Urbanização', 'Questões aleatórias']
+    explanation: `Com meia-vida de 5 anos, em 35 anos ocorrem 35/5 = 7 meias-vidas. A cada meia-vida a massa cai à metade, de modo que a massa final é 500/2⁷ = 500/128 ≈ 3,9 g. Partindo de 500 g: 250 → 125 → 62,5 → 31,25 → 15,6 → 7,8 → 3,9 g após as sete meias-vidas. Portanto, a massa do pesticida será mais próxima de 3,9 g (alternativa A).`,
+    subject: ['qui'],
+    topics: ['Físico-química', 'Questões aleatórias'],
   },
   {
     id: 96,
@@ -200,9 +200,9 @@ Qual mutação produzirá a menor proteína?`,
 
     ],
     correct: 'B',
-    explanation: ``,
+    explanation: `O códon 4 original é CAA. A substituição de C por U no códon 4 o transforma em UAA, que é um códon de parada (terminal). Com isso, a tradução é interrompida logo após o terceiro códon, gerando uma proteína com apenas 3 aminoácidos — a menor de todas. As deleções provocam mudança no quadro de leitura, mas o códon de parada só aparece mais adiante, e as outras substituições não criam parada precoce, resultando em proteínas maiores. Portanto, a mutação que produz a menor proteína é a substituição de C por U no códon 4 (alternativa B).`,
     subject: ['bio'],
-    topics: ['Genética', 'Questões aleatórias']
+    topics: ['Genética', 'Questões aleatórias'],
   },
   {
     id: 97,
@@ -228,9 +228,9 @@ reaproveitamento do óleo vegetal é denominada`,
       { id: 'E', type: 'text', value: `saponificação.` },
     ],
     correct: 'E',
-    explanation: `A reação de síntese do sabão a partir do óleo de cozinha é uma reação de saponificação. Onde nós temos uma reação de éster com base forte produzindo sal orgânico e álcool. No caso do óleo, temos um triéster (triglicerídeo) reagindo com uma base forte e produzindo o sabão que é um sal orgânico e o glicerol que é um triálcool.`,
-    subject: ['bio'],
-    topics: ['Genética', 'Questões aleatórias']
+    explanation: `A reação entre um óleo vegetal (triéster do glicerol) e uma base forte (soda cáustica, NaOH) é a hidrólise alcalina dos ésteres, que produz glicerol e sais de ácidos graxos — o sabão. Essa reação de um éster com uma base para formar sabão é denominada saponificação. Não se trata de redução, epoxidação ou substituição, e a esterificação é justamente a reação inversa (de formação do éster). Portanto, a reação é a saponificação (alternativa E).`,
+    subject: ['qui'],
+    topics: ['Química Orgânica', 'Questões aleatórias'],
   },
   {
     id: 98,
@@ -259,9 +259,9 @@ temporalmente o sangue venoso do arterial.` },
 
     ],
     correct: 'D',
-    explanation: `A questão assume que o coração tetracavitario fetal se assemelha ao dos peixes porém tal semelhança ocorre somente até a 4a semana de desenvolvimento, antes da separação dos átrios e da formação do forâmen oval. Dessa forma a questão possui erro conceitual básico devendo ser anulada`,
+    explanation: `No feto, o forame oval permite a passagem direta de sangue entre os átrios, promovendo mistura sanguínea. Essa condição lembra a circulação dos peixes, que é simples e completa: o sangue passa uma única vez pelo coração a cada volta pelo corpo, sem a separação entre circulação pulmonar e sistêmica típica do adulto. Como os pulmões do feto ainda não funcionam, essa comunicação não lhe causa prejuízo. Portanto, a circulação fetal se assemelha à dos peixes, porque é simples, com passagem única pelo coração (alternativa D).`,
     subject: ['bio'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Fisiologia Humana', 'Questões aleatórias'],
   },
   {
     id: 99,
@@ -297,9 +297,9 @@ Esses mecanismos são, respectivamente,`,
       { id: 'E', type: 'text', value: `convecção e convecção.` },
     ],
     correct: 'A',
-    explanation: `A questão tratava das formas de propagação de calor. No caso do Sol para a ilha de calor, temos a radiação (ou irradiação) e as brisas marítima e terrestre são formadas pela convecção.`,
+    explanation: `Entre o Sol e a ilha de calor não há meio material contínuo transportando a energia, que atravessa o espaço e a atmosfera na forma de ondas eletromagnéticas — caracterizando a irradiação. Já entre a ilha de calor e a brisa marítima o calor é levado pelo movimento ascendente do ar aquecido, que sobe transportando energia térmica — processo típico dos fluidos, a convecção. Portanto, os mecanismos são, respectivamente, irradiação e convecção (alternativa A).`,
     subject: ['fis'],
-    topics: ['Termologia', 'Questões aleatórias']
+    topics: ['Termologia', 'Questões aleatórias'],
   },
   {
     id: 100,
@@ -338,9 +338,9 @@ comportamento dos corpos em queda nessa discussão
 
     ],
     correct: 'B',
-    explanation: `Questão conversa sobre corpos abandonados de uma mesma altura atingir o solo em tempos diferentes. Isso só ocorre na presença de resistência do ar. Vemos que duas folhas de papéis idênticas, porém em formatos diferentes, caem, quando abandonadas da mesma altura, em tempos diferentes, com isso fica evidente que o peso dos corpos não interfere na sua queda livre.`,
+    explanation: `Segundo a física, no vácuo todos os corpos caem com a mesma aceleração, independentemente do peso ou da massa. As diferenças observadas (a pedra chegar antes da rolha; o papel amassado cair mais rápido que o esticado) devem-se à resistência do ar, força que depende da forma e da área exposta do corpo. É esse aspecto comum — a resistência do ar — que explica as duas situações da discussão. Portanto, a resposta é a resistência do ar (alternativa B).`,
     subject: ['fis'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Dinâmica', 'Questões aleatórias'],
   },
   {
     id: 101,
@@ -370,9 +370,9 @@ mais próximo de`,
 
     ],
     correct: 'C',
-    explanation: `Segundo o enunciado, a proporção entre glicose e etanol é de: &nbsp; 100 g de Glicose para 50 g de Etanol &nbsp; Porém a massa utilizada de Glicose é de 50 Kg = 50000 g. Como enunciado comentou que temos um pureza de 80%, temos: &nbsp; 100 g Glicose &#8212;&#8212;- 50 g Etanol 0,8.50000 g Glicose &#8212;&#8212;- X &nbsp; X = 20000 g de Etanol. &nbsp; O comando da questão quer saber o volume de etanol. Aplicando a densidade informado no enunciado, temos: &nbsp; d = m/V 0,8 = 20000/V V = 25000 mL = 25 L`,
+    explanation: `Pela relação dada, 100 g de glicose produzem cerca de 50 g de etanol no rendimento máximo. Com 50 kg = 50 000 g de glicose e 80% de conversão: massa de etanol = 50 000 × 0,50 × 0,80 = 20 000 g. Com densidade de 0,80 g/mL, o volume é V = m/d = 20 000/0,80 = 25 000 mL = 25 L. Portanto, o volume de etanol obtido é próximo de 25 litros (alternativa C).`,
     subject: ['qui'],
-    topics: ['Geometria espacial', 'Questões aleatórias']
+    topics: ['Química Geral', 'Questões aleatórias'],
   },
   {
     id: 102,
@@ -394,9 +394,9 @@ equivalente a esse sistema é`,
       { id: 'E', type: 'text', value: `E` },
     ],
     correct: 'B',
-    explanation: `Nesta questão é possível observar que as soluções são as pilhas, ou seja, são dois geradores em série, e pela ordem que é apresentada as soluções já podemos descartar a letra C. Sendo o voltímetro em paralelo com resistor, que no caso é o cronômetro.`,
-    subject: ['qui'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Cada conjunto Cu(s)/CuSO₄ ligado a Zn(s)/ZnSO₄ constitui uma pilha (fonte de tensão); como há duas dessas pilhas ligadas em sequência, elas formam uma associação de duas baterias em série. O cronômetro é o aparelho alimentado, representado por um resistor, e o voltímetro, por medir a diferença de potencial, deve ser ligado em paralelo. O esquema que mostra duas pilhas em série, um resistor e o voltímetro em paralelo é o da alternativa B.`,
+    subject: ['fis'],
+    topics: ['Eletrodinâmica', 'Questões aleatórias'],
   },
   {
     id: 103,
@@ -430,9 +430,9 @@ o de número`,
 
     ],
     correct: 'E',
-    explanation: `Um dos testes realizados é a titulação. Essa técnica pode ser usada para determinar a concentração de uma solução que nós não sabemos. A técnica usada no problema se baseia na reação de neutralização entre o ácido acetilsalicílico e o NaOH. Com a concentração e o volume utilizado de NaOH, é possível determinar a concentração do ácido e saber se esse está ou não dentro da concentração necessária.`,
+    explanation: `Apenas a titulação (teste 5) com NaOH permite quantificar a massa de ácido acetilsalicílico, pois a quantidade de base consumida na neutralização é proporcional à quantidade de ácido presente no comprimido. Os testes de massa, densidade, pH (qualitativo) e temperatura de fusão não medem especificamente a quantidade do princípio ativo. Como o lote foi reprovado justamente por conter apenas 40% do esperado (um dado quantitativo), o teste decisivo foi a titulação. Portanto, é o teste de número 5 (alternativa E).`,
     subject: ['qui'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Físico-química', 'Questões aleatórias'],
   },
   {
     id: 104,
@@ -459,9 +459,9 @@ são encontradas em`,
       { id: 'E', type: 'text', value: `algas macroscópicas.` },
     ],
     correct: 'B',
-    explanation: `Os golfinhos apresentam maiores concentrações de produtos tóxicos em seus tecidos devido ao derramamento dos rejeitos da barragem de Mariana. Isso acontece por conta do efeito da magnificação trófica, onde os predadores de topo de cadeias e teias alimentares são os mais afetados.`,
+    explanation: `Os compostos tóxicos (como metais pesados) não são degradados e se acumulam nos tecidos dos organismos (bioacumulação); ao longo da cadeia alimentar, suas concentrações aumentam a cada nível trófico (biomagnificação). Entre os organismos citados, os golfinhos ocupam o nível trófico mais alto, como predadores de topo, acumulando as maiores concentrações. Fitoplâncton, algas, esponjas e peixes herbívoros estão em níveis inferiores. Portanto, as maiores concentrações são encontradas nos golfinhos (alternativa B).`,
     subject: ['bio'],
-    topics: ['Zoologia', 'Questões aleatórias']
+    topics: ['Ecologia', 'Questões aleatórias'],
   },
   {
     id: 105,
@@ -489,9 +489,9 @@ está representado em`,
       { id: 'E', type: 'text', value: `E` },
     ],
     correct: 'A',
-    explanation: ``,
+    explanation: `A força magnética sobre uma carga é F = q·v×B. O sistema cai no sentido da gravidade (que, na vista de cima, aponta para dentro da página) e o campo B aponta para a direita. Para a carga positiva, o produto v×B fornece uma força num sentido; para a carga negativa, de sinal oposto e mesma velocidade, a força tem sentido contrário — as duas forças são antiparalelas e perpendiculares à haste, tendendo a girar o haltere. O diagrama que mostra a carga positiva e a negativa com forças verticais opostas é o da alternativa A.`,
     subject: ['fis'],
-    topics: ['Cinemática', 'Questões aleatórias']
+    topics: ['Eletromagnetismo/Indução', 'Questões aleatórias'],
   },
   {
     id: 106,
@@ -516,9 +516,9 @@ Na fototerapia, a luz provoca a conversão da bilirrubina no seu isômero`,
 
     ],
     correct: 'C',
-    explanation: `Analisando a estrutura da Bilirrubina é possível observar uma região que apresenta uma cadeia aberta. Já na Lumirrubina é possível ver a mesma parte que uma cadeia fechada agora. Sendo assim, a isomeria é de cadeia. &nbsp; OBS: É possível que haja uma alteração. Visto que na Bilirrubina nós apresentamos a função amina e na Lumirrubina a função imina.`,
-    subject: ['bio'],
-    topics: ['Porcentagem', 'Questões aleatórias']
+    explanation: `A bilirrubina e seu isômero lumirrubina têm a mesma fórmula molecular, mas diferem no arranjo da cadeia carbônica: na lumirrubina ocorre uma ciclização intramolecular, formando um anel que altera o esqueleto (a cadeia principal) da molécula. Como a diferença está no encadeamento dos átomos de carbono (cadeia versus anel), trata-se de isomeria de cadeia. Portanto, a bilirrubina é convertida no seu isômero de cadeia (alternativa C).`,
+    subject: ['qui'],
+    topics: ['Química Orgânica', 'Questões aleatórias'],
   },
   {
     id: 107,
@@ -545,9 +545,9 @@ desenvolve a maior potência.` },
 
     ],
     correct: 'C',
-    explanation: ``,
+    explanation: `As duas versões têm a mesma massa e atingem a mesma velocidade final (100 km/h), ou seja, a mesma variação de energia cinética (ΔEc). A potência é a taxa de variação dessa energia, P = ΔEc/Δt; como a versão a álcool atinge 100 km/h em menos tempo (12,9 s < 13,4 s), realiza a mesma variação de energia cinética em intervalo menor, desenvolvendo maior potência. Portanto, a versão a álcool apresenta a maior taxa de variação de energia cinética e, por isso, a maior potência (alternativa C).`,
     subject: ['fis'],
-    topics: ['Cinemática', 'Questões aleatórias']
+    topics: ['Trabalho, energia e potência', 'Questões aleatórias'],
   },
   {
     id: 108,
@@ -593,9 +593,9 @@ tabela, a qual planeta o cordel faz referência?`,
 
     ],
     correct: 'D',
-    explanation: ``,
+    explanation: `O cordel afirma que o corpo é "menos denso que a água", ou seja, tem densidade menor que 1,0. Consultando a tabela de densidades relativas médias, o único planeta com densidade menor que a da água é Saturno (0,7); todos os demais têm densidade maior que 1. Portanto, o cordel faz referência a Saturno (alternativa D).`,
     subject: ['fis'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Gravitação', 'Questões aleatórias'],
   },
   {
     id: 109,
@@ -624,9 +624,9 @@ As resistências elétricas dos fios, em ordem crescente, são`,
 
     ],
     correct: 'C',
-    explanation: `A questão pede que calculemos a resistência de cada um dos quatro fios para colocarmos em ordem crescente, para tanto, com os dados disponibilizados no enunciado e sabendo pelo texto que os fios utilizados são os mesmos, conclui-se que o modo de calcular as resistências precisam ser feitos por meio da segunda lei de ohm, ja que a resistividade dos fios são os mesmos. Agora, ordenando-as crescentemente, da menor resistência para a maior, temos que:`,
+    explanation: `Pela 2ª lei de Ohm, R = ρ·L/A; com a resistividade ρ constante, R é proporcional a L/A. Calculando cada fio: Fio 1 → 312/9 ≈ 34,7; Fio 2 → 47/4 ≈ 11,8; Fio 3 → 54/2 = 27; Fio 4 → 106/1 = 106. Colocando em ordem crescente: Fio 2 < Fio 3 < Fio 1 < Fio 4. Portanto, R2 < R3 < R1 < R4 (alternativa C).`,
     subject: ['fis'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Eletrodinâmica', 'Questões aleatórias'],
   },
   {
     id: 110,
@@ -654,9 +654,9 @@ combustíveis ambientais é a`,
 
     ],
     correct: 'B',
-    explanation: `A degradação parcial da matéria orgânica produz compostos ainda energéticos como o etanol como produtos do processo fermentativo.`,
+    explanation: `O processo pedido tem menor rendimento energético e gera subprodutos que podem servir de combustíveis (como etanol e metano) — características da fermentação, um processo anaeróbio. A respiração aeróbica e a fosforilação oxidativa têm alto rendimento e produzem CO₂ e água, enquanto a fotossíntese e a quimiossíntese fixam carbono em vez de degradá-lo gerando combustíveis. Portanto, o processo metabólico associado aos "combustíveis ambientais" é a fermentação (alternativa B).`,
     subject: ['bio'],
-    topics: ['Ecologia', 'Questões aleatórias']
+    topics: ['Citologia', 'Questões aleatórias'],
   },
   {
     id: 111,
@@ -693,9 +693,9 @@ escola para entrega voluntária pela população.` },
 
     ],
     correct: 'B',
-    explanation: `Conforme o enunciado, o projeto desenvolvido visava a coleta seletiva mas também a destinação de produtos recicláveis. Tal objetivo não foi contemplado nas atividades propostas na escola, sendo assim alcançado através de parcerias com prefeituras e cooperativas de reciclagem.`,
+    explanation: `O planejamento já contempla a sensibilização da comunidade, a capacitação da equipe de limpeza e a distribuição de coletores dentro da escola — mas falta garantir o destino final dos materiais recolhidos. Para completar a coleta seletiva, é necessário firmar parceria com a prefeitura ou com uma cooperativa de catadores, que recolham e deem a destinação apropriada aos recicláveis. As demais opções apenas ampliam a divulgação ou deslocam a coleta para fora da escola, sem resolver a destinação. Portanto, a ação que falta é firmar essa parceria (alternativa B).`,
     subject: ['bio'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Ecologia', 'Questões aleatórias'],
   },
   {
     id: 112,
@@ -721,9 +721,9 @@ nessa situação?`,
 
     ],
     correct: 'E',
-    explanation: ``,
+    explanation: `O problema decorre da consanguinidade (cruzamento entre aparentados), que aumenta a chance de homozigose para alelos recessivos deletéricos, favorecendo enfermidades como o albinismo. O procedimento prévio adequado deve identificar o grau de parentesco e o perfil genético dos animais, para separá-los corretamente — isso é feito pelo mapeamento genético. Transgenia, terapia gênica, vacina de DNA e clonagem não evitam o cruzamento entre aparentados. Portanto, o procedimento recomendado é o mapeamento genético (alternativa E).`,
     subject: ['bio'],
-    topics: ['Porcentagem', 'Questões aleatórias']
+    topics: ['Biotecnologia', 'Questões aleatórias'],
   },
   {
     id: 113,
@@ -745,9 +745,9 @@ A reação de redução do cobre ocorre na etapa`,
 
     ],
     correct: 'E',
-    explanation: `Numa reação de redução nós teremos uma diminuição do nox. Analisando a etapa V, nós podemos ver o CuSO4 sendo convertido em Cu. &nbsp; Determinando o NOX nós temos: CuSO4 → NOX Cu = 2+ Cu → NOX = zero &nbsp;`,
+    explanation: `No ciclo, o cobre parte metálico (Cu⁰), é oxidado a Cu²⁺ na etapa I (com HNO₃) e passa por várias transformações mantendo o número de oxidação +2 (etapas II, III e IV). Somente na etapa V, com Zn e HCl, o Cu²⁺ do CuSO₄ é reduzido de volta a cobre metálico (Cu⁰), fechando o ciclo — o zinco atua como agente redutor. Portanto, a redução do cobre ocorre na etapa V (alternativa E).`,
     subject: ['qui'],
-    topics: ['Química Geral', 'Questões aleatórias']
+    topics: ['Eletroquímica', 'Questões aleatórias'],
   },
   {
     id: 114,
@@ -772,9 +772,9 @@ essa resposta?`,
 
     ],
     correct: 'B',
-    explanation: `O reflexo patelar é gerado através de um arco reflexo simples, ou seja, não envolve a participação do encéfalo. Seu centro coordenador ocorre na medula espinhal ou raquidiana.`,
+    explanation: `O reflexo patelar é um arco reflexo medular: o estímulo sensorial chega à medula espinhal, que processa a resposta e aciona diretamente o neurônio motor, sem necessidade de passar pelo encéfalo. Por isso a resposta é rápida e involuntária. Ponte, cerebelo, hipotálamo e neuro-hipófise não coordenam esse reflexo. Portanto, a região que coordena a resposta é a medula (alternativa B).`,
     subject: ['bio'],
-    topics: ['Genética', 'Questões aleatórias']
+    topics: ['Fisiologia Humana', 'Questões aleatórias'],
   },
   {
     id: 115,
@@ -810,9 +810,9 @@ econômica é`,
 
     ],
     correct: 'B',
-    explanation: `A ordem crescente de economia de energia consiste em ordenar a opção com maior taxa de condução de calor. Calculando os três casos: Caso 1: Panela de Ferro. &nbsp; Caso 2: Panela de Alumínio. &nbsp; Caso 3: Panela metade Cobre e metade Aço. Na ordem, ficamos com: Alumínio, Cobre-Aço, Ferro.`,
+    explanation: `A panela mais econômica é a que conduz mais calor, ou seja, a de maior condutividade efetiva. Alumínio: k = 20; ferro: k = 8. Para a composta (½ de cobre + ½ de aço), a condutividade efetiva vale d/(d₁/k₁ + d₂/k₂) = d/[(d/2)/40 + (d/2)/5] = 1/[(1/80) + (1/10)] = 80/9 ≈ 8,9. Logo, da mais econômica (maior k) para a menos: alumínio (20), cobre-aço (≈ 8,9) e ferro (8). Portanto, a ordem é alumínio, cobre-aço e ferro (alternativa B).`,
     subject: ['fis'],
-    topics: ['Termologia', 'Questões aleatórias']
+    topics: ['Termologia', 'Questões aleatórias'],
   },
   {
     id: 116,
@@ -835,9 +835,9 @@ O teste positivo será observado com o pesticida`,
 
     ],
     correct: 'C',
-    explanation: `O teste consiste em uma reação de neutralização ácido-base. Como o enunciado informa que a base hidróxido de sódio (NaOH) é utilizada. O teste será positivo quando o composto for ácido. Entre as opções, podemos observar que o composto III apresenta uma hidroxila ligada diretamente a um anel aromático, sendo assim, a função presente é o fenol e este apresenta características ácidas e reagirá com o NaOH, dando positivo ao teste.`,
+    explanation: `A identificação por reação ácido-base de Brönsted-Lowry com NaOH exige que o pesticida possua um hidrogênio ácido (ionizável). Entre as estruturas, apenas a III apresenta grupos fenol (−OH ligados a anéis aromáticos), cujos hidrogênios são ácidos e reagem com o NaOH formando o respectivo fenolato. As demais (ureia, nitroimina, sulfona e éter/silano) não têm hidrogênio suficientemente ácido para essa reação. Portanto, o teste positivo é observado com o pesticida III (alternativa C).`,
     subject: ['qui'],
-    topics: ['Agricultura e pecuária', 'Questões aleatórias']
+    topics: ['Química Orgânica', 'Questões aleatórias'],
   },
   {
     id: 117,
@@ -859,9 +859,9 @@ O biocombustível a que se refere o texto é o`,
       { id: 'E', type: 'text', value: `biodiesel.` },
     ],
     correct: 'B',
-    explanation: `Os dejetos suínos apresentam em sua composição o gás metano (CH4). Essa substância pode ser usada na geração de energia. Como esse componente está vindo de uma fonte renovável, estamos nos referindo ao biogás.`,
+    explanation: `Os dejetos suínos são resíduos orgânicos que, por decomposição anaeróbia realizada por microrganismos, liberam gás metano — o biogás. Esse biocombustível pode ser aproveitado como fonte de energia, reduzindo o potencial poluidor dos resíduos e preservando os recursos hídricos. O etanol e o biodiesel provêm de vegetais (cana e óleos), enquanto butano e metanol não são obtidos diretamente desses dejetos. Portanto, o biocombustível referido é o biogás (alternativa B).`,
     subject: ['bio'],
-    topics: ['Porcentagem', 'Questões aleatórias']
+    topics: ['Ecologia', 'Questões aleatórias'],
   },
   {
     id: 118,
@@ -883,9 +883,9 @@ A forma de combate relatada tem como atividade o(a)`,
 
     ],
     correct: 'D',
-    explanation: `Como a curcumina tem ação em criadouros com água, sua ação ocorre quando larvas do Aedes o ingerem, impedindo assim seu desenvolvimento`,
+    explanation: `A curcumina acumula-se no intestino das larvas do mosquito que vivem na água do criadouro; ao ser ativada pela luz, produz espécies reativas de oxigênio que lesam de forma fatal o tubo digestório da larva. Dessa forma, o combate atua sobre a fase larval, impedindo o desenvolvimento da larva e, portanto, que ela chegue à fase adulta. Não se trata de matar o adulto, reduzir a eclosão, afetar a metamorfose ou repelir o mosquito. Portanto, a atividade é o impedimento do desenvolvimento da larva (alternativa D).`,
     subject: ['bio'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Saúde pública & parasitologia (doenças, vetores, prevenção)', 'Questões aleatórias'],
   },
   {
     id: 119,
@@ -909,9 +909,9 @@ Qual espécie corresponde ao objetivo proposto?`,
 
     ],
     correct: 'A',
-    explanation: `O principal componente da madeira é o cerne (lenho estival). O cerne de madeira é escolhido principalmente para utilizações que requerem mais resistência e durabilidade.`,
-    subject: ['qui'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `A madeira ideal deve ter alta resistência mecânica (conferida pelo esclerênquima e pelo lenho/xilema) e alta resistência à degradação (conferida pelo cerne, rico em compostos que protegem contra a deterioração). Na tabela, a espécie 1 é a única com cerne em grande quantidade (+++), além de possuir esclerênquima presente, combinando sustentação e durabilidade. As demais espécies têm o cerne ausente ou escasso. Portanto, a espécie que atende ao objetivo é a de número 1 (alternativa A).`,
+    subject: ['bio'],
+    topics: ['Botânica', 'Questões aleatórias'],
   },
   {
     id: 120,
@@ -947,9 +947,9 @@ Em qual faixa do espectro visível os carotenos absorvem majoritariamente?`,
 
     ],
     correct: 'A',
-    explanation: `Comentário: O texto apresentava a explicação do fato da clorofila refletir a cor verde e mostrava a ideia de cores complementares. &nbsp; Pelo fato dos carotenos refletirem uma coloração amarelo-alaranjado, logo, as cores absorvidas não possuem esses tons no seu espectro, sendo assim, a faixa absorvida está entre o espectro violeta e o azul.`,
+    explanation: `Um pigmento tem a cor da luz que reflete e absorve majoritariamente a cor complementar. Como o caroteno é amarelo-alaranjado, ele absorve a faixa complementar, que corresponde às menores faixas de comprimento de onda do visível — entre o violeta e o azul (cerca de 400 a 480 nm). Isso é coerente com o espectro, em que a clorofila absorve no azul e no vermelho e as antocianinas do azul ao verde. Portanto, os carotenos absorvem majoritariamente entre o violeta e o azul (alternativa A).`,
     subject: ['fis'],
-    topics: ['Ondulatória', 'Questões aleatórias']
+    topics: ['Óptica', 'Questões aleatórias'],
   },
   {
     id: 121,
@@ -975,9 +975,9 @@ longo da coevolução patógeno-hospedeiro.` },
 
     ],
     correct: 'E',
-    explanation: `Parasitas menos letais aumentam a chance de reprodução e contágio na população de hospedeiros, indicando dessa forma seu longo tempo de coevolução.`,
+    explanation: `Pelos princípios da coevolução, quanto mais antiga é a relação patógeno-hospedeiro, mais ajustado tende a ser o parasita, causando menor dano (menor letalidade), pois matar rapidamente o hospedeiro é desvantajoso para a perpetuação do vírus. A dengue tem letalidade muito baixa (abaixo de 1%), indicando uma coevolução mais longa com os seres humanos; o ebola, com letalidade de até 90%, reflete uma associação mais recente. Portanto, o vírus que infecta humanos há mais tempo é o da dengue, cuja baixa letalidade indica maior eficiência em parasitar, estabelecida ao longo da coevolução (alternativa E).`,
     subject: ['bio'],
-    topics: ['Saúde pública & parasitologia (doenças, vetores, prevenção)', 'Questões aleatórias']
+    topics: ['Evolução', 'Questões aleatórias'],
   },
   {
     id: 122,
@@ -999,9 +999,9 @@ esgoto residencial?`,
       { id: 'E', type: 'text', value: `6` },
     ],
     correct: 'C',
-    explanation: `O tratamento de esgoto até o seu devido descarte passa por diferentes etapas. Dentre essas etapas, nós temos o tanque séptico. Neste tanque o resíduo deve permanecer em repouso para que haja uma decantação. Com essa decantação, é possível separar o lodo do esgoto residencial.`,
-    subject: ['fis'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `O lodo é separado por decantação, que exige que o efluente permaneça em repouso por tempo suficiente para que as partículas sólidas sedimentem. Na estação, essa condição ocorre no tanque séptico (etapa 3), onde, segundo o esquema, o esgoto deve ficar em repouso por um período relativamente maior que nas outras etapas. As demais etapas retêm gordura, conduzem ou tratam o efluente, mas não promovem a decantação do lodo. Portanto, o lodo decanta na etapa 3 (alternativa C).`,
+    subject: ['qui'],
+    topics: ['Química Ambiental', 'Questões aleatórias'],
   },
   {
     id: 123,
@@ -1021,9 +1021,9 @@ A utilização de auxinas no método de estaquia das roseiras contribui para`,
 
     ],
     correct: 'D',
-    explanation: `Auxinas promovem o crescimento das raízes, facilitando dessa forma a sobrevivência e o desenvolvimento das estacas das roseiras.`,
+    explanation: `As auxinas são hormônios vegetais que, aplicadas na base do caule durante a estaquia, estimulam a formação de raízes adventícias — raízes que surgem a partir do caule. Com isso, a estaca desenvolve um sistema radicular e se estabelece como nova planta. Nessa aplicação, as auxinas não têm como função principal a floração, a produção de gemas laterais, a formação de folhas maiores ou de compostos energéticos. Portanto, contribuem para a formação de raízes adventícias (alternativa D).`,
     subject: ['bio'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Botânica', 'Questões aleatórias'],
   },
   {
     id: 124,
@@ -1053,9 +1053,9 @@ A tecnologia testada mais adequada para o emprego em veículos automotivos é a 
 
     ],
     correct: 'C',
-    explanation: `O enunciado informa que as melhores células para serem utilizadas nos veículos são as que operam em baixos níveis de energia térmica (temperatura baixa), apresentam uma membrana de eletrólitos poliméricos e ocorrem em meio ácido. Sendo assim, olhando para o PEM, podemos encontrar um temperatura baixa (60 °C &#8211; 100 °C), uma membrana polimérica formada pelo ácido poliperfluorossulfônico sólido e como uma das semirreações nos eletrodos é H₂ → 2 H+ + 2e-, temos um meio ácido.`,
+    explanation: `Segundo o texto, a melhor célula para veículos deve operar em baixa temperatura, ter membrana de eletrólito polimérico e funcionar em meio ácido. A célula PEM opera a 60–100 °C (baixa temperatura), usa ácido poliperfluorossulfônico sólido (um polímero) como eletrólito e tem semirreações em meio ácido (H₂ → 2 H⁺ + 2 e⁻). As demais operam em alta temperatura ou em meio alcalino/com carbonatos. Portanto, a tecnologia mais adequada é a célula PEM (alternativa C).`,
     subject: ['qui'],
-    topics: ['Geografia física (clima, relevo, hidrografia)', 'Questões aleatórias']
+    topics: ['Eletroquímica', 'Questões aleatórias'],
   },
   {
     id: 125,
@@ -1079,9 +1079,9 @@ O incômodo mencionado pelo personagem da tirinha deve-se ao fato de que, em dia
 
     ],
     correct: 'B',
-    explanation: `A questão tratava da umidade relativa do ar, que quanto maior for, mais difícil para a água sofrer evaporação. Portanto, em dias úmidos, é difícil para o suor da pele de uma pessoa sofrer evaporação. &nbsp;`,
+    explanation: `A sensação de calor está ligada à transpiração: o suor resfria o corpo ao evaporar, retirando calor (calor latente de vaporização). Quando o ar já está muito úmido, ele se encontra próximo da saturação de vapor-d'água, o que dificulta a evaporação do suor e, portanto, a perda de calor pelo corpo. Com menor evaporação, o corpo se resfria menos e a pessoa sente mais desconforto. Portanto, o incômodo deve-se ao fato de, em dias úmidos, o suor ter maior dificuldade para evaporar (alternativa B).`,
     subject: ['fis'],
-    topics: ['Estatística e probabilidade', 'Questões aleatórias']
+    topics: ['Termologia', 'Questões aleatórias'],
   },
   {
     id: 126,
@@ -1106,9 +1106,9 @@ Esse circuito é representado por`,
       { id: 'E', type: 'text', value: `E` },
     ],
     correct: 'D',
-    explanation: `Nesta questão, o candidato deveria perceber uma maneira de fazer os interruptores conectarem uma lâmpada de cada vez.`,
+    explanation: `São necessárias duas chaves de três pontos (comutadoras) que, combinadas, permitam fechar o circuito por apenas uma das três lâmpadas de cada vez. A ligação correta conecta os terminais das chaves de modo que, para cada combinação de posições (AB ou BC de cada interruptor), somente uma lâmpada fique em série com a bateria, acendendo isoladamente. O único esquema que acende uma lâmpada de cada vez — sem acender duas ao mesmo tempo nem deixar alguma inacessível — é o da alternativa D.`,
     subject: ['fis'],
-    topics: ['Eletrodinâmica', 'Questões aleatórias']
+    topics: ['Eletrodinâmica', 'Questões aleatórias'],
   },
   {
     id: 127,
@@ -1132,9 +1132,9 @@ O evento descrito com a flora ocorreu em razão da redução`,
 
     ],
     correct: 'C',
-    explanation: `A extinção da preguiça-gigante, animal herbívoro que se alimenta de frutos e sementes, reduziu sua dispersão, o que consequentemente limitou a área de distribuição das plantas em questão.`,
-    subject: ['qui'],
-    topics: ['Química Geral', 'Questões aleatórias']
+    explanation: `As preguiças-gigantes alimentavam-se de frutos e sementes e, ao se deslocarem, dispersavam essas sementes pelo ambiente (zoocoria). Com sua extinção, perdeu-se um importante agente de disseminação das sementes, reduzindo a dispersão e, consequentemente, a abundância e a distribuição das plantas. O evento não decorre de redução na produção de flores, no tamanho das plantas, na quantidade de sementes por fruto ou nos hábitats. Portanto, ocorreu em razão da redução de fatores de disseminação das sementes (alternativa C).`,
+    subject: ['bio'],
+    topics: ['Ecologia', 'Questões aleatórias'],
   },
   {
     id: 128,
@@ -1166,9 +1166,9 @@ utilizada nesse percurso?`,
 
     ],
     correct: 'D',
-    explanation: `P = i . U P = 4.400 W = 4,4kW Como o carro tem um consumo médio de 5 km/kW.h e ele desloca 110 km, a bateria precisa armazenar uma energia de: E = 110 / 5 = 22 kW.h &nbsp; Portanto: E = P . t 22 = 4,4 . t t = 5 h`,
+    explanation: `A energia gasta no percurso é E = distância/desempenho = 110 km ÷ 5,0 km/kWh = 22 kWh. A potência do carregador é P = U·i = 220 V × 20 A = 4 400 W = 4,4 kW. O tempo de recarga é t = E/P = 22 kWh ÷ 4,4 kW = 5,0 h. Portanto, são necessárias 5,0 horas para recarregar a energia utilizada (alternativa D).`,
     subject: ['fis'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Eletrodinâmica', 'Questões aleatórias'],
   },
   {
     id: 129,
@@ -1188,9 +1188,9 @@ pois viabilizou a formação de um tecido de`,
       { id: 'E', type: 'text', value: `vascularização para a planta jovem.` },
     ],
     correct: 'B',
-    explanation: `O endosperma triplóide acumula reservas que, juntamente com os cotilédones, garantem o início do desenvolvimento do embrião no processo de germinação da semente.`,
+    explanation: `Na dupla fecundação das angiospermas, além da oosfera (que origina o embrião), um segundo núcleo espermático fecunda os núcleos polares, formando um tecido triploide (3n) chamado endosperma. Esse tecido funciona como reserva nutritiva para o embrião em desenvolvimento, o que representou uma vantagem evolutiva. Portanto, essa segunda fecundação viabilizou a formação de um tecido de reserva para o embrião (alternativa B).`,
     subject: ['bio'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Botânica', 'Questões aleatórias'],
   },
   {
     id: 130,
@@ -1219,9 +1219,9 @@ apresenta cadeia carbônica saturada é de`,
 
     ],
     correct: 'B',
-    explanation: `A reação de esterificação é quando nós temos um ácido carboxílico reagindo com um álcool e produzindo éster mais água. O problema quer a reação do ácido etanóico com um álcool saturado (apenas ligações simples). Partindo do ácido etanoico nós teremos dois carbonos ligados à carbonila, sendo assim, as opções são acetato de isoamila ou acetato de benzila. Como o comando fala que apresenta uma cadeia saturada, o éster que satisfaz essa condição é o acetato de isoamila.`,
+    explanation: `O ácido etanoico é o ácido acético (CH₃COOH), e seus ésteres (acetatos) presentes no quadro são o acetato de isoamila (banana) e o acetato de benzila (pêssego). Entre esses dois, o que apresenta cadeia carbônica saturada é o acetato de isoamila, pois o acetato de benzila possui anel aromático (insaturado). Portanto, o aroma do flavorizante derivado do ácido etanoico e de cadeia saturada é o de banana (alternativa B).`,
     subject: ['qui'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Química Orgânica', 'Questões aleatórias'],
   },
   {
     id: 131,
@@ -1244,9 +1244,9 @@ paciente durante o exame?`,
       { id: 'E', type: 'text', value: `180` },
     ],
     correct: 'B',
-    explanation: `O gráfico mostrava que cada quadradinho possuía um tempo de 0,2 s. Como tinham 5 quadradinhos em uma oscilação completa, T = 5 . 0,2 = 1s. Como f = 1/T, f = 1 Hz. Para a conversão para rpm (que no caso seria batimentos por minuto), é necessário multiplicar o valor por 60, portanto: f = 60 rpm (ou batimentos por minuto).`,
+    explanation: `No eletrocardiograma, um ciclo cardíaco completo corresponde ao intervalo entre dois picos sucessivos. Pela escala do gráfico (cada divisão vale 0,2 s), esse intervalo é de 1,0 s. A frequência é f = 1/T = 1/1,0 = 1 batimento por segundo, o que equivale a 1 × 60 = 60 batimentos por minuto. Portanto, o número de batimentos cardíacos é 60 por minuto (alternativa B).`,
     subject: ['fis'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Ondulatória', 'Questões aleatórias'],
   },
   {
     id: 132,
@@ -1273,9 +1273,9 @@ Essa é uma doença hereditária de caráter`,
 
     ],
     correct: 'A',
-    explanation: `Como pais sadios apresentam um filho afetado, a deficiência é obrigatoriamente determinada por alelo recessivo.`,
+    explanation: `Os pais são saudáveis (não sabiam ser portadores) e, ainda assim, podem ter filho afetado — o que indica que o alelo da doença é mascarado no heterozigoto, ou seja, é recessivo. A proporção de 1 em 4 (25%) de filho afetado é exatamente a esperada no cruzamento entre dois heterozigotos (Aa × Aa) para um caráter recessivo. Portanto, a doença é de caráter recessivo (alternativa A).`,
     subject: ['bio'],
-    topics: ['Genética', 'Questões aleatórias']
+    topics: ['Genética', 'Questões aleatórias'],
   },
   {
     id: 133,
@@ -1303,9 +1303,9 @@ dispositivo eletrônico?`,
 
     ],
     correct: 'D',
-    explanation: `Temos como dado do problema duas semirreações de redução. &nbsp; I2 + 2 e- → 2 I- E° = + 0,54 V Li+ e- → Li E° = &#8211; 3,05 V &nbsp; Sendo assim, a ddp para essa pilha pode ser calculada por: &nbsp; ddp = E°red maior &#8211; E°red menor dpp = 0,54 &#8211; (- 3,05) ddp = + 3,59 V &nbsp; Como nós temos uma bateria formada por três pilhas em série, a ddp gerada será 3 x 3,59 V = 10,77 V. &nbsp; Portanto ela será adequada para o carrinho de controle remoto que está na faixa de 10,5 até 10,9.`,
-    subject: ['fis'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Cada pilha de lítio-iodo tem fem igual à diferença entre os potenciais de redução: E° = E°(I₂) − E°(Li⁺) = (+0,54) − (−3,05) = 3,59 V. Associando três pilhas em série, a fem total é 3 × 3,59 = 10,77 V. Esse valor está dentro da faixa de funcionamento do dispositivo IV (carrinho de controle remoto: 10,5 a 10,9 V). Portanto, a bateria é adequada para o dispositivo IV (alternativa D).`,
+    subject: ['qui'],
+    topics: ['Eletroquímica', 'Questões aleatórias'],
   },
   {
     id: 134,
@@ -1322,9 +1322,9 @@ dispositivo eletrônico?`,
       { id: 'E', type: 'text', value: `alteração das propriedades químicas da mistura álcool e água.` },
     ],
     correct: 'C',
-    explanation: `Essa correção é necessária porque à medida que a temperatura aumenta, o volume do material aumenta por dilatação, fazendo com que a concentração de volume diminua com esse aumento. Na tabela é possível que a porcentagem está diminuindo à medida que a temperatura aumenta.`,
+    explanation: `O alcoolômetro mede o teor alcoólico por flutuação, que depende da densidade da solução. Um aumento de temperatura provoca a dilatação dos materiais (do líquido e do próprio instrumento), alterando os volumes e, portanto, a densidade e a posição de flutuação — por isso a leitura precisa ser corrigida quando a temperatura difere dos 20 °C de aferição. Não há mudança nas propriedades químicas nem na concentração real de álcool; o que ocorre é apenas o efeito físico da dilatação. Portanto, a correção se deve à mudança do volume dos materiais por dilatação (alternativa C).`,
     subject: ['fis'],
-    topics: ['Geometria espacial', 'Questões aleatórias']
+    topics: ['Termologia', 'Questões aleatórias'],
   },
   {
     id: 135,
@@ -1350,9 +1350,9 @@ Um exemplo desse polímero é representado pela estrutura`,
       { id: 'E', type: 'text', value: `E` },
     ],
     correct: 'D',
-    explanation: `O comando da questão quer um polímero que apresenta em sua estrutura ligações duplas conjugadas. Sendo assim, precisamos de uma ligação dupla seguida de uma ligação simples e assim por diante. Entre as opções, o polímero do item D apresenta uma ligação dupla entre dois carbonos. Quando nós olharmos para o polímero completo, teremos uma dupla seguida de uma simples. &nbsp;`,
-    subject: ['bio'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    explanation: `Um polímero condutor precisa ter ligações duplas conjugadas (alternância de ligações simples e duplas) ao longo da cadeia principal, o que permite a deslocalização dos elétrons. Entre as estruturas, apenas a D tem a cadeia principal formada por ligações duplas conjugadas, como no poliacetileno (−CH=CH−CH=CH−), sem carbonos saturados interrompendo a conjugação. As demais têm cadeia saturada (A e B), insaturação isolada separada por carbonos saturados (C) ou dupla associada a grupo lateral (E). Portanto, o exemplo é a estrutura D (alternativa D).`,
+    subject: ['qui'],
+    topics: ['Química Orgânica', 'Questões aleatórias'],
   },
   {
     id: 136,
@@ -1381,9 +1381,9 @@ positivos), é`,
 
     ],
     correct: 'E',
-    explanation: ``,
+    explanation: `Usando φ² = φ + 1, cada potência vem multiplicando a anterior por φ. φ⁷ = φ⁶·φ = (8φ + 5)·φ = 8φ² + 5φ = 8(φ + 1) + 5φ = 8φ + 8 + 5φ = 13φ + 8. (Os coeficientes seguem Fibonacci: 8φ+5 → 13φ+8.) Resposta: E.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Progressões (PA e PG)', 'Equações e inequações', 'Questões aleatórias'],
   },
   {
     id: 137,
@@ -1427,9 +1427,9 @@ percorrido por esse visitante é representada por`,
       { id: 'E', type: 'text', value: `E` },
     ],
     correct: 'E',
-    explanation: ``,
+    explanation: `O cubo apoia-se por um vértice, com a diagonal principal perpendicular ao solo. A projeção ortogonal de um cubo ao longo de sua diagonal principal é um hexágono regular: os dois vértices extremos (o mais alto e o mais baixo) projetam-se no centro e os outros seis formam o hexágono. As 12 arestas projetam-se nos 6 lados e em 6 segmentos ligando o centro aos vértices, e as diagonais do cubo caem sobre essas mesmas ligações ao centro. Resulta um hexágono dividido em 6 triângulos. Resposta: E.`,
     subject: ['mat'],
-    topics: ['Geometria espacial', 'Questões aleatórias']
+    topics: ['Geometria espacial', 'Geometria plana', 'Questões aleatórias'],
   },
   {
     id: 138,
@@ -1457,9 +1457,9 @@ Qual expressão determina a quantidade de painéis diferentes que a CBF poderá 
     ],
     correct: 'A',
     annulled: true,
-    explanation: `A questão foi anulada pela banca oficial.`,
+    explanation: `Questão ANULADA pelo Inep (não há alternativa única correta). Ideia da contagem por painel: a 1ª linha ordena 5 placas com clubes gaúchos, a 2ª com cariocas, a 3ª com mineiros, a 4ª com paulistas e as duas últimas (10 placas) sem restrição entre os 15 clubes, gerando arranjos/permutações por linha. A incompatibilidade entre o número de placas por linha e a quantidade de clubes disponíveis em cada grupo torna a expressão ambígua, o que motivou a anulação. Resposta: questão anulada.`,
     subject: ['mat'],
-    topics: ['Genética', 'Questões aleatórias']
+    topics: ['Análise combinatória', 'Questões aleatórias'],
   },
   {
     id: 139,
@@ -1489,9 +1489,9 @@ no cardápio o lanche de tipo`,
 
     ],
     correct: 'E',
-    explanation: ``,
+    explanation: `Média por franquia de cada lanche (soma das 3 franquias ÷ 3): I = (415+415+415)/3 = 415; II = (395+445+390)/3 = 410; III = (425+370+425)/3 ≈ 406,7; IV = (430+370+433)/3 ≈ 411; V = (435+425+420)/3 ≈ 426,7. A maior média é a do lanche V. Resposta: E.`,
     subject: ['mat'],
-    topics: ['Química Geral', 'Questões aleatórias']
+    topics: ['Estatística e probabilidade', 'Questões aleatórias'],
   },
   {
     id: 140,
@@ -1532,9 +1532,9 @@ a comissão de tipo`,
 
     ],
     correct: 'B',
-    explanation: ``,
+    explanation: `Média mensal = (3,5·3 + 2,5·2 + 5·2 + 3·4 + 7,5·1)/(3+2+2+4+1) = (10,5 + 5 + 10 + 12 + 7,5)/12 = 45/12 = 3,75 milhões. Como 2 ≤ 3,75 < 4, a comissão é do tipo II. Resposta: B.`,
     subject: ['mat'],
-    topics: ['Química Geral', 'Questões aleatórias']
+    topics: ['Estatística e probabilidade', 'Questões aleatórias'],
   },
   {
     id: 141,
@@ -1562,9 +1562,9 @@ hospedagem de n diárias pode ser obtido pela expressão`,
 
     ],
     correct: 'A',
-    explanation: ``,
+    explanation: `O total das diárias é d·n; a taxa de serviço (percentual s sobre esse total) vale d·n·s; soma-se ainda a taxa fixa de limpeza L. Logo P = d·n + L + d·n·s. Resposta: A.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Funções', 'Porcentagem', 'Questões aleatórias'],
   },
   {
     id: 142,
@@ -1596,9 +1596,9 @@ mais atrativo é`,
 
     ],
     correct: 'B',
-    explanation: ``,
+    explanation: `Pontuar = acertar ao menos um dardo. P(pontuar) = 1 − P(errar todos) = 1 − (1/2)ⁿ. Exige-se 1 − (1/2)ⁿ ≥ 9/10 → (1/2)ⁿ ≤ 1/10 → 2ⁿ ≥ 10. Como 2³ = 8 < 10 e 2⁴ = 16 ≥ 10, o mínimo é n = 4. Resposta: B.`,
     subject: ['mat'],
-    topics: ['Genética', 'Questões aleatórias']
+    topics: ['Estatística e probabilidade', 'Equações e inequações', 'Questões aleatórias'],
   },
   {
     id: 143,
@@ -1620,9 +1620,9 @@ era o`,
 
     ],
     correct: 'D',
-    explanation: `Calculando o volume de água em cada reservatório, o maior deles será o que tem maior volume de água: Reservatório I: 20% de 105 = 0,2 • 105 = 21 bilhões de litros Reservatório I: 30% de 100 = 0,3 • 100 = 30 bilhões de litros Reservatório III: 50% de 20 = 0,5 + 20 = 10 bilhões de litros Reservatório IV: 40% de 80 = 0,4 •80 = 32 bilhões de litros Reservatório V: 60% de 40 = 0,6 + 40 = 24 bilhões de litros Podemos observar que o reservatório IV tem maior volume de água.`,
+    explanation: `Volume = capacidade × nível de ocupação. I: 105·0,20 = 21; II: 100·0,30 = 30; III: 20·0,50 = 10; IV: 80·0,40 = 32; V: 40·0,60 = 24 (bilhões de litros). O maior volume é o do reservatório IV. Resposta: D.`,
     subject: ['mat'],
-    topics: ['Geometria espacial', 'Questões aleatórias']
+    topics: ['Porcentagem', 'Questões aleatórias'],
   },
   {
     id: 144,
@@ -1644,9 +1644,9 @@ Qual é a média das idades, em ano, desses alunos?`,
 
     ],
     correct: 'D',
-    explanation: ``,
+    explanation: `Média = Σ(idade·frequência)/Σfrequência = (9·6 + 18·12 + 27·9)/(6+12+9) = (54 + 216 + 243)/27 = 513/27 = 19 anos. Resposta: D.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Estatística e probabilidade', 'Questões aleatórias'],
   },
   {
     id: 145,
@@ -1681,9 +1681,9 @@ Os valores de x e y do quadro são, respectivamente, iguais a`,
 
     ],
     correct: 'C',
-    explanation: ``,
+    explanation: `Os percentuais são x, y e x, logo 2x + y = 100. Média ponderada: (3x + 5y + 12x)/100 = 6 → 15x + 5y = 600 → 3x + y = 120. Subtraindo as duas: x = 20; daí y = 100 − 2·20 = 60. Resposta: C.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Estatística e probabilidade', 'Equações e inequações', 'Questões aleatórias'],
   },
   {
     id: 146,
@@ -1724,9 +1724,9 @@ superior a`,
 
     ],
     correct: 'E',
-    explanation: ``,
+    explanation: `CV atual = s/x̄ = 1/10 = 0,1. Para a nova ração, CV = 1,5/x̄. A troca exige 1,5/x̄ < 0,1 → x̄ > 15. Logo a média deve ser superior a 15,0 kg. Resposta: E.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Estatística e probabilidade', 'Equações e inequações', 'Questões aleatórias'],
   },
   {
     id: 147,
@@ -1755,9 +1755,9 @@ As quatro letras mais frequentes, em ordem decrescente de frequência, do texto 
 
     ],
     correct: 'C',
-    explanation: `As letras com maior frequência são A, E, O e S que codificadas ficam D, H, R e V.`,
+    explanation: `As quatro letras mais frequentes no texto original (gráfico) são A, E, O e S. Pela cifra (deslocamento de 3 posições à frente): A→D, E→H, O→R, S→V. As frequências são preservadas, então as quatro mais frequentes do texto codificado são D, H, R e V. Resposta: C.`,
     subject: ['mat'],
-    topics: ['Zoologia', 'Questões aleatórias']
+    topics: ['Estatística e probabilidade', 'Questões aleatórias'],
   },
   {
     id: 148,
@@ -1780,9 +1780,9 @@ Segundo esse pesquisador, o número anual típico de terremotos de magnitude mai
       { id: 'E', type: 'text', value: `17,5.` },
     ],
     correct: 'C',
-    explanation: ``,
+    explanation: `Ordenando os 12 valores: 11, 11, 12, 13, 15, 15, 16, 16, 17, 18, 20, 24. Com n = 12 (par), a mediana é a média dos 6º e 7º termos: (15 + 16)/2 = 15,5. Resposta: C.`,
     subject: ['mat'],
-    topics: ['Estatística e probabilidade', 'Questões aleatórias']
+    topics: ['Estatística e probabilidade', 'Questões aleatórias'],
   },
   {
     id: 149,
@@ -1815,9 +1815,9 @@ meses deve ser maior ou igual ao do mês de`,
 
     ],
     correct: 'B',
-    explanation: `O lucro é calculado por lucro = receita &#8211; custo Analisando o gráfico, podemos observar que o maior lucro foi em fevereiro lucro de fevereiro = 20 &#8211; 10 = 10 Portanto, o lucro mensal para os próximos meses deve ser maior ou igual mês de Fevereiro.`,
+    explanation: `Lucro = receita − despesa (lido no gráfico): jan = 10 − 5 = 5; fev = 20 − 10 = 10; mar = 15 − 10 = 5; abr = 20 − 15 = 5; maio = 28 − 25 = 3. O maior lucro é o de fevereiro (10). Resposta: B.`,
     subject: ['mat'],
-    topics: ['Química Geral', 'Questões aleatórias']
+    topics: ['Estatística e probabilidade', 'Questões aleatórias'],
   },
   {
     id: 150,
@@ -1844,9 +1844,9 @@ volume de vendas foi de`,
 
     ],
     correct: 'C',
-    explanation: ``,
+    explanation: `Aumento percentual = (519,2 − 236)/236 × 100 = 283,2/236 × 100 = 120%. Resposta: C.`,
     subject: ['mat'],
-    topics: ['Geometria espacial', 'Questões aleatórias']
+    topics: ['Porcentagem', 'Questões aleatórias'],
   },
   {
     id: 151,
@@ -1884,9 +1884,9 @@ preço inferior a p é`,
 
     ],
     correct: 'C',
-    explanation: `Cada retângulo tem base 100. Somando as alturas dos retângulos, temos um total de 105. Logo, a área total dos retângulos é 100 &#8211; 105 = 10500. A metade desse valor é 5.250. Quando tomamos p = 600, temos que a área dos retângulos até a marca de 600 é: 100 + 5 + 100 • 10 + 100 -5 &#8211; 2.000. Ou seja, não nos serve, pois 2.000 &lt; 5.250. Quando tomamos p &#8211; 700, temos que a área dos retângulos até a marca de 700 é: 100 &#8211; 5 + 100 • 10 + 100 &#8211; 5 + 15 • 100 &#8211; 3.500. Ou seja, não nos serve, pois 3.500 &lt; 5.250. Tomando p = 800, temos que as áreas dos retângulos seria 100 &#8211; 5 + 100 &#8211; 10 + 100 -5 + 15 100 + 20 &#8211; 100 = 5.500. Esse valor é suficiente, pois 5.500 &gt; 5.250`,
+    explanation: `Frequências por faixa (de 300 a 1 300): 5, 10, 5, 15, 20, 15, 15, 10, 5, 5 (total 105). 50% de 105 = 52,5. Frequência acumulada: até 700 = 5+10+5+15 = 35 (< 52,5); até 800 = 35 + 20 = 55 (≥ 52,5). Logo o menor p é 800. Resposta: C.`,
     subject: ['mat'],
-    topics: ['Química Geral', 'Questões aleatórias']
+    topics: ['Estatística e probabilidade', 'Questões aleatórias'],
   },
   {
     id: 152,
@@ -1918,9 +1918,9 @@ Dessa forma, o valor recebido pelo navio receptor será`,
 
     ],
     correct: 'E',
-    explanation: `Queremos saber a soma das duas maiores soluções da equação (a b)*(b a) = 0 Achando a b = a² + ab &#8211; b² e b a = b² + ab &#8211; a² &nbsp; Então, (a b)*(b a) = 0 -&gt; (a b)(b a)+a b (a² + ab &#8211; b²)(b² + ab &#8211; a²) + a² + ab &#8211; b² &nbsp; Como b = 1, substituindo (a² + a &#8211; 1)(1 + a &#8211; a²) + (a² + a &#8211; 1) = 0 (a² + a &#8211; 1)(1 + a &#8211; a²+ 1) = 0 -&gt; (a² + a &#8211; 1)(a &#8211; a² + 2) = 0 &nbsp; Para esse produto ser igual a zero, então (a² + a &#8211; 1) = 0 Teremos que e &nbsp; Separando na soma e na subtração: Podemos observar que as duas maiores raízes são 2 e &nbsp;`,
+    explanation: `Com b = 1: aΔb = a² + a − 1 e bΔa = 1 + a − a². Então (aΔb)∗(bΔa) = (aΔb)·(bΔa) + (aΔb) = (aΔb)·[(bΔa) + 1] = 0. Caso 1: a² + a − 1 = 0 → a = (−1 ± √5)/2 ≈ 0,618 e −1,618. Caso 2: (1 + a − a²) + 1 = 0 → a² − a − 2 = 0 → a = 2 ou a = −1. As duas maiores soluções são 2 e (−1 + √5)/2; soma = 2 + (−1 + √5)/2 = (3 + √5)/2. Resposta: E.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Equações e inequações', 'Questões aleatórias'],
   },
   {
     id: 153,
@@ -1948,9 +1948,9 @@ A escala utilizada para fazer a réplica é`,
 
     ],
     correct: 'C',
-    explanation: `A escala é a razão entre a distância na representação e na realidade, em centímetros. Como 38,4m = 3840. Dessa forma, A escala 1:24 é a mostrada em C.`,
+    explanation: `Escala = medida na réplica / medida real. Comprimento: 160 cm / 3 840 cm = 1/24. Largura: 7 cm / 168 cm = 1/24. Logo a escala é 1 : 24. Resposta: C.`,
     subject: ['mat'],
-    topics: ['Razão e proporção', 'Questões aleatórias']
+    topics: ['Razão e proporção', 'Questões aleatórias'],
   },
   {
     id: 154,
@@ -1988,9 +1988,9 @@ de 2020 seria de`,
 
     ],
     correct: 'D',
-    explanation: ``,
+    explanation: `Variação de médicos: 1990→2000 = +73 000; 2000→2010 = +73 000; média = 73 000 → 2020: 365 000 + 73 000 = 438 000. População (milhar): +23 000 e +21 000; média = 22 000 → 2020: 191 000 + 22 000 = 213 000 (milhar). Médicos por mil habitantes = 438 000 / 213 000 ≈ 2,06. Resposta: D.`,
     subject: ['mat'],
-    topics: ['Porcentagem', 'Questões aleatórias']
+    topics: ['Razão e proporção', 'Estatística e probabilidade', 'Questões aleatórias'],
   },
   {
     id: 155,
@@ -2014,9 +2014,9 @@ Qual deve ser a redução percentual da quantidade de fra`,
       { id: 'E', type: 'text', value: `70,0` },
     ],
     correct: 'C',
-    explanation: `50% no preço do quilograma de batata-doce: 5 + 2,50 = R$7,50. 7,50 -&gt; 1000 x -&gt; 600 x = 4,50 R$4,50 de Batata doce mais R$2,00 de hortaliça = R$6,50 Sobrando R$3,50 para o frango. &nbsp;`,
+    explanation: `Custo atual: frango 0,4·12,50 = 5,00; batata-doce 0,6·5,00 = 3,00; hortaliça 2,00 → total 10,00. Com +50% na batata-doce: 0,6·7,50 = 4,50. Mantendo o custo 10,00 e as demais quantidades, o frango passa a custar 10,00 − 4,50 − 2,00 = 3,50 → quantidade = 3,50/12,50 = 0,28 kg = 280 g. Redução = (400 − 280)/400 = 30%. Resposta: C.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Porcentagem', 'Questões aleatórias'],
   },
   {
     id: 156,
@@ -2038,9 +2038,9 @@ A expressão algébrica que representa as posições P(t) da massa m, ao longo d
       { id: 'E', type: 'text', value: `6 sen (2t)` },
     ],
     correct: 'A',
-    explanation: `O período da função é . Logo, metade de 2 . Isso implica em dizer que -&gt; T = 2. O ponto (0, -3) pertence à função. Isso implica em dizer que, sendo a função do tipo cossenóide, temos que Acos (2 . 0) = -3 -&gt; A . 1 = -3 -&gt; A = -3. Assim, a função é P(t) = -3cos (2t).`,
+    explanation: `Amplitude A = 3 cm (o gráfico varia entre +3 e −3). Os mínimos ocorrem em t = 0, π, 2π…, logo o período é T = π e ω = 2π/T = 2. Em t = 0 a massa está na posição mais baixa (mola distendida), P(0) = −3, o que corresponde a P(t) = −3·cos(2t), pois −3·cos 0 = −3. Resposta: A.`,
     subject: ['mat'],
-    topics: ['Cinemática', 'Questões aleatórias']
+    topics: ['Trigonometria', 'Funções', 'Questões aleatórias'],
   },
   {
     id: 157,
@@ -2073,9 +2073,9 @@ construtora?`,
 
     ],
     correct: 'E',
-    explanation: `Para essa questão, devemos somar os valores em cada coluna e o maior valor será a região selecionada, pois em , o j (coluna) representa o número das regiões. &nbsp; &nbsp; Coluna 1: 0+0+20+10+10=40 Coluna 2: 40+0+20+1+20=80 Coluna 3: 20+60+0+20=100 Coluna 4: 20+20+30+40=100 Coluna 5: 50+30+0+40+0=120 Portanto, como na coluna 5 a soma deu 120, então ela é a região escolhida, pois foi a região que foi o destino do maior fluxo de famílias. &nbsp;`,
+    explanation: `O destino é a coluna j; somam-se as colunas (famílias que chegaram): col 1 = 0+0+2+1+1 = 4; col 2 = 4+0+2+0+2 = 8; col 3 = 2+6+0+2+0 = 10; col 4 = 2+2+3+0+4 = 11; col 5 = 5+3+0+4+0 = 12. O maior fluxo de chegada é na região 5. Resposta: E.`,
     subject: ['mat'],
-    topics: ['Matrizes e determinantes', 'Questões aleatórias']
+    topics: ['Matrizes e determinantes', 'Questões aleatórias'],
   },
   {
     id: 158,
@@ -2105,9 +2105,9 @@ em um voo lotado entre as duas cidades, é`,
 
     ],
     correct: 'B',
-    explanation: `O avião A leva 200 passageiros e seu consumo é de 0,02 litros por passageiro por quilômetro. Assim, consome-se 2000 . 200 . 0,02 = 8.000 L. O avião B leva 200 . 1,1 = 220 passageiros e seu consumo é de 0,02 . 0,9 = 0,018 litros por passageiro por quilômetro. Assim, consome-se 2000 . 220 . 0,018 = 7.920 L. Tomando 8.000 L como 100%, temos que &nbsp; 7.920 é 99% de 8.000. Ou seja, houve redução de 1%.`,
+    explanation: `Combustível do modelo A = 0,02 · 2 000 · 200 = 8 000 L. Modelo B: 10% mais passageiros (220) e 10% menos consumo por km/passageiro (0,018): B = 0,018 · 2 000 · 220 = 7 920 L. Razão B/A = 7 920/8 000 = 0,99 → consumo 1% menor. Resposta: B.`,
     subject: ['mat'],
-    topics: ['Cultura e identidade', 'Questões aleatórias']
+    topics: ['Porcentagem', 'Questões aleatórias'],
   },
   {
     id: 159,
@@ -2129,16 +2129,16 @@ um dos quatro grupos de troca ficou reduzido.
 Nessa parada especifica, com um dos grupos reduzido, qual
 foi o tempo gasto, em segundo, para trocar os quatro pneus?`,
     alternatives: [
-      { id: 'A', type: 'text', value: `60` },
+      { id: 'A', type: 'text', value: `6,0` },
       { id: 'B', type: 'text', value: `5,7` },
       { id: 'C', type: 'text', value: `5,0` },
-      { id: 'D', type: 'text', value: `45` },
-      { id: 'E', type: 'text', value: `44` },
+      { id: 'D', type: 'text', value: `4,5` },
+      { id: 'E', type: 'text', value: `4,4` },
     ],
     correct: 'A',
-    explanation: `Montando a regra de 3 4 &#8212;&#8212; 3 x &#8212;&#8212;- 2 como o tempo é inversamente proporcional ao número de pessoas trabalhando, temos que multiplicar reto 2x = 4 . 3 -&gt; 2x = 12 -&gt; x = 6 seg &nbsp; Logo, com um dos grupos reduzidos o tempo gasto é igual a 6 seg.`,
+    explanation: `O tempo é inversamente proporcional ao número de pessoas: t·n = constante. Com 3 pessoas, t = 4 s → constante = 12. O grupo reduzido (2 pessoas) gasta 12/2 = 6 s; os demais, 4 s. Como os quatro grupos trabalham em paralelo, a troca dos quatro pneus só termina com o grupo mais lento: 6,0 s. Resposta: A.`,
     subject: ['mat'],
-    topics: ['Cinemática', 'Questões aleatórias']
+    topics: ['Razão e proporção', 'Questões aleatórias'],
   },
   {
     id: 160,
@@ -2179,9 +2179,9 @@ suplemento`,
 
     ],
     correct: 'D',
-    explanation: `Para calcular o gasto com cada suplemento, é necessário considerar a quantidade de sachês necessários para suprir a falta de minerais e os preços dos sachês. Dessa forma, temos: Para economizar, o cliente deve comprar o suplemento IV.`,
+    explanation: `Para cada suplemento, nº de sachês = maior dos arredondamentos para cima de (necessidade/quantidade por sachê); custo = nº × preço. I: máx(⌈800/50⌉,⌈1000/100⌉,⌈1200/200⌉) = máx(16,10,6) = 16 → 16·2 = R$32,00. II: máx(1,4,6) = 6 → 6·3 = R$18,00. III: máx(4,1,4) = 4 → 4·5 = R$20,00. IV: máx(2,2,2) = 2 → 2·6 = R$12,00. V: máx(2,2,1) = 2 → 2·8 = R$16,00. O menor custo é o do suplemento IV (R$12,00). Resposta: D.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Razão e proporção', 'Questões aleatórias'],
   },
   {
     id: 161,
@@ -2209,9 +2209,9 @@ pelo administrador é`,
       { id: 'E', type: 'text', value: `E` },
     ],
     correct: 'E',
-    explanation: `Como a cada redução de 1 real do valor unitário do ingresso aumenta o público em 40 pessoas, temos que a arrecadação R varia com o valor do ingresso conforme a seguinte relação: Logo, realizando o produto, temos que R(x) = -x² + 600x +4000. O gráfico dessa função é uma parábola (pois é uma função do segundo grau), sua concavidade é para baixo (já que o coeficiente a é negativo) e a função passa no eixo y na altura de c = 4000. Atenção: o gráfico deveria ser pontilhado, uma vez que o valor do ingresso é um valor inteiro (não abrindo margem para valores &#8220;quebrados&#8221;).`,
+    explanation: `Com desconto x (inteiro), preço = 20 − x e público = 200 + 40x; arrecadação R(x) = (20 − x)(200 + 40x) = −40x² + 600x + 4 000. É uma parábola de concavidade para baixo, máximo em x = 7,5 (R ≈ 6 250) e R = 0 em x = 20 (ingresso zero). Como só há valores inteiros, o gráfico é de pontos discretos formando essa parábola. Resposta: E.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Funções', 'Questões aleatórias'],
   },
   {
     id: 162,
@@ -2232,9 +2232,9 @@ O gráfico que melhor representa essa relação é`,
       { id: 'E', type: 'text', value: `E` },
     ],
     correct: 'A',
-    explanation: `Baseado no quadro dado, temos que o imposto (I) está em função do preço (R) O gráfico que representa a função dada é o gráfico da alternativa A`,
+    explanation: `I = 0 para R ≤ 5 000 (reta horizontal). Para 5 000 < R ≤ 10 000: I = 0,1(R − 5 000), reta de inclinação 0,1 que chega a 500 em R = 10 000. Para 10 000 < R ≤ 15 000: I = 500 + 0,3(R − 10 000), reta mais inclinada (0,3) que chega a 2 000 em R = 15 000. Gráfico contínuo, crescente, com inclinação maior no último trecho e eixo I até 2 000. Resposta: A.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Funções', 'Porcentagem', 'Questões aleatórias'],
   },
   {
     id: 163,
@@ -2257,9 +2257,9 @@ modulo volumétrico é`,
 
     ],
     correct: 'B',
-    explanation: ``,
+    explanation: `Módulo volumétrico K = constante · (velocidade)² · densidade. Unidades: (m·s⁻¹)² · (kg·m⁻³) = m²·s⁻² · kg·m⁻³ = kg·m⁻¹·s⁻². Resposta: B.`,
     subject: ['mat'],
-    topics: ['Cinemática', 'Questões aleatórias']
+    topics: ['Razão e proporção', 'Questões aleatórias'],
   },
   {
     id: 164,
@@ -2289,9 +2289,9 @@ pessoa poderá levar?`,
       { id: 'E', type: 'text', value: `39` },
     ],
     correct: 'B',
-    explanation: `Podemos observar pela tabela que na viagem II, ao diminuir 1 calça e 1 sapato, a quantidade de camisetas aumentou em 6 ficando com 18 camisetas, 3 calças e 2 sapatos. Como queremos levar 2 calças e 1 sapato, em relação a viagem II também estamos diminuindo o número de calças e sapatos em 1, aumentando em 6 o número de camisetas. Logo, serão 18 camisetas = 6 = 24 camisetas. Assim, essa pessoa irá levar 24 camisetas, 2 calças e 1 sapato.`,
+    explanation: `Sejam c, p, s as massas de camiseta, calça e sapato. Viagem I: 12c + 4p + 3s = 10; Viagem II: 18c + 3p + 2s = 10. Resolvendo o sistema, obtém-se p = 10 − 30c e s = 36c − 10. Para 2 calças + 1 sapato + N camisetas = 10: 2p + s + Nc = 10 → (20 − 60c) + (36c − 10) + Nc = 10 → 10 − 24c + Nc = 10 → N = 24. Resposta: B.`,
     subject: ['mat'],
-    topics: ['Cinemática', 'Questões aleatórias']
+    topics: ['Equações e inequações', 'Questões aleatórias'],
   },
   {
     id: 165,
@@ -2315,9 +2315,9 @@ decimal, é`,
 
     ],
     correct: 'D',
-    explanation: `Montando uma regra de três simples temos: Então para percorrer 20km, o motor inicial gasta 1,25 litros Para andar os 20km com o novo motor será: 1,25 &#8211; 0,1 = 1,15 litros O desempenho D2 do novo motor será D = 20/1,15 = 17,4 km/L`,
+    explanation: `Em 20 km o motor antigo gasta 20/16 = 1,25 L. O novo economiza 0,1 L nesses 20 km: 1,25 − 0,1 = 1,15 L. Novo desempenho = 20/1,15 ≈ 17,4 km/L. Resposta: D.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Razão e proporção', 'Questões aleatórias'],
   },
   {
     id: 166,
@@ -2364,9 +2364,9 @@ do material?`,
 
     ],
     correct: 'B',
-    explanation: ``,
+    explanation: `Paredes (os 2 lados): área ∝ perímetro da base × altura. Dobrando comprimento e largura, o perímetro dobra e a altura não muda → a área das paredes dobra. Piso: área = comprimento × largura → dobrando ambos, fica 4 vezes maior. Logo: o dobro para as paredes e quatro vezes para o piso = Fornecedor II. Resposta: B.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Geometria espacial', 'Razão e proporção', 'Questões aleatórias'],
   },
   {
     id: 167,
@@ -2395,9 +2395,9 @@ construído com uma altura interna mínima, em metro, igual a`,
 
     ],
     correct: 'D',
-    explanation: `O volume de cilindro é calculado por V = r² . h Como o diâmetro do cilindro é igual a d = 5m, o raio será r = 2,5m e = 3, substituindo obtemos V = 3 . (2,5)² . h A capacidade desse cilindro para atender à demanda de água da população por 7 dias, sabendo que são 100 habitantes e o consume médio diário é igual a 120L, será V = 100 . 120 . 7 = 84000L Transformando litros em metros cúbicos 1L = 0,001m³ Então, 84000L = 84m³ Portanto, a altura será: 3 . (2,5)² . h = 84`,
+    explanation: `Consumo total = 100 · 120 · 7 = 84 000 L = 84 m³. Cilindro de raio r = 2,5 m: V = π r² h = 3 · (2,5)² · h = 18,75 h. De 18,75 h = 84 vem h = 4,48 m. Resposta: D.`,
     subject: ['mat'],
-    topics: ['Geometria espacial', 'Questões aleatórias']
+    topics: ['Geometria espacial', 'Questões aleatórias'],
   },
   {
     id: 168,
@@ -2423,9 +2423,9 @@ planificação dada?`,
 
     ],
     correct: 'E',
-    explanation: `Da planificação para a figura, poderemos ver que as faces 2 e 4 compartilham uma aresta assim como os pares 2 &#8211; 1 e 2 -3. Analogicamente, podemos formas as faces 5, 6, e 8 sendo a 8 a face cinza. Desta forma, a face cinza só será oposta à face a. Segue as faces enumeradas na planificação e no octaedro: &nbsp;`,
+    explanation: `Num octaedro regular cada face tem exatamente uma face oposta (paralela, sem aresta nem vértice em comum). Dobrando a planificação dada, a única face que fica oposta à face cinza-escuro é a de número 4; as faces 1, 2 e 3 compartilham aresta ou vértice com a cinza. Resposta: E.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Geometria espacial', 'Questões aleatórias'],
   },
   {
     id: 169,
@@ -2460,9 +2460,9 @@ medida do comprimento da barra, em centímetro, é`,
       { id: 'E', type: 'text', value: `36,24.` },
     ],
     correct: 'D',
-    explanation: `&nbsp;`,
+    explanation: `A barra tem o comprimento do perímetro do triângulo equilátero de altura h = 8 cm. De h = a√3/2 vem o lado a = 2h/√3 = 2·8·√3/3 ≈ (16·1,7)/3 ≈ 9,06 cm. Perímetro = 3a ≈ 3·9,06 ≈ 27,18 cm. Resposta: D.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Geometria plana', 'Questões aleatórias'],
   },
   {
     id: 170,
@@ -2488,9 +2488,9 @@ Qual é a capacidade volumétrica, em mililitro, dessa caneca?`,
       { id: 'E', type: 'text', value: `2928` },
     ],
     correct: 'C',
-    explanation: `&nbsp; &nbsp;`,
+    explanation: `A caneca é um tronco de cone: R = 5 cm, r = 4 cm, h = 12 cm. V = (π h/3)(R² + Rr + r²) = (3·12/3)(25 + 20 + 16) = 12 · 61 = 732 cm³ = 732 mL. Resposta: C.`,
     subject: ['mat'],
-    topics: ['Química Geral', 'Questões aleatórias']
+    topics: ['Geometria espacial', 'Questões aleatórias'],
   },
   {
     id: 171,
@@ -2523,9 +2523,9 @@ tem como face útil para impressão um`,
 
     ],
     correct: 'E',
-    explanation: `Calculando o quanto gastaria com cada face, sabendo que ele está disposto a pagar no máximo R$ 0,80 por cartão, temos face: triângulo equilátero de lado 12 cm: At = 12²√3/ 4 = 61,2 cm² Preço: At . 0,01 = 61,2 . 0,01 = R$0,612 Face: Quadrado de lado 8 cm Aq = 8² = 64 cm² Preço = Aq . 0,01 = 64.0,01 = R$0,64 Face: retângulo de lados 11 cm e 8 cm Ar = 11.8 = 88cm² Preço = Ar . 0,01 = 88 . 0,01 = R$ 0,88 Face: hexágono de lado 6 cm Ah = 6 . 6² √3 / 4= R$91,8 cm² Preço: Ah . 0,01 = 91,8 . 0,01 = R$ 0,918 Face: círculo de diâmetro 10 cm: Ac = π . 5² = 75 cm² Preço: Ac . 0,01 = π . 5² . 0,01 = R$ 0,75 O que tem a maior área e custa menos que R$0,80 é o que tem face de um círculo de diâmetro 10 cm.`,
+    explanation: `Limite de R$0,80 ↔ 80 cm². Áreas: triângulo equilátero lado 12 = (√3/4)·144 = 1,7·36 = 61,2; quadrado lado 8 = 64; retângulo 11×8 = 88 (excede 80); hexágono lado 6 = (3√3/2)·36 = 2,55·36 = 91,8 (excede 80); círculo d = 10 → π·5² = 3·25 = 75. Dentro do limite, a maior área é a do círculo (75 cm²). Resposta: E.`,
     subject: ['mat'],
-    topics: ['Geometria plana', 'Questões aleatórias']
+    topics: ['Geometria plana', 'Questões aleatórias'],
   },
   {
     id: 172,
@@ -2561,9 +2561,9 @@ Q leve no plano, forte no plano, subida moderada e`,
       { id: 'E', type: 'text', value: `leve no plano e subida forte.` },
     ],
     correct: 'D',
-    explanation: `Calcule a Fc máx = 220 &#8211; 61 = 159 bpm A faixa aeróbica para o ganho de condicionamento físico é entre 65% e 85% da Fc máx, como sabemos que a Fc máx é igual 159 bpm, 65% de 159 = 0,65 . 159 = 103,35 bpm e 85% de 159 = 0,85 . 159 &#8211; 135,15 bpm. Portanto, para estar na faixa aeróbica ideal, os batimentos devem estar entre 103,35 bpm e 135,15 bpm. Analisando a tabela, podemos observar que isso aconteceu nos trechos do percurso forte no plano e subida moderada.`,
+    explanation: `Fc máx = 220 − 61 = 159 bpm. Faixa ideal: 65%·159 = 103,35 e 85%·159 = 135,15. Dos trechos: leve no plano 90 (abaixo); forte no plano 120 (dentro); subida moderada 130 (dentro); subida forte 140 (acima). Logo: forte no plano e subida moderada. Resposta: D.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Porcentagem', 'Questões aleatórias'],
   },
   {
     id: 173,
@@ -2587,9 +2587,9 @@ diárias que o lava-rápido deve efetuar é`,
 
     ],
     correct: 'C',
-    explanation: `Para ter uma receita diária de, pelo menos, R$300,00 e não ter prejuízo, devemos considerar apenas as lavagens completas (de R$35,00) pois são as que custam mais. Logo, sendo n o número de lavagens, temos que: n ∙ 35 ≥ 300 n ≥ 300/35 n ≥ 8,57 Como a quantidade de lavagens precisa ser um número inteiro, o gabarito é a letra c (9 lavagens)`,
+    explanation: `Para minimizar o nº de lavagens, usa-se o maior preço (completa, R$35). Com 8 lavagens a receita máxima é 8·35 = 280 < 300; com 9 lavagens completas é 9·35 = 315 ≥ 300. Logo o mínimo é 9. Resposta: C.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Equações e inequações', 'Questões aleatórias'],
   },
   {
     id: 174,
@@ -2628,9 +2628,9 @@ deve comprar os medicamentos da seguinte forma:`,
 
     ],
     correct: 'C',
-    explanation: `X, Y e Z na farmácia 1: 45+40+50 = 135 X e Y na farmácia 1 e Z na farmácia 3: 45 + 40 + 35 = 120 X e Y na farmácia 2, e Z na farmácia 3: (50 + 50) . 0,8 + 35 = 115 X na farmácia 2, e Y e Z na farmácia 3: 50+50+40 = 140 X, Y e Z na farmácia 3: (65 + 45 +35) . 0,8 = 116 Logo, a melhor opção é a apresentada em C. &nbsp;`,
+    explanation: `Comparando os caminhos: Farm.1 (X,Y,Z) = 45+40+50 = 135. X e Y na Farm.2 com 20% de desconto = 0,8·50 + 0,8·50 = 40 + 40 = 80, e Z mais barato na Farm.3 = 35 → 80 + 35 = 115. Farm.3 (3 itens com 20% off) = 0,8·145 = 116. O menor custo é X e Y na Farmácia 2 e Z na Farmácia 3 (R$115,00). Resposta: C.`,
     subject: ['mat'],
-    topics: ['Porcentagem', 'Questões aleatórias']
+    topics: ['Porcentagem', 'Matemática financeira', 'Questões aleatórias'],
   },
   {
     id: 175,
@@ -2659,9 +2659,9 @@ união das hastes?`,
 
     ],
     correct: 'A',
-    explanation: `A figura possui dois cubos, cada um, com 12 quadrados. Além disso, os vértices dos cubos estão ligados por um segmento de reta, formando trapézios isósceles. Assim, são 12 trapézios isósceles.`,
+    explanation: `A estrutura é um cubo externo e um cubo interno com os vértices correspondentes ligados. Faces quadradas: 6 do cubo externo + 6 do interno = 12 quadrados. Entre cada aresta externa e a aresta interna correspondente forma-se um trapézio isósceles (pela simetria); são 12 arestas → 12 trapézios isósceles. Resposta: A.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Geometria espacial', 'Geometria plana', 'Questões aleatórias'],
   },
   {
     id: 176,
@@ -2697,9 +2697,9 @@ Quantos anos de fundação essa cidade comemorará em
 
     ],
     correct: 'D',
-    explanation: `O ano de fundação da cidade é: MCDLXIX temos que M = 1000, DC = 400, LX = 60 e IX = 9 Logo, o ano de fundação da cidade é 1469. A questão quer saber quantos anos a cidade irá comemorar no ano de 2050, então vamos subtrair: 2050 &#8211; 1469 = 581 .`,
+    explanation: `MCDLXIX = M(1 000) + CD(500 − 100 = 400) + LX(50 + 10 = 60) + IX(10 − 1 = 9) = 1 469. Em 2050: 2050 − 1 469 = 581 anos. Resposta: D.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Equações e inequações', 'Questões aleatórias'],
   },
   {
     id: 177,
@@ -2728,9 +2728,9 @@ adição 9 + 12 será representado, na base binária, por`,
       { id: 'E', type: 'text', value: `11001.` },
     ],
     correct: 'D',
-    explanation: `De antemão, 9 + 12 = 21. Podemos encontrar a representação desse número por meio de divisão sucessivas por 2 com resto. O número na representação binária é o resto das divisões e o quociente da último divisão. Ou seja, o número formado é 10101 na representação binária.`,
+    explanation: `Na base binária, 9 = 1001 e 12 = 1100, e a soma 9 + 12 = 21. Convertendo 21: 16 + 4 + 1 = 2⁴ + 2² + 2⁰ = 10101. (Conferindo: 1001 + 1100 = 10101.) Resposta: D.`,
     subject: ['mat'],
-    topics: ['Química Geral', 'Questões aleatórias']
+    topics: ['Equações e inequações', 'Questões aleatórias'],
   },
   {
     id: 178,
@@ -2758,9 +2758,9 @@ será igual a`,
 
     ],
     correct: 'C',
-    explanation: `Temos 3 hectares dos quais 0,9 ha serão usados para construção de ruas, então sobra 3 &#8211; 0,9 = 2,1 ha para os terrenos. Foi dados que 1 ha = 10 000 m², então 2,1 ha = 21000 m² Desses 21 000 m², iremos dividir em terrenos de 300 m² de área, logo a quantidade de terrenos será igual a: = 70 terrenos É dito no texto que os 20 primeiros terrenos serão vendidos por R$ 20 000,00 cada, então o valor que será obtido com a venda desses 20 terrenos é igual a 20 . 20 000 = R$ 400 000,00 Como são 70 terrenos e 20 já foram vendidos, então sobram 50 terrenos e eles serão vendidos por R$ 30 000,00, então o valor que será obtido com a venda desses 50 terrenos é igual a 50 . 30 000 = R$ 1 500 000, 00 Portanto, o valor total, em real, obtido pelo fazendeiro com a venda de todos os terrenos será igual a 400 000, 00 + 1 500 000, 00 = 1 900 000, 00`,
+    explanation: `3 ha = 30 000 m²; ruas e calçadas = 0,9 ha = 9 000 m²; resta 21 000 m². Nº de terrenos = 21 000/300 = 70. Receita: 20 terrenos · 20 000 + 50 terrenos · 30 000 = 400 000 + 1 500 000 = 1 900 000. Resposta: C.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Matemática financeira', 'Razão e proporção', 'Questões aleatórias'],
   },
   {
     id: 179,
@@ -2783,9 +2783,9 @@ podem ser produzidas é representada pela expressão`,
 
     ],
     correct: 'A',
-    explanation: ``,
+    explanation: `Escolhem-se 2 tecidos entre 6 e 5 pedras entre 15 (combinações, pois a ordem não importa), e multiplicam-se as possibilidades: C(6,2)·C(15,5) = [6!/(4!·2!)]·[15!/(10!·5!)]. Resposta: A.`,
     subject: ['mat'],
-    topics: ['Genética', 'Questões aleatórias']
+    topics: ['Análise combinatória', 'Questões aleatórias'],
   },
   {
     id: 180,
@@ -2814,9 +2814,9 @@ tipo B, em vez de um laboratório tipo A, num período de
 
     ],
     correct: 'B',
-    explanation: ``,
+    explanation: `Custo total em 4 anos ÷ capacidade: A = (180 + 4·60)/100 = 420/100 = 4,2 mil por usuário; B = (120 + 4·16)/80 = 184/80 = 2,3 mil por usuário. Economia por usuário = 4,2 − 2,3 = 1,9 mil reais. Resposta: B.`,
     subject: ['mat'],
-    topics: ['Interpretação de texto', 'Questões aleatórias']
+    topics: ['Matemática financeira', 'Questões aleatórias'],
   },
 ];
 
