@@ -124,7 +124,6 @@ CELINE
 No, I was going to say "neutral". It's like looking at a blank canvas. I think people go to places like Venice on their honeymoon to make sure they are not going to fight for the first two weeks of their marriage because they'll be too busy looking around at all the beautiful things. That's what people call a romantic place - somewhere where the prettiness will contain your primary violent instinct. A real good honeymoon spot would be like somewhere in New Jersey.
 KRIZAN, K.; LINKLATER, R. Before Sunrise: screenplay. New York: Vintage Books, 2005.
 Considerando-se o olhar dos personagens, esse trecho do roteiro de um filme permite reconhecer que a avaliação sobre um lugar depende do(a)`,
-    images: ['/enem/2021/images/enem_2021_d1_q5.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `beleza do próprio local.` },
       { id: 'B', type: 'text', value: `perspectiva do visitante.` },

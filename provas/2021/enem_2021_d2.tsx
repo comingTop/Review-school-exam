@@ -21,22 +21,7 @@ dados da composição da solução nutritiva de referência
 para esse cultivo. Também é apresentada a composição
 de uma solução preparada por um produtor de cultivo
 hidropônico.
-Concentração, mmol/L
-Composição |Solução nutritiva
-de referencia) preparada
-(55<pH<65)| (pH=4,3)
-P(H,PO,) 1,0
-Ca? 4,0
-Espécies químicas
-Macronutrientes
-3,0
-so” 2,0
-Fe? 90 x 103
-LENZI, E.; FAVERO, L. O. B.; LUCHESE, E. B. Introdução à química da água: ciência,
-vida e sobrevivência. Rio de Janeiro: LTC, 2012 (adaptado).
-1,0
-70 x 107
-Micronutrientes
+LENZI, E.; FAVERO, L. O. B.; LUCHESE, E. B. Introdução à química da água: ciência, vida e sobrevivência. Rio de Janeiro: LTC, 2012 (adaptado).
 Para correção do pH da solução nutritiva preparada, esse
 produtor pode empregar uma solução de`,
     images: ['/enem/2021/images/enem_2021_d2_q91.jpg'],
@@ -125,17 +110,18 @@ No jogo, dois competidores controlam os canhões
 A e B, disparando balas alternadamente com o objetivo
 de atingir o canhão do adversário; para isso, atribuem
 valores estimados para o módulo da velocidade inicial de
-disparo (|v,|) e para o ângulo de disparo (6).
+disparo (|v₀|) e para o ângulo de disparo (θ).
 Em determinado momento de uma partida, o
 competidor B deve disparar; ele sabe que a bala disparada
-anteriormente, O = 53º, passou tangenciando o ponto P.
-No jogo, |'9| é igual a 10 m/s?. Considere sen 53º= 0,8,
+anteriormente, θ = 53°, passou tangenciando o ponto P.
+No jogo, |g| é igual a 10 m/s². Considere sen 53º= 0,8,
 cos 53º= 0,6 e desprezível a ação de forças dissipativas.
 Disponível em: http://mebdownloads.butzke.net.br. Acesso em: 18 abr. 2015 (adaptado).
 Com base nas distâncias dadas e mantendo o último
 ângulo de disparo, qual deveria ser, aproximadamente,
-o menor valor de [v,] que permitiria ao disparo efetuado
+o menor valor de |v₀| que permitiria ao disparo efetuado
 pelo canhão B atingir o canhão A?`,
+    images: ['/enem/2021/images/enem_2021_d2_q94.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `30 m/s.` },
       { id: 'B', type: 'text', value: `35 m/s.` },
@@ -387,11 +373,11 @@ Utilizando a representação de projetos elétricos, o circuito
 equivalente a esse sistema é`,
     images: ['/enem/2021/images/enem_2021_d2_q102.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2021/images/enem_2021_d2_q102_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2021/images/enem_2021_d2_q102_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2021/images/enem_2021_d2_q102_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2021/images/enem_2021_d2_q102_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2021/images/enem_2021_d2_q102_E.jpg` },
     ],
     correct: 'B',
     explanation: `Cada conjunto Cu(s)/CuSO₄ ligado a Zn(s)/ZnSO₄ constitui uma pilha (fonte de tensão); como há duas dessas pilhas ligadas em sequência, elas formam uma associação de duas baterias em série. O cronômetro é o aparelho alimentado, representado por um resistor, e o voltímetro, por medir a diferença de potencial, deve ser ligado em paralelo. O esquema que mostra duas pilhas em série, um resistor e o voltímetro em paralelo é o da alternativa B.`,
@@ -482,11 +468,11 @@ que as cargas penetram na região de campo magnético,
 está representado em`,
     images: ['/enem/2021/images/enem_2021_d2_q105.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2021/images/enem_2021_d2_q105_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2021/images/enem_2021_d2_q105_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2021/images/enem_2021_d2_q105_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2021/images/enem_2021_d2_q105_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2021/images/enem_2021_d2_q105_E.jpg` },
     ],
     correct: 'A',
     explanation: `A força magnética sobre uma carga é F = q·v×B. O sistema cai no sentido da gravidade (que, na vista de cima, aponta para dentro da página) e o campo B aponta para a direita. Para a carga positiva, o produto v×B fornece uma força num sentido; para a carga negativa, de sinal oposto e mesma velocidade, a força tem sentido contrário — as duas forças são antiparalelas e perpendiculares à haste, tendendo a girar o haltere. O diagrama que mostra a carga positiva e a negativa com forças verticais opostas é o da alternativa A.`,
@@ -899,7 +885,7 @@ de cinco espécies, conforme o quadro.
 Legenda: (−) ausente, (+) presente em pequena quantidade,
 (++) presente em média quantidade, (+++) presente em grande quantidade.
 Qual espécie corresponde ao objetivo proposto?`,
-    images: ['/enem/2021/images/enem_2021_d2_q119_1.jpg', '/enem/2021/images/enem_2021_d2_q119_2.jpg'],
+    images: ['/enem/2021/images/enem_2021_d2_q119_1.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1` },
       { id: 'B', type: 'text', value: `2` },
@@ -1099,11 +1085,11 @@ interruptores, mas apenas um satisfaz a sua necessidade.
 Esse circuito é representado por`,
     images: ['/enem/2021/images/enem_2021_d2_q126.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2021/images/enem_2021_d2_q126_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2021/images/enem_2021_d2_q126_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2021/images/enem_2021_d2_q126_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2021/images/enem_2021_d2_q126_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2021/images/enem_2021_d2_q126_E.jpg` },
     ],
     correct: 'D',
     explanation: `São necessárias duas chaves de três pontos (comutadoras) que, combinadas, permitam fechar o circuito por apenas uma das três lâmpadas de cada vez. A ligação correta conecta os terminais das chaves de modo que, para cada combinação de posições (AB ou BC de cada interruptor), somente uma lâmpada fique em série com a bateria, acendendo isoladamente. O único esquema que acende uma lâmpada de cada vez — sem acender duas ao mesmo tempo nem deixar alguma inacessível — é o da alternativa D.`,
@@ -1312,7 +1298,7 @@ dispositivo eletrônico?`,
     exam: 'enem',
     year: 2021,
     day: 2,
-    text: `O alcoolômetro Gay Lussac e um instrumento destinado a medir o teor de álcool, em porcentagem de volume (v/v), de soluções de água e álcool na faixa de O “GL a 100 “GL, com divisões de 0,1 “GL. A concepção do alcoolômetro se baseia no principio de flutuabilidade de Arquimedes, semelhante ao funcionamento de um densímetro. A escala do instrumento é aferida a 20 “ºC, sendo necessária a correção da medida, caso a temperatura da solução não esteja na temperatura de aferição. É apresentada parte da tabela de correção de um alcoolômetro, com a temperatura. Tabela de correção do alcoolômetro com temperatura 20 *C Leitura da temperatura (*C) Manual alcoolômetro Gay Lussac. Disponível em: www.incoterm.com.br. Acesso em: 4 dez. 2018 (adaptado). É necessária a correção da medida do instrumento, pois um aumento na temperatura promove o(a)`,
+    text: `O alcoolômetro Gay Lussac é um instrumento destinado a medir o teor de álcool, em porcentagem de volume (v/v), de soluções de água e álcool na faixa de 0 °GL a 100 °GL, com divisões de 0,1 °GL. A concepção do alcoolômetro se baseia no princípio de flutuabilidade de Arquimedes, semelhante ao funcionamento de um densímetro. A escala do instrumento é aferida a 20 °C, sendo necessária a correção da medida, caso a temperatura da solução não esteja na temperatura de aferição. É apresentada parte da tabela de correção de um alcoolômetro, com a temperatura. Tabela de correção do alcoolômetro com temperatura 20 °C Leitura da temperatura (°C) Manual alcoolômetro Gay Lussac. Disponível em: www.incoterm.com.br. Acesso em: 4 dez. 2018 (adaptado). É necessária a correção da medida do instrumento, pois um aumento na temperatura promove o(a)`,
     images: ['/enem/2021/images/enem_2021_d2_q134.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `aumento da dissociação da água.` },
@@ -1341,13 +1327,12 @@ longo da cadeia principal do polímero.
 ROCHA FILHO, R. C. Polímeros condutores: descoberta e aplicações.
 Química Nova na Escola, n. 12, 2000 (adaptado).
 Um exemplo desse polímero é representado pela estrutura`,
-    images: ['/enem/2021/images/enem_2021_d2_q135_A.jpg', '/enem/2021/images/enem_2021_d2_q135_B.jpg', '/enem/2021/images/enem_2021_d2_q135_C.jpg', '/enem/2021/images/enem_2021_d2_q135_D.jpg', '/enem/2021/images/enem_2021_d2_q135_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2021/images/enem_2021_d2_q135_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2021/images/enem_2021_d2_q135_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2021/images/enem_2021_d2_q135_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2021/images/enem_2021_d2_q135_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2021/images/enem_2021_d2_q135_E.jpg` },
     ],
     correct: 'D',
     explanation: `Um polímero condutor precisa ter ligações duplas conjugadas (alternância de ligações simples e duplas) ao longo da cadeia principal, o que permite a deslocalização dos elétrons. Entre as estruturas, apenas a D tem a cadeia principal formada por ligações duplas conjugadas, como no poliacetileno (−CH=CH−CH=CH−), sem carbonos saturados interrompendo a conjugação. As demais têm cadeia saturada (A e B), insaturação isolada separada por carbonos saturados (C) ou dupla associada a grupo lateral (E). Portanto, o exemplo é a estrutura D (alternativa D).`,
@@ -1420,11 +1405,11 @@ A projeção ortogonal sobre o plano do solo do trajeto
 percorrido por esse visitante é representada por`,
     images: ['/enem/2021/images/enem_2021_d2_q137.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2021/images/enem_2021_d2_q137_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2021/images/enem_2021_d2_q137_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2021/images/enem_2021_d2_q137_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2021/images/enem_2021_d2_q137_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2021/images/enem_2021_d2_q137_E.jpg` },
     ],
     correct: 'E',
     explanation: `O cubo apoia-se por um vértice, com a diagonal principal perpendicular ao solo. A projeção ortogonal de um cubo ao longo de sua diagonal principal é um hexágono regular: os dois vértices extremos (o mais alto e o mais baixo) projetam-se no centro e os outros seis formam o hexágono. As 12 arestas projetam-se nos 6 lados e em 6 segmentos ligando o centro aos vértices, e as diagonais do cubo caem sobre essas mesmas ligações ao centro. Resulta um hexágono dividido em 6 triângulos. Resposta: E.`,
@@ -1552,7 +1537,6 @@ percentual s calculado sobre o valor pago pelo total das
 diárias.
 Nessa situação, o preço a ser pago ao aplicativo para uma
 hospedagem de n diárias pode ser obtido pela expressão`,
-    images: ['/enem/2021/images/enem_2021_d2_q141.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `P = d.n + L + d.n.s` },
       { id: 'B', type: 'text', value: `P = d.n + L + d.s` },
@@ -1789,18 +1773,15 @@ Segundo esse pesquisador, o número anual típico de terremotos de magnitude mai
     exam: 'enem',
     year: 2021,
     day: 2,
-    text: `A receita R de uma empresa ao final de um mes e o
+    text: `A receita R de uma empresa ao final de um mês é o
 dinheiro captado com a venda de mercadorias ou com a
 prestação de serviços nesse mês, e a despesa D é todo o
 dinheiro utilizado para pagamento de salários, contas de
 água e luz, impostos, entre outros. O lucro mensal obtido
-ao final do mes e a diferença entre a receita e a despesa
-registradas no mes. O gráfico apresenta as receitas e
+ao final do mês é a diferença entre a receita e a despesa
+registradas no mês. O gráfico apresenta as receitas e
 despesas, em milhão de real, de uma empresa ao final
 dos cinco primeiros meses de um dado ano.
-Receitas e despesas
-janeiro fevereiro março abril maio
-Receita Despesa - = =
 A previsão para os próximos meses é que o lucro mensal
 não seja inferior ao maior lucro obtido até o mês de maio.
 Nessas condições, o lucro mensal para os próximos
@@ -1931,7 +1912,7 @@ Dessa forma, o valor recebido pelo navio receptor será`,
 miniatura do castelo de Liechtenstein. O castelo original,
 representado na imagem, está situado na Alemanha e foi
 reconstruído entre os anos de 1840 e 1842, após duas
-destruigdes causadas por guerras.
+destruições causadas por guerras.
 O castelo possui uma ponte de 38,4 m de comprimento
 e 1,68 m de largura. O artesão que trabalhou para o
 parque produziu a réplica do castelo, em escala. Nessa
@@ -1997,17 +1978,12 @@ de 2020 seria de`,
     exam: 'enem',
     year: 2021,
     day: 2,
-    text: `Um atleta produz sua própria refeição com custo fixo d
-batata-doce e uma hortaliça. Atualmente, os preços dos pr
-refeição rango (kg)
-R$ 12,50
-Em relação a esses preços, haverá um aumento de |
-preços não serão alterados. O atleta deseja manter o cus
-Portanto, terá que reduzir a quantidade de frango.
-Qual deve ser a redução percentual da quantidade de fra`,
+    text: `Um atleta produz sua própria refeição com custo fixo de R$ 10,00. Ela é composta por 400 g de frango, 600 g de batata-doce e uma hortaliça. Atualmente, os preços dos produtos para essa refeição são:
+Em relação a esses preços, haverá um aumento de 50% no preço do quilograma de batata-doce, e os outros preços não serão alterados. O atleta deseja manter o custo da refeição, a quantidade de batata-doce e a hortaliça. Portanto, terá que reduzir a quantidade de frango.
+Qual deve ser a redução percentual da quantidade de frango para que o atleta alcance seu objetivo?`,
     images: ['/enem/2021/images/enem_2021_d2_q155.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `125` },
+      { id: 'A', type: 'text', value: `12,5` },
       { id: 'B', type: 'text', value: `28,0` },
       { id: 'C', type: 'text', value: `30,0` },
       { id: 'D', type: 'text', value: `50,0` },
@@ -2126,7 +2102,7 @@ proporcional ao número de pessoas trabalhando nele. Em
 uma dessas paradas, um dos trabalhadores passou mal, não
 pôde participar da troca e nem foi substituído, de forma que
 um dos quatro grupos de troca ficou reduzido.
-Nessa parada especifica, com um dos grupos reduzido, qual
+Nessa parada específica, com um dos grupos reduzido, qual
 foi o tempo gasto, em segundo, para trocar os quatro pneus?`,
     alternatives: [
       { id: 'A', type: 'text', value: `6,0` },
@@ -2200,13 +2176,12 @@ da arrecadação em função do valor do desconto no preço
 atual do ingresso.
 O gráfico que mais se assemelha ao que deve ser elaborado
 pelo administrador é`,
-    images: ['/enem/2021/images/enem_2021_d2_q161_A.jpg', '/enem/2021/images/enem_2021_d2_q161_B.jpg', '/enem/2021/images/enem_2021_d2_q161_C.jpg', '/enem/2021/images/enem_2021_d2_q161_D.jpg', '/enem/2021/images/enem_2021_d2_q161_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2021/images/enem_2021_d2_q161_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2021/images/enem_2021_d2_q161_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2021/images/enem_2021_d2_q161_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2021/images/enem_2021_d2_q161_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2021/images/enem_2021_d2_q161_E.jpg` },
     ],
     correct: 'E',
     explanation: `Com desconto x (inteiro), preço = 20 − x e público = 200 + 40x; arrecadação R(x) = (20 − x)(200 + 40x) = −40x² + 600x + 4 000. É uma parábola de concavidade para baixo, máximo em x = 7,5 (R ≈ 6 250) e R = 0 em x = 20 (ingresso zero). Como só há valores inteiros, o gráfico é de pontos discretos formando essa parábola. Resposta: E.`,
@@ -2223,13 +2198,12 @@ R ≤ 5 000: isento
 5 000 < R ≤ 10 000: 10% de (R − 5 000)
 10 000 < R ≤ 15 000: 500 + 30% de (R − 10 000)
 O gráfico que melhor representa essa relação é`,
-    images: ['/enem/2021/images/enem_2021_d2_q162.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2021/images/enem_2021_d2_q162_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2021/images/enem_2021_d2_q162_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2021/images/enem_2021_d2_q162_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2021/images/enem_2021_d2_q162_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2021/images/enem_2021_d2_q162_E.jpg` },
     ],
     correct: 'A',
     explanation: `I = 0 para R ≤ 5 000 (reta horizontal). Para 5 000 < R ≤ 10 000: I = 0,1(R − 5 000), reta de inclinação 0,1 que chega a 500 em R = 10 000. Para 10 000 < R ≤ 15 000: I = 500 + 0,3(R − 10 000), reta mais inclinada (0,3) que chega a 2 000 em R = 15 000. Gráfico contínuo, crescente, com inclinação maior no último trecho e eixo I até 2 000. Resposta: A.`,
@@ -2241,13 +2215,13 @@ O gráfico que melhor representa essa relação é`,
     exam: 'enem',
     year: 2021,
     day: 2,
-    text: `A relação de Newton-Laplace estabelece que o modulo
-volumétrico de um fluido e diretamente proporcional ao
+    text: `A relação de Newton-Laplace estabelece que o módulo
+volumétrico de um fluido é diretamente proporcional ao
 quadrado da velocidade do som (em metro por segundo) no
-fluido e a sua densidade (em quilograma por metro cubico),
+fluido e à sua densidade (em quilograma por metro cúbico),
 com uma constante de proporcionalidade adimensional.
 Nessa relação, a unidade de medida adequada para o
-modulo volumétrico é`,
+módulo volumétrico é`,
     alternatives: [
       { id: 'A', type: 'text', value: `kg·m⁻²·s⁻¹` },
       { id: 'B', type: 'text', value: `kg·m⁻¹·s⁻²` },
@@ -2338,11 +2312,11 @@ sobre as novas quantidades de tinta necessárias.
 Em relação ao previsto para o projeto original, as
 novas quantidades de tinta necessárias informadas pelos
 fornecedores foram as seguintes:
-* Fornecedor |: “O dobro, tanto para as paredes
+* Fornecedor I: “O dobro, tanto para as paredes
 quanto para o piso.”
-* Fornecedor Il: “O dobro para as paredes e quatro
+* Fornecedor II: “O dobro para as paredes e quatro
 vezes para o piso.”
-* Fornecedor Ill: “Quatro vezes, tanto para as paredes
+* Fornecedor III: “Quatro vezes, tanto para as paredes
 quanto para o piso.”
 * Fornecedor IV: “Quatro vezes para as paredes e o
 dobro para o piso.”
@@ -2409,7 +2383,6 @@ opostas quando não têm nem arestas, nem vértices em
 comum. Na figura, observa-se um octaedro regular e uma
 de suas planificações, na qual há uma face colorida na
 cor cinza escuro e outras quatro faces numeradas.
->
 Qual(is) face(s) ficará(ão) oposta(s) à face de cor cinza
 escuro, quando o octaedro for reconstruído a partir da
 planificação dada?`,
@@ -2436,8 +2409,6 @@ planificação dada?`,
 é composto por uma barra fina de aco, dobrada em um
 formato que se assemelha a um triângulo, com uma abertura
 e uma haste, conforme ilustra a Figura 1.
-Figura 1 Figura 2
-><fE
 Uma empresa de brindes promocionais contrata uma
 fundição para a produção de miniaturas de instrumentos
 desse tipo. A fundição produz, inicialmente, peças com o
@@ -2448,7 +2419,7 @@ vértices, dando origem à miniatura. Assuma que não
 ocorram perdas de material no processo de produção, de
 forma que o comprimento da barra utilizada seja igual ao
 perímetro do triângulo equilátero representado na Figura 2.
-Considere 1,7 como valor aproximado para 4/3.
+Considere 1,7 como valor aproximado para √3.
 Nessas condições, o valor que mais se aproxima da
 medida do comprimento da barra, em centímetro, é`,
     images: ['/enem/2021/images/enem_2021_d2_q169.jpg'],
@@ -2477,7 +2448,7 @@ e a base é um círculo de diâmetro (d) medindo 8 cm.
 Além disso, sabe-se que a altura (h) dessa caneca mede
 12 cm (distância entre o centro das circunferências do
 topo e da base).
-Utilize 3 como aproximação para TT.
+Utilize 3 como aproximação para π.
 Qual é a capacidade volumétrica, em mililitro, dessa caneca?`,
     images: ['/enem/2021/images/enem_2021_d2_q170.jpg'],
     alternatives: [
@@ -2537,10 +2508,6 @@ um monitor cardíaco para medir suas frequências
 cardíacas em quatro diferentes tipos de trechos do
 percurso. Os resultados das frequências cardíacas
 máximas alcançadas nesses trechos foram:
-Frequências cardíacas
-Trechos do percurso ar
-máximas (bpm)
-| Levemoplamo | so |
 Sabe-se que a faixa aeróbica ideal para o ganho
 de condicionamento físico é entre 65% e 85% da
 frequência cardíaca máxima (Fc máx.), que, por sua vez,
@@ -2550,8 +2517,7 @@ em que a idade é dada em ano e Fc máx. é dada em bpm
 (batimento por minuto).
 Os trechos do percurso nos quais esse ciclista se mantém
 dentro de sua faixa aeróbica ideal, para o ganho de
-condicionamento físico, são
-Q leve no plano, forte no plano, subida moderada e`,
+condicionamento físico, são`,
     images: ['/enem/2021/images/enem_2021_d2_q172.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `subida forte.` },
@@ -2687,7 +2653,6 @@ Em uma cidade europeia há uma placa indicando o
 ano de sua fundação: MCDLXIX.
 Quantos anos de fundação essa cidade comemorará em
 2050?`,
-    images: ['/enem/2021/images/enem_2021_d2_q176.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `379` },
       { id: 'B', type: 'text', value: `381` },
@@ -2710,14 +2675,22 @@ Quantos anos de fundação essa cidade comemorará em
 número é a base decimal. Entretanto, os computadores
 trabalham com números na base binária. Nessa base,
 qualquer número natural é representado usando apenas
-os algarismos O e 1. Por exemplo, as representações
+os algarismos 0 e 1. Por exemplo, as representações
 dos números 9 e 12, na base binária, são 1001 e 1100,
 respectivamente. A operação de adição, na base binária,
 segue um algoritmo similar ao utilizado na base decimal,
 como detalhado no quadro:
+a | b | a + b
+0 | 0 | 0
+0 | 1 | 1
+1 | 0 | 1
+1 | 1 | 10
 Por exemplo, na base binária, a soma dos números
 10 e 10 é 100, como apresentado:
-+10
+   10
++  10
+------
+  100
 Considerando as informações do texto, o resultado da
 adição 9 + 12 será representado, na base binária, por`,
     alternatives: [
@@ -2739,11 +2712,11 @@ adição 9 + 12 será representado, na base binária, por`,
     day: 2,
     text: `Uma unidade de medida comum usada para expressar
 áreas de terrenos de grandes dimensões é o hectare,
-que equivale a 10 000 m?. Um fazendeiro decide fazer
+que equivale a 10 000 m². Um fazendeiro decide fazer
 um loteamento utilizando 3 hectares de sua fazenda, dos
 quais 0,9 hectare será usado para a construção de ruas e
 calçadas e o restante será dividido em terrenos com área
-de 300 m? cada um. Os 20 primeiros terrenos vendidos
+de 300 m² cada um. Os 20 primeiros terrenos vendidos
 terão preços promocionais de R$ 20 000,00 cada, e os
 demais, R$ 30 000,00 cada.
 Nas condições estabelecidas, o valor total, em real,
