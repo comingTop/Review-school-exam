@@ -830,20 +830,17 @@ cidades, peixes, urubus, caveiras, abandono, solidão,
 drama e medo. 
 ZULIETTI, L. F. Goeldi: da melancolia ao inevitável. Revista de Arte, Mídia e Politica . 
 Acesso em: 24 abr. 2017 (adaptado). 
-O gravador Oswaldo Goeldi recebeu fortes influências de 
-um movimento artístico europeu do início do século XX, 
-que apresenta as características reveladas nos traços da 
-obra de 
-Alfred Kubin, 
-representante do 
-Expressionismo.`,
+O gravador Oswaldo Goeldi recebeu fortes influências de
+um movimento artístico europeu do início do século XX,
+que apresenta as características reveladas nos traços da
+obra de`,
     images: ['/enem/2017/images/enem_2017_d1_q21.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2017/images/enem_2017_d1_q21_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2017/images/enem_2017_d1_q21_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2017/images/enem_2017_d1_q21_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2017/images/enem_2017_d1_q21_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2017/images/enem_2017_d1_q21_E.jpg` },
     ],
     correct: 'A',
     explanation: `Resposta correta: A. A obra de Goeldi, marcada por melancolia, abandono, solidão, medo e pela presença de caveiras e urubus, filia-se ao Expressionismo, movimento europeu do início do século XX que privilegia a subjetividade, o dramatismo e os fortes contrastes de luz e sombra. A imagem da alternativa A é a que apresenta esses traços expressionistas, afinados com o universo sombrio do gravador. As demais opções correspondem a características de outros estilos, sem o teor dramático e angustiado próprio da influência assumida por Goeldi.`,

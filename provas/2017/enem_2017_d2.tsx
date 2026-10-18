@@ -647,15 +647,13 @@ pelos pontos de máxima e de mínima alturas, h max e h mín ,
 respectivamente. 
 Esquematicamente, o esboço do gráfico da energia 
 cinética da criança em função de sua posição vertical na 
-situação descrita é: 
-E c`,
-    images: ['/enem/2017/images/enem_2017_d2_q108_A.jpg', '/enem/2017/images/enem_2017_d2_q108_B.jpg', '/enem/2017/images/enem_2017_d2_q108_C.jpg', '/enem/2017/images/enem_2017_d2_q108_D.jpg', '/enem/2017/images/enem_2017_d2_q108_E.jpg'],
+situação descrita é:`,
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2017/images/enem_2017_d2_q108_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2017/images/enem_2017_d2_q108_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2017/images/enem_2017_d2_q108_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2017/images/enem_2017_d2_q108_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2017/images/enem_2017_d2_q108_E.jpg` },
     ],
     correct: 'C',
     explanation: `Nos pontos de altura máxima e mínima a criança inverte o movimento e tem velocidade nula, de modo que a energia cinética é zero em h_máx e h_mín. Pela conservação da energia mecânica, a energia cinética é máxima na posição de equilíbrio (h = 0), onde a velocidade é maior. No trecho acima da lona, apenas a gravidade atua, e E_c = E − m·g·h decresce de forma linear com h; abaixo, a força elástica torna o decréscimo não linear. O gráfico que mostra E_c nula nos extremos, máxima perto de h = 0 e com esse comportamento assimétrico é o da alternativa C.`,
@@ -1136,24 +1134,15 @@ apresentem`,
     text: `A invenção do LED azul, que permite a geração de outras cores para compor a luz branca, permitiu a construção 
 de lâmpadas energeticamente mais eficientes e mais duráveis do que as incandescentes e fluorescentes. Em um 
 experimento de laboratório, pretende-se associar duas pilhas em serie para acender um LED azul que requer 3,6 volts 
-para o seu funcionamento. Considere as semirreações de redução e seus respectivos potenciais mostrados no quadro. 
- + 2 e − → Zn (s) 
-− 0,76 
-Qual associação em série de pilhas fornece diferença de potencial, nas condicoes-padrão, suficiente para acender o LED azul? 
-LED 
-Ni 
-Grafite 
-Zn 
-Grafite 
-KCI 
-KCI`,
-    images: ['/enem/2017/images/enem_2017_d2_q121_1.jpg', '/enem/2017/images/enem_2017_d2_q121_2.jpg'],
+para o seu funcionamento. Considere as semirreações de redução e seus respectivos potenciais mostrados no quadro.
+Qual associação em série de pilhas fornece diferença de potencial, nas condições-padrão, suficiente para acender o LED azul?`,
+    images: ['/enem/2017/images/enem_2017_d2_q121_1.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2017/images/enem_2017_d2_q121_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2017/images/enem_2017_d2_q121_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2017/images/enem_2017_d2_q121_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2017/images/enem_2017_d2_q121_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2017/images/enem_2017_d2_q121_E.jpg` },
     ],
     correct: 'C',
     explanation: `A ddp de cada pilha é a diferença entre os potenciais de redução do cátodo e do ânodo. Associando o Ce⁴⁺/Ce³⁺ (+1,61 V) como cátodo com o Zn (−0,76 V) como ânodo, obtém-se 1,61 − (−0,76) = 2,37 V; associando o Cr₂O₇²⁻ (+1,33 V) com o Ni (−0,25 V), obtém-se 1,33 − (−0,25) = 1,58 V. Ligadas em série, essas duas pilhas fornecem 2,37 + 1,58 = 3,95 V, suficiente para os 3,6 V do LED. A alternativa C é a única que usa eletrodos inertes de grafite nas meias-células do Ce⁴⁺ e do Cr₂O₇²⁻ e liga as pilhas em série de modo que os potenciais se somem. Portanto, a resposta é a alternativa C.`,
@@ -1258,13 +1247,12 @@ diferentes bases nitrogenadas.
 Qual dos segmentos de DNA será o primeiro a desnaturar 
 totalmente durante o aumento da temperatura na reação 
 de PCR?`,
-    images: ['/enem/2017/images/enem_2017_d2_q125_A.jpg', '/enem/2017/images/enem_2017_d2_q125_B.jpg', '/enem/2017/images/enem_2017_d2_q125_C.jpg', '/enem/2017/images/enem_2017_d2_q125_D.jpg', '/enem/2017/images/enem_2017_d2_q125_E.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2017/images/enem_2017_d2_q125_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2017/images/enem_2017_d2_q125_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2017/images/enem_2017_d2_q125_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2017/images/enem_2017_d2_q125_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2017/images/enem_2017_d2_q125_E.jpg` },
     ],
     correct: 'C',
     explanation: `A estabilidade da dupla-hélice depende do número de ligações de hidrogênio: os pares A–T têm 2 ligações, enquanto os pares G–C têm 3. O segmento mais rico em pares A–T é o menos estável e, por isso, desnatura primeiro com o aumento da temperatura. Entre as opções, o segmento C é o que apresenta a maior proporção de pares A–T (e menos G–C). Portanto, o primeiro a desnaturar totalmente é o segmento C (alternativa C).`,
@@ -1614,28 +1602,13 @@ para isso o valor atual das parcelas ainda a pagar.
 Após pagar a 5ª parcela, resolve quitar a dívida no ato 
 de pagar a 6ª parcela. 
 A expressão que corresponde ao valor total pago pela 
-quitação do empréstimo é 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-( 
-) 
-( 
-)`,
-    images: ['/enem/2017/images/enem_2017_d2_q136_A.jpg', '/enem/2017/images/enem_2017_d2_q136_B.jpg', '/enem/2017/images/enem_2017_d2_q136_C.jpg', '/enem/2017/images/enem_2017_d2_q136_D.jpg', '/enem/2017/images/enem_2017_d2_q136_E.jpg'],
+quitação do empréstimo é`,
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2017/images/enem_2017_d2_q136_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2017/images/enem_2017_d2_q136_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2017/images/enem_2017_d2_q136_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2017/images/enem_2017_d2_q136_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2017/images/enem_2017_d2_q136_E.jpg` },
     ],
     correct: 'A',
     explanation: `As parcelas são iguais a P e a taxa é i% ao mês (juros compostos). Ao quitar no ato de pagar a 6ª parcela, pagam-se as parcelas 6, 7 e 8 trazidas a valor presente para esse instante: a 6ª no próprio instante (valor P), a 7ª vence 1 mês depois e a 8ª, 2 meses depois. Trazendo a valor atual: total = P + P/(1 + i/100) + P/(1 + i/100)^2 = P·[1 + 1/(1 + i/100) + 1/(1 + i/100)^2]. Resposta: A.`,
@@ -1652,22 +1625,9 @@ precisava fazer um empréstimo no valor de R$ 5 000,00.
 Para pagar as prestações, dispõe de, no máximo, 
 R$ 400,00 mensais. Para esse valor de empréstimo, 
 o valor da prestação ( P ) é calculado em função do 
-número de prestações ( n ) segundo a fórmula 
-n 
-P = 
-× 
-× 
-− 
-5 000 1013 
-0 013 
-1013 
-1 
-, 
-, 
-( , 
-) 
-n 
-Se necessário, utilize 0,005 como aproximação para 
+número de prestações ( n ) segundo a fórmula
+P = (5000 × 1,013ⁿ × 0,013) / (1,013ⁿ − 1)
+Se necessário, utilize 0,005 como aproximação para
 log 1,013; 2,602 como aproximação para log 400; 2,525 
 como aproximação para log 335.  
 De acordo com a fórmula dada, o menor número de 
@@ -1869,11 +1829,11 @@ distintos do brinquedo caminhão-cegonha que essa
 empresa poderá produzir?`,
     images: ['/enem/2017/images/enem_2017_d2_q143.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `C 6,4` },
-      { id: 'B', type: 'text', value: `C 9,3` },
-      { id: 'C', type: 'text', value: `C 10,4` },
-      { id: 'D', type: 'text', value: `6 4` },
-      { id: 'E', type: 'text', value: `4 6` },
+      { id: 'A', type: 'text', value: `C₆,₄` },
+      { id: 'B', type: 'text', value: `C₉,₃` },
+      { id: 'C', type: 'text', value: `C₁₀,₄` },
+      { id: 'D', type: 'text', value: `6⁴` },
+      { id: 'E', type: 'text', value: `4⁶` },
     ],
     correct: 'B',
     explanation: `São 10 carrinhos, 4 cores, com pelo menos uma de cada cor; como a posição não importa, conta-se quantos de cada cor. Distribuir 10 entre 4 cores com cada cor ≥ 1 equivale a distribuir 10 − 4 = 6 livremente entre 4 cores: combinação com repetição C(6 + 4 − 1, 4 − 1) = C(9,3). Resposta: B.`,
@@ -2149,15 +2109,14 @@ Reservatório 2
 A água entra no sistema pelo cano de entrada no Reservatório 1 a uma vazão constante e, ao atingir o nível do 
 cano de ligação, passa a abastecer o Reservatório 2. Suponha que, inicialmente, os dois reservatórios estejam vazios. 
 Qual dos gráficos melhor descreverá a altura h do nível da água no Reservatório 1, em função do volume V de água 
-no sistema? 
-h`,
+no sistema?`,
     images: ['/enem/2017/images/enem_2017_d2_q152.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
+      { id: 'A', type: 'image', value: `/enem/2017/images/enem_2017_d2_q152_A.jpg` },
+      { id: 'B', type: 'image', value: `/enem/2017/images/enem_2017_d2_q152_B.jpg` },
+      { id: 'C', type: 'image', value: `/enem/2017/images/enem_2017_d2_q152_C.jpg` },
+      { id: 'D', type: 'image', value: `/enem/2017/images/enem_2017_d2_q152_D.jpg` },
+      { id: 'E', type: 'image', value: `/enem/2017/images/enem_2017_d2_q152_E.jpg` },
     ],
     correct: 'D',
     explanation: `No início só o Reservatório 1 enche: h cresce linearmente com V. Ao atingir o cano de ligação, a água passa a encher também o Reservatório 2 e h fica constante (patamar horizontal). Quando o Reservatório 2 também alcança o cano, os dois sobem juntos e h volta a crescer, porém mais devagar (cada volume adicionado se divide entre os dois reservatórios). O gráfico com subida, patamar e subida menos inclinada é o D. Resposta: D.`,
@@ -2220,51 +2179,15 @@ está a padaria. Além disso, o amigo passou as seguintes
 instruções: a partir do ponto em que você se encontra, 
 representado pela letra X , ande para oeste, vire à direita 
 na primeira rua que encontrar, siga em frente e vire à 
-esquerda na próxima rua. A padaria estará logo a seguir. 
-Rua`,
+esquerda na próxima rua. A padaria estará logo a seguir.
+A padaria está representada pelo ponto numerado com`,
     images: ['/enem/2017/images/enem_2017_d2_q154.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Quadra 1 
-Quadra 2 
-Quadra 3 
-Quadra 4 
-2 
-3 
-1 
-Rua` },
-      { id: 'B', type: 'text', value: `Quadra 5 
-Quadra 6 
-Quadra 7 
-Quadra 8 
-N 
-O 
-L 
-Rua` },
-      { id: 'C', type: 'text', value: `X 
-Quadra 9 
-Quadra 10 
-Quadra 11 
-Quadra 12 
-S 
-4 
-5 
-Rua` },
-      { id: 'D', type: 'text', value: `Rua 1 
-Rua 2 
-Rua 3 
-Rua 4 
-Rua 5 
-Quadra 13 
-Quadra 14 
-Quadra 15 
-Quadra 16 
-Rua` },
-      { id: 'E', type: 'text', value: `A padaria esta representada pelo ponto numerado com 
-A 1. 
-B 2. 
-C 3. 
-D 4. 
-E 5.` },
+      { id: 'A', type: 'text', value: `1.` },
+      { id: 'B', type: 'text', value: `2.` },
+      { id: 'C', type: 'text', value: `3.` },
+      { id: 'D', type: 'text', value: `4.` },
+      { id: 'E', type: 'text', value: `5.` },
     ],
     correct: 'A',
     explanation: `Partindo de X e andando para oeste, vira-se à direita (passando a ir para o norte) na primeira rua; segue-se em frente e vira-se à esquerda (voltando a ir para oeste) na próxima rua; logo à frente está a padaria, que corresponde ao ponto numerado com 1. Resposta: A.`,
@@ -2740,16 +2663,11 @@ Figura 2
 Qual a medida da altura H, em metro, indicada na Figura 2?`,
     images: ['/enem/2017/images/enem_2017_d2_q168.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `16 
-3` },
-      { id: 'B', type: 'text', value: `31 
-5` },
-      { id: 'C', type: 'text', value: `25 
-4` },
-      { id: 'D', type: 'text', value: `25 
-3` },
-      { id: 'E', type: 'text', value: `75 
-2` },
+      { id: 'A', type: 'text', value: `16/3` },
+      { id: 'B', type: 'text', value: `31/5` },
+      { id: 'C', type: 'text', value: `25/4` },
+      { id: 'D', type: 'text', value: `25/3` },
+      { id: 'E', type: 'text', value: `75/2` },
     ],
     correct: 'D',
     explanation: `Parábola com vértice no alto, y = H − a·x². Na base (y = 0) a largura é 5, então x = 2,5: H = a·2,5² = 6,25a. O retângulo interno tem largura 4 (x = 2) e altura 3, com os cantos superiores na parábola: 3 = H − a·2² = 6,25a − 4a = 2,25a → a = 4/3. Assim H = 6,25·(4/3) = 25/3 m. Resposta: D.`,
@@ -2785,20 +2703,7 @@ foi no site`,
       { id: 'B', type: 'text', value: `Y.` },
       { id: 'C', type: 'text', value: `Z.` },
       { id: 'D', type: 'text', value: `W.` },
-      { id: 'E', type: 'text', value: `U. 
-4 metros 
-3 metros 
-5 metros 
-Site X 
-21 
-Site U 
-56 
-Site Y 
-51 
-Site Z 
-11 
-Site W 
-57` },
+      { id: 'E', type: 'text', value: `U.` },
     ],
     correct: 'A',
     explanation: `Taxa de aumento = (sábado − sexta)/sexta: X: (21 − 12)/12 = 0,75; Y: (51 − 30)/30 = 0,70; Z: (11 − 10)/10 = 0,10; W: (57 − 38)/38 = 0,50; U: (56 − 40)/40 = 0,40. A maior taxa é a do site X. Resposta: A.`,
@@ -2987,21 +2892,11 @@ Disponível em: www.superdanilof1page.com.br. Acesso em: 6 jul. 2015 (adaptado).
 A quantidade de gasolina utilizada, em litro, no 
 reabastecimento foi`,
     alternatives: [
-      { id: 'A', type: 'text', value: `20 
-0 075 
-,` },
-      { id: 'B', type: 'text', value: `20 
-0 75 
-,` },
-      { id: 'C', type: 'text', value: `20 
-7 5 
-,` },
-      { id: 'D', type: 'text', value: `20 
-0 075 
-× ,` },
-      { id: 'E', type: 'text', value: `20 
-0 75 
-× ,` },
+      { id: 'A', type: 'text', value: `20/0,075` },
+      { id: 'B', type: 'text', value: `20/0,75` },
+      { id: 'C', type: 'text', value: `20/7,5` },
+      { id: 'D', type: 'text', value: `20 × 0,075` },
+      { id: 'E', type: 'text', value: `20 × 0,75` },
     ],
     correct: 'B',
     explanation: `Tanque cheio = 100 kg. Consumo de 4/10 do original → restam 60 kg. Reabastece-se 1/3 do que restou: (1/3)·60 = 20 kg. Em litros, com densidade 750 g/L = 0,75 kg/L: 20/0,75 L. Resposta: B.`,
