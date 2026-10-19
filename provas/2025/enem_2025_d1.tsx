@@ -1699,7 +1699,7 @@ A dispersão espacial do problema ambiental representado na imagem de satélite 
  { id: 'E', type: 'text', value:`Ausência de frentes frias.`},
  ],
  correct: 'D',
- explanation: `A imagem de satélite registra a pluma de CO2 das queimadas saindo da África e alcançando o Brasil através do Atlântico, trajeto que só se explica pelo transporte atmosférico. Esse espalhamento à longa distância decorre da circulação das massas de ar, que carregam os poluentes de um continente a outro, conforme a letra D. A amplitude térmica (A) e a homogeneidade da insolação (B) não movimentam partículas pelo espaço. As chuvas de relevo (C) são fenômenos locais de precipitação, e a ausência de frentes frias (E) não gera deslocamento horizontal da fumaça.`,
+ explanation: `A imagem de satélite registra a pluma de CO₂ das queimadas saindo da África e alcançando o Brasil através do Atlântico, trajeto que só se explica pelo transporte atmosférico. Esse espalhamento à longa distância decorre da circulação das massas de ar, que carregam os poluentes de um continente a outro, conforme a letra D. A amplitude térmica (A) e a homogeneidade da insolação (B) não movimentam partículas pelo espaço. As chuvas de relevo (C) são fenômenos locais de precipitação, e a ausência de frentes frias (E) não gera deslocamento horizontal da fumaça.`,
  subject: ['geo'],
  topics: ['Geografia física (clima, relevo, hidrografia)', 'Meio ambiente e sustentabilidade', 'Questões aleatórias'],
  },

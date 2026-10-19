@@ -736,7 +736,7 @@ Durante a observação desse corte, foi possível identificar o(a)`,
     year: 2022,
     day: 2,
     text: `A variação da incidência de radiação solar sobre a superfície da Terra resulta em uma variação de temperatura ao longo de um dia denominada amplitude térmica. Edificações e pavimentações realizadas nas áreas urbanas contribuem para alterar as amplitudes térmicas dessas regiões, em comparação com regiões que mantêm suas características naturais, com presença de vegetação e água, já que o calor específico do concreto é inferior ao da água. Assim, parte da avaliação do impacto ambiental que a presença de concreto proporciona às áreas urbanas consiste em considerar a substituição da área concretada por um mesmo volume de água e comparar as variações de temperatura devido à absorção da radiação solar nas duas situações (concretada e alagada). Desprezando os efeitos da evaporação e considerando que toda a radiação é absorvida, essa avaliação pode ser realizada com os seguintes dados:
-Densidade (kg/m3): Água 1000, Concreto 2500
+Densidade (kg/m³): Água 1000, Concreto 2500
 Calor específico (J/g.C): Água 4,2, Concreto 0,8
 ROMERO, M. A. B. et al. Mudanças climáticas e ilhas de calor urbanas. Brasília: UnB; ETB, 2019 (adaptado).
 A razão entre as variações de temperatura nas áreas concretada e alagada é mais próxima de`,
