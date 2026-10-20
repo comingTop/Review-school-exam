@@ -2119,7 +2119,20 @@ esgoto tratado passará a ser`,
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: ``,
+    text: `Uma empresa de alimentos oferece três valores
+diferentes de remuneração a seus funcionários, de
+acordo com o grau de instrução necessário para cada
+cargo. No ano de 2013, a empresa teve uma receita
+de 10 milhões de reais por mês e um gasto mensal
+com a folha salarial de R$ 400 000,00, distribuídos de
+acordo com o Gráfico 1. No ano seguinte, a empresa
+ampliará o número de funcionários, mantendo o mesmo
+valor salarial para cada categoria. Os demais custos da
+empresa permanecerão constantes de 2013 para 2014.
+O número de funcionários em 2013 e 2014, por grau de
+instrução, está no Gráfico 2.
+Qual deve ser o aumento na receita da empresa para que
+o lucro mensal em 2014 seja o mesmo de 2013?`,
     images: ['/enem/2014/images/enem_2014_d2_q153.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `R$ 114 285,00` },
@@ -2835,7 +2848,14 @@ de P é`,
     exam: 'enem',
     year: 2014,
     day: 2,
-    text: ``,
+    text: `Um cientista trabalha com as espécies I e II de
+bactérias em um ambiente de cultura. Inicialmente,
+existem 350 bactérias da espécie I e 1 250 bactérias
+da espécie II. O gráfico representa as quantidades de
+bactérias de cada espécie, em função do dia, durante
+uma semana.
+Em que dia dessa semana a quantidade total de bactérias
+nesse ambiente de cultura foi máxima?`,
     images: ['/enem/2014/images/enem_2014_d2_q176.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Terça-feira.` },

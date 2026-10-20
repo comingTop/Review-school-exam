@@ -1518,7 +1518,7 @@ Qual das fontes oleaginosas apresentadas produziria um biodiesel de maior resist
     exam: 'enem',
     year: 2014,
     day: 1,
-    text: ``,
+    text: `Uma pessoa, lendo o manual de uma ducha que acabou de adquirir para a sua casa, observa o gráfico, que relaciona a vazão na ducha com a pressão, medida em metros de coluna de água (mca). Nessa casa residem quatro pessoas. Cada uma delas toma um banho por dia, com duração média de 8 minutos, permanecendo o registro aberto com vazão máxima durante esse tempo. A ducha é instalada em um ponto seis metros abaixo do nível da lâmina de água, que se mantém constante dentro do reservatório. Ao final de 30 dias, esses banhos consumirão um volume de água, em litros, igual a`,
     images: ['/enem/2014/images/enem_2014_d1_q55.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `69 120.` },

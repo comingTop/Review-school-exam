@@ -1421,7 +1421,12 @@ Em qual mês o produto II parou de ser produzido?`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: ``,
+    text: `Uma empresa de transporte faz regularmente um levantamento do número de viagens realizadas durante o dia
+por todos os 160 motoristas cadastrados em seu aplicativo. Em um certo dia, foi gerado um relatório, por meio de um
+gráfico de barras, no qual se relacionaram a quantidade de motoristas com a quantidade de viagens realizadas até
+aquele instante do dia.
+Comparando os valores da média, da mediana e da moda da distribuição das quantidades de viagens realizadas
+pelos motoristas cadastrados nessa empresa, obtém-se`,
     images: ['/enem/2023/images/enem_2023_d2_q140.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `mediana = média < moda.` },
@@ -1887,7 +1892,13 @@ metro quadrado, ocupada pela calçada?`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: ``,
+    text: `Uma pessoa caminha por 30 minutos e utiliza um
+aplicativo instalado em seu celular para monitorar a
+variação da intensidade do sinal de internet recebido
+pelo aparelho durante o deslocamento. Chegando ao seu
+destino, o aplicativo forneceu este gráfico:
+Por quantos minutos, durante essa caminhada, o celular
+dessa pessoa ficou sem receber sinal de internet?`,
     images: ['/enem/2023/images/enem_2023_d2_q156.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `6` },
@@ -1906,7 +1917,19 @@ metro quadrado, ocupada pela calçada?`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: ``,
+    text: `Um professor, para promover a aprendizagem dos
+estudantes em estatística, propôs uma atividade. O objetivo
+era verificar o percentual de estudantes com massa corporal
+abaixo da média e altura acima da média de um grupo de
+estudantes. Para isso, usando uma balança e uma fita
+métrica, avaliou uma amostra de dez estudantes, anotando as
+medidas observadas. O gráfico apresenta a massa corporal,
+em quilograma, e a altura, em metro, obtidas na atividade.
+Após a coleta dos dados, os estudantes calcularam a
+média dos valores obtidos, referentes à massa corporal e
+à altura, obtendo, respectivamente, 80 kg e 1,65 m.
+Qual é o percentual de estudantes dessa amostra com
+massa corporal abaixo da média e altura acima da média?`,
     images: ['/enem/2023/images/enem_2023_d2_q157.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `10` },
@@ -2467,7 +2490,12 @@ Qual o preço, em real, de uma cartela de tíquetes vermelhos?`,
     exam: 'enem',
     year: 2023,
     day: 2,
-    text: ``,
+    text: `Os números figurados pentagonais provavelmente
+foram introduzidos pelos pitagóricos por volta do
+século V a.C. As figuras ilustram como obter os seis
+primeiros deles, sendo os demais obtidos seguindo o
+mesmo padrão geométrico.
+O oitavo número pentagonal é`,
     images: ['/enem/2023/images/enem_2023_d2_q176.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `59.` },

@@ -501,7 +501,11 @@ Um dos benefícios dessa forma de plantio é a`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: ``,
+    text: `Ao pesquisar um resistor feito de um novo tipo de material, um cientista observou o comportamento mostrado no gráfico tensão versus corrente.
+
+Após a análise do gráfico, ele concluiu que a tensão em função da corrente é dada pela equação V = 10i + i².
+
+O gráfico da resistência elétrica (R) do resistor em função da corrente (i) é`,
     images: ['/enem/2018/images/enem_2018_d2_q108.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2018/images/enem_2018_d2_q108_A.jpg` },
@@ -1836,7 +1840,9 @@ adequado da fonte será`,
     exam: 'enem',
     year: 2018,
     day: 2,
-    text: ``,
+    text: `Para criar um logotipo, um profissional da área de design gráfico deseja construí-lo utilizando o conjunto de pontos do plano na forma de um triângulo, exatamente como mostra a imagem.
+
+Para construir tal imagem utilizando uma ferramenta gráfica, será necessário escrever algebricamente o conjunto que representa os pontos desse gráfico. Esse conjunto é dado pelos pares ordenados (x ; y) ∈ ℕ × ℕ, tais que`,
     images: ['/enem/2018/images/enem_2018_d2_q152.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `0 ≤ x ≤ y ≤ 10` },

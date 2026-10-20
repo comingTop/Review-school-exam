@@ -1380,7 +1380,13 @@ venceu a primeira partida da World Series ?`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: ``,
+    text: `O gráfico apresenta os totais de receitas e despesas
+de uma empresa, expressos em milhão de reais, no
+decorrer dos meses de um determinado ano. A empresa
+obtém lucro quando a diferença entre receita e despesa é
+positiva e tem prejuízo quando essa diferença é negativa.
+Qual é a mediana, em milhão de reais, dos valores dos
+lucros apurados pela empresa nesse ano?`,
     images: ['/enem/2022/images/enem_2022_d2_q138.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1,5` },
@@ -2371,7 +2377,16 @@ modelo escolhido deve ser o`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: ``,
+    text: `No período de 2005 a 2013, o valor de venda dos
+imóveis em uma cidade apresentou alta, o que resultou
+no aumento dos aluguéis. Os gráficos apresentam a
+evolução desses valores, para um mesmo imóvel, no
+mercado imobiliário dessa cidade.
+A rentabilidade do aluguel de um imóvel é calculada
+pela razão entre o valor mensal de aluguel e o valor de
+mercado desse imóvel.
+Com base nos dados fornecidos, em que ano a
+rentabilidade do aluguel foi maior?`,
     images: ['/enem/2022/images/enem_2022_d2_q170.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `2005` },
@@ -2627,7 +2642,20 @@ preparar para atender esse cliente?`,
     exam: 'enem',
     year: 2022,
     day: 2,
-    text: ``,
+    text: `A esperança de vida ao nascer é o número médio
+de anos que um indivíduo tende a viver a partir de seu
+nascimento, considerando dados da população. No Brasil,
+esse número vem aumentando consideravelmente, como
+mostra o gráfico.
+Disponível em: http://cod.ibge.gov.br. Acesso em: 6 mar. 2014 (adaptado).
+Pode-se observar que a esperança de vida ao nascer
+em 2012 foi exatamente a média das registradas nos
+anos de 2011 e 2013. Suponha que esse fato também
+ocorreu com a esperança de vida ao nascer em 2013, em
+relação às esperanças de vida de 2012 e de 2014.
+Caso a suposição feita tenha sido confirmada, a
+esperança de vida ao nascer no Brasil no ano de 2014
+terá sido, em ano, igual a`,
     images: ['/enem/2022/images/enem_2022_d2_q179.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `74,23.` },

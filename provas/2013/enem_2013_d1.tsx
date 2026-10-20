@@ -2116,7 +2116,9 @@ instrumentos está representado em:`,
     exam: 'enem',
     year: 2013,
     day: 1,
-    text: ``,
+    text: `Uma indústria está escolhendo uma linhagem de microalgas que otimize a secreção de polímeros comestíveis, os quais são obtidos do meio de cultura de crescimento. Na figura podem ser observadas as proporções de algumas organelas presentes no citoplasma de cada linhagem.
+
+Qual é a melhor linhagem para se conseguir maior rendimento de polímeros secretados no meio de cultura?`,
     images: ['/enem/2013/images/enem_2013_d1_q73.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I` },

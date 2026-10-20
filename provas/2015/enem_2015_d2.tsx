@@ -1718,7 +1718,20 @@ em qual(is) intervalo(s)?`,
     exam: 'enem',
     year: 2015,
     day: 2,
-    text: ``,
+    text: `No contexto da matemática recreativa, utilizando
+diversos materiais didáticos para motivar seus alunos,
+uma professora organizou um jogo com um tipo de
+baralho modificado. No início do jogo, vira-se uma carta
+do baralho na mesa e cada jogador recebe em mãos
+nove cartas. Deseja-se formar pares de cartas, sendo
+a primeira carta a da mesa e a segunda, uma carta na
+mão do jogador, que tenha um valor equivalente àquele
+descrito na carta da mesa. O objetivo do jogo é verificar
+qual jogador consegue o maior número de pares. Iniciado
+o jogo, a carta virada na mesa e as cartas da mão de um
+jogador são como no esquema:
+Segundo as regras do jogo, quantas cartas da mão desse
+jogador podem formar um par com a carta da mesa?`,
     images: ['/enem/2015/images/enem_2015_d2_q139.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `9` },

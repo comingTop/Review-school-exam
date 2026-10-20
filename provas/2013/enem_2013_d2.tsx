@@ -1607,7 +1607,11 @@ na avenida um espaço`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: ``,
+    text: `As notas de um professor que participou de um processo seletivo, em que a banca avaliadora era composta por cinco membros, são apresentadas no gráfico. Sabe-se que cada membro da banca atribuiu duas notas ao professor, uma relativa aos conhecimentos específicos da área de atuação e outra, aos conhecimentos pedagógicos, e que a média final do professor foi dada pela média aritmética de todas as notas atribuídas pela banca avaliadora.
+
+Utilizando um novo critério, essa banca avaliadora resolveu descartar a maior e a menor notas atribuídas ao professor.
+
+A nova média, em relação à média anterior, é`,
     images: ['/enem/2013/images/enem_2013_d2_q137.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `0,25 ponto maior.` },
@@ -1799,7 +1803,9 @@ programa?`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: ``,
+    text: `A cidade de Guarulhos (SP) tem o 8º PIB municipal do Brasil, além do maior aeroporto da América do Sul. Em proporção, possui a economia que mais cresce em indústrias, conforme mostra o gráfico.
+
+Analisando os dados percentuais do gráfico, qual a diferença entre o maior e o menor centro em crescimento no polo das indústrias?`,
     images: ['/enem/2013/images/enem_2013_d2_q144.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `75,28` },
@@ -1842,7 +1848,11 @@ desse mesmo setor é`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: ``,
+    text: `Uma loja acompanhou o número de compradores de dois produtos, A e B, durante os meses de janeiro, fevereiro e março de 2012. Com isso, obteve este gráfico:
+
+A loja sorteará um brinde entre os compradores do produto A e outro brinde entre os compradores do produto B.
+
+Qual a probabilidade de que os dois sorteados tenham feito suas compras em fevereiro de 2012?`,
     images: ['/enem/2013/images/enem_2013_d2_q146.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1/20` },
@@ -2253,7 +2263,9 @@ O empresário decidiu comprar a empresa`,
     exam: 'enem',
     year: 2013,
     day: 2,
-    text: ``,
+    text: `Deseja-se postar cartas não comerciais, sendo duas de 100 g, três de 200 g e uma de 350 g. O gráfico mostra o custo para enviar uma carta não comercial pelos Correios:
+
+O valor total gasto, em reais, para postar essas cartas é de`,
     images: ['/enem/2013/images/enem_2013_d2_q161.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `8,35.` },

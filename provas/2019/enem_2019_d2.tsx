@@ -2447,7 +2447,8 @@ deverão comprar é`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: ``,
+    text: `Uma empresa confecciona e comercializa um brinquedo formado por uma locomotiva, pintada na cor preta, mais 12 vagões de iguais formato e tamanho, numerados de 1 a 12. Dos 12 vagões, 4 são pintados na cor vermelha, 3 na cor azul, 3 na cor verde e 2 na cor amarela. O trem é montado utilizando-se uma locomotiva e 12 vagões, ordenados crescentemente segundo suas numerações, conforme ilustrado na figura.
+De acordo com as possíveis variações nas colorações dos vagões, a quantidade de trens que podem ser montados, expressa por meio de combinações, é dada por`,
     images: ['/enem/2019/images/enem_2019_d2_q171.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `C₁₂⁴ × C₁₂³ × C₁₂³ × C₁₂²` },
@@ -2522,7 +2523,8 @@ ela era fraudulenta?`,
     exam: 'enem',
     year: 2019,
     day: 2,
-    text: ``,
+    text: `A taxa de urbanização de um município é dada pela razão entre a população urbana e a população total do município (isto é, a soma das populações rural e urbana). Os gráficos apresentam, respectivamente, a população urbana e a população rural de cinco municípios (I, II, III, IV, V) de uma mesma região estadual. Em reunião entre o governo do estado e os prefeitos desses municípios, ficou acordado que o município com maior taxa de urbanização receberá um investimento extra em infraestrutura.
+Segundo o acordo, qual município receberá o investimento extra?`,
     images: ['/enem/2019/images/enem_2019_d2_q174.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `I` },

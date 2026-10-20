@@ -2153,7 +2153,9 @@ características a`,
     exam: 'enem',
     year: 2018,
     day: 1,
-    text: ``,
+    text: `Disponível em: www.biologiasur.org. Acesso em: 4 jul. 2015 (adaptado).
+
+A dinâmica hidrológica expressa no gráfico demonstra que o processo de urbanização promove a`,
     images: ['/enem/2018/images/enem_2018_d1_q67.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `redução do volume dos rios.` },
@@ -2765,7 +2767,9 @@ suposta natureza feminina:`,
     exam: 'enem',
     year: 2018,
     day: 1,
-    text: ``,
+    text: `IBGE. Produção da extração vegetal e da silvicultura. Rio de Janeiro: IBGE, 2014 (adaptado).
+
+Considerando as diferenças entre extrativismo vegetal e silvicultura, a variação das curvas do gráfico foi influenciada pela tendência de`,
     images: ['/enem/2018/images/enem_2018_d1_q88.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `conservação do bioma nativo.` },

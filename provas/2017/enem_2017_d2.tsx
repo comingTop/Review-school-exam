@@ -372,7 +372,17 @@ de condensação ocorre por`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: ``,
+    text: `Em uma linha de transmissão de informações por
+fibra óptica, quando um sinal diminui sua intensidade para
+valores inferiores a 10 dB, este precisa ser retransmitido.
+No entanto, intensidades superiores a 100 dB não podem
+ser transmitidas adequadamente. A figura apresenta
+como se dá a perda de sinal (perda óptica) para diferentes
+comprimentos de onda para certo tipo de fibra óptica.
+Atenuação e limitações das fibras ópticas . Disponível em: www.gta.ufrj.br.
+Acesso em: 25 maio 2017 (adaptado).
+Qual é a máxima distância, em km, que um sinal pode ser
+enviado nessa fibra sem ser necessária uma retransmissão?`,
     images: ['/enem/2017/images/enem_2017_d2_q103.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `6` },
@@ -1059,7 +1069,16 @@ reagente para o processo mencionado?`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: ``,
+    text: `No manual fornecido pelo fabricante de uma ducha
+elétrica de 220 V é apresentado um gráfico com a variação
+da temperatura da água em função da vazão para três
+condições (morno, quente e superquente). Na condição
+superquente, a potência dissipada é de 6 500 W. Considere
+o calor específico da água igual a 4 200 J/(kg °C) e
+densidade da água igual a 1 kg/L.
+Com base nas informações dadas, a potência na condição
+morno corresponde a que fração da potência na condição
+superquente?`,
     images: ['/enem/2017/images/enem_2017_d2_q127.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1 3` },
@@ -2393,7 +2412,9 @@ em metro por hora, de`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: ``,
+    text: `Dois reservatórios A e B são alimentados por bombas distintas por um período de 20 horas. A quantidade de água
+contida em cada reservatório nesse período pode ser visualizada na figura.
+O número de horas em que os dois reservatórios contêm a mesma quantidade de água é`,
     images: ['/enem/2017/images/enem_2017_d2_q172.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `1.` },
@@ -2444,7 +2465,15 @@ reabastecimento foi`,
     exam: 'enem',
     year: 2017,
     day: 2,
-    text: ``,
+    text: `O gráfico apresenta a taxa de desemprego (em %)
+para o período de março de 2008 a abril de 2009,
+obtida com base nos dados observados nas regiões
+metropolitanas de Recife, Salvador, Belo Horizonte,
+Rio de Janeiro, São Paulo e Porto Alegre.
+IBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br.
+Acesso em: 30 jul. 2012 (adaptado).
+A mediana dessa taxa de desemprego, no período de
+março de 2008 a abril de 2009, foi de`,
     images: ['/enem/2017/images/enem_2017_d2_q174.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `8,1%` },

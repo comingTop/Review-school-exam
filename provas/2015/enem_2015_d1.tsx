@@ -783,7 +783,9 @@ quando dois homens desejavam o mesmo objeto, eles`,
     exam: 'enem',
     year: 2015,
     day: 1,
-    text: ``,
+    text: `FONTES, M. P. F. Intemperismo de rochas e minerais. In: KER, J. C. et al. (Org.). Pedologia: fundamentos. Viçosa (MG): SBCS, 2012 (adaptado).
+
+De acordo com as figuras, a intensidade de intemperismo de grau muito fraco é característica de qual tipo climático?`,
     images: ['/enem/2015/images/enem_2015_d1_q27_1.jpg', '/enem/2015/images/enem_2015_d1_q27_2.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `Tropical.` },

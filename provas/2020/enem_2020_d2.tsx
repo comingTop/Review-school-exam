@@ -2500,7 +2500,9 @@ Segundo a metodologia descrita, o número estimado de pessoas presentes a essa m
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: ``,
+    text: `Um administrador resolve estudar o lucro de sua empresa e, para isso, traça o gráfico da receita e do custo de produção de seus itens, em real, em função da quantidade de itens produzidos.
+O lucro é determinado pela diferença: Receita – Custo.
+O gráfico que representa o lucro dessa empresa, em função da quantidade de itens produzidos, é`,
     images: ['/enem/2020/images/enem_2020_d2_q175.jpg'],
     alternatives: [
       { id: 'A', type: 'image', value: `/enem/2020/images/enem_2020_d2_q175_A.jpg` },

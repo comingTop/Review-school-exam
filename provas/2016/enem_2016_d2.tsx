@@ -2097,7 +2097,21 @@ número que está representado na figura é`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: ``,
+    text: `Para uma feira de ciências, dois projéteis de
+foguetes, A e B, estão sendo construídos para serem
+lançados. O planejamento é que eles sejam lançados
+juntos, com o objetivo de o projétil B interceptar o A
+quando esse alcançar sua altura máxima. Para que isso
+aconteça, um dos projéteis descreverá uma trajetória
+parabólica, enquanto o outro irá descrever uma trajetória
+supostamente retilínea. O gráfico mostra as alturas
+alcançadas por esses projéteis em função do tempo, nas
+simulações realizadas.
+Com base nessas simulações, observou-se que a
+trajetória do projétil B deveria ser alterada para que o
+objetivo fosse alcançado.
+Para alcançar o objetivo, o coeficiente angular da reta que
+representa a trajetória de B deverá`,
     images: ['/enem/2016/images/enem_2016_d2_q149.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `diminuir em 2 unidades.` },
@@ -2907,7 +2921,14 @@ possíveis de serem obtidos pelo artista plástico?`,
     exam: 'enem',
     year: 2016,
     day: 2,
-    text: ``,
+    text: `Um reservatório é abastecido com água por uma
+torneira e um ralo faz a drenagem da água desse
+reservatório. Os gráficos representam as vazões Q,
+em litro por minuto, do volume de água que entra no
+reservatório pela torneira e do volume que sai pelo ralo,
+em função do tempo t, em minuto.
+Em qual intervalo de tempo, em minuto, o reservatório
+tem uma vazão constante de enchimento?`,
     images: ['/enem/2016/images/enem_2016_d2_q176.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `De 0 a 10.` },
