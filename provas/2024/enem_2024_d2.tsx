@@ -744,7 +744,7 @@ operação de motores a combustão, como a razão da mistura
 ar/combustível no cilindro, influenciam na composição 
 dos gases lançados pelo escapamento na atmosfera. 
 O gráfico ilustra a variação nas composições dos principais 
-gases, dióxido de carbono (CO 2 ), hidrocarbonetos (HC), 
+gases, dióxido de carbono (CO₂ ), hidrocarbonetos (HC), 
 monóxido de carbono (CO), monóxido de nitrogênio (NO) e 
 oxigênio molecular (O 2 ), emitidos por um motor a gasolina, 
 em diferentes razões ar/combustível, em massa. 
@@ -756,9 +756,9 @@ uma emissão`,
  alternatives: [
  { id: 'A', type: 'text', value:`baixa de O 2 e alta de NO.`},
  { id: 'B', type: 'text', value:`baixa de NO e alta de HC.`},
- { id: 'C', type: 'text', value:`baixa de CO e alta de CO 2 .`},
+ { id: 'C', type: 'text', value:`baixa de CO e alta de CO₂ .`},
  { id: 'D', type: 'text', value:`baixa de HC e alta de CO.`},
- { id: 'E', type: 'text', value:`baixa de CO 2 e alta de HC.`},
+ { id: 'E', type: 'text', value:`baixa de CO₂ e alta de HC.`},
  ],
  correct: 'C',
  explanation: `A razão ar/combustível igual a 18 está à direita da razão estequiométrica (~14,7), correspondendo a mistura pobre, com excesso de ar. No gráfico, nessa condição a curva do CO está praticamente nula (baixa emissão de CO), pois o excesso de oxigênio garante combustão mais completa, enquanto o CO₂ ainda se mantém elevado. Portanto, há baixa emissão de CO e alta de CO₂ (alternativa C).`,
@@ -1371,7 +1371,7 @@ imobilizam o metal.`},
  year: 2024,
  day: 2,
  text:`Brasil fecha 2020 entre os maiores recicladores de latas de alumínio 
-A bauxita contém alumina (Al 2 O 3 ), que é a matéria-prima para produção do alumínio (Al). De forma geral, são 
+A bauxita contém alumina (Al₂O₃ ), que é a matéria-prima para produção do alumínio (Al). De forma geral, são 
 necessários 50 kg de bauxita para produzir 10 kg de alumínio. O Brasil fechou 2020 como um dos principais líderes 
 mundiais em reciclagem de latas de alumínio. De acordo com levantamento da Associação Brasileira dos Fabricantes 
 de Latas de Alumínio (Abralatas), o país obteve um índice de reciclagem de 97,4%, de um total de 4,0 × 10⁵ toneladas 

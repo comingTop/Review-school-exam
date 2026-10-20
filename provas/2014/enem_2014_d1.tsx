@@ -1958,7 +1958,7 @@ equilíbrio, no sistema ambiental marinho. O excesso de dióxido
 de carbono na atmosfera pode afetar os recifes de corais. 1
 Menos ácido Mais ácido Dióxido de carbono atmosférico CO₂ 2 3
 Ácido carbônico Dióxido de carbono dissolvido Água Íons
-hidrogênio H₂ CO₃ + CO₂ H₂ O H + HCO 3 - Íons bicarbonato Íons
+hidrogênio H₂ CO₃ + CO₂ H₂ O H + HCO₃ - Íons bicarbonato Íons
 carbonato CO₃ 2- Conchas deformadas Disponível em:
 http://news.bbc.co.uk. Acesso em: 20 maio 2014 (adaptado). O
 resultado desse processo nos corais é o(a)`,
@@ -2361,7 +2361,7 @@ das substâncias responsáveis pelo odor característico de
 peixe podre. 
 SILVA, V. A.; BENITE, A. M. C.; SOARES, M. H. F. B. Algo aqui não cheira bem... A química 
 do mau cheiro. Química Nova na Escola , v. 33, n. 1, fev. 2011 (adaptado). 
-A efi ciência do uso do vinagre nesse caso se explica pela`,
+A eficiência do uso do vinagre nesse caso se explica pela`,
     alternatives: [
       { id: 'A', type: 'text', value: `sobreposição de odor, propiciada pelo cheiro característico do vinagre.` },
       { id: 'B', type: 'text', value: `solubilidade da piridina, de caráter ácido, na solução ácida empregada.` },
@@ -2381,12 +2381,12 @@ A efi ciência do uso do vinagre nesse caso se explica pela`,
     day: 1,
     text: `Quando adolescente, as nossas tardes, após 
 as aulas, consistiam em tomar às mãos o violão e o 
-dicionário de acordes de Almir Chediak e desafi ar nosso 
+dicionário de acordes de Almir Chediak e desafiar nosso 
 amigo Hamilton a descobrir, apenas ouvindo o acorde, 
 quais notas eram escolhidas. Sempre perdíamos a 
 aposta, ele possui o ouvido absoluto. 
 O ouvido absoluto é uma característica perceptual de 
-poucos indivíduos capazes de identifi car notas isoladas 
+poucos indivíduos capazes de identificar notas isoladas 
 sem outras referências, isto é, sem precisar relacioná-las 
 com outras notas de uma melodia. 
 LENT, R. O cérebro do meu professor de acordeão . Disponível em: http://cienciahoje.uol.com.br. 
@@ -2418,7 +2418,7 @@ Para evitar a liberação desses óxidos na atmosfera e a
 consequente formação da chuva ácida, o gás pode ser 
 lavado, em um processo conhecido como dessulfurização, 
 conforme mostrado na equação (1). 
-CaCO 3 (s) + SO 2 (g) → CaSO 3 (s) + CO 2 (g) 
+CaCO₃ (s) + SO₂ (g) → CaSO 3 (s) + CO₂ (g) 
 (1) 
 Por sua vez, o sulfito de cálcio formado pode ser 
 oxidado, com o auxílio do ar atmosférico, para a obtenção 

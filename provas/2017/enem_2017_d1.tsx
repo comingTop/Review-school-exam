@@ -2765,7 +2765,7 @@ com o texto, é uma condição para que isso aconteça o(a)`,
     text: `Uma pessoa vê-se forçada pela necessidade a pedir 
 dinheiro emprestado. Sabe muito bem que não poderá 
 pagar, mas vê também que não lhe emprestarão nada se 
-não prometer ﬁ rmemente pagar em prazo determinado. 
+não prometer fi rmemente pagar em prazo determinado. 
 Sente a tentação de fazer a promessa; mas tem ainda 
 consciência bastante para perguntar a si mesma: não é 
 proibido e contrário ao dever livrar-se de apuros desta 
@@ -2780,7 +2780,7 @@ pagamento” representada no texto`,
       { id: 'A', type: 'text', value: `assegura que a ação seja aceita por todos a partir da livre discussão participativa.` },
       { id: 'B', type: 'text', value: `garante que os efeitos das ações não destruam a possibilidade da vida futura na terra.` },
       { id: 'C', type: 'text', value: `opõe-se ao princípio de que toda ação do homem possa valer como norma universal.` },
-      { id: 'D', type: 'text', value: `materializa-se no entendimento de que os ﬁ ns da ação humana podem justiﬁ car os meios.` },
+      { id: 'D', type: 'text', value: `materializa-se no entendimento de que os fi ns da ação humana podem justificar os meios.` },
       { id: 'E', type: 'text', value: `permite que a ação individual produza a mais ampla felicidade para as pessoas envolvidas.` },
     ],
     correct: 'C',
@@ -2795,14 +2795,14 @@ pagamento” representada no texto`,
     day: 1,
     text: `O terremoto de 8,8 na escala Richter que atingiu a 
 costa oeste do Chile, em fevereiro, provocou mudanças 
-signiﬁ cativas no mapa da região. Segundo uma análise 
+significativas no mapa da região. Segundo uma análise 
 preliminar, toda a cidade de Concepción se deslocou pelo 
 menos três metros para o oeste. Buenos Aires moveu-se 
 cerca de 2,5 centímetros para oeste, enquanto Santiago, 
 mais próxima do local do evento, deslocou-se quase 
 30 centímetros para o oeste-sudoeste. As cidades de 
 Valparaíso, no Chile, e Mendoza, na Argentina, também 
-tiveram suas posições alteradas signiﬁ cativamente 
+tiveram suas posições alteradas significativamente 
 (13,4 centímetros e 8,8 centímetros, respectivamente). 
 Revista InfoGNSS , Curitiba, ano 6, n. 31, 2010. 
 No texto, destaca-se um tipo de evento geológico 
@@ -2836,7 +2836,7 @@ Nordeste e Sul?`,
       { id: 'B', type: 'text', value: `Vegetação, que afeta a incidência solar.` },
       { id: 'C', type: 'text', value: `Massas de ar, que provocam precipitações.` },
       { id: 'D', type: 'text', value: `Correntes marítimas, que atuam na troca de calor.` },
-      { id: 'E', type: 'text', value: `Continentalidade, que infl uencia na amplitude da temperatura.` },
+      { id: 'E', type: 'text', value: `Continentalidade, que influencia na amplitude da temperatura.` },
     ],
     correct: 'C',
     explanation: `Os mapas mostram, no mesmo dia, temperaturas mínimas e índices de umidade distintos entre o Nordeste e o Sul do país. O fator que explica essas diferenças é a atuação das massas de ar, que, ao avançarem, provocam precipitações e alteram a umidade relativa em cada região, conforme a alternativa C. A altitude (A) e a continentalidade (E) influem na temperatura, mas não explicam a variação de umidade naquele dia específico. A vegetação (B) não determina a incidência solar da forma sugerida, e as correntes marítimas (D) atuam de modo mais permanente, não respondendo pela dinâmica diária da umidade descrita.`,

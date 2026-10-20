@@ -1313,18 +1313,18 @@ determinado estado de contato proposital, que possibilita
 a duas ou mais pessoas se enfrentarem numa constante 
 troca de ações ofensivas e/ou defensivas, regida por 
 regras, com o objetivo mútuo sobre um alvo móvel 
-personifi cado no oponente. 
+personificado no oponente. 
 GOMES, M. S. P. et al . Ensino das lutas: dos princípios condicionais aos grupos situacionais. 
 Movimento , n. 2, abr.-jun. 2010 (adaptado). 
-De acordo com o texto, podemos identifi car uma 
+De acordo com o texto, podemos identificar uma 
 abordagem das lutas nas aulas de educação física 
 quando o professor realiza uma proposta envolvendo`,
     alternatives: [
       { id: 'A', type: 'text', value: `contato corporal intenso entre o aluno e seu oponente.` },
       { id: 'B', type: 'text', value: `contenda entre os alunos que se agridem fi sicamente.` },
-      { id: 'C', type: 'text', value: `confronto corporal em que os vencedores são previamente identifi cados.` },
+      { id: 'C', type: 'text', value: `confronto corporal em que os vencedores são previamente identificados.` },
       { id: 'D', type: 'text', value: `combate corporal intencional com ações regulamentadas entre os oponentes.` },
-      { id: 'E', type: 'text', value: `confl ito resolvido pelos alunos por meio de regras previamente estabelecidas.` },
+      { id: 'E', type: 'text', value: `conflito resolvido pelos alunos por meio de regras previamente estabelecidas.` },
     ],
     correct: 'D',
     explanation: `Resposta correta: D. A definição apresentada caracteriza a luta como prática corporal imprevisível, de contato proposital e regida por regras, em que oponentes trocam ações ofensivas e defensivas sobre um alvo móvel. A abordagem das lutas nas aulas se concretiza, portanto, quando o professor propõe um combate corporal intencional com ações regulamentadas entre os oponentes. Não basta um contato corporal intenso (A), e não se trata de alunos que simplesmente se agridem (B), pois há regras. Os vencedores não são previamente identificados (C), já que a prática é imprevisível, e a alternativa que fala apenas em conflito resolvido por regras (E) não contempla o combate sobre o oponente.`,
@@ -2277,7 +2277,7 @@ da força natural de`,
       { id: 'B', type: 'text', value: `rifteamento da crosta terrestre.` },
       { id: 'C', type: 'text', value: `subducção da plataforma oceânica.` },
       { id: 'D', type: 'text', value: `formação de cadeias montanhosas.` },
-      { id: 'E', type: 'text', value: `metamorfi smo de bordas continentais.` },
+      { id: 'E', type: 'text', value: `metamorfismo de bordas continentais.` },
     ],
     correct: 'B',
     explanation: `A imagem destaca o Vale da Grande Fenda e seus vulcões, feições associadas ao afastamento de blocos da litosfera. Esses aspectos originam-se do rifteamento da crosta terrestre, processo de estiramento e fratura em zona de divergência, o que confirma a alternativa B. A colisão de placas (A) e a formação de cadeias montanhosas (D) decorrem de convergência, não de afastamento. A subducção oceânica (C) gera arcos e fossas, e o metamorfismo de bordas continentais (E) é um processo de transformação de rochas, não a força tectônica que origina o vale.`,
@@ -2289,15 +2289,15 @@ da força natural de`,
     exam: 'enem',
     year: 2020,
     day: 1,
-    text: `A reabilitação da biografi a histórica integrou as 
+    text: `A reabilitação da biografia histórica integrou as 
 aquisições da história social e cultural, oferecendo 
 aos diferentes atores históricos uma importância 
 diferenciada, distinta, individual. Mas não se tratava 
 mais de fazer, simplesmente, a história dos grandes 
-nomes, em formato hagiográfi co - quase uma vida 
+nomes, em formato hagiográfico - quase uma vida 
 de santo -, sem problemas, nem máculas. Mas de 
 examinar os atores (ou o ator) célebres ou não, como 
-testemunhas, como refl exos, como reveladores de uma 
+testemunhas, como reflexos, como reveladores de uma 
 época. 
 DEL PRIORE, M. Biografi a: quando o indivíduo encontra a história. 
 Topoi , n. 19, jul.-dez. 2009. 

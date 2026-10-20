@@ -124,7 +124,7 @@ nas ilhas mencionadas no texto compreende a`,
     text: `A sacarase (ou invertase) é uma enzima que atua no 
 intestino humano hidrolisando o dissacarídeo sacarose 
 nos monossacarídeos glicose e frutose. Em um estudo 
-cinético da reação de hidrólise da sacarose (C 12 H 22 O 11 ), 
+cinético da reação de hidrólise da sacarose (C₁₂H₂₂O₁₁ ), 
 foram dissolvidos 171 g de sacarose em 500 mL de 
 água. Observou-se que, a cada 100 minutos de reação, 
 a concentração de sacarose foi reduzida à metade, 
@@ -250,16 +250,16 @@ que foi recolhido em um recipiente acoplado ao tubo
 de ensaio. Esse gás, quando borbulhado em solução 
 alcalina diluída contendo indicador ácido-base, alterou a 
 cor da solução. Além disso, em contato com uma solução 
-aquosa de carbonato de sódio (Na 2 CO 3 ), liberou gás 
+aquosa de carbonato de sódio (Na₂CO₃ ), liberou gás 
 carbônico. 
 Qual foi o gás liberado majoritariamente na decomposição 
 térmica desse tipo de plástico?`,
     images: ['/enem/2020/images/enem_2020_d2_q100.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `H 2` },
-      { id: 'B', type: 'text', value: `Cl 2` },
+      { id: 'B', type: 'text', value: `Cl₂` },
       { id: 'C', type: 'text', value: `CO` },
-      { id: 'D', type: 'text', value: `CO 2` },
+      { id: 'D', type: 'text', value: `CO₂` },
       { id: 'E', type: 'text', value: `HCl` },
     ],
     correct: 'E',
@@ -424,19 +424,19 @@ deverá ser submetido?`,
     exam: 'enem',
     year: 2020,
     day: 2,
-    text: `A Torre Eiﬀ el, com seus 324 metros de altura, feita 
+    text: `A Torre Eiffel, com seus 324 metros de altura, feita 
 com treliças de ferro, pesava 7 300 toneladas quando 
 terminou de ser construída em 1889. Um arquiteto 
 resolve construir um protótipo dessa torre em escala 
 1:100, usando os mesmos materiais (cada dimensão 
 linear em escala de 1:100 do monumento real). 
-Considere que a torre real tenha uma massa M torre 
+Considere que a torre real tenha uma massa M_torre 
 e exerça na fundação sobre a qual foi erguida uma 
-pressão P torre . O modelo construído pelo arquiteto terá 
-uma massa M modelo e exercerá uma pressão P modelo . 
+pressão P_torre . O modelo construído pelo arquiteto terá 
+uma massa M_modelo e exercerá uma pressão P modelo . 
 Como a pressão exercida pela torre se compara com a 
 pressão exercida pelo protótipo? Ou seja, qual é a razão 
-entre as pressões (P torre )/(P modelo ) ?`,
+entre as pressões (P_torre )/(P modelo ) ?`,
     images: ['/enem/2020/images/enem_2020_d2_q107.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `10 0` },
@@ -822,17 +822,17 @@ de tecnologias que permitam minimizar emissões de
 poluentes atmosféricos. O uso de veículos elétricos é 
 uma das propostas mais propagandeadas por serem de 
 emissão zero. Podemos comparar a emissão de carbono 
-na forma de CO 2 (massa molar igual a 44 g mol⁻¹ ) para os 
+na forma de CO₂ (massa molar igual a 44 g mol⁻¹ ) para os 
 dois tipos de carros (a combustão e elétrico). Considere 
 que os veículos tradicionais a combustão, movidos a 
 etanol (massa molar igual a 46 g mol⁻¹ ), emitem uma 
-média de 2,6 mol de CO 2 por quilômetro rodado, e os 
-elétricos emitem o equivalente a 0,45 mol de CO 2 por 
+média de 2,6 mol de CO₂ por quilômetro rodado, e os 
+elétricos emitem o equivalente a 0,45 mol de CO₂ por 
 quilômetro rodado (considerando as emissões na geração 
 e transmissão da eletricidade). A reação de combustão 
 do etanol pode ser representada pela equação química: 
-C 2 H 5 OH (l) + 3 O 2 (g) → 2 CO 2 (g) + 3 H 2 O (g) 
-Foram analisadas as emissões de CO 2 envolvidas 
+C₂H₅OH (l) + 3 O 2 (g) → 2 CO₂ (g) + 3 H₂O (g) 
+Foram analisadas as emissões de CO₂ envolvidas 
 em dois veículos, um movido a etanol e outro elétrico, 
 em um mesmo trajeto de 1 000 km. 
 CHIARADIA, C. A. Estudo da viabilidade da implantação de frotas de veículos elétricos 

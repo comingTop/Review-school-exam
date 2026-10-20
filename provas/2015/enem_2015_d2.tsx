@@ -987,7 +987,7 @@ Hepatite é assim.
 Pode aparecer onde menos se espera e em cinco formas diferentes.
 É por isso que o Dia Mundial Contra a Hepatite está aí para alertar você. 
 As hepatites A, B, C, D e E têm diversas causas e muitas formas de chegar até você. 
-Mas, evitar isso é bem simples. Você só precisa ﬁcar atento aos 
+Mas, evitar isso é bem simples. Você só precisa ficar atento aos 
 cuidados necessários para cuidar do maior bem que você tem: 
 A SUA SAÚDE! 
 Algumas maneiras de se prevenir: 

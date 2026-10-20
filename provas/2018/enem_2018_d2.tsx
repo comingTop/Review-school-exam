@@ -664,7 +664,7 @@ energia e produzem gás carbônico e água. A oxidação
 da glicose no organismo humano libera energia, conforme 
 ilustra a equação química, sendo que aproximadamente 
 40% dela é disponibilizada para atividade muscular. 
-C 6 H 12 O 6 (s) + 6 O 2 (g) → 6 CO 2 (g) + 6 H 2 O (l) ∆ c H = −2 800 kJ 
+C₆H₁₂O₆ (s) + 6 O 2 (g) → 6 CO₂ (g) + 6 H₂O (l) ∆ c H = −2 800 kJ 
 Considere as massas molares (em g mol⁻¹ ): H = 1; 
 C = 12; O = 16. 
 LIMA, L. M.; FRAGA, C. A. M.; BARREIRO, E. J. Química na saúde. 
@@ -872,7 +872,7 @@ danifica as membranas das células das raízes e restringe
 a expansão de suas paredes, com isso, a planta não 
 cresce adequadamente. Para promover benefícios para a 
 produção agrícola, é recomendada a remediação do solo 
-utilizando calcário (CaCO 3 ). 
+utilizando calcário (CaCO₃ ). 
 BRADY, N. C.; WEIL, R. R. Elementos da natureza e propriedades dos solos . 
 Porto Alegre: Bookman, 2013 (adaptado). 
 Essa remediação promove no solo o(a)`,
@@ -1256,7 +1256,7 @@ Essa dificuldade ocorre porque o(a)`,
     day: 2,
     text: `O alemão Fritz Haber recebeu o Prêmio Nobel de 
 química de 1918 pelo desenvolvimento de um processo 
-viável para a síntese da amônia (NH 3 ). Em seu discurso 
+viável para a síntese da amônia (NH₃ ). Em seu discurso 
 de premiação, Haber justificou a importância do feito 
 dizendo que: 
 “Desde a metade do século passado, tornou-se 

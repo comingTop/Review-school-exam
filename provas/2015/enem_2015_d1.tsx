@@ -2340,7 +2340,7 @@ processo descrito no texto, é o(a)`,
     text: `A calda bordalesa é uma alternativa empregada 
 no combate a doenças que afetam folhas de plantas. 
 Sua produção consiste na mistura de uma solução 
-aquosa de sulfato de cobre(II), CuSO 4 , com óxido de 
+aquosa de sulfato de cobre(II), CuSO₄ , com óxido de 
 cálcio, CaO, e sua aplicação só deve ser realizada se 
 estiver levemente básica. A avaliação rudimentar da 
 basicidade dessa solução é realizada pela adição de 
@@ -2350,18 +2350,18 @@ local da aplicação, afirma-se que a calda bordalesa
 ainda não está com a basicidade necessária. O quadro 
 apresenta os valores de potenciais padrão de redução ( E °) 
 para algumas semirreações 
-Fe 3 + + e − → Fe 2+ 
+Fe³⁺ + e − → Fe²⁺ 
 + 0,77 
 MOTTA, I. S. Calda bordalesa : utilidades e preparo. Dourados: Embrapa, 2008 (adaptado). 
 A equação química que representa a reação de formação 
 da mancha avermelhada é:`,
     images: ['/enem/2015/images/enem_2015_d1_q81.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Ca 2 + (aq) + 2 Cu + (aq) → Ca (s) + 2 Cu 2 + (aq).` },
-      { id: 'B', type: 'text', value: `Ca 2 + (aq) + 2 Fe 2 + (aq) → Ca (s) + 2 Fe 3 + (aq).` },
-      { id: 'C', type: 'text', value: `Cu 2 + (aq) + 2 Fe 2 + (aq) → Cu (s) + 2 Fe 3 + (aq).` },
-      { id: 'D', type: 'text', value: `3 Ca 2 + (aq) + 2 Fe (s) → 3 Ca (s) + 2 Fe 3 + (aq).` },
-      { id: 'E', type: 'text', value: `3 Cu 2 + (aq) + 2 Fe (s) → 3 Cu (s) + 2 Fe 3 + (aq).` },
+      { id: 'A', type: 'text', value: `Ca²⁺ (aq) + 2 Cu + (aq) → Ca (s) + 2 Cu²⁺ (aq).` },
+      { id: 'B', type: 'text', value: `Ca²⁺ (aq) + 2 Fe²⁺ (aq) → Ca (s) + 2 Fe³⁺ (aq).` },
+      { id: 'C', type: 'text', value: `Cu²⁺ (aq) + 2 Fe²⁺ (aq) → Cu (s) + 2 Fe³⁺ (aq).` },
+      { id: 'D', type: 'text', value: `3 Ca²⁺ (aq) + 2 Fe (s) → 3 Ca (s) + 2 Fe³⁺ (aq).` },
+      { id: 'E', type: 'text', value: `3 Cu²⁺ (aq) + 2 Fe (s) → 3 Cu (s) + 2 Fe³⁺ (aq).` },
     ],
     correct: 'E',
     explanation: `A mancha avermelhada é cobre metálico que se deposita sobre a faca quando ainda há Cu²⁺ não neutralizado na calda. Comparando os potenciais padrão, o Cu²⁺ (E° = +0,34 V) é reduzido a Cu, enquanto o ferro metálico, de menor potencial, é oxidado a Fe³⁺ (E° = −0,04 V). Balanceando os elétrons (3 elétrons do Fe e 2 do Cu), a equação é 3 Cu²⁺(aq) + 2 Fe(s) → 3 Cu(s) + 2 Fe³⁺(aq). Portanto, a reação de formação da mancha é a da alternativa E.`,
@@ -2438,7 +2438,7 @@ envolvida na conversão de 1 g de água no estado gasoso para o
 estado líquido. Energia Bio-óleo + O (g) 2 H = 18,8 kJ/g 1 CO
 (g) H O (g) + 2 2 H = 2,4 kJ/g 2 CO (g) H O ( ) ℓ + 2 2 A
 variação de entalpia, em kJ, para a queima de 5 g desse
-bio-óleo resultando em CO 2 (gasoso) e H 2 O (gasoso) é:`,
+bio-óleo resultando em CO₂ (gasoso) e H₂O (gasoso) é:`,
     images: ['/enem/2015/images/enem_2015_d1_q84.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `− 106.` },

@@ -380,7 +380,7 @@ celular?`,
  exam: 'enem',
  year: 2025,
  day: 2,
- text:`A quantidade de CO 2  na atmosfera da Terra aumentou em 
+ text:`A quantidade de CO₂  na atmosfera da Terra aumentou em 
 50%, e a temperatura está agora cerca de 1,2 ° C mais quente 
 em comparação ao século XIX. O ritmo de aumento da temperatura 
 precisa diminuir se quisermos evitar as piores consequências das 
@@ -389,7 +389,7 @@ precisa ser mantido em 1,5 ° C até o ano 2100. No entanto, a menos
 que outras ações sejam tomadas, o planeta ainda pode aquecer 
 mais de 2 ° C até o final deste século. Na prática, os países precisam 
 enfrentar as mudanças climáticas com ações mitigadoras, que 
-reduzam tanto as emissões quanto os níveis de CO 2  na atmosfera. 
+reduzam tanto as emissões quanto os níveis de CO₂  na atmosfera. 
 Um guia rápido para entender as mudanças climáticas . 
 Disponível em: www.bbc.com. Acesso em: 6 dez. 2021 (adaptado). 
 Qual ação mitigadora auxilia na remoção desse gás presente na 
@@ -705,11 +705,11 @@ Química Nova , n. 6, 2009 (adaptado).
 O frasco contendo cânfora apresenta a fórmula molecular:`,
  images: [`/enem/2025/images/enem_2025_d2_q115.jpg`],
  alternatives: [
- { id: 'A', type: 'text', value:`C 9 H 16 O`},
- { id: 'B', type: 'text', value:`C 9 H 17 O`},
- { id: 'C', type: 'text', value:`C 10 H 16 O`},
- { id: 'D', type: 'text', value:`C 10 H 16 O 2`},
- { id: 'E', type: 'text', value:`C 10 H 18 O 2`},
+ { id: 'A', type: 'text', value:`C₉H₁₆O`},
+ { id: 'B', type: 'text', value:`C₉H₁₇O`},
+ { id: 'C', type: 'text', value:`C₁₀H₁₆O`},
+ { id: 'D', type: 'text', value:`C₁₀H₁₆O₂`},
+ { id: 'E', type: 'text', value:`C₁₀H₁₈O₂`},
  ],
  correct: 'C',
  explanation: `O borneol é um álcool secundário de fórmula C10H18O. Na oxidação de um álcool secundário a cetona, o carbono que porta a hidroxila perde dois átomos de hidrogênio (o do –OH e o do próprio carbono), convertendo –CH(OH)– em C=O. Assim, de C10H18O passa-se a C10H16O, que é a cânfora. Portanto, a fórmula molecular da cânfora é C10H16O (alternativa C).`,
@@ -1007,10 +1007,10 @@ três gases distintos, que são os responsáveis pelo crescimento
 da massa. A decomposição do bicarbonato de amônio ocorre 
 conforme a equação química apresentada e, nas condições do 
 cozimento, seu rendimento é de 80%. 
-NH₄ HCO 3 (s) → NH₃ (g) + CO₂ (g) + H₂ O (g) 
+NH₄ HCO₃ (s) → NH₃ (g) + CO₂ (g) + H₂ O (g) 
 Considere que a mistura dos gases se comporta como gás 
 ideal nas condições de cozimento utilizadas pela chefe. 
-Dados: Massa molar do NH₄ HCO 3 = 79 g ⋅ mol⁻¹  e 
+Dados: Massa molar do NH₄ HCO₃ = 79 g ⋅ mol⁻¹  e 
 R = 0,082 atm ⋅ L ⋅ mol⁻¹ ⋅ K⁻¹ . 
 A massa, em grama, de bicarbonato de amônio que ela deve 
 utilizar é mais próxima de`,

@@ -1540,7 +1540,7 @@ altamente específicos e seus compostos químicos podem ser
 empregados em determinados cultivos, conforme ilustrado no
 quadro. Substância Inseto Cultivo Milho Sitophilus spp OH O O
 NH Morango Anthonomus rubi OH Grapholita molesta OH Frutas
-OCOCH 3 FERREIRA, J. T. B.; ZARBIN, P. H. G. Amor ao primeiro
+OCOCH₃ FERREIRA, J. T. B.; ZARBIN, P. H. G. Amor ao primeiro
 odor: a comunicação química entre os insetos. Química Nova na
 Escola , n. 7, maio 1998 (adaptado). Considerando essas
 estruturas químicas, o tipo de estereoisomeria apresentada
@@ -1566,7 +1566,7 @@ controle do inseto`,
     day: 1,
     text: `O esquema representa, de maneira simplificada, o processo de
 produção de etanol utilizando milho como matéria-prima.
-Levedura CO 2 Milho Etanol Água Hidrólise Fermentação A etapa
+Levedura CO₂ Milho Etanol Água Hidrólise Fermentação A etapa
 de hidrólise na produção de etanol a partir do milho é
 fundamental para que`,
     images: ['/enem/2016/images/enem_2016_d1_q53.jpg'],
@@ -1924,8 +1924,8 @@ Acesso em: 23 jun. 2015 (adaptado). TEXTO II Em sistemas
 bioeletroquímicos, os potenciais padrão ( E ° ’ ) apresentam
 valores característicos. Para as biocélulas de acetato,
 considere as seguintes semirreações de redução e seus
-respectivos potenciais: 2 CO 2 + 7 H + + 8 e − → CH 3 COO − +
-2 H 2 O E ° ’ = - 0,3 V O 2 + 4 H + + 4 e − → 2 H 2 O E ° ’ =
+respectivos potenciais: 2 CO₂ + 7 H + + 8 e − → CH₃ COO − +
+2 H₂O E ° ’ = - 0,3 V O 2 + 4 H + + 4 e − → 2 H₂O E ° ’ =
 0,8 V SCOTT, K.; YU, E. H. Microbial electrochemical and fuel
 cells: fundamentals and applications. Woodhead Publishing
 Series in Energy , n. 88, 2016 (adaptado). Nessas condições,
@@ -2079,7 +2079,7 @@ Consequentemente, a qualidade nutricional desses
 alimentos pode diminuir à medida que os níveis de dióxido 
 de carbono na atmosfera atingirem as estimativas para as 
 próximas décadas. 
-BLOOM, A. J. et al. Nitrate assimilation is inhibited by elevated CO 2 in field-grown wheat. 
+BLOOM, A. J. et al. Nitrate assimilation is inhibited by elevated CO₂ in field-grown wheat. 
 Nature Climate Change , n. 4, abr. 2014 (adaptado). 
 Nesse contexto, a qualidade nutricional do grão de trigo 
 será modificada primariamente pela redução de`,
@@ -2638,11 +2638,11 @@ solvente apresenta taxa média de aquecimento mais próxima de
 zero, no intervalo de 0 s a 40 s?`,
     images: ['/enem/2016/images/enem_2016_d1_q89.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `H 2 O` },
-      { id: 'B', type: 'text', value: `CH 3 OH` },
-      { id: 'C', type: 'text', value: `CH 3 CH 2 OH` },
-      { id: 'D', type: 'text', value: `CH 3 CH 2 CH 2 OH` },
-      { id: 'E', type: 'text', value: `CH 3 CH 2 CH 2 CH 2 CH 2 CH 3` },
+      { id: 'A', type: 'text', value: `H₂O` },
+      { id: 'B', type: 'text', value: `CH₃ OH` },
+      { id: 'C', type: 'text', value: `CH₃ CH₂ OH` },
+      { id: 'D', type: 'text', value: `CH₃ CH₂ CH₂ OH` },
+      { id: 'E', type: 'text', value: `CH₃ CH₂ CH₂ CH₂ CH₂ CH₃` },
     ],
     correct: 'E',
     explanation: `O aquecimento por micro-ondas é tanto mais eficiente quanto mais polar (maior constante dielétrica) for a molécula do solvente, pois são as moléculas polares que absorvem bem essa radiação. Entre os solventes, o n-hexano (CH₃CH₂CH₂CH₂CH₂CH₃) é um hidrocarboneto apolar, que praticamente não absorve a energia das micro-ondas; por isso sua temperatura quase não varia e sua curva permanece quase plana. Assim, no intervalo de 0 a 40 s, é o n-hexano que apresenta taxa média de aquecimento mais próxima de zero. Portanto, a resposta é a alternativa E.`,

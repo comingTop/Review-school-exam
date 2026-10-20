@@ -1321,7 +1321,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     exam: 'enem',
     year: 2010,
     day: 1,
-    text: `As cidades industrializadas produzem grandes proporções de gases como o CO 2 , o principal gás causador do efeito estufa. Isso ocorre por causa da quantidade de combustíveis fósseis queimados, principalmente no transporte, mas também em caldeiras industriais. Além disso, nessas cidades concentram-se as maiores áreas com solos asfaltados e concretados, o que aumenta a retenção de calor, formando o que se conhece por “ilhas de calor”. Tal fenômeno ocorre porque esses materiais absorvem o calor e o devolvem para o ar sob a forma de radiação térmica. Em áreas urbanas, devido à atuação conjunta do efeito estufa e das “ilhas de calor”, espera-se que o consumo de energia elétrica`,
+    text: `As cidades industrializadas produzem grandes proporções de gases como o CO₂ , o principal gás causador do efeito estufa. Isso ocorre por causa da quantidade de combustíveis fósseis queimados, principalmente no transporte, mas também em caldeiras industriais. Além disso, nessas cidades concentram-se as maiores áreas com solos asfaltados e concretados, o que aumenta a retenção de calor, formando o que se conhece por “ilhas de calor”. Tal fenômeno ocorre porque esses materiais absorvem o calor e o devolvem para o ar sob a forma de radiação térmica. Em áreas urbanas, devido à atuação conjunta do efeito estufa e das “ilhas de calor”, espera-se que o consumo de energia elétrica`,
     alternatives: [
       { id: 'A', type: 'text', value: `diminua devido à utilização de caldeiras por indústrias metalúrgicas.` },
       { id: 'B', type: 'text', value: `aumente devido ao bloqueio da luz do sol pelos gases do efeito estufa.` },

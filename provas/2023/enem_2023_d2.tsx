@@ -140,9 +140,9 @@ fundamentais, pois favorecem o(a)`,
     day: 2,
     text: `Existe no comércio um produto antimofo constituído por 
 uma embalagem com tampa perfurada contendo cloreto 
-de cálcio anidro, CaCl 2 . Uma vez aberto o lacre, essa 
+de cálcio anidro, CaCl₂ . Uma vez aberto o lacre, essa 
 substância absorve a umidade ambiente, transformando-se 
-em cloreto de cálcio di-hidratado, CaCl 2 ⋅ 2H 2 O. 
+em cloreto de cálcio di-hidratado, CaCl₂ ⋅ 2H₂O. 
 Considere a massa molar da água igual a 18 g mol⁻¹ , e a 
 massa molar do cloreto de cálcio anidro igual a 111 g mol⁻¹ . 
 Na hidratação da substância presente no antimofo, o 
@@ -178,7 +178,7 @@ A aceleração desse processo é causada por`,
     alternatives: [
       { id: 'A', type: 'text', value: `acúmulo de gás etileno.` },
       { id: 'B', type: 'text', value: `redução da umidade do ar.` },
-      { id: 'C', type: 'text', value: `aumento da concentração de CO 2 .` },
+      { id: 'C', type: 'text', value: `aumento da concentração de CO₂ .` },
       { id: 'D', type: 'text', value: `diminuição da intensidade luminosa.` },
       { id: 'E', type: 'text', value: `isolamento do contato com O 2 atmosférico.` },
     ],
@@ -540,7 +540,7 @@ foram utilizados em uma aula prática. Cada frasco continha 5,25 g de Hg₂(NO�
 toxidez do mercúrio e sabendo que o Hg₂ Cl₂ tem solubilidade muito baixa, o assistente optou por retirar o mercúrio da
 solução por precipitação com cloreto de sódio (NaCl), conforme a equação química:
 Hg₂(NO₃)₂ (aq) + 2 NaCl (aq)
- Hg₂ Cl₂ (s) + 2 NaNO 3 (aq)
+ Hg₂ Cl₂ (s) + 2 NaNO₃ (aq)
 Na dúvida sobre a massa de NaCl a ser utilizada, o assistente aumentou gradativamente a quantidade adicionada
 em cada frasco, como apresentado no quadro.`,
     images: ['/enem/2023/images/enem_2023_d2_q110.jpg'],
@@ -1025,12 +1025,12 @@ de seu(sua)`,
     text: `Toxicidade do cianeto A produção de ATP depende do gradiente
 de prótons gerado pela cadeia respiratória. Nessas reações, os
 elétrons provenientes da oxidação do NADH em NAD + percorrem a
-cadeia até chegarem à citocromo c oxidase reduzindo o Fe 3+ a
-Fe 2+ . O oxigênio atua como aceptor final desses elétrons
+cadeia até chegarem à citocromo c oxidase reduzindo o Fe³⁺ a
+Fe²⁺ . O oxigênio atua como aceptor final desses elétrons
 formando água. O cianeto é uma espécie química altamente
-tóxica que tem grande afinidade pelo Fe 3+ . Quando células
-são expostas ao cianeto, ele se liga ao sítio de Fe 3+ da
-citocromo c oxidase, impedindo a sua conversão em Fe 2+ e
+tóxica que tem grande afinidade pelo Fe³⁺ . Quando células
+são expostas ao cianeto, ele se liga ao sítio de Fe³⁺ da
+citocromo c oxidase, impedindo a sua conversão em Fe²⁺ e
 bloqueando a cadeia respiratória. Substrato proveniente do
 nutriente Forma reduzida Forma oxidada NAD + Transportador 1
 Transportador 2 Transportador 3 Citocromo c oxidase 1 2 O 2 CO
@@ -1084,7 +1084,7 @@ emitidas pelo celular e as recebidas pelo rádio do avião`,
     day: 2,
     text: `O Aldrin é um inseticida agrícola organoclorado sintético de
 baixa polaridade, cuja estrutura molecular simétrica, de
-fórmula C 12 H 8 Cl 6 , está representada na figura.
+fórmula C₁₂H₈Cl₆ , está representada na figura.
 Introduzido na agricultura a partir da década de 1950, esse
 composto apresenta alta persistência no meio ambiente e
 acumulação nos organismos, sendo danoso para a saúde. H C H Cl
@@ -1157,7 +1157,7 @@ açúcar. O refrigerante comum contém basicamente
 já o refrigerante diet tem água carbonatada e adoçantes, 
 cujas massas são muito pequenas. 
 CAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor 
-de sacarose e CO 2 em refrigerantes. Química Nova na Escola , n. 3, ago. 2014 (adaptado). 
+de sacarose e CO₂ em refrigerantes. Química Nova na Escola , n. 3, ago. 2014 (adaptado). 
 Entre as duas versões apresentadas, o refrigerante 
 comum possui`,
     alternatives: [

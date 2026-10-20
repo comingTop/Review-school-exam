@@ -693,7 +693,7 @@ obtido pela reação entre triglicerídeos, presentes em óleos
 vegetais e gorduras animais, entre outros, e álcoois de baixa
 massa molar, como o metanol ou etanol, na presença de um
 catalisador, de acordo com a equação química: CH CH R 1 R 1 2
-3 CH OH 2 + + catalisador CH OH 3 CH 3 OH R 2 R 2 CH CH 3 CH
+3 CH OH 2 + + catalisador CH OH 3 CH₃ OH R 2 R 2 CH CH₃ CH
 OH 2 CH CH R 3 R 3 2 3 A função química presente no produto
 que representa o biodiesel é`,
     images: ['/enem/2017/images/enem_2017_d2_q114.jpg'],

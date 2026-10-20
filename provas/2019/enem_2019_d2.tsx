@@ -376,11 +376,11 @@ Após a adição de soro sanguíneo, o fluxo desloca- -se
 espontaneamente da esquerda para a direita (ii) promovendo
 reações sequenciais, conforme as equações 1 e 2. Na primeira,
 há conversão de glicose do sangue em ácido glucônico, gerando
-peróxido de hidrogênio: Equação 1 C 6 H 12 O 6 (aq) + O 2 (g)
-+ H 2 O (l) Enzimas C 6 H 12 O 7 (aq) + H 2 O 2 (aq) Na
+peróxido de hidrogênio: Equação 1 C₆H₁₂O₆ (aq) + O 2 (g)
++ H₂O (l) Enzimas C 6 H 12 O 7 (aq) + H₂O 2 (aq) Na
 segunda, o peróxido de hidrogênio reage com íons iodeto
 gerando o íon tri-iodeto, água e oxigênio. Equação 2 − (aq) +
-2 H 2 O (I) + O 2 (g) 2 H 2 O 2 (aq) + 3 l − (aq) I 3 GARCIA,
+2 H₂O (I) + O 2 (g) 2 H₂O 2 (aq) + 3 l − (aq) I 3 GARCIA,
 P. T. et al. A Handheld Stamping Process to Fabricate
 Microfluidic Paper-Based Analytical Devices with Chemically
 Modified Surface for Clinical Assays. RSC Advances , v. 4, 13
@@ -992,7 +992,7 @@ estrôncio-90 será acumulado predominantemente?`,
 [poli(tereftalato de etileno)] gera o tereftalato de metila e
 o etanodiol, conforme o esquema de reação, e ocorre por meio
 de uma reação de transesterificação. Altas temperaturas e
-pressão O O O O + 2n A + n COOCH 3 PET O composto A ,
+pressão O O O O + 2n A + n COOCH₃ PET O composto A ,
 representado no esquema de reação, e o`,
     images: ['/enem/2019/images/enem_2019_d2_q124.jpg'],
     alternatives: [

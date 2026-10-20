@@ -782,7 +782,7 @@ O disjuntor adequado para a proteção dessa ducha é especificado por:`,
     day: 2,
     text: `Um grupo de alunos realizou um experimento para observar
 algumas propriedades dos ácidos, adicionando um pedaço de
-mármore (CaCO 3 ) a uma solução aquosa de ácido clorídrico
+mármore (CaCO₃ ) a uma solução aquosa de ácido clorídrico
 (HCl), observando a liberação de um gás e o aumento da
 temperatura. Gás Ácido Mármore O gás obtido no experimento é
 o:`,

@@ -9,14 +9,14 @@ const ENEM_2013_D1: QuizQuestion[] = [
     text: `Mapa 1 
 Distribuição espacial atual da população brasileira 
 THÉRY, H. As boas-novas sobre a população brasileira. Conhecimento Prático 
-Geográfi co , n. 41, jan. 2012 (adaptado). 
+Geográfico , n. 41, jan. 2012 (adaptado). 
 Os mapas representam distintos padrões de distribuição de processos socioespaciais. Nesse sentido, a menor 
 incidência de disputas territoriais envolvendo povos indígenas se explica pela`,
     images: ['/enem/2013/images/enem_2013_d1_q1.jpg'],
     alternatives: [
       { id: 'A', type: 'text', value: `fertilização natural dos solos.` },
       { id: 'B', type: 'text', value: `expansão da fronteira agrícola.` },
-      { id: 'C', type: 'text', value: `intensifi cação da migração de retorno.` },
+      { id: 'C', type: 'text', value: `intensificação da migração de retorno.` },
       { id: 'D', type: 'text', value: `homologação de reservas extrativistas.` },
       { id: 'E', type: 'text', value: `concentração histórica da urbanização.` },
     ],

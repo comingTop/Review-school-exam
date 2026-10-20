@@ -1688,7 +1688,7 @@ Para o país originado da antiga Iugoslávia, a mudança de nome é uma estraté
  exam: 'enem',
  year: 2025,
  day: 1,
- text:`Concentração de CO 2  por queimadas entre África e Brasil em 30 de agosto de 2019 
+ text:`Concentração de CO₂  por queimadas entre África e Brasil em 30 de agosto de 2019 
 A dispersão espacial do problema ambiental representado na imagem de satélite é explicada pela seguinte característica geográfica:`,
  images: ['/enem/2025/images/enem_2025_d1_q47.jpg'],
  alternatives: [
