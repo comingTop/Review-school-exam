@@ -376,9 +376,9 @@ funcionamento do refrigerador e aumenta o consumo de energia.
 O não atendimento dessa recomendação resulta em aumento do
 consumo de energia porque`,
     alternatives: [
-      { id: 'A', type: 'text', value: `o fl uxo de calor por condução no condensador sofre considerável redução.` },
+      { id: 'A', type: 'text', value: `o fluxo de calor por condução no condensador sofre considerável redução.` },
       { id: 'B', type: 'text', value: `a temperatura da substância refrigerante no condensador diminui mais rapidamente.` },
-      { id: 'C', type: 'text', value: `o fl uxo de calor promove significativa elevação da temperatura no interior do refrigerador.` },
+      { id: 'C', type: 'text', value: `o fluxo de calor promove significativa elevação da temperatura no interior do refrigerador.` },
       { id: 'D', type: 'text', value: `a liquefação da substância refrigerante no condensador exige mais trabalho do compressor.` },
       { id: 'E', type: 'text', value: `as correntes de convecção nas proximidades do condensador ocorrem com maior dificuldade.` },
     ],

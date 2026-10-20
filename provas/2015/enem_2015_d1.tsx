@@ -339,7 +339,7 @@ dezembro. Com base na análise do calendário, apreende-se uma concepção de te
 ao que tudo indica, atualmente passa por uma desaceleração no ritmo de crescimento populacional nos grandes 
 centros urbanos. 
 BAENINGER, R. Cidades e metrópoles : a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012 (adaptado). 
-Uma causa para o processo socioespacial mencionado no texto e o(a)`,
+Uma causa para o processo socioespacial mencionado no texto é o(a)`,
     alternatives: [
       { id: 'A', type: 'text', value: `carência de matérias-primas.` },
       { id: 'B', type: 'text', value: `degradação da rede rodoviária.` },
@@ -790,7 +790,7 @@ quando dois homens desejavam o mesmo objeto, eles`,
       { id: 'B', type: 'text', value: `Litorâneo.` },
       { id: 'C', type: 'text', value: `Equatorial.` },
       { id: 'D', type: 'text', value: `Semiárido.` },
-      { id: 'E', type: 'text', value: `Subtropical. 4.` },
+      { id: 'E', type: 'text', value: `Subtropical.` },
     ],
     correct: 'D',
     explanation: `A Figura 1 mostra que o intemperismo de grau muito fraco ocorre sob baixa precipitação, em torno de 400 a 800 mm anuais, e a Figura 2 localiza essa região (1) no interior do Nordeste brasileiro. Essa área corresponde ao clima semiárido, cujas chuvas escassas e irregulares limitam a decomposição das rochas, por isso a alternativa D é correta. Os climas tropical (A) e equatorial (C) apresentam chuvas abundantes que intensificam o intemperismo, não o enfraquecem. O clima litorâneo (B) e o subtropical (E) também possuem umidade elevada e não coincidem com a região de intemperismo muito fraco indicada nos mapas.`,
@@ -1056,9 +1056,10 @@ imagens representavam um`,
     text: `No início foram as cidades. O intelectual da Idade Média - no Ocidente - nasceu com elas. Foi com o 
 desenvolvimento urbano ligado às funções comercial e industrial - digamos modestamente artesanal - que ele 
 apareceu, como um desses homens de ofício que se instalavam nas cidades nas quais se impôs a divisão do trabalho. 
-Um homem cujo ofício é escrever ou ensinar, e de preferencia as duas coisas a um so tempo, um homem que, 
-profissionalmente, tem uma atividade de professor e erudito, em resumo, um intelectual - esse homem so aparecera 
+Um homem cujo ofício é escrever ou ensinar, e de preferência as duas coisas a um só tempo, um homem que, 
+profissionalmente, tem uma atividade de professor e erudito, em resumo, um intelectual - esse homem só aparecerá 
 com as cidades. 
+LE GOFF, J. Os intelectuais na Idade Média. Rio de Janeiro: José Olympio, 2010. 
 O surgimento da categoria mencionada no período em destaque no texto evidencia o(a)`,
     images: null,
     alternatives: [
@@ -1066,7 +1067,7 @@ O surgimento da categoria mencionada no período em destaque no texto evidencia 
       { id: 'B', type: 'text', value: `relação entre desenvolvimento urbano e divisão do trabalho.` },
       { id: 'C', type: 'text', value: `importância organizacional das corporações de ofício.` },
       { id: 'D', type: 'text', value: `progressiva expansão da educação escolar.` },
-      { id: 'E', type: 'text', value: `acúmulo de trabalho dos professores e eruditos. LE GOFF, J. Os intelectuais na Idade Media . Rio de Janeiro: José Olympio, 2010.` },
+      { id: 'E', type: 'text', value: `acúmulo de trabalho dos professores e eruditos.` },
     ],
     correct: 'B',
     explanation: `Le Goff afirma que o intelectual da Idade Média nasceu com as cidades, surgindo entre os homens de ofício no contexto do desenvolvimento urbano ligado às funções comercial e artesanal, onde se impôs a divisão do trabalho. O surgimento dessa categoria evidencia a relação entre desenvolvimento urbano e divisão do trabalho, pois o intelectual é descrito como um profissional especializado em escrever e ensinar, por isso a alternativa B é correta. O apoio da Igreja ao trabalho abstrato (A) e a importância das corporações de ofício (C) não são o foco do trecho. A expansão da educação escolar (D) e o acúmulo de trabalho dos professores (E) não traduzem o vínculo entre cidade e especialização que explica o aparecimento do intelectual.`,
@@ -1899,11 +1900,11 @@ obtendo-se 16 °C.
 Qual selo deveria ser posto na garrafa térmica testada?`,
     images: ['/enem/2015/images/enem_2015_d1_q65.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `Selo A (variação menor que 10%)` },
-      { id: 'B', type: 'text', value: `Selo B (variação entre 10% e 25%)` },
-      { id: 'C', type: 'text', value: `Selo C (variação entre 25% e 40%)` },
-      { id: 'D', type: 'text', value: `Selo D (variação entre 40% e 55%)` },
-      { id: 'E', type: 'text', value: `Selo E (variação maior que 55%)` },
+      { id: 'A', type: 'text', value: `A` },
+      { id: 'B', type: 'text', value: `B` },
+      { id: 'C', type: 'text', value: `C` },
+      { id: 'D', type: 'text', value: `D` },
+      { id: 'E', type: 'text', value: `E` },
     ],
     correct: 'D',
     explanation: `A temperatura de equilíbrio inicial da mistura (1/3 a 10 °C e 2/3 a 40 °C) é a média ponderada: (1/3)×10 + (2/3)×40 = (10 + 80)/3 = 30 °C. Após seis horas, a água mede 16 °C, de modo que a variação percentual em relação ao valor inicial é (30 − 16)/30 × 100 ≈ 46,7%. Esse valor está na faixa entre 40% e 55%, correspondente ao selo D. Portanto, a garrafa deve receber o selo D (alternativa D).`,

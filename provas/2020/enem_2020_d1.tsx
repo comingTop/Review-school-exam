@@ -1321,7 +1321,7 @@ abordagem das lutas nas aulas de educação física
 quando o professor realiza uma proposta envolvendo`,
     alternatives: [
       { id: 'A', type: 'text', value: `contato corporal intenso entre o aluno e seu oponente.` },
-      { id: 'B', type: 'text', value: `contenda entre os alunos que se agridem fi sicamente.` },
+      { id: 'B', type: 'text', value: `contenda entre os alunos que se agridem fisicamente.` },
       { id: 'C', type: 'text', value: `confronto corporal em que os vencedores são previamente identificados.` },
       { id: 'D', type: 'text', value: `combate corporal intencional com ações regulamentadas entre os oponentes.` },
       { id: 'E', type: 'text', value: `conflito resolvido pelos alunos por meio de regras previamente estabelecidas.` },

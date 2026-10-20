@@ -1521,6 +1521,7 @@ TEXTO II
 Anônimo. Cabeça de uma figura feminina . 
 Circa 2700-2500 a.C. Escultura em mármore, 8 × 3,2 cm. 
 Metropolitan Museum of Art, Nova Iorque. 
+MODIGLIANI, A. Cabeça de mulher. Circa 1910-1911. Escultura em calcário, 68,3 × 15,9 × 24,1 cm. National Gallery of Art, Washington. 
 WOLKOFF, J. These 5,000-Year-Old Sculptures Look Shockingly Similar to Modern Art . 
 Disponível em: www.artsy.net. Acesso em: 19 jun. 2019. 
 A leitura comparativa das duas esculturas, separadas por mais de 2 500 anos, indica a`,

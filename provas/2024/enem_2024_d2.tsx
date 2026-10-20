@@ -1584,7 +1584,7 @@ mensagem para enviar a um amigo. Essa mensagem foi
 escrita seguindo estas etapas: 
 Etapas 
 Visor de escrita 
-1 ª etapa: inseriu três fi guras 
+1 ª etapa: inseriu três figuras 
 do tipo 
  no visor de 
 escrita da mensagem; 

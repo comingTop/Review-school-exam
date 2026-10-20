@@ -2765,7 +2765,7 @@ com o texto, é uma condição para que isso aconteça o(a)`,
     text: `Uma pessoa vê-se forçada pela necessidade a pedir 
 dinheiro emprestado. Sabe muito bem que não poderá 
 pagar, mas vê também que não lhe emprestarão nada se 
-não prometer fi rmemente pagar em prazo determinado. 
+não prometer firmemente pagar em prazo determinado. 
 Sente a tentação de fazer a promessa; mas tem ainda 
 consciência bastante para perguntar a si mesma: não é 
 proibido e contrário ao dever livrar-se de apuros desta 
@@ -2780,7 +2780,7 @@ pagamento” representada no texto`,
       { id: 'A', type: 'text', value: `assegura que a ação seja aceita por todos a partir da livre discussão participativa.` },
       { id: 'B', type: 'text', value: `garante que os efeitos das ações não destruam a possibilidade da vida futura na terra.` },
       { id: 'C', type: 'text', value: `opõe-se ao princípio de que toda ação do homem possa valer como norma universal.` },
-      { id: 'D', type: 'text', value: `materializa-se no entendimento de que os fi ns da ação humana podem justificar os meios.` },
+      { id: 'D', type: 'text', value: `materializa-se no entendimento de que os fins da ação humana podem justificar os meios.` },
       { id: 'E', type: 'text', value: `permite que a ação individual produza a mais ampla felicidade para as pessoas envolvidas.` },
     ],
     correct: 'C',
