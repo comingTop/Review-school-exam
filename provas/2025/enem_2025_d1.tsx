@@ -982,8 +982,7 @@ Nesse texto, a estratégia empregada para criticar a constante exposição a pal
  { id: 'B', type: 'text', value:`subjetividade marcada pela reflexão que se desenvolve em primeira pessoa.`},
  { id: 'C', type: 'text', value:`efeito estilístico da repetição intencional da palavra “assim” no último parágrafo.`},
  { id: 'D', type: 'text', value:`sedução sugerida pelo envolvimento direto do leitor marcado nos usos de “você” e “sua”.`},
- { id: 'E', type: 'text', value:`humor gerado pelo uso das estruturas linguísticas que são objeto da reflexão desenvolvida. 
-Disponível em: www.unicef.org.br. Acesso em: 15 jan. 2024 (adaptado).`},
+ { id: 'E', type: 'text', value:`humor gerado pelo uso das estruturas linguísticas que são objeto da reflexão desenvolvida.`},
  ],
  correct: 'E',
  explanation: `Resposta correta: E. Ruy Castro critica o uso automatizado de clichês e jargões ("novo normal", "lugar de fala", "cringe", "fora da caixinha") empregando-os ironicamente ao longo do próprio texto, o que gera humor justamente pelo acúmulo das estruturas que ele comenta. Essa é a estratégia descrita em E. A alternativa A fala em efemeridade dos usos linguísticos; B, na subjetividade da primeira pessoa; C, na repetição de "assim" no fim; e D, no envolvimento do leitor por "você" e "sua" — elementos presentes, mas que não constituem a tática central de crítica bem-humorada.`,
@@ -1394,18 +1393,14 @@ detrito espacial que se aproximasse de nós seria identificado e rotulado, e sua
 calculada até o último milímetro com grande antecedência, o que nos daria tempo para 
 preparar o espírito - ou usar nossos cartões de crédito até o limite - no caso da colisão 
 com a Terra ser inevitável. 
+VERISSIMO, L. F. Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2013. 
 Com base na organização coesiva desse texto, o(a)`,
  alternatives: [
  { id: 'A', type: 'text', value:`oração “que passou de raspão” ( l . 3) refere-se ao “meteoro que cruzou o céu da Sibéria” ( l . 1).`},
  { id: 'B', type: 'text', value:`expressão “sua trajetória” ( l . 6) refere-se ao elemento textual “qualquer detrito espacial” ( l . 5-6).`},
  { id: 'C', type: 'text', value:`palavra “isso” ( l . 5) remete ao segmento textual posterior “os alarmes não funcionaram” ( l . 5).`},
  { id: 'D', type: 'text', value:`pronome “o” em “o que nos daria tempo” ( l . 7) remete a “ou usar nossos cartões de crédito” ( l . 8).`},
- { id: 'E', type: 'text', value:`fragmento “o asteroide da Sibéria” ( l . 3) introduz um elemento novo no texto. 
-HERTEL, R. Mitologia . Disponível em: https://osmelhoreslivros.com.br. 
-Acesso em: 4 jun. 2025 (adaptado). 
-FERREIRA, G. V. Os doze trabalhos . Disponível em: www.minicontos.com.br. 
-Acesso em: 15 jul. 2015 (adaptado). 
-VERÍSSIMO, L. F. Disponível em: www.estadão.com.br. Acesso em: 1 mar. 2013.`},
+ { id: 'E', type: 'text', value:`fragmento “o asteroide da Sibéria” ( l . 3) introduz um elemento novo no texto.`},
  ],
  correct: 'B',
  explanation: `Resposta correta: B. Pela organização coesiva, a expressão "sua trajetória" retoma o antecedente "qualquer detrito espacial", mantendo a referência ao objeto que seria identificado e calculado. É o que indica B. A alternativa A erra o referente, pois "que passou de raspão" se liga ao outro asteroide, não ao meteoro da Sibéria; C inverte a direção da remissão, já que "isso" aponta para o segmento anterior; D atribui ao pronome "o" uma referência indevida; e E afirma que "o asteroide da Sibéria" introduz elemento novo, quando, na verdade, retoma algo já apresentado no texto.`,
@@ -1496,6 +1491,7 @@ ameríndios das terras baixas da América do Sul, do Caribe e da América Centra
 ASSIS, R.; MENDES JR., L. Bancos indígenas do Brasil. São Paulo: BEI Comunicação, 2013.
 TEXTO II
 KAMAYURÁ, Y. Tatu Kamayurá 1. Madeira, 61 × 24 × 20 cm. Xingu (MT), s.d.
+Disponível em: www.colecaobei.com.br. Acesso em: 15 out. 2024.
 Os textos I e II demonstram, na confecção dos bancos, uma íntima relação de sacralidade entre o ser humano e a natureza,
 perceptível por meio da`,
  images: ['/enem/2025/images/enem_2025_d1_q41.jpg'],
@@ -1516,32 +1512,26 @@ perceptível por meio da`,
  exam: 'enem',
  year: 2025,
  day: 1,
- text:`TRADUZINDO O JURIDIQUES 
+ text:`TRADUZINDO O JURIDIQUÊS 
 “Denego a liminar pleiteada na exordial, inobstante 
 após a oitiva da parte adversa e da dilação probatória 
 possa lograr alcançar um outro epílogo para o deslinde 
 da quaestio sub examine .” 
-TRADUÇãO 
+TRADUÇÃO 
 Não atendo, por ora, a liminar requerida na petição 
 inicial, ainda que possa chegar a uma outra conclusão 
 após ouvir a outra parte e avaliar as provas produzidas. 
-Nesse texto, contribui para a construção da ironia a tradução das passagens escritas em “juridiques” para uma variedade`,
+Proposta de emenda à Constituição 269 de 2013. Aplica-se aos Governadores e Prefeitos o Regime Geral de Previdência Social, vedada a concessão graciosa, após o término do mandato, de vantagem pecuniária, verba de representação, pensão ou subsídio. 
+TRADUÇÃO 
+Torna-se proibido pagar benefícios vitalícios para ex-prefeitos e ex-governadores. 
+Superinteressante, n. 322, ago. 2013 (adaptado). 
+Nesse texto, contribui para a construção da ironia a tradução das passagens escritas em “juridiquês” para uma variedade`,
  alternatives: [
  { id: 'A', type: 'text', value:`padrão, que alcança o público em geral.`},
  { id: 'B', type: 'text', value:`histórica, que registra a evolução das leis.`},
  { id: 'C', type: 'text', value:`coloquial, que reproduz as relações sociais cotidianas.`},
  { id: 'D', type: 'text', value:`erudita, que resgata a origem latina da língua portuguesa.`},
- { id: 'E', type: 'text', value:`técnica, que facilita a circulação de informações no sistema judiciario. 
-Disponível em: www.colecaobei.com.br. Acesso em: 15 out. 2024. 
-Proposta de emenda à Constituição 269 de 2013. Aplica-se 
-aos Governadores e Prefeitos o Regime Geral de Previdência 
-Social, vedada a concessão graciosa, após o término do 
-mandato, de vantagem pecuniária, verba de representação, 
-pensão ou subsídio. 
-TRADUÇãO 
-Torna-se proibido pagar benefícios vitalícios para 
-ex-prefeitos e ex-governadores. 
-Superinteressante , n. 322, ago. 2013 (adaptado).`},
+ { id: 'E', type: 'text', value:`técnica, que facilita a circulação de informações no sistema judiciário.`},
  ],
  correct: 'A',
  explanation: `Resposta correta: A. A ironia nasce da justaposição entre o "juridiquês" rebuscado e sua tradução para a variedade padrão acessível ao público em geral, que expõe quanto a linguagem técnica era desnecessariamente complexa. É o que afirma A. A alternativa B fala em variedade histórica; C, em coloquial que reproduz relações cotidianas; D, em erudita ligada à origem latina; e E, em técnica que facilita a circulação de informações — classificações equivocadas, pois a tradução aproxima o texto da norma-padrão compreensível, e é esse contraste que produz o efeito irônico.`,
@@ -1718,9 +1708,7 @@ No contexto do século XVIII, o autor propõe uma reflexão radical acerca da ar
  { id: 'B', type: 'text', value:`campo dos absolutos, semelhante ao entendimento medieval dos Universais.`},
  { id: 'C', type: 'text', value:`domínio da lógica, consoante a compreensão aristotélica nos Analíticos.`},
  { id: 'D', type: 'text', value:`paradigma da racionalidade, alinhado ao modelo cartesiano de método.`},
- { id: 'E', type: 'text', value:`âmbito da persuasão, análogo às críticas platônicas aos sofistas. 
-Disponível em: https://g1.globo.com. Acesso em: 7 nov. 2021 (adaptado). 
-Disponível em: https://noticias.uol.com.br. Acesso em: 10 out. 2019 (adaptado).`},
+ { id: 'E', type: 'text', value:`âmbito da persuasão, análogo às críticas platônicas aos sofistas.`},
  ],
  correct: 'E',
  explanation: `No século XVIII, Hume afirma que a eloquência levada ao extremo deixa pouco lugar à razão e se dirige à imaginação e aos afetos, subjugando o entendimento dos ouvintes. Ao reduzi-la a esse poder de seduzir sem convencer racionalmente, ele a confina ao âmbito da persuasão, de modo análogo às críticas de Platão aos sofistas, que manipulavam as paixões em vez de buscar a verdade, o que corresponde à letra E. As opções kantiana (A), medieval dos Universais (B), aristotélica da lógica (C) e cartesiana do método (D) associam a eloquência à razão e ao conhecimento, justamente o oposto da restrição proposta por Hume.`,
@@ -2193,8 +2181,7 @@ Nesse contexto, a ação dos aliados de Getúlio Vargas teve como consequência 
  { id: 'B', type: 'text', value:`intervenção dos sindicatos no conflito partidário.`},
  { id: 'C', type: 'text', value:`mobilização da sociedade na defesa do governo.`},
  { id: 'D', type: 'text', value:`abandono da censura aos meios de comunicação.`},
- { id: 'E', type: 'text', value:`apoio dos parlamentares aos candidatos oposicionistas. 
-Disponível em: www.cnabrasil.org.br. Acesso em: 15 out. 2021.`},
+ { id: 'E', type: 'text', value:`apoio dos parlamentares aos candidatos oposicionistas.`},
  ],
  correct: 'A',
  explanation: `O texto trata do atentado da Rua Tonelero, articulado por aliados de Getúlio Vargas contra o jornalista oposicionista Carlos Lacerda, em 1954. Como consequência imediata, o atentado fracassado intensificou os ataques do grupo udenista, ou seja, da UDN de Lacerda, agravando a crise que levaria ao suicídio de Vargas, conforme a letra A. A intervenção dos sindicatos (B), a mobilização da sociedade em defesa do governo (C), o abandono da censura (D) e o apoio dos parlamentares aos oposicionistas (E) não foram os desdobramentos diretos do atentado descrito.`,
