@@ -1899,12 +1899,11 @@ obtendo-se 16 °C.
 Qual selo deveria ser posto na garrafa térmica testada?`,
     images: ['/enem/2015/images/enem_2015_d1_q65.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
-
+      { id: 'A', type: 'text', value: `Selo A (variação menor que 10%)` },
+      { id: 'B', type: 'text', value: `Selo B (variação entre 10% e 25%)` },
+      { id: 'C', type: 'text', value: `Selo C (variação entre 25% e 40%)` },
+      { id: 'D', type: 'text', value: `Selo D (variação entre 40% e 55%)` },
+      { id: 'E', type: 'text', value: `Selo E (variação maior que 55%)` },
     ],
     correct: 'D',
     explanation: `A temperatura de equilíbrio inicial da mistura (1/3 a 10 °C e 2/3 a 40 °C) é a média ponderada: (1/3)×10 + (2/3)×40 = (10 + 80)/3 = 30 °C. Após seis horas, a água mede 16 °C, de modo que a variação percentual em relação ao valor inicial é (30 − 16)/30 × 100 ≈ 46,7%. Esse valor está na faixa entre 40% e 55%, correspondente ao selo D. Portanto, a garrafa deve receber o selo D (alternativa D).`,

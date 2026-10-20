@@ -1297,12 +1297,11 @@ para que as lâmpadas acendam exatamente segundo as
 especificações de tensão e potência elétricas fornecidas?`,
  images: ['/enem/2024/images/enem_2024_d2_q132.jpg'],
  alternatives: [
-      { id: 'A', type: 'text', value:`A`},
-      { id: 'B', type: 'text', value:`B`},
-      { id: 'C', type: 'text', value:`C`},
-      { id: 'D', type: 'text', value:`D`},
-      { id: 'E', type: 'text', value:`E`},
-
+ { id: 'A', type: 'text', value: `Ponto A` },
+ { id: 'B', type: 'text', value: `Ponto B` },
+ { id: 'C', type: 'text', value: `Ponto C` },
+ { id: 'D', type: 'text', value: `Ponto D` },
+ { id: 'E', type: 'text', value: `Ponto E` },
  ],
  correct: 'B',
  explanation: `Em série, as duas lâmpadas devem ser percorridas pela mesma corrente nominal: I = P/V = 9/6 = 1,5 A para L1 e 18/12 = 1,5 A para L2, somando a tensão V_QR = 6 + 12 = 18 V. O ponto P, entre as lâmpadas, está a 12 V (a tensão de L2) em relação a um dos terminais. No fio QR, com 18 V distribuídos linearmente ao longo de 48 cm divididos em seis partes iguais de 8 cm, o potencial de 12 V ocorre no ponto B (a 16 cm da extremidade). Ligando o amperímetro em B, os potenciais se igualam, não há desvio de corrente e as lâmpadas operam nas especificações (alternativa B).`,

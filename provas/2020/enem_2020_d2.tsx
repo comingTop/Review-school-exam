@@ -1129,12 +1129,11 @@ e a afere em cada recipiente.
 Em qual dos recipientes a água terá maior temperatura ao final do experimento?`,
     images: ['/enem/2020/images/enem_2020_d2_q130.jpg'],
     alternatives: [
-      { id: 'A', type: 'text', value: `A` },
-      { id: 'B', type: 'text', value: `B` },
-      { id: 'C', type: 'text', value: `C` },
-      { id: 'D', type: 'text', value: `D` },
-      { id: 'E', type: 'text', value: `E` },
-
+      { id: 'A', type: 'text', value: `Recipiente A` },
+      { id: 'B', type: 'text', value: `Recipiente B` },
+      { id: 'C', type: 'text', value: `Recipiente C` },
+      { id: 'D', type: 'text', value: `Recipiente D` },
+      { id: 'E', type: 'text', value: `Recipiente E` },
     ],
     correct: 'A',
     explanation: `Herschel verificou que o maior aquecimento ocorre na região do infravermelho, situada logo além da luz vermelha do espectro (frequências menores que a do vermelho). No aparato, os recipientes são dispostos ao longo do espectro, com o vermelho em uma extremidade e o violeta na outra; o recipiente posicionado na extremidade do vermelho (onde também incide a radiação infravermelha) recebe mais energia térmica. Esse recipiente é o A. Portanto, a água atingirá a maior temperatura no recipiente A (alternativa A).`,
