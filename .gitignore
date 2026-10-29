@@ -7,5 +7,13 @@ package-lock.json
 # large binary source/asset trees — provenance tracked in sources/SOURCES.md
 enem v/
 sources/**/*.pdf
+sources/**/*.png
+sources/**/*.jpg
 images_out/**/*.png
 images_out/**/*.jpg
+# FUVEST official sources — provenance tracked in sources_fuvest/SOURCES.md
+sources_fuvest/**/*.pdf
+# untrusted downloaded archives / build artifacts / packaged deliverables
+datas/
+build/
+delivery/*.zip

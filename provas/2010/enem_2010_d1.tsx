@@ -21,7 +21,7 @@ Fonte: Incra, Estatísticas cadastrais 1998.`,
     correct: 'A',
     explanation: `O gráfico mostra que 53% da área dos imóveis rurais estão em propriedades acima de 1.000 ha, enquanto os imóveis menores, apesar de muito mais numerosos, ocupam fração reduzida da área total. Isso evidencia a concentração fundiária (latifúndio), característica histórica da estrutura agrária brasileira, por isso a alternativa A está correta. As demais estão erradas: não há escassez de terras agricultáveis (B), não há domínio de minifúndios (C) nem primazia da agricultura familiar (D), e os plantations (grandes monoculturas) não estão debilitados (E) — ao contrário, a grande propriedade predomina.`,
     subject: ['geo'],
-    topics: ['Agricultura e pecuária', 'Questões aleatórias'],
+    topics: ['Espaço agrário', 'Questões aleatórias'],
   },
   {
     id: 2,
@@ -44,7 +44,7 @@ Considerando a transformação mencionada no texto, uma consequência socioespac
     correct: 'B',
     explanation: `O texto de Milton Santos indica que a técnica e o artifício passaram a penetrar também no campo (meio técnico-científico-informacional). Uma consequência socioespacial dessa modernização é a incorporação produtiva de áreas antes marginais: a tecnologia (correção do solo, irrigação, mecanização) permite aproveitar solos menos férteis, como ocorreu na expansão sobre o Cerrado. Por isso B está correta. A (redução da concentração de terras) e C (isolamento do espaço rural) contrariam a lógica da modernização; D (estagnação da fronteira agrícola) é o oposto do ocorrido; e E (queda do emprego formal) não é a consequência destacada pelo texto, centrado na tecnificação do espaço.`,
     subject: ['geo'],
-    topics: ['Agricultura e pecuária', 'Questões aleatórias'],
+    topics: ['Espaço agrário', 'Questões aleatórias'],
   },
   {
     id: 3,
@@ -67,7 +67,7 @@ O texto retrata um fenômeno vivenciado pela agricultura brasileira nas últimas
     correct: 'A',
     explanation: `O depoimento de Carlito mostra trabalhadores rurais que deixaram o campo e passaram a ser recrutados como mão de obra volante, migrando para locais distantes em busca de trabalho. Esse fenômeno é consequência da modernização da agricultura, que, ao mecanizar e concentrar a produção, expulsa o trabalhador do campo e gera impactos sociais como o êxodo rural e o trabalho temporário — daí a alternativa A. B (recomposição de salários) e C (exigência de qualificação) não explicam a expulsão da mão de obra; D (diminuição da importância da agricultura) é falsa, pois a atividade agrícola se expandiu; e E (desvalorização de áreas rurais) não corresponde à lógica de modernização produtiva descrita.`,
     subject: ['geo'],
-    topics: ['Agricultura e pecuária', 'Urbanização', 'Questões aleatórias'],
+    topics: ['Espaço agrário', 'População, demografia e migrações', 'Questões aleatórias'],
   },
   {
     id: 4,
@@ -90,7 +90,7 @@ Considere um município que deposita os resíduos sólidos produzidos por sua po
     correct: 'B',
     explanation: `Os lixões dispõem resíduos a céu aberto, sem controle, acumulando matéria orgânica que atrai e serve de criadouro a vetores e animais (ratos, moscas, baratas) transmissores de doenças, além de o chorume contaminar o solo e as águas. Esse é o principal problema de saúde pública, descrito corretamente na alternativa B. A (problemas respiratórios pelo mau cheiro) é efeito secundário; C (chuva ácida) é incorreta nesse contexto; D (instalação no centro das cidades) é factualmente errada, pois lixões ficam em periferias; e E (desaparecimento de nascentes) não é a questão central de saúde pública.`,
     subject: ['geo'],
-    topics: ['Meio ambiente e sustentabilidade', 'Questões aleatórias'],
+    topics: ['Questões ambientais', 'Questões aleatórias'],
   },
   {
     id: 5,
@@ -111,7 +111,7 @@ O esquema representa um processo de erosão em encosta. Que prática realizada p
     correct: 'D',
     explanation: `O esquema representa a erosão em encosta (sulcos, ravinas e voçoroca). A prática que acelera esse processo é arar o solo no sentido do declive, do topo ao vale, porque os sulcos deixados pela aração conduzem a água morro abaixo, aumentando a velocidade do escoamento superficial e o arraste de partículas — por isso D está correta. As demais opções — plantio direto (A), associação de culturas (B), curvas de nível (C) e terraceamento (E) — são práticas conservacionistas que reduzem o escoamento e protegem o solo contra a erosão.`,
     subject: ['geo'],
-    topics: ['Geografia física (clima, relevo, hidrografia)', 'Meio ambiente e sustentabilidade', 'Questões aleatórias'],
+    topics: ['Geologia, relevo e solos', 'Questões aleatórias'],
   },
   {
     id: 6,
@@ -130,7 +130,7 @@ O esquema representa um processo de erosão em encosta. Que prática realizada p
     correct: 'A',
     explanation: `O texto afirma que os processos erosivos das encostas têm reflexos nas áreas de baixada urbanizadas. O material erodido é transportado e depositado nos leitos dos rios (assoreamento), que, com menor capacidade de vazão, transbordam mais facilmente e provocam enchentes nas cidades — por isso A está correta. B inverte o foco (a matéria orgânica não é o cerne); C afirma erroneamente redução do escoamento; D sugere um benefício (maior captação de água potável), o que não ocorre; e E desloca o nexo causal correto, que é assoreamento gerando enchentes.`,
     subject: ['geo'],
-    topics: ['Geografia física (clima, relevo, hidrografia)', 'Urbanização', 'Questões aleatórias'],
+    topics: ['Geologia, relevo e solos', 'Espaço urbano e urbanização', 'Questões aleatórias'],
   },
   {
     id: 7,
@@ -174,7 +174,7 @@ O esquema mostra depósitos em que aparecem fósseis de animais do Período Jur�
     correct: 'B',
     explanation: `Fósseis preservam-se em rochas sedimentares, pois os restos dos organismos são soterrados junto com os sedimentos e, ao longo do tempo, sofrem litificação (compactação e cimentação), formando camadas que podem conter fósseis — por isso B está correta. Rochas magmáticas (A e C) e metamórficas (E) formam-se sob altas temperaturas e pressões que destroem os restos orgânicos; D erra ao associar cada camada a um evento de erosão, quando na verdade as camadas representam deposição/sedimentação sucessiva.`,
     subject: ['geo'],
-    topics: ['Geografia física (clima, relevo, hidrografia)', 'Questões aleatórias'],
+    topics: ['Geologia, relevo e solos', 'Questões aleatórias'],
   },
   {
     id: 9,
@@ -197,7 +197,7 @@ Entre os países emergentes que formam o G-20, estão os chamados BRIC (Brasil, 
     correct: 'A',
     explanation: `A sigla BRIC foi cunhada em 2001 para designar Brasil, Rússia, Índia e China como economias emergentes com grande potencial de crescimento e características econômicas promissoras para as décadas seguintes — por isso A está correta. Esses países não compartilham base tecnológica elevada (B) nem índices de igualdade social e econômica acentuados (C); a diversidade ambiental (D) e as supostas similaridades culturais (E) não são o critério do agrupamento, que é essencialmente econômico.`,
     subject: ['geo'],
-    topics: ['Globalização', 'Geopolítica', 'Questões aleatórias'],
+    topics: ['Globalização e economia mundial', 'Questões aleatórias'],
   },
   {
     id: 10,
@@ -220,7 +220,7 @@ Qual relação é estabelecida no texto entre os avanços tecnológicos ocorrido
     correct: 'E',
     explanation: `O texto de Deane ironiza que, nas cidades industriais inglesas, tudo se transformava em lucro, inclusive a sujeira, as favelas, a fumaça e o desespero. Isso evidencia que a busca desenfreada de lucro gerava intensa exploração dos trabalhadores e aglomerações urbanas com péssimas condições de moradia, saúde e higiene — exatamente a alternativa E. As demais idealizam a cidade industrial (planejamento urbano eficiente em B, transporte integrado em C, grandiosidade arquitetônica em D) ou generalizam a livre iniciativa (A), contrariando o tom crítico do texto.`,
     subject: ['his'],
-    topics: ['História Contemporânea', 'Movimentos sociais', 'Questões aleatórias'],
+    topics: ['Iluminismo e Revoluções', 'Questões aleatórias'],
   },
   {
     id: 11,
@@ -242,7 +242,7 @@ Um desses estágios foi o artesanato, em que se`,
     correct: 'B',
     explanation: `No artesanato, primeiro estágio da produção, o artesão dominava todas as etapas do trabalho de forma manual, geralmente sem o uso de máquinas e de modo distinto da produção em série padronizada — por isso B está correta. A e C descrevem a maquinofatura (ritmo das máquinas e fontes de energia abundantes); D mistura máquinas e trabalho assalariado, próprios de estágios posteriores; e E, com técnicos e gerentes determinando o ritmo de produção, remete à produção fabril moderna, não ao artesanato.`,
     subject: ['his'],
-    topics: ['História Contemporânea', 'Questões aleatórias'],
+    topics: ['Iluminismo e Revoluções', 'Questões aleatórias'],
   },
   {
     id: 12,
@@ -265,7 +265,7 @@ No início do século XX, uma série de empreendimentos capitalistas chegou à r
     correct: 'C',
     explanation: `A Guerra do Contestado teve origem na chegada de ferrovias, serrarias e projetos de colonização que desorganizaram a economia tradicional da região, baseada na posse informal da terra e no extrativismo (como a erva-mate). Expulsos de suas terras e privados de seu modo de vida, posseiros e trabalhadores rurais se revoltaram — por isso C está correta. A (absorção dos rurais pela serraria) e B (desemprego causado por máquinas) não captam a raiz do conflito; D e E deslocam a questão para disputas entre coronéis ou entre operários e patrões, que não foram o cerne do movimento.`,
     subject: ['his'],
-    topics: ['Brasil República', 'Movimentos sociais', 'Questões aleatórias'],
+    topics: ['República Velha', 'Cidadania, movimentos sociais e trabalho na história', 'Questões aleatórias'],
   },
   {
     id: 13,
@@ -288,7 +288,7 @@ Compreendendo o contexto em que ocorreram os fatos apresentados, o Acre tornou-s
     correct: 'C',
     explanation: `O texto mostra que a seca e a alta valorização da borracha levaram milhares de nordestinos a migrar para o Acre, onde exploravam os seringais, formando uma população majoritariamente brasileira num território então boliviano. Essa ocupação de fato, pela crescente emigração de brasileiros, criou as condições que culminaram na incorporação do Acre ao Brasil — por isso C está correta. A está errada porque o Tratado de Petrópolis previa que o Brasil indenizasse a Bolívia (e não o contrário); B inverte o papel do Bolivian Syndicate (empresa que arrendou a região); D e E não correspondem aos fatos narrados.`,
     subject: ['his'],
-    topics: ['Brasil República', 'Questões aleatórias'],
+    topics: ['República Velha', 'Questões aleatórias'],
   },
   {
     id: 14,
@@ -311,7 +311,7 @@ A ferrovia em questão é de extrema importância para a logística do setor pri
     correct: 'C',
     explanation: `A Estrada de Ferro Carajás escoa a produção mineral da Serra dos Carajás (PA), cuja principal riqueza é o minério de ferro, um mineral metálico. O argumento que destaca a importância estratégica dessa porção do território é, portanto, sua grande capacidade de produção de minerais metálicos — alternativa C. A (produção de energia) e E (minerais energéticos, como carvão e petróleo) não correspondem ao produto de Carajás; B (minerais não metálicos) contraria o tipo de minério explorado; e D (importação de matérias-primas) inverte o fluxo, pois a ferrovia serve à exportação.`,
     subject: ['geo'],
-    topics: ['Energia e recursos naturais', 'Indústria e comércio', 'Questões aleatórias'],
+    topics: ['Transportes, comércio e serviços', 'Questões aleatórias'],
   },
   {
     id: 15,
@@ -334,7 +334,7 @@ Os impasses, resistências e desafios associados à construção da Usina Hidrel
     correct: 'B',
     explanation: `A construção de Belo Monte opõe a demanda por geração de energia (crescimento econômico) aos impactos socioambientais sobre o rio Xingu e sobre populações indígenas e ribeirinhas. Os impasses, resistências e desafios estão ligados à necessidade de equilibrar e compatibilizar o crescimento do país com os esforços de conservação ambiental — alternativa B, que abrange o cerne do debate. A apenas compara potenciais hidrelétricos; C e E tratam de recursos financeiros e mão de obra, questões secundárias; e D, embora mencione o direito indígena, restringe o problema a um único aspecto, sem contemplar toda a dimensão socioambiental em jogo.`,
     subject: ['geo'],
-    topics: ['Energia e recursos naturais', 'Meio ambiente e sustentabilidade', 'Questões aleatórias'],
+    topics: ['Energia', 'Questões ambientais', 'Questões aleatórias'],
   },
   {
     id: 16,
@@ -355,7 +355,7 @@ A principal característica da sociedade inca era a`,
     correct: 'E',
     explanation: `A sociedade inca era fortemente estratificada e hierárquica, com uma aristocracia hereditária no topo (imperador, nobres, sacerdotes) e, na base, camponeses, escravos e soldados, sem mobilidade entre os estratos. Por isso sua principal característica era a impossibilidade de mudar de estrato social somada à existência de uma aristocracia hereditária — alternativa E. A (ditadura que igualava a todos), B (igualdade social) e C (compensação pela coletivização dos bens) contrariam a estratificação descrita, e D (mobilidade social por mérito) é o oposto do caráter hereditário da elite inca.`,
     subject: ['his'],
-    topics: ['História Geral Antiga e Medieval', 'Questões aleatórias'],
+    topics: ['América', 'Questões aleatórias'],
   },
   {
     id: 17,
@@ -378,7 +378,7 @@ A questão indígena contemporânea no Brasil evidencia a relação dos usos soc
     correct: 'A',
     explanation: `A corrida de toras dos Xavante e Timbira na Avenida Paulista denunciou o cerco às terras indígenas pelo avanço do agronegócio. A questão indígena contemporânea evidencia a tensão entre a expansão territorial do agronegócio, sobretudo nas regiões Centro-Oeste e Norte, e as leis de proteção indígena e ambiental — alternativa A. B e D deslocam o conflito para grileiros ou polos industriais paulistas; C inverte a lógica das leis (as de proteção ambiental não são mais brandas); e E reduz o problema a invasões urbanas, o que não corresponde ao avanço do agronegócio sobre os territórios.`,
     subject: ['geo'],
-    topics: ['Agricultura e pecuária', 'Meio ambiente e sustentabilidade', 'Questões aleatórias'],
+    topics: ['Espaço agrário', 'Questões ambientais', 'Questões aleatórias'],
   },
   {
     id: 18,
@@ -401,7 +401,7 @@ Os povos indígenas citados possuíam tradições culturais específicas que os 
     correct: 'B',
     explanation: `Entre as tradições tupi-guarani destacavam-se a ritualização da guerra entre as tribos — ligada à honra e à vingança, inclusive em práticas antropofágicas — e o caráter semissedentário de sua organização social, com deslocamentos periódicos das aldeias. Por isso B está correta. A erra ao afirmar que o chefe era eleito pelos mais velhos; C atribui-lhes conquista militar de vasto território, o que não ocorria; D nega a agricultura, que praticavam (mandioca, milho); e E nega os rituais antropofágicos, que de fato existiam entre esses povos.`,
     subject: ['his'],
-    topics: ['Brasil Colônia', 'Questões aleatórias'],
+    topics: ['África e povos indígenas', 'Questões aleatórias'],
   },
   {
     id: 19,
@@ -453,7 +453,7 @@ Partindo das reflexões de um trabalhador que lê um livro de História, o autor
     correct: 'C',
     explanation: `No poema de Brecht, o trabalhador que lê questiona quem realmente construiu as grandes obras da história (Tebas, Babilônia, a Muralha da China, Roma). A crítica é que esses monumentos foram erguidos pelo trabalho anônimo das massas, mas a memória histórica os vincula apenas aos reis e governantes das sociedades que os construíram — por isso C está correta. A e B reproduzem justamente a visão criticada (a história dos heróis e dos nomes de reis); D e E distorcem o sentido, afirmando que os trabalhadores veem a história como incompreensível ou que tais civilizações não teriam sido estudadas.`,
     subject: ['his'],
-    topics: ['História Geral Antiga e Medieval', 'Movimentos sociais', 'Questões aleatórias'],
+    topics: ['Cidadania, movimentos sociais e trabalho na história', 'Questões aleatórias'],
   },
   {
     id: 21,
@@ -474,7 +474,7 @@ Essas ruínas foram reconhecidas como patrimônio cultural material pelo Iphan (
     correct: 'A',
     explanation: `As ruínas de Canudos foram reconhecidas como patrimônio cultural material pelo Iphan por reunirem vestígios físicos — objetos arqueológicos e elementos paisagísticos — que permitem investigar a Guerra de Canudos e o modo de vida dos antigos revoltosos. Patrimônio material refere-se a bens tangíveis, daí a alternativa A. B (acervos museológicos e bibliográficos) e C (núcleos urbanos e etnográficos) não descrevem ruínas; D (práticas e representações) e E (expressões e técnicas) remetem ao patrimônio imaterial, e não ao caráter arqueológico e paisagístico das ruínas.`,
     subject: ['his'],
-    topics: ['Brasil República', 'Questões aleatórias'],
+    topics: ['República Velha', 'Questões aleatórias'],
   },
   {
     id: 22,
@@ -524,7 +524,7 @@ A conquista da liberdade pelos afro-brasileiros na segunda metade do séc. XIX f
     correct: 'B',
     explanation: `Luiz Gama, negro e autodidata, tornou-se advogado e fez do Direito seu instrumento de luta pela liberdade e pela abolição, apesar das enormes dificuldades impostas a um intelectual negro numa sociedade escravista. Sua trajetória exemplifica tanto a extrema dificuldade de projeção dos intelectuais negros quanto a utilização do Direito como canal de luta pela liberdade — alternativa B. A e C negam qualquer possibilidade de ascensão, o que a própria biografia contraria; D atribui o êxito ao apoio das elites dominantes; e E reduz tudo a uma troca de favores, desconsiderando o protagonismo e a luta de Luiz Gama.`,
     subject: ['his'],
-    topics: ['Escravidão e abolição', 'Questões aleatórias'],
+    topics: ['Escravidão, resistência e abolição', 'Questões aleatórias'],
   },
   {
     id: 24,
@@ -604,7 +604,7 @@ A 1ª República brasileira, nos seus primórdios, precisava constituir uma figu
     correct: 'C',
     explanation: `A escolha de Tiradentes como herói cívico-religioso, em vez de figuras como Frei Caneca ou Bento Gonçalves, mostra que a República recém-proclamada precisava de um símbolo capaz de legitimá-la e congregar diferentes vertentes, já que a Proclamação de 1889 tivera poucas raízes populares. Por isso C está correta. A exagera o caráter nacionalista e republicano da Inconfidência; B liga indevidamente Tiradentes ao positivismo; D reduz tudo à semelhança física com Jesus; e E inverte o argumento, pois Frei Caneca e Bento Gonçalves foram justamente preteridos por seu caráter separatista regional.`,
     subject: ['his'],
-    topics: ['Brasil República', 'Questões aleatórias'],
+    topics: ['República Velha', 'Questões aleatórias'],
   },
   {
     id: 27,
@@ -630,7 +630,7 @@ O artigo do primeiro Código Penal Republicano naturaliza medidas socialmente ex
     correct: 'D',
     explanation: `O artigo 402 do Código Penal de 1890 criminalizava a capoeiragem, prática cultural de forte presença entre a população negra recém-libertada. Isso revela a criminalização de práticas culturais e a persistência de valores que vinculavam certos grupos ao passado de escravidão, mantendo-os sob controle e exclusão social — alternativa D. A e B tratam de manutenção da legislação do Império ou de retorno ao cativeiro, o que não se aplica; C associa a medida a uma sociedade industrializada em busca de equilíbrio; e E, embora toque na inferiorização do negro, não capta o cerne, que é a criminalização de uma prática cultural.`,
     subject: ['his'],
-    topics: ['Brasil República', 'Escravidão e abolição', 'Questões aleatórias'],
+    topics: ['Escravidão, resistência e abolição', 'República Velha', 'Questões aleatórias'],
   },
   {
     id: 28,
@@ -653,7 +653,7 @@ O discurso de Robespierre, de 5 de fevereiro de 1794, do qual o trecho transcrit
     correct: 'E',
     explanation: `O discurso de Robespierre, líder jacobino, em 1794 defendia substituir o egoísmo pela moral e os privilégios pela virtude e pela igualdade, posicionando-se em nome dos interesses populares. Ele relaciona-se aos representantes da pequena e média burguesia e às camadas populares (sans-culottes), que desejavam justiça social e direitos políticos — alternativa E. A (alta burguesia) e D (nobreza esclarecida) representam grupos que os jacobinos combatiam; B (clero ligado à alta burguesia) e C (militares que reorganizariam a França) não correspondem ao grupo jacobino-popular expresso no discurso.`,
     subject: ['his'],
-    topics: ['História Moderna', 'Questões aleatórias'],
+    topics: ['Iluminismo e Revoluções', 'Questões aleatórias'],
   },
   {
     id: 29,
@@ -678,7 +678,7 @@ Considerando o texto, qual é o elemento comum a esses dois momentos da históri
     correct: 'C',
     explanation: `Segundo Valéry, a política foi primeiro a arte de impedir as pessoas de cuidarem do que lhes diz respeito (autoritarismo excludente) e, depois, a de compeli-las a decidir sobre o que não entendem (democracia incompleta). O elemento comum aos dois momentos é que, em ambos, as decisões permanecem sob o controle de uma minoria — alternativa C. B (impedimento da participação popular) descreve bem apenas o primeiro momento, pois no segundo há participação, ainda que manipulada; e A, D e E não expressam esse traço compartilhado de concentração do poder decisório.`,
     subject: ['soc'],
-    topics: ['Cidadania e democracia', 'Questões aleatórias'],
+    topics: ['Estado, poder, cidadania e democracia', 'Questões aleatórias'],
   },
   {
     id: 30,
@@ -701,7 +701,7 @@ No século XVI, Maquiavel escreveu O Príncipe, reflexão sobre a Monarquia e a 
     correct: 'E',
     explanation: `Em O Príncipe, Maquiavel defende que a manutenção da ordem social justifica o uso pragmático da força: o governante não deve temer a fama de cruel se poucos atos de rigor mantiverem o povo unido e leal, evitando desordens maiores (assassínios e roubos). A ordem, portanto, baseia-se na conveniência entre o exercício do poder, inclusive tirânico, e a moral do príncipe, subordinada aos fins políticos — alternativa E. As demais (inércia no julgamento de crimes, bondade com mercenários, compaixão em transgressões religiosas, neutralidade diante dos servos) não traduzem o realismo político maquiaveliano de que os fins justificam os meios.`,
     subject: ['fil'],
-    topics: ['Política e Estado', 'Questões aleatórias'],
+    topics: ['Filosofia moderna: política', 'Questões aleatórias'],
   },
   {
     id: 31,
@@ -745,7 +745,7 @@ A adoção de novas políticas públicas e as mudanças jurídico-institucionais
     correct: 'D',
     explanation: `A ascensão de Getúlio Vargas foi acompanhada da criação de ampla legislação trabalhista que atendeu a diversas reivindicações históricas dos operários (jornada, férias, salário mínimo, previdência), garantindo-lhes direitos e formas de proteção — alternativa D. A erra ao afirmar que o Ministério do Trabalho deu autonomia sindical, quando o sindicalismo foi atrelado ao Estado; B e C distorcem o sentido da legislação previdenciária e da Justiça do Trabalho; e E erra sobre a CLT, que regulou as relações de trabalho sob tutela estatal e não impediu o controle do Estado sobre a classe operária.`,
     subject: ['his'],
-    topics: ['Brasil República', 'Movimentos sociais', 'Questões aleatórias'],
+    topics: ['Era Vargas', 'Cidadania, movimentos sociais e trabalho na história', 'Questões aleatórias'],
   },
   {
     id: 33,
@@ -768,7 +768,7 @@ Segundo o texto, os conflitos sociais ocorridos no início dos anos 1960 decorre
     correct: 'B',
     explanation: `O texto aponta que, antes de 1964, a inflação corroía salários e empregos, gerando intensa mobilização e greves. Esses conflitos decorreram, principalmente, das contradições econômicas do modelo desenvolvimentista (a industrialização acelerada do período JK), que concentrou renda e gerou desequilíbrios sociais agravados pela inflação — alternativa B. A atribui tudo à manipulação do governo Goulart; C e D superestimam ou invertem o papel dos sindicatos e das classes dominantes; e E foca na recusa sindical a mudanças legais, que não é a causa estrutural apontada pelo texto.`,
     subject: ['his'],
-    topics: ['Brasil República', 'Questões aleatórias'],
+    topics: ['República Populista', 'Questões aleatórias'],
   },
   {
     id: 34,
@@ -791,7 +791,7 @@ O filósofo Michel Foucault (séc. XX) inova ao pensar a política e a lei em re
     correct: 'E',
     explanation: `Para Foucault, a lei não nasce da natureza nem de uma razão pacificadora, mas das batalhas reais, das conquistas, dos massacres e das relações de força. Assim, a finalidade das leis é organizar e institucionalizar as relações de poder na sociedade e entre os Estados, cristalizando resultados de conflitos — alternativa E. A, B, C e D partem de uma visão idealizada ou contratualista da lei como instrumento de paz, ética ou contenção da agressividade, justamente o que Foucault recusa ao enfatizar o poder e o conflito como origem do direito.`,
     subject: ['fil'],
-    topics: ['Filosofia Contemporânea', 'Política e Estado', 'Questões aleatórias'],
+    topics: ['Filosofia contemporânea', 'Questões aleatórias'],
   },
   {
     id: 35,
@@ -835,7 +835,7 @@ Essa música fez parte de um importante espetáculo teatral, que estreou no ano 
     correct: 'D',
     explanation: `A canção Opinião, de Zé Ketti, apresentada em 1964 no início da ditadura militar, expressa a resistência e a voz dos excluídos ("aqui do morro eu não saio não"). O papel da MPB nesse contexto foi o de denúncia da situação social e política do país, funcionando como instrumento de crítica e resistência — alternativa D. A (entretenimento para intelectuais) e B (valorização do progresso) banalizam a canção; C inverte o sentido, pois a música valoriza a resistência popular em vez de criticá-la; e E associa a MPB ao apoio à ditadura, o contrário do que a letra expressa.`,
     subject: ['soc'],
-    topics: ['Cultura e identidade', 'Questões aleatórias'],
+    topics: ['Cultura, identidade e diversidade', 'Questões aleatórias'],
   },
   {
     id: 36,
@@ -860,7 +860,7 @@ A TV, a partir da década de 1950, entrou nos lares brasileiros, provocando muda
     correct: 'B',
     explanation: `O texto apresenta a TV como veículo de utilidade pública a favor da democracia. Isso se evidencia quando a imprensa televisiva, ao investigar e expor casos de corrupção política em vários governos, cumpre papel fiscalizador e fortalece o controle social sobre o poder — alternativa B. A, D e E associam a TV ao autoritarismo (governo Vargas, fechamento do parlamento, obras faraônicas dos militares), contrariando a ideia de serviço à democracia; e C afirma que a TV maquiou indicadores sociais, o oposto de utilidade pública.`,
     subject: ['soc'],
-    topics: ['Cultura e identidade', 'Cidadania e democracia', 'Questões aleatórias'],
+    topics: ['Meios de comunicação, tecnologia e sociedade', 'Estado, poder, cidadania e democracia', 'Questões aleatórias'],
   },
   {
     id: 37,
@@ -881,7 +881,7 @@ Constitui o exemplo mais expressivo desse novo conjunto de redes informacionais 
     correct: 'A',
     explanation: `O novo meio de comunicação que supera os anteriores e favorece a democratização da vida social e política — criando mecanismos eletrônicos de participação e ampla disseminação de informações — é a Internet, núcleo das redes informacionais contemporâneas, por isso A está correta. A fibra ótica (B) é apenas infraestrutura de transmissão; a TV digital (C) e a telefonia móvel (D) são meios mais restritos; e a portabilidade telefônica (E) é um serviço, não um novo meio de comunicação em rede.`,
     subject: ['soc'],
-    topics: ['Cidadania e democracia', 'Cultura e identidade', 'Questões aleatórias'],
+    topics: ['Meios de comunicação, tecnologia e sociedade', 'Questões aleatórias'],
   },
   {
     id: 38,
@@ -952,7 +952,7 @@ A análise do trecho permite identificar que o poeta romântico Shelley (1792-18
     correct: 'E',
     explanation: `O poema de Shelley denuncia a contradição da Revolução Industrial: os trabalhadores ingleses produzem a riqueza (tecem roupas, cultivam, alimentam), mas vivem na miséria, enquanto os parasitas (patrões) usufruem do que não produziram. A contradição está, portanto, na riqueza que não era usufruída por aqueles que a produziam — alternativa E. A e B restringem a crítica à pobreza ou ao salário; C inverte a relação (burguesia financiada pelo proletariado); e D distorce ao apresentar o trabalho como garantia de liberdade, quando o sentido do poema é a exploração, não a liberdade.`,
     subject: ['his'],
-    topics: ['História Contemporânea', 'Movimentos sociais', 'Questões aleatórias'],
+    topics: ['Iluminismo e Revoluções', 'Questões aleatórias'],
   },
   {
     id: 41,
@@ -979,7 +979,7 @@ A homofobia é a rejeição e menosprezo à orientação sexual do outro e, muit
     correct: 'D',
     explanation: `A perseguição histórica à sodomia como pecado nefando, punida desde a Inquisição, revela que as condenações, perseguições e assassinatos de homossexuais estão associados a um passado histórico marcado pela demonização do corpo e por formas recorrentes de tabus e intolerância, que se perpetuam na homofobia atual — alternativa D. A e B atribuem a violência à baixa representatividade política ou à falência da democracia; C acusa erroneamente a Constituição de 1988 de excluir os homossexuais; e E restringe a homofobia a uma política eugênica estatal, perdendo a dimensão histórico-cultural de longa duração.`,
     subject: ['soc'],
-    topics: ['Direitos humanos', 'Cultura e identidade', 'Questões aleatórias'],
+    topics: ['Gênero e sexualidade', 'Violência, direitos humanos e controle social', 'Questões aleatórias'],
   },
   {
     id: 42,
@@ -1005,7 +1005,7 @@ Segundo o texto, durante a ditadura chilena, na década de 1970, a relação ent
     correct: 'E',
     explanation: `O texto mostra que, na ditadura chilena, os tribunais rejeitaram milhares de habeas corpus e deram apenas trâmite formal aos casos de desaparecidos, garantindo a impunidade dos agentes do Estado. Isso caracteriza a subordinação do poder Judiciário aos interesses políticos dominantes (do Executivo ditatorial), e não sua independência — alternativa E. A e B afirmam autonomia ou independência, contrariadas pelos fatos; C inverte o sentido (interferência jurídica sobre o Executivo); e D fala em transferência das funções dos juízes ao chefe de Estado, o que não corresponde à cumplicidade descrita.`,
     subject: ['his'],
-    topics: ['História Contemporânea', 'Questões aleatórias'],
+    topics: ['Guerra Fria e descolonização', 'Questões aleatórias'],
   },
   {
     id: 43,
@@ -1028,7 +1028,7 @@ O exemplo mencionado permite identificar um aspecto da adoção de novas tecnolo
     correct: 'C',
     explanation: `O exemplo do banco que cobra para desestimular o atendimento humano ilustra a adoção de novas tecnologias (automação) na economia capitalista contemporânea com o objetivo de reduzir custos, substituindo funcionários por máquinas. A consequência social é a insegurança e a precarização do emprego (desemprego estrutural/tecnológico) — alternativa C. A (estabilidade no trabalho), D (redução do desemprego) e E (aparecimento de empregos) contrariam o efeito descrito; e B, embora cite o enfraquecimento dos sindicatos, afirma pleno emprego, incompatível com a eliminação de postos de trabalho.`,
     subject: ['soc'],
-    topics: ['Trabalho e economia', 'Questões aleatórias'],
+    topics: ['Trabalho e sociedade', 'Questões aleatórias'],
   },
   {
     id: 44,
@@ -1051,7 +1051,7 @@ O texto, ao evocar a dimensão histórica do processo de formação da ética na
     correct: 'D',
     explanation: `Para Severino, na ética contemporânea o sujeito é histórico-social, de modo que suas ações individuais só podem ser avaliadas dentro da relação social coletiva, entrelaçando-se necessariamente com a política. O texto ressalta, assim, o sentido coletivo e político das ações humanas individuais — alternativa D. A reduz a ética a ideologias político-partidárias; B a fundamenta em preceitos metafísicos; C a desassocia da cultura; e E a submete ao julgamento dos políticos eleitos — todas contrariando a dimensão histórico-social e coletiva defendida pelo autor.`,
     subject: ['fil'],
-    topics: ['Ética e moral', 'Filosofia Contemporânea', 'Questões aleatórias'],
+    topics: ['Ética e moral', 'Questões aleatórias'],
   },
   {
     id: 45,
@@ -1076,7 +1076,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'D',
     explanation: `Na tirinha da Mafalda e na definição de democracia (soberania exercida pelo povo), a suposta vacina contra o despotismo simboliza os mecanismos democráticos que previnem o poder absoluto e arbitrário. Seu objetivo é evitar a escolha e a ascensão de governantes autoritários, protegendo a soberania popular e a distribuição equilibrada do poder — alternativa D. A restringe o sentido ao nepotismo; e B, C e E vão contra a própria democracia (reduzir instituições constitucionais, combater a distribuição equilibrada do poder e restringir o Parlamento), sendo incompatíveis com uma vacina contra o despotismo.`,
     subject: ['fil'],
-    topics: ['Política e Estado', 'Questões aleatórias'],
+    topics: ['Filosofia moderna: política', 'Questões aleatórias'],
   },
   {
     id: 46,
@@ -1094,7 +1094,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'B',
     explanation: `A febre amarela é causada por vírus, por isso só a vacina (e não soro ou antibiótico) atua preventivamente contra ela. Contra a peçonha da picada de cobra usa-se o soro antiofídico, que neutraliza as toxinas injetadas. A leptospirose é bacteriana (bactéria Leptospira sp.), sendo combatida com antibiótico. A alternativa B é a única que associa corretamente: vacina para a febre amarela (viral), soro antiofídico caso seja picado por cobra e antibiótico caso haja contato com a Leptospira. As demais trocam as medidas, como usar antibiótico contra vírus ou soro de forma inadequada.`,
     subject: ['bio'],
-    topics: ['Saúde pública & parasitologia (doenças, vetores, prevenção)', 'Questões aleatórias'],
+    topics: ['Imunologia', 'Microbiologia e doenças', 'Questões aleatórias'],
   },
   {
     id: 47,
@@ -1112,7 +1112,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'A',
     explanation: `Ondas de rádio viajam em linha reta num meio homogêneo, mas a Terra é curva, de modo que o sinal tenderia a escapar para o espaço. A ionosfera é uma camada condutora que funciona como um espelho para certas ondas de rádio: ela as reflete de volta à superfície, permitindo que o sinal contorne a curvatura terrestre e alcance regiões distantes. Trata-se, portanto, do fenômeno da reflexão (A). Refração seria o desvio ao mudar de meio e difração o contorno de obstáculos, fenômenos que não explicam o retorno do sinal ao solo.`,
     subject: ['fis'],
-    topics: ['Ondulatória', 'Questões aleatórias'],
+    topics: ['Ondulatória e acústica', 'Questões aleatórias'],
   },
   {
     id: 48,
@@ -1149,7 +1149,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'E',
     explanation: `O texto mostra que a cárie é provocada por bactérias que, na presença de restos de açúcar (carboidratos fermentáveis) mal removidos pela escovação, produzem ácidos que corroem o esmalte. Assim, os fatores determinantes são o consumo excessivo de açúcares e a má higienização bucal, que favorecem a proliferação bacteriana (alternativa E). O flúor e o cálcio inibem o processo, de modo que sua falta não é a causa principal (A e D invertem o papel do flúor). O xilitol não é um açúcar fermentável prejudicial (B), e a cárie não decorre apenas de saliva desbalanceada (C).`,
     subject: ['bio'],
-    topics: ['Saúde pública & parasitologia (doenças, vetores, prevenção)', 'Questões aleatórias'],
+    topics: ['Microbiologia e doenças', 'Questões aleatórias'],
   },
   {
     id: 50,
@@ -1167,7 +1167,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'A',
     explanation: `Cientificamente, calor é energia em trânsito e temperatura mede a agitação das partículas; os conceitos do senso comum falham em certas situações. Durante a ebulição (mudança de estado), o sistema recebe calor continuamente, mas a temperatura permanece constante, pois a energia é usada para romper as ligações entre as moléculas e não para aquecê-las. A situação A (a temperatura da água pode ficar constante enquanto ferve) evidencia essa limitação dos conceitos corriqueiros. As demais alternativas descrevem usos cotidianos coerentes dos termos, sem expor contradição.`,
     subject: ['fis'],
-    topics: ['Termologia', 'Questões aleatórias'],
+    topics: ['Calorimetria, termometria e dilatação', 'Questões aleatórias'],
   },
   {
     id: 51,
@@ -1203,7 +1203,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'C',
     explanation: `Todos os fornos operaram à potência máxima e elevaram a temperatura das amostras em 10 °C. O forno mais eficiente é o que realiza esse aquecimento desperdiçando menos energia, ou seja, entregando a energia necessária às amostras no menor tempo. Como P = energia/tempo e a potência é máxima, menor tempo indica melhor aproveitamento da energia fornecida. Logo, o forno mais eficiente forneceu a maior quantidade de energia em menos tempo (C). As massas e os calores específicos variam entre as amostras, mas a eficiência se avalia pela rapidez em entregar a energia útil.`,
     subject: ['fis'],
-    topics: ['Termologia', 'Questões aleatórias'],
+    topics: ['Calorimetria, termometria e dilatação', 'Questões aleatórias'],
   },
   {
     id: 53,
@@ -1258,7 +1258,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'C',
     explanation: `As três operações citadas são separações físicas de misturas. O eletroímã que retira os materiais metálicos realiza uma separação magnética (imantação). O esmagamento da cana nas moendas para retirar o caldo açucarado é uma extração. A passagem do caldo primário por filtros é uma filtração. Logo, a sequência correta é separação magnética, extração e filtração (C). A combustão (presente em B e D) é transformação química, não separação física, o que elimina essas opções.`,
     subject: ['qui'],
-    topics: ['Química Geral', 'Questões aleatórias'],
+    topics: ['Propriedades da matéria e separação de misturas', 'Questões aleatórias'],
   },
   {
     id: 56,
@@ -1277,7 +1277,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'A',
     explanation: `A figura representa a energia geotérmica: em regiões onde o magma está próximo da superfície, o calor interno da Terra aquece a água subterrânea, gerando vapor que impulsiona turbinas e produz eletricidade. Portanto, a fonte de energia é o calor gerado pela circulação do magma no subsolo (A). Não há queima de combustíveis fósseis (D) nem dependência de radiação ultravioleta (C); erupções e cinzas vulcânicas (B e E) não são a fonte do calor aproveitado.`,
     subject: ['fis'],
-    topics: ['Termologia', 'Questões aleatórias'],
+    topics: ['Energia: geração e transformação', 'Questões aleatórias'],
   },
   {
     id: 57,
@@ -1295,7 +1295,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'B',
     explanation: `A eutrofização é o enriquecimento da água por nutrientes (presentes nos esgotos), que provoca crescimento bacteriano excessivo e consumo do oxigênio dissolvido. Para evitar a queda de oxigênio, deve-se remover do esgoto os materiais ricos em nutrientes antes do lançamento nos rios, reduzindo sua concentração (B). Aquecer a água (A) e aumentar a solubilidade dos dejetos (E) acelerariam a decomposição e piorariam o consumo de O₂; adicionar bactérias anaeróbicas (C) não resolve o problema; trocar por biodegradáveis (D) ainda forneceria nutrientes às bactérias.`,
     subject: ['bio'],
-    topics: ['Ecologia', 'Questões aleatórias'],
+    topics: ['Impactos ambientais e conservação', 'Questões aleatórias'],
   },
   {
     id: 58,
@@ -1314,7 +1314,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'D',
     explanation: `Ao nível do mar a água ferve a 100 °C porque sua pressão de vapor iguala a pressão externa. Ao puxar o êmbolo da seringa fechada, aumenta-se o volume e, consequentemente, diminui-se a pressão sobre o líquido em seu interior. Com a pressão menor, o ponto de ebulição cai, e a água, ainda quente, volta a ferver mesmo sem receber calor. Logo, o deslocamento do êmbolo proporciona uma queda de pressão que diminui o ponto de ebulição (D). Não há entrada de calor (A) nem aquecimento por atrito (B).`,
     subject: ['fis'],
-    topics: ['Termologia', 'Questões aleatórias'],
+    topics: ['Calorimetria, termometria e dilatação', 'Questões aleatórias'],
   },
   {
     id: 59,
@@ -1332,7 +1332,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'D',
     explanation: `O efeito estufa e as ilhas de calor elevam a temperatura nas áreas urbanas, pois gases e materiais como asfalto e concreto retêm calor e o reemitem como radiação térmica. Com ambientes mais quentes, cresce a necessidade de refrigeração (ar-condicionado) em indústrias e residências, o que aumenta o consumo de energia elétrica (D). As alternativas que preveem diminuição do consumo contrariam o aquecimento descrito, e o bloqueio da luz solar (B) não é o mecanismo do maior gasto energético.`,
     subject: ['fis'],
-    topics: ['Termologia', 'Questões aleatórias'],
+    topics: ['Propagação de calor', 'Questões aleatórias'],
   },
   {
     id: 60,
@@ -1368,7 +1368,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'C',
     explanation: `O vazamento de óleo formou uma película na superfície da água, prejudicando as trocas gasosas e a fotossíntese das algas (base da cadeia alimentar), e contaminou fauna e flora, afetando inclusive a pesca. Isso mostra que todas as formas de vida e o ambiente estão interligados: um dano na base ou no meio repercute em toda a cadeia e nas atividades humanas. Portanto, a situação ilustra a interdependência das diversas formas de vida (animal, vegetal e outras) e o seu habitat (C). As demais negam essa interdependência ou a suposta resistência do ambiente, contrariando o texto.`,
     subject: ['bio'],
-    topics: ['Ecologia', 'Questões aleatórias'],
+    topics: ['Impactos ambientais e conservação', 'Ecologia', 'Questões aleatórias'],
   },
   {
     id: 62,
@@ -1387,7 +1387,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'B',
     explanation: `No experimento, o papel com dobras (que simula as microvilosidades) absorveu mais água (12 mL) que o papel liso (8 mL), embora ambos ocupassem a mesma área externa (10 × 5 cm). As dobras aumentam a área de contato disponível para a absorção. Por analogia, as microvilosidades das células intestinais aumentam enormemente a superfície de absorção, permitindo captar mais nutrientes (B). Elas não servem apenas para manter o volume (A), diminuir a velocidade (C) ou aumentar o tempo (D) de absorção.`,
     subject: ['bio'],
-    topics: ['Fisiologia Humana', 'Questões aleatórias'],
+    topics: ['Fisiologia humana', 'Questões aleatórias'],
   },
   {
     id: 63,
@@ -1443,7 +1443,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'E',
     explanation: `Analisando as etapas: IV (H3A ⇌ 3 H+ + A3-) é a ionização do ácido cítrico, molécula que libera H+; I (NaHCO3 → Na+ + HCO₃-) é a dissociação iônica do sal; III (HCO₃- + H+ ⇌ H₂CO₃) é a formação do ácido carbônico; II (H₂CO₃ ⇌ H₂O + CO₂) é a liberação do gás carbônico, responsável pela efervescência. Assim, ionização, dissociação iônica, formação do ácido e liberação do gás correspondem, respectivamente, a IV, I, III e II (E).`,
     subject: ['qui'],
-    topics: ['Físico-química', 'Questões aleatórias'],
+    topics: ['Funções inorgânicas', 'Questões aleatórias'],
   },
   {
     id: 66,
@@ -1461,7 +1461,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'B',
     explanation: `Na respiração celular, a função do O₂ é ser o aceptor final de elétrons, ou seja, atuar como agente oxidante ao fim da cadeia respiratória. Para substituí-lo, outras substâncias precisam também ser oxidantes (capazes de receber elétrons). Entre as opções, o enxofre (S) e o nitrato (NO₃-) são oxidantes usados como aceptores finais na respiração anaeróbica de certas bactérias (B). O H₂ é redutor (doador de elétrons) e o CH₄ é produto já reduzido, por isso não desempenham o papel do O₂, o que elimina as demais alternativas.`,
     subject: ['bio'],
-    topics: ['Citologia', 'Questões aleatórias'],
+    topics: ['Bioenergética', 'Questões aleatórias'],
   },
   {
     id: 67,
@@ -1479,7 +1479,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'D',
     explanation: `A reação CH₄(g) + H₂O(v) + calor ⇌ CO(g) + 3 H₂(g) é endotérmica no sentido direto (absorve calor). Isso permite armazenar a energia solar na forma de ligações químicas: a energia captada é usada para formar substâncias combustíveis (CO e H₂). Mais tarde, a reação inversa (exotérmica) libera essa energia como calor, que pode ser aproveitado para realizar trabalho útil. Portanto, é uma estratégia satisfatória, pois a reação direta ocorre com absorção de calor e promove a formação de combustíveis utilizáveis posteriormente (D).`,
     subject: ['qui'],
-    topics: ['Físico-química', 'Questões aleatórias'],
+    topics: ['Termoquímica', 'Questões aleatórias'],
   },
   {
     id: 68,
@@ -1517,7 +1517,7 @@ Uma suposta "vacina" contra o despotismo, em um contexto democrático, tem por o
     correct: 'D',
     explanation: `Calcula-se a energia liberada por litro de cada álcool. Ambos têm densidade 0,79 g/mL = 790 g/L. Etanol (C2H6O, M = 46 g/mol): 790/46 ≈ 17,2 mol/L; energia = 17,2 × 1367 ≈ 23 500 kJ ≈ 23,5 MJ/L. Metanol (CH4O, M = 32 g/mol): 790/32 ≈ 24,7 mol/L; energia = 24,7 × 726 ≈ 17 900 kJ ≈ 17,9 MJ/L. Como o custo de produção é o mesmo, o etanol é mais vantajoso por fornecer mais energia por litro (≈ 23,5 MJ/L), alternativa D.`,
     subject: ['qui'],
-    topics: ['Físico-química', 'Questões aleatórias'],
+    topics: ['Termoquímica', 'Questões aleatórias'],
   },
   {
     id: 70,
@@ -1557,7 +1557,7 @@ Considerando que o modelo de maior potência da versão 220 V da torneira suprem
     correct: 'E',
     explanation: `As bactérias têm alto poder de reprodução (divisão assexuada), originando rapidamente milhares de descendentes geneticamente idênticos, o que favorece a colonização da córnea. Além disso, apresentam grande diversidade metabólica, realizando tanto processos aeróbicos quanto anaeróbicos para obter energia, o que lhes permite sobreviver conforme a oxigenação do tecido diminui. Essas características (reprodução rápida e versatilidade metabólica) explicam a instalação e o avanço da infecção (E). As demais atribuem a adaptação a mecanismos incorretos ou a uma única via, como só mutação ou só fermentação.`,
     subject: ['bio'],
-    topics: ['Saúde pública & parasitologia (doenças, vetores, prevenção)', 'Questões aleatórias'],
+    topics: ['Microbiologia e doenças', 'Questões aleatórias'],
   },
   {
     id: 72,
@@ -1576,7 +1576,7 @@ Considerando que o modelo de maior potência da versão 220 V da torneira suprem
     correct: 'E',
     explanation: `A DBO é a massa de O₂ necessária para oxidar totalmente a matéria orgânica presente em 1 litro de água. A oxidação do açúcar (fórmula mínima CH₂O, M = 30 g/mol) é CH₂O + O₂ → CO₂ + H₂O, na proporção de 1 mol de CH₂O para 1 mol de O₂. Para 10 mg de CH₂O, a massa de O₂ (M = 32 g/mol) é 10 × (32/30) ≈ 10,7 mg. Logo, a DBO aumenta em aproximadamente 10,7 mg de O₂/litro (E).`,
     subject: ['qui'],
-    topics: ['Química Ambiental', 'Questões aleatórias'],
+    topics: ['Estequiometria e cálculos químicos', 'Química ambiental', 'Questões aleatórias'],
   },
   {
     id: 73,
@@ -1594,7 +1594,7 @@ Considerando que o modelo de maior potência da versão 220 V da torneira suprem
     correct: 'C',
     explanation: `Na pasta de 6 kg, o PbSO4 corresponde a 60%: 0,60 × 6000 g = 3600 g. A reação é PbSO4 + Na2CO₃ → PbCO3 + Na2SO₄ (proporção 1:1). Massas molares: PbSO4 = 207 + 32 + 64 = 303 g/mol; PbCO3 = 207 + 12 + 48 = 267 g/mol. Mols de PbSO4 = 3600/303 ≈ 11,88 mol, que geram teoricamente 11,88 × 267 ≈ 3172 g de PbCO3. Com rendimento de 91%: 3172 × 0,91 ≈ 2887 g ≈ 2,9 kg (C).`,
     subject: ['qui'],
-    topics: ['Química Geral', 'Questões aleatórias'],
+    topics: ['Estequiometria e cálculos químicos', 'Questões aleatórias'],
   },
   {
     id: 74,
@@ -1631,7 +1631,7 @@ Considerando que o modelo de maior potência da versão 220 V da torneira suprem
     correct: 'B',
     explanation: `Associando os trechos aos ecossistemas: I (pinheiros/Araucária e gralha-azul) corresponde à Mata de Araucárias; II (árvores de troncos tortuosos e cascas grossas, usadas em carvoarias) ao Cerrado; III (palmeiras das quais se extraem substâncias de valor econômico) à Zona dos Cocais; IV (região árida com plantas espinhosas) à Caatinga. Na ordem I, II, III e IV, tem-se Mata de Araucárias, Cerrado, Zona dos Cocais e Caatinga (B).`,
     subject: ['bio'],
-    topics: ['Biomas do Brasil', 'Questões aleatórias'],
+    topics: ['Ecologia', 'Questões aleatórias'],
   },
   {
     id: 76,
@@ -1650,7 +1650,7 @@ Considerando que o modelo de maior potência da versão 220 V da torneira suprem
     correct: 'C',
     explanation: `A variedade transgênica possui um gene dominante condicional que impede as fêmeas de voar, pois o músculo das asas não se desenvolve. Como somente as fêmeas de Aedes aegypti transmitem a dengue e, sem voar, não se dispersam nem picam, a liberação de machos transgênicos introduz esse alelo na população: a prole fêmea resultante não voa. Com isso, dificulta-se a reprodução e a atuação do vetor natural da doença, reduzindo os casos de dengue (C). Os machos não se alimentam de sangue nem transmitem a doença, o que elimina as alternativas sobre resistência ou alimentação.`,
     subject: ['bio'],
-    topics: ['Biotecnologia', 'Saúde pública & parasitologia (doenças, vetores, prevenção)', 'Questões aleatórias'],
+    topics: ['Biotecnologia', 'Questões aleatórias'],
   },
   {
     id: 77,
@@ -1669,7 +1669,7 @@ Considerando que o modelo de maior potência da versão 220 V da torneira suprem
     correct: 'D',
     explanation: `O monofluoracetato de sódio é o sal do ácido monofluoracético. Ele se forma por uma reação de neutralização (ácido + base), em que o ácido monofluoracético reage com hidróxido de sódio (NaOH): o H+ do grupo carboxila é substituído por Na+, formando o sal e liberando água (D). Não se trata de desidratação (A) nem de simples troca de íons sem base, e o processo ocorre com formação de água, o que elimina as demais opções.`,
     subject: ['qui'],
-    topics: ['Química Orgânica', 'Questões aleatórias'],
+    topics: ['Funções inorgânicas', 'Questões aleatórias'],
   },
   {
     id: 78,
@@ -1687,7 +1687,7 @@ Considerando que o modelo de maior potência da versão 220 V da torneira suprem
     correct: 'B',
     explanation: `O celular que não recebeu as ligações estava na caixa de metal. Um invólucro metálico funciona como uma gaiola de Faraday: por blindagem eletrostática, o campo elétrico das ondas eletromagnéticas do sinal não penetra no interior do condutor, impedindo a comunicação. Por isso, o físico diria que o aparelho não funcionou devido à blindagem eletrostática proporcionada pelo metal (B). A caixa de madeira, por ser isolante, não blinda o sinal, razão pela qual o outro telefone funcionou.`,
     subject: ['fis'],
-    topics: ['Eletricidade', 'Questões aleatórias'],
+    topics: ['Eletrostática', 'Questões aleatórias'],
   },
   {
     id: 79,
@@ -1705,7 +1705,7 @@ Considerando que o modelo de maior potência da versão 220 V da torneira suprem
     correct: 'D',
     explanation: `A combustão completa do octano é 2 C8H18 + 25 O₂ → 16 CO₂ + 18 H₂O. Dividindo por 2 para referir tudo a 1 mol de octano: C8H18 + 12,5 O₂ → 8 CO₂ + 9 H₂O. Assim, o coeficiente estequiométrico do oxigênio é 12,5 para 1 do octano (D). Não há liberação de O₂ (ele é consumido) nem consumo de água (ela é produzida), e para 1 octano formam-se 8 CO₂ (e não 9) e 9 H₂O, o que elimina as outras alternativas.`,
     subject: ['qui'],
-    topics: ['Química Geral', 'Questões aleatórias'],
+    topics: ['Reações químicas e balanceamento', 'Questões aleatórias'],
   },
   {
     id: 80,
@@ -1728,7 +1728,7 @@ representado em:`,
     correct: 'E',
     explanation: `Nos organofosforados do Tipo B, o oxigênio da dupla ligação com o fósforo (P=O) é substituído por enxofre, resultando em P=S. O grupo etoxi é -O-CH₂CH₃. A estrutura E apresenta justamente a ligação P=S e dois grupos etoxi (OCH2CH₃) ligados ao fósforo, satisfazendo as duas condições do enunciado. A estrutura A possui P=O, e as demais não combinam a ligação P=S com grupos etoxi, por isso E é a correta.`,
     subject: ['qui'],
-    topics: ['Química Orgânica', 'Questões aleatórias'],
+    topics: ['Funções orgânicas e nomenclatura', 'Questões aleatórias'],
   },
   {
     id: 81,
@@ -1765,7 +1765,7 @@ representado em:`,
     correct: 'A',
     explanation: `A reação M²+ + 2 HR ⇌ MR2 + 2 H+ mostra que a molécula orgânica HR cede dois íons H+ e capta o cátion metálico M²+, formando MR2. Como a parte polar da molécula troca o íon H+ pelo cátion do metal, X e Y atuam como extratores catiônicos (captam o cátion). Logo, a alternativa correta é A. As opções que falam em extratores aniônicos contrariam a troca pelo cátion, e a troca não envolve o íon PO2²⁻ nem uma parte apolar, o que elimina as demais.`,
     subject: ['qui'],
-    topics: ['Físico-química', 'Questões aleatórias'],
+    topics: ['Ligações químicas e forças intermoleculares', 'Questões aleatórias'],
   },
   {
     id: 83,
@@ -1784,7 +1784,7 @@ representado em:`,
     correct: 'B',
     explanation: `A concentração em mol/L é C = n/V. O número de mols de sacarose é n = massa/massa molar = 3,42/342 = 0,01 mol. O volume é 50 mL = 0,05 L. Portanto, C = 0,01/0,05 = 0,2 mol/L (B).`,
     subject: ['qui'],
-    topics: ['Físico-química', 'Questões aleatórias'],
+    topics: ['Soluções e concentração', 'Questões aleatórias'],
   },
   {
     id: 84,
@@ -1825,7 +1825,7 @@ da luz ao passar do ar para esse meio?`,
     correct: 'A',
     explanation: `O alumínio é tóxico às raízes e sua disponibilidade aumenta em solos ácidos (baixo pH). O cimento-solo, rico em cálcio, de caráter básico, eleva o pH do solo, tornando-o menos ácido; com pH mais alto, o Al³+ fica menos solúvel e menos disponível, inibindo sua toxicidade. Assim, a mistura inibe a toxicidade do alumínio elevando o pH dessas áreas (A), o que favorece as espécies invasoras em detrimento das nativas, adaptadas à alta concentração de alumínio.`,
     subject: ['qui'],
-    topics: ['Química Ambiental', 'Questões aleatórias'],
+    topics: ['Química ambiental', 'Questões aleatórias'],
   },
   {
     id: 86,
@@ -1880,7 +1880,7 @@ da luz ao passar do ar para esse meio?`,
     correct: 'D',
     explanation: `O ritmo circadiano (ciclo de cerca de 24 h) é mantido por pistas ambientais, principalmente o ciclo claro-escuro (presença e ausência de luz solar). Isolada numa sala totalmente escura por mais de quinze dias, a pessoa perdeu essas pistas: passou a dormir e acordar em horários deslocados e perdeu a noção da passagem dos dias. Isso mostra que o ritmo biológico foi alterado pela ausência de luz e de contato com o mundo externo, já que a noção de tempo de um dia é modulada pela presença ou ausência do sol (D).`,
     subject: ['bio'],
-    topics: ['Fisiologia Humana', 'Questões aleatórias'],
+    topics: ['Fisiologia humana', 'Questões aleatórias'],
   },
   {
     id: 89,
@@ -1898,7 +1898,7 @@ da luz ao passar do ar para esse meio?`,
     correct: 'D',
     explanation: `O local tem alta incidência solar o ano todo, mas é um vale pequeno cercado de altas montanhas de difícil acesso. A energia eólica exige ventos adequados, não garantidos num vale cercado; a nuclear é inviável e de risco; a termelétrica polui; e a hidrelétrica de um rio pequeno teria pouca vazão e grande impacto, comprometendo o abastecimento de água e a pesca. A opção de menor impacto ambiental, aproveitando a característica mais favorável (sol abundante), é a energia fotovoltaica, que converte a luz solar que chega à superfície em eletricidade (D).`,
     subject: ['fis'],
-    topics: ['Trabalho, energia e potência', 'Questões aleatórias'],
+    topics: ['Energia: geração e transformação', 'Questões aleatórias'],
   },
   {
     id: 90,
@@ -1916,7 +1916,7 @@ da luz ao passar do ar para esse meio?`,
     correct: 'C',
     explanation: `No aterro sanitário controlado, o lixo orgânico e inorgânico é compactado e encoberto, e o chorume (líquido tóxico da decomposição) é captado e canalizado para ser tratado e neutralizado, evitando a contaminação do solo e da água que ocorria no lixão. Esses procedimentos resolvem as problemáticas abordadas no texto (contaminação pelo chorume), o que corresponde à alternativa C. Incineração (A), separação do lixo hospitalar (B) ou impedir totalmente a formação de chorume (D) não descrevem o funcionamento do aterro apresentado.`,
     subject: ['qui'],
-    topics: ['Química Ambiental', 'Questões aleatórias'],
+    topics: ['Química ambiental', 'Questões aleatórias'],
   },
 ];
 
