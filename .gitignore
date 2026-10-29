@@ -11,8 +11,8 @@ sources/**/*.png
 sources/**/*.jpg
 images_out/**/*.png
 images_out/**/*.jpg
-# FUVEST official sources — provenance tracked in sources_fuvest/SOURCES.md
-sources_fuvest/**/*.pdf
+# FUVEST official sources: committed in-repo (62MB) so the sandboxed Codex env has them,
+# since it has no web access. Provenance in sources_fuvest/SOURCES.md.
 # untrusted downloaded archives / build artifacts / packaged deliverables
 datas/
 build/
