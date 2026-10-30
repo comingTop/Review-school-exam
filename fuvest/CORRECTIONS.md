@@ -141,6 +141,29 @@ below describe the state before the corrections.
   `git diff --check` pass. Official pages, a figure contact sheet and all 30
   alternative crops were visually inspected. Nothing deferred for this year.
 
+### 2023 — completed text and crop assets; two attachment limitations
+
+- Version V is confirmed against the full V/K/Q/X/Z set: 90/90 V entries,
+  next best X 25/90. No answer letters changed.
+- 90 stems, 268 alternative values and all 90 explanations corrected/rewritten.
+  Restored the shared passages, mathematical functions and fractions, q78's
+  force ratio, q85's ranking formula and source table semantics.
+- 62 crop assets produced, including all 15 image-typed alternatives. All 61
+  references actually present in the TypeScript resolve with exact dimensions.
+  Full q14 ion crops include the brackets and charges outside the embedded raster.
+  Crop/page provenance is in `fuvest/2023/images/SOURCES.json`.
+- **q7–8 attachment limitation:** the shared Armandinho strip was located and
+  cropped confidently to `fuvest/2023/images/q07_source_1.jpg`, but neither
+  existing question object has an `images` property. The hard rule to preserve
+  property layout prevents adding that field. The asset is delivered; these two
+  questions still need client-side attachment/permission to add the property.
+  No figure was guessed or substituted. All existing references are complete.
+- `node tools/check_fuvest.mjs --year=2023` passes syntax, V 90/90, booklet and
+  existing-reference image gates. The separate AST audit preserves all existing
+  layouts, metadata and alternative IDs/types; `git diff --check` passes.
+  Official pages, a contact sheet (q1,7,9,12,13,15,18,23,27,35,49,54,58,63,78,88)
+  and the q14 charge-bearing crop were visually inspected.
+
 ## 2025 — V1 sample for client review
 
 Official sources: `sources_fuvest/2025/2025_PV_f1_V1.pdf` and
