@@ -1,12 +1,42 @@
-# FUVEST corrections
+# FUVEST corrections — 2017–2025
 
-## Current delivery progress
+All nine years have been checked against their matched official first-phase
+booklets and answer keys. There are **810/810 matching key entries**, including
+2022 V q54's official annulment, and **582/582 existing image references resolve**
+with zero missing files, invalid paths or dimension mismatches. All nine files
+pass TypeScript syntax parsing. This is a data-file review; the repository's
+ENEM-only type check does not validate the FUVEST schema.
 
-The version near-match rule in the latest instruction supersedes the strict
-preflight stop below. All drafts identify V (2025: V1); 2018 and 2024 have one
-answer transcription error each, and 2022 V q54 is annulled. The added 2023 V
-booklet is now available. Work proceeds per year; historical preflight counts
-below describe the state before the corrections.
+**Four image attachments remain constrained by the explicit structure rule:**
+2023 q7–8 and 2024 q4–5 have no existing `images` property. Both shared figures
+are confidently located and their crop files are delivered, but adding their
+references would add a property. The client explicitly chose to preserve the structure and record the pending
+attachments; the original layouts remain intact. No crop is unlocatable. All other official
+raster figures found in the matched booklets, along with the necessary vector
+figures/tables and image-option panels, are delivered.
+
+| Year | Version | Answers changed | Stems changed | Alternative values changed | Explanations rewritten | Crops | Existing image refs present | Deferred attachment |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
+| 2017 | V | 0 | 80 | 210 | 90 | 57 | 62/62 | None |
+| 2018 | V | 1: q29 D→B | 88 | 249 | 90 | 35 | 37/37 | None |
+| 2019 | V | 0 | 88 | 295 | 90 | 72 | 80/80 | None |
+| 2020 | V | 0 | 79 | 230 | 90 | 99 | 65/65 | None |
+| 2021 | V | 0 | 88 | 289 | 90 | 96 | 59/59 | None |
+| 2022 | V | 1: q54 B→* (annulled) | 89 | 271 | 90 | 92 | 96/96 | None |
+| 2023 | V | 0 | 90 | 268 | 90 | 62 | 61/61 | q7–8: missing property |
+| 2024 | V | 1: q48 C→D | 90 | 320 | 90 | 76 | 75/75 | q4–5: missing property |
+| 2025 | V1 | 0 | 77 | 377 | 90 | 46 | 47/47 | None |
+
+Text counts compare each completed year against its incoming draft; 2025 includes
+the text work already delivered in `cc353e0`. Crops include some original raster
+strips retained alongside full option panels. Shared figures and per-alternative
+images explain why reference counts differ from distinct crop counts. Each
+`fuvest/<year>/images/SOURCES.json` records source pages and PDF crop rectangles.
+
+The near-match version rule in the latest instruction resolves 2018 and 2024:
+each draft uniquely matched V at 89/90 before correction. Other years matched
+V exactly apart from the 2022 annulment; 2025 matched V1. All available key
+columns were compared, including the full 2024 V/K/Q/X/Z set.
 
 ### 2017 — completed text and images
 
@@ -122,7 +152,7 @@ below describe the state before the corrections.
 
 ### 2022 — completed text and images
 
-- Version V: 89 original letters agree plus q54 annulled in the official retified
+- Version V: 89 original letters agree plus q54 annulled in the official rectified
   key. Set q54 `correct` from B to the official `*`; 90/90 entries now agree.
   Preserved the existing property layout by storing the annulment in `correct`,
   without introducing a new flag. The shared checker now accepts `*` only when
@@ -156,7 +186,7 @@ below describe the state before the corrections.
   cropped confidently to `fuvest/2023/images/q07_source_1.jpg`, but neither
   existing question object has an `images` property. The hard rule to preserve
   property layout prevents adding that field. The asset is delivered; these two
-  questions still need client-side attachment/permission to add the property.
+  questions remain pending attachment under the client-confirmed constraint.
   No figure was guessed or substituted. All existing references are complete.
 - `node tools/check_fuvest.mjs --year=2023` passes syntax, V 90/90, booklet and
   existing-reference image gates. The separate AST audit preserves all existing
@@ -181,208 +211,66 @@ below describe the state before the corrections.
   cropped and delivered as `fuvest/2024/images/q04_source_1.jpg`; neither existing
   question object has an `images` property. As in 2023 q7–8, adding that field
   would violate the explicit property-layout constraint. The asset is present
-  but attachment requires client approval or client-side handling.
+  but attachment is deferred under the client-confirmed structure constraint.
 - Syntax, V 90/90 answers, booklet and existing-image gates pass with
   `node tools/check_fuvest.mjs --year=2024`; the AST preservation audit and
   `git diff --check` pass. Official pages and a contact sheet for
   q3,4,7,13,18,21,27,31,35,48,49,55,57,59,63,73 were visually inspected.
 
-## 2025 — V1 sample for client review
+### 2025 — completed text and images
 
-Official sources: `sources_fuvest/2025/2025_PV_f1_V1.pdf` and
-`sources_fuvest/2025/2025_GB_f1.pdf` (published 17/11/2024).
-The answer key was extracted with `pdftotext -layout` and all four version
-columns were compared to the draft in id order before correction.
-V1 matches 90/90, V2 16/90, V3 16/90, V4 9/90.
+- Version V1: 90/90 answers, with other columns V2 16/90, V3 16/90, V4 9/90.
+  The text correction in `cc353e0` changed 77 stems, 377 alternative values,
+  all 90 explanations and seven question tags; no answer letters changed.
+- This follow-up changes only the existing `images` values: no further stems,
+  alternatives, answers, explanations or metadata are changed.
+- 46 official source crops give 47/47 references present, including q5's three
+  separate pages/panels, the Arctic map and legend, chemistry illustrations,
+  the PET-bottle diagram shared by q73–74, and artwork in q86. Added figures
+  absent from the original references at q7,23,24,40,72,73–74,78,86.
+- q60 and q69 are complete official option-grid crops saved as real PNG files
+  at the existing `.png` paths. Their declared sizes match the actual crops;
+  there is no JPG/PNG extension mismatch.
+- Preserved all question/property/alternative layouts and metadata. Syntax,
+  V1 90/90 and image gates pass. Source pages and a contact sheet spanning
+  q1,5,7,16,20,23,26,40,48,60,63,69,72,73,78,86 were visually inspected.
+  No image or attachment is deferred for this year.
 
-| Measure | Result |
-| --- | --- |
-| Matched booklet | V1 |
-| Answers changed | 0 (already 90/90 equal to V1) |
-| Explanations rewritten | 90 |
-| Statements changed | 77 |
-| Alternative values changed | 377 |
-| Questions with tag corrections | 7 (36, 48, 55, 65, 78, 87, 89) |
-| Official answer gate after correction | 90 passed, 0 failed |
-| Syntax/parse check | Passed |
-
-Restored missing alternatives, reading passages shared by questions 10–11,
-27–29, 37–38, 41–42, 65–66 and 73–74, and separated text accidentally carried
-across neighboring questions (notably 70–77). Corrected tables, mathematical
-symbols, exponents and chemistry notation. Explanations include the reasoning
-or calculations supporting the official answer, rather than copying a distractor.
-
-The original import, QuizQuestion[] declaration, variable name, export, question
-IDs, exam/year/phase values, property layout, alternative IDs and alternative
-types are preserved. Only field values changed. No ENEM type was imposed and
-no tsconfig changes were made.
-
-### Validation
+## Verification and review limits
 
 Run from the repository root:
-
-```sh
-node tools/check_fuvest_2025.mjs
-```
-
-The checker parses TypeScript as data, checks syntax, ordered IDs 1–90 and five
-nonempty alternatives per question, extracts the official first-page key table,
-requires 90 unique answers for every version, and asserts exact agreement with
-V1. It does not execute the draft or use its explanations as an answer source.
-It is specifically for the 2025 V1 sample; it does not claim to parse other years.
-
-A separate before/after AST audit confirmed preserved declarations, exports,
-IDs, property names and alternative types. `git diff --check` passed.
-Chromium spot renders of q17, q60, q69 and q76 were visually inspected using
-local HTML generated from the corrected values, not the ENEM-only harness.
-The two new graph crops loaded correctly; q17's missing map was explicitly
-marked pending in that temporary review view. Official PDF pages containing
-q7–9, q18–20, q58–60, q68–69 and q73–79 were also rendered/eyeballed.
-These are sample checks, not full client-application visual acceptance.
-
-### Figure limitations and questions not fully visually verified
-
-This sample completes the text/answer pass, with remaining figure extraction
-explicitly deferred. It is not a complete image delivery. Text and alternative
-ordering were checked against the official V1 text; embedded artwork, graph
-labels and diagrams still require the asset pass for the questions listed below.
-No question's answer is exempt from the 90/90 gate.
-
-The graphical A–E panels for q60 and q69 were cropped directly from official
-PDF pages 23 and 26, respectively, at 2× resolution. The original graphical
-options are retained in the existing `images` field; text alternatives identify
-or describe the corresponding panel without changing their `type: 'text'`.
-New committed assets: `fuvest/2025/images/q60_options.png` and
-`fuvest/2025/images/q69_options.png`.
-
-The following 36 pre-existing references are unchanged but their files are absent:
-
-| Question | Pending image reference |
-| --- | --- |
-| 1 | `/fuvest/2025/images/q01_artwork.jpg` |
-| 2 | `/fuvest/2025/images/q02_chart.jpg` |
-| 3 | `/fuvest/2025/images/q03_charge.jpg` |
-| 5 | `/fuvest/2025/images/q05_novel_a.jpg` |
-| 5 | `/fuvest/2025/images/q05_novel_b.jpg` |
-| 5 | `/fuvest/2025/images/q05_novel_c.jpg` |
-| 6 | `/fuvest/2025/images/q06_charge.jpg` |
-| 16 | `/fuvest/2025/images/q16_ramp.jpg` |
-| 17 | `/fuvest/2025/images/q17_street_map.jpg` |
-| 18 | `/fuvest/2025/images/q18_ship_graph.jpg` |
-| 19 | `/fuvest/2025/images/q19_compton.jpg` |
-| 20 | `/fuvest/2025/images/q20_atomic_models.jpg` |
-| 22 | `/fuvest/2025/images/q22_touchscreen.jpg` |
-| 22 | `/fuvest/2025/images/q22_optics.jpg` |
-| 26 | `/fuvest/2025/images/q26_arctic_map.jpg` |
-| 26 | `/fuvest/2025/images/q26_arctic_legend.jpg` |
-| 30 | `/fuvest/2025/images/q30_rhino.jpg` |
-| 32 | `/fuvest/2025/images/q32_butterfly.jpg` |
-| 33 | `/fuvest/2025/images/q33_woodpecker.jpg` |
-| 39 | `/fuvest/2025/images/q39_peron.jpg` |
-| 44 | `/fuvest/2025/images/q44_calvin.jpg` |
-| 47 | `/fuvest/2025/images/q47_fat_map.jpg` |
-| 48 | `/fuvest/2025/images/q48_cattle_a.jpg` |
-| 48 | `/fuvest/2025/images/q48_cattle_b.jpg` |
-| 49 | `/fuvest/2025/images/q49_deforestation.jpg` |
-| 51 | `/fuvest/2025/images/q51_heat_island.jpg` |
-| 53 | `/fuvest/2025/images/q53_climogram.jpg` |
-| 57 | `/fuvest/2025/images/fuvest_2025_q57.jpg` |
-| 59 | `/fuvest/2025/images/q59_expansion.jpg` |
-| 62 | `/fuvest/2025/images/q62_rollercoaster.jpg` |
-| 63 | `/fuvest/2025/images/q63_chemistry.jpg` |
-| 67 | `/fuvest/2025/images/q67_stemcell.jpg` |
-| 68 | `/fuvest/2025/images/q68_publications.jpg` |
-| 71 | `/fuvest/2025/images/q71_antibiotics.jpg` |
-| 75 | `/fuvest/2025/images/fuvest_2025_q75.jpg` |
-| 79 | `/fuvest/2025/images/q79_roman_map.jpg` |
-
-Additional official figures missing a usable draft reference: q7 (Peanuts strip),
-q23 (black-hole image), q24 (street image), q73–74 (shared PET-bottle diagram),
-and q78 (classroom cartoon). These require extraction and references in the
-subsequent asset pass. The unrelated `q65_pressure.jpg` reference was removed
-from q65, which asks about sugarcane fuel cells and has no figure in the official
-booklet; the bottle illustration belongs to the shared passage for q73–74.
-Missing figures particularly prevent complete visual verification of image-based
-questions, even though their official answer and associated explanation have
-been checked. Existing refs have not been replaced with fabricated imagery.
-
-### Source checksums (SHA-256)
-
-- `2025_PV_f1_V1.pdf`: `f512449b47ac31abe1ae00d5f88fb14478c7139fa1db137145b7e33cec1b97c8`
-- `2025_GB_f1.pdf`: `ddd7f38cc2584298e812f4a7bf083e74be4926ae948f0cb531117a60ec91fd5f`
-
-## Nine-year follow-up — version preflight stopped
-
-No new question values or crops were changed in this follow-up. The requested
-strict version gate was checked before correction. Work stopped because 2023's
-draft matches V exactly, but the only committed booklet is X. The source
-booklet's cover and first question page both explicitly identify X. The draft
-matches only 25/90 answers from X, compared with 90/90 from V. Do not use X
-question numbers for V crops or silently reorder the draft.
-
-Required source: `sources_fuvest/2023/2023_PV_f1_V.pdf`.
-Remote main was checked and still points to `cc353e0`; no newer source commit
-was available. No external download or network-policy change was attempted.
-
-| Year | Agreement with V (V1 for 2025) | Other exact match | Required source status | Existing image files / referenced files |
-| --- | --- | --- | --- | --- |
-| 2017 | 90/90 | None | V present | 0/52 |
-| 2018 | 89/90 | None | V present, strict draft version gate unresolved | 0/35 |
-| 2019 | 90/90 | None | V present | 0/72 |
-| 2020 | 90/90 | None | V present | 0/47 |
-| 2021 | 90/90 | None | V present | 0/42 |
-| 2022 | 89/90 plus one annulled | None | V present, annulment not represented in draft | 0/77 |
-| 2023 | 90/90 | None | **V missing; only X present** | 0/62 |
-| 2024 | 89/90 | None | V present, strict draft version gate unresolved | 0/76 |
-| 2025 | 90/90 | None | V1 present; text sample unchanged | 2/38 |
-
-These are preflight findings, not claims of corrected years. New answers changed,
-explanations rewritten and images produced in this follow-up: **0 for every
-year**. Correction/cropping remains outstanding for 2017–2024, and the figure
-limitations above remain outstanding for 2025. All nine years have valid syntax
-and 90 sequential IDs, but this does not validate their content.
-
-Additional actionable findings:
-
-- 2018 q29: draft D, official V answer B; no version column matches all 90 draft
-  letters. This is a one-letter difference from V, not an established exact match.
-- 2024 q48: draft C, official V answer D; likewise no exact version match.
-- 2022 V q54: retified key is `*` (annulled), draft is B and is not flagged annulled.
-  The remaining 89 answers match V. The checker treats an annulment separately
-  from A–E answers: it requires `annulled: true`, retaining a type-compatible
-  placeholder letter rather than inventing an official answer letter.
-- 2019: empty alternatives at q5, q9, q10, q15, q17, q20, q25, q35, q36, q37,
-  q41, q47, q58 and q60; q40's alternative IDs are ordered A,D,B,E,C.
-- 2022 q61's alternative IDs are ordered A,D,B,E,C. These structure issues must
-  be addressed consistently with the client's preserve-structure constraint;
-  they were not silently changed during preflight.
-- Existing alternative image values sometimes use `{ src, width, height }`
-  objects instead of strings. The generalized checker supports both formats.
-- 2025 q60/q69 already reference the two existing `.png` crops, whose dimensions
-  match their declarations. There is no current PNG/JPG mismatch for those two
-  references; the other 36 referenced files remain absent.
-
-### Generalized checks
 
 ```sh
 node tools/check_fuvest.mjs
 node tools/check_fuvest.mjs --answers-only
 node tools/check_fuvest.mjs --images-only
-node tools/check_fuvest.mjs --year=2025 --answers-only
+node tools/check_fuvest.mjs --year=2025
 ```
 
-The full check exits nonzero while any year has an unresolved answer/version,
-source-booklet, alternative-structure or image gate. It reports every year even
-when one has errors. It parses all question files as AST data, parses all five
-version columns (four for 2025) from the appropriate official key format, and
-requires an exact unique match; it never picks the closest version. The source
-booklet must have the matching version filename. Image checks cover question
-images and per-alternative images, resolve exact repository-relative paths,
-and compare real dimensions against declared dimensions when present. Missing
-unreferenced figures still require manual PDF review: a path checker alone
-cannot establish visual completeness.
+The generalized checker parses TypeScript as static AST data, checks syntax,
+90 ordered IDs and A–E alternative entries, extracts every official version
+column using `pdftotext -layout`, and requires one exact matched version plus
+its source booklet. It accepts an asterisk only against an official annulled
+entry; q54 in 2022 stores `correct: '*'` without inventing an official letter
+or adding a new property. The original 2025-only checker remains available.
 
-The full image preflight currently reports **2/501 references present, 499
-missing** across the nine years. This is an expected failing readiness check,
-not a completed image delivery. The isolated 2025 answer check passes. The
-original 2025-only checker is retained for compatibility.
+Image checks include question arrays and per-alternative values, supporting
+both string paths and `{ src, width, height }` values. They require exact files
+and compare dimensions when declared. A successful path check alone cannot
+prove every source figure was attached: the four absent-property cases above
+are explicitly disclosed and excluded from the existing-reference count.
+
+Separate before/after AST audits confirmed preserved imports, declarations,
+exports, top-level property layouts, question IDs/year/phase/day and all existing
+alternative IDs/types. Originally empty 2019 alternative arrays were populated;
+existing misordered alternative objects were sorted without changing their IDs
+or types. No ENEM type or tsconfig restructuring was introduced.
+
+The PDFs were handled as data: temporary extraction/OCR/crop scripts were kept
+outside the source directories and repository, PDF paths were arguments, and
+Python PDF/image work used `python3 -I`. No external PDF downloads or network
+policy change was used. All content was checked against in-repository sources.
+
+Visual checks used rendered official pages and crop contact sheets; the earlier
+2025 sample also had local Chromium question renders. Full integration into the
+client application remains part of client acceptance review.

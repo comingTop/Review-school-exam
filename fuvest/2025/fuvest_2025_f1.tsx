@@ -44,7 +44,7 @@ Glicéria Tupinambá, Assojaba Tupinambá, 2021. Disponível em: https://dasarte
 
 Com base nos textos e na imagem, assinale a alternativa que relaciona corretamente as reflexões apresentadas à importância da
 arte e dos artefatos culturais na discussão sobre questões indígenas no Brasil.`,
-    images: [{ src: '/fuvest/2025/images/q01_artwork.jpg', width: 710, height: 1091 }],
+    images: [{"src":"/fuvest/2025/images/q01_artwork.jpg","width":582,"height":894}],
     alternatives: [
       { id: 'A', type: 'text', value: `A arte indígena, ao ser exposta em museus europeus, perde seu significado original e se transforma apenas em objeto de
 decoração, desvinculando-se completamente de suas raízes culturais e simbólicas, de acordo com David Kopenawa.` },
@@ -79,7 +79,7 @@ MapBiomas. 2024. Proximidade de Garimpos, Rios e Lagos na Amazônia
 
 A partir dos dados apresentados e da realidade
 socioambiental da Amazônia, é correto afirmar:`,
-    images: [{ src: '/fuvest/2025/images/q02_chart.jpg', width: 721, height: 477 }],
+    images: [{"src":"/fuvest/2025/images/q02_chart.jpg","width":590,"height":391}],
     alternatives: [
       { id: 'A', type: 'text', value: `Os territórios indígenas encontram-se nas áreas mais
 desmatadas da Amazônia; como o garimpo ilegal produz
@@ -121,7 +121,7 @@ existe ouro e se desenvolvem próximas a rios e lagos.` },
     text: `Jean Galvão. Disponível em https://cartum.folha.uol.com.br/.
 
 Considerando a charge, é correto afirmar:`,
-    images: [{ src: '/fuvest/2025/images/q03_charge.jpg', width: 736, height: 346 }],
+    images: [{"src":"/fuvest/2025/images/q03_charge.jpg","width":603,"height":284}],
     alternatives: [
       { id: 'A', type: 'text', value: `Há uma incoerência entre a imagem do segundo quadro e
 o enunciado verbal do primeiro quadro, uma vez que a
@@ -197,7 +197,7 @@ gráficas (graphic novels).
 Considerando as características visuais dos quadrinhos e os
 traços narrativos do romance Dois irmãos, de Milton Hatoum,
 é correto afirmar:`,
-    images: [{ src: '/fuvest/2025/images/q05_novel_a.jpg', width: 738, height: 384 }, { src: '/fuvest/2025/images/q05_novel_b.jpg', width: 736, height: 439 }, { src: '/fuvest/2025/images/q05_novel_c.jpg', width: 736, height: 500 }],
+    images: [{"src":"/fuvest/2025/images/q05_novel_a.jpg","width":603,"height":314},{"src":"/fuvest/2025/images/q05_novel_b.jpg","width":603,"height":360},{"src":"/fuvest/2025/images/q05_novel_c.jpg","width":603,"height":410}],
     alternatives: [
       { id: 'A', type: 'text', value: `O uso dos contrastes claro x escuro na novela gráfica
 confere ênfase visual ao conflito entre diferentes formas
@@ -257,7 +257,7 @@ percebidas da mesma maneira pelos outros em nós.
 
 Qual situação reproduz essa estrutura de equiparação exibida
 na charge?`,
-    images: [{ src: '/fuvest/2025/images/q06_charge.jpg', width: 730, height: 505 }],
+    images: [{"src":"/fuvest/2025/images/q06_charge.jpg","width":598,"height":414}],
     alternatives: [
       { id: 'A', type: 'text', value: `Torcedores de diversos times de futebol se reúnem
 desanimados para assistir a um jogo da seleção.` },
@@ -294,7 +294,7 @@ No terceiro quadrinho da história, uma personagem se serve
 de um argumento falacioso bastante conhecido a fim de
 persuadir o outro. Esse argumento pode ser classificado como
 um caso de qual tipo de falácia?`,
-    images: [],
+    images: [{"src":"/fuvest/2025/images/q07_source_1.jpg","width":603,"height":698}],
     alternatives: [
       { id: 'A', type: 'text', value: `Ataque à pessoa.` },
       { id: 'B', type: 'text', value: `Apelo à piedade.` },
@@ -733,7 +733,7 @@ desnível de 0,5 m.
 Com base no que foi apresentado sobre a normativa, o que é
 correto afirmar sobre a adequação dessa rampa à norma de
 acessibilidade?`,
-    images: [{ src: '/fuvest/2025/images/q16_ramp.jpg', width: 599, height: 563 }],
+    images: [{"src":"/fuvest/2025/images/q16_ramp.jpg","width":491,"height":462}],
     alternatives: [
       { id: 'A', type: 'text', value: `A rampa não está adequada, pois os dois segmentos não
 estão de acordo com a norma.` },
@@ -769,7 +769,7 @@ em metros, são: O(0,0), B(13,-15) e C(29,-8).
 Seja d a distância, em metros, que essa pessoa deixaria de
 percorrer se tivesse optado por fazer a travessia pela faixa de
 pedestre que liga O a C. Nesse contexto, é correto afirmar:`,
-    images: [{ src: '/fuvest/2025/images/q17_street_map.jpg', width: 736, height: 398 }],
+    images: [{"src":"/fuvest/2025/images/q17_street_map.jpg","width":603,"height":327}],
     alternatives: [
       { id: 'A', type: 'text', value: `d < 2` },
       { id: 'B', type: 'text', value: `2 ≤ d < 5` },
@@ -809,7 +809,7 @@ Considere que a força atuando sobre o navio durante a colisão seja
 constante e igual à força média.
 
 Utilize 1 m.p.h. = 0,5 m/s.`,
-    images: [{ src: '/fuvest/2025/images/q18_ship_graph.jpg', width: 736, height: 603 }],
+    images: [{"src":"/fuvest/2025/images/q18_ship_graph.jpg","width":603,"height":494}],
     alternatives: [
       { id: 'A', type: 'text', value: `7 × 10⁻² N.` },
       { id: 'B', type: 'text', value: `7 × 10⁰ N.` },
@@ -844,7 +844,7 @@ em que α é uma constante positiva e m é a massa da partícula.
 Com base nessas informações e em seus conhecimentos
 sobre a propagação das ondas eletromagnéticas, assinale a
 alternativa correta.`,
-    images: [{ src: '/fuvest/2025/images/q19_compton.jpg', width: 736, height: 250 }],
+    images: [{"src":"/fuvest/2025/images/q19_compton.jpg","width":603,"height":206}],
     alternatives: [
       { id: 'A', type: 'text', value: `A maior variação no comprimento de onda do fóton ocorre
 quando o ângulo θ é igual a 90°.` },
@@ -875,7 +875,7 @@ Bohr, proposto em 1913.
 
 Sobre os quatro modelos atômicos apresentados, é correto
 afirmar:`,
-    images: [{ src: '/fuvest/2025/images/q20_atomic_models.jpg', width: 658, height: 666 }],
+    images: [{"src":"/fuvest/2025/images/q20_atomic_models.jpg","width":540,"height":547}],
     alternatives: [
       { id: 'A', type: 'text', value: `Todos os modelos previram a presença de cargas positivas
 no núcleo atômico.` },
@@ -968,7 +968,7 @@ E 1,4889
 Tratando o meio 2 sempre como tendo índice de refração
 n₂=1,0003, o material que permite o maior intervalo de
 ângulos de incidência que produzem reflexão total é:`,
-    images: [{ src: '/fuvest/2025/images/q22_touchscreen.jpg', width: 762, height: 326 }, { src: '/fuvest/2025/images/q22_optics.jpg', width: 334, height: 330 }],
+    images: [{"src":"/fuvest/2025/images/q22_touchscreen.jpg","width":624,"height":268},{"src":"/fuvest/2025/images/q22_optics.jpg","width":274,"height":271}],
     alternatives: [
       { id: 'A', type: 'text', value: `Material A.` },
       { id: 'B', type: 'text', value: `Material B.` },
@@ -1016,7 +1016,7 @@ https://jornal.usp.br/ciencias/ (Adaptado).
 
 Com base no texto e em seus conhecimentos, é correto
 afirmar:`,
-    images: [],
+    images: [{"src":"/fuvest/2025/images/q23_source_1.jpg","width":556,"height":370}],
     alternatives: [
       { id: 'A', type: 'text', value: `A medida do padrão de polarização da luz mencionada no
 texto permite somente o mapeamento das linhas de
@@ -1052,7 +1052,7 @@ pelas ruas Cloreto de Sódio e Relíquia do Oceano.
 
 A coincidência do encontro dessas ruas chama a atenção, pois
 o cloreto de sódio`,
-    images: [],
+    images: [{"src":"/fuvest/2025/images/q24_source_1.jpg","width":527,"height":532}],
     alternatives: [
       { id: 'A', type: 'text', value: `praticamente não está presente no oceano, apesar de este
 ser salgado.` },
@@ -1111,7 +1111,7 @@ passou a ser uma nova fronteira para o comércio mundial.
 Carto Le monde en cartes, n.59, maio-junho 2020 (Adaptado).
 
 Com base no texto, na leitura do mapa e em seus conhecimentos sobre as rotas marítimas, assinale a alternativa correta.`,
-    images: [{ src: '/fuvest/2025/images/q26_arctic_map.jpg', width: 1151, height: 1255 }, { src: '/fuvest/2025/images/q26_arctic_legend.jpg', width: 1057, height: 239 }],
+    images: [{"src":"/fuvest/2025/images/q26_arctic_map.jpg","width":944,"height":1029},{"src":"/fuvest/2025/images/q26_arctic_legend.jpg","width":865,"height":197}],
     alternatives: [
       { id: 'A', type: 'text', value: `A rota que liga os portos de Murmansk a Churchill é vantajosa em razão da facilidade de acesso e de não interferir na Zona
 Econômica Exclusiva, evitando conflitos territoriais.` },
@@ -1346,7 +1346,7 @@ consequente redução no tamanho das populações resultantes.
 Disponível em https://kids.frontiersin.org/articles/10.3389/ (Adaptado).
 
 É correto afirmar que, nas populações fragmentadas, ocorre`,
-    images: [{ src: '/fuvest/2025/images/q30_rhino.jpg', width: 736, height: 462 }],
+    images: [{"src":"/fuvest/2025/images/q30_rhino.jpg","width":603,"height":378}],
     alternatives: [
       { id: 'A', type: 'text', value: `maior variabilidade genética.` },
       { id: 'B', type: 'text', value: `maior risco de aparecimento de doenças genéticas
@@ -1408,7 +1408,7 @@ Disponível em https://www.pbs.org/wgbh/.
 
 Os fenômenos físicos diretamente relacionados com a
 iridescência são`,
-    images: [{ src: '/fuvest/2025/images/q32_butterfly.jpg', width: 709, height: 398 }],
+    images: [{"src":"/fuvest/2025/images/q32_butterfly.jpg","width":582,"height":327}],
     alternatives: [
       { id: 'A', type: 'text', value: `dilatação e reflexão.` },
       { id: 'B', type: 'text', value: `interferência e dilatação.` },
@@ -1445,7 +1445,7 @@ o repouso?
 
 Note e adote:
 Aceleração da gravidade: g = 10 m/s2.`,
-    images: [{ src: '/fuvest/2025/images/q33_woodpecker.jpg', width: 736, height: 393 }],
+    images: [{"src":"/fuvest/2025/images/q33_woodpecker.jpg","width":603,"height":323}],
     alternatives: [
       { id: 'A', type: 'text', value: `2,0 mm` },
       { id: 'B', type: 'text', value: `4,0 mm` },
@@ -1769,7 +1769,7 @@ p.88-91.
 As imagens mostram páginas de uma cartilha de alfabetização
 produzida durante o governo de Juan Domingo Perón na
 Argentina (1946-1955). As ilustrações`,
-    images: [{ src: '/fuvest/2025/images/q39_peron.jpg', width: 762, height: 1077 }],
+    images: [{"src":"/fuvest/2025/images/q39_peron.jpg","width":625,"height":882}],
     alternatives: [
       { id: 'A', type: 'text', value: `atribuem valor idêntico à presença de homens e de
 mulheres nas esferas pública e privada.` },
@@ -1816,7 +1816,7 @@ Apesar das conquistas, o caminho rumo à igualdade de gênero
 continua.
 
 Com base no exposto, é correto afirmar:`,
-    images: [],
+    images: [{"src":"/fuvest/2025/images/q40_source_1.jpg","width":178,"height":178}],
     alternatives: [
       { id: 'A', type: 'text', value: `As práticas esportivas devem ser consideradas como
 práticas sociais, pois claramente refletem em sua
@@ -2025,7 +2025,7 @@ Agostinho, é possível encontrar semelhanças com relação à
 descrição do tempo e sua compreensão filosófica. Dentre as
 afirmativas a seguir, qual delas pode ser considerada
 verdadeira para ambos os casos?`,
-    images: [{ src: '/fuvest/2025/images/q44_calvin.jpg', width: 632, height: 667 }],
+    images: [{"src":"/fuvest/2025/images/q44_calvin.jpg","width":552,"height":582}],
     alternatives: [
       { id: 'A', type: 'text', value: `A passagem do tempo é ilusória.` },
       { id: 'B', type: 'text', value: `O tempo desfaz a mudança.` },
@@ -2120,7 +2120,7 @@ MICHA, R. et al., (2014). British Medical Journal, v. 348. g2272. DOI:
 Considerando apenas os dados da figura, os habitantes da
 Austrália e da Rússia apresentam maiores riscos de
 desenvolver doenças`,
-    images: [{ src: '/fuvest/2025/images/q47_fat_map.jpg', width: 762, height: 569 }],
+    images: [{"src":"/fuvest/2025/images/q47_fat_map.jpg","width":624,"height":467}],
     alternatives: [
       { id: 'A', type: 'text', value: `renais.` },
       { id: 'B', type: 'text', value: `respiratórias.` },
@@ -2152,7 +2152,7 @@ IBGE: Diretoria de Pesquisas. Coordenação de Estatísticas Agropecuárias.
 Pesquisa Trimestral do Abate de Animais 2019-2024 (Adaptado).
 
 A partir dos dados observados nos gráficos, é correto afirmar:`,
-    images: [{ src: '/fuvest/2025/images/q48_cattle_a.jpg', width: 754, height: 424 }, { src: '/fuvest/2025/images/q48_cattle_b.jpg', width: 754, height: 393 }],
+    images: [{"src":"/fuvest/2025/images/q48_cattle_a.jpg","width":603,"height":340},{"src":"/fuvest/2025/images/q48_cattle_b.jpg","width":603,"height":315}],
     alternatives: [
       { id: 'A', type: 'text', value: `No primeiro trimestre de 2023, a diferença entre as
 quantidades de machos e fêmeas abatidos foi menor que
@@ -2187,7 +2187,7 @@ alternativa que apresenta, respectivamente, o bioma
 correspondente à região do MATOPIBA, a atividade
 econômica desenvolvida nesse local e o possível impacto
 ambiental negativo decorrente de tal atividade.`,
-    images: [{ src: '/fuvest/2025/images/q49_deforestation.jpg', width: 737, height: 971 }],
+    images: [{"src":"/fuvest/2025/images/q49_deforestation.jpg","width":603,"height":795}],
     alternatives: [
       { id: 'A', type: 'text', value: `Cerrado, agropecuária e processos erosivos.` },
       { id: 'B', type: 'text', value: `Cerrado, silvicultura e contaminação do solo.` },
@@ -2243,7 +2243,7 @@ Revista Pesquisa FAPESP – Setembro/2023 (Adaptado).
 
 A explicação para as características desse perfil de
 temperatura do ar deve-se`,
-    images: [{ src: '/fuvest/2025/images/q51_heat_island.jpg', width: 736, height: 385 }],
+    images: [{"src":"/fuvest/2025/images/q51_heat_island.jpg","width":611,"height":320}],
     alternatives: [
       { id: 'A', type: 'text', value: `à maior ocorrência de áreas verdes nas periferias, que
 absorvem mais radiação solar e aquecem o ambiente,
@@ -2323,7 +2323,7 @@ dia 21.
 Disponível em https://portal.inmet.gov.br/noticias/ (Adaptado).
 
 Com base no texto e no gráfico, assinale a alternativa correta.`,
-    images: [{ src: '/fuvest/2025/images/q53_climogram.jpg', width: 736, height: 452 }],
+    images: [{"src":"/fuvest/2025/images/q53_climogram.jpg","width":603,"height":371}],
     alternatives: [
       { id: 'A', type: 'text', value: `A menor amplitude térmica ocorreu no dia 19, quando foi
 observado um dos maiores volumes de chuva do mês.` },
@@ -2474,7 +2474,7 @@ por imersão em água quente, que dissolve o sal, deixando-o
 pronto para ser reutilizado.
 
 Em relação à operação desse aquecedor, é correto afirmar:`,
-    images: ['/fuvest/2025/images/fuvest_2025_q57.jpg'],
+    images: [{"src":"/fuvest/2025/images/fuvest_2025_q57.jpg","width":624,"height":249}],
     alternatives: [
       { id: 'A', type: 'text', value: `A precipitação do acetato de sódio é exotérmica e sua
 solubilização é endotérmica.` },
@@ -2538,7 +2538,7 @@ materiais distintos.
 
 Com base no gráfico e nas informações apresentadas, é
 correto afirmar:`,
-    images: [{ src: '/fuvest/2025/images/q59_expansion.jpg', width: 762, height: 499 }],
+    images: [{"src":"/fuvest/2025/images/q59_expansion.jpg","width":625,"height":410}],
     alternatives: [
       { id: 'A', type: 'text', value: `O gráfico mostra curvas para três barras que possuem o
 mesmo comprimento à temperatura de 30°C.` },
@@ -2570,7 +2570,7 @@ Assinale a alternativa que representa a variação das massas
 de ambas as barras ao longo do tempo.
 
 Ferro Aço inoxidável`,
-    images: [{"src":"/fuvest/2025/images/q60_options.png","width":506,"height":894}],
+    images: [{"src":"/fuvest/2025/images/q60_options.png","width":631,"height":1118}],
     alternatives: [
       { id: 'A', type: 'text', value: `Gráficos A: massas constantes para ferro e aço inoxidável.` },
       { id: 'B', type: 'text', value: `Gráficos B: massas crescentes para ferro e aço inoxidável.` },
@@ -2642,7 +2642,7 @@ perdida durante a descida inicial é, aproximadamente,
 
 Note e adote:
 Aceleração da gravidade: g = 10 m/s2.`,
-    images: [{ src: '/fuvest/2025/images/q62_rollercoaster.jpg', width: 704, height: 467 }],
+    images: [{"src":"/fuvest/2025/images/q62_rollercoaster.jpg","width":576,"height":383}],
     alternatives: [
       { id: 'A', type: 'text', value: `1200 J.` },
       { id: 'B', type: 'text', value: `2500 J.` },
@@ -2674,7 +2674,7 @@ combustível.
 
 Com base nessas informações e em seus conhecimentos,
 assinale a alternativa correta.`,
-    images: [{ src: '/fuvest/2025/images/q63_chemistry.jpg', width: 762, height: 295 }],
+    images: [{"src":"/fuvest/2025/images/q63_chemistry.jpg","width":603,"height":482}],
     alternatives: [
       { id: 'A', type: 'text', value: `O catalisador participa da reação de produção de metano
 e se decompõe em NaOH.` },
@@ -2858,7 +2858,7 @@ Disponível em https://upload.wikimedia.org/wikipedia/ (Adaptado).
 
 As células especializadas que derivam de uma mesma célula-
 tronco possuem os(as) mesmos(as)`,
-    images: [{ src: '/fuvest/2025/images/q67_stemcell.jpg', width: 736, height: 460 }],
+    images: [{"src":"/fuvest/2025/images/q67_stemcell.jpg","width":545,"height":341}],
     alternatives: [
       { id: 'A', type: 'text', value: `genes.` },
       { id: 'B', type: 'text', value: `RNAs.` },
@@ -2884,7 +2884,7 @@ destacar o estado de São Paulo.
 Revista Pesquisa FAPESP – Agosto/2022 (Adaptado).
 
 A partir da análise do gráfico e do texto, é correto afirmar:`,
-    images: [{ src: '/fuvest/2025/images/q68_publications.jpg', width: 762, height: 750 }],
+    images: [{"src":"/fuvest/2025/images/q68_publications.jpg","width":625,"height":615}],
     alternatives: [
       { id: 'A', type: 'text', value: `Irã, Tunísia e África do Sul possuem um PIB por pessoa
 abaixo da média mundial e apresentam um número de
@@ -2918,7 +2918,7 @@ média mundial.` },
     year: 2025,
     phase: 1,
     text: `No plano cartesiano Oxy, o gráfico que melhor representa a função f(x) = |x² + 5x − 6| − 5x + 6 é dado por`,
-    images: [{"src":"/fuvest/2025/images/q69_options.png","width":506,"height":1344}],
+    images: [{"src":"/fuvest/2025/images/q69_options.png","width":631,"height":1678}],
     alternatives: [
       { id: 'A', type: 'text', value: `Gráfico A da figura.` },
       { id: 'B', type: 'text', value: `Gráfico B da figura.` },
@@ -2993,7 +2993,7 @@ bactéria em meio de cultura, com e sem antibiótico. Foram
 testados três antibióticos diferentes (1, 2 e 3).
 Considerando o texto e o gráfico, sobre a resistência de
 bactérias a antibióticos, é correto afirmar:`,
-    images: [{ src: '/fuvest/2025/images/q71_antibiotics.jpg', width: 736, height: 441 }],
+    images: [{"src":"/fuvest/2025/images/q71_antibiotics.jpg","width":603,"height":361}],
     alternatives: [
       { id: 'A', type: 'text', value: `A combinação de mais de um antibiótico durante um
 tratamento reduz a quantidade de antibióticos lançada na
@@ -3034,7 +3034,7 @@ pH 5 reagiu com Br2 em excesso, obtendo-se pH 4 após reação
 total. Considerando que o volume se manteve inalterado após
 a adição do halogênio, quantos mols de sulfanilamida
 reagiram com bromo?`,
-    images: [],
+    images: [{"src":"/fuvest/2025/images/q72_source_1.jpg","width":624,"height":242}],
     alternatives: [
       { id: 'A', type: 'text', value: `4,5 × 10⁻⁵` },
       { id: 'B', type: 'text', value: `9,0 × 10⁻⁵` },
@@ -3092,7 +3092,7 @@ Constante dos gases ideais: R = 0,08 atm.L/(K.mol).
 Assuma que todo o ácido acético do vinagre reagiu com o bicarbonato de
 sódio e que o líquido resultante da reação ocupa aproximadamente o
 mesmo volume do vinagre antes da reação (Vvin).`,
-    images: [],
+    images: [{"src":"/fuvest/2025/images/q73_source_1.jpg","width":158,"height":461}],
     alternatives: [
       { id: 'A', type: 'text', value: `3,2 atm.` },
       { id: 'B', type: 'text', value: `4,1 atm.` },
@@ -3159,7 +3159,7 @@ Utilize π = 3.
 Considere que as forças relevantes atuando sobre a rolha no momento
 em que é expelida são apenas aquelas relativas à diferença de pressão
 entre os seus lados interno e externo.`,
-    images: [],
+    images: [{"src":"/fuvest/2025/images/q73_source_1.jpg","width":158,"height":461}],
     alternatives: [
       { id: 'A', type: 'text', value: `12 m/s2.` },
       { id: 'B', type: 'text', value: `120 m/s2.` },
@@ -3184,7 +3184,7 @@ Sabe-se que a base e o topo do vaso são uma circunferência
 de raio R que mede 10 cm, a parte central é uma
 circunferência de raio r de 5 cm e a medida h mede 12 cm.
 Qual é a capacidade volumétrica desse vaso em cm3?`,
-    images: ['/fuvest/2025/images/fuvest_2025_q75.jpg'],
+    images: [{"src":"/fuvest/2025/images/fuvest_2025_q75.jpg","width":246,"height":284}],
     alternatives: [
       { id: 'A', type: 'text', value: `1400π` },
       { id: 'B', type: 'text', value: `2100π` },
@@ -3252,7 +3252,7 @@ interceptam.` },
     text: `Disponível em https://andertoons.com/math/cartoon/7359/.
 
 Contribui para o efeito de comicidade do cartum a`,
-    images: [],
+    images: [{"src":"/fuvest/2025/images/q78_source_1.jpg","width":599,"height":524}],
     alternatives: [
       { id: 'A', type: 'text', value: `atitude do docente diante da apatia do grupo, incapaz de
 produzir uma resposta.` },
@@ -3281,7 +3281,7 @@ Disponível em https://www.britannica.com/ (Adaptado).
 
 A análise do mapa permite identificar deslocamentos de
 povos não romanos caracterizados`,
-    images: [{ src: '/fuvest/2025/images/q79_roman_map.jpg', width: 736, height: 533 }],
+    images: [{"src":"/fuvest/2025/images/q79_roman_map.jpg","width":603,"height":437}],
     alternatives: [
       { id: 'A', type: 'text', value: `pela concentração de rotas migratórias em território
 bizantino.` },
@@ -3653,7 +3653,7 @@ https://enciclopedia.itaucultural.org.br/.
 Considerando a obra O Mamoeiro, de Tarsila do Amaral, qual
 é o principal elemento que caracteriza a influência do
 movimento modernista brasileiro na pintura?`,
-    images: [],
+    images: [{"src":"/fuvest/2025/images/q86_source_1.jpg","width":642,"height":589}],
     alternatives: [
       { id: 'A', type: 'text', value: `O emprego de recursos pictóricos que realçam os efeitos
 de luz e sombra na cena retratada.` },
