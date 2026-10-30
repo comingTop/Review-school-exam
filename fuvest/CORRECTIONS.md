@@ -164,6 +164,29 @@ below describe the state before the corrections.
   Official pages, a contact sheet (q1,7,9,12,13,15,18,23,27,35,49,54,58,63,78,88)
   and the q14 charge-bearing crop were visually inspected.
 
+### 2024 — completed text and crop assets; two attachment limitations
+
+- Full V/K/Q/X/Z comparison identifies V by the unique 89/90 near-match
+  (next best Z 22/90). Corrected q48 C→D; final V agreement is 90/90.
+  The worked solution constructs the official answer of 60 packages.
+- 90 stems, 320 alternative values and all 90 explanations corrected/rewritten.
+  Restored the opening poem for q1–2, formulas, source table rows and all graphic
+  options. q59's actual fractions are 5/6, 1, 6/5, 13/5 and 18/5; its solution
+  gives b = 3/5 and k = 2, hence the official 13/5 in D.
+- 76 crops produced, including all 20 image-typed alternatives. All 75 existing
+  references resolve with actual dimensions and no missing/invalid files.
+  The q26 panels spanning both columns retain their A–E correspondence.
+  Crop provenance is in `fuvest/2024/images/SOURCES.json`.
+- **q4–5 attachment limitation:** the shared Guerrilla Girls advertisement is
+  cropped and delivered as `fuvest/2024/images/q04_source_1.jpg`; neither existing
+  question object has an `images` property. As in 2023 q7–8, adding that field
+  would violate the explicit property-layout constraint. The asset is present
+  but attachment requires client approval or client-side handling.
+- Syntax, V 90/90 answers, booklet and existing-image gates pass with
+  `node tools/check_fuvest.mjs --year=2024`; the AST preservation audit and
+  `git diff --check` pass. Official pages and a contact sheet for
+  q3,4,7,13,18,21,27,31,35,48,49,55,57,59,63,73 were visually inspected.
+
 ## 2025 — V1 sample for client review
 
 Official sources: `sources_fuvest/2025/2025_PV_f1_V1.pdf` and
