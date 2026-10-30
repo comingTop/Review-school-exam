@@ -124,7 +124,78 @@ been checked. Existing refs have not been replaced with fabricated imagery.
 - `2025_PV_f1_V1.pdf`: `f512449b47ac31abe1ae00d5f88fb14478c7139fa1db137145b7e33cec1b97c8`
 - `2025_GB_f1.pdf`: `ddd7f38cc2584298e812f4a7bf083e74be4926ae948f0cb531117a60ec91fd5f`
 
-## 2017–2024
+## Nine-year follow-up — version preflight stopped
 
-Not corrected or version-matched in this sample. Work is paused for client review
-of 2025, as requested. No changes were made to those question files.
+No new question values or crops were changed in this follow-up. The requested
+strict version gate was checked before correction. Work stopped because 2023's
+draft matches V exactly, but the only committed booklet is X. The source
+booklet's cover and first question page both explicitly identify X. The draft
+matches only 25/90 answers from X, compared with 90/90 from V. Do not use X
+question numbers for V crops or silently reorder the draft.
+
+Required source: `sources_fuvest/2023/2023_PV_f1_V.pdf`.
+Remote main was checked and still points to `cc353e0`; no newer source commit
+was available. No external download or network-policy change was attempted.
+
+| Year | Agreement with V (V1 for 2025) | Other exact match | Required source status | Existing image files / referenced files |
+| --- | --- | --- | --- | --- |
+| 2017 | 90/90 | None | V present | 0/52 |
+| 2018 | 89/90 | None | V present, strict draft version gate unresolved | 0/35 |
+| 2019 | 90/90 | None | V present | 0/72 |
+| 2020 | 90/90 | None | V present | 0/47 |
+| 2021 | 90/90 | None | V present | 0/42 |
+| 2022 | 89/90 plus one annulled | None | V present, annulment not represented in draft | 0/77 |
+| 2023 | 90/90 | None | **V missing; only X present** | 0/62 |
+| 2024 | 89/90 | None | V present, strict draft version gate unresolved | 0/76 |
+| 2025 | 90/90 | None | V1 present; text sample unchanged | 2/38 |
+
+These are preflight findings, not claims of corrected years. New answers changed,
+explanations rewritten and images produced in this follow-up: **0 for every
+year**. Correction/cropping remains outstanding for 2017–2024, and the figure
+limitations above remain outstanding for 2025. All nine years have valid syntax
+and 90 sequential IDs, but this does not validate their content.
+
+Additional actionable findings:
+
+- 2018 q29: draft D, official V answer B; no version column matches all 90 draft
+  letters. This is a one-letter difference from V, not an established exact match.
+- 2024 q48: draft C, official V answer D; likewise no exact version match.
+- 2022 V q54: retified key is `*` (annulled), draft is B and is not flagged annulled.
+  The remaining 89 answers match V. The checker treats an annulment separately
+  from A–E answers: it requires `annulled: true`, retaining a type-compatible
+  placeholder letter rather than inventing an official answer letter.
+- 2019: empty alternatives at q5, q9, q10, q15, q17, q20, q25, q35, q36, q37,
+  q41, q47, q58 and q60; q40's alternative IDs are ordered A,D,B,E,C.
+- 2022 q61's alternative IDs are ordered A,D,B,E,C. These structure issues must
+  be addressed consistently with the client's preserve-structure constraint;
+  they were not silently changed during preflight.
+- Existing alternative image values sometimes use `{ src, width, height }`
+  objects instead of strings. The generalized checker supports both formats.
+- 2025 q60/q69 already reference the two existing `.png` crops, whose dimensions
+  match their declarations. There is no current PNG/JPG mismatch for those two
+  references; the other 36 referenced files remain absent.
+
+### Generalized checks
+
+```sh
+node tools/check_fuvest.mjs
+node tools/check_fuvest.mjs --answers-only
+node tools/check_fuvest.mjs --images-only
+node tools/check_fuvest.mjs --year=2025 --answers-only
+```
+
+The full check exits nonzero while any year has an unresolved answer/version,
+source-booklet, alternative-structure or image gate. It reports every year even
+when one has errors. It parses all question files as AST data, parses all five
+version columns (four for 2025) from the appropriate official key format, and
+requires an exact unique match; it never picks the closest version. The source
+booklet must have the matching version filename. Image checks cover question
+images and per-alternative images, resolve exact repository-relative paths,
+and compare real dimensions against declared dimensions when present. Missing
+unreferenced figures still require manual PDF review: a path checker alone
+cannot establish visual completeness.
+
+The full image preflight currently reports **2/501 references present, 499
+missing** across the nine years. This is an expected failing readiness check,
+not a completed image delivery. The isolated 2025 answer check passes. The
+original 2025-only checker is retained for compatibility.
