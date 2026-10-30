@@ -34,6 +34,31 @@ below describe the state before the corrections.
   62,65,70,72,78,81,84) were rendered and visually inspected.
 
 
+### 2018 — completed text and images
+
+- Version V identified by the unique 89/90 near-match permitted in the latest
+  instructions; next-best version X matched only 24/90. Corrected q29 D→B.
+  Final official-key agreement is 90/90.
+- 88 stems, 249 alternative values and all 90 explanations changed. Many draft
+  questions had the right letter attached to neighboring questions' content;
+  restored official order by changing values while preserving IDs and all
+  declarations/exports/property layouts/alternative IDs/types.
+- Restored the correct physics graphs, chemical structures, melatonin sequence,
+  mathematical functions/polynomial, biology items, and shared reading passages.
+  Corrected the negative fermentation enthalpy (−70 kJ/mol) and aligned tags to
+  restored content at the shifted question positions.
+- 35 official crops produced; shared photo references yield 37/37 images present,
+  zero missing, zero dimension mismatches. Crop/page provenance is in
+  `fuvest/2018/images/SOURCES.json`. The misplaced q31 image reference was
+  removed; the corresponding figure remains with its official question.
+- Image-option panels are kept as exact official graphics in `images`; the
+  original text-type alternatives identify their lettered panel. Printed tables
+  were transcribed row by row, rather than flattened by PDF text order.
+- `node tools/check_fuvest.mjs --year=2018` passes syntax, V answer and image gates.
+  A separate AST audit passes structure/metadata preservation; `git diff --check`
+  passes. Rendered PDF pages and a contact sheet for q1,2,5,14,19,20,21,22,25,26,
+  29,33,39,57,60,86 were visually inspected. Nothing deferred for this year.
+
 ## 2025 — V1 sample for client review
 
 Official sources: `sources_fuvest/2025/2025_PV_f1_V1.pdf` and
