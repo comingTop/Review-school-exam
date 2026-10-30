@@ -50,7 +50,7 @@ function questions(year) {
   const qs = data(array);
   for (const [i, q] of qs.entries()) {
     assert.equal(q.id, i + 1, `${year}: IDs must remain 1–90`);
-    assert.match(q.correct, /^[A-E]$/, `${year} q${q.id}: invalid answer`);
+    assert.match(q.correct, /^[A-E*]$/, `${year} q${q.id}: invalid answer`);
     if (q.alternatives.length !== 5 || q.alternatives.map(a => a.id).join('') !== 'ABCDE') {
       console.log(`${year} q${q.id}: alternative structure FAIL — ${q.alternatives.map(a => a.id).join(',') || 'empty'}`);
       failures++;
@@ -95,8 +95,9 @@ for (const year of years) {
       const { dir, keys } = officialKeys(year);
       const matches = keys.map(k => ({ ...k, count: qs.filter(q => k.answers.get(q.id) === q.correct).length }));
       console.log(`${year}: key agreement ${matches.map(k => `${k.version}=${k.count}/90`).join(', ')}`);
-      // Annulled questions have no official correct letter; they must be explicitly flagged.
-      const exact = matches.filter(k => qs.every(q => k.answers.get(q.id) === '*' ? q.annulled === true : k.answers.get(q.id) === q.correct && !q.annulled));
+      // Preserve each draft's property layout: an official '*' can be stored
+      // directly in correct, without adding a new annulled property.
+      const exact = matches.filter(k => qs.every(q => k.answers.get(q.id) === '*' ? q.correct === '*' || q.annulled === true : k.answers.get(q.id) === q.correct && !q.annulled));
       if (exact.length !== 1) {
         console.log(`${year}: answer/version gate FAIL — ${exact.length} exact version matches; no nearest-version guess made`);
         for (const k of matches.filter(k => k.count >= 89)) for (const q of qs) {

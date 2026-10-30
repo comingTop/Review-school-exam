@@ -120,6 +120,27 @@ below describe the state before the corrections.
   `git diff --check` passes. Official pages and a contact sheet covering
   q1,2,4,9,18,28,29,42,47,51,53,62,83,86,88,89 were visually inspected.
 
+### 2022 — completed text and images
+
+- Version V: 89 original letters agree plus q54 annulled in the official retified
+  key. Set q54 `correct` from B to the official `*`; 90/90 entries now agree.
+  Preserved the existing property layout by storing the annulment in `correct`,
+  without introducing a new flag. The shared checker now accepts `*` only when
+  it matches an annulment in the official column. No answer is invented for q54.
+- 89 stems, 271 alternative values and all 90 explanations corrected/rewritten.
+  Restored the three Machado texts for q20–22, table rows, mathematical fractions,
+  chemistry notation and full shared reading passages. q70–71 retain the source's
+  printed enthalpy values and solve Hess's law in the stated per-mol-O₂ units.
+- 92 source crops produced, including all 30 image-typed alternatives; shared
+  figures give 96/96 references present, with zero missing/dimension mismatches.
+  Moved generic `/images/` values into `fuvest/2022/images/`, retaining basenames.
+  q61's existing alternative IDs/types are preserved and their entries ordered A–E.
+  Page and crop coordinates are in `fuvest/2022/images/SOURCES.json`.
+- `node tools/check_fuvest.mjs --year=2022` passes syntax, V answer/annulment,
+  booklet and image gates. Separate AST structure/metadata audit and
+  `git diff --check` pass. Official pages, a figure contact sheet and all 30
+  alternative crops were visually inspected. Nothing deferred for this year.
+
 ## 2025 — V1 sample for client review
 
 Official sources: `sources_fuvest/2025/2025_PV_f1_V1.pdf` and
