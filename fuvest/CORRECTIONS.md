@@ -82,6 +82,23 @@ below describe the state before the corrections.
 - Official pages and contact-sheet samples q1,3,9,12,18,35,39,40,41,44,49,56,57,
   73,76,89 were rendered and visually checked, including the multi-column panels.
 
+### 2020 — completed text and images
+
+- Version V: 90/90 original answers match; no answer letters changed.
+- 79 stems, 230 alternative values and all 90 explanations corrected/rewritten.
+  Restored mathematical notation, the original order of the Drummond poem,
+  full graphic alternatives and row-by-row source tables. Preserved imports,
+  declarations, exports, property layouts, question metadata and alternative IDs/types.
+- 99 official crops produced (including original raster strips and complete
+  option panels); 65 current image references, all present with exact dimensions.
+  Added the vector-based pH table and internet map, which native image extraction
+  alone omitted. Existing applicable filenames retained; crop/page coordinates
+  recorded in `fuvest/2020/images/SOURCES.json`. No figures deferred.
+- Syntax, V 90/90 answer agreement, source availability and image gates pass
+  using `node tools/check_fuvest.mjs --year=2020`; separate AST preservation audit
+  and `git diff --check` pass. Official page renderings and a contact sheet for
+  q1,4,5,8,10,12,16,24,51,52,75,77,84,85,89,90 were visually inspected.
+
 ## 2025 — V1 sample for client review
 
 Official sources: `sources_fuvest/2025/2025_PV_f1_V1.pdf` and
