@@ -1,5 +1,39 @@
 # FUVEST corrections
 
+## Current delivery progress
+
+The version near-match rule in the latest instruction supersedes the strict
+preflight stop below. All drafts identify V (2025: V1); 2018 and 2024 have one
+answer transcription error each, and 2022 V q54 is annulled. The added 2023 V
+booklet is now available. Work proceeds per year; historical preflight counts
+below describe the state before the corrections.
+
+### 2017 — completed text and images
+
+- Version V: 90/90 original answers agree; 0 answer letters changed.
+- 80 stems, 210 alternative values and all 90 explanations corrected/rewritten.
+- 57 official raster figure/diagram crops produced; shared figures give 62
+  references, all 62 present with matching real dimensions. No figure deferred.
+- Corrected misplaced images, including Picasso (q1, formerly attached to q3),
+  the optics experiment (q65, formerly attached to q10), and several science
+  diagrams. Existing applicable filenames are retained even where their old
+  question numbers were misleading; references now follow the official content.
+  The obsolete q10 figure reference was removed; its figure is saved at the
+  existing q65 path. Missing figures with no suitable old reference received
+  additional source filenames. Crop rectangles/page provenance are recorded in
+  `fuvest/2017/images/SOURCES.json`.
+- Restored shared reading passages, the complete Drummond poem, source tables,
+  and mathematical/chemical notation. Fixed substantive draft errors including
+  q16 forest comparison, q25 ethics, q55 autotrophy, q57 relative velocity, q58
+  vector direction and q66 water mass (1.30 g).
+- Gates: `node tools/check_fuvest.mjs --year=2017`: syntax, 90/90 V answers,
+  matched booklet, 62/62 images, zero missing/dimension errors. Separate AST
+  audit confirms preserved imports/declarations/exports, property layout, IDs,
+  year/phase and alternative IDs/types. `git diff --check` passes.
+- Official source pages and a figure contact sheet (q1,14,17,31,37,46,49,57,58,
+  62,65,70,72,78,81,84) were rendered and visually inspected.
+
+
 ## 2025 — V1 sample for client review
 
 Official sources: `sources_fuvest/2025/2025_PV_f1_V1.pdf` and
