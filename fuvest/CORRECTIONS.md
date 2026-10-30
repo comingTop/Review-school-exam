@@ -99,6 +99,27 @@ below describe the state before the corrections.
   and `git diff --check` pass. Official page renderings and a contact sheet for
   q1,4,5,8,10,12,16,24,51,52,75,77,84,85,89,90 were visually inspected.
 
+### 2021 — completed text and images
+
+- Version V: 90/90 original answers agree; no answer letters changed.
+- 88 stems, 289 alternative values and all 90 explanations corrected/rewritten.
+  Restored source passages, formula inequalities/fractions, full table rows and
+  shared English/literature texts. In particular q4, q10 and q11 previously had
+  corrupted or duplicated mathematical choices despite the correct answer letter.
+- The source uses Type3 bitmap fonts with unreadable character codes. Recovery
+  combined page OCR, glyph correspondence and the existing Portuguese vocabulary;
+  formulas, tables and graphical choices were checked against rendered pages.
+  No recovered PDF or temporary OCR files are included in the repository.
+- 96 crop manifest entries, including complete option panels and the source
+  tables in q42; all 59 current image references exist with real dimensions.
+  Shared HMF structures are attached to both q83 and q84. Original q51/q88
+  filenames are retained for the matching figures and option panels. No images deferred.
+- `node tools/check_fuvest.mjs --year=2021` passes syntax, V 90/90 answers,
+  source availability and image/dimension gates. Separate AST audit preserves
+  imports, declarations, exports, layouts, IDs, types and question metadata;
+  `git diff --check` passes. Official pages and a contact sheet covering
+  q1,2,4,9,18,28,29,42,47,51,53,62,83,86,88,89 were visually inspected.
+
 ## 2025 — V1 sample for client review
 
 Official sources: `sources_fuvest/2025/2025_PV_f1_V1.pdf` and
