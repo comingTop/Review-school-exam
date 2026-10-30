@@ -1,0 +1,942 @@
+{
+  "source": "sources_fuvest/2019/2019_PV_f1_V.pdf",
+  "render_scale": 2.5,
+  "crops": [
+    {
+      "question": 3,
+      "page": 2,
+      "rect": [
+        306.0,
+        154.0,
+        436.0,
+        254.0
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_q03_altA.jpg",
+      "width": 325,
+      "height": 250
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "rect": [
+        306.0,
+        359.0,
+        436.0,
+        457.0
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_q03_altC.jpg",
+      "width": 325,
+      "height": 246
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "rect": [
+        438.0,
+        154.0,
+        564.0,
+        254.0
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_q03_altD.jpg",
+      "width": 315,
+      "height": 250
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "rect": [
+        438.0,
+        258.0,
+        564.0,
+        355.0
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_q03_altE.jpg",
+      "width": 315,
+      "height": 243
+    },
+    {
+      "question": 3,
+      "page": 2,
+      "rect": [
+        306.0,
+        154.0,
+        564.0,
+        457.0
+      ],
+      "src": "/fuvest/2019/images/q03_options.jpg",
+      "width": 645,
+      "height": 758
+    },
+    {
+      "question": 9,
+      "page": 4,
+      "rect": [
+        306.0,
+        475.0,
+        564.0,
+        641.0
+      ],
+      "src": "/fuvest/2019/images/q09_temperatures.jpg",
+      "width": 645,
+      "height": 416
+    },
+    {
+      "question": 9,
+      "page": 4,
+      "rect": [
+        306.0,
+        680.0,
+        435.0,
+        782.0
+      ],
+      "src": "/fuvest/2019/images/q09_options.jpg",
+      "width": 323,
+      "height": 255
+    },
+    {
+      "question": 35,
+      "page": 11,
+      "rect": [
+        34.0,
+        109.0,
+        290.0,
+        280.0
+      ],
+      "src": "/fuvest/2019/images/q35_options.jpg",
+      "width": 640,
+      "height": 428
+    },
+    {
+      "question": 39,
+      "page": 12,
+      "rect": [
+        34.0,
+        289.0,
+        290.0,
+        616.0
+      ],
+      "src": "/fuvest/2019/images/q39_options.jpg",
+      "width": 640,
+      "height": 818
+    },
+    {
+      "question": 39,
+      "page": 12,
+      "rect": [
+        34.0,
+        618.0,
+        290.0,
+        692.0
+      ],
+      "src": "/fuvest/2019/images/q39_aminoacids.jpg",
+      "width": 640,
+      "height": 185
+    },
+    {
+      "question": 40,
+      "page": 12,
+      "rect": [
+        372.0,
+        192.0,
+        495.0,
+        325.0
+      ],
+      "src": "/fuvest/2019/images/q40_solutions.jpg",
+      "width": 308,
+      "height": 333
+    },
+    {
+      "question": 41,
+      "page": 13,
+      "rect": [
+        34.0,
+        114.0,
+        291.0,
+        267.0
+      ],
+      "src": "/fuvest/2019/images/q41_boiling.jpg",
+      "width": 643,
+      "height": 383
+    },
+    {
+      "question": 41,
+      "page": 13,
+      "rect": [
+        34.0,
+        337.0,
+        291.0,
+        629.0
+      ],
+      "src": "/fuvest/2019/images/q41_options.jpg",
+      "width": 643,
+      "height": 731
+    },
+    {
+      "question": 44,
+      "page": 14,
+      "rect": [
+        34.0,
+        135.0,
+        290.0,
+        218.0
+      ],
+      "src": "/fuvest/2019/images/q44_polymer.jpg",
+      "width": 640,
+      "height": 208
+    },
+    {
+      "question": 44,
+      "page": 14,
+      "rect": [
+        34.0,
+        270.0,
+        290.0,
+        333.0
+      ],
+      "src": "/fuvest/2019/images/q44_example.jpg",
+      "width": 640,
+      "height": 158
+    },
+    {
+      "question": 44,
+      "page": 14,
+      "rect": [
+        34.0,
+        385.0,
+        290.0,
+        714.0
+      ],
+      "src": "/fuvest/2019/images/q44_options.jpg",
+      "width": 640,
+      "height": 823
+    },
+    {
+      "question": 49,
+      "page": 15,
+      "rect": [
+        306.0,
+        260.0,
+        564.0,
+        583.0
+      ],
+      "src": "/fuvest/2019/images/q49_options.jpg",
+      "width": 645,
+      "height": 808
+    },
+    {
+      "question": 56,
+      "page": 17,
+      "rect": [
+        32.0,
+        162.0,
+        292.0,
+        311.0
+      ],
+      "src": "/fuvest/2019/images/q56_indices.jpg",
+      "width": 650,
+      "height": 373
+    },
+    {
+      "question": 56,
+      "page": 17,
+      "rect": [
+        32.0,
+        360.0,
+        292.0,
+        756.0
+      ],
+      "src": "/fuvest/2019/images/q56_options.jpg",
+      "width": 650,
+      "height": 990
+    },
+    {
+      "question": 39,
+      "page": 12,
+      "rect": [
+        34.0,
+        548.0,
+        290.0,
+        616.0
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_q39_altE.jpg",
+      "width": 640,
+      "height": 170
+    },
+    {
+      "question": 44,
+      "page": 14,
+      "rect": [
+        34.0,
+        385.0,
+        290.0,
+        437.0
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q44_altA.jpg",
+      "width": 640,
+      "height": 131
+    },
+    {
+      "question": 44,
+      "page": 14,
+      "rect": [
+        34.0,
+        437.0,
+        290.0,
+        506.0
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q44_altB.jpg",
+      "width": 640,
+      "height": 173
+    },
+    {
+      "question": 44,
+      "page": 14,
+      "rect": [
+        34.0,
+        506.0,
+        290.0,
+        575.0
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q44_altC.jpg",
+      "width": 640,
+      "height": 173
+    },
+    {
+      "question": 44,
+      "page": 14,
+      "rect": [
+        34.0,
+        575.0,
+        290.0,
+        641.0
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q44_altD.jpg",
+      "width": 640,
+      "height": 166
+    },
+    {
+      "question": 1,
+      "page": 2,
+      "rect": [
+        40.86000061035156,
+        108.2399673461914,
+        281.760009765625,
+        195.719970703125
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q01_1.jpg",
+      "width": 603,
+      "height": 220
+    },
+    {
+      "question": 4,
+      "page": 2,
+      "rect": [
+        312.7799987792969,
+        571.02001953125,
+        553.6799926757812,
+        650.4000244140625
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q04_1.jpg",
+      "width": 604,
+      "height": 199
+    },
+    {
+      "question": 1,
+      "page": 2,
+      "rect": [
+        40.86000061035156,
+        195.7200164794922,
+        281.760009765625,
+        283.1400146484375
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q01_2.jpg",
+      "width": 603,
+      "height": 219
+    },
+    {
+      "question": 6,
+      "page": 3,
+      "rect": [
+        311.5799865722656,
+        164.4000244140625,
+        558.1799926757812,
+        463.9200134277344
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q06_1.jpg",
+      "width": 618,
+      "height": 749
+    },
+    {
+      "question": 6,
+      "page": 3,
+      "rect": [
+        311.5799865722656,
+        463.9200134277344,
+        558.1799926757812,
+        563.7000122070312
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q06_2.jpg",
+      "width": 618,
+      "height": 251
+    },
+    {
+      "question": 8,
+      "page": 4,
+      "rect": [
+        321.0,
+        66.57003021240234,
+        545.280029296875,
+        194.280029296875
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q08_1.jpg",
+      "width": 562,
+      "height": 320
+    },
+    {
+      "question": 10,
+      "page": 5,
+      "rect": [
+        47.880001068115234,
+        221.45697021484375,
+        274.6199951171875,
+        522.719970703125
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q12_1.jpg",
+      "width": 568,
+      "height": 754
+    },
+    {
+      "question": 11,
+      "page": 5,
+      "rect": [
+        320.1000061035156,
+        85.08001708984375,
+        546.8400268554688,
+        231.96002197265625
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q11_1.jpg",
+      "width": 568,
+      "height": 368
+    },
+    {
+      "question": 11,
+      "page": 5,
+      "rect": [
+        320.1000061035156,
+        241.79998779296875,
+        546.780029296875,
+        297.41998291015625
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q11_2.jpg",
+      "width": 567,
+      "height": 140
+    },
+    {
+      "question": 12,
+      "page": 5,
+      "rect": [
+        306.17999267578125,
+        532.4400024414062,
+        583.9199829101562,
+        629.8200073242188
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q12_2.jpg",
+      "width": 695,
+      "height": 244
+    },
+    {
+      "question": 13,
+      "page": 6,
+      "rect": [
+        52.20000076293945,
+        137.52001953125,
+        270.4800109863281,
+        214.08001708984375
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q15_1.jpg",
+      "width": 547,
+      "height": 193
+    },
+    {
+      "question": 13,
+      "page": 6,
+      "rect": [
+        52.20000076293945,
+        214.08001708984375,
+        270.4800109863281,
+        290.58001708984375
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q15_2.jpg",
+      "width": 547,
+      "height": 192
+    },
+    {
+      "question": 14,
+      "page": 6,
+      "rect": [
+        55.08000183105469,
+        510.93798828125,
+        267.6600036621094,
+        658.9199829101562
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q14_1.jpg",
+      "width": 533,
+      "height": 371
+    },
+    {
+      "question": 16,
+      "page": 6,
+      "rect": [
+        314.1600036621094,
+        373.67999267578125,
+        552.719970703125,
+        438.9599914550781
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q14_2.jpg",
+      "width": 597,
+      "height": 164
+    },
+    {
+      "question": 18,
+      "page": 7,
+      "rect": [
+        90.77999877929688,
+        483.4800109863281,
+        232.44000244140625,
+        539.8200073242188
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q18_1.jpg",
+      "width": 356,
+      "height": 142
+    },
+    {
+      "question": 18,
+      "page": 7,
+      "rect": [
+        90.77999877929688,
+        539.8199462890625,
+        232.44000244140625,
+        596.0999755859375
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q21_1.jpg",
+      "width": 356,
+      "height": 142
+    },
+    {
+      "question": 19,
+      "page": 7,
+      "rect": [
+        319.739990234375,
+        103.3800277709961,
+        547.6199951171875,
+        155.34002685546875
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q19_1.jpg",
+      "width": 571,
+      "height": 131
+    },
+    {
+      "question": 20,
+      "page": 7,
+      "rect": [
+        447.8399963378906,
+        363.8399963378906,
+        546.239990234375,
+        477.6000061035156
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q18_2.jpg",
+      "width": 247,
+      "height": 285
+    },
+    {
+      "question": 22,
+      "page": 8,
+      "rect": [
+        99.12000274658203,
+        103.2129898071289,
+        224.04000854492188,
+        225.239990234375
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q26_1.jpg",
+      "width": 314,
+      "height": 306
+    },
+    {
+      "question": 30,
+      "page": 9,
+      "rect": [
+        373.9200134277344,
+        96.96002197265625,
+        493.44000244140625,
+        239.280029296875
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q30_1.jpg",
+      "width": 300,
+      "height": 357
+    },
+    {
+      "question": 32,
+      "page": 10,
+      "rect": [
+        76.55999755859375,
+        139.9800262451172,
+        246.66000366210938,
+        203.4000244140625
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q34_1.jpg",
+      "width": 426,
+      "height": 160
+    },
+    {
+      "question": 32,
+      "page": 10,
+      "rect": [
+        76.55999755859375,
+        203.40000915527344,
+        246.66000366210938,
+        266.760009765625
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q34_2.jpg",
+      "width": 426,
+      "height": 159
+    },
+    {
+      "question": 33,
+      "page": 10,
+      "rect": [
+        62.15999984741211,
+        531.6000366210938,
+        261.1199951171875,
+        646.0800170898438
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q33_1.jpg",
+      "width": 498,
+      "height": 287
+    },
+    {
+      "question": 36,
+      "page": 11,
+      "rect": [
+        41.58000183105469,
+        435.41998291015625,
+        281.2799987792969,
+        496.6199951171875
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q38_1.jpg",
+      "width": 601,
+      "height": 154
+    },
+    {
+      "question": 36,
+      "page": 11,
+      "rect": [
+        41.58000183105469,
+        496.6199951171875,
+        281.2799987792969,
+        557.760009765625
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q38_2.jpg",
+      "width": 601,
+      "height": 154
+    },
+    {
+      "question": 42,
+      "page": 13,
+      "rect": [
+        306.0,
+        109.20001220703125,
+        547.2000122070312,
+        160.08001708984375
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q09_2.jpg",
+      "width": 603,
+      "height": 128
+    },
+    {
+      "question": 43,
+      "page": 13,
+      "rect": [
+        306.17999267578125,
+        381.96002197265625,
+        561.2999877929688,
+        454.260009765625
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q43_1.jpg",
+      "width": 639,
+      "height": 182
+    },
+    {
+      "question": 43,
+      "page": 13,
+      "rect": [
+        306.17999267578125,
+        454.260009765625,
+        561.2999877929688,
+        526.5
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q43_2.jpg",
+      "width": 639,
+      "height": 182
+    },
+    {
+      "question": 45,
+      "page": 14,
+      "rect": [
+        498.8999938964844,
+        74.8800277709961,
+        552.1719970703125,
+        93.780029296875
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q45_1.jpg",
+      "width": 134,
+      "height": 48
+    },
+    {
+      "question": 45,
+      "page": 14,
+      "rect": [
+        498.8999938964844,
+        93.77999114990234,
+        552.1719970703125,
+        112.67999267578125
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q45_2.jpg",
+      "width": 134,
+      "height": 48
+    },
+    {
+      "question": 45,
+      "page": 14,
+      "rect": [
+        498.8999938964844,
+        112.68002319335938,
+        552.1719970703125,
+        131.52001953125
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q45_3.jpg",
+      "width": 134,
+      "height": 48
+    },
+    {
+      "question": 51,
+      "page": 16,
+      "rect": [
+        129.66000366210938,
+        164.39999389648438,
+        276.05999755859375,
+        248.8800048828125
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q54_1.jpg",
+      "width": 367,
+      "height": 212
+    },
+    {
+      "question": 52,
+      "page": 16,
+      "rect": [
+        166.74000549316406,
+        418.08001708984375,
+        274.44000244140625,
+        506.6400146484375
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q52_1.jpg",
+      "width": 271,
+      "height": 222
+    },
+    {
+      "question": 52,
+      "page": 16,
+      "rect": [
+        166.74000549316406,
+        506.6399841308594,
+        274.44000244140625,
+        550.8599853515625
+      ],
+      "src": "/fuvest/2019/images/q52_source_2.jpg",
+      "width": 271,
+      "height": 112
+    },
+    {
+      "question": 54,
+      "page": 16,
+      "rect": [
+        306.17999267578125,
+        161.94003295898438,
+        567.0,
+        252.9000244140625
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q54_2.jpg",
+      "width": 653,
+      "height": 229
+    },
+    {
+      "question": 55,
+      "page": 16,
+      "rect": [
+        310.32000732421875,
+        553.2000122070312,
+        557.0400390625,
+        595.6799926757812
+      ],
+      "src": "/fuvest/2019/images/q55_source_1.jpg",
+      "width": 618,
+      "height": 107
+    },
+    {
+      "question": 57,
+      "page": 17,
+      "rect": [
+        306.17999267578125,
+        80.7599868774414,
+        561.2999877929688,
+        160.8599853515625
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q57_3.jpg",
+      "width": 639,
+      "height": 202
+    },
+    {
+      "question": 62,
+      "page": 18,
+      "rect": [
+        311.5799865722656,
+        83.81999206542969,
+        580.7999877929688,
+        147.1199951171875
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q15_3.jpg",
+      "width": 674,
+      "height": 159
+    },
+    {
+      "question": 62,
+      "page": 18,
+      "rect": [
+        311.5799865722656,
+        147.11997985839844,
+        580.7999877929688,
+        210.3599853515625
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q15_4.jpg",
+      "width": 674,
+      "height": 159
+    },
+    {
+      "question": 73,
+      "page": 21,
+      "rect": [
+        371.3999938964844,
+        59.97698211669922,
+        496.0799865722656,
+        138.41998291015625
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q68_1.jpg",
+      "width": 313,
+      "height": 198
+    },
+    {
+      "question": 76,
+      "page": 22,
+      "rect": [
+        90.77999877929688,
+        209.63999938964844,
+        218.45999145507812,
+        252.1199951171875
+      ],
+      "src": "/fuvest/2019/images/q76_source_1.jpg",
+      "width": 321,
+      "height": 107
+    },
+    {
+      "question": 76,
+      "page": 22,
+      "rect": [
+        90.77999877929688,
+        252.11997985839844,
+        218.45999145507812,
+        294.53997802734375
+      ],
+      "src": "/fuvest/2019/images/q76_source_2.jpg",
+      "width": 321,
+      "height": 107
+    },
+    {
+      "question": 82,
+      "page": 23,
+      "rect": [
+        301.9200134277344,
+        63.65997314453125,
+        576.8400268554688,
+        177.719970703125
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q82_1.jpg",
+      "width": 689,
+      "height": 286
+    },
+    {
+      "question": 82,
+      "page": 23,
+      "rect": [
+        301.9200134277344,
+        177.719970703125,
+        576.8400268554688,
+        291.719970703125
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q81_1.jpg",
+      "width": 689,
+      "height": 286
+    },
+    {
+      "question": 86,
+      "page": 24,
+      "rect": [
+        376.739990234375,
+        411.7799987792969,
+        490.0799865722656,
+        510.7799987792969
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q86_1.jpg",
+      "width": 285,
+      "height": 248
+    },
+    {
+      "question": 86,
+      "page": 24,
+      "rect": [
+        376.739990234375,
+        510.77996826171875,
+        490.0799865722656,
+        560.219970703125
+      ],
+      "src": "/fuvest/2019/images/q86_source_2.jpg",
+      "width": 285,
+      "height": 125
+    },
+    {
+      "question": 89,
+      "page": 25,
+      "rect": [
+        311.5799865722656,
+        158.27999877929688,
+        566.6400146484375,
+        234.0
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q89_1.jpg",
+      "width": 639,
+      "height": 190
+    },
+    {
+      "question": 89,
+      "page": 25,
+      "rect": [
+        311.5799865722656,
+        233.99996948242188,
+        566.6400146484375,
+        309.65997314453125
+      ],
+      "src": "/fuvest/2019/images/fuvest_2019_f1q88_1.jpg",
+      "width": 639,
+      "height": 190
+    }
+  ]
+}

@@ -59,6 +59,29 @@ below describe the state before the corrections.
   passes. Rendered PDF pages and a contact sheet for q1,2,5,14,19,20,21,22,25,26,
   29,33,39,57,60,86 were visually inspected. Nothing deferred for this year.
 
+### 2019 — completed text and images
+
+- Version V: 90/90 original answers match; no answer letter changes.
+- 88 stems, 295 alternative values and all 90 explanations corrected/rewritten.
+  Restored the 14 empty alternative arrays with official A–E choices. Reordered
+  q40's existing alternative entries into A–E without changing any existing ID
+  or type. Imports, declarations, exports, top-level property layouts and all
+  question IDs/year/phase values remain unchanged.
+- Restored heavily truncated stems, shared text and the two poems for q68–69;
+  reconstructed formula notation and source tables. Graphic alternatives are
+  preserved as exact complete official panels, with existing image-typed value
+  objects and their original file paths retained and dimensions corrected.
+- 72 crops produced; 80 question/alternative image references all resolve with
+  matching dimensions, zero missing. `fuvest/2019/images/SOURCES.json` records
+  crop pages and rectangles. Shared passage photos are correctly linked to
+  q73–75 and q76–79. No figures deferred.
+- `node tools/check_fuvest.mjs --year=2019` passes syntax, ordered IDs, V 90/90,
+  source availability and image checks. AST audit confirms unchanged metadata
+  and every pre-existing alternative ID/type, with only missing official choices
+  populated. `git diff --check` passes.
+- Official pages and contact-sheet samples q1,3,9,12,18,35,39,40,41,44,49,56,57,
+  73,76,89 were rendered and visually checked, including the multi-column panels.
+
 ## 2025 — V1 sample for client review
 
 Official sources: `sources_fuvest/2025/2025_PV_f1_V1.pdf` and
