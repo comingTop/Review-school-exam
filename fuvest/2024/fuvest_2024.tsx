@@ -232,6 +232,7 @@ na estética visual da obra.`
 
 No anúncio, o segmento “won’t bestow mega-buck prices”
 indica`,
+    images: [{"src":"/fuvest/2024/images/fuvest_2024_q04_1.jpg","width":604,"height":498}],
     alternatives: [
       {
         id: "A",
@@ -278,6 +279,7 @@ obras de arte consagradas.`
 
 Considerado o contexto, a expressão “be worth” tem sentido
 de`,
+    images: [{"src":"/fuvest/2024/images/fuvest_2024_q04_1.jpg","width":604,"height":498}],
     alternatives: [
       {
         id: "A",

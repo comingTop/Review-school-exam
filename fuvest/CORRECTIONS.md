@@ -2,18 +2,16 @@
 
 All nine years have been checked against their matched official first-phase
 booklets and answer keys. There are **810/810 matching key entries**, including
-2022 V q54's official annulment, and **582/582 existing image references resolve**
+2022 V q54's official annulment, and **586/586 image references resolve**
 with zero missing files, invalid paths or dimension mismatches. All nine files
 pass TypeScript syntax parsing. This is a data-file review; the repository's
 ENEM-only type check does not validate the FUVEST schema.
 
-**Four image attachments remain constrained by the explicit structure rule:**
-2023 q7–8 and 2024 q4–5 have no existing `images` property. Both shared figures
-are confidently located and their crop files are delivered, but adding their
-references would add a property. The client explicitly chose to preserve the structure and record the pending
-attachments; the original layouts remain intact. No crop is unlocatable. All other official
-raster figures found in the matched booklets, along with the necessary vector
-figures/tables and image-option panels, are delivered.
+**All shared figures are now wired:** 2023 q7–8 (shared Armandinho strip) and
+2024 q4–5 (shared Guerrilla Girls / Tate advertisement) previously had no `images`
+property; the located crops are now attached to each of the four questions
+(`fuvest_2023_q07_1.jpg`, `fuvest_2024_q04_1.jpg`), consistent with the `images`
+field already used throughout each file. No crop remains unlocatable or deferred.
 
 | Year | Version | Answers changed | Stems changed | Alternative values changed | Explanations rewritten | Crops | Existing image refs present | Deferred attachment |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
@@ -23,8 +21,8 @@ figures/tables and image-option panels, are delivered.
 | 2020 | V | 0 | 79 | 230 | 90 | 99 | 65/65 | None |
 | 2021 | V | 0 | 88 | 289 | 90 | 96 | 59/59 | None |
 | 2022 | V | 1: q54 B→* (annulled) | 89 | 271 | 90 | 92 | 96/96 | None |
-| 2023 | V | 0 | 90 | 268 | 90 | 62 | 61/61 | q7–8: missing property |
-| 2024 | V | 1: q48 C→D | 90 | 320 | 90 | 76 | 75/75 | q4–5: missing property |
+| 2023 | V | 0 | 90 | 268 | 90 | 63 | 63/63 | None |
+| 2024 | V | 1: q48 C→D | 90 | 320 | 90 | 77 | 77/77 | None |
 | 2025 | V1 | 0 | 77 | 377 | 90 | 46 | 47/47 | None |
 
 Text counts compare each completed year against its incoming draft; 2025 includes

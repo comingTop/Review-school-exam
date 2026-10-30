@@ -350,6 +350,7 @@ O uso dos verbos “passar” (2º parágrafo) e “tentar”
     text: `Disponível em https://tirasarmandinho.tumblr.com/. Adaptado.
 
 Os verbos “detonar” e “avariar”, no texto, são exemplos de`,
+    images: [{"src":"/fuvest/2023/images/fuvest_2023_q07_1.jpg","width":568,"height":201}],
     alternatives: [
       { id: "A", type: "text", value: `usos linguísticos próprios de gêneros da área jurídica.` },
       { id: "B", type: "text", value: `termos cujos sentidos se contradizem na composição da
@@ -377,6 +378,7 @@ personagem.` }
     text: `Disponível em https://tirasarmandinho.tumblr.com/. Adaptado.
 
 Da leitura da tira, depreende-se que`,
+    images: [{"src":"/fuvest/2023/images/fuvest_2023_q07_1.jpg","width":568,"height":201}],
     alternatives: [
       { id: "A", type: "text", value: `o filho leva o pai a uma reflexão inócua a respeito do
 patrimônio público.` },
