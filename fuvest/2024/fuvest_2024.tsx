@@ -71,7 +71,8 @@ para indicar o grau de difusão do movimento.`
     subject: ["lit"],
     topics: [
       "Análise de obras",
-      "Escolas literárias"
+      "Escolas literárias",
+      "Questões aleatórias"
     ]
   },
   {
@@ -144,7 +145,8 @@ enfrentar os problemas sociais atuais.`
     subject: ["lit"],
     topics: [
       "Análise de obras",
-      "Escolas literárias"
+      "Escolas literárias",
+      "Questões aleatórias"
     ]
   },
   {
@@ -220,7 +222,8 @@ na estética visual da obra.`
     subject: ["lit"],
     topics: [
       "Análise de obras",
-      "Literatura brasileira"
+      "Literatura brasileira",
+      "Questões aleatórias"
     ]
   },
   {
@@ -267,7 +270,8 @@ obras de arte consagradas.`
     subject: ["ing"],
     topics: [
       "Interpretação de texto",
-      "Vocabulário"
+      "Vocabulário",
+      "Questões aleatórias"
     ]
   },
   {
@@ -312,7 +316,8 @@ de`,
     subject: ["ing"],
     topics: [
       "Vocabulário",
-      "Interpretação de texto"
+      "Interpretação de texto",
+      "Questões aleatórias"
     ]
   },
   {
@@ -435,7 +440,8 @@ escravo.`
     subject: ["his"],
     topics: [
       "Brasil Império",
-      "Brasil República"
+      "Brasil República",
+      "Questões aleatórias"
     ]
   },
   {
@@ -526,7 +532,8 @@ evitar serem vítimas de racismo.`
     subject: ["fil"],
     topics: [
       "Teoria do conhecimento",
-      "Política"
+      "Política",
+      "Questões aleatórias"
     ]
   },
   {
@@ -606,7 +613,8 @@ apartheid.`
     subject: ["lit"],
     topics: [
       "Análise de obras",
-      "Literatura portuguesa"
+      "Literatura portuguesa",
+      "Questões aleatórias"
     ]
   },
   {
@@ -671,7 +679,8 @@ compartilhar seu conhecimento.`
     subject: ["por"],
     topics: [
       "Interpretação de texto",
-      "Literatura brasileira"
+      "Literatura brasileira",
+      "Questões aleatórias"
     ]
   },
   {
@@ -744,7 +753,8 @@ educadores.`
     explanation: `O texto afirma que visitantes passam por instalações sem perceber o que ocorre ao redor. Isso evidencia indiferença diante das simulações, contrariando a promessa de envolvimento das exposições imersivas.`,
     subject: ["por"],
     topics: [
-      "Interpretação de texto"
+      "Interpretação de texto",
+      "Questões aleatórias"
     ]
   },
   {
@@ -818,7 +828,8 @@ usada nas instalações.`
     explanation: `A autora critica a cobrança adicional por equipamentos de realidade virtual que nem sempre estão incluídos no ingresso. O custo extra acompanha sua avaliação negativa da experiência oferecida.`,
     subject: ["por"],
     topics: [
-      "Interpretação de texto"
+      "Interpretação de texto",
+      "Questões aleatórias"
     ]
   },
   {
@@ -870,7 +881,8 @@ Note e adote: A posição bₘₙ da matriz produto M × M = M² é dada pela ex
     subject: ["mat"],
     topics: [
       "Funções",
-      "Análise combinatória"
+      "Análise combinatória",
+      "Questões aleatórias"
     ]
   },
   {
@@ -921,7 +933,8 @@ com o alelo dominante.`
     subject: ["bio"],
     topics: [
       "Genética",
-      "Fisiologia humana"
+      "Fisiologia humana",
+      "Questões aleatórias"
     ]
   },
   {
@@ -965,7 +978,8 @@ como resultado:`,
     subject: ["lit"],
     topics: [
       "Literatura brasileira",
-      "Análise de obras"
+      "Análise de obras",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1012,7 +1026,8 @@ Omar e Yaqub.`
     subject: ["lit"],
     topics: [
       "Literatura brasileira",
-      "Análise de obras"
+      "Análise de obras",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1071,7 +1086,8 @@ aleatórias.`
     subject: ["bio"],
     topics: [
       "Citologia",
-      "Evolução"
+      "Evolução",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1119,7 +1135,8 @@ A almôndega de mamute possui células`,
     subject: ["bio"],
     topics: [
       "Biotecnologia",
-      "Genética"
+      "Genética",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1169,7 +1186,8 @@ alimentos à base de olestra.`,
     subject: ["bio"],
     topics: [
       "Fisiologia humana",
-      "Citologia"
+      "Citologia",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1275,7 +1293,8 @@ baixa.`
     subject: ["qui"],
     topics: [
       "Físico-química",
-      "Química Geral"
+      "Química Geral",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1337,7 +1356,8 @@ derivadas do culto do conhecimento empírico.`
     subject: ["fil"],
     topics: [
       "Filosofia Moderna",
-      "Teoria do conhecimento"
+      "Teoria do conhecimento",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1401,7 +1421,8 @@ de geração.`
     subject: ["fil"],
     topics: [
       "Filosofia Antiga",
-      "Teoria do conhecimento"
+      "Teoria do conhecimento",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1464,7 +1485,8 @@ interferência da luz deveriam estar incorretos.`
     subject: ["fis"],
     topics: [
       "Óptica",
-      "Ondulatória"
+      "Ondulatória",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1596,7 +1618,8 @@ Violeta 7,5 x 10¹⁴`,
     subject: ["fis"],
     topics: [
       "Óptica",
-      "Ondulatória"
+      "Ondulatória",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1725,7 +1748,8 @@ passagem de luz, o que torna o interior escuro.`
     subject: ["qui"],
     topics: [
       "Química Geral",
-      "Físico-química"
+      "Físico-química",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1792,7 +1816,8 @@ fornecer menos calor por volume de gás.`
     subject: ["qui"],
     topics: [
       "Físico-química",
-      "Química Geral"
+      "Química Geral",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1856,7 +1881,8 @@ Massa molar do Zn = 65,4 g/mol.`,
     subject: ["qui"],
     topics: [
       "Química Geral",
-      "Físico-química"
+      "Físico-química",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1909,7 +1935,8 @@ abastecimento?
     explanation: `A água retirada corresponde à calota superior da seção circular de raio 1 e altura 1/2. Seu ângulo central é 120°, pois cos 60° = 1/2. A área da calota é π/3 − √3/4. Multiplicando pelo comprimento 6, o volume retirado é 2π − 3√3/2 m³.`,
     subject: ["mat"],
     topics: [
-      "Geometria"
+      "Geometria",
+      "Questões aleatórias"
     ]
   },
   {
@@ -1962,7 +1989,8 @@ cidade I cidade II cidade III cidade IV`,
     subject: ["bio"],
     topics: [
       "Fisiologia humana",
-      "Ecologia"
+      "Ecologia",
+      "Questões aleatórias"
     ]
   },
   {
@@ -2089,7 +2117,8 @@ moda = mediana = média = amplitude = 23.`,
     subject: ["mat"],
     topics: [
       "Estatística",
-      "Análise combinatória"
+      "Análise combinatória",
+      "Questões aleatórias"
     ]
   },
   {
@@ -2200,7 +2229,8 @@ Miguilim tinha do tempo, porque`,
     subject: ["lit"],
     topics: [
       "Literatura brasileira",
-      "Análise de obras"
+      "Análise de obras",
+      "Questões aleatórias"
     ]
   },
   {
@@ -2246,7 +2276,8 @@ moçambicanas.`
     subject: ["lit"],
     topics: [
       "Literatura portuguesa",
-      "Análise de obras"
+      "Análise de obras",
+      "Questões aleatórias"
     ]
   },
   {
@@ -2297,7 +2328,8 @@ caracterização deve-se ao fato de que ele apresenta`,
     subject: ["lit"],
     topics: [
       "Análise de obras",
-      "Escolas literárias"
+      "Escolas literárias",
+      "Questões aleatórias"
     ]
   },
   {
@@ -2358,7 +2390,8 @@ cotidiano.`
     subject: ["lit"],
     topics: [
       "Literatura brasileira",
-      "Análise de obras"
+      "Análise de obras",
+      "Questões aleatórias"
     ]
   },
   {
@@ -2426,7 +2459,8 @@ orgânicas complexas.`
     subject: ["bio"],
     topics: [
       "Ecologia",
-      "Citologia"
+      "Citologia",
+      "Questões aleatórias"
     ]
   },
   {
@@ -2492,7 +2526,8 @@ temperatura do planeta, as chuvas são enriquecidas em
     subject: ["qui"],
     topics: [
       "Físico-química",
-      "Química Geral"
+      "Química Geral",
+      "Questões aleatórias"
     ]
   },
   {
@@ -2633,7 +2668,8 @@ global.`
     subject: ["geo"],
     topics: [
       "Meio ambiente",
-      "Geopolítica"
+      "Geopolítica",
+      "Questões aleatórias"
     ]
   },
   {
@@ -2763,7 +2799,8 @@ investimentos.`
     subject: ["his"],
     topics: [
       "História Geral",
-      "Brasil República"
+      "Brasil República",
+      "Questões aleatórias"
     ]
   },
   {
@@ -2826,7 +2863,8 @@ o desenvolvimento da malha ferroviária e portuária.`
     subject: ["geo"],
     topics: [
       "Geopolítica",
-      "Cartografia"
+      "Cartografia",
+      "Questões aleatórias"
     ]
   },
   {
@@ -3005,7 +3043,8 @@ Note e adote: cos(60°) = 0,5; sen(60°) = √3/2.`,
     subject: ["mat"],
     topics: [
       "Geometria",
-      "Trigonometria"
+      "Trigonometria",
+      "Questões aleatórias"
     ]
   },
   {
@@ -3060,7 +3099,8 @@ Note e adote: Assuma que o intervalo de tempo entre os pingos seja o mesmo.`,
     subject: ["fis"],
     topics: [
       "Cinemática",
-      "Trabalho, energia e potência"
+      "Trabalho, energia e potência",
+      "Questões aleatórias"
     ]
   },
   {
@@ -3108,7 +3148,8 @@ Note e adote: Aceleração da gravidade g = 10 m/s².`,
     subject: ["fis"],
     topics: [
       "Trabalho, energia e potência",
-      "Cinemática"
+      "Cinemática",
+      "Questões aleatórias"
     ]
   },
   {
@@ -3271,7 +3312,8 @@ doações de ONGs.`
     explanation: `O texto identifica cortes de gastos e mudanças de prioridades em escolas públicas como fatores que reduziram aulas e atividades esportivas. Famílias de menor renda dependem mais dessas oportunidades escolares.`,
     subject: ["por"],
     topics: [
-      "Interpretação de texto"
+      "Interpretação de texto",
+      "Questões aleatórias"
     ]
   },
   {
@@ -3346,7 +3388,8 @@ Considerado o contexto, o termo “far”, na expressão “far less”
     subject: ["ing"],
     topics: [
       "Interpretação de texto",
-      "Vocabulário"
+      "Vocabulário",
+      "Questões aleatórias"
     ]
   },
   {
@@ -3456,7 +3499,8 @@ S = 16, Cl = 17.`,
     subject: ["qui"],
     topics: [
       "Química Geral",
-      "Físico-química"
+      "Físico-química",
+      "Questões aleatórias"
     ]
   },
   {
@@ -3569,7 +3613,8 @@ F₂ + 2e⁻ ⇌ 2F⁻; E° = +2,87 V`,
     subject: ["qui"],
     topics: [
       "Eletroquímica",
-      "Química Geral"
+      "Química Geral",
+      "Questões aleatórias"
     ]
   },
   {
@@ -3611,7 +3656,8 @@ F₂ + 2e⁻ ⇌ 2F⁻; E° = +2,87 V`,
     subject: ["mat"],
     topics: [
       "Funções",
-      "Análise combinatória"
+      "Análise combinatória",
+      "Questões aleatórias"
     ]
   },
   {
@@ -3652,7 +3698,8 @@ F₂ + 2e⁻ ⇌ 2F⁻; E° = +2,87 V`,
     subject: ["mat"],
     topics: [
       "Funções",
-      "Geometria"
+      "Geometria",
+      "Questões aleatórias"
     ]
   },
   {
@@ -3712,7 +3759,8 @@ ambientes com presença de neve eterna.`
     subject: ["geo"],
     topics: [
       "Geografia física",
-      "Meio ambiente"
+      "Meio ambiente",
+      "Questões aleatórias"
     ]
   },
   {
@@ -3775,7 +3823,8 @@ morfoclimáticos:`,
     subject: ["geo"],
     topics: [
       "Geografia física",
-      "Meio ambiente"
+      "Meio ambiente",
+      "Questões aleatórias"
     ]
   },
   {
@@ -3911,7 +3960,8 @@ instalação de garimpos e extração de madeira.`
     subject: ["bio"],
     topics: [
       "Ecologia",
-      "Evolução"
+      "Evolução",
+      "Questões aleatórias"
     ]
   },
   {
@@ -3979,7 +4029,8 @@ fotossíntese e respiração permanecerão equivalentes.`
     subject: ["geo"],
     topics: [
       "Meio ambiente",
-      "Geografia física"
+      "Geografia física",
+      "Questões aleatórias"
     ]
   },
   {
@@ -4046,7 +4097,8 @@ erosivo.`
     subject: ["geo"],
     topics: [
       "Meio ambiente",
-      "Geografia física"
+      "Geografia física",
+      "Questões aleatórias"
     ]
   },
   {
@@ -4120,7 +4172,8 @@ contradição, que, todavia, não se sustenta porque`,
     subject: ["lit"],
     topics: [
       "Literatura brasileira",
-      "Análise de obras"
+      "Análise de obras",
+      "Questões aleatórias"
     ]
   },
   {
@@ -4185,7 +4238,8 @@ permite afirmar que a predação é realizada por um/uma`,
     subject: ["bio"],
     topics: [
       "Ecologia",
-      "Evolução"
+      "Evolução",
+      "Questões aleatórias"
     ]
   },
   {
@@ -4234,7 +4288,8 @@ vertebrados incluídos no cladograma`
     subject: ["bio"],
     topics: [
       "Evolução",
-      "Ecologia"
+      "Ecologia",
+      "Questões aleatórias"
     ]
   },
   {
@@ -4298,7 +4353,8 @@ correntes marítimas frias.`
     subject: ["geo"],
     topics: [
       "Geografia física",
-      "Geopolítica"
+      "Geopolítica",
+      "Questões aleatórias"
     ]
   },
   {
@@ -4358,7 +4414,8 @@ Note e adote: Considere apenas trocas de calor entre a água no copo e a água n
     subject: ["fis"],
     topics: [
       "Termologia",
-      "Trabalho, energia e potência"
+      "Trabalho, energia e potência",
+      "Questões aleatórias"
     ]
   },
   {
@@ -4413,7 +4470,8 @@ Despreze efeitos de dilatação ou contração da câmara do pneu.`,
     subject: ["fis"],
     topics: [
       "Termologia",
-      "Trabalho, energia e potência"
+      "Trabalho, energia e potência",
+      "Questões aleatórias"
     ]
   },
   {
@@ -4528,7 +4586,8 @@ grau de pureza dos reagentes isolados.`
     subject: ["qui"],
     topics: [
       "Físico-química",
-      "Química Geral"
+      "Química Geral",
+      "Questões aleatórias"
     ]
   },
   {
@@ -4584,7 +4643,8 @@ comércio do Mediterrâneo com o interior da África.`
     subject: ["his"],
     topics: [
       "História Geral",
-      "Geopolítica"
+      "Geopolítica",
+      "Questões aleatórias"
     ]
   },
   {
@@ -4664,7 +4724,8 @@ Harlem.`
     subject: ["his"],
     topics: [
       "História Geral",
-      "Brasil República"
+      "Brasil República",
+      "Questões aleatórias"
     ]
   },
   {
@@ -5012,7 +5073,8 @@ beneficia desse tipo de trabalho.`
     subject: ["lit"],
     topics: [
       "Literatura portuguesa",
-      "Análise de obras"
+      "Análise de obras",
+      "Questões aleatórias"
     ]
   },
   {
@@ -5098,7 +5160,8 @@ refere-se às terras férteis ocupadas pelos portugueses.`
     subject: ["lit"],
     topics: [
       "Literatura portuguesa",
-      "Análise de obras"
+      "Análise de obras",
+      "Questões aleatórias"
     ]
   },
   {
@@ -5185,7 +5248,8 @@ relação conjugal e pela felicidade do casal.`
     subject: ["lit"],
     topics: [
       "Literatura portuguesa",
-      "Análise de obras"
+      "Análise de obras",
+      "Questões aleatórias"
     ]
   },
   {
@@ -5384,7 +5448,8 @@ desempenhavam funções idênticas.`
     subject: ["his"],
     topics: [
       "Brasil Colônia",
-      "História Geral"
+      "História Geral",
+      "Questões aleatórias"
     ]
   },
   {
@@ -5445,7 +5510,8 @@ forma de civilização.`
     subject: ["his"],
     topics: [
       "História Geral",
-      "Brasil Colônia"
+      "Brasil Colônia",
+      "Questões aleatórias"
     ]
   },
   {
@@ -5518,7 +5584,8 @@ argumenta que a intérprete`,
     subject: ["ing"],
     topics: [
       "Interpretação de texto",
-      "Vocabulário"
+      "Vocabulário",
+      "Questões aleatórias"
     ]
   },
   {
@@ -5576,7 +5643,8 @@ sotaque na língua falada.`
     subject: ["por"],
     topics: [
       "Interpretação de texto",
-      "Gramática"
+      "Gramática",
+      "Questões aleatórias"
     ]
   },
   {
