@@ -121,7 +121,7 @@ ser calculado por`,
     year: 2021,
     phase: 1,
     text: `Uma treinadora de basquete aplica o seguinte sistema de
-pontuação em seus treinos de arremesso a cesta: cada jogadora
+pontuação em seus treinos de arremesso à cesta: cada jogadora
 recebe 5 pontos por arremesso acertado e perde 2 pontos por
 arremesso errado. Ao fim de 50 arremessos, uma das jogadoras
 contabilizou 124 pontos. Qual é a diferença entre as quantidades
@@ -430,12 +430,12 @@ conhecimento do núcleo do planeta Terra explorado na região.` },
     phase: 1,
     text: `A linha de fronteira hoje possui uma definição essencialmente econômica — como a fronteira da lucratividade — mas adquire uma
 expressão geográfica bastante acentuada em diferentes escalas espaciais. Isto é, basicamente, o que a fronteira do século XIX e a
-assim chamada fronteira urbana têm em comum. Na realidade, ambas estão associadas a acumulação e expansão do capital.
+assim chamada fronteira urbana têm em comum. Na realidade, ambas estão associadas à acumulação e expansão do capital.
 Mas enquanto a fronteira do século XIX representou a realização de uma expansão geográfica absoluta na escala do território
 como a principal expressão espacial da acumulação de capital, a renovação urbana representa o exemplo mais desenvolvido da
 rediferenciação do espaço geográfico com vista ao mesmo resultado.
 Neil Smith. Gentrificação, a fronteira e a reestruturação do espaço urbano, 1986. Adaptado.
-O excerto relaciona a dinâmica geográfica dos Estados Unidos no século XIX a do final do século XX. As imagens correspondentes
+O excerto relaciona a dinâmica geográfica dos Estados Unidos no século XIX à do final do século XX. As imagens correspondentes
 a cada um dos momentos apresentados pelo excerto são identificadas em:`,
     images: [{"src":"/fuvest/2021/images/q18_options.jpg","width":953,"height":1538}],
     alternatives: [
@@ -504,7 +504,7 @@ UE: União Europeia`,
     alternatives: [
       { id: 'A', type: 'text', value: `a desigual condição climática para produção de vinhos nos
 dois continentes.` },
-      { id: 'B', type: 'text', value: `as políticas de incentivo a agricultura familiar na América
+      { id: 'B', type: 'text', value: `as políticas de incentivo à agricultura familiar na América
 Latina e especialmente ao PRONAF no Brasil.` },
       { id: 'C', type: 'text', value: `a difusão de SAFs, criados com o propósito de produção
 para consumo humano no Cone Sul.` },
@@ -583,15 +583,15 @@ Disponível em https://www.climadeensinar.com.br/. Adaptado.
 A dificuldade de instalação da estação na altitude citada deve-se`,
     images: [],
     alternatives: [
-      { id: 'A', type: 'text', value: `as elevadas condições de umidade provenientes do
+      { id: 'A', type: 'text', value: `Às elevadas condições de umidade provenientes do
 derretimento de neve.` },
-      { id: 'B', type: 'text', value: `a ocorrência de chuvas intensas, que aumentam os riscos
+      { id: 'B', type: 'text', value: `À ocorrência de chuvas intensas, que aumentam os riscos
 de avalanches.` },
-      { id: 'C', type: 'text', value: `as temperaturas reduzidas e a baixa concentração de
+      { id: 'C', type: 'text', value: `Às temperaturas reduzidas e à baixa concentração de
 oxigênio nessa altitude.` },
       { id: 'D', type: 'text', value: `aos dias mais curtos nessa altitude, o que reduz o brilho
 solar.` },
-      { id: 'E', type: 'text', value: `a elevada pressão atmosférica, que produz ventos
+      { id: 'E', type: 'text', value: `À elevada pressão atmosférica, que produz ventos
 intensos nessa altitude.` },
     ],
     correct: 'C',
@@ -776,14 +776,15 @@ mulher III.2 está grávida e ainda não sabe o sexo do bebê.
 A relação correta entre o padrão de herança desta forma de
 adrenoleucodistrofia e a probabilidade de que a criança seja
 afetada é:
-Padrão de herança Probabilidade de ser afetada`,
+
+(Padrão de herança — Probabilidade de ser afetada)`,
     images: [{"src":"/fuvest/2021/images/q27_corn.jpg","width":496,"height":228}],
     alternatives: [
-      { id: 'A', type: 'text', value: `Ligado ao X recessivo 50% caso seja menino` },
-      { id: 'B', type: 'text', value: `Ligado ao X recessivo 25% caso seja menino` },
-      { id: 'C', type: 'text', value: `Ligado ao Y 100% caso seja menino` },
-      { id: 'D', type: 'text', value: `Autossômico recessivo 75% em qualquer caso` },
-      { id: 'E', type: 'text', value: `Autossômico recessivo 12,5% em qualquer caso` },
+      { id: 'A', type: 'text', value: `Ligado ao X recessivo — 50% caso seja menino` },
+      { id: 'B', type: 'text', value: `Ligado ao X recessivo — 25% caso seja menino` },
+      { id: 'C', type: 'text', value: `Ligado ao Y — 100% caso seja menino` },
+      { id: 'D', type: 'text', value: `Autossômico recessivo — 75% em qualquer caso` },
+      { id: 'E', type: 'text', value: `Autossômico recessivo — 12,5% em qualquer caso` },
     ],
     correct: 'B',
     explanation: `O heredograma é compatível com herança recessiva ligada ao X. III.2 tem probabilidade de 1/2 de ser portadora; se tiver um menino, a chance de transmitir o X mutante é 1/2. A probabilidade condicional de um filho menino afetado é 1/2 × 1/2 = 25%.`,
@@ -971,7 +972,7 @@ a de Vasco da Gama em busca das Índias.` },
 exploradores para a África e Américas nos séculos XV e
 XVI.` },
       { id: 'D', type: 'text', value: `varíola, doença viral disseminada no Velho Mundo e
-trazida pelos navegantes dos séculos XV e XVI as colônias,
+trazida pelos navegantes dos séculos XV e XVI às colônias,
 onde dizimou populações nativas.` },
       { id: 'E', type: 'text', value: `leishmaniose, parasitose transmitida por mosquitos e
 contraída pelos primeiros exploradores da Amazônia e dos
@@ -1035,9 +1036,9 @@ correto afirmar:`,
     images: [],
     alternatives: [
       { id: 'A', type: 'text', value: `O Tratado de Tordesilhas representou uma permanente
-barreira a exploração econômica dos sertões portugueses
+barreira à exploração econômica dos sertões portugueses
 da América, e só foi ultrapassada no século XVIII por
-sertanistas que passaram a agir junto a coroa portuguesa.` },
+sertanistas que passaram a agir junto à coroa portuguesa.` },
       { id: 'B', type: 'text', value: `A ocupação da Amazônia foi determinante na formação do
 território português da América porque as drogas do sertão
 puderam ser exploradas por longos períodos, ao contrário
@@ -1079,7 +1080,7 @@ mundo.` },
       { id: 'D', type: 'text', value: `Crescimento progressivo da dívida externa e
 preponderância de uma economia agroexportadora.` },
       { id: 'E', type: 'text', value: `Redução contínua do tráfico de escravos e políticas
-públicas voltadas a alfabetização e capacitação
+públicas voltadas à alfabetização e capacitação
 profissional de trabalhadores pobres.` },
     ],
     correct: 'D',
@@ -1101,7 +1102,7 @@ de uma revolta que, junto a outras do mesmo período, tipifica`,
       { id: 'A', type: 'text', value: `o impacto, no Brasil, de conflitos de fronteira com os
 países hispânicos recém-formados na América.` },
       { id: 'B', type: 'text', value: `a expansão de interesses imperialistas franceses e
-alemães em meio a geopolítica da Segunda Revolução
+alemães em meio à geopolítica da Segunda Revolução
 Industrial.` },
       { id: 'C', type: 'text', value: `a capacidade negociadora das elites imperiais em evitar
 que questões regionais desembocassem em conflitos
@@ -1126,7 +1127,7 @@ de formação do Estado nacional brasileiro.` },
 recepção presidencial em que, diante do corpo diplomático, da
 mais fina sociedade do Rio de Janeiro, aqueles que deviam dar
 ao país o exemplo das maneiras mais distintas e dos costumes
-mais reservados elevaram o Corta-jaca a altura de uma
+mais reservados elevaram o Corta-jaca à altura de uma
 instituição social. Mas o Corta-jaca de que eu ouvira falar há
 muito tempo, que vem a ser ele, Sr. Presidente? A mais baixa,
 a mais chula, a mais grosseira de todas as danças selvagens,
@@ -1233,7 +1234,7 @@ Considerando as informações apresentadas, é correto afirmar:`,
     images: [{"src":"/fuvest/2021/images/q42_tables.jpg","width":1283,"height":771}],
     alternatives: [
       { id: 'A', type: 'text', value: `A mortalidade gripal verificada nos distritos do Belenzinho e da Mooca foi resultado da alta concentração demográfica associada
-as condições de habitação e de serviços.` },
+às condições de habitação e de serviços.` },
       { id: 'B', type: 'text', value: `Os mais elevados índices de óbitos foram verificados entre os distritos que concentravam o maior contingente demográfico,
 independentemente do tipo de moradia e dos benefícios existentes.` },
       { id: 'C', type: 'text', value: `O número de óbitos gripais colhido no Bom Retiro atesta que não há correlação entre a topografia, o tipo de moradia e as
@@ -1268,10 +1269,10 @@ Aristóteles, A politica. Rio de Janeiro: Ediouro, s./d., p. 79-80.
 É correto afirmar sobre as mulheres na Grécia Antiga:`,
     images: [],
     alternatives: [
-      { id: 'A', type: 'text', value: `Obtiveram o direito a educação e acesso as escolas filosóficas
+      { id: 'A', type: 'text', value: `Obtiveram o direito à educação e acesso às escolas filosóficas
 da cidade-Estado de Atenas durante o período clássico.` },
       { id: 'B', type: 'text', value: `Em Esparta, recebiam educação física na infância, tinham
-direito a herança e administravam as propriedades na
+direito à herança e administravam as propriedades na
 ausência dos maridos.` },
       { id: 'C', type: 'text', value: `Adquiriram poderes políticos como cidadãs apenas com o
 estabelecimento do Império Macedônico, sob a liderança
@@ -1297,7 +1298,7 @@ africana na composição da força de trabalho escrava ocorreu
 aos poucos ao longo de aproximadamente meio século. Quando
 os senhores de engenho, individualmente, acumulavam
 recursos financeiros suficientes, compravam alguns cativos
-africanos, e iam acrescentando outros a medida que capital e
+africanos, e iam acrescentando outros à medida que capital e
 crédito tornavam-se disponíveis. Em fins do século XVI, a mão
 de obra dos engenhos era mista do ponto de vista racial, e a
 proporção foi mudando crescentemente em favor dos africanos
@@ -1367,7 +1368,7 @@ experimento em que uma garrafa de água pendurada por uma
 corda é mantida suspensa por um palito de dente apoiado em
 uma mesa.
 O “truque” só é possível pelo uso de outros palitos, formando um
-tipo de treliça. A figura a direita da foto mostra uma visão lateral
+tipo de treliça. A figura à direita da foto mostra uma visão lateral
 do conjunto, destacando duas das forças que atuam sobre o
 palito 1.
 Nesta figura, F é a força que o palito 2 exerce sobre o palito 1
@@ -1461,7 +1462,7 @@ Note e adote: Densidade da água = 1 kg/litro; 1 mês = 30 dias; aceleração da
     text: `Ondas estacionárias podem ser produzidas de diferentes
 formas, dentre elas esticando-se uma corda homogênea, fixa
 em dois pontos separados por uma distância L, e pondo-a a
-vibrar. A extremidade a direita é acoplada a um gerador de
+vibrar. A extremidade à direita é acoplada a um gerador de
 frequências, enquanto a outra extremidade está sujeita a uma
 força tensional produzida ao se pendurar a corda um objeto de
 massa m₀ mantido em repouso. O arranjo experimental é
@@ -2004,7 +2005,7 @@ Finger, Bob Kane e Jerry Robinson. Entretanto, o criminoso
 mostrou, já em sua primeira aventura, um enorme talento para
 se rebelar contra a ordem estabelecida. Seu carisma seduziu a
 editora DC Comics, que impôs o acréscimo de um quadrinho. Já
-dentro da ambulância, vinha a tona “um dado desconcertante”.
+dentro da ambulância, vinha à tona “um dado desconcertante”.
 E então um médico sentenciava: “Continua vivo. E vai
 sobreviver!”.
 Tommaso Koch. “O Coringa completa 80 anos e na Espanha ganha duas HQs,
@@ -2044,7 +2045,7 @@ Finger, Bob Kane e Jerry Robinson. Entretanto, o criminoso
 mostrou, já em sua primeira aventura, um enorme talento para
 se rebelar contra a ordem estabelecida. Seu carisma seduziu a
 editora DC Comics, que impôs o acréscimo de um quadrinho. Já
-dentro da ambulância, vinha a tona “um dado desconcertante”.
+dentro da ambulância, vinha à tona “um dado desconcertante”.
 E então um médico sentenciava: “Continua vivo. E vai
 sobreviver!”.
 Tommaso Koch. “O Coringa completa 80 anos e na Espanha ganha duas HQs,
@@ -2089,7 +2090,7 @@ Finger, Bob Kane e Jerry Robinson. Entretanto, o criminoso
 mostrou, já em sua primeira aventura, um enorme talento para
 se rebelar contra a ordem estabelecida. Seu carisma seduziu a
 editora DC Comics, que impôs o acréscimo de um quadrinho. Já
-dentro da ambulância, vinha a tona “um dado desconcertante”.
+dentro da ambulância, vinha à tona “um dado desconcertante”.
 E então um médico sentenciava: “Continua vivo. E vai
 sobreviver!”.
 Tommaso Koch. “O Coringa completa 80 anos e na Espanha ganha duas HQs,
@@ -2132,9 +2133,9 @@ era um monstro. Engano. Quem pode lá jurar que isto é assim
 ou assado? Procurei mesmo capacitar-me de que Julião Tavares
 não existia. Julião Tavares era uma sensação. Uma sensação
 desagradável, que eu pretendia afastar de minha casa quando
-me juntasse aquela sensação agradável que ali estava a
+me juntasse àquela sensação agradável que ali estava a
 choramingar.
-Graciliano Ramos, Angustia.
+Graciliano Ramos, Angústia.
 Em termos críticos, esse fragmento permite observar que, no
 plano maior do romance Angústia, o ponto de vista`,
     images: [],
@@ -2160,7 +2161,7 @@ cuja 77ª edição começa no dia 2 de setembro, com a dramédia
 “Lacci”, do romano Daniele Luchetti, seguindo até 12/9, com 50
 produções internacionais e uma expectativa (extraoficial) de
 colocar “West Side Story”, de Steven Spielberg, na ribalta.
-Rodrigo Fonseca. “A espera dos rugidos de Veneza”. O Estado de S. Paulo.
+Rodrigo Fonseca. “À espera dos rugidos de Veneza”. O Estado de S. Paulo.
 Julho/2020. Adaptado.
 Um processo de formação de palavras em língua portuguesa é
 o cruzamento vocabular, em que são misturadas pelo menos
@@ -2212,7 +2213,7 @@ Cecília Meireles, Romanceiro da Inconfidência.
 
 Ao substituir a pessoa verbal utilizada para se referir ao
 substantivo "palavras" pela 3ª pessoa do plural, os verbos dos
-versos “sois de vento, ides no vento,” (v. 4) / “Perdão podieis
+versos “sois de vento, ides no vento,” (v. 4) / “Perdão podíeis
 ter sido!” (v. 12) / “Éreis um sopro na aragem...” (v. 20) seriam
 conjugados conforme apresentado na alternativa:`,
     images: [],
@@ -2301,7 +2302,7 @@ sonhador para resistir ao discurso`,
       { id: 'A', type: 'text', value: `da doutrina revolucionária de ligas politicamente engajadas.` },
       { id: 'B', type: 'text', value: `da historiografia, que minimizou a importância de Tiradentes.` },
       { id: 'C', type: 'text', value: `de autoritarismo e opressão, próprio da ditadura militar.` },
-      { id: 'D', type: 'text', value: `dos poetas árcades, que se dedicavam as suas liras amorosas.` },
+      { id: 'D', type: 'text', value: `dos poetas árcades, que se dedicavam às suas liras amorosas.` },
       { id: 'E', type: 'text', value: `da tirania portuguesa sobre os mineradores no ciclo do ouro.` },
     ],
     correct: 'C',
@@ -2317,7 +2318,7 @@ sonhador para resistir ao discurso`,
     text: `I
 — Traíste-me, Sem Medo. Tu traíste-me.
 (...)
-Sabes o que tu és afinal, Sem Medo? Es um ciumento. Chego a
+Sabes o que tu és afinal, Sem Medo? És um ciumento. Chego a
 pensar se não és homossexual. Tu querias-me só, como tu. Um
 solitário do Mayombe. (...) Desprezo-te. (...) Nunca me verás atrás
 de uma garrafa vazia. (...) Cada sucesso que eu tiver, será a paga
@@ -2374,8 +2375,8 @@ ficção servia de mitologia, era o equivalente dos mitos dos
 índios, e antes mesmo de terminar a frase, já não sabia se o
 idiota era ele ou eu. Ele não dizia nada a não ser: “O que você
 quer com o passado?”. Repetia. E, diante da sua insistência
-bovina, tive de me render a evidência de que eu não sabia
-responder a sua pergunta.
+bovina, tive de me render à evidência de que eu não sabia
+responder à sua pergunta.
 Bernardo Carvalho, Nove noites. Adaptado.
 
 Sem prejuízo de sentido e fazendo as adaptações necessárias,
@@ -2416,11 +2417,11 @@ ficção servia de mitologia, era o equivalente dos mitos dos
 índios, e antes mesmo de terminar a frase, já não sabia se o
 idiota era ele ou eu. Ele não dizia nada a não ser: “O que você
 quer com o passado?”. Repetia. E, diante da sua insistência
-bovina, tive de me render a evidência de que eu não sabia
-responder a sua pergunta.
+bovina, tive de me render à evidência de que eu não sabia
+responder à sua pergunta.
 Bernardo Carvalho, Nove noites. Adaptado.
 
-As respostas do narrador as perguntas de Leusipo são uma
+As respostas do narrador às perguntas de Leusipo são uma
 tentativa de disfarçar o caráter`,
     images: [],
     alternatives: [
@@ -2462,8 +2463,8 @@ ficção servia de mitologia, era o equivalente dos mitos dos
 índios, e antes mesmo de terminar a frase, já não sabia se o
 idiota era ele ou eu. Ele não dizia nada a não ser: “O que você
 quer com o passado?”. Repetia. E, diante da sua insistência
-bovina, tive de me render a evidência de que eu não sabia
-responder a sua pergunta.
+bovina, tive de me render à evidência de que eu não sabia
+responder à sua pergunta.
 Bernardo Carvalho, Nove noites. Adaptado.
 
 Na cena apresentada, que explora o desconforto gerado pela
@@ -2492,7 +2493,7 @@ deixa levar por sua diplomacia.` },
     year: 2021,
     phase: 1,
     text: `Rubião fitava a enseada, — eram oito horas da manhã. Quem o
-visse, com os polegares metidos no cordão do chambre, a janela de
+visse, com os polegares metidos no cordão do chambre, à janela de
 uma grande casa de Botafogo, cuidaria que ele admirava aquele
 pedaço de água quieta; mas em verdade vos digo que pensava em
 outra coisa. Cotejava o passado com o presente. Que era, há um
@@ -2555,15 +2556,15 @@ poema “Remissão”`,
     alternatives: [
       { id: 'A', type: 'text', value: `traduz a melancolia e o recolhimento do eu lírico em face
 da sensação de incomunicabilidade com uma realidade
-indiferente a sua poesia.` },
+indiferente à sua poesia.` },
       { id: 'B', type: 'text', value: `revela uma perspectiva inconformada, mesclando-a, livre da
 indulgência dos anos anteriores, a um novo formalismo
 estético.` },
-      { id: 'C', type: 'text', value: `propõe, como reação do poeta a vulgaridade do mundo,
+      { id: 'C', type: 'text', value: `propõe, como reação do poeta à vulgaridade do mundo,
 uma poética capaz de interferir na realidade pelo viés
 nostálgico.` },
       { id: 'D', type: 'text', value: `reflete a visão idealizada do trabalho do poeta e a
-consciência da perenidade da poesia, resistente a passagem
+consciência da perenidade da poesia, resistente à passagem
 do tempo.` },
       { id: 'E', type: 'text', value: `realiza a transição do lirismo social para o lirismo metafísico,
 caracterizado pela adesão ao conforto espiritual e ao
@@ -2587,7 +2588,7 @@ O efeito de humor presente nas falas das personagens decorre`,
       { id: 'B', type: 'text', value: `da ambiguidade causada pela antonímia.` },
       { id: 'C', type: 'text', value: `do contraste provocado pela fonética.` },
       { id: 'D', type: 'text', value: `do contraste introduzido pela neologia.` },
-      { id: 'E', type: 'text', value: `do estranhamento devido a morfologia.` },
+      { id: 'E', type: 'text', value: `do estranhamento devido à morfologia.` },
     ],
     correct: 'A',
     explanation: `A fala final desloca o sentido esperado de uma palavra para outro possível, aproveitando sua polissemia. Essa mudança de interpretação quebra a expectativa e produz o humor.`,
@@ -2612,7 +2613,7 @@ e sabe que tudo pode romper o mínimo
 em que o cristal é capaz de censura:
 pois o tal fundo mascavo logo aflora
 quer inverno ou verão mele o açúcar.
-Só os banguês* que-ainda purgam ainda
+Só os banguês* que ainda purgam ainda
 o açúcar bruto com barro, de mistura;
 a usina já não o purga: da infância,
 não de depois de adulto, ela o educa;
@@ -2625,7 +2626,7 @@ em mãos de barro de gente agricultura,
 o barrento da pré-infância logo aflora
 quer inverno ou verão mele o açúcar.
 João Cabral de Melo Neto, A Educação pela Pedra.
-*bangué: engenho de açucar primitivo movido a força animal.
+*bangué: engenho de açúcar primitivo movido a força animal.
 
 Os últimos quatro versos do poema rompem com a série de
 contrapontos entre a usina e o banguê, pois`,
@@ -2665,7 +2666,7 @@ e sabe que tudo pode romper o mínimo
 em que o cristal é capaz de censura:
 pois o tal fundo mascavo logo aflora
 quer inverno ou verão mele o açúcar.
-Só os banguês* que-ainda purgam ainda
+Só os banguês* que ainda purgam ainda
 o açúcar bruto com barro, de mistura;
 a usina já não o purga: da infância,
 não de depois de adulto, ela o educa;
@@ -2678,7 +2679,7 @@ em mãos de barro de gente agricultura,
 o barrento da pré-infância logo aflora
 quer inverno ou verão mele o açúcar.
 João Cabral de Melo Neto, A Educação pela Pedra.
-*bangué: engenho de açucar primitivo movido a força animal.
+*bangué: engenho de açúcar primitivo movido a força animal.
 
 Na oração “que ela dura” (v. 4), o pronome sublinhado`,
     images: [],
@@ -2712,7 +2713,7 @@ e sabe que tudo pode romper o mínimo
 em que o cristal é capaz de censura:
 pois o tal fundo mascavo logo aflora
 quer inverno ou verão mele o açúcar.
-Só os banguês* que-ainda purgam ainda
+Só os banguês* que ainda purgam ainda
 o açúcar bruto com barro, de mistura;
 a usina já não o purga: da infância,
 não de depois de adulto, ela o educa;
@@ -2725,7 +2726,7 @@ em mãos de barro de gente agricultura,
 o barrento da pré-infância logo aflora
 quer inverno ou verão mele o açúcar.
 João Cabral de Melo Neto, A Educação pela Pedra.
-*bangué: engenho de açucar primitivo movido a força animal.
+*bangué: engenho de açúcar primitivo movido a força animal.
 
 Observe o diagrama que mostra, de forma simplificada, o
 processo de fabricação do açúcar.
@@ -2748,7 +2749,7 @@ centrifugação.` },
 xarope é uma reação química direta que não necessita de
 processo de separação.` },
       { id: 'E', type: 'text', value: `em seu sentido literal, já que o açúcar está na fase sólida,
-no xarope, e passa a fase vapor com o cozimento, formando
+no xarope, e passa à fase vapor com o cozimento, formando
 então cristais de açúcar puro.` },
     ],
     correct: 'C',
@@ -2967,7 +2968,7 @@ liberação de energia, pois corresponde a reação de
 fotossíntese com consumo de gás carbônico.
 II. A equação química apresentada na linha 6 representa uma
 reação na qual o número de oxidação das espécies é alterado,
-sendo associada a corrosão.
+sendo associada à corrosão.
 III. O modelo incompleto referido na linha 7 refere-se ao
 proposto por Thomson, que identificava a presença de
 partículas com carga negativa dentro de uma esfera.
@@ -3128,7 +3129,7 @@ desses pesticidas na Antártica e no Ártico?`,
     alternatives: [
       { id: 'A', type: 'text', value: `Eles são destilados nas águas aquecidas dos oceanos e
 levados pelas correntes marinhas para as regiões polares,
-onde se precipitam devido as águas frias dessas regiões.` },
+onde se precipitam devido às águas frias dessas regiões.` },
       { id: 'B', type: 'text', value: `Eles evaporam nas regiões mais quentes e são levados pelas
 correntes atmosféricas para regiões mais frias como os
 polos, onde se condensam e voltam para a superfície.` },
