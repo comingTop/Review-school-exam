@@ -2036,7 +2036,7 @@ são, respectivamente,`,
     phase: 1,
     text: `Nos heredogramas apresentados nas alternativas, ocorrem
 pessoas que têm alterações na formação do esmalte dos
-dentes ( e ).
+dentes (■ e ●).
 Os heredogramas em que as alterações do esmalte dos
 dentes têm herança ligada ao cromossomo X, dominante e
 recessiva, estão representados, respectivamente, em`,
@@ -2292,7 +2292,7 @@ O vetor que melhor representa a direção e o sentido da quantidade de movimento
     exam: 'fuvest',
     year: 2017,
     phase: 1,
-    text: `Objetos em queda sofrem os efeitos da resistência do ar, a qual exerce uma força que se opõe ao movimento desses objetos, de tal modo que, após um certo tempo, eles passam a se mover com velocidade constante. Para uma partícula de poeira no ar, caindo verticalmente, essa força pode-ser aproximada por F⃗ₐ = −bv⃗, sendo v⃗ a velocidade da partícula de poeira e b uma constante positiva. O gráfico mostra o comportamento do módulo da força resultante sobre a partícula, Fᵣ, como função de v, o módulo de v⃗.
+    text: `Objetos em queda sofrem os efeitos da resistência do ar, a qual exerce uma força que se opõe ao movimento desses objetos, de tal modo que, após um certo tempo, eles passam a se mover com velocidade constante. Para uma partícula de poeira no ar, caindo verticalmente, essa força pode ser aproximada por F⃗ₐ = −bv⃗, sendo v⃗ a velocidade da partícula de poeira e b uma constante positiva. O gráfico mostra o comportamento do módulo da força resultante sobre a partícula, Fᵣ, como função de v, o módulo de v⃗.
 O valor da constante b, em unidades de N·s/m, é
 Nota e adote: O ar está em repouso.`,
     images: [{"src":"/fuvest/2017/images/fuvest_2017_f1q59_3.jpg","width":533,"height":165},{"src":"/fuvest/2017/images/fuvest_2017_f1q59_4.jpg","width":533,"height":165}],
@@ -2314,7 +2314,7 @@ Nota e adote: O ar está em repouso.`,
     year: 2017,
     phase: 1,
     text: `Helena, cuja massa é 50 kg, pratica o esporte radical bungee jumping. Em um treino, ela se solta da beirada de um viaduto, com velocidade inicial nula, presa a uma faixa elástica de comprimento natural L₀ = 15 m e constante elástica k = 250 N/m. Quando a faixa está esticada 10 m além de seu comprimento natural, o módulo da velocidade de Helena é
-Nota e adote: Aceleração da gravidade: 10 m/s². A faixa é perfeitamente elástica; sua massa e efeitos dissipativos devem-ser ignorados.`,
+Nota e adote: Aceleração da gravidade: 10 m/s². A faixa é perfeitamente elástica; sua massa e efeitos dissipativos devem ser ignorados.`,
     images: [],
     alternatives: [
       { id: 'A', type: 'text', value: `0 m/s` },
@@ -2357,7 +2357,7 @@ O campo magnético total é nulo no centro do quadrado apenas em`,
 BATERIA: 1650 mAh / 3,7 V / 6,1 Wh
 CARREGADOR: Entrada AC: 100–240 V / 50–60 Hz / 0,2 A / Saída DC: 5 V; 1,3 A
 
-Com a bateria sendo carregada em uma rede de 127 V, a potência máxima que o carregador pode fornecer e a carga máxima que pode-ser armazenada na bateria são, respectivamente, próximas de
+Com a bateria sendo carregada em uma rede de 127 V, a potência máxima que o carregador pode fornecer e a carga máxima que pode ser armazenada na bateria são, respectivamente, próximas de
 Nota e adote: AC: corrente alternada; DC: corrente contínua.`,
     images: [{"src":"/fuvest/2017/images/fuvest_2017_f1q64_1.jpg","width":264,"height":234},{"src":"/fuvest/2017/images/q62_source_2.jpg","width":264,"height":117}],
     alternatives: [
@@ -2539,7 +2539,7 @@ Para que o solo possa fornecer todos os elementos citados na tabela, o seu pH de
     year: 2017,
     phase: 1,
     text: `Em ambientes naturais e na presença de água e gás oxigênio, a pirita, um mineral composto principalmente por dissulfeto de ferro (FeS₂), sofre processos de intemperismo, o que envolve transformações químicas que acontecem ao longo do tempo.
-Um desses processos pode-ser descrito pelas transformações sucessivas, representadas pelas seguintes equações químicas:
+Um desses processos pode ser descrito pelas transformações sucessivas, representadas pelas seguintes equações químicas:
 2 FeS₂(s) + 7 O₂(g) + 2 H₂O(l) → 2 Fe²⁺(aq) + 4 SO₄²⁻(aq) + 4 H⁺(aq)
 2 Fe²⁺(aq) + ½ O₂(g) + 2 H⁺(aq) → 2 Fe³⁺(aq) + H₂O(l)
 2 Fe³⁺(aq) + 6 H₂O(l) → 2 Fe(OH)₃(s) + 6 H⁺(aq)
@@ -2656,7 +2656,7 @@ Composição aproximada do ar em volume: 80% de N2 e 20% de O2.`,
 para a segurança em dias chuvosos, alguns materiais podem
 ser aplicados no para brisa do veículo, formando uma
 película que repele a água. Nesse tratamento, ocorre uma
-transformação na superfície do vidro, a qual pode-ser
+transformação na superfície do vidro, a qual pode ser
 representada pela seguinte equação química não
 balanceada:
 
@@ -2739,12 +2739,12 @@ Nota e adote: Carga de um mol de elétrons = 96.500 coulomb.`,
     exam: 'fuvest',
     year: 2017,
     phase: 1,
-    text: `A hemoglobina (Hb) é a proteína responsável pelo transporte de oxigênio. Nesse processo, a hemoglobina se transforma em oxi-hemoglobina (Hb(O₂)ₙ). Nos fetos, há um tipo de hemoglobina diferente do adulto, chamada de hemoglobina fetal. O transporte de oxigênio pode-ser representado pelo seguinte equilíbrio:
+    text: `A hemoglobina (Hb) é a proteína responsável pelo transporte de oxigênio. Nesse processo, a hemoglobina se transforma em oxi-hemoglobina (Hb(O₂)ₙ). Nos fetos, há um tipo de hemoglobina diferente do adulto, chamada de hemoglobina fetal. O transporte de oxigênio pode ser representado pelo seguinte equilíbrio:
 Hb + nO₂ ⇌ Hb(O₂)ₙ
 em que Hb representa tanto a hemoglobina do adulto quanto a hemoglobina fetal.
 
 A figura mostra a porcentagem de saturação de Hb por O₂ em função da pressão parcial de oxigênio no sangue humano, em determinado pH e em determinada temperatura.
-A porcentagem de saturação pode-ser entendida como:
+A porcentagem de saturação pode ser entendida como:
 % de saturação = [Hb(O₂)ₙ] / ([Hb(O₂)ₙ] + [Hb]) × 100
 
 Com base nessas informações, um estudante fez as seguintes afirmações:
@@ -2793,7 +2793,7 @@ Sendo assim, a fórmula estrutural da dopamina é:
     exam: 'fuvest',
     year: 2017,
     phase: 1,
-    text: `No preparo de certas massas culinárias, como pães, é comum adicionar-se um fermento que, dependendo da receita, pode-ser o químico, composto principalmente por hidrogenocarbonato de sódio (NaHCO₃), ou o fermento biológico, formado por leveduras. Os fermentos adicionados, sob certas condições, são responsáveis pela produção de dióxido de carbono, o que auxilia a massa a crescer.
+    text: `No preparo de certas massas culinárias, como pães, é comum adicionar-se um fermento que, dependendo da receita, pode ser o químico, composto principalmente por hidrogenocarbonato de sódio (NaHCO₃), ou o fermento biológico, formado por leveduras. Os fermentos adicionados, sob certas condições, são responsáveis pela produção de dióxido de carbono, o que auxilia a massa a crescer.
 
 Para explicar a produção de dióxido de carbono, as seguintes afirmações foram feitas:
 I. Tanto o fermento químico quanto o biológico reagem com os carboidratos presentes na massa culinária, sendo o dióxido de carbono um dos produtos dessa reação.

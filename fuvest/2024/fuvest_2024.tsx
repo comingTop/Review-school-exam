@@ -159,8 +159,7 @@ disseminar ideias, valores e estereótipos, mas também pode
 colocá-los em discussão. A obra “Sentem para jantar”, de Gê
 Viana faz parte da série “Atualizações traumáticas de
 Debret”, na qual o artista propõe uma revisão iconográfica da
-história do Brasil tendo como referência as obras de Jean-
-Baptiste Debret, especificamente aquelas presentes em
+história do Brasil tendo como referência as obras de Jean-Baptiste Debret, especificamente aquelas presentes em
 “Viagem Pitoresca e Histórica ao Brasil” (1834-1839),
 publicação que pautou de maneira imagética o período
 colonial brasileiro. Em sua revisão, Gê Viana dá continuidade
@@ -206,8 +205,7 @@ confere grande semelhança.`
       {
         id: "D",
         type: "text",
-        value: `Gê Viana ignora aspectos relacionados a questões étnico-
-raciais em sua releitura da obra de Debret, focando apenas
+        value: `Gê Viana ignora aspectos relacionados a questões étnico-raciais em sua releitura da obra de Debret, focando apenas
 na estética visual da obra.`
       },
       {
@@ -604,8 +602,7 @@ do apartheid na África do Sul.`
         id: "E",
         type: "text",
         value: `o reconhecimento consensual do sucesso do projeto de
-inclusão educacional no cenário sul-africano pós-
-apartheid.`
+inclusão educacional no cenário sul-africano pós-apartheid.`
       }
     ],
     correct: "D",
@@ -1642,7 +1639,9 @@ temperatura. O gráfico a seguir mostra a dependência da
 densidade do óleo com a temperatura.
 
 Nessa configuração, a temperatura na qual a tensão na corda
-se anula é igual a`,
+se anula é igual a
+
+Note e adote: Despreze a massa do fio.`,
     images: [{"src":"/fuvest/2024/images/fuvest_2024_q27_1.jpg","width":414,"height":298},{"src":"/fuvest/2024/images/fuvest_2024_q27_2.jpg","width":532,"height":471}],
     alternatives: [
       {
@@ -1653,12 +1652,12 @@ se anula é igual a`,
       {
         id: "B",
         type: "text",
-        value: `75°C Note e adote:`
+        value: `75°C`
       },
       {
         id: "C",
         type: "text",
-        value: `100°C Despreze a massa do fio.`
+        value: `100°C`
       },
       {
         id: "D",
@@ -1832,8 +1831,7 @@ Durante o processo de geração de H₂
 
 Após o processo de geração de H₂
 
-Ao frasco à esquerda adicionou-se uma quantidade pré-
-determinada de raspas de zinco metálico e ácido clorídrico.
+Ao frasco à esquerda adicionou-se uma quantidade pré-determinada de raspas de zinco metálico e ácido clorídrico.
 Em seguida, o frasco foi fechado com uma rolha conectada a
 uma tubulação. À medida que o hidrogênio é produzido pela
 reação Zn⁰(s) + 2H⁺(aq) → Zn²⁺(aq) + H₂(g), o gás se acumula
@@ -2250,8 +2248,7 @@ Tinhoso!, é possível afirmar:`,
       {
         id: "B",
         type: "text",
-        value: `São narrados em primeira pessoa, por narradores-
-protagonistas.`
+        value: `São narrados em primeira pessoa, por narradores-protagonistas.`
       },
       {
         id: "C",
@@ -2353,8 +2350,7 @@ acordando e há o reencontro com meus filhos sonolentos.”
 Clarice Lispector. “Insônia infeliz e feliz”. In: A descoberta do mundo. Rio de
 Janeiro: Rocco, 1999.
 
-Considerando as características do trecho apresentado, pode-
-se afirmar que ele pertence a uma crônica, pois`,
+Considerando as características do trecho apresentado, pode-se afirmar que ele pertence a uma crônica, pois`,
     alternatives: [
       {
         id: "A",
@@ -2694,8 +2690,7 @@ sobrevivência da nacionalidade. São Paulo: Serviço de Publicações da
 Federação e Centro das Indústrias do Estado de S. Paulo, 1957. p.9-10.
 
 A “mentalidade industrial”, proposta pelo então presidente
-Juscelino Kubitschek, concretiza-se em seu governo (1956-
-1961) sob a forma`,
+Juscelino Kubitschek, concretiza-se em seu governo (1956-1961) sob a forma`,
     alternatives: [
       {
         id: "A",
@@ -2936,8 +2931,7 @@ transporte à busca de modais menos poluentes.`
 paralelepípedo reto-retângulo, de dimensões 2 cm x 3 cm x
 11 cm, para armazenar biscoitos. Para o transporte desse
 produto, são utilizadas caixas para acondicionar essas
-embalagens, também no formato de paralelepípedo reto-
-retângulo, de dimensões 12 cm x 13 cm x 26 cm. A imagem a
+embalagens, também no formato de paralelepípedo reto-retângulo, de dimensões 12 cm x 13 cm x 26 cm. A imagem a
 seguir ilustra um paralelepípedo reto-retângulo.
 
 Determine o número máximo de embalagens que podem ser
@@ -3257,8 +3251,7 @@ by income level.
 A combination of factors is responsible. Spending cuts
 and changing priorities at some public schools have curtailed
 physical education classes and organized sports. At the same
-time, privatized youth sports have become a multibillion-
-dollar enterprise offering new opportunities — at least for
+time, privatized youth sports have become a multibillion-dollar enterprise offering new opportunities — at least for
 families that can afford hundreds to thousands of dollars each
 season for club-team fees, uniforms, equipment, travel to
 tournaments and private coaching.
@@ -3338,8 +3331,7 @@ by income level.
 A combination of factors is responsible. Spending cuts
 and changing priorities at some public schools have curtailed
 physical education classes and organized sports. At the same
-time, privatized youth sports have become a multibillion-
-dollar enterprise offering new opportunities — at least for
+time, privatized youth sports have become a multibillion-dollar enterprise offering new opportunities — at least for
 families that can afford hundreds to thousands of dollars each
 season for club-team fees, uniforms, equipment, travel to
 tournaments and private coaching.
@@ -3735,8 +3727,7 @@ com crescimento da curva de biomassa e biodiversidade.`
       {
         id: "C",
         type: "text",
-        value: `0 e o balanço de radiação é igual também a 0, encontram-
-se os ambientes desérticos muito quentes, a exemplo do
+        value: `0 e o balanço de radiação é igual também a 0, encontram-se os ambientes desérticos muito quentes, a exemplo do
 deserto do Saara.`
       },
       {
@@ -3907,8 +3898,7 @@ floresta verde.”
 
 Localização da Serra do Imeri.
 
-Disponível em https://jornal.usp.br/ciencias/rumo-a-amazonia-
-desconhecida/21/10/2022. Adaptado.
+Disponível em https://jornal.usp.br/ciencias/rumo-a-amazonia-desconhecida/21/10/2022. Adaptado.
 
 Com base nas informações fornecidas e em seus
 conhecimentos, assinale a alternativa correta.`,
@@ -4708,8 +4698,7 @@ movimento insurgente.`
         id: "D",
         type: "text",
         value: `ao gradual alinhamento entre Cuba e a URSS e ao aceno
-dos dois governantes de apoio ao movimento negro norte-
-americano.`
+dos dois governantes de apoio ao movimento negro norte-americano.`
       },
       {
         id: "E",
@@ -5105,8 +5094,7 @@ território. Tu és a mãe de todas as mães da nossa terra. Tu és
 o meu mundo, minha flor, rebuçado [bala] do meu coração.
 Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu
 marido acariciava-me à moda dos búfalos; dizia-me coisas no
-ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava-
-me, maltratando o meu corpinho frágil. Explodi furiosa e
+ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava-me, maltratando o meu corpinho frágil. Explodi furiosa e
 chorei de amargura.
 – Sarnau, pareces ser uma machamba difícil. Já faz tempo que
 semeio em ti e não vejo resultado. Com a outra foi tão
@@ -5138,8 +5126,7 @@ referindo-se ao útero de Sarnau.`
       {
         id: "C",
         type: "text",
-        value: `No texto I, machamba possui sentido figurado, referindo-
-se à colheita; no texto II, o sentido é literal, referindo-se a
+        value: `No texto I, machamba possui sentido figurado, referindo-se à colheita; no texto II, o sentido é literal, referindo-se a
 um problema.`
       },
       {
@@ -5192,8 +5179,7 @@ território. Tu és a mãe de todas as mães da nossa terra. Tu és
 o meu mundo, minha flor, rebuçado [bala] do meu coração.
 Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu
 marido acariciava-me à moda dos búfalos; dizia-me coisas no
-ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava-
-me, maltratando o meu corpinho frágil. Explodi furiosa e
+ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava-me, maltratando o meu corpinho frágil. Explodi furiosa e
 chorei de amargura.
 – Sarnau, pareces ser uma machamba difícil. Já faz tempo que
 semeio em ti e não vejo resultado. Com a outra foi tão

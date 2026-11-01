@@ -587,8 +587,7 @@ isolado é composto por dois compartimentos de mesmo
 volume: o primeiro é ocupado por n₁= 1 mol e o segundo é
 ocupado por n₂= 2 mols de um gás ideal monoatômico.
 Inicialmente cada compartimento encontra-se em equilíbrio
-térmico, com temperatura T₁= 4T e T₂= T, respectiva-
-mente, conforme mostra a figura:
+térmico, com temperatura T₁= 4T e T₂= T, respectivamente, conforme mostra a figura:
 A partir de certo instante, a parede que separa os
 compartimentos é removida e, após algum tempo, o sistema
 atinge uma nova temperatura de equilíbrio Tₘ. Supondo que
@@ -625,8 +624,7 @@ temperatura absoluta.`,
     text: `O odor característico de peixes deve-se à base metilamina
 (CH₃–NH₂). Esse odor pode ser minimizado lavando-se o peixe,
 por exemplo, com suco de limão. Assinale a alternativa que
-apresenta a estrutura de um dos produtos dessa reação ácido-
-base.`,
+apresenta a estrutura de um dos produtos dessa reação ácido-base.`,
     alternatives: [
       { id: "A", type: "image", value: `/fuvest/2023/images/fuvest_2023_q14_altA.jpg` },
       { id: "B", type: "image", value: `/fuvest/2023/images/fuvest_2023_q14_altB.jpg` },
@@ -2134,8 +2132,7 @@ conter políticas do governo João Goulart.` }
     phase: 1,
     day: 1,
     text: `“Nos países bálticos, na Ásia central, no Cáucaso, até mesmo
-na Rússia e nas duas outras nações eslavas (Ucrânia e Bielo-
-Rússia [ou Belarus]), consideradas o núcleo básico de
+na Rússia e nas duas outras nações eslavas (Ucrânia e Bielo-Rússia [ou Belarus]), consideradas o núcleo básico de
 sustentação da União Soviética, [em 1990] os parlamentos
 nacionais proclamavam a própria soberania em relação ao
 poder central da União, ou seja, a primazia das leis nacionais
@@ -2851,8 +2848,7 @@ cells do little, and in calm air turbines sit useless.
 The dark doldrums make it difficult for us to rely totally on
 renewable energy. Power companies need to plan not just for
 individual storms or windless nights but for difficulties that
-can stretch for days. Last year, Europe experienced a weeks-
-long “wind drought,” and in 2006 Hawaii endured six weeks of
+can stretch for days. Last year, Europe experienced a weeks-long “wind drought,” and in 2006 Hawaii endured six weeks of
 consecutive rainy days. On a smaller scale, communities that
 want to go all-renewable need to fill the gaps. The obvious
 solution is batteries, which power everything from mobile
@@ -2918,8 +2914,7 @@ cells do little, and in calm air turbines sit useless.
 The dark doldrums make it difficult for us to rely totally on
 renewable energy. Power companies need to plan not just for
 individual storms or windless nights but for difficulties that
-can stretch for days. Last year, Europe experienced a weeks-
-long “wind drought,” and in 2006 Hawaii endured six weeks of
+can stretch for days. Last year, Europe experienced a weeks-long “wind drought,” and in 2006 Hawaii endured six weeks of
 consecutive rainy days. On a smaller scale, communities that
 want to go all-renewable need to fill the gaps. The obvious
 solution is batteries, which power everything from mobile
@@ -2984,8 +2979,7 @@ cells do little, and in calm air turbines sit useless.
 The dark doldrums make it difficult for us to rely totally on
 renewable energy. Power companies need to plan not just for
 individual storms or windless nights but for difficulties that
-can stretch for days. Last year, Europe experienced a weeks-
-long “wind drought,” and in 2006 Hawaii endured six weeks of
+can stretch for days. Last year, Europe experienced a weeks-long “wind drought,” and in 2006 Hawaii endured six weeks of
 consecutive rainy days. On a smaller scale, communities that
 want to go all-renewable need to fill the gaps. The obvious
 solution is batteries, which power everything from mobile
@@ -3443,8 +3437,7 @@ favorecida é a HbO₂.` }
     day: 1,
     text: `Os três gráficos mostram o comportamento circadiano das
 variáveis hormônio melatonina (produzida na glândula
-pineal), hormônio cortisol (produzido nas glândulas supra-
-renais) e temperatura corpórea em indivíduos saudáveis ao
+pineal), hormônio cortisol (produzido nas glândulas supra-renais) e temperatura corpórea em indivíduos saudáveis ao
 longo do dia (retângulo claro) e da noite (retângulo escuro).
 As linhas azuis (pontilhadas) correspondem a indivíduos mais
 jovens, e as vermelhas (contínuas), a indivíduos mais idosos.

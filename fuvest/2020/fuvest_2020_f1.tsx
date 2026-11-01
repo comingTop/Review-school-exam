@@ -223,14 +223,14 @@ sequenciais (200CH).
 Considerando uma solução de partida de 100 mL com
 concentração 1 mol/L de princípio ativo, a partir de qual diluição
 centesimal a solução passa a não ter, em média, nem mesmo
-uma molécula do princípio ativo?`,
+uma molécula do princípio ativo?
+
+Note e adote: Número de Avogadro = 6×10²³.`,
     images: [{"src":"/fuvest/2020/images/fuvest_2020_f1q06_1.jpg","width":402,"height":136},{"src":"/fuvest/2020/images/fuvest_2020_f1q06_2.jpg","width":402,"height":135}],
     alternatives: [
       { id: 'A', type: 'text', value: `12ª diluição (12CH).` },
-      { id: 'B', type: 'text', value: `24ª diluição (24CH).
-Note e adote:` },
-      { id: 'C', type: 'text', value: `51ª diluição (51CH).
-Número de Avogadro = 6×1023.` },
+      { id: 'B', type: 'text', value: `24ª diluição (24CH).` },
+      { id: 'C', type: 'text', value: `51ª diluição (51CH).` },
       { id: 'D', type: 'text', value: `99ª diluição (99CH).` },
       { id: 'E', type: 'text', value: `200ª diluição (200CH).` },
     ],
@@ -560,9 +560,9 @@ Note e adote:
 extremos por articulações, cujos centros são os vértices de um
 paralelogramo. As hastes movimentam‐se de tal forma que o
 paralelogramo permanece sempre no mesmo plano. A cada
-configuração desse objeto, associa‐se θ , a medida do menor
+configuração desse objeto, associa‐se θ, a medida do menor
 ângulo interno do paralelogramo. A área da região delimitada
-pelo paralelogramo quando θ = 90° é A .
+pelo paralelogramo quando θ = 90° é A.
 
 Para que a área da região delimitada pelo paralelogramo seja
 A/2, o valor de θ é, necessariamente, igual a`,
@@ -627,11 +627,11 @@ que ela espera obter com a venda desse combo?`,
     exam: 'fuvest',
     year: 2020,
     phase: 1,
-    text: `A função E de Euler determina, para cada número natural n , a
+    text: `A função E de Euler determina, para cada número natural n, a
 quantidade de números naturais menores do que n cujo
 máximo divisor comum com n é igual a 1. Por exemplo,
-E (6) = 2 pois os números menores do que 6 com tal
-propriedade são 1 e 5. Qual o valor máximo de E (n ), para n de
+E(6) = 2 pois os números menores do que 6 com tal
+propriedade são 1 e 5. Qual o valor máximo de E(n), para n de
 20 a 25?`,
     images: [],
     alternatives: [
@@ -696,9 +696,9 @@ conjuntamente, para Paris e Roma?`,
     exam: 'fuvest',
     year: 2020,
     phase: 1,
-    text: `Um ponto (x , y ) do plano cartesiano pertence ao conjunto F
+    text: `Um ponto (x, y) do plano cartesiano pertence ao conjunto F
 se é equidistante dos eixos OX e OY e pertence ao círculo de
-equação x ²+ y ²−2x −6y +2 =0. É correto afirmar que F`,
+equação x² + y² − 2x − 6y + 2 = 0. É correto afirmar que F`,
     images: [],
     alternatives: [
       { id: 'A', type: 'text', value: `é um conjunto vazio.` },
@@ -2719,14 +2719,15 @@ utilizado tem comprimento relaxado de 10 m. Qual deve ser o
 mínimo valor da constante elástica desse elástico para que ele
 possa ser utilizado com segurança no salto por uma pessoa
 cuja massa, somada à do equipamento de proteção a ela
-conectado, seja de 120 kg?`,
+conectado, seja de 120 kg?
+
+Note e adote: Despreze a massa do elástico, as forças dissipativas e as dimensões da pessoa; Aceleração da gravidade = 10 m/s².`,
     images: [],
     alternatives: [
-      { id: 'A', type: 'text', value: `30 N/m Note e adote:` },
-      { id: 'B', type: 'text', value: `80 N/m
-Despreze a massa do elástico, as forças` },
-      { id: 'C', type: 'text', value: `90 N/m dissipativas e as dimensões da pessoa;` },
-      { id: 'D', type: 'text', value: `160 N/m Aceleração da gravidade = 10 m/s2.` },
+      { id: 'A', type: 'text', value: `30 N/m` },
+      { id: 'B', type: 'text', value: `80 N/m` },
+      { id: 'C', type: 'text', value: `90 N/m` },
+      { id: 'D', type: 'text', value: `160 N/m` },
       { id: 'E', type: 'text', value: `180 N/m` },
     ],
     correct: 'E',
@@ -2740,12 +2741,12 @@ Despreze a massa do elástico, as forças` },
     year: 2020,
     phase: 1,
     text: `Um fabricante projetou resistores para utilizar em uma lâmpada
-de resistência L . Cada um deles deveria ter resistência R . Após a
+de resistência L. Cada um deles deveria ter resistência R. Após a
 fabricação, ele notou que alguns deles foram projetados
 erroneamente, de forma que cada um deles possui uma
-resistência Rᴅ = R /2. Tendo em vista que a lâmpada
+resistência Rᴅ = R/2. Tendo em vista que a lâmpada
 queimará se for percorrida por uma corrente elétrica superior
-a V /(R + L ), em qual(is) dos circuitos a lâmpada queimará?`,
+a V/(R + L), em qual(is) dos circuitos a lâmpada queimará?`,
     images: [{"src":"/fuvest/2020/images/fuvest_2020_f1q72_1.jpg","width":575,"height":211}],
     alternatives: [
       { id: 'A', type: 'text', value: `1, apenas.` },

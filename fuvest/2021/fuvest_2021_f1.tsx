@@ -956,7 +956,7 @@ Quem haverá que, sem ver, o creia?
 Que tão disformemente ali lhe incharam
 As gengivas na boca, que crescia
 A carne e juntamente apodrecia?
-Luís Vaz de Camées, Os Lusiadas.
+Luís Vaz de Camões, Os Lusíadas.
 É correto afirmar que Camões, neste trecho, descreveu
 sintomas de`,
     images: [],
@@ -1135,7 +1135,7 @@ recepções presidenciais o “Corta-jaca” é executado com todas
 as honras da música de Wagner, e não se quer que a
 consciência deste país se revolte, que as nossas faces se
 enrubesçam e que a mocidade se ria!
-Discurso do senador Rui Barbosa, Didrio do Congresso Nacional,
+Discurso do senador Rui Barbosa, Diário do Congresso Nacional,
 8/11/1914, p. 2789.
 A partir do texto, identifique a alternativa correta:`,
     images: [],
@@ -1185,7 +1185,7 @@ nazistas nos territórios ocupados.` },
 realização de atentados contra monarquistas e membros
 da comunidade judaica.` },
       { id: 'E', type: 'text', value: `As milícias salazaristas, que atuaram para garantir a
-resistência contra os interesses portugueses na Asia.` },
+resistência contra os interesses portugueses na Ásia.` },
     ],
     correct: 'B',
     explanation: `Os Camisas Negras foram grupos fascistas que recorreram à intimidação e à violência contra adversários de Mussolini. Sua atuação contribuiu para a ascensão e consolidação do fascismo italiano.`,
@@ -1302,7 +1302,7 @@ crédito tornavam-se disponíveis. Em fins do século XVI, a mão
 de obra dos engenhos era mista do ponto de vista racial, e a
 proporção foi mudando crescentemente em favor dos africanos
 importados e sua prole.
-Stuart Schwartz, Segredos internos. Sao Paulo: Companhia das Letras,
+Stuart Schwartz, Segredos internos. São Paulo: Companhia das Letras,
 1988, p.68.
 Com base na leitura do trecho e em seus conhecimentos, pode-se afirmar corretamente que, no Brasil,`,
     images: [],
@@ -2008,7 +2008,7 @@ dentro da ambulância, vinha a tona “um dado desconcertante”.
 E então um médico sentenciava: “Continua vivo. E vai
 sobreviver!”.
 Tommaso Koch. “O Coringa completa 80 anos e na Espanha ganha duas HQs,
-que inspiram debates filosdficos sobre a liberdade”. El Pais. Junho/2020.
+que inspiram debates filosóficos sobre a liberdade”. El País. Junho/2020.
 
 No fragmento “ao tropeçar, cravava sua própria adaga no
 peito.” (L. 8-9), a oração em negrito abrange, simultaneamente,
@@ -2048,7 +2048,7 @@ dentro da ambulância, vinha a tona “um dado desconcertante”.
 E então um médico sentenciava: “Continua vivo. E vai
 sobreviver!”.
 Tommaso Koch. “O Coringa completa 80 anos e na Espanha ganha duas HQs,
-que inspiram debates filosdficos sobre a liberdade”. El Pais. Junho/2020.
+que inspiram debates filosóficos sobre a liberdade”. El País. Junho/2020.
 
 As vírgulas em “E depois, o silêncio.” (L. 1) e em “Mas seu rosto
 continua sorrindo, para sempre.” (L. 2-3) são usadas,
@@ -2093,7 +2093,7 @@ dentro da ambulância, vinha a tona “um dado desconcertante”.
 E então um médico sentenciava: “Continua vivo. E vai
 sobreviver!”.
 Tommaso Koch. “O Coringa completa 80 anos e na Espanha ganha duas HQs,
-que inspiram debates filosdficos sobre a liberdade”. El Pais. Junho/2020.
+que inspiram debates filosóficos sobre a liberdade”. El País. Junho/2020.
 
 Em “Seu carisma seduziu a editora DC Comics, que impôs o
 acréscimo de um quadrinho.” (L. 12-13), o vocábulo “que”
@@ -2206,14 +2206,14 @@ Perdão podíeis ter sido!
 cortejo, bandeiras, tropa...
 Ai, palavras, ai, palavras,
 que estranha potência, a vossa!
-Ereis um sopro na aragem...
+Éreis um sopro na aragem...
 — sois um homem que se enforca!
-Cecília Meireles, Romanceiro da Inconfidéncia.
+Cecília Meireles, Romanceiro da Inconfidência.
 
 Ao substituir a pessoa verbal utilizada para se referir ao
 substantivo "palavras" pela 3ª pessoa do plural, os verbos dos
 versos “sois de vento, ides no vento,” (v. 4) / “Perdão podieis
-ter sido!” (v. 12) / “Ereis um sopro na aragem...” (v. 20) seriam
+ter sido!” (v. 12) / “Éreis um sopro na aragem...” (v. 20) seriam
 conjugados conforme apresentado na alternativa:`,
     images: [],
     alternatives: [
@@ -2253,9 +2253,9 @@ Perdão podíeis ter sido!
 cortejo, bandeiras, tropa...
 Ai, palavras, ai, palavras,
 que estranha potência, a vossa!
-Ereis um sopro na aragem...
+Éreis um sopro na aragem...
 — sois um homem que se enforca!
-Cecília Meireles, Romanceiro da Inconfidéncia.
+Cecília Meireles, Romanceiro da Inconfidência.
 
 A “estranha potência” que a voz lírica ressalta nas palavras
 decorre de uma combinação entre`,
@@ -2614,7 +2614,7 @@ pois o tal fundo mascavo logo aflora
 quer inverno ou verão mele o açúcar.
 Só os banguês* que-ainda purgam ainda
 o açúcar bruto com barro, de mistura;
-a usina já não o purga: da infÂncia,
+a usina já não o purga: da infância,
 não de depois de adulto, ela o educa;
 em enfermarias, com vácuos e turbinas,
 em mãos de metal de gente indústria,
@@ -2622,9 +2622,9 @@ a usina o leva a sublimar em cristal
 o pardo do xarope: não o purga, cura.
 Mas como a cana se cria ainda hoje,
 em mãos de barro de gente agricultura,
-o barrento da pré-infÂncia logo aflora
+o barrento da pré-infância logo aflora
 quer inverno ou verão mele o açúcar.
-Jodo Cabral de Melo Neto, A Educação pela Pedra.
+João Cabral de Melo Neto, A Educação pela Pedra.
 *bangué: engenho de açucar primitivo movido a força animal.
 
 Os últimos quatro versos do poema rompem com a série de
@@ -2667,7 +2667,7 @@ pois o tal fundo mascavo logo aflora
 quer inverno ou verão mele o açúcar.
 Só os banguês* que-ainda purgam ainda
 o açúcar bruto com barro, de mistura;
-a usina já não o purga: da infÂncia,
+a usina já não o purga: da infância,
 não de depois de adulto, ela o educa;
 em enfermarias, com vácuos e turbinas,
 em mãos de metal de gente indústria,
@@ -2675,19 +2675,19 @@ a usina o leva a sublimar em cristal
 o pardo do xarope: não o purga, cura.
 Mas como a cana se cria ainda hoje,
 em mãos de barro de gente agricultura,
-o barrento da pré-infÂncia logo aflora
+o barrento da pré-infância logo aflora
 quer inverno ou verão mele o açúcar.
-Jodo Cabral de Melo Neto, A Educação pela Pedra.
+João Cabral de Melo Neto, A Educação pela Pedra.
 *bangué: engenho de açucar primitivo movido a força animal.
 
 Na oração “que ela dura” (v. 4), o pronome sublinhado`,
     images: [],
     alternatives: [
       { id: 'A', type: 'text', value: `não tem referente.` },
-      { id: 'B', type: 'text', value: `retoma a palavra |usina| (v. 1).` },
+      { id: 'B', type: 'text', value: `retoma a palavra “usina” (v. 1).` },
       { id: 'C', type: 'text', value: `pode ser substituído por “ele”, referindo-se a “açúcar” (v. 1).` },
-      { id: 'D', type: 'text', value: `refere-se a |mais instável das brancuras| (v. 2).` },
-      { id: 'E', type: 'text', value: `equivale a palavra |censura| (v. 10).` },
+      { id: 'D', type: 'text', value: `refere-se a “mais instável das brancuras” (v. 2).` },
+      { id: 'E', type: 'text', value: `equivale a palavra “censura” (v. 10).` },
     ],
     correct: 'D',
     explanation: `O pronome ela retoma a brancura do açúcar, apresentada como instável. O verso discute quanto tempo dura essa brancura, não a usina nem o próprio açúcar.`,
@@ -2714,7 +2714,7 @@ pois o tal fundo mascavo logo aflora
 quer inverno ou verão mele o açúcar.
 Só os banguês* que-ainda purgam ainda
 o açúcar bruto com barro, de mistura;
-a usina já não o purga: da infÂncia,
+a usina já não o purga: da infância,
 não de depois de adulto, ela o educa;
 em enfermarias, com vácuos e turbinas,
 em mãos de metal de gente indústria,
@@ -2722,9 +2722,9 @@ a usina o leva a sublimar em cristal
 o pardo do xarope: não o purga, cura.
 Mas como a cana se cria ainda hoje,
 em mãos de barro de gente agricultura,
-o barrento da pré-infÂncia logo aflora
+o barrento da pré-infância logo aflora
 quer inverno ou verão mele o açúcar.
-Jodo Cabral de Melo Neto, A Educação pela Pedra.
+João Cabral de Melo Neto, A Educação pela Pedra.
 *bangué: engenho de açucar primitivo movido a força animal.
 
 Observe o diagrama que mostra, de forma simplificada, o

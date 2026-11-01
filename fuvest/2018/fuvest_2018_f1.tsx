@@ -447,7 +447,7 @@ O que ocorre com o HCN nas Etapas 2 e 3?
     phase: 1,
     text: `Um dos parâmetros que determina a qualidade do azeite de
 oliva é sua acidez, normalmente expressa na embalagem na
-forma de porcentagem, e que pode-ser associada diretamente
+forma de porcentagem, e que pode ser associada diretamente
 ao teor de ácido oleico em sua composição.
 Uma amostra de 20,00 g de um azeite comercial foi adicionada
 a 100 mL de uma solução contendo etanol e etoxietano
@@ -525,7 +525,7 @@ São corretas apenas as afirmações`,
     exam: 'fuvest',
     year: 2018,
     phase: 1,
-    text: `A energia liberada na combustão do etanol de cana-de-açúcar pode-ser considerada advinda da energia solar, uma vez que a primeira etapa para a produção do etanol é a fotossíntese. As transformações envolvidas na produção e no uso do etanol combustível são representadas pelas seguintes equações químicas:
+    text: `A energia liberada na combustão do etanol de cana-de-açúcar pode ser considerada advinda da energia solar, uma vez que a primeira etapa para a produção do etanol é a fotossíntese. As transformações envolvidas na produção e no uso do etanol combustível são representadas pelas seguintes equações químicas:
 
 6 CO₂(g) + 6 H₂O(g) → C₆H₁₂O₆(aq) + 6 O₂(g)
 C₆H₁₂O₆(aq) → 2 C₂H₅OH(l) + 2 CO₂(g)   ΔH = −70 kJ/mol
@@ -1141,7 +1141,7 @@ I. Impulsos nervosos estimulam a contração do diafragma e
 dos músculos intercostais, provocando a inspiração.
 II. A concentração de dióxido de carbono no sangue influencia
 o ritmo respiratório.
-III. O ritmo respiratório pode-ser controlado voluntariamente,
+III. O ritmo respiratório pode ser controlado voluntariamente,
 mas na maior parte do tempo tem controle involuntário.
 
 Está correto o que se afirma em`,
@@ -1163,13 +1163,13 @@ Está correto o que se afirma em`,
     exam: 'fuvest',
     year: 2018,
     phase: 1,
-    text: `A surdez é geneticamente heterogênea: pode-ser causada por
+    text: `A surdez é geneticamente heterogênea: pode ser causada por
 mutações em diferentes genes, localizados nos autossomos ou
 no cromossomo X ou, ainda, por mutações em genes
 mitocondriais.
 
 Os heredogramas representam quatro famílias, em que
-ocorrem pessoas com surdez ( e ):
+ocorrem pessoas com surdez (■ e ●):
 
 A(s) família(s) em que o padrão de herança permite afastar a
 possibilidade de que a surdez tenha herança mitocondrial
@@ -2298,7 +2298,7 @@ Não nos dirigimos a elas diretamente, mas contornamo-las.
 Cada geração as vê sob um ângulo diferente e sob uma nova
 visão; nem se deve supor que um ponto de vista mais recente é
 mais eficiente do que um anterior. Cada aspecto surge na sua
-altura própria, que não pode-ser antecipada nem prolongada;
+altura própria, que não pode ser antecipada nem prolongada;
 e, todavia, o seu significado não está perdido porque o
 significado que uma obra assume para uma geração posterior
 é o resultado de uma série completa de interpretações anteriores.
@@ -2336,7 +2336,7 @@ Não nos dirigimos a elas diretamente, mas contornamo-las.
 Cada geração as vê sob um ângulo diferente e sob uma nova
 visão; nem se deve supor que um ponto de vista mais recente é
 mais eficiente do que um anterior. Cada aspecto surge na sua
-altura própria, que não pode-ser antecipada nem prolongada;
+altura própria, que não pode ser antecipada nem prolongada;
 e, todavia, o seu significado não está perdido porque o
 significado que uma obra assume para uma geração posterior
 é o resultado de uma série completa de interpretações anteriores.
@@ -3041,7 +3041,7 @@ finalidade apenas em`,
 www.combustivellegal.com.br
 
 Por ser empregado tanto na linguagem formal quanto na
-linguagem informal, o termo “legal” pode-ser lido, no contexto
+linguagem informal, o termo “legal” pode ser lido, no contexto
 da propaganda, respectivamente, nos seguintes sentidos:`,
     images: [{"src":"/fuvest/2018/images/fuvest_2018_q82_1.jpg","width":519,"height":666}],
     alternatives: [

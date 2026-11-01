@@ -656,7 +656,7 @@ Sendo Q = 2 × 10⁻⁴ C, q = –2 × 10⁻⁵ C e d = 6 m, a força elétrica
 resultante sobre a carga q
 
 Note e adote:
-A constante k0 da lei de Coulomb vale 9 × 10⁹ N m2/C2`,
+A constante k₀ da lei de Coulomb vale 9 × 10⁹ N·m²/C²`,
     images: [{"src":"/fuvest/2019/images/fuvest_2019_f1q18_1.jpg","width":356,"height":142},{"src":"/fuvest/2019/images/fuvest_2019_f1q21_1.jpg","width":356,"height":142}],
     alternatives: [
       { id: 'A', type: 'text', value: `é nula.` },
@@ -1336,7 +1336,7 @@ Com base nessas informações, é correto afirmar que`,
     text: `Considerando que baterias de Li‐FeS2 podem gerar uma
 voltagem nominal de 1,5 V, o que as torna úteis no cotidiano e
 que a primeira reação de descarga dessas baterias é
-2 Li + FeS2 → Li2FeS2, é correto afirmar:`,
+2 Li + FeS₂ → Li₂FeS₂, é correto afirmar:`,
     images: [],
     alternatives: [
       { id: 'A', type: 'text', value: `O lítio metálico é oxidado na primeira descarga.` },
@@ -1845,8 +1845,8 @@ uma rotação em torno do vértice C até o vértice A tocar o solo,
 após o que passa a ser uma rotação em torno de A , até o vértice
 B tocar o solo, e assim por diante.
 
-Usando as dimensões indicadas na figura (AB =1 e BC =2),
-qual é o comprimento da trajetória percorrida pelo vértice B ,
+Usando as dimensões indicadas na figura (AB = 1 e BC = 2),
+qual é o comprimento da trajetória percorrida pelo vértice B,
 desde a posição mostrada, até a aresta BC apoiar‐se no solo
 novamente?
 

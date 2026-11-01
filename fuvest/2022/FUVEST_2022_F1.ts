@@ -14,9 +14,7 @@ médicos no tratamento da malária. No Brasil, a prevalência de
 deficiência em G6PD na população geral varia de acordo com
 as áreas mostradas no mapa:
 
-Dombrowski, J G et al. (2017), Malar J, 16:253, doi:10.1186/s12936-017-
-1889-6 e Monteiro, W M et al. (2014), Mem Inst Oswaldo Cruz, 109:5, 553-
-568, doi:10.1590/0074-0276140123. Adaptados.
+Dombrowski, J G et al. (2017), Malar J, 16:253, doi:10.1186/s12936-017-1889-6 e Monteiro, W M et al. (2014), Mem Inst Oswaldo Cruz, 109:5, 553-568, doi:10.1590/0074-0276140123. Adaptados.
 
 Indique a afirmação correta sobre a segurança da prescrição
 de cloroquina nesse contexto.
@@ -120,8 +118,7 @@ nessa situação ficcional é que a erva`,
       { id: 'A', type: 'text', value: `sofreu mutações em células somáticas pela ação do
 Vibranium na época em que o meteorito atingiu Wakanda.` },
       { id: 'B', type: 'text', value: `promoveu mutações no RNA das células do Pantera Negra.` },
-      { id: 'C', type: 'text', value: `provocou mutações dominantes relacionadas aos super-
-poderes nas células germinativas do Pantera Negra.` },
+      { id: 'C', type: 'text', value: `provocou mutações dominantes relacionadas aos superpoderes nas células germinativas do Pantera Negra.` },
       { id: 'D', type: 'text', value: `é uma planta característica de ambientes de tundra.` },
       { id: 'E', type: 'text', value: `estava em estação de floração quando o meteorito caiu,
 causando mutações em suas células germinativas.` }
@@ -1050,8 +1047,7 @@ médio. O romancista “imitaria” a vida, sim, mas qual vida?
 Aquela cujo sentido dramático escapa a homens e mulheres
 entorpecidos ou automatizados por seus hábitos cotidianos. A
 vida como objeto de busca e construção, e não a vida como
-encadeamento de tempos vazios e inertes. Caso essa pobre vida-
-morte deva ser tematizada, ela aparecerá como tal, degradada,
+encadeamento de tempos vazios e inertes. Caso essa pobre vida-morte deva ser tematizada, ela aparecerá como tal, degradada,
 sem a aura positiva com que as palavras “realismo” e “realidade”
 são usadas nos discursos que fazem a apologia conformista da
 “vida como ela é”... A escrita da resistência, a narrativa
@@ -2003,13 +1999,11 @@ mencionadas e que não ocorram outras colisões intermediárias.`,
     exam: 'fuvest',
     year: 2022,
     phase: 1,
-    text: `Considere a situação indi-
-cada na figura, em que um
+    text: `Considere a situação indicada na figura, em que um
 motor, com o auxílio de uma
 polia, ergue verticalmente
 uma caixa de massa 12 kg. A
-caixa contém materiais frá-
-geis e deve ser erguida com
+caixa contém materiais frágeis e deve ser erguida com
 velocidade constante. Qual é
 a magnitude da força vertical
 que o motor deve exercer
@@ -2307,8 +2301,7 @@ vento e maré, além da operação promovida por rebocadores.
 Disponível em https://www.noaa.gov/, https://edition.cnn.com/ e
 https://www.tide-forecast.com/. Adaptados.
 
-Com base nos dados fornecidos e em seus conhecimentos, pode-
-se atribuir o reflutuamento do Ever Given às seguintes condições:`,
+Com base nos dados fornecidos e em seus conhecimentos, pode-se atribuir o reflutuamento do Ever Given às seguintes condições:`,
     images: [{"src":"/fuvest/2022/images/fuvest_2022_q62_1.jpg","width":567,"height":621},{"src":"/fuvest/2022/images/fuvest_2022_q62_2.jpg","width":576,"height":391}],
     alternatives: [
       { id: 'A', type: 'text', value: `Formação de um gradiente de pressão entre Ásia e África,
@@ -2792,8 +2785,7 @@ a radioatividade diminui no trecho 3.` },
 acúmulo de marcador nesse trecho do solo.` },
       { id: 'C', type: 'text', value: `O marcador radioativo flui no sentido contrário ao fluxo da
 água, acumulando-se no meio do cano.` },
-      { id: 'D', type: 'text', value: `No trecho 3 a radioatividade é menor porque foi consu-
-mida por reações químicas ao longo do trecho 2.` },
+      { id: 'D', type: 'text', value: `No trecho 3 a radioatividade é menor porque foi consumida por reações químicas ao longo do trecho 2.` },
       { id: 'E', type: 'text', value: `No trecho 2 a radioatividade diminui devido ao fato de a
 meia-vida do marcador ser curta.` }
     ],
@@ -3213,8 +3205,7 @@ Yevgeny Khaldei. Berlim, maio de 1945. In: Letícia Yazbek, Aventuras da Histór
 Disponível em https://aventurasnahistoria.uol.com.br/noticias/historia-hoje/.
 
 As fotos de Robert Capa e de Yevgeny Khaldei foram produzidas
-para documentar eventos da Segunda Guerra Mundial. Referem-
-se, respectivamente,`,
+para documentar eventos da Segunda Guerra Mundial. Referem-se, respectivamente,`,
     images: [{"src":"/fuvest/2022/images/fuvest_2022_q88_1.jpg","width":554,"height":378},{"src":"/fuvest/2022/images/fuvest_2022_q88_2.jpg","width":554,"height":357}],
     alternatives: [
       { id: 'A', type: 'text', value: `ao desembarque dos Aliados para libertar a França da
@@ -3266,8 +3257,7 @@ Sociologia e Política, Curitiba, n. 25, nov. 2005, p. 11-23.
 
 A primeira citação foi retirada de um texto em que o sociólogo
 Jeffrey Alexander desenvolve o que compreende ser a
-ideologia de Steve Bannon, assessor do ex-presidente norte-
-americano Donald Trump. A segunda citação foi extraída de
+ideologia de Steve Bannon, assessor do ex-presidente norte-americano Donald Trump. A segunda citação foi extraída de
 um artigo em que a cientista política Chantal Mouffe
 desenvolve a noção de “pluralismo agonístico”. A partir da
 perspectiva apresentada nas citações, é correto afirmar que a
@@ -3308,8 +3298,7 @@ não seja esquecido. (...)
 A história do Cais do Valongo e do seu entorno está
 indissoluvelmente ligada à história universal, por ter sido a
 porta de entrada do maior volume de africanos escravizados
-nas Américas. O Rio de Janeiro era, então, a mais afro-
-atlântica das cidades costeiras do território brasileiro (...).
+nas Américas. O Rio de Janeiro era, então, a mais afro-atlântica das cidades costeiras do território brasileiro (...).
 Disponível em http://portal.iphan.gov.br/.
 
 O texto integra a proposta elaborada pelo IPHAN, em 2016,

@@ -280,8 +280,7 @@ moral, mas esse último não é punido.` },
     exam: 'fuvest',
     year: 2025,
     phase: 1,
-    text: `Disponível em https://screenrant.com/funniest-peanuts-comics-charlie-
-brown-vs-lucy/.
+    text: `Disponível em https://screenrant.com/funniest-peanuts-comics-charlie-brown-vs-lucy/.
 
 Falácias são argumentos que podem até parecer à primeira
 vista bem construídos logicamente, mas são falhos, seja em
@@ -906,8 +905,7 @@ A quantidade de energia armazenada é diretamente
 proporcional ao número de íons Li+ intercalados no ânodo,
 que, entre outros aspectos, é limitado pelo espaço disponível
 para a sua alocação. Uma recente inovação tecnológica em
-baterias é a substituição de Li por Na, formando baterias íon-
-sódio (íon-Na). O mecanismo de funcionamento se baseia no
+baterias é a substituição de Li por Na, formando baterias íon-sódio (íon-Na). O mecanismo de funcionamento se baseia no
 processo de intercalação, com a vantagem de que o Na é mais
 abundante do que o Li no planeta.
 
@@ -1504,8 +1502,7 @@ sua situação de penúria social e financeira.` },
     year: 2025,
     phase: 1,
     text: `“Ele vê o gesto do advogado Dr. Otávio Conti, no café,
-metendo a mão no bolso, tirando uma cédula de cem mil-
-réis e entregando-a ao Duque: ‘— Vá levantar esta letra. Você
+metendo a mão no bolso, tirando uma cédula de cem mil-réis e entregando-a ao Duque: ‘— Vá levantar esta letra. Você
 me devolve depois.’ Não é bem caridade... Ele não sabe
 explicar... Há nisso um certo tom de versatilidade... de
 facilidade... de um tal ou qual afrouxamento do caráter... Ele
@@ -1528,8 +1525,7 @@ ativação do sistema nervoso simpático é:`,
     images: [],
     alternatives: [
       { id: 'A', type: 'text', value: `Ele vê o gesto do advogado Dr. Otávio Conti, no café,
-metendo a mão no bolso, tirando uma cédula de cem mil-
-réis e entregando-a ao Duque.` },
+metendo a mão no bolso, tirando uma cédula de cem mil-réis e entregando-a ao Duque.` },
       { id: 'B', type: 'text', value: `Ele não sabe explicar... Há nisso um certo tom de
 versatilidade... de facilidade... de um tal ou qual
 afrouxamento do caráter...` },
@@ -2856,8 +2852,7 @@ em células especializadas, conforme exemplificado a seguir.
 
 Disponível em https://upload.wikimedia.org/wikipedia/ (Adaptado).
 
-As células especializadas que derivam de uma mesma célula-
-tronco possuem os(as) mesmos(as)`,
+As células especializadas que derivam de uma mesma célula-tronco possuem os(as) mesmos(as)`,
     images: [{"src":"/fuvest/2025/images/q67_stemcell.jpg","width":545,"height":341}],
     alternatives: [
       { id: 'A', type: 'text', value: `genes.` },
@@ -3078,8 +3073,7 @@ manômetro, como mostra a figura.
 
 [1] FONSECA et al, RBEF, vol. 40, no 3, e3504
 (2018). Disponível em
-http://dx.doi.org/10.1590/1806-9126-RBEF-
-2017-0340.
+http://dx.doi.org/10.1590/1806-9126-RBEF-2017-0340.
 
 Suponha que a reação produza 2 mols de CO₂ para cada 3
 litros de vinagre. Nas condições do experimento, em que o
@@ -3136,8 +3130,7 @@ manômetro, como mostra a figura.
 
 [1] FONSECA et al, RBEF, vol. 40, no 3, e3504
 (2018). Disponível em
-http://dx.doi.org/10.1590/1806-9126-RBEF-
-2017-0340.
+http://dx.doi.org/10.1590/1806-9126-RBEF-2017-0340.
 
 Considere agora um outro experimento feito em condições
 semelhantes, em que o manômetro indica uma pressão de
@@ -3693,8 +3686,7 @@ Alguns panos são de uma só cor, outros são multicoloridos.”
 OSIFEKUNDE. Notícia sobre o país e o povo dos Ijebus. In: COSTA E SILVA,
 Alberto. Imagens da África. São Paulo: Penguin, 2012. p.361.
 
-O texto é parte de um relato das memórias de um ex-
-escravizado natural de Ijebu, na atual Nigéria, trazido ao Brasil
+O texto é parte de um relato das memórias de um ex-escravizado natural de Ijebu, na atual Nigéria, trazido ao Brasil
 no início do século XIX. O excerto faz menção`,
     images: [],
     alternatives: [
