@@ -502,13 +502,13 @@ SAFs: Sistemas Agroflorestais
 UE: União Europeia`,
     images: [],
     alternatives: [
-      { id: 'A', type: 'text', value: `a desigual condição climática para produção de vinhos nos
+      { id: 'A', type: 'text', value: `à desigual condição climática para produção de vinhos nos
 dois continentes.` },
-      { id: 'B', type: 'text', value: `as políticas de incentivo à agricultura familiar na América
+      { id: 'B', type: 'text', value: `às políticas de incentivo à agricultura familiar na América
 Latina e especialmente ao PRONAF no Brasil.` },
-      { id: 'C', type: 'text', value: `a difusão de SAFs, criados com o propósito de produção
+      { id: 'C', type: 'text', value: `à difusão de SAFs, criados com o propósito de produção
 para consumo humano no Cone Sul.` },
-      { id: 'D', type: 'text', value: `as declarações que cogitaram a retirada do Brasil da OMC
+      { id: 'D', type: 'text', value: `às declarações que cogitaram a retirada do Brasil da OMC
 meses antes da aprovação da resolução.` },
       { id: 'E', type: 'text', value: `aos graves problemas ambientais no Brasil, tais como
 desmatamento e queimadas.` },
@@ -548,7 +548,7 @@ interior do planeta Terra.` },
       { id: 'C', type: 'text', value: `Os aquíferos apresentam volume de águas de grandes
 proporções, contudo, os custos de bombeamento e
 tratamento inviabilizam sua utilização e seus usos para
-atividades humanas, limitando-se atualmente a
+atividades humanas, limitando-se atualmente à
 dessedentação animal.` },
       { id: 'D', type: 'text', value: `Os aquíferos são formados pela ação dos ventos que
 acumulam areia na superfície, facilitando a infiltração e
@@ -627,7 +627,7 @@ mais ameaçado pela expansão das fronteiras agrícolas na
 produção para exportação.` },
       { id: 'C', type: 'text', value: `São típicas das áreas mais planas da faixa leste do Brasil, cujos
 terrenos são recobertos pelo Bioma do Cerrado; a ocorrência
-desta espécie deve-se as áreas com ocupação humana, o que
+desta espécie deve-se às áreas com ocupação humana, o que
 atrai ratos que fazem parte da alimentação da jararaca.` },
       { id: 'D', type: 'text', value: `Possuem área de ocorrência restrita ao Bioma da
 Amazônia, caracterizado pela ocorrência de sapos; nesse
@@ -744,7 +744,7 @@ período considerado.` },
 inserção de genes da bactéria Bacillus thuringiensis, que
 produzem proteínas Cry, tóxicas para insetos como as lagartas
 que atacam suas lavouras. Essas proteínas bloqueiam o trato
-digestório dos insetos, levando-os a morte. Em aves e
+digestório dos insetos, levando-os à morte. Em aves e
 mamíferos que também se alimentam de milho, as proteínas
 Cry são inativadas durante a digestão ácida, perdendo sua
 ação sobre esses animais.
@@ -898,7 +898,7 @@ A que grupos pertencem as plantas X, Y e Z, respectivamente?`,
     phase: 1,
     text: `A determinação do sexo em embriões de tartaruga-de-couro
 depende da temperatura a que o ovo foi exposto. Isso está
-relacionado a ação da enzima aromatase, que converte a
+relacionado à ação da enzima aromatase, que converte a
 testosterona em estradiol. A expressão gênica e a atividade
 dessa enzima nas gônadas são dependentes da temperatura,
 conforme indicado na figura.
@@ -1151,7 +1151,7 @@ populares.` },
 difusão de uma política cultural de caráter nacionalista e
 excludente.` },
       { id: 'D', type: 'text', value: `O programa musical adotado na recepção revelava
-tendências modernistas ao conferir status de arte as
+tendências modernistas ao conferir status de arte às
 danças populares.` },
       { id: 'E', type: 'text', value: `A apresentação do maxixe Corta-jaca indicava uma
 resposta para contornar a xenofobia e eugenia presentes
@@ -1256,7 +1256,7 @@ a profissão ou a topografia do distrito.` },
     phase: 1,
     text: `Leia o texto:
 A corrupção nos costumes das mulheres é ainda uma
-coisa prejudicial ao fim que se propõe o governo, e a boa
+coisa prejudicial ao fim que se propõe o governo, e à boa
 conservação das leis do Estado (...). É o que aconteceu em
 Esparta (...).
 Tais são as observações feitas entre os lacedemônios:
@@ -1265,7 +1265,7 @@ as questões. De resto, que diferença existe em que as mulheres
 governem, ou que os magistrados sejam governados por
 mulheres? (...) as mulheres dos lacedemônios, mesmo no caso
 de perigo, fizeram-lhes o maior mal possível.
-Aristóteles, A politica. Rio de Janeiro: Ediouro, s./d., p. 79-80.
+Aristóteles, A política. Rio de Janeiro: Ediouro, s./d., p. 79-80.
 É correto afirmar sobre as mulheres na Grécia Antiga:`,
     images: [],
     alternatives: [
@@ -1464,7 +1464,7 @@ formas, dentre elas esticando-se uma corda homogênea, fixa
 em dois pontos separados por uma distância L, e pondo-a a
 vibrar. A extremidade à direita é acoplada a um gerador de
 frequências, enquanto a outra extremidade está sujeita a uma
-força tensional produzida ao se pendurar a corda um objeto de
+força tensional produzida ao se pendurar à corda um objeto de
 massa m₀ mantido em repouso. O arranjo experimental é
 ilustrado na figura. Ajustando a frequência do gerador para f₁,
 obtém-se na corda uma onda estacionária que vibra em seu
@@ -1528,7 +1528,7 @@ focalizar sobre a retina a luz que vem dos objetos, desde que
 não estejam muito próximos. Pessoas míopes, por outro lado,
 apresentam dificuldades em enxergar de longe. Ao focalizar
 objetos situados além do chamado ponto remoto (PR), a
-imagem forma-se a frente da retina, conforme ilustrado na
+imagem forma-se à frente da retina, conforme ilustrado na
 figura.
 Neste caso, lentes corretivas são necessárias a fim de que o
 indivíduo observe o objeto de forma nítida.
@@ -1644,7 +1644,7 @@ para produzir núcleos de hélio. Atualmente, essas reações
 permitem ao Sol emitir radiação luminosa a uma potência de
 aproximadamente 4 × 10²⁶ W. Supondo que essa potência
 tenha sido mantida desde o nascimento do Sol, cerca de 5 × 10⁹
-anos atrás, a massa correspondente aquela perdida pelo Sol até
+anos atrás, a massa correspondente àquela perdida pelo Sol até
 hoje é mais próxima de
 
 Note e adote: Velocidade da luz no vácuo = 3 × 10⁸ m/s. Considere que um ano tem cerca de 3 × 10⁷ s.`,
@@ -1799,7 +1799,7 @@ Conforme o texto, um critério tradicionalmente utilizado por
 astrônomos para avaliar estrelas envolve`,
     images: [],
     alternatives: [
-      { id: 'A', type: 'text', value: `verificar se sua composição se assemelha a do Sol.` },
+      { id: 'A', type: 'text', value: `verificar se sua composição se assemelha à do Sol.` },
       { id: 'B', type: 'text', value: `selecionar galáxias compostas por estrelas padrão.` },
       { id: 'C', type: 'text', value: `calcular níveis de radiação estelar e de energia gravitacional.` },
       { id: 'D', type: 'text', value: `medir a densidade e grau de opacidade de nêutrons.` },
@@ -1949,17 +1949,17 @@ Well, he puts his cigar out in your face just for kicks
 His bedroom window it is made out of bricks
 The National Guard stands around his door
 Ah, I ain't gonna work for Maggie's pa no more, alright
-Bob Dylan, “Maggie’s Farm”, do album Bringing it all back home, 1965.
+Bob Dylan, “Maggie’s Farm”, do álbum Bringing it all back home, 1965.
 Nestas estrofes, o conjunto de cenas descritas mostra que a
 principal dificuldade experimentada pela pessoa cuja história é
 contada na letra da música refere-se`,
     images: [],
     alternatives: [
       { id: 'A', type: 'text', value: `ao relacionamento difícil com familiares e amigos.` },
-      { id: 'B', type: 'text', value: `a falta de criatividade diante das exigências do trabalho.` },
-      { id: 'C', type: 'text', value: `as restrições impostas a sua liberdade e expressão pessoal.` },
-      { id: 'D', type: 'text', value: `a competição por salários mais altos com colegas de trabalho.` },
-      { id: 'E', type: 'text', value: `as dificuldades de viver fora de um grande centro urbano.` },
+      { id: 'B', type: 'text', value: `à falta de criatividade diante das exigências do trabalho.` },
+      { id: 'C', type: 'text', value: `às restrições impostas a sua liberdade e expressão pessoal.` },
+      { id: 'D', type: 'text', value: `à competição por salários mais altos com colegas de trabalho.` },
+      { id: 'E', type: 'text', value: `às dificuldades de viver fora de um grande centro urbano.` },
     ],
     correct: 'C',
     explanation: `As cenas mostram trabalho imposto, punições e violência, em contraste com a vontade e as ideias do narrador. A dificuldade central é a restrição à liberdade e à expressão pessoal.`,
@@ -1998,7 +1998,7 @@ sempre. Porque a carreira original do Coringa era para durar
 apenas 30 páginas. O tempo de envenenar Gotham, sequestrar
 Robin, enfiar um par de sopapos no Homem-Morcego e disparar
 o primeiro “vou te matar” da sua relação. Na briga final do
-Batman nO 1, o “horripilante bufão” sofria um final digno de sua
+Batman nº 1, o “horripilante bufão” sofria um final digno de sua
 desumana ironia: ao tropeçar, cravava sua própria adaga no
 peito. Assim decidiram e desenharam seus pais, os artistas Bill
 Finger, Bob Kane e Jerry Robinson. Entretanto, o criminoso
@@ -2038,7 +2038,7 @@ sempre. Porque a carreira original do Coringa era para durar
 apenas 30 páginas. O tempo de envenenar Gotham, sequestrar
 Robin, enfiar um par de sopapos no Homem-Morcego e disparar
 o primeiro “vou te matar” da sua relação. Na briga final do
-Batman nO 1, o “horripilante bufão” sofria um final digno de sua
+Batman nº 1, o “horripilante bufão” sofria um final digno de sua
 desumana ironia: ao tropeçar, cravava sua própria adaga no
 peito. Assim decidiram e desenharam seus pais, os artistas Bill
 Finger, Bob Kane e Jerry Robinson. Entretanto, o criminoso
@@ -2083,7 +2083,7 @@ sempre. Porque a carreira original do Coringa era para durar
 apenas 30 páginas. O tempo de envenenar Gotham, sequestrar
 Robin, enfiar um par de sopapos no Homem-Morcego e disparar
 o primeiro “vou te matar” da sua relação. Na briga final do
-Batman nO 1, o “horripilante bufão” sofria um final digno de sua
+Batman nº 1, o “horripilante bufão” sofria um final digno de sua
 desumana ironia: ao tropeçar, cravava sua própria adaga no
 peito. Assim decidiram e desenharam seus pais, os artistas Bill
 Finger, Bob Kane e Jerry Robinson. Entretanto, o criminoso
@@ -2613,7 +2613,7 @@ e sabe que tudo pode romper o mínimo
 em que o cristal é capaz de censura:
 pois o tal fundo mascavo logo aflora
 quer inverno ou verão mele o açúcar.
-Só os banguês* que ainda purgam ainda
+Só os banguês* que-ainda purgam ainda
 o açúcar bruto com barro, de mistura;
 a usina já não o purga: da infância,
 não de depois de adulto, ela o educa;
@@ -2626,7 +2626,7 @@ em mãos de barro de gente agricultura,
 o barrento da pré-infância logo aflora
 quer inverno ou verão mele o açúcar.
 João Cabral de Melo Neto, A Educação pela Pedra.
-*bangué: engenho de açúcar primitivo movido a força animal.
+*banguê: engenho de açúcar primitivo movido a força animal.
 
 Os últimos quatro versos do poema rompem com a série de
 contrapontos entre a usina e o banguê, pois`,
@@ -2666,7 +2666,7 @@ e sabe que tudo pode romper o mínimo
 em que o cristal é capaz de censura:
 pois o tal fundo mascavo logo aflora
 quer inverno ou verão mele o açúcar.
-Só os banguês* que ainda purgam ainda
+Só os banguês* que-ainda purgam ainda
 o açúcar bruto com barro, de mistura;
 a usina já não o purga: da infância,
 não de depois de adulto, ela o educa;
@@ -2679,7 +2679,7 @@ em mãos de barro de gente agricultura,
 o barrento da pré-infância logo aflora
 quer inverno ou verão mele o açúcar.
 João Cabral de Melo Neto, A Educação pela Pedra.
-*bangué: engenho de açúcar primitivo movido a força animal.
+*banguê: engenho de açúcar primitivo movido a força animal.
 
 Na oração “que ela dura” (v. 4), o pronome sublinhado`,
     images: [],
@@ -2687,8 +2687,8 @@ Na oração “que ela dura” (v. 4), o pronome sublinhado`,
       { id: 'A', type: 'text', value: `não tem referente.` },
       { id: 'B', type: 'text', value: `retoma a palavra “usina” (v. 1).` },
       { id: 'C', type: 'text', value: `pode ser substituído por “ele”, referindo-se a “açúcar” (v. 1).` },
-      { id: 'D', type: 'text', value: `refere-se a “mais instável das brancuras” (v. 2).` },
-      { id: 'E', type: 'text', value: `equivale a palavra “censura” (v. 10).` },
+      { id: 'D', type: 'text', value: `refere-se à “mais instável das brancuras” (v. 2).` },
+      { id: 'E', type: 'text', value: `equivale à palavra “censura” (v. 10).` },
     ],
     correct: 'D',
     explanation: `O pronome ela retoma a brancura do açúcar, apresentada como instável. O verso discute quanto tempo dura essa brancura, não a usina nem o próprio açúcar.`,
@@ -2713,7 +2713,7 @@ e sabe que tudo pode romper o mínimo
 em que o cristal é capaz de censura:
 pois o tal fundo mascavo logo aflora
 quer inverno ou verão mele o açúcar.
-Só os banguês* que ainda purgam ainda
+Só os banguês* que-ainda purgam ainda
 o açúcar bruto com barro, de mistura;
 a usina já não o purga: da infância,
 não de depois de adulto, ela o educa;
@@ -2726,7 +2726,7 @@ em mãos de barro de gente agricultura,
 o barrento da pré-infância logo aflora
 quer inverno ou verão mele o açúcar.
 João Cabral de Melo Neto, A Educação pela Pedra.
-*bangué: engenho de açúcar primitivo movido a força animal.
+*banguê: engenho de açúcar primitivo movido a força animal.
 
 Observe o diagrama que mostra, de forma simplificada, o
 processo de fabricação do açúcar.
@@ -2784,8 +2784,8 @@ metálica, ao contrário dos demais membros da família, que
 formam apenas óxidos.` },
       { id: 'C', type: 'text', value: `K, por ter raio atômico atipicamente grande, sendo maior
 do que os elementos abaixo dele na tabela periódica.` },
-      { id: 'D', type: 'text', value: `Cs, por pertencer a família 2 da tabela periódica, enquanto
-os demais pertencem a 1, formando cátions +2.` },
+      { id: 'D', type: 'text', value: `Cs, por pertencer à família 2 da tabela periódica, enquanto
+os demais pertencem à 1, formando cátions +2.` },
       { id: 'E', type: 'text', value: `Fr, por reagir violentamente com a água, devido ao seu
 pequeno raio atômico, liberando muito calor, diferentemente dos demais elementos da família.` },
     ],
@@ -2934,7 +2934,7 @@ internacional.` },
     text: `Observe a representação a seguir, em que os círculos brancos
 representam uma espécie química (molécula ou íon molecular) e
 os círculos coloridos, outra.
-Essa representação pode ser corretamente associada a`,
+Essa representação pode ser corretamente associada à`,
     images: [{"src":"/fuvest/2021/images/q85_figure.jpg","width":478,"height":426}],
     alternatives: [
       { id: 'A', type: 'text', value: `combustão de um hidrocarboneto com oxigênio em fase
@@ -2963,12 +2963,12 @@ Dissertação de Mestrado, 2019. Disponível em
 http://www.repositorio.ufal.br/.
 Sobre os conceitos mencionados, foram feitas as seguintes
 afirmações:
-I. A equação química mostrada na linha 2 pode ser associada a
-liberação de energia, pois corresponde a reação de
+I. A equação química mostrada na linha 2 pode ser associada à
+liberação de energia, pois corresponde à reação de
 fotossíntese com consumo de gás carbônico.
 II. A equação química apresentada na linha 6 representa uma
 reação na qual o número de oxidação das espécies é alterado,
-sendo associada à corrosão.
+sendo associada a corrosão.
 III. O modelo incompleto referido na linha 7 refere-se ao
 proposto por Thomson, que identificava a presença de
 partículas com carga negativa dentro de uma esfera.
@@ -3037,7 +3037,7 @@ característico de diversos alimentos assados. Um exemplo é a
 reação entre a glicina e um carboidrato redutor mostrada na
 equação em que R representa uma cadeia genérica:
 Um aminoácido específico (Composto 1), ao reagir com o
-carboidrato redutor, pode gerar o Composto 2, levando a
+carboidrato redutor, pode gerar o Composto 2, levando à
 formação de acrilamida, uma espécie potencialmente
 carcinogênica, conforme mostrado na equação:
 A estrutura do aminoácido marcado como Composto 1 e que é
@@ -3133,7 +3133,7 @@ onde se precipitam devido às águas frias dessas regiões.` },
       { id: 'B', type: 'text', value: `Eles evaporam nas regiões mais quentes e são levados pelas
 correntes atmosféricas para regiões mais frias como os
 polos, onde se condensam e voltam para a superfície.` },
-      { id: 'C', type: 'text', value: `Após destilados, eles se tornam resistentes a degradação,
+      { id: 'C', type: 'text', value: `Após destilados, eles se tornam resistentes à degradação,
 de forma que alcançam todo o planeta, pela ação de
 correntes marinhas, inclusive as regiões polares.` },
       { id: 'D', type: 'text', value: `Os pesticidas organoclorados destilados, por conta da

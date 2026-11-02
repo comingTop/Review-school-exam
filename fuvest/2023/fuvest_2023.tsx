@@ -2224,7 +2224,7 @@ indices and indicators, 2015.
 Os dados representados no mapa são condizentes com:`,
     images: [{"src":"/fuvest/2023/images/fuvest_2023_q51_1.jpg","width":568,"height":358}],
     alternatives: [
-      { id: "A", type: "text", value: `Número de nascimentos vivos` },
+      { id: "A", type: "text", value: `Número de nascimentos vivos.` },
       { id: "B", type: "text", value: `Produto Interno Bruto.` },
       { id: "C", type: "text", value: `Total de população urbana.` },
       { id: "D", type: "text", value: `Produção de petróleo.` },

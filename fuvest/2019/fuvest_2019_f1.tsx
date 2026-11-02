@@ -1793,7 +1793,7 @@ seu volume será igual a`,
     text: `Uma empresa estuda cobrir um vão entre dois prédios (com
 formato de paralelepípedos reto‐retângulos) que têm paredes
 laterais paralelas, instalando uma lona na forma de um
-quadrilátero, com pontas presas nos pontos A , B , C e D ,
+quadrilátero, com pontas presas nos pontos A, B, C e D,
 conforme indicação da figura.
 
 Sabendo que a lateral de um prédio tem 80 m de altura e 28 m
@@ -1837,7 +1837,7 @@ uma da outra, a área total dessa lona seria de`,
     exam: 'fuvest',
     year: 2019,
     phase: 1,
-    text: `Um triângulo retângulo com vértices denominados A , B e C
+    text: `Um triângulo retângulo com vértices denominados A, B e C
 apoia‐se sobre uma linha horizontal, que corresponde ao solo,
 e gira sem escorregar no sentido horário. Isto é, se a posição
 inicial é aquela mostrada na figura, o movimento começa com

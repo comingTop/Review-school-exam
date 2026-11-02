@@ -2050,8 +2050,9 @@ magnética.`,
       { id: 'D', type: 'text', value: `Qμ₀I/πR e aponta na direção −x` },
       { id: 'E', type: 'text', value: `Qμ₀I/πR e aponta na direção x` }
     ],
-    correct: `*`,
-    explanation: `Questão anulada no gabarito oficial retificado. O campo correct registra * e nenhuma alternativa deve ser considerada resposta oficial. As opções apresentadas não incluem a dependência da força magnética com o módulo da velocidade, embora F = Q(v × B) exija essa grandeza.`,
+    correct: 'B',
+    annulled: true,
+    explanation: `Questão anulada no gabarito oficial retificado; não há alternativa a ser considerada resposta oficial (o registro B corresponde à chave original antes da anulação). As opções apresentadas não incluem a dependência da força magnética com o módulo da velocidade, embora F = Q(v × B) exija essa grandeza.`,
     subject: ['fis'],
     topics: ['Eletricidade', 'Questões aleatórias']
   },

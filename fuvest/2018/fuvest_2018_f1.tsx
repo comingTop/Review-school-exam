@@ -929,7 +929,7 @@ A soma α₁ + ⋯ + α₈ vale`,
       { id: 'E', type: 'text', value: `900°.` },
     ],
     correct: `B`,
-    explanation: `Somando os ângulos dos triângulos e os ângulos formados pelos prolongamentos dos lados, usando a soma 1.080° dos ângulos internos do octógono, obtém-se 360° para as oito pontas indicadas. Portanto, B. O valor 720° do draft era uma transcrição incorreta do gabarito.`,
+    explanation: `Somando os ângulos dos triângulos e os ângulos formados pelos prolongamentos dos lados, usando a soma 1.080° dos ângulos internos do octógono, obtém-se 360° para as oito pontas indicadas. Portanto, a resposta correta é B.`,
     subject: ['mat'],
     topics: ['Geometria', 'Questões aleatórias'],
   },
@@ -1169,7 +1169,7 @@ no cromossomo X ou, ainda, por mutações em genes
 mitocondriais.
 
 Os heredogramas representam quatro famílias, em que
-ocorrem pessoas com surdez (■ e ●):
+ocorrem pessoas com surdez (● e ■):
 
 A(s) família(s) em que o padrão de herança permite afastar a
 possibilidade de que a surdez tenha herança mitocondrial

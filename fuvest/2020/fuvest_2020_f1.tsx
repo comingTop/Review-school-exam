@@ -753,7 +753,7 @@ semana na cidade inteira foi de`,
 
 As possíveis soluções, em polegadas (inches, em inglês), para
 o problema matemático proposto no quadrinho, no caso em
-que os pontos A , B e C estão em uma mesma reta, são`,
+que os pontos A, B e C estão em uma mesma reta, são`,
     images: [{"src":"/fuvest/2020/images/fuvest_2020_f1q24_1.jpg","width":426,"height":533}],
     alternatives: [
       { id: 'A', type: 'text', value: `10/3 e 10.` },
