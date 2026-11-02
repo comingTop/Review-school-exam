@@ -1333,7 +1333,7 @@ Com base nessas informações, é correto afirmar que`,
     exam: 'fuvest',
     year: 2019,
     phase: 1,
-    text: `Considerando que baterias de Li‐FeS2 podem gerar uma
+    text: `Considerando que baterias de Li‐FeS₂ podem gerar uma
 voltagem nominal de 1,5 V, o que as torna úteis no cotidiano e
 que a primeira reação de descarga dessas baterias é
 2 Li + FeS₂ → Li₂FeS₂, é correto afirmar:`,
@@ -1439,14 +1439,14 @@ Considere que não houve perda do solvente durante a filtração.`,
     year: 2019,
     phase: 1,
     text: `O gráfico a seguir indica a temperatura de ebulição de
-bromoalcanos (CnH2n+1Br) para diferentes tamanhos de cadeia
+bromoalcanos (CₙH₂ₙ₊₁Br) para diferentes tamanhos de cadeia
 carbônica.
 
 
 Considerando as propriedades periódicas dos halogênios, a
 alternativa que descreve adequadamente o comportamento
 expresso no gráfico de temperaturas de ebulição versus
-tamanho de cadeia carbônica para CnH2n+1F ( ) e CnH2n+1I (•) é:
+tamanho de cadeia carbônica para CₙH₂ₙ₊₁F (□) e CₙH₂ₙ₊₁I (•) é:
 
 Note e adote: P.E. = ponto de ebulição.`,
     images: [{"src":"/fuvest/2019/images/q41_boiling.jpg","width":643,"height":383},{"src":"/fuvest/2019/images/q41_options.jpg","width":643,"height":731}],
@@ -1842,7 +1842,7 @@ apoia‐se sobre uma linha horizontal, que corresponde ao solo,
 e gira sem escorregar no sentido horário. Isto é, se a posição
 inicial é aquela mostrada na figura, o movimento começa com
 uma rotação em torno do vértice C até o vértice A tocar o solo,
-após o que passa a ser uma rotação em torno de A , até o vértice
+após o que passa a ser uma rotação em torno de A, até o vértice
 B tocar o solo, e assim por diante.
 
 Usando as dimensões indicadas na figura (AB = 1 e BC = 2),

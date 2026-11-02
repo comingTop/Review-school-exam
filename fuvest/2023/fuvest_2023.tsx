@@ -560,12 +560,12 @@ Considerando essas informações, é correto afirmar que`,
       { id: "A", type: "text", value: `a interação mais forte ocorre entre SO₃ e MeCN.` },
       { id: "B", type: "text", value: `quanto mais forte a interação entre moléculas, mais longa
 é a ligação S=O.` },
-      { id: "C", type: "text", value: `a interação de SO₃ e NH3 é a que faz com que a ligação S=O
+      { id: "C", type: "text", value: `a interação de SO₃ e NH₃ é a que faz com que a ligação S=O
 se alongue mais.` },
       { id: "D", type: "text", value: `a ligação S=O se torna mais curta com o aumento da
 energia de interação entre moléculas.` },
       { id: "E", type: "text", value: `a energia de interação do SO₃ com uma molécula de HCN
-é do mesmo valor do que com uma molécula de NH3.` }
+é do mesmo valor do que com uma molécula de NH₃.` }
     ],
     correct: 'B',
     explanation: `O gráfico associa maior energia necessária para desfazer a interação a maior distância da ligação S=O. Portanto, quanto mais forte a interação com a outra espécie, mais longa fica essa ligação.`,
@@ -2673,10 +2673,10 @@ MOREIRA et al. 2020. “Aspectos fundamentais da leishmaniose cutânea no
 Brasil”. DOI:10.22533/at.ed.4852012037. Adaptado.
 
 O parasita sobrevive nas células do hospedeiro mamífero pela
-inativação de enzimas da(o) I , o que bloqueia a digestão
+inativação de enzimas da(o) I, o que bloqueia a digestão
 intracelular e possibilita a continuidade do ciclo da
 leishmania. Uma das formas de se prevenir a transmissão
-dessa doença é II .
+dessa doença é II.
 
 As lacunas I e II podem ser preenchidas corretamente por:`,
     images: [{"src":"/fuvest/2023/images/fuvest_2023_q63_1.jpg","width":575,"height":470}],
@@ -3055,8 +3055,9 @@ sobre a variação de entalpia desse processo.`,
     ],
     correct: 'C',
     explanation: `A fusão ²₁H + ³₁H → ⁴₂He + ¹₀n conserva número de massa e carga. O subproduto é um nêutron; como há liberação de energia, ΔH < 0.`,
-    subject: ['fis'],
+    subject: ['qui'],
     topics: [
+      "Físico-química",
       "Questões aleatórias"
     ]
   },
@@ -3342,6 +3343,7 @@ Note e adote: Despreze os efeitos gravitacionais da Lua e suponha que mw seja de
     explanation: `Terra e Webb têm a mesma velocidade angular. Como F = mω²R, a razão das forças resultantes é FW/FT = mW RW/(mT RT). O raio RW é medido a partir do Sol, conforme o desenho; a expressão corresponde a C.`,
     subject: ['fis'],
     topics: [
+      "Leis de Newton e dinâmica",
       "Questões aleatórias"
     ]
   },
@@ -3646,6 +3648,7 @@ O menor número da forma n# que é maior que 2000 é:`,
     explanation: `Os produtos sucessivos são 2 × 3 × 5 × 7 = 210 e 2 × 3 × 5 × 7 × 11 = 2310. O primeiro primorial acima de 2000 é, portanto, 2310.`,
     subject: ['mat'],
     topics: [
+      "Aritmética e números",
       "Questões aleatórias"
     ]
   },

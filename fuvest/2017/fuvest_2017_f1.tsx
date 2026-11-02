@@ -1700,7 +1700,7 @@ outras energias, juntos, possuem menores emissões de
 gases do efeito estufa antropogênicos do que o setor de
 Transporte, tendo como principal exemplo ocorrências
 no sudeste asiático.` },
-      { id: 'B', type: 'text', value: `As maiores emissões de CH4 de origem antropogênica
+      { id: 'B', type: 'text', value: `As maiores emissões de CH₄ de origem antropogênica
 devem-se ao setor econômico da Agricultura e outros
 usos da terra, em razão das queimadas, principalmente
 no Brasil e em países africanos.` },
@@ -1711,11 +1711,11 @@ possuem políticas ambientais definidas.` },
       { id: 'D', type: 'text', value: `Um quarto do conjunto de gases do efeito estufa de
 origem antropogênica lançados na atmosfera é
 proveniente do setor econômico de Produção de
-eletricidade e calor, em que predomina a emissão do CO2,
+eletricidade e calor, em que predomina a emissão do CO₂,
 ocorrendo com grande intensidade nos EUA e na China.` },
       { id: 'E', type: 'text', value: `A Indústria possui parcela significativa na emissão de
 gases do efeito estufa de origem antropogênica, na qual
-o N2O é o componente majoritário na produção em
+o N₂O é o componente majoritário na produção em
 refinarias de petróleo do Oriente Médio e da Rússia.` },
     ],
     correct: 'D',
@@ -2107,8 +2107,8 @@ substâncias na planta.
     year: 2017,
     phase: 1,
     text: `Os primeiros vertebrados que conquistaram definitivamente
-o ambiente terrestre foram os I , que possuem
-II , aquisição evolutiva que permitiu o
+o ambiente terrestre foram os I, que possuem
+II, aquisição evolutiva que permitiu o
 desenvolvimento do embrião fora da água.
 Indique a alternativa que completa corretamente essa frase.
 `,
@@ -2453,8 +2453,8 @@ foi, aproximadamente,
 Note e adote:
 Calor específico da água: 1 cal/(g oC)
 1 cal = 4 J
-Temperatura de congelamento da água: 0 oC
-Temperatura de ebulição da água: 100 oC
+Temperatura de congelamento da água: 0 °C
+Temperatura de ebulição da água: 100 °C
 Considere que toda a energia emitida pelo rádio foi absorvida pela água
 e empregada exclusivamente para elevar sua temperatura.`,
     images: [],
@@ -2615,7 +2615,7 @@ Note e adote: massa molar do CO₂: 44 g/mol; volume molar do CO₂: 24 L/mol; d
     year: 2017,
     phase: 1,
     text: `Nas mesmas condições de pressão e temperatura, 50 L de
-gás propano (C3H8) e 250 L de ar foram colocados em um
+gás propano (C₃H₈) e 250 L de ar foram colocados em um
 reator, ao qual foi fornecida energia apenas suficiente para
 iniciar a reação de combustão. Após algum tempo, não mais
 se observou a liberação de calor, o que indicou que a reação
@@ -2633,7 +2633,7 @@ fuligem.
 Está correto apenas o que se afirma em
 
 Note e adote:
-Composição aproximada do ar em volume: 80% de N2 e 20% de O2.`,
+Composição aproximada do ar em volume: 80% de N₂ e 20% de O₂.`,
     images: [],
     alternatives: [
       { id: 'A', type: 'text', value: `I.` },
@@ -2690,9 +2690,9 @@ respectivamente, os haletos de hidrogênio HF e HCl,
 gasosos. Pode se estimar a variação de entalpia (ΔH) de cada
 uma dessas reações, utilizando se dados de energia de
 ligação. A tabela apresenta os valores de energia de ligação
-dos reagentes e produtos dessas reações a 25 oC e 1 atm.
+dos reagentes e produtos dessas reações a 25 °C e 1 atm.
 
-Molécula H2 F2 Cl 2 HF HCl
+Molécula H₂ F₂ Cl₂ HF HCl
 
 Energia de ligação (kJ/mol) 435 160 245 570 430
 

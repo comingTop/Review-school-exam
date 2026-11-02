@@ -382,7 +382,7 @@ removedores de esmalte.` },
     phase: 1,
     text: `Uma determinada quantidade de metano (CH₄) é colocada para
 reagir com cloro (Cl₂) em excesso, a 400 °C, gerando HCl (g) e
-os compostos organoclorados H₃CCl, H2CCl₂, HCCl₃, CCl₄, cujas
+os compostos organoclorados H₃CCl, H₂CCl₂, HCCl₃, CCl₄, cujas
 propriedades são mostradas na tabela. A mistura obtida ao final
 das reações químicas é então resfriada a 25 °C, e o líquido,
 formado por uma única fase e sem HCl, é coletado.
@@ -398,11 +398,11 @@ na fase líquida e o primeiro composto a ser separado por essa
 técnica são:`,
     images: [],
     alternatives: [
-      { id: 'A', type: 'text', value: `decantação; H₃CCl .` },
-      { id: 'B', type: 'text', value: `destilação fracionada; CCl₄ .` },
-      { id: 'C', type: 'text', value: `cristalização; HCCl₃ .` },
-      { id: 'D', type: 'text', value: `destilação fracionada; H2CCl₂ .` },
-      { id: 'E', type: 'text', value: `decantação; CCl₄ .` },
+      { id: 'A', type: 'text', value: `decantação; H₃CCl.` },
+      { id: 'B', type: 'text', value: `destilação fracionada; CCl₄.` },
+      { id: 'C', type: 'text', value: `cristalização; HCCl₃.` },
+      { id: 'D', type: 'text', value: `destilação fracionada; H₂CCl₂.` },
+      { id: 'E', type: 'text', value: `decantação; CCl₄.` },
     ],
     correct: 'D',
     explanation: `A 25 °C, H₃CCl está gasoso, enquanto H₂CCl₂, HCCl₃ e CCl₄ formam a fase líquida. Líquidos miscíveis com diferentes temperaturas de ebulição são separados por destilação fracionada; H₂CCl₂, de menor ebulição, sai primeiro. Logo, D.`,
@@ -1940,7 +1940,7 @@ inca.
 IV. A pintura revela o resgate de elementos históricos
 importante para a construção do ideário nacionalista no
 século XIX, no processo pós independência e de formação
-do Estado nacional peruano , mas retrata os personagens
+do Estado nacional peruano, mas retrata os personagens
 indígenas com trajes e feições europeus.
 
 Estão corretas apenas as afirmações`,

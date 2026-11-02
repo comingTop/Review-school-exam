@@ -288,7 +288,7 @@ Considerando um referencial no qual as moléculas neutras
 encontram‐se paradas antes e após a colisão, a alternativa
 que melhor representa o arranjo de íons e moléculas instantes
 antes e instantes depois de uma colisão que leva à reação
-F − + H3CCl → CH3F + Cl −
+F⁻ + H₃CCl → CH₃F + Cl⁻
 é
 
 Note e adote: Massas atômicas: H = 1 u.m.a., C = 12 u.m.a., F = 19 u.m.a. e Cl = 35 u.m.a. Considere que apenas o isótopo de cloro Cl = 35 u.m.a. participa da reação.`,
@@ -314,7 +314,7 @@ Note e adote: Massas atômicas: H = 1 u.m.a., C = 12 u.m.a., F = 19 u.m.a. e Cl 
 cria um hematoma que, ao longo do tempo, muda de cor.
 Inicialmente, o hematoma torna‐se avermelhado pelo
 acúmulo de hemoglobina. Em seguida, surge uma coloração
-azulada, decorrente da perda do O2 ligado ao Fe do grupo
+azulada, decorrente da perda do O₂ ligado ao Fe do grupo
 heme. Essa coloração torna‐se, então, esverdeada
 (biliverdina) e, após isso, surge um tom amarelado na pele
 (bilirrubina). Essa sequência de cores ocorre pela
@@ -328,7 +328,7 @@ afirmar:`,
       { id: 'A', type: 'text', value: `A conversão da biliverdina em bilirrubina ocorre por meio
 de uma redução.` },
       { id: 'B', type: 'text', value: `A biliverdina, assim como a hemoglobina, é capaz de
-transportar O2 para as células do corpo, pois há oxigênio
+transportar O₂ para as células do corpo, pois há oxigênio
 ligado na molécula.` },
       { id: 'C', type: 'text', value: `As três estruturas apresentadas contêm o grupo funcional
 amida.` },
@@ -2588,9 +2588,9 @@ Note e adote: Constante gravitacional G ≈ 9 × 10⁻¹³ km³/(kg·h²); raio 
     text: `Em 20 de maio de 2019, as unidades de base do Sistema
 Internacional de Unidades (SI) passaram a ser definidas a partir de
 valores exatos de algumas constantes físicas. Entre elas, está a
-constante de Planck h , que relaciona a energia E de um fóton
+constante de Planck h, que relaciona a energia E de um fóton
 (quantum de radiação eletromagnética) com a sua frequência f na
-forma E = hf .
+forma E = hf.
 
 A unidade da constante de Planck em termos das unidades de base
 do SI (quilograma, metro e segundo) é:`,
@@ -2616,8 +2616,8 @@ do SI (quilograma, metro e segundo) é:`,
 ondas eletromagnéticas está sujeita a perdas que aumentam
 com a distância d entre a antena transmissora e a antena
 receptora. Uma aproximação frequentemente usada para
-expressar a perda L , em decibéis (dB), do sinal em função de
-d , no espaço livre de obstáculos, é dada pela expressão
+expressar a perda L, em decibéis (dB), do sinal em função de
+d, no espaço livre de obstáculos, é dada pela expressão
 L = 20 log₁₀(4πd/λ),
 em que λ é o comprimento de onda do sinal. O gráfico a seguir
 mostra L (em dB) versus d (em metros) para um determinado
@@ -2806,7 +2806,7 @@ indique o valor mais próximo do tamanho do pixel.`,
     year: 2020,
     phase: 1,
     text: `Um solenoide muito longo é percorrido por uma corrente
-elétrica I , conforme mostra a figura 1.
+elétrica I, conforme mostra a figura 1.
 
 Figura 1
 

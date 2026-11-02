@@ -947,7 +947,7 @@ Esse tipo de reflexão ocorre quando um raio luminoso viaja do
 interior de um meio 1, com índice de refração n₁, em direção
 a um meio 2, com índice de refração n₂, formando com a
 direção perpendicular à interface entre os meios um ângulo θ
-maior do que um certo valor limite θL , tal que sen θL = n₂/n₁.
+maior do que um certo valor limite θL, tal que sen θL = n₂/n₁.
 Quando um objeto (como um dedo) se aproxima da interface
 entre os meios, a reflexão total não ocorre, o que é captado
 por sensores, revelando a posição do objeto. Suponha que se
@@ -2281,7 +2281,7 @@ onda.
 Como exemplo, pode-se considerar a equação referente ao
 processo de modulação de uma onda AM:
 
-s(t)=A [1 +k m(t)]cos (2π f t) ,
+s(t)=A [1 +k m(t)]cos (2π f t),
 
 em que A é a amplitude, f a frequência, k a constante da
 sensibilidade à amplitude e m(t) o sinal que contém a
@@ -2681,7 +2681,7 @@ pois a combustão completa de 1 mol de CH₄ emite mais
 CO₂ do que o que é utilizado para a sua síntese.` },
       { id: 'D', type: 'text', value: `A retirada de CO₂ da atmosfera seria maior se a proposta
 de usar uma matriz energética limpa se resumisse
-unicamente em utilizar o H2 como combustível.` },
+unicamente em utilizar o H₂ como combustível.` },
       { id: 'E', type: 'text', value: `Em relação ao ciclo do carbono, a proposta é semelhante
 ao uso do etanol como combustível veicular.` },
     ],
@@ -3025,7 +3025,7 @@ distintas do anel aromático, como representado na equação
 não balanceada a seguir.
 
 Em um experimento, 1 L de uma solução de sulfanilamida de
-pH 5 reagiu com Br2 em excesso, obtendo-se pH 4 após reação
+pH 5 reagiu com Br₂ em excesso, obtendo-se pH 4 após reação
 total. Considerando que o volume se manteve inalterado após
 a adição do halogênio, quantos mols de sulfanilamida
 reagiram com bromo?`,

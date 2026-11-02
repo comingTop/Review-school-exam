@@ -526,7 +526,7 @@ desmatamento e queimadas.` },
     text: `O Sistema Aquífero Guarani abrange parte dos territórios da
 Argentina, do Brasil, do Paraguai e do Uruguai. Possui um
 volume acumulado de 37.000 km³ e área estimada de
-1.087.000 km² . Na parte brasileira estende-se por oito
+1.087.000 km². Na parte brasileira estende-se por oito
 Estados: Goiás, Mato Grosso, Mato Grosso do Sul, Minas
 Gerais, Paraná, Rio Grande do Sul, Santa Catarina e São Paulo.
 Disponível em https://www.mma.gov.br/.
@@ -583,15 +583,15 @@ Disponível em https://www.climadeensinar.com.br/. Adaptado.
 A dificuldade de instalação da estação na altitude citada deve-se`,
     images: [],
     alternatives: [
-      { id: 'A', type: 'text', value: `Às elevadas condições de umidade provenientes do
+      { id: 'A', type: 'text', value: `às elevadas condições de umidade provenientes do
 derretimento de neve.` },
-      { id: 'B', type: 'text', value: `À ocorrência de chuvas intensas, que aumentam os riscos
+      { id: 'B', type: 'text', value: `à ocorrência de chuvas intensas, que aumentam os riscos
 de avalanches.` },
-      { id: 'C', type: 'text', value: `Às temperaturas reduzidas e à baixa concentração de
+      { id: 'C', type: 'text', value: `às temperaturas reduzidas e à baixa concentração de
 oxigênio nessa altitude.` },
       { id: 'D', type: 'text', value: `aos dias mais curtos nessa altitude, o que reduz o brilho
 solar.` },
-      { id: 'E', type: 'text', value: `À elevada pressão atmosférica, que produz ventos
+      { id: 'E', type: 'text', value: `à elevada pressão atmosférica, que produz ventos
 intensos nessa altitude.` },
     ],
     correct: 'C',

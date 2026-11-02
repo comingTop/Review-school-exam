@@ -2614,8 +2614,8 @@ produção de ozônio a partir de oxigênio, e a reação III mostra a
 restauração de oxigênio a partir de ozônio.
 
 Reação ΔH (kcal/mol de O₂)
-I O₂ → 2 O . −118
-II 2 O₂ + 2 O . → 2 O₃ ΔHII
+I O₂ → 2 O· −118
+II 2 O₂ + 2 O· → 2 O₃ ΔHII
 III 2 O₃→ 3 O₂ +21
 
 A reação global balanceada, composta pelas etapas I e II, que
@@ -2645,8 +2645,8 @@ produção de ozônio a partir de oxigênio, e a reação III mostra a
 restauração de oxigênio a partir de ozônio.
 
 Reação ΔH (kcal/mol de O₂)
-I O₂ → 2 O . −118
-II 2 O₂ + 2 O . → 2 O₃ ΔHII
+I O₂ → 2 O· −118
+II 2 O₂ + 2 O· → 2 O₃ ΔHII
 III 2 O₃→ 3 O₂ +21
 
 O ΔHII, relacionado à reação II, pode ser calculado a partir dos
