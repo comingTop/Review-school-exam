@@ -3648,7 +3648,7 @@ O menor número da forma n# que é maior que 2000 é:`,
     explanation: `Os produtos sucessivos são 2 × 3 × 5 × 7 = 210 e 2 × 3 × 5 × 7 × 11 = 2310. O primeiro primorial acima de 2000 é, portanto, 2310.`,
     subject: ['mat'],
     topics: [
-      "Aritmética e números",
+      "Análise combinatória",
       "Questões aleatórias"
     ]
   },
