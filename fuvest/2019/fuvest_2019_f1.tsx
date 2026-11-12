@@ -1830,7 +1830,7 @@ uma da outra, a área total dessa lona seria de`,
     correct: 'A',
     explanation: `Aplicando a exponenciação de base 2, y=2⁻¹/²×2^[(2/3)log₂x]=x²/³/√2=∛(x²)/√2. A expressão está em A.`,
     subject: ['mat'],
-    topics: ['Logaritmos', 'Funções exponenciais', 'Questões aleatórias'],
+    topics: ['Funções', 'Questões aleatórias'],
   },
   {
     id: 54,

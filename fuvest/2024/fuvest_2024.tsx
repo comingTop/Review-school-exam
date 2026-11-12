@@ -4633,7 +4633,6 @@ comércio do Mediterrâneo com o interior da África.`
     subject: ["his"],
     topics: [
       "História Geral",
-      "Geopolítica",
       "Questões aleatórias"
     ]
   },
