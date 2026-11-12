@@ -1,109 +1,19 @@
 {
-  "_comment": "Vocabulário canônico de tópicos da FUVEST 1ª fase. Os tópicos DEVEM ser os mesmos em todos os anos (Estudo por matéria / Questões que mais caem). Toda questão recebe 1 matéria (subject) + 1 tópico específico desta lista + a tag base 'Questões aleatórias'. Itens marcados NOVO ainda não existiam e precisam de aval do cliente.",
+  "_comment": "Taxonomia OFICIAL de matérias e tópicos da FUVEST, definida pelo cliente (Marcos) — 'tem que ser assim'. Toda questão recebe 1 matéria (subject) + 1 tópico desta lista (+ a tag base 'Questões aleatórias'). Tópicos listados em ordem de maior incidência histórica. CÓDIGOS (subject) ABAIXO SÃO PROPOSTOS E PRECISAM DE CONFIRMAÇÃO DO CLIENTE/APP.",
   "subjects": {
-    "mat": {
-      "nome": "Matemática",
-      "topicos": [
-        "Funções",
-        "Geometria",
-        "Trigonometria",
-        "Análise combinatória",
-        "Probabilidade",
-        "Estatística"
-      ],
-      "notas": "Logaritmos e exponenciais entram em 'Funções'. Números/primos/aritmética entram em 'Análise combinatória' (decisão do cliente)."
-    },
-    "fis": {
-      "nome": "Física",
-      "topicos": [
-        "Cinemática",
-        "Leis de Newton e dinâmica",
-        "Trabalho, energia e potência",
-        "Termologia",
-        "Óptica",
-        "Ondulatória",
-        "Eletricidade",
-        "Física moderna"
-      ],
-      "notas": "NOVO: 'Física moderna' (efeito Compton, fóton, buraco negro, relatividade) — hoje caem em Ondulatória por falta de tópico."
-    },
-    "qui": {
-      "nome": "Química",
-      "topicos": [
-        "Química Geral",
-        "Físico-química",
-        "Química Orgânica",
-        "Eletroquímica"
-      ],
-      "notas": "Modelos atômicos/atomística → 'Química Geral'. Pilhas e baterias → 'Eletroquímica'."
-    },
-    "bio": {
-      "nome": "Biologia",
-      "topicos": [
-        "Citologia",
-        "Fisiologia humana",
-        "Genética",
-        "Evolução",
-        "Ecologia",
-        "Botânica",
-        "Zoologia",
-        "Biotecnologia"
-      ],
-      "notas": "ORFÃO a confirmar: 'Zoologia' (ex.: invertebrados) aparece só em 2025. Especiação/isolamento de populações → 'Evolução'."
-    },
-    "por": {
-      "nome": "Português",
-      "topicos": [
-        "Interpretação de texto",
-        "Gramática",
-        "Literatura brasileira",
-        "Literatura portuguesa",
-        "Escolas literárias",
-        "Análise de obras"
-      ],
-      "notas": "As questões de Literatura ficam na matéria 'por' (não 'lit')."
-    },
-    "ing": {
-      "nome": "Inglês",
-      "topicos": [
-        "Interpretação de texto",
-        "Vocabulário"
-      ],
-      "notas": "Textos em inglês = matéria 'ing' mesmo quando o conteúdo é de outra área."
-    },
-    "his": {
-      "nome": "História",
-      "topicos": [
-        "História Geral",
-        "Brasil Colônia",
-        "Brasil Império",
-        "Brasil República"
-      ],
-      "notas": "'Geopolítica' é tópico de Geografia; não usar em História."
-    },
-    "geo": {
-      "nome": "Geografia",
-      "topicos": [
-        "Geografia física",
-        "Geopolítica",
-        "Cartografia",
-        "Meio ambiente",
-        "Urbanização"
-      ],
-      "notas": ""
-    },
-    "fil": {
-      "nome": "Filosofia e Sociologia",
-      "topicos": [
-        "Filosofia Antiga",
-        "Filosofia Moderna",
-        "Teoria do conhecimento",
-        "Lógica",
-        "Política",
-        "Sociologia",
-        "Direitos humanos"
-      ],
-      "notas": "NOVO: 'Lógica' (falácias/argumentação). ORFÃOS a confirmar/consolidar: 'Ética' (2017), 'Cidadania' (2019), 'Movimentos sociais' (2025) — mapear para Política/Direitos humanos/Sociologia ou manter?"
-    }
-  }
+    "mat": { "nome": "Matemática", "topicos": ["Geometria plana","Funções","Geometria analítica","Geometria espacial","Equações","Estatística","Proporcionalidade","Probabilidade","Trigonometria"] },
+    "fis": { "nome": "Física", "topicos": ["Trabalho e energia","Lançamentos","Calorimetria","Forças e movimento","Colisões","Impulso e quantidade de movimento","Reflexão e refração","Termodinâmica","Circuitos elétricos","Eletrodinâmica","Movimento uniforme","Óptica"] },
+    "qui": { "nome": "Química", "topicos": ["Estrutura atômica","Reações orgânicas","Cinética química","Ligações químicas","pH e pOH","Funções orgânicas","Reações químicas","Termoquímica","Propriedades dos elementos","Entalpia","Equilíbrio químico","Eletroquímica"] },
+    "bio": { "nome": "Biologia", "topicos": ["DNA e genética molecular","Herança ligada aos cromossomos sexuais","Bioquímica","Biologia celular","Ecologia e desequilíbrios ambientais","Virologia","Botânica — angiospermas","Genética mendeliana","Ciclo celular","Evolução e filogenética"] },
+    "his": { "nome": "História", "topicos": ["Brasil Colonial","América Espanhola Colonial","Antiguidade Clássica","América Latina no século XX","História da América","Primeira República","Revolução Industrial","Ditaduras militares latino-americanas","Renascimento","Ditadura Militar brasileira"] },
+    "geo": { "nome": "Geografia", "topicos": ["Cartografia e interpretação de mapas","Agropecuária","Urbanização","Hidrografia","Climatologia","Globalização","Geografia regional","Paisagens geográficas","Fontes de energia","Geografia da saúde","Problemas ambientais"] },
+    "por": { "nome": "Língua Portuguesa", "topicos": ["Competência leitora","Apreensão de sentido","Gêneros textuais","Reconhecimento e interpretação","Literatura brasileira","Interpretação textual","Literatura contemporânea","Competência linguística","Sintaxe","Morfologia"] },
+    "lit": { "nome": "Literatura", "topicos": ["Interpretação das obras obrigatórias","Literatura brasileira","Literatura contemporânea","Modernismo brasileiro","Realismo e Naturalismo","Romantismo","Análise de narradores e personagens","Contexto histórico das obras"] },
+    "ing": { "nome": "Inglês", "topicos": ["Reading comprehension","Habilidades de leitura","Apreensão de sentido","Reconhecimento e interpretação","Significado de palavras e expressões","Substantivos","Vocabulário","Semântica","Pronomes","Pensamento crítico"] },
+    "soc": { "nome": "Sociologia", "topicos": ["Direito, cidadania e movimentos sociais","Identidade e diversidade","Meios de comunicação","Violência","Cultura e sociedade","Trabalho e sociedade","Desenvolvimento sustentável","Cultura e arte","Ideologia","Modernidade e sociedade"] },
+    "fil": { "nome": "Filosofia", "topicos": ["Filosofia medieval","Filosofia contemporânea","Filosofia moderna","Iluminismo","Metafísica","Platão","Pensamento filosófico","Teoria do conhecimento","Racionalismo e método científico"] },
+    "art": { "nome": "Artes", "topicos": ["Artes integradas e sociedade","Arte contemporânea","Modernismo brasileiro","Vanguardas europeias","História da arte","Interpretação de obras artísticas"] },
+    "edf": { "nome": "Educação Física", "topicos": ["Dança e manifestações culturais","História das práticas corporais","Cultura corporal","Esporte e sociedade","Saúde e qualidade de vida","Jogos, lutas e ginásticas"] }
+  },
+  "_codes_pendentes": "Códigos novos a confirmar com o cliente/app: lit (Literatura), soc (Sociologia), art (Artes), edf (Educação Física). IMPORTANTE: antes a matéria 'lit' ficava ESCONDIDA no Estudo por matéria — confirmar que agora o app exibe lit/soc/art/edf."
 }
