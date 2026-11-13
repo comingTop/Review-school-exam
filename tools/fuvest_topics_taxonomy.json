@@ -139,35 +139,21 @@
         "Pensamento crítico"
       ]
     },
-    "soc": {
-      "nome": "Sociologia",
-      "topicos": [
-        "Direito, cidadania e movimentos sociais",
-        "Identidade e diversidade",
-        "Meios de comunicação",
-        "Violência",
-        "Cultura e sociedade",
-        "Trabalho e sociedade",
-        "Desenvolvimento sustentável",
-        "Cultura e arte",
-        "Ideologia",
-        "Modernidade e sociedade"
-      ]
-    },
     "fil": {
       "nome": "Filosofia",
       "topicos": [
-        "Filosofia medieval",
-        "Filosofia contemporânea",
-        "Filosofia moderna",
-        "Iluminismo",
-        "Metafísica",
-        "Platão",
-        "Pensamento filosófico",
         "Teoria do conhecimento",
-        "Racionalismo e método científico"
-      ]
+        "Filosofia Antiga",
+        "Filosofia Moderna",
+        "Política",
+        "Ética",
+        "Sociologia",
+        "Movimentos sociais",
+        "Direitos humanos",
+        "Cidadania"
+      ],
+      "notas": "Cliente: Sociologia NÃO é matéria separada — filosofia e sociologia ficam todas em 'fil'."
     }
   },
-  "_codes": "Matérias (subject): mat,fis,qui,bio,his,geo,por,lit,ing,soc,fil. PENDENTE confirmar com o cliente/app que lit e soc aparecem no Estudo por matéria (antes 'lit' ficava escondido)."
+  "_codes": "Matérias (subject): mat,fis,qui,bio,his,geo,por,lit,ing,fil. (Sem soc — unificado em fil. Sem art/edf.) PENDENTE confirmar que o app exibe 'lit' no Estudo por matéria."
 }
