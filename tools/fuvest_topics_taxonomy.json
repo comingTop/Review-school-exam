@@ -155,5 +155,6 @@
       "notas": "Cliente: Sociologia NÃO é matéria separada — filosofia e sociologia ficam todas em 'fil'."
     }
   },
-  "_codes": "Matérias (subject): mat,fis,qui,bio,his,geo,por,lit,ing,fil. (Sem soc — unificado em fil. Sem art/edf.) PENDENTE confirmar que o app exibe 'lit' no Estudo por matéria."
+  "_codes": "Matérias (subject): mat,fis,qui,bio,his,geo,por,lit,ing,fil (10). lit CONFIRMADO como matéria separada pelo cliente. Sem soc (unido a fil), sem art/edf.",
+  "_rule_multi_subject": "Cliente: Português (por) e Literatura (lit) são matérias SEPARADAS. Se uma questão serve para as duas, marcar AMBAS (subject pode ter 2 códigos, ex.: ['por','lit']). Tópicos que servem às duas matérias podem constar nas duas listas (ex.: 'Literatura brasileira')."
 }
